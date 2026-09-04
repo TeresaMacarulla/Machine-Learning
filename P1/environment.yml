@@ -1,0 +1,16 @@
+name: fysstk3155-p1
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - jupyterlab
+  - ipykernel
+  - pip
+  - pip:
+      - jax
+      - jaxlib
