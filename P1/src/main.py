@@ -35,7 +35,7 @@ def main():
 
     # Values chosen to study the effect of sample size and noise.
     n_values = [25, 100, 200]
-    sigma_values = [0.0, 0.05, 0.1, 0.2, 0.4]
+    sigma_values = [0.05, 0.1, 0.2, 0.3]
 
 
     # ============================================================
@@ -65,7 +65,7 @@ def main():
     theta_by_degree = []
 
     # Save fitted-function plots only for a few representative degrees.
-    representative_degrees = [2, 5, 10, 15]
+    representative_degrees = [2, 5, 10, 13, 14, 15]
 
     for degree in degrees:
         result = fit_and_evaluate_ols(
