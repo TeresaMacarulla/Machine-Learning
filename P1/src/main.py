@@ -5,8 +5,12 @@ from pathlib import Path
 
 from utilities import (
     artificial_data,
-    fit_and_evaluate_ols,
-    plot_ols_fit,
+    design_matrix,
+    fit_feature_scaler,
+    scale_design_matrix,
+    fit_and_evaluate,
+    plot_fits,
+    plot_ridge_results,
 )
 
 
@@ -26,7 +30,7 @@ def main():
     seed = 2026
     test_size = 0.20
 
-    # Polynomial degrees required for the main Part a) study.
+    # Polynomial degrees required for the main Part a) and Part b) study.
     degrees = np.arange(1, 16)
 
     # Baseline values suggested by the project description.
@@ -37,9 +41,8 @@ def main():
     n_values = [25, 100, 200]
     sigma_values = [0.05, 0.1, 0.2, 0.3]
 
-
     # ============================================================
-    # STUDY 1: Polynomial degree
+    # STUDY 1 OLS: Polynomial degree
     # Keep n and sigma fixed.
     # ============================================================
 
@@ -65,15 +68,17 @@ def main():
     theta_by_degree = []
 
     # Save fitted-function plots only for a few representative degrees.
-    representative_degrees = [2, 5, 10, 13, 14, 15]
+    representative_degrees = [2, 5, 10, 15]
+    ols_representative_fits = {}
 
     for degree in degrees:
-        result = fit_and_evaluate_ols(
+        result = fit_and_evaluate(
             x_train=x_train,
             x_test=x_test,
             y_train=y_train,
             y_test=y_test,
             degree=degree,
+            method="ols"
         )
 
         mse_train_degree.append(result["mse_train"])
@@ -84,18 +89,17 @@ def main():
 
         # A few representative fitted curves are useful for the report.
         if degree in representative_degrees:
-            fig, _ = plot_ols_fit(
-                x=x,
-                y=y,
-                degree=degree,
-                theta=result["theta"],
-                feature_means=result["feature_means"],
-                feature_stds=result["feature_stds"],
-                n_plot_points=500,
-                save_path=PLOTS_DIR
-                / f"OLS_baseline_n{baseline_n}_sig{baseline_sigma}_deg{degree}.pdf",
-            )
-            plt.close(fig)
+            ols_representative_fits[degree] = result
+
+    fig, _ = plot_fits(
+    x=x,
+    y=y,
+    fit_results=ols_representative_fits,
+    n_plot_points=500,
+    save_path=PLOTS_DIR / "OLS_representative_fits.pdf",
+    method="OLS",
+    )
+    plt.close(fig)
 
     mse_train_degree = np.asarray(mse_train_degree)
     mse_test_degree = np.asarray(mse_test_degree)
@@ -198,7 +202,7 @@ def main():
 
 
     # ============================================================
-    # STUDY 2: Number of data points n
+    # STUDY 2 OLS: Number of data points n
     # Keep sigma fixed and repeat the degree sweep.
     # ============================================================
 
@@ -224,12 +228,13 @@ def main():
 
         # Use the same data and split for every degree at this n.
         for degree in degrees:
-            result = fit_and_evaluate_ols(
+            result = fit_and_evaluate(
                 x_train=x_train_n,
                 x_test=x_test_n,
                 y_train=y_train_n,
                 y_test=y_test_n,
                 degree=degree,
+                method="ols"
             )
 
             mse_curve.append(result["mse_test"])
@@ -300,7 +305,7 @@ def main():
 
 
     # ============================================================
-    # STUDY 3: Noise level sigma
+    # STUDY 3 OLS: Noise level sigma
     # Keep n fixed and repeat the degree sweep.
     # ============================================================
 
@@ -333,12 +338,13 @@ def main():
         r2_curve = []
 
         for degree in degrees:
-            result = fit_and_evaluate_ols(
+            result = fit_and_evaluate(
                 x_train=x_train_sigma,
                 x_test=x_test_sigma,
                 y_train=y_train_sigma,
                 y_test=y_test_sigma,
                 degree=degree,
+                method="ols"
             )
 
             mse_curve.append(result["mse_test"])
@@ -409,12 +415,12 @@ def main():
 
 
     # ============================================================
-    # Print a compact numerical summary
+    # Print a compact numerical summary for OLS
     # ============================================================
 
     best_degree_baseline = degrees[np.argmin(mse_test_degree)]
 
-    print("Baseline study")
+    print("Baseline study OLS")
     print("--------------")
     print(f"n = {baseline_n}")
     print(f"sigma = {baseline_sigma}")
@@ -425,7 +431,7 @@ def main():
     )
     print()
 
-    print("Sample-size study")
+    print("Sample-size study OLS")
     print("-----------------")
     for n in n_values:
         best_degree = degrees[np.argmin(mse_test_by_n[n])]
@@ -435,7 +441,7 @@ def main():
         )
     print()
 
-    print("Noise study")
+    print("Noise study OLS")
     print("-----------")
     for sigma in sigma_values:
         best_degree = degrees[np.argmin(mse_test_by_sigma[sigma])]
@@ -444,6 +450,183 @@ def main():
             f"test MSE={np.min(mse_test_by_sigma[sigma]):.6f}"
         )
 
+
+    # ============================================================
+    # PART B: Ridge regression
+    # ============================================================
+
+    ridge_lambdas = np.logspace(-6, 0, 7)
+    representative_lmbdas = ridge_lambdas[[0, 3, 6]]
+    ridge_representative_fits = {
+        lmbda: {} for lmbda in representative_lmbdas
+    }
+
+    ridge_results = {}
+    ridge_theta_by_degree = {}
+
+    for lmbda in ridge_lambdas:
+
+        mse_train = []
+        mse_test = []
+        r2_train = []
+        r2_test = []
+        theta_list = []
+
+        for degree in degrees:
+
+            result = fit_and_evaluate(
+                x_train=x_train,
+                x_test=x_test,
+                y_train=y_train,
+                y_test=y_test,
+                degree=degree,
+                method="ridge",
+                lmbda=lmbda,
+            )
+
+            mse_train.append(result["mse_train"])
+            mse_test.append(result["mse_test"])
+            r2_train.append(result["r2_train"])
+            r2_test.append(result["r2_test"])
+            theta_list.append(result["theta"])
+
+            if (
+                degree in representative_degrees
+                and lmbda in representative_lmbdas
+            ):
+                ridge_representative_fits[lmbda][degree] = result
+
+        ridge_results[lmbda] = {
+            "mse_train": np.asarray(mse_train),
+            "mse_test": np.asarray(mse_test),
+            "r2_train": np.asarray(r2_train),
+            "r2_test": np.asarray(r2_test),
+        }
+
+        ridge_theta_by_degree[lmbda] = theta_list
+
+    for lmbda in representative_lmbdas:
+
+        fig, _ = plot_fits(
+            x=x,
+            y=y,
+            fit_results=ridge_representative_fits[lmbda],
+            n_plot_points=500,
+            save_path=PLOTS_DIR
+            / f"Ridge_representative_fits_lambda{lmbda:.0e}.pdf",
+            method="Ridge",
+            lmbda=lmbda,
+        )
+
+        plt.close(fig)
+
+    # ------------------------------------------------------------
+    # Main Ridge result plots
+    # ------------------------------------------------------------
+
+    plot_ridge_results(
+        degrees=degrees,
+        ridge_lambdas=ridge_lambdas,
+        ridge_results=ridge_results,
+        mse_test_ols=mse_test_degree,
+        r2_test_ols=r2_test_degree,
+        theta_ols_by_degree=theta_by_degree,
+        theta_ridge_by_degree=ridge_theta_by_degree,
+        comparison_degree=15,
+        baseline_n=baseline_n,
+        baseline_sigma=baseline_sigma,
+        save_dir=PLOTS_DIR,
+    )
+
+    # ------------------------------------------------------------
+    # Ridge shrinkage factors from singular values
+    # ------------------------------------------------------------
+
+    shrinkage_degree = 15
+
+    X_train_shrink = design_matrix(
+        x_train,
+        shrinkage_degree,
+    )
+
+    feature_means, feature_stds = fit_feature_scaler(
+        X_train_shrink
+    )
+
+    X_train_shrink = scale_design_matrix(
+        X_train_shrink,
+        feature_means,
+        feature_stds,
+    )
+
+    # Exclude the intercept because it is not regularized.
+    X_features = X_train_shrink[:, 1:]
+
+    singular_values = np.linalg.svd(
+        X_features,
+        compute_uv=False,
+    )
+
+    n_train = len(y_train)
+
+    fig, ax = plt.subplots(figsize=(8, 5))
+
+    for lmbda in ridge_lambdas:
+
+        shrinkage = (
+            singular_values**2
+            / (singular_values**2 + n_train * lmbda)
+        )
+
+        ax.plot(
+            singular_values,
+            shrinkage,
+            marker="o",
+            label=rf"$\lambda={lmbda:.0e}$",
+        )
+
+    ax.set_xscale("log")
+    ax.set_xlabel(r"Singular value $\sigma_i$")
+    ax.set_ylabel(
+        r"Shrinkage factor "
+        r"$\sigma_i^2/(\sigma_i^2+n\lambda)$"
+    )
+    ax.set_title(
+        rf"Ridge singular-value shrinkage "
+        rf"(degree {shrinkage_degree})"
+    )
+    ax.legend(fontsize=9)
+    ax.grid(alpha=0.3)
+    fig.tight_layout()
+
+    fig.savefig(
+        PLOTS_DIR / "Ridge_shrinkage_factors.pdf",
+        bbox_inches="tight",
+    )
+
+    plt.close(fig)
+
+    # ============================================================
+    # Print a compact numerical summary for Ridge
+    # ============================================================
+
+    print()
+    print("Ridge study")
+    print("-----------")
+
+    for lmbda in ridge_lambdas:
+
+        mse_curve = ridge_results[lmbda]["mse_test"]
+
+        best_index = np.argmin(mse_curve)
+        best_degree = degrees[best_index]
+
+        print(
+            f"lambda={lmbda:.0e}: "
+            f"best degree={best_degree:2d}, "
+            f"test MSE={mse_curve[best_index]:.6f}, "
+            f"R2={ridge_results[lmbda]['r2_test'][best_index]:.6f}"
+        )
 
 if __name__ == "__main__":
     main()

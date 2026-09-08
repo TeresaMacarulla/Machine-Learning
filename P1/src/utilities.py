@@ -49,6 +49,27 @@ def fit_ols(X, y):
     """Fit OLS with the Moore-Penrose pseudoinverse."""
     return np.linalg.pinv(X) @ y
 
+def fit_ridge(X, y, lmbda):
+    """
+    Fit Ridge regression using the normalized cost
+        (1/n) ||y - X theta||^2 + lambda ||theta||^2.
+    The intercept theta_0 is not penalized.
+    """
+    if lmbda < 0:
+        raise ValueError("lambda must be non-negative.")
+    if lmbda == 0:
+        return fit_ols(X, y)
+    n, p = X.shape
+
+    # Do not penalize the intercept.
+    penalty = np.eye(p)
+    penalty[0, 0] = 0.0
+
+    return np.linalg.solve(
+        X.T @ X + n * lmbda * penalty,
+        X.T @ y,
+    )
+
 def predict(X, theta):
     """Return model predictions X @ theta."""
     return X @ theta
@@ -72,76 +93,103 @@ def r2_score(y_true, y_pred):
 
     return 1.0 - numerator / denominator
 
-def plot_ols_fit(
+def plot_fits(
     x,
     y,
-    degree,
-    theta,
-    feature_means,
-    feature_stds,
+    fit_results,
     n_plot_points=500,
     save_path=None,
+    method="OLS",
+    lmbda=None,
 ):
-    """Plot the exact Runge function, noisy data, and fitted OLS polynomial."""
+    """
+    Plot Runge's function, the generated data, and several
+    polynomial approximations in the same figure.
+
+    fit_results must be a dictionary of the form
+        degree: result
+
+    where result is the dictionary returned by fit_and_evaluate().
+    """
     x_plot = np.linspace(-1.0, 1.0, n_plot_points)
     f_plot = runge(x_plot)
 
-    X_plot = design_matrix(x_plot, degree)
-    X_plot_scaled = scale_design_matrix(
-        X_plot, feature_means, feature_stds
-    )
-    y_plot_pred = predict(X_plot_scaled, theta)
+    fig, ax = plt.subplots(figsize=(9, 6))
 
-    fig, ax = plt.subplots(figsize=(8, 5))
-
-    ax.plot(x_plot, f_plot, label="Exact Runge function")
-    ax.scatter(x, y, s=20, alpha=0.6, label="Generated data")
     ax.plot(
         x_plot,
-        y_plot_pred,
-        label=f"OLS polynomial, degree {degree}",
+        f_plot,
+        linewidth=2,
+        label="Exact Runge function",
     )
+
+    ax.scatter(
+        x,
+        y,
+        s=20,
+        alpha=0.5,
+        label="Generated data",
+    )
+
+    for degree, result in sorted(fit_results.items()):
+
+        X_plot = design_matrix(x_plot, degree)
+
+        X_plot_scaled = scale_design_matrix(
+            X_plot,
+            result["feature_means"],
+            result["feature_stds"],
+        )
+
+        y_plot_pred = predict(
+            X_plot_scaled,
+            result["theta"],
+        )
+
+        ax.plot(
+            x_plot,
+            y_plot_pred,
+            linestyle="--",
+            label=rf"$d={degree}$",
+        )
 
     ax.set_xlabel("x")
     ax.set_ylabel("y")
-    ax.set_title("OLS approximation of Runge's function")
-    ax.legend()
+
+    if method.lower() == "ridge" and lmbda is not None:
+        ax.set_title(
+            rf"Ridge approximation of Runge's function "
+            rf"($\lambda={lmbda:.0e}$)"
+        )
+    else:
+        ax.set_title(
+            f"{method} approximation of Runge's function"
+        )
+
+    ax.legend(fontsize=10)
     ax.grid(alpha=0.3)
     fig.tight_layout()
 
     if save_path is not None:
-        fig.savefig(save_path, dpi=300, bbox_inches="tight")
+        fig.savefig(
+            save_path,
+            dpi=300,
+            bbox_inches="tight",
+        )
 
     return fig, ax
 
-def fit_and_evaluate_ols(
+def fit_and_evaluate(
     x_train,
     x_test,
     y_train,
     y_test,
     degree,
+    method="ols",
+    lmbda=0.0,
 ):
     """
-    Fit and evaluate one polynomial OLS model.
-
-    The polynomial design matrices are constructed for the requested degree.
-    Scaling parameters are computed only from the training design matrix and
-    then applied unchanged to both the training and test matrices.
-
-    Parameters
-    ----------
-    x_train, x_test : array-like
-        Training and test input values.
-    y_train, y_test : array-like
-        Training and test target values.
-    degree : int
-        Polynomial degree.
-
-    Returns
-    -------
-    result : dict
-        Dictionary containing theta, scaling parameters, predictions,
-        and training/test MSE and R^2 scores.
+    Fit and evaluate one polynomial OLS or Ridge model.
     """
     X_train = design_matrix(x_train, degree)
     X_test = design_matrix(x_test, degree)
@@ -159,7 +207,18 @@ def fit_and_evaluate_ols(
         feature_stds,
     )
 
-    theta = fit_ols(X_train_scaled, y_train)
+    if method == "ols":
+        theta = fit_ols(X_train_scaled, y_train)
+
+    elif method == "ridge":
+        theta = fit_ridge(
+            X_train_scaled,
+            y_train,
+            lmbda,
+        )
+
+    else:
+        raise ValueError("method must be 'ols' or 'ridge'.")
 
     y_train_pred = predict(X_train_scaled, theta)
     y_test_pred = predict(X_test_scaled, theta)
@@ -175,3 +234,192 @@ def fit_and_evaluate_ols(
         "r2_train": r2_score(y_train, y_train_pred),
         "r2_test": r2_score(y_test, y_test_pred),
     }
+
+def plot_ridge_results(
+    degrees,
+    ridge_lambdas,
+    ridge_results,
+    mse_test_ols,
+    r2_test_ols,
+    theta_ols_by_degree,
+    theta_ridge_by_degree,
+    comparison_degree,
+    baseline_n,
+    baseline_sigma,
+    save_dir,
+):
+    """
+    Generate the main Ridge result figures:
+
+    1. OLS vs Ridge test MSE
+    2. OLS vs Ridge test R^2
+    3. OLS vs Ridge coefficients at one polynomial degree
+    4. Ridge coefficients only at the same degree
+    """
+
+    # Find the index corresponding to comparison_degree.
+    degree_index = np.where(
+        degrees == comparison_degree
+    )[0][0]
+
+    # ============================================================
+    # OLS vs Ridge: test MSE
+    # ============================================================
+
+    fig, ax = plt.subplots(figsize=(9, 6))
+
+    ax.plot(
+        degrees,
+        mse_test_ols,
+        marker="o",
+        linewidth=2,
+        label="OLS",
+    )
+
+    for lmbda in ridge_lambdas:
+        ax.plot(
+            degrees,
+            ridge_results[lmbda]["mse_test"],
+            marker="o",
+            label=rf"Ridge $\lambda={lmbda:.0e}$",
+        )
+
+    ax.set_xlabel("Polynomial degree")
+    ax.set_ylabel("Test MSE")
+    ax.set_title(
+        rf"OLS and Ridge regression "
+        rf"($n={baseline_n}$, $\sigma={baseline_sigma}$)"
+    )
+
+    ax.legend(fontsize=9)
+    ax.grid(alpha=0.3)
+    fig.tight_layout()
+
+    fig.savefig(
+        save_dir / "Ridge_MSE_vs_degree.pdf",
+        bbox_inches="tight",
+    )
+
+    plt.close(fig)
+
+    # ============================================================
+    # OLS vs Ridge: test R^2
+    # ============================================================
+
+    fig, ax = plt.subplots(figsize=(9, 6))
+
+    ax.plot(
+        degrees,
+        r2_test_ols,
+        marker="o",
+        linewidth=2,
+        label="OLS",
+    )
+
+    for lmbda in ridge_lambdas:
+        ax.plot(
+            degrees,
+            ridge_results[lmbda]["r2_test"],
+            marker="o",
+            label=rf"Ridge $\lambda={lmbda:.0e}$",
+        )
+
+    ax.set_xlabel("Polynomial degree")
+    ax.set_ylabel(r"Test $R^2$")
+    ax.set_title(
+        rf"OLS and Ridge regression "
+        rf"($n={baseline_n}$, $\sigma={baseline_sigma}$)"
+    )
+
+    ax.legend(fontsize=9)
+    ax.grid(alpha=0.3)
+    fig.tight_layout()
+
+    fig.savefig(
+        save_dir / "Ridge_R2_vs_degree.pdf",
+        bbox_inches="tight",
+    )
+
+    plt.close(fig)
+
+    # ============================================================
+    # OLS + Ridge coefficient comparison
+    # ============================================================
+
+    ols_theta = theta_ols_by_degree[degree_index]
+
+    fig, ax = plt.subplots(figsize=(9, 6))
+
+    ax.plot(
+        np.arange(1, len(ols_theta)),
+        ols_theta[1:],
+        marker="o",
+        linewidth=2,
+        label="OLS",
+    )
+
+    for lmbda in ridge_lambdas:
+
+        theta = theta_ridge_by_degree[lmbda][degree_index]
+
+        ax.plot(
+            np.arange(1, len(theta)),
+            theta[1:],
+            marker="o",
+            label=rf"Ridge $\lambda={lmbda:.0e}$",
+        )
+
+    ax.set_xlabel(r"Coefficient index $j$")
+    ax.set_ylabel(r"$\theta_j$")
+    ax.set_title(
+        rf"OLS and Ridge coefficients, "
+        rf"degree {comparison_degree}"
+    )
+
+    ax.legend(fontsize=9)
+    ax.grid(alpha=0.3)
+    fig.tight_layout()
+
+    fig.savefig(
+        save_dir
+        / f"Ridge_OLS_coefficients_degree{comparison_degree}.pdf",
+        bbox_inches="tight",
+    )
+
+    plt.close(fig)
+
+    # ============================================================
+    # Ridge coefficients only
+    # ============================================================
+
+    fig, ax = plt.subplots(figsize=(9, 6))
+
+    for lmbda in ridge_lambdas:
+
+        theta = theta_ridge_by_degree[lmbda][degree_index]
+
+        ax.plot(
+            np.arange(1, len(theta)),
+            theta[1:],
+            marker="o",
+            label=rf"$\lambda={lmbda:.0e}$",
+        )
+
+    ax.set_xlabel(r"Coefficient index $j$")
+    ax.set_ylabel(r"$\theta_j$")
+    ax.set_title(
+        rf"Ridge coefficient shrinkage, "
+        rf"degree {comparison_degree}"
+    )
+
+    ax.legend(fontsize=9)
+    ax.grid(alpha=0.3)
+    fig.tight_layout()
+
+    fig.savefig(
+        save_dir
+        / f"Ridge_coefficients_degree{comparison_degree}.pdf",
+        bbox_inches="tight",
+    )
+
+    plt.close(fig)
