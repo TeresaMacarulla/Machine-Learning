@@ -9,10 +9,24 @@ from utilities import (
     fit_feature_scaler,
     scale_design_matrix,
     fit_and_evaluate,
-    plot_fits,
-    plot_ridge_results,
 )
 
+from plot_generator import (
+    plot_fits,
+    plot_ridge_results,
+    plot_OLS_degree_results,
+    plot_OLS_n_results,
+    plot_OLS_sigma_results,
+)
+
+plt.rcParams.update({
+    "font.size": 15,
+    "axes.titlesize": 16,
+    "axes.labelsize": 15,
+    "xtick.labelsize": 15,
+    "ytick.labelsize": 15,
+    "legend.fontsize": 15,
+})
 
 # Path to the root P1 folder
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
@@ -106,56 +120,20 @@ def main():
     r2_train_degree = np.asarray(r2_train_degree)
     r2_test_degree = np.asarray(r2_test_degree)
 
-
     # ------------------------------------------------------------
-    # MSE as a function of polynomial degree
+    # Main Study 1 OLS result plots
     # ------------------------------------------------------------
-    fig, ax = plt.subplots(figsize=(8, 5))
 
-    ax.plot(degrees, mse_train_degree, marker="o", label="Training MSE")
-    ax.plot(degrees, mse_test_degree, marker="o", label="Test MSE")
-
-    ax.set_xlabel("Polynomial degree")
-    ax.set_ylabel("MSE")
-    ax.set_title(
-        rf"OLS: MSE vs polynomial degree "
-        rf"($n={baseline_n}$, $\sigma={baseline_sigma}$)"
+    plot_OLS_degree_results(
+        degrees, 
+        mse_train_degree,
+        mse_test_degree,
+        baseline_n,
+        baseline_sigma,
+        r2_train_degree,
+        r2_test_degree,
+        save_path=PLOTS_DIR,
     )
-    ax.legend()
-    ax.grid(alpha=0.3)
-    fig.tight_layout()
-
-    fig.savefig(
-        PLOTS_DIR / "OLS_MSE_vs_degree.pdf",
-        bbox_inches="tight",
-    )
-    plt.close(fig)
-
-
-    # ------------------------------------------------------------
-    # R^2 as a function of polynomial degree
-    # ------------------------------------------------------------
-    fig, ax = plt.subplots(figsize=(8, 5))
-
-    ax.plot(degrees, r2_train_degree, marker="o", label="Training $R^2$")
-    ax.plot(degrees, r2_test_degree, marker="o", label="Test $R^2$")
-
-    ax.set_xlabel("Polynomial degree")
-    ax.set_ylabel(r"$R^2$")
-    ax.set_title(
-        rf"OLS: $R^2$ vs polynomial degree "
-        rf"($n={baseline_n}$, $\sigma={baseline_sigma}$)"
-    )
-    ax.legend()
-    ax.grid(alpha=0.3)
-    fig.tight_layout()
-
-    fig.savefig(
-        PLOTS_DIR / "OLS_R2_vs_degree.pdf",
-        bbox_inches="tight",
-    )
-    plt.close(fig)
-
 
     # ------------------------------------------------------------
     # OLS parameters theta as polynomial degree increases
@@ -191,7 +169,7 @@ def main():
         rf"($n={baseline_n}$, $\sigma={baseline_sigma}$)"
     )
     ax.grid(alpha=0.3)
-    ax.legend(ncol=2, fontsize=8)
+    ax.legend(ncol=2)
     fig.tight_layout()
 
     fig.savefig(
@@ -243,65 +221,18 @@ def main():
         mse_test_by_n[n] = np.asarray(mse_curve)
         r2_test_by_n[n] = np.asarray(r2_curve)
 
-
     # ------------------------------------------------------------
-    # Test MSE: compare different sample sizes
+    # Main Study 2 OLS result plots
     # ------------------------------------------------------------
-    fig, ax = plt.subplots(figsize=(8, 5))
 
-    for n in n_values:
-        ax.plot(
-            degrees,
-            mse_test_by_n[n],
-            marker="o",
-            label=rf"$n={n}$",
-        )
-
-    ax.set_xlabel("Polynomial degree")
-    ax.set_ylabel("Test MSE")
-    ax.set_title(
-        rf"Effect of sample size on OLS "
-        rf"($\sigma={baseline_sigma}$)"
+    plot_OLS_n_results(
+        n_values,
+        degrees,
+        mse_test_by_n,
+        baseline_sigma,
+        r2_test_by_n,
+        save_path=PLOTS_DIR,
     )
-    ax.legend()
-    ax.grid(alpha=0.3)
-    fig.tight_layout()
-
-    fig.savefig(
-        PLOTS_DIR / "OLS_MSE_vs_degree_different_n.pdf",
-        bbox_inches="tight",
-    )
-    plt.close(fig)
-
-
-    # ------------------------------------------------------------
-    # Test R^2: compare different sample sizes
-    # ------------------------------------------------------------
-    fig, ax = plt.subplots(figsize=(8, 5))
-
-    for n in n_values:
-        ax.plot(
-            degrees,
-            r2_test_by_n[n],
-            marker="o",
-            label=rf"$n={n}$",
-        )
-
-    ax.set_xlabel("Polynomial degree")
-    ax.set_ylabel(r"Test $R^2$")
-    ax.set_title(
-        rf"Effect of sample size on OLS "
-        rf"($\sigma={baseline_sigma}$)"
-    )
-    ax.legend()
-    ax.grid(alpha=0.3)
-    fig.tight_layout()
-
-    fig.savefig(
-        PLOTS_DIR / "OLS_R2_vs_degree_different_n.pdf",
-        bbox_inches="tight",
-    )
-    plt.close(fig)
 
 
     # ============================================================
@@ -355,64 +286,17 @@ def main():
 
 
     # ------------------------------------------------------------
-    # Test MSE: compare different noise levels
+    # Main Study 3 OLS result plots
     # ------------------------------------------------------------
-    fig, ax = plt.subplots(figsize=(8, 5))
 
-    for sigma in sigma_values:
-        ax.plot(
-            degrees,
-            mse_test_by_sigma[sigma],
-            marker="o",
-            label=rf"$\sigma={sigma}$",
-        )
-
-    ax.set_xlabel("Polynomial degree")
-    ax.set_ylabel("Test MSE")
-    ax.set_title(
-        rf"Effect of noise on OLS "
-        rf"($n={baseline_n}$)"
+    plot_OLS_sigma_results(
+        sigma_values,
+        degrees,
+        mse_test_by_sigma,
+        baseline_n,
+        r2_test_by_sigma,
+        save_path=PLOTS_DIR,
     )
-    ax.legend()
-    ax.grid(alpha=0.3)
-    fig.tight_layout()
-
-    fig.savefig(
-        PLOTS_DIR / "OLS_MSE_vs_degree_different_sigma.pdf",
-        bbox_inches="tight",
-    )
-    plt.close(fig)
-
-
-    # ------------------------------------------------------------
-    # Test R^2: compare different noise levels
-    # ------------------------------------------------------------
-    fig, ax = plt.subplots(figsize=(8, 5))
-
-    for sigma in sigma_values:
-        ax.plot(
-            degrees,
-            r2_test_by_sigma[sigma],
-            marker="o",
-            label=rf"$\sigma={sigma}$",
-        )
-
-    ax.set_xlabel("Polynomial degree")
-    ax.set_ylabel(r"Test $R^2$")
-    ax.set_title(
-        rf"Effect of noise on OLS "
-        rf"($n={baseline_n}$)"
-    )
-    ax.legend()
-    ax.grid(alpha=0.3)
-    fig.tight_layout()
-
-    fig.savefig(
-        PLOTS_DIR / "OLS_R2_vs_degree_different_sigma.pdf",
-        bbox_inches="tight",
-    )
-    plt.close(fig)
-
 
     # ============================================================
     # Print a compact numerical summary for OLS
@@ -581,7 +465,7 @@ def main():
         ax.plot(
             singular_values,
             shrinkage,
-            marker="o",
+            marker="+",
             label=rf"$\lambda={lmbda:.0e}$",
         )
 
@@ -595,7 +479,7 @@ def main():
         rf"Ridge singular-value shrinkage "
         rf"(degree {shrinkage_degree})"
     )
-    ax.legend(fontsize=9)
+    ax.legend()
     ax.grid(alpha=0.3)
     fig.tight_layout()
 
