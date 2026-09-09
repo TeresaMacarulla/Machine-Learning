@@ -17,6 +17,7 @@ from plot_generator import (
     plot_OLS_degree_results,
     plot_OLS_n_results,
     plot_OLS_sigma_results,
+    plot_bias_variance_errors,
 )
 
 plt.rcParams.update({
@@ -341,7 +342,7 @@ def main():
     # PART B: Ridge regression
     # ============================================================
 
-    # We need to run again OLS but for n=400 case to make later comparisons
+    # We need to run again OLS but for n=200 case to make later comparisons
     # Generate ONE data set and ONE train/test split.
     # All polynomial degrees are evaluated on exactly the same data.
     x, y = artificial_data(
@@ -556,6 +557,75 @@ def main():
             f"test MSE={mse_curve[best_index]:.6f}, "
             f"R2={ridge_results[lmbda]['r2_test'][best_index]:.6f}"
         )
+
+
+    # ============================================================
+    # PART C: Bias-variance trade-off
+    # Training and test error vs model complexity
+    # ============================================================
+
+    bias_variance_n_values = [100,200, 400]
+    bias_variance_sigma = 0.1
+
+    mse_train_bias_variance = {}
+    mse_test_bias_variance = {}
+
+    for n in bias_variance_n_values:
+
+        if n==100:
+            bias_variance_degrees = np.arange(1, 16)
+        elif n==200:
+            bias_variance_degrees = np.arange(1, 26)
+        else:
+            bias_variance_degrees = np.arange(1, 41)
+
+        # Generate one data set for this sample size.
+        x_n, y_n = artificial_data(
+            n=n,
+            sigma=bias_variance_sigma,
+            seed=seed,
+        )
+
+        # Keep the same train/test split for every polynomial degree.
+        x_train_n, x_test_n, y_train_n, y_test_n = train_test_split(
+            x_n,
+            y_n,
+            test_size=test_size,
+            random_state=seed,
+        )
+
+        mse_train_curve = []
+        mse_test_curve = []
+
+        for degree in bias_variance_degrees:
+
+            result = fit_and_evaluate(
+                x_train=x_train_n,
+                x_test=x_test_n,
+                y_train=y_train_n,
+                y_test=y_test_n,
+                degree=degree,
+                method="ols",
+            )
+
+            mse_train_curve.append(result["mse_train"])
+            mse_test_curve.append(result["mse_test"])
+
+        mse_train_bias_variance[n] = np.asarray(
+            mse_train_curve
+        )
+
+        mse_test_bias_variance[n] = np.asarray(
+            mse_test_curve
+        )
+
+    plot_bias_variance_errors(
+        n_values=bias_variance_n_values,
+        mse_train_by_n=mse_train_bias_variance,
+        mse_test_by_n=mse_test_bias_variance,
+        sigma=bias_variance_sigma,
+        save_path=PLOTS_DIR,
+    )
 
 if __name__ == "__main__":
     main()

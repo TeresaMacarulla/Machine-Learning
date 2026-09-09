@@ -518,3 +518,71 @@ def plot_ridge_results(
     )
 
     plt.close(fig)
+
+def plot_bias_variance_errors(
+    n_values,
+    mse_train_by_n,
+    mse_test_by_n,
+    sigma,
+    save_path=None,
+):
+    """
+    Plot training and test MSE versus polynomial degree
+    for each sample size separately.
+
+    One PDF file is created for each n value.
+    """
+
+    for n in n_values:
+        fig, ax = plt.subplots(figsize=(8, 5))
+
+        if n==100:
+            linecolor="blue"
+            degrees = np.arange(1, 16)
+        elif n==200:
+            linecolor="orange"
+            degrees = np.arange(1, 26)
+        else:
+            linecolor="green"
+            degrees = np.arange(1, 41)
+
+        ax.plot(
+            degrees,
+            mse_train_by_n[n],
+            linestyle="--",
+            color=linecolor,
+            marker="+",
+            markersize=4,
+            label=rf"Training, $n={n}$",
+        )
+
+        ax.plot(
+            degrees,
+            mse_test_by_n[n],
+            linestyle="-",
+            color=linecolor,
+            marker="o",
+            markersize=4,
+            label=rf"Test, $n={n}$",
+        )
+
+        ax.set_xlabel("Polynomial degree")
+        ax.set_ylabel("MSE")
+        ax.set_yscale("log")
+        ax.set_title(
+            rf"Training and test error vs model complexity "
+            rf"($n={n}$, $\sigma={sigma}$)"
+        )
+
+        ax.legend()
+        ax.grid(alpha=0.3)
+        fig.tight_layout()
+
+        if save_path is not None:
+            fig.savefig(
+                save_path / f"OLS_bias_variance_tradeoff_n{n}.pdf",
+                dpi=300,
+                bbox_inches="tight",
+            )
+
+        plt.close(fig)
