@@ -52,7 +52,7 @@ def main():
     baseline_sigma = 0.1
 
     # Values chosen to study the effect of sample size and noise.
-    n_values = [25, 100, 200]
+    n_values = [100, 200, 400]
     sigma_values = [0.05, 0.1, 0.2, 0.3]
 
     # ============================================================
@@ -183,7 +183,9 @@ def main():
     # STUDY 2 OLS: Number of data points n
     # Keep sigma fixed and repeat the degree sweep.
     # ============================================================
-
+    
+    # From now on we change the baseline n to 200 to avoid the great peaks in n=100 case
+    baseline_n = 200
     mse_test_by_n = {}
     r2_test_by_n = {}
 
@@ -306,7 +308,7 @@ def main():
 
     print("Baseline study OLS")
     print("--------------")
-    print(f"n = {baseline_n}")
+    print(f"n = 100")
     print(f"sigma = {baseline_sigma}")
     print(f"Best degree by test MSE: {best_degree_baseline}")
     print(
@@ -339,6 +341,49 @@ def main():
     # PART B: Ridge regression
     # ============================================================
 
+    # We need to run again OLS but for n=400 case to make later comparisons
+    # Generate ONE data set and ONE train/test split.
+    # All polynomial degrees are evaluated on exactly the same data.
+    x, y = artificial_data(
+        n=baseline_n,
+        sigma=baseline_sigma,
+        seed=seed,
+    )
+
+    x_train, x_test, y_train, y_test = train_test_split(
+        x,
+        y,
+        test_size=test_size,
+        random_state=seed,
+    )
+
+    mse_train_degree = []
+    mse_test_degree = []
+    r2_train_degree = []
+    r2_test_degree = []
+    theta_by_degree = []
+
+    for degree in degrees:
+        result = fit_and_evaluate(
+            x_train=x_train,
+            x_test=x_test,
+            y_train=y_train,
+            y_test=y_test,
+            degree=degree,
+            method="ols"
+        )
+
+        mse_train_degree.append(result["mse_train"])
+        mse_test_degree.append(result["mse_test"])
+        r2_train_degree.append(result["r2_train"])
+        r2_test_degree.append(result["r2_test"])
+        theta_by_degree.append(result["theta"])
+
+    mse_train_degree = np.asarray(mse_train_degree)
+    mse_test_degree = np.asarray(mse_test_degree)
+    r2_train_degree = np.asarray(r2_train_degree)
+    r2_test_degree = np.asarray(r2_test_degree)
+    
     ridge_lambdas = np.logspace(-6, 0, 7)
     representative_lmbdas = ridge_lambdas[[0, 3, 6]]
     ridge_representative_fits = {
