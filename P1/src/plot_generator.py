@@ -586,3 +586,133 @@ def plot_bias_variance_errors(
             )
 
         plt.close(fig)
+
+def plot_bootstrap_bias_variance(
+    results_by_n,
+    sigma,
+    save_path=None,
+):
+    """
+    Plot bootstrap error, squared bias and variance
+    versus polynomial degree for each sample size.
+
+    Each sample size may use a different polynomial-degree range.
+    """
+
+    for n, results in results_by_n.items():
+
+        degrees = results["degrees"]
+
+        fig, ax = plt.subplots(figsize=(8, 5))
+
+        ax.plot(
+            degrees,
+            results["error"],
+            marker="o",
+            markersize=4,
+            label="Bootstrap test error",
+        )
+
+        ax.plot(
+            degrees,
+            results["bias2"],
+            marker="o",
+            markersize=4,
+            label=r"Bias$^2$",
+        )
+
+        ax.plot(
+            degrees,
+            results["variance"],
+            marker="o",
+            markersize=4,
+            label="Variance",
+        )
+
+        ax.set_xlabel("Polynomial degree")
+        ax.set_ylabel("MSE")
+        ax.set_yscale("log")
+
+        ax.set_title(
+            rf"Bootstrap bias--variance analysis "
+            rf"($n={n}$, $\sigma={sigma}$)"
+        )
+
+        ax.legend()
+        ax.grid(alpha=0.3)
+        fig.tight_layout()
+
+        if save_path is not None:
+            fig.savefig(
+                save_path
+                / f"OLS_bootstrap_bias_variance_n{n}.pdf",
+                dpi=300,
+                bbox_inches="tight",
+            )
+
+        plt.close(fig)
+
+def plot_cross_validation_comparison(
+    bootstrap_results_by_n,
+    cv5_results_by_n,
+    cv10_results_by_n,
+    sigma,
+    save_path=None,
+):
+    """
+    Compare bootstrap prediction error with 5-fold and
+    10-fold cross-validation MSE for each sample size.
+    """
+
+    for n in bootstrap_results_by_n:
+
+        degrees = bootstrap_results_by_n[n]["degrees"]
+
+        fig, ax = plt.subplots(figsize=(8, 5))
+
+        ax.plot(
+            degrees,
+            bootstrap_results_by_n[n]["error"],
+            marker="o",
+            markersize=4,
+            label="Bootstrap",
+        )
+
+        ax.plot(
+            degrees,
+            cv5_results_by_n[n]["mean_mse"],
+            marker="+",
+            markersize=5,
+            label="5-fold CV",
+        )
+
+        ax.plot(
+            degrees,
+            cv10_results_by_n[n]["mean_mse"],
+            marker="x",
+            markersize=5,
+            label="10-fold CV",
+        )
+
+        ax.set_xlabel("Polynomial degree")
+        ax.set_ylabel("Estimated MSE")
+        ax.set_yscale("log")
+
+        ax.set_title(
+            rf"Bootstrap and cross-validation "
+            rf"($n={n}$, $\sigma={sigma}$)"
+        )
+
+        ax.legend()
+        ax.grid(alpha=0.3)
+        fig.tight_layout()
+
+        if save_path is not None:
+            fig.savefig(
+                save_path
+                / f"OLS_bootstrap_cross_validation_n{n}.pdf",
+                dpi=300,
+                bbox_inches="tight",
+            )
+
+        plt.close(fig)

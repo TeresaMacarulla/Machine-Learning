@@ -9,6 +9,8 @@ from utilities import (
     fit_feature_scaler,
     scale_design_matrix,
     fit_and_evaluate,
+    bootstrap_bias_variance,
+    cross_validation_mse,
 )
 
 from plot_generator import (
@@ -18,6 +20,8 @@ from plot_generator import (
     plot_OLS_n_results,
     plot_OLS_sigma_results,
     plot_bias_variance_errors,
+    plot_bootstrap_bias_variance,
+    plot_cross_validation_comparison,
 )
 
 plt.rcParams.update({
@@ -57,24 +61,15 @@ def main():
     sigma_values = [0.05, 0.1, 0.2, 0.3]
 
     # ============================================================
-    # STUDY 1 OLS: Polynomial degree
+    # PART A STUDY 1 OLS: Polynomial degree
     # Keep n and sigma fixed.
     # ============================================================
 
     # Generate ONE data set and ONE train/test split.
     # All polynomial degrees are evaluated on exactly the same data.
-    x, y = artificial_data(
-        n=baseline_n,
-        sigma=baseline_sigma,
-        seed=seed,
-    )
+    x, y = artificial_data( n=baseline_n, sigma=baseline_sigma, seed=seed, )
 
-    x_train, x_test, y_train, y_test = train_test_split(
-        x,
-        y,
-        test_size=test_size,
-        random_state=seed,
-    )
+    x_train, x_test, y_train, y_test = train_test_split( x, y, test_size=test_size, random_state=seed, )
 
     mse_train_degree = []
     mse_test_degree = []
@@ -87,14 +82,8 @@ def main():
     ols_representative_fits = {}
 
     for degree in degrees:
-        result = fit_and_evaluate(
-            x_train=x_train,
-            x_test=x_test,
-            y_train=y_train,
-            y_test=y_test,
-            degree=degree,
-            method="ols"
-        )
+        result = fit_and_evaluate( x_train=x_train, x_test=x_test, y_train=y_train, y_test=y_test, 
+                                  degree=degree, method="ols" )
 
         mse_train_degree.append(result["mse_train"])
         mse_test_degree.append(result["mse_test"])
@@ -106,14 +95,8 @@ def main():
         if degree in representative_degrees:
             ols_representative_fits[degree] = result
 
-    fig, _ = plot_fits(
-    x=x,
-    y=y,
-    fit_results=ols_representative_fits,
-    n_plot_points=500,
-    save_path=PLOTS_DIR / "OLS_representative_fits.pdf",
-    method="OLS",
-    )
+    fig, _ = plot_fits( x=x, y=y, fit_results=ols_representative_fits, n_plot_points=500,
+                        save_path=PLOTS_DIR / "part_a/OLS_representative_fits.pdf", method="OLS", )
     plt.close(fig)
 
     mse_train_degree = np.asarray(mse_train_degree)
@@ -125,16 +108,8 @@ def main():
     # Main Study 1 OLS result plots
     # ------------------------------------------------------------
 
-    plot_OLS_degree_results(
-        degrees, 
-        mse_train_degree,
-        mse_test_degree,
-        baseline_n,
-        baseline_sigma,
-        r2_train_degree,
-        r2_test_degree,
-        save_path=PLOTS_DIR,
-    )
+    plot_OLS_degree_results( degrees, mse_train_degree, mse_test_degree, baseline_n, baseline_sigma,
+                            r2_train_degree, r2_test_degree, save_path=PLOTS_DIR / "part_a", )
 
     # ------------------------------------------------------------
     # OLS parameters theta as polynomial degree increases
@@ -144,10 +119,7 @@ def main():
     # We therefore create a rectangular array and fill missing
     # coefficients with NaN so Matplotlib does not draw them.
     max_degree = int(np.max(degrees))
-    theta_matrix = np.full(
-        (len(degrees), max_degree + 1),
-        np.nan,
-    )
+    theta_matrix = np.full((len(degrees), max_degree + 1), np.nan, )
 
     for row, theta in enumerate(theta_by_degree):
         theta_matrix[row, : len(theta)] = theta
@@ -155,33 +127,21 @@ def main():
     fig, ax = plt.subplots(figsize=(9, 6))
 
     for j in range(max_degree + 1):
-        ax.plot(
-            degrees,
-            theta_matrix[:, j],
-            marker="o",
-            markersize=3,
-            label=rf"$\theta_{j}$",
-        )
+        ax.plot( degrees, theta_matrix[:, j], marker="o", markersize=3, label=rf"$\theta_{j}$", )
 
     ax.set_xlabel("Polynomial degree")
     ax.set_ylabel(r"OLS parameter $\theta_j$")
-    ax.set_title(
-        rf"OLS parameters vs polynomial degree "
-        rf"($n={baseline_n}$, $\sigma={baseline_sigma}$)"
-    )
+    ax.set_title( rf"OLS parameters vs polynomial degree " rf"($n={baseline_n}$, $\sigma={baseline_sigma}$)" )
     ax.grid(alpha=0.3)
     ax.legend(ncol=2)
     fig.tight_layout()
 
-    fig.savefig(
-        PLOTS_DIR / "OLS_theta_vs_degree.pdf",
-        bbox_inches="tight",
-    )
+    fig.savefig( PLOTS_DIR / "part_a/OLS_theta_vs_degree.pdf", bbox_inches="tight", )
     plt.close(fig)
 
 
     # ============================================================
-    # STUDY 2 OLS: Number of data points n
+    # PART A STUDY 2 OLS: Number of data points n
     # Keep sigma fixed and repeat the degree sweep.
     # ============================================================
     
@@ -191,32 +151,18 @@ def main():
     r2_test_by_n = {}
 
     for n in n_values:
-        x_n, y_n = artificial_data(
-            n=n,
-            sigma=baseline_sigma,
-            seed=seed,
-        )
+        x_n, y_n = artificial_data( n=n, sigma=baseline_sigma, seed=seed, )
 
-        x_train_n, x_test_n, y_train_n, y_test_n = train_test_split(
-            x_n,
-            y_n,
-            test_size=test_size,
-            random_state=seed,
-        )
+        x_train_n, x_test_n, y_train_n, y_test_n = train_test_split( x_n, y_n, test_size=test_size, 
+                                                                    random_state=seed, )
 
         mse_curve = []
         r2_curve = []
 
         # Use the same data and split for every degree at this n.
         for degree in degrees:
-            result = fit_and_evaluate(
-                x_train=x_train_n,
-                x_test=x_test_n,
-                y_train=y_train_n,
-                y_test=y_test_n,
-                degree=degree,
-                method="ols"
-            )
+            result = fit_and_evaluate( x_train=x_train_n, x_test=x_test_n, y_train=y_train_n, y_test=y_test_n,
+                                        degree=degree, method="ols" )
 
             mse_curve.append(result["mse_test"])
             r2_curve.append(result["r2_test"])
@@ -228,18 +174,11 @@ def main():
     # Main Study 2 OLS result plots
     # ------------------------------------------------------------
 
-    plot_OLS_n_results(
-        n_values,
-        degrees,
-        mse_test_by_n,
-        baseline_sigma,
-        r2_test_by_n,
-        save_path=PLOTS_DIR,
-    )
+    plot_OLS_n_results( n_values, degrees, mse_test_by_n, baseline_sigma, r2_test_by_n, save_path=PLOTS_DIR / "part_a", )
 
 
     # ============================================================
-    # STUDY 3 OLS: Noise level sigma
+    # PART A STUDY 3 OLS: Noise level sigma
     # Keep n fixed and repeat the degree sweep.
     # ============================================================
 
@@ -250,36 +189,18 @@ def main():
         # Because artificial_data uses the same seed and n here,
         # the x-values and underlying standard-normal random sample
         # are the same; sigma changes only the noise amplitude.
-        x_sigma, y_sigma = artificial_data(
-            n=baseline_n,
-            sigma=sigma,
-            seed=seed,
-        )
+        x_sigma, y_sigma = artificial_data( n=baseline_n, sigma=sigma, seed=seed, )
 
-        (
-            x_train_sigma,
-            x_test_sigma,
-            y_train_sigma,
-            y_test_sigma,
-        ) = train_test_split(
-            x_sigma,
-            y_sigma,
-            test_size=test_size,
-            random_state=seed,
-        )
+        ( x_train_sigma, x_test_sigma, y_train_sigma, y_test_sigma, 
+        ) = train_test_split( x_sigma, y_sigma, test_size=test_size, random_state=seed, )
 
         mse_curve = []
         r2_curve = []
 
         for degree in degrees:
-            result = fit_and_evaluate(
-                x_train=x_train_sigma,
-                x_test=x_test_sigma,
-                y_train=y_train_sigma,
-                y_test=y_test_sigma,
-                degree=degree,
-                method="ols"
-            )
+            result = fit_and_evaluate( x_train=x_train_sigma, x_test=x_test_sigma, 
+                                      y_train=y_train_sigma, y_test=y_test_sigma,
+                                      degree=degree, method="ols" )
 
             mse_curve.append(result["mse_test"])
             r2_curve.append(result["r2_test"])
@@ -292,18 +213,12 @@ def main():
     # Main Study 3 OLS result plots
     # ------------------------------------------------------------
 
-    plot_OLS_sigma_results(
-        sigma_values,
-        degrees,
-        mse_test_by_sigma,
-        baseline_n,
-        r2_test_by_sigma,
-        save_path=PLOTS_DIR,
-    )
+    plot_OLS_sigma_results( sigma_values, degrees, mse_test_by_sigma, baseline_n, 
+                           r2_test_by_sigma, save_path=PLOTS_DIR / "part_a", )
 
-    # ============================================================
+    # ------------------------------------------------------------
     # Print a compact numerical summary for OLS
-    # ============================================================
+    # ------------------------------------------------------------
 
     best_degree_baseline = degrees[np.argmin(mse_test_degree)]
 
@@ -345,18 +260,9 @@ def main():
     # We need to run again OLS but for n=200 case to make later comparisons
     # Generate ONE data set and ONE train/test split.
     # All polynomial degrees are evaluated on exactly the same data.
-    x, y = artificial_data(
-        n=baseline_n,
-        sigma=baseline_sigma,
-        seed=seed,
-    )
+    x, y = artificial_data( n=baseline_n, sigma=baseline_sigma, seed=seed, )
 
-    x_train, x_test, y_train, y_test = train_test_split(
-        x,
-        y,
-        test_size=test_size,
-        random_state=seed,
-    )
+    x_train, x_test, y_train, y_test = train_test_split( x, y, test_size=test_size, random_state=seed, )
 
     mse_train_degree = []
     mse_test_degree = []
@@ -365,14 +271,8 @@ def main():
     theta_by_degree = []
 
     for degree in degrees:
-        result = fit_and_evaluate(
-            x_train=x_train,
-            x_test=x_test,
-            y_train=y_train,
-            y_test=y_test,
-            degree=degree,
-            method="ols"
-        )
+        result = fit_and_evaluate( x_train=x_train, x_test=x_test, y_train=y_train, y_test=y_test, 
+                                   degree=degree, method="ols" )
 
         mse_train_degree.append(result["mse_train"])
         mse_test_degree.append(result["mse_test"])
@@ -404,15 +304,8 @@ def main():
 
         for degree in degrees:
 
-            result = fit_and_evaluate(
-                x_train=x_train,
-                x_test=x_test,
-                y_train=y_train,
-                y_test=y_test,
-                degree=degree,
-                method="ridge",
-                lmbda=lmbda,
-            )
+            result = fit_and_evaluate( x_train=x_train, x_test=x_test, y_train=y_train, y_test=y_test,
+                                       degree=degree, method="ridge", lmbda=lmbda, )
 
             mse_train.append(result["mse_train"])
             mse_test.append(result["mse_test"])
@@ -437,16 +330,9 @@ def main():
 
     for lmbda in representative_lmbdas:
 
-        fig, _ = plot_fits(
-            x=x,
-            y=y,
-            fit_results=ridge_representative_fits[lmbda],
-            n_plot_points=500,
-            save_path=PLOTS_DIR
-            / f"Ridge_representative_fits_lambda{lmbda:.0e}.pdf",
-            method="Ridge",
-            lmbda=lmbda,
-        )
+        fig, _ = plot_fits( x=x, y=y, fit_results=ridge_representative_fits[lmbda], n_plot_points=500,
+                            save_path=PLOTS_DIR / f"part_b/Ridge_representative_fits_lambda{lmbda:.0e}.pdf",
+                            method="Ridge", lmbda=lmbda, )
 
         plt.close(fig)
 
@@ -454,19 +340,11 @@ def main():
     # Main Ridge result plots
     # ------------------------------------------------------------
 
-    plot_ridge_results(
-        degrees=degrees,
-        ridge_lambdas=ridge_lambdas,
-        ridge_results=ridge_results,
-        mse_test_ols=mse_test_degree,
-        r2_test_ols=r2_test_degree,
-        theta_ols_by_degree=theta_by_degree,
-        theta_ridge_by_degree=ridge_theta_by_degree,
-        comparison_degree=15,
-        baseline_n=baseline_n,
-        baseline_sigma=baseline_sigma,
-        save_dir=PLOTS_DIR,
-    )
+    plot_ridge_results( degrees=degrees, ridge_lambdas=ridge_lambdas, ridge_results=ridge_results,
+                        mse_test_ols=mse_test_degree, r2_test_ols=r2_test_degree,
+                        theta_ols_by_degree=theta_by_degree, theta_ridge_by_degree=ridge_theta_by_degree,
+                        comparison_degree=15, baseline_n=baseline_n, baseline_sigma=baseline_sigma,
+                        save_dir=PLOTS_DIR / "part_b", )
 
     # ------------------------------------------------------------
     # Ridge shrinkage factors from singular values
@@ -474,28 +352,16 @@ def main():
 
     shrinkage_degree = 15
 
-    X_train_shrink = design_matrix(
-        x_train,
-        shrinkage_degree,
-    )
+    X_train_shrink = design_matrix( x_train, shrinkage_degree, )
 
-    feature_means, feature_stds = fit_feature_scaler(
-        X_train_shrink
-    )
+    feature_means, feature_stds = fit_feature_scaler( X_train_shrink )
 
-    X_train_shrink = scale_design_matrix(
-        X_train_shrink,
-        feature_means,
-        feature_stds,
-    )
+    X_train_shrink = scale_design_matrix( X_train_shrink, feature_means, feature_stds, )
 
     # Exclude the intercept because it is not regularized.
     X_features = X_train_shrink[:, 1:]
 
-    singular_values = np.linalg.svd(
-        X_features,
-        compute_uv=False,
-    )
+    singular_values = np.linalg.svd( X_features, compute_uv=False, )
 
     n_train = len(y_train)
 
@@ -503,17 +369,9 @@ def main():
 
     for lmbda in ridge_lambdas:
 
-        shrinkage = (
-            singular_values**2
-            / (singular_values**2 + n_train * lmbda)
-        )
+        shrinkage = ( singular_values**2 / (singular_values**2 + n_train * lmbda) )
 
-        ax.plot(
-            singular_values,
-            shrinkage,
-            marker="+",
-            label=rf"$\lambda={lmbda:.0e}$",
-        )
+        ax.plot( singular_values, shrinkage, marker="+", label=rf"$\lambda={lmbda:.0e}$", )
 
     ax.set_xscale("log")
     ax.set_xlabel(r"Singular value $\sigma_i$")
@@ -530,15 +388,15 @@ def main():
     fig.tight_layout()
 
     fig.savefig(
-        PLOTS_DIR / "Ridge_shrinkage_factors.pdf",
+        PLOTS_DIR / "part_b/Ridge_shrinkage_factors.pdf",
         bbox_inches="tight",
     )
 
     plt.close(fig)
 
-    # ============================================================
+    # ------------------------------------------------------------
     # Print a compact numerical summary for Ridge
-    # ============================================================
+    # ------------------------------------------------------------
 
     print()
     print("Ridge study")
@@ -567,65 +425,101 @@ def main():
     bias_variance_n_values = [100,200, 400]
     bias_variance_sigma = 0.1
 
+    bias_variance_degrees = {
+        100: np.arange(1, 16),
+        200: np.arange(1, 26),
+        400: np.arange(1, 41),
+    }
+
     mse_train_bias_variance = {}
     mse_test_bias_variance = {}
+    data_splits_by_n = {}
 
     for n in bias_variance_n_values:
 
-        if n==100:
-            bias_variance_degrees = np.arange(1, 16)
-        elif n==200:
-            bias_variance_degrees = np.arange(1, 26)
-        else:
-            bias_variance_degrees = np.arange(1, 41)
-
         # Generate one data set for this sample size.
-        x_n, y_n = artificial_data(
-            n=n,
-            sigma=bias_variance_sigma,
-            seed=seed,
-        )
+        x_n, y_n = artificial_data( n=n, sigma=bias_variance_sigma, seed=seed, )
 
         # Keep the same train/test split for every polynomial degree.
-        x_train_n, x_test_n, y_train_n, y_test_n = train_test_split(
-            x_n,
-            y_n,
-            test_size=test_size,
-            random_state=seed,
-        )
+        split = train_test_split( x_n, y_n, test_size=test_size, random_state=seed, )
+        x_train_n, x_test_n, y_train_n, y_test_n = split
+        data_splits_by_n[n] = split
 
         mse_train_curve = []
         mse_test_curve = []
 
-        for degree in bias_variance_degrees:
+        for degree in bias_variance_degrees[n]:
 
-            result = fit_and_evaluate(
-                x_train=x_train_n,
-                x_test=x_test_n,
-                y_train=y_train_n,
-                y_test=y_test_n,
-                degree=degree,
-                method="ols",
-            )
+            result = fit_and_evaluate( x_train=x_train_n, x_test=x_test_n, y_train=y_train_n, y_test=y_test_n,
+                                       degree=degree, method="ols", )
 
             mse_train_curve.append(result["mse_train"])
             mse_test_curve.append(result["mse_test"])
 
-        mse_train_bias_variance[n] = np.asarray(
-            mse_train_curve
+        mse_train_bias_variance[n] = np.asarray( mse_train_curve )
+
+        mse_test_bias_variance[n] = np.asarray( mse_test_curve )
+
+    plot_bias_variance_errors( n_values=bias_variance_n_values, mse_train_by_n=mse_train_bias_variance,
+                               mse_test_by_n=mse_test_bias_variance, sigma=bias_variance_sigma,
+                               save_path=PLOTS_DIR / "part_c", )
+
+
+    # ============================================================
+    # PART C: Bootstrap bias-variance decomposition
+    # PART D: k-fold cross-validation
+    # ============================================================
+
+    n_bootstraps = 100
+    bootstrap_results_by_n = {}
+
+    cv5_results_by_n = {}
+    cv10_results_by_n = {}
+
+    for n in bias_variance_n_values:
+
+        ( x_train_n, x_test_n, y_train_n, y_test_n, ) = data_splits_by_n[n]
+
+        bootstrap_results_by_n[n] = bootstrap_bias_variance( x_train=x_train_n, x_test=x_test_n,
+                                                             y_train=y_train_n, y_test=y_test_n,
+                                                             degrees=bias_variance_degrees[n],
+                                                             n_bootstraps=n_bootstraps, seed=seed, )
+
+        degrees_n = bias_variance_degrees[n]
+
+        # 5-fold cross-validation on the training data.
+        cv5_results_by_n[n] = cross_validation_mse( x=x_train_n, y=y_train_n, degrees=degrees_n, n_splits=5, seed=seed, )
+
+        # 10-fold cross-validation on the same training data.
+        cv10_results_by_n[n] = cross_validation_mse( x=x_train_n, y=y_train_n, degrees=degrees_n, n_splits=10, seed=seed, )
+
+    plot_bootstrap_bias_variance( results_by_n=bootstrap_results_by_n, sigma=bias_variance_sigma, save_path=PLOTS_DIR / "part_c", )
+
+    plot_cross_validation_comparison( bootstrap_results_by_n=bootstrap_results_by_n, cv5_results_by_n=cv5_results_by_n,
+                                      cv10_results_by_n=cv10_results_by_n, sigma=bias_variance_sigma, save_path=PLOTS_DIR / "part_d", )
+
+    print()
+    print("Cross-validation study OLS")
+    print("--------------------------")
+
+    for n in bias_variance_n_values:
+
+        degrees_n = bias_variance_degrees[n]
+
+        cv5 = cv5_results_by_n[n]["mean_mse"]
+        cv10 = cv10_results_by_n[n]["mean_mse"]
+
+        best_5 = np.argmin(cv5)
+        best_10 = np.argmin(cv10)
+
+        print(
+            f"n={n:3d}: "
+            f"5-fold -> d={degrees_n[best_5]:2d}, "
+            f"MSE={cv5[best_5]:.6f}; "
+            f"10-fold -> d={degrees_n[best_10]:2d}, "
+            f"MSE={cv10[best_10]:.6f}"
         )
 
-        mse_test_bias_variance[n] = np.asarray(
-            mse_test_curve
-        )
-
-    plot_bias_variance_errors(
-        n_values=bias_variance_n_values,
-        mse_train_by_n=mse_train_bias_variance,
-        mse_test_by_n=mse_test_bias_variance,
-        sigma=bias_variance_sigma,
-        save_path=PLOTS_DIR,
-    )
 
 if __name__ == "__main__":
     main()

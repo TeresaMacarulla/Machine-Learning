@@ -1,6 +1,8 @@
 import numpy as np
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
+from sklearn.model_selection import KFold
 
+"""
 plt.rcParams.update({
     "font.size": 14,
     "axes.titlesize": 16,
@@ -9,6 +11,7 @@ plt.rcParams.update({
     "ytick.labelsize": 13,
     "legend.fontsize": 12,
 })
+"""
 
 def runge(x):
     """Evaluate Runge's function."""
@@ -147,4 +150,137 @@ def fit_and_evaluate(
         "mse_test": mean_squared_error(y_test, y_test_pred),
         "r2_train": r2_score(y_train, y_train_pred),
         "r2_test": r2_score(y_test, y_test_pred),
+    }
+
+def bootstrap_bias_variance(
+    x_train,
+    x_test,
+    y_train,
+    y_test,
+    degrees,
+    n_bootstraps=100,
+    seed=2026,
+):
+    """
+    Estimate bootstrap prediction error, squared bias and variance
+    for OLS polynomial regression.
+    """
+    rng = np.random.default_rng(seed)
+
+    degrees = np.asarray(degrees)
+    n_train = len(x_train)
+
+    # Generate bootstrap replicas once and reuse them
+    # for all polynomial degrees.
+    bootstrap_indices = rng.integers(
+        0,
+        n_train,
+        size=(n_bootstraps, n_train),
+    )
+
+    error = np.zeros(len(degrees))
+    bias2 = np.zeros(len(degrees))
+    variance = np.zeros(len(degrees))
+
+    for degree_index, degree in enumerate(degrees):
+
+        y_pred = np.empty(
+            (len(y_test), n_bootstraps)
+        )
+
+        for b in range(n_bootstraps):
+
+            indices = bootstrap_indices[b]
+
+            x_boot = x_train[indices]
+            y_boot = y_train[indices]
+
+            result = fit_and_evaluate(
+                x_train=x_boot,
+                x_test=x_test,
+                y_train=y_boot,
+                y_test=y_test,
+                degree=degree,
+                method="ols",
+            )
+
+            y_pred[:, b] = result["y_test_pred"]
+
+        mean_prediction = np.mean(
+            y_pred,
+            axis=1,
+        )
+
+        error[degree_index] = np.mean(
+            (y_test[:, None] - y_pred) ** 2
+        )
+
+        bias2[degree_index] = np.mean(
+            (y_test - mean_prediction) ** 2
+        )
+
+        variance[degree_index] = np.mean(
+            np.var(y_pred, axis=1)
+        )
+
+    return {
+        "degrees": degrees,
+        "error": error,
+        "bias2": bias2,
+        "variance": variance,
+    }
+
+def cross_validation_mse(
+    x,
+    y,
+    degrees,
+    n_splits=5,
+    seed=2026,
+):
+    """
+    Estimate OLS prediction error with k-fold cross-validation.
+
+    Scaling is fitted independently inside each training fold.
+    """
+    degrees = np.asarray(degrees)
+
+    kfold = KFold(
+        n_splits=n_splits,
+        shuffle=True,
+        random_state=seed,
+    )
+
+    mean_mse = np.zeros(len(degrees))
+    std_mse = np.zeros(len(degrees))
+
+    for degree_index, degree in enumerate(degrees):
+
+        fold_mse = []
+
+        for train_indices, val_indices in kfold.split(x):
+
+            x_train_fold = x[train_indices]
+            y_train_fold = y[train_indices]
+
+            x_val_fold = x[val_indices]
+            y_val_fold = y[val_indices]
+
+            result = fit_and_evaluate(
+                x_train=x_train_fold,
+                x_test=x_val_fold,
+                y_train=y_train_fold,
+                y_test=y_val_fold,
+                degree=degree,
+                method="ols",
+            )
+
+            fold_mse.append(result["mse_test"])
+
+        mean_mse[degree_index] = np.mean(fold_mse)
+        std_mse[degree_index] = np.std(fold_mse)
+
+    return {
+        "degrees": degrees,
+        "mean_mse": mean_mse,
+        "std_mse": std_mse,
     }
