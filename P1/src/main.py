@@ -1,4 +1,5 @@
 import numpy as np
+import argparse
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from pathlib import Path
@@ -9,8 +10,19 @@ from utilities import (
     fit_feature_scaler,
     scale_design_matrix,
     fit_and_evaluate,
+    fit_ols,
+    fit_ridge,
+    predict,
+    mean_squared_error,
     bootstrap_bias_variance,
     cross_validation_mse,
+    compare_gradients,
+    learning_rate_information,
+    gradient_descent,
+    ols_cost,
+    ridge_cost,
+    optimizer_learning_rate_sweep,
+    select_best_optimizer_runs,
 )
 
 from plot_generator import (
@@ -21,7 +33,10 @@ from plot_generator import (
     plot_OLS_sigma_results,
     plot_bias_variance_errors,
     plot_bootstrap_bias_variance,
-    plot_cross_validation_comparison,
+    plot_validation_comparison,
+    plot_gd_learning_rate_study,
+    plot_optimizer_convergence,
+    plot_optimizer_eta_sensitivity,
 )
 
 plt.rcParams.update({
@@ -40,14 +55,12 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 PLOTS_DIR = PROJECT_ROOT / "plots"
 PLOTS_DIR.mkdir(parents=True, exist_ok=True)
 
+# ============================================================
+# PART A: General experiment settings
+# ============================================================
+def run_part_a( seed=2026, test_size=0.20, ):
 
-def main():
-    # ============================================================
-    # General experiment settings
-    # ============================================================
-
-    seed = 2026
-    test_size = 0.20
+    print("\nRunning Part A...\n")
 
     # Polynomial degrees required for the main Part a) and Part b) study.
     degrees = np.arange(1, 16)
@@ -253,9 +266,17 @@ def main():
         )
 
 
-    # ============================================================
-    # PART B: Ridge regression
-    # ============================================================
+# ============================================================
+# PART B: Ridge regression
+# ============================================================
+def run_part_b( seed=2026, test_size=0.20, ):
+
+    print("\nRunning Part B...\n")
+
+    representative_degrees = [2, 5, 10, 15]
+    baseline_n = 200
+    baseline_sigma = 0.1
+    degrees = np.arange(1, 16)
 
     # We need to run again OLS but for n=200 case to make later comparisons
     # Generate ONE data set and ONE train/test split.
@@ -417,109 +438,703 @@ def main():
         )
 
 
-    # ============================================================
-    # PART C: Bias-variance trade-off
-    # Training and test error vs model complexity
-    # ============================================================
+# ============================================================
+# PART C and D: Preparation
+# ============================================================
+def prepare_part_cd_data( seed=2026, test_size=0.20, ):
+    """
+    Generate the common data and ordinary OLS results
+    required by Parts C and D.
+    """
 
-    bias_variance_n_values = [100,200, 400]
-    bias_variance_sigma = 0.1
+    n_values = [100, 200, 400]
+    sigma = 0.1
 
-    bias_variance_degrees = {
-        100: np.arange(1, 16),
-        200: np.arange(1, 26),
-        400: np.arange(1, 41),
-    }
+    degrees_by_n = { 100: np.arange(1, 16), 200: np.arange(1, 26), 400: np.arange(1, 41), }
 
-    mse_train_bias_variance = {}
-    mse_test_bias_variance = {}
     data_splits_by_n = {}
+    data_nosplit_by_n = {}
 
-    for n in bias_variance_n_values:
+    mse_train_by_n = {}
+    mse_test_by_n = {}
 
-        # Generate one data set for this sample size.
-        x_n, y_n = artificial_data( n=n, sigma=bias_variance_sigma, seed=seed, )
+    for n in n_values:
 
-        # Keep the same train/test split for every polynomial degree.
+        x_n, y_n = artificial_data( n=n, sigma=sigma, seed=seed, )
+
         split = train_test_split( x_n, y_n, test_size=test_size, random_state=seed, )
-        x_train_n, x_test_n, y_train_n, y_test_n = split
+
+        ( x_train_n, x_test_n, y_train_n, y_test_n, ) = split
+
         data_splits_by_n[n] = split
+        data_nosplit_by_n[n] = (x_n, y_n)
 
         mse_train_curve = []
         mse_test_curve = []
 
-        for degree in bias_variance_degrees[n]:
+        for degree in degrees_by_n[n]:
 
             result = fit_and_evaluate( x_train=x_train_n, x_test=x_test_n, y_train=y_train_n, y_test=y_test_n,
                                        degree=degree, method="ols", )
 
-            mse_train_curve.append(result["mse_train"])
-            mse_test_curve.append(result["mse_test"])
+            mse_train_curve.append( result["mse_train"] )
 
-        mse_train_bias_variance[n] = np.asarray( mse_train_curve )
+            mse_test_curve.append( result["mse_test"] )
 
-        mse_test_bias_variance[n] = np.asarray( mse_test_curve )
+        mse_train_by_n[n] = np.asarray( mse_train_curve )
 
-    plot_bias_variance_errors( n_values=bias_variance_n_values, mse_train_by_n=mse_train_bias_variance,
-                               mse_test_by_n=mse_test_bias_variance, sigma=bias_variance_sigma,
-                               save_path=PLOTS_DIR / "part_c", )
+        mse_test_by_n[n] = np.asarray( mse_test_curve )
+
+    return {
+        "n_values": n_values,
+        "sigma": sigma,
+        "degrees_by_n": degrees_by_n,
+        "data_splits_by_n": data_splits_by_n,
+        "data_nosplit_by_n": data_nosplit_by_n,
+        "mse_train_by_n": mse_train_by_n,
+        "mse_test_by_n": mse_test_by_n,
+    }
 
 
-    # ============================================================
-    # PART C: Bootstrap bias-variance decomposition
-    # PART D: k-fold cross-validation
-    # ============================================================
+# ============================================================
+# PART C: Bias-variance trade-off
+# Training and test error vs model complexity
+# Bootstrap bias-variance decomposition
+# ============================================================
+def run_part_c( seed=2026, test_size=0.20, ):
+    print("\nRunning Part C...\n")
 
-    n_bootstraps = 100
+    data = prepare_part_cd_data( seed=seed, test_size=test_size, )
+
+    n_values = data["n_values"]
+    sigma = data["sigma"]
+    degrees_by_n = data["degrees_by_n"]
+
+    plot_bias_variance_errors(
+        n_values=n_values,
+        mse_train_by_n=data["mse_train_by_n"],
+        mse_test_by_n=data["mse_test_by_n"],
+        sigma=sigma,
+        save_path=PLOTS_DIR / "part_c",
+    )
+
+    # Bootstrap
     bootstrap_results_by_n = {}
 
+    for n in n_values:
+
+        ( x_train, x_test, y_train, y_test, ) = data["data_splits_by_n"][n]
+
+        bootstrap_results_by_n[n] = (
+            bootstrap_bias_variance(
+                x_train=x_train,
+                x_test=x_test,
+                y_train=y_train,
+                y_test=y_test,
+                degrees=degrees_by_n[n],
+                n_bootstraps=100,
+                seed=seed,
+            )
+        )
+
+    plot_bootstrap_bias_variance(
+        results_by_n=bootstrap_results_by_n,
+        sigma=sigma,
+        save_path=PLOTS_DIR / "part_c",
+    )
+
+
+# ============================================================
+# PART D: k-fold cross-validation and compare all methods
+# ============================================================
+def run_part_d( seed=2026, test_size=0.20, ):
+    print("\nRunning Part D...\n")
+
+    data = prepare_part_cd_data( seed=seed, test_size=test_size, )
+
+    n_values = data["n_values"]
+    sigma = data["sigma"]
+    degrees_by_n = data["degrees_by_n"]
+
+    ridge_lambdas = np.logspace(-6, 0, 7)
+    representative_lmbdas = ridge_lambdas[[0, 3, 6]]
+
+    bootstrap_results_by_n = {}
     cv5_results_by_n = {}
     cv10_results_by_n = {}
 
-    for n in bias_variance_n_values:
+    ridge_results_by_n = { n: {} for n in n_values }
 
-        ( x_train_n, x_test_n, y_train_n, y_test_n, ) = data_splits_by_n[n]
+    for n in n_values:
 
-        bootstrap_results_by_n[n] = bootstrap_bias_variance( x_train=x_train_n, x_test=x_test_n,
-                                                             y_train=y_train_n, y_test=y_test_n,
-                                                             degrees=bias_variance_degrees[n],
-                                                             n_bootstraps=n_bootstraps, seed=seed, )
+        ( x_train, x_test, y_train, y_test, ) = data["data_splits_by_n"][n]
 
-        degrees_n = bias_variance_degrees[n]
+        x_all, y_all = data["data_nosplit_by_n"][n]
 
-        # 5-fold cross-validation on the training data.
-        cv5_results_by_n[n] = cross_validation_mse( x=x_train_n, y=y_train_n, degrees=degrees_n, n_splits=5, seed=seed, )
+        degrees_n = degrees_by_n[n]
 
-        # 10-fold cross-validation on the same training data.
-        cv10_results_by_n[n] = cross_validation_mse( x=x_train_n, y=y_train_n, degrees=degrees_n, n_splits=10, seed=seed, )
+        # Ridge
+        for lmbda in representative_lmbdas:
 
-    plot_bootstrap_bias_variance( results_by_n=bootstrap_results_by_n, sigma=bias_variance_sigma, save_path=PLOTS_DIR / "part_c", )
+            mse_test_ridge = []
 
-    plot_cross_validation_comparison( bootstrap_results_by_n=bootstrap_results_by_n, cv5_results_by_n=cv5_results_by_n,
-                                      cv10_results_by_n=cv10_results_by_n, sigma=bias_variance_sigma, save_path=PLOTS_DIR / "part_d", )
+            for degree in degrees_n:
 
-    print()
-    print("Cross-validation study OLS")
-    print("--------------------------")
+                result = fit_and_evaluate( x_train=x_train, x_test=x_test, y_train=y_train, y_test=y_test,
+                                           degree=degree, method="ridge", lmbda=lmbda, )
 
-    for n in bias_variance_n_values:
+                mse_test_ridge.append( result["mse_test"] )
 
-        degrees_n = bias_variance_degrees[n]
+            ridge_results_by_n[n][lmbda] = {
+                "mse_test":
+                    np.asarray(mse_test_ridge)
+            }
 
-        cv5 = cv5_results_by_n[n]["mean_mse"]
-        cv10 = cv10_results_by_n[n]["mean_mse"]
-
-        best_5 = np.argmin(cv5)
-        best_10 = np.argmin(cv10)
-
-        print(
-            f"n={n:3d}: "
-            f"5-fold -> d={degrees_n[best_5]:2d}, "
-            f"MSE={cv5[best_5]:.6f}; "
-            f"10-fold -> d={degrees_n[best_10]:2d}, "
-            f"MSE={cv10[best_10]:.6f}"
+        # Bootstrap
+        bootstrap_results_by_n[n] = (
+            bootstrap_bias_variance( x_train=x_train, x_test=x_test, y_train=y_train, y_test=y_test,
+                                     degrees=degrees_n, n_bootstraps=100, seed=seed, )
         )
 
+        # Cross-validation uses all available data
+        cv5_results_by_n[n] = cross_validation_mse( x=x_all, y=y_all, degrees=degrees_n,
+                                                    n_splits=5, seed=seed, )
+
+        cv10_results_by_n[n] = cross_validation_mse( x=x_all, y=y_all, degrees=degrees_n,
+                                                     n_splits=10, seed=seed, )
+
+    plot_validation_comparison(
+        bootstrap_results_by_n=bootstrap_results_by_n,
+        cv5_results_by_n=cv5_results_by_n,
+        cv10_results_by_n=cv10_results_by_n,
+        mse_test_by_n=data["mse_test_by_n"],
+        ridge_lambdas=representative_lmbdas,
+        ridge_results=ridge_results_by_n,
+        sigma=sigma,
+        save_path=PLOTS_DIR / "part_d",
+    )
+
+
+# ============================================================
+# PART E: Plain gradient descent Analytical vs automatic differentiation
+# ============================================================
+def run_part_e( seed=2026, test_size=0.20, ):
+
+    print("\nRunning Part E...\n")
+
+    gd_n = 200
+    gd_sigma = 0.1
+    gd_degree = 5
+    gd_lmbda = 1.0e-2
+
+    # ------------------------------------------------------------
+    # Generate the data and use the same preprocessing convention as in Parts A and B.
+    # ------------------------------------------------------------
+
+    x_gd, y_gd = artificial_data( n=gd_n, sigma=gd_sigma, seed=seed, )
+
+    ( x_train_gd, x_test_gd, y_train_gd, y_test_gd, 
+     ) = train_test_split( x_gd, y_gd, test_size=test_size, random_state=seed, )
+
+    X_train_gd = design_matrix( x_train_gd, gd_degree, )
+
+    X_test_gd = design_matrix( x_test_gd, gd_degree, )
+
+    feature_means, feature_stds = fit_feature_scaler( X_train_gd )
+
+    X_train_gd = scale_design_matrix( X_train_gd, feature_means, feature_stds, )
+
+    X_test_gd = scale_design_matrix( X_test_gd, feature_means, feature_stds, )
+
+    # Use exactly the same initial theta for every GD run.
+    rng_gd = np.random.default_rng(seed)
+
+    theta0 = rng_gd.normal( size=X_train_gd.shape[1] )
+
+    # ------------------------------------------------------------
+    # 1. Analytical gradient vs automatic differentiation
+    # ------------------------------------------------------------
+
+    ols_gradient_difference = compare_gradients( theta=theta0, X=X_train_gd,
+                                                 y=y_train_gd, method="ols", )
+
+    ridge_gradient_difference = compare_gradients( theta=theta0, X=X_train_gd, 
+                                                   y=y_train_gd, method="ridge",
+                                                   lmbda=gd_lmbda, )
+
+    print()
+    print("Gradient check")
+    print("--------------")
+    print(
+        "OLS   max |AD - analytic| = "
+        f"{ols_gradient_difference:.3e}"
+    )
+    print(
+        "Ridge max |AD - analytic| = "
+        f"{ridge_gradient_difference:.3e}"
+    )
+
+    # ------------------------------------------------------------
+    # 2. Closed-form solutions for reference
+    # ------------------------------------------------------------
+
+    theta_ols_closed = fit_ols( X_train_gd, y_train_gd, )
+
+    theta_ridge_closed = fit_ridge( X_train_gd, y_train_gd, gd_lmbda, )
+
+    # ------------------------------------------------------------
+    # 3. Hessian and theoretical learning-rate limits
+    # ------------------------------------------------------------
+
+    ols_lr_info = learning_rate_information( X_train_gd, method="ols", )
+
+    ridge_lr_info = learning_rate_information( X_train_gd, method="ridge", lmbda=gd_lmbda, )
+
+    print()
+    print("Learning-rate information")
+    print("-------------------------")
+
+    print(
+        "OLS: "
+        f"kappa={ols_lr_info['condition_number']:.3e}, "
+        f"eta_opt={ols_lr_info['eta_opt']:.6f}, "
+        f"eta_max={ols_lr_info['eta_max']:.6f}"
+    )
+
+    print(
+        "Ridge: "
+        f"kappa={ridge_lr_info['condition_number']:.3e}, "
+        f"eta_opt={ridge_lr_info['eta_opt']:.6f}, "
+        f"eta_max={ridge_lr_info['eta_max']:.6f}"
+    )
+
+    # ------------------------------------------------------------
+    # 4. Run GD using BOTH gradient implementations and compare with Parts A and B
+    # ------------------------------------------------------------
+
+    print()
+    print("Gradient descent: analytical vs AD")
+    print("----------------------------------")
+
+    gd_solution_results = {}
+
+    part_ab_results = {
+    "ols": fit_and_evaluate( x_train=x_train_gd, x_test=x_test_gd, y_train=y_train_gd, y_test=y_test_gd,
+                             degree=gd_degree, method="ols", ),
+
+    "ridge": fit_and_evaluate( x_train=x_train_gd, x_test=x_test_gd, y_train=y_train_gd, y_test=y_test_gd,
+                               degree=gd_degree, method="ridge", lmbda=gd_lmbda, ),
+    }
+
+    for method, lmbda, theta_closed, lr_info in [
+        ( "ols", 0.0, theta_ols_closed, ols_lr_info, ),
+        ( "ridge", gd_lmbda, theta_ridge_closed, ridge_lr_info, ),
+    ]:
+
+        for gradient_source in [ "analytic", "autodiff", ]:
+
+            result = gradient_descent(
+                X=X_train_gd,
+                y=y_train_gd,
+                eta=lr_info["eta_opt"],
+                method=method,
+                lmbda=lmbda,
+                gradient_source=gradient_source,
+                theta0=theta0,
+                max_iter=100000,
+                tol=1.0e-8,
+                seed=seed,
+            )
+
+            theta_error = np.linalg.norm( result["theta"] - theta_closed )
+
+            y_test_pred = predict( X_test_gd, result["theta"], )
+            test_mse = mean_squared_error( y_test_gd, y_test_pred, )
+
+            if gradient_source == "analytic":
+                gd_solution_results[method] = { "theta": result["theta"].copy(), "test_mse": test_mse, }
+
+            print(
+                f"{method.upper():5s} "
+                f"{gradient_source:8s}: "
+                f"iterations={result['iterations']:6d}, "
+                f"converged={result['converged']}, "
+                f"|theta-theta_closed|={theta_error:.3e}, "
+                f"test MSE={test_mse:.6f}"
+            )
+
+        theta_difference = np.linalg.norm( gd_solution_results[method]["theta"] - part_ab_results[method]["theta"] )
+        mse_difference = abs( gd_solution_results[method]["test_mse"] - part_ab_results[method]["mse_test"] )   
+
+        print(
+            f"{method.upper():5s}: "
+            f"Part A/B MSE={part_ab_results[method]['mse_test']:.9f}, "
+            f"GD MSE={gd_solution_results[method]['test_mse']:.9f}, "
+            f"|delta MSE|={mse_difference:.3e}, "
+            f"|delta theta|={theta_difference:.3e}"
+        )
+        
+   # ------------------------------------------------------------
+   # 5. Learning-rate study
+   # ------------------------------------------------------------
+
+    eta_factors = [ 0.10, 0.50, 0.90, 0.99, 1.01, ]
+
+    print()
+    print("Learning-rate study")
+    print("-------------------")
+
+    learning_rate_results = {
+        "ols": {},
+        "ridge": {},
+    }
+
+    for method, lmbda, theta_closed, lr_info in [
+        ( "ols", 0.0, theta_ols_closed, ols_lr_info, ),
+        ( "ridge", gd_lmbda, theta_ridge_closed, ridge_lr_info, ),
+    ]:
+
+        print()
+        print(method.upper())
+
+        for factor in eta_factors:
+
+            eta = ( factor * lr_info["eta_max"] )
+
+            result = gradient_descent(
+                X=X_train_gd,
+                y=y_train_gd,
+                eta=eta,
+                method=method,
+                lmbda=lmbda,
+                gradient_source="analytic",
+                theta0=theta0,
+                max_iter=100000,
+                tol=1.0e-8,
+                seed=seed,
+            )
+
+            theta_error = np.linalg.norm( result["theta"] - theta_closed )
+
+            learning_rate_results[method][factor] = {
+                "eta": eta,
+                "result": result,
+                "theta_error": theta_error,
+            }
+
+            print(
+                f"eta/eta_max={factor:4.2f}: "
+                f"eta={eta:.6f}, "
+                f"iterations={result['iterations']:6d}, "
+                f"converged={result['converged']}, "
+                f"diverged={result['diverged']}, "
+                f"|theta-theta_closed|={theta_error:.3e}"
+            )
+
+    minimum_costs = {
+        "ols": ols_cost( theta_ols_closed, X_train_gd, y_train_gd, ),
+        "ridge": ridge_cost( theta_ridge_closed, X_train_gd, y_train_gd, gd_lmbda, ),
+    }
+
+    plot_gd_learning_rate_study( learning_rate_results=learning_rate_results,
+                                 minimum_costs=minimum_costs,
+                                 save_path=PLOTS_DIR / "part_e", )
+
+
+
+# ============================================================
+# PART F: Momentum and adaptive optimizers
+# ============================================================
+
+def run_part_f( seed=2026, test_size=0.20, ):
+
+    print("\nRunning Part F...\n")
+
+    opt_n = 200
+    opt_sigma = 0.1
+    opt_degree = 5
+    opt_lmbda = 1.0e-2
+
+    accuracy_tol = 1.0e-4
+    max_iter = 50000
+
+    output_dir = PLOTS_DIR / "part_f"
+
+    output_dir.mkdir( parents=True, exist_ok=True, )
+
+    # ------------------------------------------------------------
+    # Same data setup as Part E
+    # ------------------------------------------------------------
+
+    x, y = artificial_data( n=opt_n, sigma=opt_sigma, seed=seed, )
+
+    ( x_train, x_test, y_train, y_test,
+     ) = train_test_split( x, y, test_size=test_size, random_state=seed, )
+
+    X_train = design_matrix( x_train, opt_degree, )
+    X_test = design_matrix( x_test, opt_degree,)
+
+    feature_means, feature_stds = (
+        fit_feature_scaler(X_train)
+    )
+
+    X_train = scale_design_matrix(
+        X_train,
+        feature_means,
+        feature_stds,
+    )
+
+    X_test = scale_design_matrix(
+        X_test,
+        feature_means,
+        feature_stds,
+    )
+
+    # Same initial theta for every optimizer.
+    rng = np.random.default_rng(seed)
+
+    theta0 = rng.normal(
+        size=X_train.shape[1]
+    )
+
+    # ------------------------------------------------------------
+    # Closed-form reference solutions
+    # ------------------------------------------------------------
+
+    theta_closed = {
+        "ols": fit_ols(
+            X_train,
+            y_train,
+        ),
+
+        "ridge": fit_ridge(
+            X_train,
+            y_train,
+            opt_lmbda,
+        ),
+    }
+
+    minimum_cost = {
+        "ols": ols_cost(
+            theta_closed["ols"],
+            X_train,
+            y_train,
+        ),
+
+        "ridge": ridge_cost(
+            theta_closed["ridge"],
+            X_train,
+            y_train,
+            opt_lmbda,
+        ),
+    }
+
+    # ------------------------------------------------------------
+    # Run OLS and Ridge separately
+    # ------------------------------------------------------------
+
+    for method in [
+        "ols",
+        "ridge",
+    ]:
+
+        if method == "ols":
+
+            lmbda = 0.0
+
+        else:
+
+            lmbda = opt_lmbda
+
+        # Plain-GD information is useful for choosing
+        # the search interval.
+        lr_info = learning_rate_information(
+            X_train,
+            method=method,
+            lmbda=lmbda,
+        )
+
+        # --------------------------------------------------------
+        # Learning-rate search ranges
+        #
+        # They deliberately differ by optimizer because eta does
+        # not have the same meaning for adaptive methods.
+        # --------------------------------------------------------
+
+        eta_values_by_optimizer = {
+
+            "plain": np.unique(
+                np.array([
+                    0.01,
+                    0.03,
+                    0.10,
+                    0.20,
+                    0.30,
+                    lr_info["eta_opt"],
+                ])
+            ),
+
+            "momentum": np.array([
+                0.003,
+                0.01,
+                0.03,
+                0.10,
+                0.20,
+                0.30,
+            ]),
+
+            "adagrad": np.array([
+                0.03,
+                0.10,
+                0.30,
+                0.50,
+                0.70,
+                1.00,
+            ]),
+
+            "rmsprop": np.array([
+                1.0e-5,
+                3.0e-5,
+                5.0e-5,
+                8.0e-5,
+                1.0e-4,
+                3.0e-4,
+            ]),
+
+            "adam": np.array([
+                0.001,
+                0.003,
+                0.01,
+                0.03,
+                0.10,
+                0.30,
+            ]),
+        }
+
+        sweep_results = (
+            optimizer_learning_rate_sweep(
+                X_train=X_train,
+                y_train=y_train,
+                X_test=X_test,
+                y_test=y_test,
+                theta_reference=
+                    theta_closed[method],
+                eta_values_by_optimizer=
+                    eta_values_by_optimizer,
+                method=method,
+                lmbda=lmbda,
+                theta0=theta0,
+                accuracy_tol=accuracy_tol,
+                max_iter=max_iter,
+                seed=seed,
+            )
+        )
+
+        best_results = (
+            select_best_optimizer_runs(
+                sweep_results
+            )
+        )
+
+        # --------------------------------------------------------
+        # Numerical summary
+        # --------------------------------------------------------
+
+        print()
+        print(
+            f"Optimizer comparison {method.upper()}"
+        )
+        print(
+            "--------------------------------"
+        )
+
+        for optimizer, data in (
+            best_results.items()
+        ):
+
+            if data is None:
+
+                print(
+                    f"{optimizer:8s}: "
+                    "no learning rate reached "
+                    "the target accuracy"
+                )
+
+                continue
+
+            eta = data["eta"]
+            result = data["result"]
+
+            print(
+                f"{optimizer:8s}: "
+                f"eta={eta:.3e}, "
+                f"iterations={result['iterations']:6d}, "
+                f"relative error="
+                f"{result['relative_theta_error']:.3e}, "
+                f"test MSE="
+                f"{result['test_mse']:.6f}"
+            )
+
+        # --------------------------------------------------------
+        # Plots
+        # --------------------------------------------------------
+
+        plot_optimizer_convergence(
+            best_results=best_results,
+            minimum_cost=minimum_cost[method],
+            method=method,
+            save_path=output_dir,
+        )
+
+        plot_optimizer_eta_sensitivity(
+            sweep_results=sweep_results,
+            method=method,
+            max_iter=max_iter,
+            accuracy_tol=accuracy_tol,
+            save_path=output_dir,
+        )
+
+
+# ============================================================
+# MAIN PART
+# ============================================================
+def main():
+
+    parser = argparse.ArgumentParser(
+        description=( "Run selected parts of Machine Learning Project 1." )
+    )
+
+    parser.add_argument(
+        "part",
+        choices=[ "a", "b", "c", "d", "e", "f", ],
+        help=( "Project part to run: "
+            "a, b, c, d, e, f." ),
+    )
+
+    args = parser.parse_args()
+
+    seed = 2026
+    test_size = 0.20
+
+    if args.part == "a":
+        run_part_a( seed=seed, test_size=test_size, )
+
+    elif args.part == "b":
+        run_part_b( seed=seed, test_size=test_size, )
+
+    elif args.part == "c":
+        run_part_c( seed=seed, test_size=test_size, )
+
+    elif args.part == "d":
+        run_part_d( seed=seed, test_size=test_size, )
+
+    elif args.part == "e":
+        run_part_e( seed=seed, test_size=test_size, )
+
+    elif args.part == "f":
+        run_part_f( seed=seed, test_size=test_size, )
+
+    print("\nSee results in P1/plots \n")
 
 if __name__ == "__main__":
     main()

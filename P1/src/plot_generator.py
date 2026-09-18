@@ -652,10 +652,13 @@ def plot_bootstrap_bias_variance(
 
         plt.close(fig)
 
-def plot_cross_validation_comparison(
+def plot_validation_comparison(
     bootstrap_results_by_n,
     cv5_results_by_n,
     cv10_results_by_n,
+    mse_test_by_n,
+    ridge_lambdas,
+    ridge_results,
     sigma,
     save_path=None,
 ):
@@ -681,7 +684,8 @@ def plot_cross_validation_comparison(
         ax.plot(
             degrees,
             cv5_results_by_n[n]["mean_mse"],
-            marker="+",
+            marker="^",
+            linestyle="dotted",
             markersize=5,
             label="5-fold CV",
         )
@@ -689,10 +693,30 @@ def plot_cross_validation_comparison(
         ax.plot(
             degrees,
             cv10_results_by_n[n]["mean_mse"],
-            marker="x",
+            marker="^",
+            linestyle="dotted",
             markersize=5,
             label="10-fold CV",
         )
+
+        ax.plot(
+            degrees,
+            mse_test_by_n[n],
+            marker="*",
+            markersize=5,
+            label="OLS",
+        )
+
+        for lmbda in ridge_lambdas:
+
+            ax.plot(
+                degrees,
+                ridge_results[n][lmbda]["mse_test"],
+                marker="+",
+                linestyle= "--",
+                markersize=5,
+                label=rf"Ridge $\lambda={lmbda:.0e}$",
+            )
 
         ax.set_xlabel("Polynomial degree")
         ax.set_ylabel("Estimated MSE")
@@ -710,9 +734,228 @@ def plot_cross_validation_comparison(
         if save_path is not None:
             fig.savefig(
                 save_path
-                / f"OLS_bootstrap_cross_validation_n{n}.pdf",
+                / f"validation_comparison_n{n}.pdf",
                 dpi=300,
                 bbox_inches="tight",
             )
 
         plt.close(fig)
+
+def plot_gd_learning_rate_study(
+    learning_rate_results,
+    minimum_costs,
+    save_path=None,
+):
+    """
+    Plot excess cost versus iteration for different
+    fractions of the theoretical maximum learning rate.
+    """
+
+    for method in ["ols", "ridge"]:
+
+        fig, ax = plt.subplots(figsize=(8, 5))
+
+        for factor, data in learning_rate_results[method].items():
+
+            cost_history = data["result"]["cost_history"]
+
+            excess_cost = (
+                cost_history - minimum_costs[method]
+            )
+
+            # Avoid log(0) when numerical precision is reached.
+            excess_cost = np.maximum(
+                excess_cost,
+                np.finfo(float).eps,
+            )
+
+            iterations = np.arange(
+                1,
+                len(excess_cost) + 1,
+            )
+
+            label = (
+                rf"$\eta/\eta_{{\max}}={factor:.2f}$"
+            )
+
+            if data["result"]["diverged"]:
+                label += " (diverged)"
+
+            ax.plot(
+                iterations,
+                excess_cost,
+                label=label,
+            )
+
+        ax.set_xscale("log")
+        ax.set_yscale("log")
+
+        ax.set_xlabel("Iteration")
+        ax.set_ylabel(
+            r"$C(\theta_k)-C(\hat{\theta})$"
+        )
+
+        ax.set_title(
+            f"{method.upper()} gradient-descent convergence"
+        )
+
+        ax.legend()
+        ax.grid(alpha=0.3)
+        fig.tight_layout()
+
+        if save_path is not None:
+            fig.savefig(
+                save_path
+                / f"GD_learning_rate_{method}.pdf",
+                dpi=300,
+                bbox_inches="tight",
+            )
+
+        plt.close(fig)
+
+def plot_optimizer_convergence(
+    best_results,
+    minimum_cost,
+    method,
+    save_path=None,
+):
+    """
+    Compare the convergence histories of the best
+    learning rate found for each optimizer.
+    """
+
+    fig, ax = plt.subplots(figsize=(8, 5))
+
+    for optimizer, data in best_results.items():
+
+        if data is None:
+            continue
+
+        eta = data["eta"]
+
+        cost_history = (
+            data["result"]["cost_history"]
+        )
+
+        excess_cost = (
+            cost_history - minimum_cost
+        )
+
+        excess_cost = np.maximum(
+            excess_cost,
+            np.finfo(float).eps,
+        )
+
+        iterations = np.arange(
+            1,
+            len(excess_cost) + 1,
+        )
+
+        ax.plot(
+            iterations,
+            excess_cost,
+            label=(
+                rf"{optimizer}, "
+                rf"$\eta={eta:.1e}$"
+            ),
+        )
+
+    ax.set_xscale("log")
+    ax.set_yscale("log")
+
+    ax.set_xlabel("Iteration")
+    ax.set_ylabel(
+        r"$C(\theta_t)-C(\hat{\theta})$"
+    )
+
+    ax.set_title(
+        f"{method.upper()} optimizer comparison"
+    )
+
+    ax.legend()
+    ax.grid(alpha=0.3)
+    fig.tight_layout()
+
+    if save_path is not None:
+
+        fig.savefig(
+            save_path
+            / f"optimizer_convergence_{method}.pdf",
+            dpi=300,
+            bbox_inches="tight",
+        )
+
+    plt.close(fig)
+
+def plot_optimizer_eta_sensitivity(
+    sweep_results,
+    method,
+    max_iter,
+    accuracy_tol,
+    save_path=None,
+):
+    """
+    Plot iterations required to reach the target
+    relative parameter accuracy as a function of eta.
+
+    Runs that do not converge are shown at max_iter.
+    """
+
+    fig, ax = plt.subplots(figsize=(8, 5))
+
+    for optimizer, runs in sweep_results.items():
+
+        eta_values = np.array(
+            sorted(runs.keys())
+        )
+
+        iterations = []
+
+        for eta in eta_values:
+
+            result = runs[eta]
+
+            if result["converged"]:
+                iterations.append(
+                    result["iterations"]
+                )
+            else:
+                iterations.append(max_iter)
+
+        ax.plot(
+            eta_values,
+            iterations,
+            marker="o",
+            label=optimizer,
+        )
+
+    ax.set_xscale("log")
+    ax.set_yscale("log")
+
+    ax.set_xlabel(
+        "Initial learning rate"
+    )
+
+    ax.set_ylabel(
+        "Iterations to target accuracy"
+    )
+
+    ax.set_title(
+        rf"{method.upper()} learning-rate sensitivity "
+        rf"($\epsilon_\theta={accuracy_tol:.0e}$)"
+    )
+
+    ax.legend()
+    ax.grid(alpha=0.3)
+    fig.tight_layout()
+
+    if save_path is not None:
+
+        fig.savefig(
+            save_path
+            / f"optimizer_eta_sensitivity_{method}.pdf",
+            dpi=300,
+            bbox_inches="tight",
+        )
+
+    plt.close(fig)
