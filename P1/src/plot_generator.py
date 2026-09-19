@@ -959,3 +959,135 @@ def plot_optimizer_eta_sensitivity(
         )
 
     plt.close(fig)
+
+def plot_lasso_coefficient_path(
+    lasso_results,
+    save_path=None,
+):
+    """
+    Plot the non-intercept Lasso coefficients
+    as functions of lambda.
+    """
+    lasso_lambdas = np.array(
+        sorted(lasso_results.keys())
+    )
+    
+    fig, ax = plt.subplots(
+        figsize=(8, 5)
+    )
+
+    theta_matrix = np.array([
+        lasso_results[lmbda]["theta_own"]
+        for lmbda in lasso_lambdas
+    ])
+
+    for j in range(
+        1,
+        theta_matrix.shape[1],
+    ):
+
+        ax.plot(
+            lasso_lambdas,
+            theta_matrix[:, j],
+            marker="o",
+            label=rf"$\theta_{j}$",
+        )
+
+    ax.set_xscale("log")
+
+    ax.set_xlabel(
+        r"Penalty $\lambda$"
+    )
+
+    ax.set_ylabel(
+        r"Coefficient $\theta_j$"
+    )
+
+    ax.set_title(
+        "Lasso coefficient paths"
+    )
+
+    ax.legend()
+    ax.grid(alpha=0.3)
+    fig.tight_layout()
+
+    if save_path is not None:
+
+        fig.savefig(
+            save_path
+            / "Lasso_coefficient_path.pdf",
+            dpi=300,
+            bbox_inches="tight",
+        )
+
+    plt.close(fig)
+
+def plot_ols_ridge_lasso_coefficients(
+    theta_ols,
+    theta_ridge,
+    theta_lasso,
+    lmbda,
+    save_path=None,
+):
+    """
+    Compare non-intercept coefficients for
+    OLS, Ridge and Lasso.
+    """
+
+    indices = np.arange(
+        1,
+        len(theta_ols),
+    )
+
+    fig, ax = plt.subplots(
+        figsize=(8, 5)
+    )
+
+    ax.plot(
+        indices,
+        theta_ols[1:],
+        marker="o",
+        label="OLS",
+    )
+
+    ax.plot(
+        indices,
+        theta_ridge[1:],
+        marker="+",
+        label="Ridge",
+    )
+
+    ax.plot(
+        indices,
+        theta_lasso[1:],
+        marker="x",
+        label="Lasso",
+    )
+
+    ax.set_xlabel(
+        r"Coefficient index $j$"
+    )
+
+    ax.set_ylabel(
+        r"$\theta_j$"
+    )
+
+    ax.set_title(
+        rf"OLS, Ridge and Lasso coefficients "
+        rf"($\lambda={lmbda:.0e}$)"
+    )
+
+    ax.legend()
+    ax.grid(alpha=0.3)
+    fig.tight_layout()
+
+    if save_path is not None:
+
+        fig.savefig(
+            save_path
+            / "OLS_Ridge_Lasso_coefficients.pdf",
+            dpi=300,
+            bbox_inches="tight",
+        )
+
+    plt.close(fig)

@@ -2,7 +2,10 @@ import numpy as np
 import argparse
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
+from sklearn.linear_model import Lasso
 from pathlib import Path
+import jax
+import jax.numpy as jnp
 
 from utilities import (
     artificial_data,
@@ -21,8 +24,11 @@ from utilities import (
     gradient_descent,
     ols_cost,
     ridge_cost,
+    lasso_cost,
     optimizer_learning_rate_sweep,
     select_best_optimizer_runs,
+    fit_lasso_coordinate_descent,
+    lasso_kkt_violation
 )
 
 from plot_generator import (
@@ -37,6 +43,8 @@ from plot_generator import (
     plot_gd_learning_rate_study,
     plot_optimizer_convergence,
     plot_optimizer_eta_sensitivity,
+    plot_lasso_coefficient_path,
+    plot_ols_ridge_lasso_coefficients,
 )
 
 plt.rcParams.update({
@@ -841,11 +849,9 @@ def run_part_e( seed=2026, test_size=0.20, ):
                                  save_path=PLOTS_DIR / "part_e", )
 
 
-
 # ============================================================
 # PART F: Momentum and adaptive optimizers
 # ============================================================
-
 def run_part_f( seed=2026, test_size=0.20, ):
 
     print("\nRunning Part F...\n")
@@ -902,31 +908,13 @@ def run_part_f( seed=2026, test_size=0.20, ):
     # ------------------------------------------------------------
 
     theta_closed = {
-        "ols": fit_ols(
-            X_train,
-            y_train,
-        ),
-
-        "ridge": fit_ridge(
-            X_train,
-            y_train,
-            opt_lmbda,
-        ),
+        "ols": fit_ols( X_train, y_train, ),
+        "ridge": fit_ridge( X_train, y_train, opt_lmbda, ),
     }
 
     minimum_cost = {
-        "ols": ols_cost(
-            theta_closed["ols"],
-            X_train,
-            y_train,
-        ),
-
-        "ridge": ridge_cost(
-            theta_closed["ridge"],
-            X_train,
-            y_train,
-            opt_lmbda,
-        ),
+        "ols": ols_cost( theta_closed["ols"], X_train, y_train, ),
+        "ridge": ridge_cost( theta_closed["ridge"], X_train, y_train, opt_lmbda, ),
     }
 
     # ------------------------------------------------------------
@@ -939,11 +927,8 @@ def run_part_f( seed=2026, test_size=0.20, ):
     ]:
 
         if method == "ols":
-
             lmbda = 0.0
-
         else:
-
             lmbda = opt_lmbda
 
         # Plain-GD information is useful for choosing
@@ -1096,6 +1081,361 @@ def run_part_f( seed=2026, test_size=0.20, ):
 
 
 # ============================================================
+# PART G: Lasso regression
+# ============================================================
+
+def run_part_g( seed=2026, test_size=0.20, ):
+
+    print("\nRunning Part G...\n")
+
+    lasso_n = 200
+    lasso_sigma = 0.1
+    lasso_degree = 5
+
+    lasso_lambdas = np.array([ 1.0e-4, 3.0e-4, 1.0e-3, 3.0e-3, 1.0e-2, 3.0e-2, 1.0e-1, ])
+
+    representative_lmbda = 1.0e-2
+
+    output_dir = PLOTS_DIR / "part_g"
+
+    output_dir.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
+
+    # ------------------------------------------------------------
+    # JAX behaviour at the non-differentiable point
+    # ------------------------------------------------------------
+
+    print("Derivative of |theta| with JAX")
+    print("------------------------------")
+
+    print(
+        "theta =  0.0:",
+        jax.grad(jnp.abs)(0.0),
+    )
+
+    print(
+        "theta = -0.3:",
+        jax.grad(jnp.abs)(-0.3),
+    )
+
+    print(
+        "theta =  0.3:",
+        jax.grad(jnp.abs)(0.3),
+    )
+
+    # ------------------------------------------------------------
+    # Data
+    # ------------------------------------------------------------
+
+    x, y = artificial_data(
+        n=lasso_n,
+        sigma=lasso_sigma,
+        seed=seed,
+    )
+
+    (
+        x_train,
+        x_test,
+        y_train,
+        y_test,
+    ) = train_test_split(
+        x,
+        y,
+        test_size=test_size,
+        random_state=seed,
+    )
+
+    X_train = design_matrix(
+        x_train,
+        lasso_degree,
+    )
+
+    X_test = design_matrix(
+        x_test,
+        lasso_degree,
+    )
+
+    feature_means, feature_stds = (
+        fit_feature_scaler(X_train)
+    )
+
+    X_train = scale_design_matrix(
+        X_train,
+        feature_means,
+        feature_stds,
+    )
+
+    X_test = scale_design_matrix(
+        X_test,
+        feature_means,
+        feature_stds,
+    )
+
+    # ------------------------------------------------------------
+    # OLS and Ridge reference models
+    # ------------------------------------------------------------
+
+    theta_ols = fit_ols(
+        X_train,
+        y_train,
+    )
+
+    theta_ridge = fit_ridge(
+        X_train,
+        y_train,
+        representative_lmbda,
+    )
+
+    # ------------------------------------------------------------
+    # Lasso path: our coordinate descent vs sklearn
+    # ------------------------------------------------------------
+
+    lasso_results = {}
+
+    print()
+    print("Lasso validation")
+    print("----------------")
+
+    for lmbda in lasso_lambdas:
+
+        own_result = (
+            fit_lasso_coordinate_descent(
+                X_train,
+                y_train,
+                lmbda=lmbda,
+            )
+        )
+
+        theta_own = own_result["theta"]
+
+        sklearn_model = Lasso(
+            alpha=lmbda / 2.0,
+            fit_intercept=True,
+            max_iter=200000,
+            tol=1.0e-10,
+        )
+
+        sklearn_model.fit(
+            X_train[:, 1:],
+            y_train,
+        )
+
+        theta_sklearn = np.concatenate(
+            (
+                [sklearn_model.intercept_],
+                sklearn_model.coef_,
+            )
+        )
+
+        y_test_own = predict(
+            X_test,
+            theta_own,
+        )
+
+        y_test_sklearn = predict(
+            X_test,
+            theta_sklearn,
+        )
+
+        lasso_results[lmbda] = {
+            "theta_own": theta_own,
+            "theta_sklearn":
+                theta_sklearn,
+
+            "mse_own":
+                mean_squared_error(
+                    y_test,
+                    y_test_own,
+                ),
+
+            "mse_sklearn":
+                mean_squared_error(
+                    y_test,
+                    y_test_sklearn,
+                ),
+
+            "theta_difference":
+                np.linalg.norm(
+                    theta_own
+                    - theta_sklearn
+                ),
+
+            "kkt_violation":
+                lasso_kkt_violation(
+                    theta_own,
+                    X_train,
+                    y_train,
+                    lmbda,
+                ),
+
+            "n_nonzero":
+                np.count_nonzero(
+                    np.abs(theta_own[1:])
+                    > 1.0e-8
+                ),
+        }
+
+        # --------------------------------------------------------
+        # Numerical summary
+        # --------------------------------------------------------
+
+        result = lasso_results[lmbda]
+
+        print(
+            f"lambda={lmbda:.1e}: "
+            f"MSE={result['mse_own']:.6f}, "
+            f"non-zero={result['n_nonzero']:2d}, "
+            f"|theta_own-theta_sk|="
+            f"{result['theta_difference']:.3e}, "
+            f"KKT={result['kkt_violation']:.3e}"
+        )
+
+    # --------------------------------------------------------
+    theta_lasso_reference = (
+        lasso_results[
+            representative_lmbda
+        ]["theta_own"]
+    )
+
+    rng = np.random.default_rng(seed)
+
+    theta0 = rng.normal(
+        size=X_train.shape[1]
+    )
+
+    eta_values_by_optimizer = {
+
+        "plain": np.array([
+            0.003,
+            0.01,
+            0.03,
+            0.10,
+        ]),
+
+        "momentum": np.array([
+            0.001,
+            0.003,
+            0.01,
+            0.03,
+            0.10,
+        ]),
+
+        "adagrad": np.array([
+            0.03,
+            0.10,
+            0.30,
+            0.50,
+            1.00,
+        ]),
+
+        "rmsprop": np.array([
+            1.0e-5,
+            3.0e-5,
+            5.0e-5,
+            1.0e-4,
+        ]),
+
+        "adam": np.array([
+            0.001,
+            0.003,
+            0.01,
+            0.03,
+            0.10,
+        ]),
+    }
+
+    lasso_sweep = (
+        optimizer_learning_rate_sweep(
+            X_train=X_train,
+            y_train=y_train,
+            X_test=X_test,
+            y_test=y_test,
+            theta_reference=
+                theta_lasso_reference,
+            eta_values_by_optimizer=
+                eta_values_by_optimizer,
+            method="lasso",
+            lmbda=
+                representative_lmbda,
+            theta0=theta0,
+            accuracy_tol=1.0e-3,
+            max_iter=100000,
+            seed=seed,
+        )
+    )
+
+    lasso_best_results = (
+        select_best_optimizer_runs(
+            lasso_sweep
+        )
+    )
+
+    print()
+    print("Lasso optimizer comparison")
+    print("--------------------------")
+
+    for optimizer, data in (
+        lasso_best_results.items()
+    ):
+
+        if data is None:
+
+            print(
+                f"{optimizer:8s}: "
+                "did not reach target accuracy"
+            )
+
+            continue
+
+        eta = data["eta"]
+        result = data["result"]
+
+        print(
+            f"{optimizer:8s}: "
+            f"eta={eta:.3e}, "
+            f"iterations="
+            f"{result['iterations']:6d}, "
+            f"relative error="
+            f"{result['relative_theta_error']:.3e}, "
+            f"test MSE="
+            f"{result['test_mse']:.6f}"
+        )
+
+    plot_lasso_coefficient_path(
+        lasso_results=lasso_results,
+        save_path=output_dir,
+    )
+
+    plot_ols_ridge_lasso_coefficients(
+        theta_ols=theta_ols,
+        theta_ridge=theta_ridge,
+        theta_lasso=
+            theta_lasso_reference,
+        lmbda=
+            representative_lmbda,
+        save_path=output_dir,
+    )
+
+    minimum_lasso_cost = lasso_cost(
+        theta_lasso_reference,
+        X_train,
+        y_train,
+        representative_lmbda,
+    )
+
+    plot_optimizer_convergence(
+        best_results=
+            lasso_best_results,
+        minimum_cost=
+            minimum_lasso_cost,
+        method="lasso",
+        save_path=output_dir,
+    )
+
+
+# ============================================================
 # MAIN PART
 # ============================================================
 def main():
@@ -1106,9 +1446,9 @@ def main():
 
     parser.add_argument(
         "part",
-        choices=[ "a", "b", "c", "d", "e", "f", ],
+        choices=[ "a", "b", "c", "d", "e", "f", "g" ],
         help=( "Project part to run: "
-            "a, b, c, d, e, f." ),
+            "a, b, c, d, e, f, g." ),
     )
 
     args = parser.parse_args()
@@ -1133,6 +1473,9 @@ def main():
 
     elif args.part == "f":
         run_part_f( seed=seed, test_size=test_size, )
+
+    elif args.part == "g":
+            run_part_g( seed=seed, test_size=test_size, )
 
     print("\nSee results in P1/plots \n")
 

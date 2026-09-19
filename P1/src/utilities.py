@@ -76,6 +76,10 @@ def ridge_penalty_matrix(n_parameters):
     penalty[0, 0] = 0.0
     return penalty
 
+# ============================================================
+# Cost functions of OLS, Ridge and Lasso
+# ============================================================
+
 def ols_cost(theta, X, y):
     """
     OLS cost:
@@ -96,6 +100,25 @@ def ridge_cost(theta, X, y, lmbda):
         ols_cost(theta, X, y)
         + lmbda * np.sum(theta[1:]**2)
     )
+
+def lasso_cost(theta, X, y, lmbda):
+    """
+    Lasso cost using the project convention:
+
+        C(theta) =
+            (1/n)||X theta - y||^2
+            + lambda * sum_j |theta_j|
+
+    The intercept theta_0 is not penalized.
+    """
+    return (
+        ols_cost(theta, X, y)
+        + lmbda * np.sum(np.abs(theta[1:]))
+    )
+
+# ============================================================
+# Analytic gradient for OLS, Ridge and Lasso
+# ============================================================
 
 def ols_gradient_analytic(theta, X, y):
     """
@@ -120,6 +143,31 @@ def ridge_gradient_analytic(theta, X, y, lmbda):
 
     return gradient
 
+def lasso_subgradient_analytic(theta, X, y, lmbda,):
+    """
+    Subgradient of the Lasso objective.
+
+    At theta_j = 0 we choose the subgradient 0,
+    which is a valid element of [-1, 1].
+
+    The intercept is not penalized.
+    """
+    gradient = ols_gradient_analytic(
+        theta,
+        X,
+        y,
+    )
+
+    gradient = gradient.copy()
+
+    gradient[1:] += (
+        lmbda * np.sign(theta[1:])
+    )
+
+    return gradient
+
+# ============================================================
+
 def predict(X, theta):
     """Return model predictions X @ theta."""
     return X @ theta
@@ -143,15 +191,7 @@ def r2_score(y_true, y_pred):
 
     return 1.0 - numerator / denominator
 
-def fit_and_evaluate(
-    x_train,
-    x_test,
-    y_train,
-    y_test,
-    degree,
-    method="ols",
-    lmbda=0.0,
-):
+def fit_and_evaluate( x_train, x_test, y_train, y_test, degree, method="ols", lmbda=0.0,):
     """
     Fit and evaluate one polynomial OLS or Ridge model.
     """
@@ -199,15 +239,7 @@ def fit_and_evaluate(
         "r2_test": r2_score(y_test, y_test_pred),
     }
 
-def bootstrap_bias_variance(
-    x_train,
-    x_test,
-    y_train,
-    y_test,
-    degrees,
-    n_bootstraps=100,
-    seed=2026,
-):
+def bootstrap_bias_variance( x_train, x_test, y_train, y_test, degrees, n_bootstraps=100, seed=2026,):
     """
     Estimate bootstrap prediction error, squared bias and variance
     for OLS polynomial regression.
@@ -277,13 +309,7 @@ def bootstrap_bias_variance(
         "variance": variance,
     }
 
-def cross_validation_mse(
-    x,
-    y,
-    degrees,
-    n_splits=5,
-    seed=2026,
-):
+def cross_validation_mse( x, y, degrees, n_splits=5, seed=2026,):
     """
     Estimate OLS prediction error with k-fold cross-validation.
 
@@ -346,6 +372,14 @@ def _ridge_cost_jax(theta, X, y, lmbda):
         + lmbda * jnp.sum(theta[1:]**2)
     )
 
+def _lasso_cost_jax( theta, X, y, lmbda,):
+    return (
+        jnp.mean((X @ theta - y)**2)
+        + lmbda * jnp.sum(
+            jnp.abs(theta[1:])
+        )
+    )
+
 _ols_gradient_ad = jax.jit(
     jax.grad(_ols_cost_jax, argnums=0)
 )
@@ -354,13 +388,11 @@ _ridge_gradient_ad = jax.jit(
     jax.grad(_ridge_cost_jax, argnums=0)
 )
 
-def regression_gradient_autodiff(
-    theta,
-    X,
-    y,
-    method="ols",
-    lmbda=0.0,
-):
+_lasso_gradient_ad = jax.jit(
+    jax.grad(_lasso_cost_jax, argnums=0)    
+)
+
+def regression_gradient_autodiff( theta, X, y, method="ols", lmbda=0.0,):
     """
     Compute the regression gradient using JAX automatic
     differentiation.
@@ -384,9 +416,18 @@ def regression_gradient_autodiff(
             lmbda,
         )
 
+    elif method == "lasso":
+
+        gradient = _lasso_gradient_ad(
+            theta_jax,
+            X_jax,
+            y_jax,
+            lmbda,
+        )
+
     else:
         raise ValueError(
-            "method must be 'ols' or 'ridge'."
+            "method must be 'ols', 'ridge' or 'lasso'."
         )
 
     return np.asarray(gradient)
@@ -395,13 +436,7 @@ def regression_gradient_autodiff(
 # Gradient-check function
 # ============================================================
 
-def compare_gradients(
-    theta,
-    X,
-    y,
-    method="ols",
-    lmbda=0.0,
-):
+def compare_gradients( theta, X, y, method="ols", lmbda=0.0,):
     """
     Return the maximum absolute difference between the
     analytical and automatically differentiated gradients.
@@ -422,9 +457,17 @@ def compare_gradients(
             lmbda,
         )
 
+    elif method == "lasso":
+        gradient_analytic = lasso_subgradient_analytic(
+            theta,
+            X,
+            y,
+            lmbda,
+        )
+    
     else:
         raise ValueError(
-            "method must be 'ols' or 'ridge'."
+            "method must be 'ols', 'ridge' or 'lasso'."
         )
 
     gradient_ad = regression_gradient_autodiff(
@@ -445,11 +488,7 @@ def compare_gradients(
 # Hessian/learning-rate calculation
 # ============================================================
 
-def regression_hessian(
-    X,
-    method="ols",
-    lmbda=0.0,
-):
+def regression_hessian( X, method="ols", lmbda=0.0,):
     """
     Return the Hessian of the OLS or Ridge cost.
     """
@@ -474,11 +513,7 @@ def regression_hessian(
 
     return H
 
-def learning_rate_information(
-    X,
-    method="ols",
-    lmbda=0.0,
-):
+def learning_rate_information( X, method="ols", lmbda=0.0,):
     """
     Compute Hessian eigenvalues, condition number,
     theoretical optimal learning rate and stability limit.
@@ -528,19 +563,9 @@ def learning_rate_information(
 # Gradient-descent function
 # ============================================================
 
-def gradient_descent(
-    X,
-    y,
-    eta,
-    method="ols",
-    lmbda=0.0,
-    gradient_source="analytic",
-    theta0=None,
-    max_iter=100000,
-    tol=1.0e-8,
-    seed=2026,
-    divergence_threshold=1.0e12,
-):
+def gradient_descent( X, y, eta, method="ols", lmbda=0.0, gradient_source="analytic",
+                      theta0=None, max_iter=100000, tol=1.0e-8, seed=2026,
+                      divergence_threshold=1.0e12,):
     """
     Plain gradient descent with a fixed learning rate.
 
@@ -670,15 +695,10 @@ def gradient_descent(
     }
 
 # ============================================================
-# PART F: Optimizer update rules
+# Optimizer update rules
 # ============================================================
 
-def momentum_update(
-    gradient,
-    velocity,
-    eta,
-    gamma=0.9,
-):
+def momentum_update( gradient, velocity, eta, gamma=0.9,):
     """
     Momentum update.
 
@@ -690,12 +710,7 @@ def momentum_update(
     update = velocity
     return update, velocity
 
-def adagrad_update(
-    gradient,
-    accumulator,
-    eta,
-    eps=1.0e-8,
-):
+def adagrad_update( gradient, accumulator, eta, eps=1.0e-8,):
     """
     AdaGrad update.
     """
@@ -704,13 +719,7 @@ def adagrad_update(
     update = ( eta * gradient / (np.sqrt(accumulator) + eps) )
     return update, accumulator
 
-def rmsprop_update(
-    gradient,
-    accumulator,
-    eta,
-    rho=0.9,
-    eps=1.0e-8,
-):
+def rmsprop_update( gradient, accumulator, eta, rho=0.9, eps=1.0e-8,):
     """
     RMSProp update.
     """
@@ -719,16 +728,8 @@ def rmsprop_update(
     update = ( eta * gradient / (np.sqrt(accumulator) + eps) )
     return update, accumulator
 
-def adam_update(
-    gradient,
-    first_moment,
-    second_moment,
-    iteration,
-    eta,
-    beta1=0.9,
-    beta2=0.999,
-    eps=1.0e-8,
-):
+def adam_update( gradient, first_moment, second_moment, iteration,
+                 eta, beta1=0.9, beta2=0.999, eps=1.0e-8,):
     """
     Adam update with bias correction.
     """
@@ -741,26 +742,10 @@ def adam_update(
     update = ( eta * first_corrected / (np.sqrt(second_corrected) + eps) )
     return ( update, first_moment, second_moment, )
 
-def optimize_regression(
-    X,
-    y,
-    eta,
-    optimizer="plain",
-    method="ols",
-    lmbda=0.0,
-    gradient_source="analytic",
-    theta0=None,
-    theta_reference=None,
-    accuracy_tol=1.0e-4,
-    max_iter=50000,
-    seed=2026,
-    gamma=0.9,
-    rho=0.9,
-    beta1=0.9,
-    beta2=0.999,
-    eps=1.0e-8,
-    divergence_threshold=1.0e12,
-):
+def optimize_regression( X, y, eta, optimizer="plain", method="ols", lmbda=0.0,
+                         gradient_source="analytic", theta0=None, theta_reference=None,
+                         accuracy_tol=1.0e-4, max_iter=50000, seed=2026, gamma=0.9,
+                         rho=0.9, beta1=0.9, beta2=0.999, eps=1.0e-8, divergence_threshold=1.0e12,):
     """
     Optimize OLS or Ridge using one of:
 
@@ -828,8 +813,10 @@ def optimize_regression(
                 gradient = ols_gradient_analytic( theta, X, y, )
             elif method == "ridge":
                 gradient = ridge_gradient_analytic( theta, X, y, lmbda, )
+            elif method == "lasso":
+                gradient = lasso_subgradient_analytic( theta, X, y, lmbda, )
             else:
-                raise ValueError( "method must be 'ols' or 'ridge'." )
+                raise ValueError( "method must be 'ols', 'ridge' or 'lasso'." )
 
         elif gradient_source == "autodiff":
             gradient = regression_gradient_autodiff( theta, X, y, method=method, lmbda=lmbda, )
@@ -843,8 +830,12 @@ def optimize_regression(
 
         if method == "ols":
             cost = ols_cost( theta, X, y,)
-        else:
+        elif method == "ridge":
             cost = ridge_cost( theta, X, y, lmbda,)
+        elif method == "lasso":
+            cost = lasso_cost( theta, X, y, lmbda,)
+        else:
+            raise ValueError("method must be 'ols', 'ridge' or 'lasso'.")
 
         cost_history.append(cost)
 
@@ -970,20 +961,10 @@ def optimize_regression(
             np.asarray(relative_error_history),
     }
 
-def optimizer_learning_rate_sweep(
-    X_train,
-    y_train,
-    X_test,
-    y_test,
-    theta_reference,
-    eta_values_by_optimizer,
-    method="ols",
-    lmbda=0.0,
-    theta0=None,
-    accuracy_tol=1.0e-4,
-    max_iter=50000,
-    seed=2026,
-):
+def optimizer_learning_rate_sweep( X_train, y_train, X_test, y_test,
+                                   theta_reference, eta_values_by_optimizer,
+                                   method="ols", lmbda=0.0, theta0=None,
+                                   accuracy_tol=1.0e-4, max_iter=50000, seed=2026,):
     """
     Run several learning rates for each optimizer.
     """
@@ -1029,9 +1010,7 @@ def optimizer_learning_rate_sweep(
 
     return results
 
-def select_best_optimizer_runs(
-    sweep_results,
-):
+def select_best_optimizer_runs( sweep_results,):
     """
     Select the converged learning rate requiring the
     fewest iterations for each optimizer.
@@ -1064,3 +1043,142 @@ def select_best_optimizer_runs(
         }
 
     return best_results
+
+# ============================================================
+
+def lasso_kkt_violation( theta, X, y, lmbda, zero_tol=1.0e-8,):
+    """
+    Return the maximum violation of the Lasso
+    KKT/subgradient optimality conditions.
+    """
+    n = len(y)
+
+    residual = (
+        y - X @ theta
+    )
+
+    correlations = (
+        2.0 / n
+        * X.T @ residual
+    )
+
+    violations = []
+
+    # Intercept: no penalty.
+    violations.append(
+        abs(correlations[0])
+    )
+
+    for j in range(
+        1,
+        len(theta),
+    ):
+
+        if abs(theta[j]) > zero_tol:
+
+            violation = abs(
+                correlations[j]
+                - lmbda
+                * np.sign(theta[j])
+            )
+
+        else:
+
+            violation = max(
+                0.0,
+                abs(correlations[j])
+                - lmbda,
+            )
+
+        violations.append(
+            violation
+        )
+
+    return np.max(violations)
+
+def soft_threshold(z, threshold):
+    """
+    Soft-thresholding operator.
+    """
+    return (
+        np.sign(z)
+        * np.maximum(
+            np.abs(z) - threshold,
+            0.0,
+        )
+    )
+
+def fit_lasso_coordinate_descent( X, y, lmbda, max_iter=100000, tol=1.0e-10,):
+    """
+    Cyclic coordinate-descent solution of
+
+        (1/n)||y - X theta||^2
+        + lambda * sum_{j>0}|theta_j|.
+
+    The intercept theta_0 is not penalized.
+    """
+    X = np.asarray(X, dtype=float)
+    y = np.asarray(y, dtype=float)
+
+    n, p = X.shape
+
+    theta = np.zeros(p)
+
+    residual = y - X @ theta
+
+    column_norms = np.sum(
+        X**2,
+        axis=0,
+    )
+
+    for iteration in range(
+        1,
+        max_iter + 1,
+    ):
+
+        theta_old = theta.copy()
+
+        for j in range(p):
+
+            # Add back the current contribution
+            # from coefficient j.
+            residual += (
+                X[:, j] * theta[j]
+            )
+
+            rho = (
+                X[:, j] @ residual
+            )
+
+            if j == 0:
+
+                # Intercept is not penalized.
+                theta[j] = (
+                    rho / column_norms[j]
+                )
+
+            else:
+
+                theta[j] = (
+                    soft_threshold(
+                        rho,
+                        lmbda * n / 2.0,
+                    )
+                    / column_norms[j]
+                )
+
+            # Remove the updated contribution.
+            residual -= (
+                X[:, j] * theta[j]
+            )
+
+        if np.max(
+            np.abs(theta - theta_old)
+        ) < tol:
+
+            break
+
+    return {
+        "theta": theta,
+        "iterations": iteration,
+    }
