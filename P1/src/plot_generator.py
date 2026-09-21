@@ -1091,3 +1091,180 @@ def plot_ols_ridge_lasso_coefficients(
         )
 
     plt.close(fig)
+
+def plot_optimizer_convergence_with_sgd(
+    full_batch_results,
+    sgd_result,
+    minimum_cost,
+    method,
+    save_path=None,
+):
+    """
+    Compare the existing full-batch optimizers with
+    plain mini-batch SGD.
+
+    Horizontal axis is equivalent complete passes through
+    the training data, making the comparison meaningful.
+    """
+
+    fig, ax = plt.subplots(
+        figsize=(8, 5)
+    )
+
+    # Existing full-batch optimizers
+    for optimizer, data in (
+        full_batch_results.items()
+    ):
+
+        if data is None:
+            continue
+
+        eta = data["eta"]
+
+        cost_history = (
+            data["result"]["cost_history"]
+        )
+
+        excess_cost = np.maximum(
+            cost_history - minimum_cost,
+            np.finfo(float).eps,
+        )
+
+        data_passes = np.arange(
+            1,
+            len(excess_cost) + 1,
+        )
+
+        ax.plot(
+            data_passes,
+            excess_cost,
+            label=(
+                rf"{optimizer}, "
+                rf"$\eta={eta:.1e}$"
+            ),
+        )
+
+    # Plain stochastic GD
+    if sgd_result is not None:
+
+        cost_history = (
+            sgd_result["result"]["cost_history"]
+        )
+
+        excess_cost = np.maximum(
+            cost_history - minimum_cost,
+            np.finfo(float).eps,
+        )
+
+        epochs = np.arange(
+            1,
+            len(excess_cost) + 1,
+        )
+
+        ax.plot(
+            epochs,
+            excess_cost,
+            linestyle="--",
+            linewidth=2,
+            label=(
+                rf"SGD, "
+                rf"$\eta_0={sgd_result['eta']:.1e}$"
+            ),
+        )
+
+    ax.set_xscale("log")
+    ax.set_yscale("log")
+
+    ax.set_xlabel(
+        "Equivalent data passes"
+    )
+
+    ax.set_ylabel(
+        r"$C(\theta)-C(\hat{\theta})$"
+    )
+
+    ax.set_title(
+        f"{method.upper()} optimizer comparison with SGD"
+    )
+
+    ax.legend()
+    ax.grid(alpha=0.3)
+    fig.tight_layout()
+
+    if save_path is not None:
+
+        fig.savefig(
+            save_path
+            / f"optimizer_convergence_{method}_with_SGD.pdf",
+            dpi=300,
+            bbox_inches="tight",
+        )
+
+    plt.close(fig)
+
+def plot_sgd_batch_study(
+    batch_results,
+    minimum_cost,
+    method,
+    schedule,
+    save_path=None,
+):
+    """
+    Compare SGD convergence for different mini-batch sizes.
+    """
+
+    fig, ax = plt.subplots(
+        figsize=(8, 5)
+    )
+
+    for batch_size, result in (
+        batch_results.items()
+    ):
+
+        excess_cost = np.maximum(
+            result["cost_history"]
+            - minimum_cost,
+            np.finfo(float).eps,
+        )
+
+        epochs = np.arange(
+            1,
+            len(excess_cost) + 1,
+        )
+
+        ax.plot(
+            epochs,
+            excess_cost,
+            label=rf"$M={batch_size}$",
+        )
+
+    ax.set_xscale("log")
+    ax.set_yscale("log")
+
+    ax.set_xlabel("Epoch")
+    ax.set_ylabel(
+        r"$C(\theta)-C(\hat{\theta})$"
+    )
+
+    ax.set_title(
+        rf"{method.upper()} SGD: "
+        rf"{schedule.replace('_', ' ')} schedule"
+    )
+
+    ax.legend()
+    ax.grid(alpha=0.3)
+    fig.tight_layout()
+
+    if save_path is not None:
+
+        fig.savefig(
+            save_path
+            / (
+                f"SGD_batch_size_{method}_"
+                f"{schedule}.pdf"
+            ),
+            dpi=300,
+            bbox_inches="tight",
+        )
+
+    plt.close(fig)

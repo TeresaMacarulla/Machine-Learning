@@ -166,6 +166,22 @@ def lasso_subgradient_analytic(theta, X, y, lmbda,):
 
     return gradient
 
+def regression_gradient_analytic(theta, X, y, method="ols", lmbda=0.0,):
+    """Analytical gradient/subgradient for OLS, Ridge or Lasso."""
+
+    if method == "ols":
+        return ols_gradient_analytic( theta, X, y )
+
+    elif method == "ridge":
+        return ridge_gradient_analytic( theta, X, y, lmbda )
+
+    elif method == "lasso":
+        return lasso_subgradient_analytic( theta, X, y, lmbda )
+
+    else:
+        raise ValueError(
+            "method must be 'ols', 'ridge' or 'lasso'."
+        )
 # ============================================================
 
 def predict(X, theta):
@@ -1182,3 +1198,356 @@ def fit_lasso_coordinate_descent( X, y, lmbda, max_iter=100000, tol=1.0e-10,):
         "theta": theta,
         "iterations": iteration,
     }
+
+# ============================================================
+# Stochastic gradient descent
+# ============================================================
+
+def sgd_learning_rate( step, eta0, schedule="constant", decay_scale=10.0, ):
+    """
+    Learning-rate schedule for stochastic optimization.
+
+    constant:
+        eta_t = eta0
+
+    inverse_time:
+        eta_t = eta0 * decay_scale / (step + decay_scale)
+
+    The inverse-time form starts at eta0 when step = 0.
+    """
+
+    if schedule == "constant":
+        return eta0
+
+    elif schedule == "inverse_time":
+        return ( eta0 * decay_scale / (step + decay_scale) )
+
+    else:
+        raise ValueError(
+            "schedule must be 'constant' or 'inverse_time'."
+        )
+
+def optimize_regression_stochastic( X, y, eta0, optimizer="plain", method="ols", lmbda=0.0, batch_size=32,
+                                    n_epochs=500, schedule="inverse_time", decay_scale=10.0, theta0=None,
+                                    theta_reference=None, accuracy_tol=1.0e-4, seed=2026, gamma=0.9, rho=0.9,
+                                    beta1=0.9, beta2=0.999, eps=1.0e-8, divergence_threshold=1.0e12,):
+    """
+    Mini-batch stochastic optimization for OLS, Ridge or Lasso.
+
+    The same update rules as optimize_regression() are used:
+        plain, momentum, adagrad, rmsprop, adam.
+
+    Cost and relative parameter error are recorded once per epoch.
+    """
+
+    X = np.asarray(X, dtype=float)
+    y = np.asarray(y, dtype=float)
+
+    n = len(y)
+
+    if batch_size < 1 or batch_size > n:
+        raise ValueError(
+            "batch_size must satisfy 1 <= batch_size <= n."
+        )
+
+    rng = np.random.default_rng(seed)
+
+    if theta0 is None:
+        theta = rng.normal( size=X.shape[1] )
+    else:
+        theta = np.asarray( theta0, dtype=float, ).copy()
+
+    # Optimizer states
+    velocity = np.zeros_like(theta)
+    accumulator = np.zeros_like(theta)
+    first_moment = np.zeros_like(theta)
+    second_moment = np.zeros_like(theta)
+
+    cost_history = []
+    relative_error_history = []
+
+    converged = False
+    diverged = False
+
+    update_count = 0
+    samples_processed = 0
+
+    if theta_reference is not None:
+
+        theta_reference = np.asarray(
+            theta_reference,
+            dtype=float,
+        )
+
+        reference_norm = max(
+            np.linalg.norm(theta_reference),
+            eps,
+        )
+
+    for epoch in range(
+        1,
+        n_epochs + 1,
+    ):
+
+        # Shuffle observations at the start of every epoch.
+        indices = rng.permutation(n)
+
+        for start in range( 0, n, batch_size, ):
+
+            batch_indices = indices[
+                start:start + batch_size
+            ]
+
+            X_batch = X[batch_indices]
+            y_batch = y[batch_indices]
+
+            # Current learning rate.
+            eta = sgd_learning_rate(
+                step=update_count,
+                eta0=eta0,
+                schedule=schedule,
+                decay_scale=decay_scale,
+            )
+
+            gradient = regression_gradient_analytic(
+                theta,
+                X_batch,
+                y_batch,
+                method=method,
+                lmbda=lmbda,
+            )
+
+            update_count += 1
+            samples_processed += len(batch_indices)
+
+            # ----------------------------------------
+            # Same optimizer updates as Part f
+            # ----------------------------------------
+
+            if optimizer == "plain":
+
+                update = eta * gradient
+
+            elif optimizer == "momentum":
+
+                update, velocity = momentum_update(
+                    gradient,
+                    velocity,
+                    eta,
+                    gamma=gamma,
+                )
+
+            elif optimizer == "adagrad":
+
+                update, accumulator = adagrad_update(
+                    gradient,
+                    accumulator,
+                    eta,
+                    eps=eps,
+                )
+
+            elif optimizer == "rmsprop":
+
+                update, accumulator = rmsprop_update(
+                    gradient,
+                    accumulator,
+                    eta,
+                    rho=rho,
+                    eps=eps,
+                )
+
+            elif optimizer == "adam":
+
+                (
+                    update,
+                    first_moment,
+                    second_moment,
+                ) = adam_update(
+                    gradient,
+                    first_moment,
+                    second_moment,
+                    update_count,
+                    eta,
+                    beta1=beta1,
+                    beta2=beta2,
+                    eps=eps,
+                )
+
+            else:
+                raise ValueError(
+                    "optimizer must be 'plain', "
+                    "'momentum', 'adagrad', "
+                    "'rmsprop' or 'adam'."
+                )
+
+            theta -= update
+
+            if (
+                not np.all(np.isfinite(theta))
+                or np.linalg.norm(theta)
+                > divergence_threshold
+            ):
+                diverged = True
+                break
+
+        # --------------------------------------------
+        # Evaluate the FULL cost once per epoch
+        # --------------------------------------------
+
+        if method == "ols":
+
+            cost = ols_cost(
+                theta, X, y
+            )
+
+        elif method == "ridge":
+
+            cost = ridge_cost(
+                theta, X, y, lmbda
+            )
+
+        else:
+
+            cost = lasso_cost(
+                theta, X, y, lmbda
+            )
+
+        cost_history.append(cost)
+
+        if theta_reference is not None:
+
+            relative_error = (
+                np.linalg.norm(
+                    theta - theta_reference
+                )
+                / reference_norm
+            )
+
+            relative_error_history.append(
+                relative_error
+            )
+
+            if relative_error < accuracy_tol:
+                converged = True
+                break
+
+        if diverged:
+            break
+
+    if theta_reference is not None:
+
+        relative_error = (
+            np.linalg.norm(
+                theta - theta_reference
+            )
+            / reference_norm
+        )
+
+    else:
+        relative_error = np.nan
+
+    return {
+        "theta": theta,
+        "epochs": epoch,
+        "updates": update_count,
+        "samples_processed": samples_processed,
+
+        # One epoch corresponds approximately to one complete
+        # pass through the training data.
+        "data_passes":
+            samples_processed / n,
+
+        "converged": converged,
+        "diverged": diverged,
+        "relative_theta_error":
+            relative_error,
+
+        "cost_history":
+            np.asarray(cost_history),
+
+        "relative_error_history":
+            np.asarray(relative_error_history),
+    }
+
+def stochastic_optimizer_learning_rate_sweep( X_train, y_train, X_test, y_test, theta_reference,
+                                              eta_values_by_optimizer, method="ols", lmbda=0.0,
+                                              batch_size=32, n_epochs=500, schedule="inverse_time",
+                                              decay_scale=10.0, theta0=None, accuracy_tol=1.0e-4, seed=2026, ):
+    """Learning-rate sweep for stochastic optimizers."""
+
+    results = {}
+
+    for optimizer, eta_values in (
+        eta_values_by_optimizer.items()
+    ):
+
+        results[optimizer] = {}
+
+        for eta0 in eta_values:
+
+            result = optimize_regression_stochastic(
+                X=X_train,
+                y=y_train,
+                eta0=eta0,
+                optimizer=optimizer,
+                method=method,
+                lmbda=lmbda,
+                batch_size=batch_size,
+                n_epochs=n_epochs,
+                schedule=schedule,
+                decay_scale=decay_scale,
+                theta0=theta0,
+                theta_reference=theta_reference,
+                accuracy_tol=accuracy_tol,
+                seed=seed,
+            )
+
+            y_pred = predict(
+                X_test,
+                result["theta"],
+            )
+
+            result["test_mse"] = (
+                mean_squared_error(
+                    y_test,
+                    y_pred,
+                )
+            )
+
+            results[optimizer][eta0] = result
+
+    return results
+
+def select_best_stochastic_runs( sweep_results, ):
+    """
+    Select the converged run requiring the fewest
+    equivalent complete data passes.
+    """
+
+    best_results = {}
+
+    for optimizer, runs in sweep_results.items():
+
+        converged_runs = [
+            (eta0, result)
+            for eta0, result in runs.items()
+            if result["converged"]
+        ]
+
+        if len(converged_runs) == 0:
+
+            best_results[optimizer] = None
+            continue
+
+        best_eta, best_result = min(
+            converged_runs,
+            key=lambda item:
+                item[1]["data_passes"],
+        )
+
+        best_results[optimizer] = {
+            "eta": best_eta,
+            "result": best_result,
+        }
+
+    return best_results

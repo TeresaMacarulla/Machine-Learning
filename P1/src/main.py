@@ -28,7 +28,11 @@ from utilities import (
     optimizer_learning_rate_sweep,
     select_best_optimizer_runs,
     fit_lasso_coordinate_descent,
-    lasso_kkt_violation
+    lasso_kkt_violation,
+    sgd_learning_rate,
+    optimize_regression_stochastic,
+    stochastic_optimizer_learning_rate_sweep,
+    select_best_stochastic_runs,
 )
 
 from plot_generator import (
@@ -45,6 +49,8 @@ from plot_generator import (
     plot_optimizer_eta_sensitivity,
     plot_lasso_coefficient_path,
     plot_ols_ridge_lasso_coefficients,
+    plot_sgd_batch_study,
+    plot_optimizer_convergence_with_sgd
 )
 
 plt.rcParams.update({
@@ -921,10 +927,7 @@ def run_part_f( seed=2026, test_size=0.20, ):
     # Run OLS and Ridge separately
     # ------------------------------------------------------------
 
-    for method in [
-        "ols",
-        "ridge",
-    ]:
+    for method in [ "ols", "ridge", ]:
 
         if method == "ols":
             lmbda = 0.0
@@ -933,11 +936,7 @@ def run_part_f( seed=2026, test_size=0.20, ):
 
         # Plain-GD information is useful for choosing
         # the search interval.
-        lr_info = learning_rate_information(
-            X_train,
-            method=method,
-            lmbda=lmbda,
-        )
+        lr_info = learning_rate_information( X_train, method=method, lmbda=lmbda, )
 
         # --------------------------------------------------------
         # Learning-rate search ranges
@@ -949,76 +948,24 @@ def run_part_f( seed=2026, test_size=0.20, ):
         eta_values_by_optimizer = {
 
             "plain": np.unique(
-                np.array([
-                    0.01,
-                    0.03,
-                    0.10,
-                    0.20,
-                    0.30,
-                    lr_info["eta_opt"],
-                ])
+                np.array([ 0.01, 0.03, 0.10, 0.20, 0.30, lr_info["eta_opt"], ])
             ),
-
-            "momentum": np.array([
-                0.003,
-                0.01,
-                0.03,
-                0.10,
-                0.20,
-                0.30,
-            ]),
-
-            "adagrad": np.array([
-                0.03,
-                0.10,
-                0.30,
-                0.50,
-                0.70,
-                1.00,
-            ]),
-
-            "rmsprop": np.array([
-                1.0e-5,
-                3.0e-5,
-                5.0e-5,
-                8.0e-5,
-                1.0e-4,
-                3.0e-4,
-            ]),
-
-            "adam": np.array([
-                0.001,
-                0.003,
-                0.01,
-                0.03,
-                0.10,
-                0.30,
-            ]),
+            "momentum": np.array([ 0.003, 0.01, 0.03, 0.10, 0.20, 0.30, ]),
+            "adagrad": np.array([ 0.03, 0.10, 0.30, 0.50,  0.70, 1.00, ]),
+            "rmsprop": np.array([ 1.0e-5, 3.0e-5, 5.0e-5, 8.0e-5, 1.0e-4, 3.0e-4, ]),
+            "adam": np.array([ 0.001, 0.003, 0.01, 0.03, 0.10, 0.30, ]),
         }
 
         sweep_results = (
-            optimizer_learning_rate_sweep(
-                X_train=X_train,
-                y_train=y_train,
-                X_test=X_test,
-                y_test=y_test,
-                theta_reference=
-                    theta_closed[method],
-                eta_values_by_optimizer=
-                    eta_values_by_optimizer,
-                method=method,
-                lmbda=lmbda,
-                theta0=theta0,
-                accuracy_tol=accuracy_tol,
-                max_iter=max_iter,
-                seed=seed,
-            )
+            optimizer_learning_rate_sweep( X_train=X_train, y_train=y_train, X_test=X_test, y_test=y_test,
+                                           theta_reference=theta_closed[method], 
+                                           eta_values_by_optimizer=eta_values_by_optimizer,
+                                           method=method, lmbda=lmbda, theta0=theta0,
+                                           accuracy_tol=accuracy_tol, max_iter=max_iter, seed=seed, )
         )
 
         best_results = (
-            select_best_optimizer_runs(
-                sweep_results
-            )
+            select_best_optimizer_runs( sweep_results )
         )
 
         # --------------------------------------------------------
@@ -1436,6 +1383,442 @@ def run_part_g( seed=2026, test_size=0.20, ):
 
 
 # ============================================================
+# PART H: Stochastic gradient descent
+# ============================================================
+
+def run_part_h( seed=2026, test_size=0.20,):
+
+    print("\nRunning Part H...\n")
+
+    n = 200
+    sigma = 0.1
+    degree = 5
+    lmbda = 1.0e-2
+
+    n_epochs = 1000
+    batch_sizes = [1, 8, 32, 160]
+
+    output_dir = PLOTS_DIR / "part_h"
+
+    output_dir.mkdir( parents=True, exist_ok=True, )
+
+    # ------------------------------------------------------------
+    # Same data as Parts E-G
+    # ------------------------------------------------------------
+
+    x, y = artificial_data(
+        n=n,
+        sigma=sigma,
+        seed=seed,
+    )
+
+    (
+        x_train,
+        x_test,
+        y_train,
+        y_test,
+    ) = train_test_split(
+        x,
+        y,
+        test_size=test_size,
+        random_state=seed,
+    )
+
+    X_train = design_matrix(
+        x_train,
+        degree,
+    )
+
+    X_test = design_matrix(
+        x_test,
+        degree,
+    )
+
+    feature_means, feature_stds = (
+        fit_feature_scaler(X_train)
+    )
+
+    X_train = scale_design_matrix(
+        X_train,
+        feature_means,
+        feature_stds,
+    )
+
+    X_test = scale_design_matrix(
+        X_test,
+        feature_means,
+        feature_stds,
+    )
+
+    rng = np.random.default_rng(seed)
+
+    theta0 = rng.normal(
+        size=X_train.shape[1]
+    )
+
+    # ------------------------------------------------------------
+    # Reference solutions
+    # ------------------------------------------------------------
+
+    theta_reference = {
+        "ols":
+            fit_ols(
+                X_train,
+                y_train,
+            ),
+
+        "ridge":
+            fit_ridge(
+                X_train,
+                y_train,
+                lmbda,
+            ),
+
+        "lasso":
+            fit_lasso_coordinate_descent(
+                X_train,
+                y_train,
+                lmbda,
+            )["theta"],
+    }
+
+    minimum_cost = {
+        "ols":
+            ols_cost(
+                theta_reference["ols"],
+                X_train,
+                y_train,
+            ),
+
+        "ridge":
+            ridge_cost(
+                theta_reference["ridge"],
+                X_train,
+                y_train,
+                lmbda,
+            ),
+
+        "lasso":
+            lasso_cost(
+                theta_reference["lasso"],
+                X_train,
+                y_train,
+                lmbda,
+            ),
+    }
+
+    # ------------------------------------------------------------
+    # Loop over OLS, Ridge and Lasso
+    # ------------------------------------------------------------
+
+    for method in [
+        "ols",
+        "ridge",
+        "lasso",
+    ]:
+
+        current_lambda = (
+            0.0
+            if method == "ols"
+            else lmbda
+        )
+
+        accuracy_tol = (
+            1.0e-3
+            if method == "lasso"
+            else 1.0e-4
+        )
+
+        # --------------------------------------------------------
+        # Learning-rate ranges
+        # --------------------------------------------------------
+
+        if method in ["ols", "ridge"]:
+
+            lr_info = learning_rate_information(
+                X_train,
+                method=method,
+                lmbda=current_lambda,
+            )
+
+            full_eta_values = {
+
+                "plain": np.unique(
+                    np.array([
+                        0.01,
+                        0.03,
+                        0.10,
+                        0.20,
+                        0.30,
+                        lr_info["eta_opt"],
+                    ])
+                ),
+
+                "momentum":
+                    np.array([
+                        0.003, 0.01, 0.03,
+                        0.10, 0.20, 0.30,
+                    ]),
+
+                "adagrad":
+                    np.array([
+                        0.03, 0.10, 0.30,
+                        0.50, 0.70, 1.00,
+                    ]),
+
+                "rmsprop":
+                    np.array([
+                        1.0e-5, 3.0e-5,
+                        5.0e-5, 8.0e-5,
+                        1.0e-4, 3.0e-4,
+                    ]),
+
+                "adam":
+                    np.array([
+                        0.001, 0.003,
+                        0.01, 0.03,
+                        0.10, 0.30,
+                    ]),
+            }
+
+        else:
+
+            full_eta_values = {
+
+                "plain":
+                    np.array([
+                        0.003, 0.01,
+                        0.03, 0.10,
+                    ]),
+
+                "momentum":
+                    np.array([
+                        0.001, 0.003,
+                        0.01, 0.03, 0.10,
+                    ]),
+
+                "adagrad":
+                    np.array([
+                        0.03, 0.10,
+                        0.30, 0.50, 1.00,
+                    ]),
+
+                "rmsprop":
+                    np.array([
+                        1.0e-5, 3.0e-5,
+                        5.0e-5, 1.0e-4,
+                    ]),
+
+                "adam":
+                    np.array([
+                        0.001, 0.003,
+                        0.01, 0.03, 0.10,
+                    ]),
+            }
+
+        # --------------------------------------------------------
+        # Existing full-batch optimizer comparison
+        # --------------------------------------------------------
+
+        full_sweep = (
+            optimizer_learning_rate_sweep(
+                X_train=X_train,
+                y_train=y_train,
+                X_test=X_test,
+                y_test=y_test,
+                theta_reference=
+                    theta_reference[method],
+                eta_values_by_optimizer=
+                    full_eta_values,
+                method=method,
+                lmbda=current_lambda,
+                theta0=theta0,
+                accuracy_tol=accuracy_tol,
+                max_iter=100000,
+                seed=seed,
+            )
+        )
+
+        full_best = (
+            select_best_optimizer_runs(
+                full_sweep
+            )
+        )
+
+        # --------------------------------------------------------
+        # Stochastic versions of the same optimizers
+        # Use M=32 as representative.
+        # --------------------------------------------------------
+
+        stochastic_eta_values = {
+
+            "plain":
+                np.array([
+                    0.003, 0.01,
+                    0.03, 0.10,
+                ]),
+
+            "momentum":
+                np.array([
+                    0.001, 0.003,
+                    0.01, 0.03, 0.10,
+                ]),
+
+            "adagrad":
+                np.array([
+                    0.03, 0.10,
+                    0.30, 0.50, 1.00,
+                ]),
+
+            "rmsprop":
+                np.array([
+                    1.0e-5, 3.0e-5,
+                    1.0e-4, 3.0e-4,
+                ]),
+
+            "adam":
+                np.array([
+                    0.001, 0.003,
+                    0.01, 0.03, 0.10,
+                ]),
+        }
+
+        stochastic_sweep = (
+            stochastic_optimizer_learning_rate_sweep(
+                X_train=X_train,
+                y_train=y_train,
+                X_test=X_test,
+                y_test=y_test,
+                theta_reference=
+                    theta_reference[method],
+                eta_values_by_optimizer=
+                    stochastic_eta_values,
+                method=method,
+                lmbda=current_lambda,
+                batch_size=32,
+                n_epochs=n_epochs,
+                schedule="inverse_time",
+                decay_scale=10.0,
+                theta0=theta0,
+                accuracy_tol=accuracy_tol,
+                seed=seed,
+            )
+        )
+
+        stochastic_best = (
+            select_best_stochastic_runs(
+                stochastic_sweep
+            )
+        )
+
+        # --------------------------------------------------------
+        # Print comparison
+        # --------------------------------------------------------
+
+        print()
+        print(
+            f"Stochastic optimizer comparison "
+            f"{method.upper()}"
+        )
+        print("--------------------------------")
+
+        for optimizer, data in (
+            stochastic_best.items()
+        ):
+
+            if data is None:
+
+                print(
+                    f"{optimizer:8s}: "
+                    "target accuracy not reached"
+                )
+
+                continue
+
+            result = data["result"]
+
+            print(
+                f"{optimizer:8s}: "
+                f"eta0={data['eta']:.3e}, "
+                f"epochs={result['epochs']:5d}, "
+                f"updates={result['updates']:6d}, "
+                f"data passes="
+                f"{result['data_passes']:.0f}, "
+                f"relative error="
+                f"{result['relative_theta_error']:.3e}, "
+                f"test MSE="
+                f"{result['test_mse']:.6f}"
+            )
+
+        # --------------------------------------------------------
+        # Regenerate old optimizer plot + plain SGD
+        # --------------------------------------------------------
+
+        plot_optimizer_convergence_with_sgd(
+            full_batch_results=full_best,
+            sgd_result=
+                stochastic_best["plain"],
+            minimum_cost=
+                minimum_cost[method],
+            method=method,
+            save_path=output_dir,
+        )
+
+        # --------------------------------------------------------
+        # Batch-size and schedule study
+        # --------------------------------------------------------
+
+        if (
+            stochastic_best["plain"]
+            is not None
+        ):
+            eta0 = (
+                stochastic_best["plain"]["eta"]
+            )
+        else:
+            eta0 = 0.03
+
+        for schedule in [
+            "constant",
+            "inverse_time",
+        ]:
+
+            batch_results = {}
+
+            for batch_size in batch_sizes:
+
+                batch_results[batch_size] = (
+                    optimize_regression_stochastic(
+                        X=X_train,
+                        y=y_train,
+                        eta0=eta0,
+                        optimizer="plain",
+                        method=method,
+                        lmbda=current_lambda,
+                        batch_size=batch_size,
+                        n_epochs=n_epochs,
+                        schedule=schedule,
+                        decay_scale=10.0,
+                        theta0=theta0,
+                        theta_reference=
+                            theta_reference[method],
+                        accuracy_tol=
+                            accuracy_tol,
+                        seed=seed,
+                    )
+                )
+
+            plot_sgd_batch_study(
+                batch_results=batch_results,
+                minimum_cost=
+                    minimum_cost[method],
+                method=method,
+                schedule=schedule,
+                save_path=output_dir,
+            )
+
+
+# ============================================================
 # MAIN PART
 # ============================================================
 def main():
@@ -1446,9 +1829,9 @@ def main():
 
     parser.add_argument(
         "part",
-        choices=[ "a", "b", "c", "d", "e", "f", "g" ],
+        choices=[ "a", "b", "c", "d", "e", "f", "g", "h" ],
         help=( "Project part to run: "
-            "a, b, c, d, e, f, g." ),
+            "a, b, c, d, e, f, g, h." ),
     )
 
     args = parser.parse_args()
@@ -1476,6 +1859,9 @@ def main():
 
     elif args.part == "g":
             run_part_g( seed=seed, test_size=test_size, )
+
+    elif args.part == "h":
+                run_part_h( seed=seed, test_size=test_size, )
 
     print("\nSee results in P1/plots \n")
 
