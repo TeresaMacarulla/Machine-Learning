@@ -7,6 +7,18 @@ from pathlib import Path
 import jax
 import jax.numpy as jnp
 
+""" RUN OPTIONS:
+ python src/main.py a
+ python src/main.py b
+ python src/main.py c
+ python src/main.py d
+ python src/main.py e
+ python src/main.py f
+ python src/main.py g
+ python src/main.py h
+ python src/main.py i
+"""
+
 from utilities import (
     artificial_data,
     design_matrix,
@@ -630,51 +642,76 @@ def run_part_d( seed=2026, test_size=0.20, ):
 
 
 # ============================================================
+# PART E, F, G and H: Data Preparation
+# ============================================================
+def prepare_part_efgh_data( seed=2026, test_size=0.20, ):
+
+    # ------------------------------------------------------------
+    # Generate the data and use the same preprocessing convention as in Parts A and B.
+    # ------------------------------------------------------------
+    efgh_n = 200
+    efgh_sigma = 0.1
+    efgh_degree = 5
+
+    x_efgh, y_efgh = artificial_data( n=efgh_n, sigma=efgh_sigma, seed=seed, )
+
+    ( x_train_efgh, x_test_efgh, y_train_efgh, y_test_efgh, 
+     ) = train_test_split( x_efgh, y_efgh, test_size=test_size, random_state=seed, )
+
+    X_train_efgh = design_matrix( x_train_efgh, efgh_degree, )
+
+    X_test_efgh = design_matrix( x_test_efgh, efgh_degree, )
+
+    feature_means, feature_stds = fit_feature_scaler( X_train_efgh )
+
+    X_train_efgh = scale_design_matrix( X_train_efgh, feature_means, feature_stds, )
+
+    X_test_efgh = scale_design_matrix( X_test_efgh, feature_means, feature_stds, )
+
+    # Use exactly the same initial theta for every GD run.
+    rng_efh = np.random.default_rng(seed)
+
+    theta0 = rng_efh.normal( size=X_train_efgh.shape[1] )
+
+    return {
+        "theta0": theta0,
+        "X_train_efgh": X_train_efgh,
+        "y_train_efgh": y_train_efgh,
+        "x_train_efgh": x_train_efgh,
+        "X_test_efgh": X_test_efgh,
+        "y_test_efgh": y_test_efgh,
+        "x_test_efgh": x_test_efgh,
+        "efgh_degree": efgh_degree
+    }
+
+# ============================================================
 # PART E: Plain gradient descent Analytical vs automatic differentiation
 # ============================================================
 def run_part_e( seed=2026, test_size=0.20, ):
 
     print("\nRunning Part E...\n")
 
-    gd_n = 200
-    gd_sigma = 0.1
-    gd_degree = 5
-    gd_lmbda = 1.0e-2
-
-    # ------------------------------------------------------------
-    # Generate the data and use the same preprocessing convention as in Parts A and B.
-    # ------------------------------------------------------------
-
-    x_gd, y_gd = artificial_data( n=gd_n, sigma=gd_sigma, seed=seed, )
-
-    ( x_train_gd, x_test_gd, y_train_gd, y_test_gd, 
-     ) = train_test_split( x_gd, y_gd, test_size=test_size, random_state=seed, )
-
-    X_train_gd = design_matrix( x_train_gd, gd_degree, )
-
-    X_test_gd = design_matrix( x_test_gd, gd_degree, )
-
-    feature_means, feature_stds = fit_feature_scaler( X_train_gd )
-
-    X_train_gd = scale_design_matrix( X_train_gd, feature_means, feature_stds, )
-
-    X_test_gd = scale_design_matrix( X_test_gd, feature_means, feature_stds, )
-
-    # Use exactly the same initial theta for every GD run.
-    rng_gd = np.random.default_rng(seed)
-
-    theta0 = rng_gd.normal( size=X_train_gd.shape[1] )
+    data = prepare_part_efgh_data( seed=seed, test_size=test_size, )
+    efh_lmbda = 1.0e-2
+    theta0 = data["theta0"]
+    X_train_efgh = data["X_train_efgh"]
+    y_train_efgh = data["y_train_efgh"]
+    x_train_efgh = data["x_train_efgh"]
+    X_test_efgh = data["X_test_efgh"]
+    y_test_efgh = data["y_test_efgh"]
+    x_test_efgh = data["x_test_efgh"]
+    efgh_degree = data["efgh_degree"]
 
     # ------------------------------------------------------------
     # 1. Analytical gradient vs automatic differentiation
     # ------------------------------------------------------------
 
-    ols_gradient_difference = compare_gradients( theta=theta0, X=X_train_gd,
-                                                 y=y_train_gd, method="ols", )
+    ols_gradient_difference = compare_gradients( theta=theta0, X=X_train_efgh,
+                                                 y=y_train_efgh, method="ols", )
 
-    ridge_gradient_difference = compare_gradients( theta=theta0, X=X_train_gd, 
-                                                   y=y_train_gd, method="ridge",
-                                                   lmbda=gd_lmbda, )
+    ridge_gradient_difference = compare_gradients( theta=theta0, X=X_train_efgh, 
+                                                   y=y_train_efgh, method="ridge",
+                                                   lmbda=efh_lmbda, )
 
     print()
     print("Gradient check")
@@ -692,17 +729,17 @@ def run_part_e( seed=2026, test_size=0.20, ):
     # 2. Closed-form solutions for reference
     # ------------------------------------------------------------
 
-    theta_ols_closed = fit_ols( X_train_gd, y_train_gd, )
+    theta_ols_closed = fit_ols( X_train_efgh, y_train_efgh, )
 
-    theta_ridge_closed = fit_ridge( X_train_gd, y_train_gd, gd_lmbda, )
+    theta_ridge_closed = fit_ridge( X_train_efgh, y_train_efgh, efh_lmbda, )
 
     # ------------------------------------------------------------
     # 3. Hessian and theoretical learning-rate limits
     # ------------------------------------------------------------
 
-    ols_lr_info = learning_rate_information( X_train_gd, method="ols", )
+    ols_lr_info = learning_rate_information( X_train_efgh, method="ols", )
 
-    ridge_lr_info = learning_rate_information( X_train_gd, method="ridge", lmbda=gd_lmbda, )
+    ridge_lr_info = learning_rate_information( X_train_efgh, method="ridge", lmbda=efh_lmbda, )
 
     print()
     print("Learning-rate information")
@@ -733,23 +770,23 @@ def run_part_e( seed=2026, test_size=0.20, ):
     gd_solution_results = {}
 
     part_ab_results = {
-    "ols": fit_and_evaluate( x_train=x_train_gd, x_test=x_test_gd, y_train=y_train_gd, y_test=y_test_gd,
-                             degree=gd_degree, method="ols", ),
+    "ols": fit_and_evaluate( x_train=x_train_efgh, x_test=x_test_efgh, y_train=y_train_efgh, y_test=y_test_efgh,
+                             degree=efgh_degree, method="ols", ),
 
-    "ridge": fit_and_evaluate( x_train=x_train_gd, x_test=x_test_gd, y_train=y_train_gd, y_test=y_test_gd,
-                               degree=gd_degree, method="ridge", lmbda=gd_lmbda, ),
+    "ridge": fit_and_evaluate( x_train=x_train_efgh, x_test=x_test_efgh, y_train=y_train_efgh, y_test=y_test_efgh,
+                               degree=efgh_degree, method="ridge", lmbda=efh_lmbda, ),
     }
 
     for method, lmbda, theta_closed, lr_info in [
         ( "ols", 0.0, theta_ols_closed, ols_lr_info, ),
-        ( "ridge", gd_lmbda, theta_ridge_closed, ridge_lr_info, ),
+        ( "ridge", efh_lmbda, theta_ridge_closed, ridge_lr_info, ),
     ]:
 
         for gradient_source in [ "analytic", "autodiff", ]:
 
             result = gradient_descent(
-                X=X_train_gd,
-                y=y_train_gd,
+                X=X_train_efgh,
+                y=y_train_efgh,
                 eta=lr_info["eta_opt"],
                 method=method,
                 lmbda=lmbda,
@@ -762,8 +799,8 @@ def run_part_e( seed=2026, test_size=0.20, ):
 
             theta_error = np.linalg.norm( result["theta"] - theta_closed )
 
-            y_test_pred = predict( X_test_gd, result["theta"], )
-            test_mse = mean_squared_error( y_test_gd, y_test_pred, )
+            y_test_pred = predict( X_test_efgh, result["theta"], )
+            test_mse = mean_squared_error( y_test_efgh, y_test_pred, )
 
             if gradient_source == "analytic":
                 gd_solution_results[method] = { "theta": result["theta"].copy(), "test_mse": test_mse, }
@@ -805,7 +842,7 @@ def run_part_e( seed=2026, test_size=0.20, ):
 
     for method, lmbda, theta_closed, lr_info in [
         ( "ols", 0.0, theta_ols_closed, ols_lr_info, ),
-        ( "ridge", gd_lmbda, theta_ridge_closed, ridge_lr_info, ),
+        ( "ridge", efh_lmbda, theta_ridge_closed, ridge_lr_info, ),
     ]:
 
         print()
@@ -816,8 +853,8 @@ def run_part_e( seed=2026, test_size=0.20, ):
             eta = ( factor * lr_info["eta_max"] )
 
             result = gradient_descent(
-                X=X_train_gd,
-                y=y_train_gd,
+                X=X_train_efgh,
+                y=y_train_efgh,
                 eta=eta,
                 method=method,
                 lmbda=lmbda,
@@ -846,8 +883,8 @@ def run_part_e( seed=2026, test_size=0.20, ):
             )
 
     minimum_costs = {
-        "ols": ols_cost( theta_ols_closed, X_train_gd, y_train_gd, ),
-        "ridge": ridge_cost( theta_ridge_closed, X_train_gd, y_train_gd, gd_lmbda, ),
+        "ols": ols_cost( theta_ols_closed, X_train_efgh, y_train_efgh, ),
+        "ridge": ridge_cost( theta_ridge_closed, X_train_efgh, y_train_efgh, efh_lmbda, ),
     }
 
     plot_gd_learning_rate_study( learning_rate_results=learning_rate_results,
@@ -862,65 +899,31 @@ def run_part_f( seed=2026, test_size=0.20, ):
 
     print("\nRunning Part F...\n")
 
-    opt_n = 200
-    opt_sigma = 0.1
-    opt_degree = 5
-    opt_lmbda = 1.0e-2
+    data = prepare_part_efgh_data( seed=seed, test_size=test_size, )
+    efh_lmbda = 1.0e-2
+    theta0 = data["theta0"]
+    X_train_efgh = data["X_train_efgh"]
+    y_train_efgh = data["y_train_efgh"]
+    X_test_efgh = data["X_test_efgh"]
+    y_test_efgh = data["y_test_efgh"]
 
     accuracy_tol = 1.0e-4
     max_iter = 50000
 
     output_dir = PLOTS_DIR / "part_f"
 
-    output_dir.mkdir( parents=True, exist_ok=True, )
-
-    # ------------------------------------------------------------
-    # Same data setup as Part E
-    # ------------------------------------------------------------
-
-    x, y = artificial_data( n=opt_n, sigma=opt_sigma, seed=seed, )
-
-    ( x_train, x_test, y_train, y_test,
-     ) = train_test_split( x, y, test_size=test_size, random_state=seed, )
-
-    X_train = design_matrix( x_train, opt_degree, )
-    X_test = design_matrix( x_test, opt_degree,)
-
-    feature_means, feature_stds = (
-        fit_feature_scaler(X_train)
-    )
-
-    X_train = scale_design_matrix(
-        X_train,
-        feature_means,
-        feature_stds,
-    )
-
-    X_test = scale_design_matrix(
-        X_test,
-        feature_means,
-        feature_stds,
-    )
-
-    # Same initial theta for every optimizer.
-    rng = np.random.default_rng(seed)
-
-    theta0 = rng.normal(
-        size=X_train.shape[1]
-    )
-
     # ------------------------------------------------------------
     # Closed-form reference solutions
     # ------------------------------------------------------------
 
     theta_closed = {
-        "ols": fit_ols( X_train, y_train, ),
-        "ridge": fit_ridge( X_train, y_train, opt_lmbda, ),
+        "ols": fit_ols( X_train_efgh, y_train_efgh, ),
+        "ridge": fit_ridge( X_train_efgh, y_train_efgh, efh_lmbda, ),
     }
 
     minimum_cost = {
-        "ols": ols_cost( theta_closed["ols"], X_train, y_train, ),
-        "ridge": ridge_cost( theta_closed["ridge"], X_train, y_train, opt_lmbda, ),
+        "ols": ols_cost( theta_closed["ols"], X_train_efgh, y_train_efgh, ),
+        "ridge": ridge_cost( theta_closed["ridge"], X_train_efgh, y_train_efgh, efh_lmbda, ),
     }
 
     # ------------------------------------------------------------
@@ -932,11 +935,11 @@ def run_part_f( seed=2026, test_size=0.20, ):
         if method == "ols":
             lmbda = 0.0
         else:
-            lmbda = opt_lmbda
+            lmbda = efh_lmbda
 
         # Plain-GD information is useful for choosing
         # the search interval.
-        lr_info = learning_rate_information( X_train, method=method, lmbda=lmbda, )
+        lr_info = learning_rate_information( X_train_efgh, method=method, lmbda=lmbda, )
 
         # --------------------------------------------------------
         # Learning-rate search ranges
@@ -957,7 +960,7 @@ def run_part_f( seed=2026, test_size=0.20, ):
         }
 
         sweep_results = (
-            optimizer_learning_rate_sweep( X_train=X_train, y_train=y_train, X_test=X_test, y_test=y_test,
+            optimizer_learning_rate_sweep( X_train=X_train_efgh, y_train=y_train_efgh, X_test=X_test_efgh, y_test=y_test_efgh,
                                            theta_reference=theta_closed[method], 
                                            eta_values_by_optimizer=eta_values_by_optimizer,
                                            method=method, lmbda=lmbda, theta0=theta0,
@@ -1035,10 +1038,6 @@ def run_part_g( seed=2026, test_size=0.20, ):
 
     print("\nRunning Part G...\n")
 
-    lasso_n = 200
-    lasso_sigma = 0.1
-    lasso_degree = 5
-
     lasso_lambdas = np.array([ 1.0e-4, 3.0e-4, 1.0e-3, 3.0e-3, 1.0e-2, 3.0e-2, 1.0e-1, ])
 
     representative_lmbda = 1.0e-2
@@ -1056,84 +1055,27 @@ def run_part_g( seed=2026, test_size=0.20, ):
 
     print("Derivative of |theta| with JAX")
     print("------------------------------")
-
-    print(
-        "theta =  0.0:",
-        jax.grad(jnp.abs)(0.0),
-    )
-
-    print(
-        "theta = -0.3:",
-        jax.grad(jnp.abs)(-0.3),
-    )
-
-    print(
-        "theta =  0.3:",
-        jax.grad(jnp.abs)(0.3),
-    )
+    print( "theta =  0.0:", jax.grad(jnp.abs)(0.0), )
+    print( "theta = -0.3:", jax.grad(jnp.abs)(-0.3), )
+    print( "theta =  0.3:", jax.grad(jnp.abs)(0.3), )
 
     # ------------------------------------------------------------
     # Data
     # ------------------------------------------------------------
 
-    x, y = artificial_data(
-        n=lasso_n,
-        sigma=lasso_sigma,
-        seed=seed,
-    )
-
-    (
-        x_train,
-        x_test,
-        y_train,
-        y_test,
-    ) = train_test_split(
-        x,
-        y,
-        test_size=test_size,
-        random_state=seed,
-    )
-
-    X_train = design_matrix(
-        x_train,
-        lasso_degree,
-    )
-
-    X_test = design_matrix(
-        x_test,
-        lasso_degree,
-    )
-
-    feature_means, feature_stds = (
-        fit_feature_scaler(X_train)
-    )
-
-    X_train = scale_design_matrix(
-        X_train,
-        feature_means,
-        feature_stds,
-    )
-
-    X_test = scale_design_matrix(
-        X_test,
-        feature_means,
-        feature_stds,
-    )
+    data = prepare_part_efgh_data( seed=seed, test_size=test_size, )
+    theta0 = data["theta0"]
+    X_train_efgh = data["X_train_efgh"]
+    y_train_efgh = data["y_train_efgh"]
+    X_test_efgh = data["X_test_efgh"]
+    y_test_efgh = data["y_test_efgh"]
 
     # ------------------------------------------------------------
     # OLS and Ridge reference models
     # ------------------------------------------------------------
 
-    theta_ols = fit_ols(
-        X_train,
-        y_train,
-    )
-
-    theta_ridge = fit_ridge(
-        X_train,
-        y_train,
-        representative_lmbda,
-    )
+    theta_ols = fit_ols( X_train_efgh, y_train_efgh, )
+    theta_ridge = fit_ridge( X_train_efgh, y_train_efgh, representative_lmbda, )
 
     # ------------------------------------------------------------
     # Lasso path: our coordinate descent vs sklearn
@@ -1147,27 +1089,13 @@ def run_part_g( seed=2026, test_size=0.20, ):
 
     for lmbda in lasso_lambdas:
 
-        own_result = (
-            fit_lasso_coordinate_descent(
-                X_train,
-                y_train,
-                lmbda=lmbda,
-            )
-        )
+        own_result = fit_lasso_coordinate_descent( X_train_efgh, y_train_efgh, lmbda=lmbda, )
 
         theta_own = own_result["theta"]
 
-        sklearn_model = Lasso(
-            alpha=lmbda / 2.0,
-            fit_intercept=True,
-            max_iter=200000,
-            tol=1.0e-10,
-        )
+        sklearn_model = Lasso( alpha=lmbda / 2.0, fit_intercept=True, max_iter=200000, tol=1.0e-10, )
 
-        sklearn_model.fit(
-            X_train[:, 1:],
-            y_train,
-        )
+        sklearn_model.fit( X_train_efgh[:, 1:], y_train_efgh, )
 
         theta_sklearn = np.concatenate(
             (
@@ -1176,47 +1104,16 @@ def run_part_g( seed=2026, test_size=0.20, ):
             )
         )
 
-        y_test_own = predict(
-            X_test,
-            theta_own,
-        )
-
-        y_test_sklearn = predict(
-            X_test,
-            theta_sklearn,
-        )
+        y_test_own = predict( X_test_efgh, theta_own, )
+        y_test_sklearn = predict( X_test_efgh, theta_sklearn, )
 
         lasso_results[lmbda] = {
             "theta_own": theta_own,
-            "theta_sklearn":
-                theta_sklearn,
-
-            "mse_own":
-                mean_squared_error(
-                    y_test,
-                    y_test_own,
-                ),
-
-            "mse_sklearn":
-                mean_squared_error(
-                    y_test,
-                    y_test_sklearn,
-                ),
-
-            "theta_difference":
-                np.linalg.norm(
-                    theta_own
-                    - theta_sklearn
-                ),
-
-            "kkt_violation":
-                lasso_kkt_violation(
-                    theta_own,
-                    X_train,
-                    y_train,
-                    lmbda,
-                ),
-
+            "theta_sklearn": theta_sklearn,
+            "mse_own": mean_squared_error( y_test_efgh, y_test_own, ),
+            "mse_sklearn": mean_squared_error( y_test_efgh, y_test_sklearn, ),
+            "theta_difference": np.linalg.norm( theta_own - theta_sklearn ),
+            "kkt_violation": lasso_kkt_violation( theta_own, X_train_efgh, y_train_efgh, lmbda, ),
             "n_nonzero":
                 np.count_nonzero(
                     np.abs(theta_own[1:])
@@ -1249,75 +1146,28 @@ def run_part_g( seed=2026, test_size=0.20, ):
     rng = np.random.default_rng(seed)
 
     theta0 = rng.normal(
-        size=X_train.shape[1]
+        size=X_train_efgh.shape[1]
     )
 
     eta_values_by_optimizer = {
-
-        "plain": np.array([
-            0.003,
-            0.01,
-            0.03,
-            0.10,
-        ]),
-
-        "momentum": np.array([
-            0.001,
-            0.003,
-            0.01,
-            0.03,
-            0.10,
-        ]),
-
-        "adagrad": np.array([
-            0.03,
-            0.10,
-            0.30,
-            0.50,
-            1.00,
-        ]),
-
-        "rmsprop": np.array([
-            1.0e-5,
-            3.0e-5,
-            5.0e-5,
-            1.0e-4,
-        ]),
-
-        "adam": np.array([
-            0.001,
-            0.003,
-            0.01,
-            0.03,
-            0.10,
-        ]),
+        "plain": np.array([ 0.003, 0.01, 0.03, 0.10, ]),
+        "momentum": np.array([ 0.001, 0.003, 0.01, 0.03, 0.10, ]),
+        "adagrad": np.array([ 0.03, 0.10, 0.30, 0.50, 1.00, ]),
+        "rmsprop": np.array([ 1.0e-5, 3.0e-5, 5.0e-5, 1.0e-4, ]),
+        "adam": np.array([ 0.001, 0.003, 0.01, 0.03, 0.10, ]),
     }
 
     lasso_sweep = (
-        optimizer_learning_rate_sweep(
-            X_train=X_train,
-            y_train=y_train,
-            X_test=X_test,
-            y_test=y_test,
-            theta_reference=
-                theta_lasso_reference,
-            eta_values_by_optimizer=
-                eta_values_by_optimizer,
-            method="lasso",
-            lmbda=
-                representative_lmbda,
-            theta0=theta0,
-            accuracy_tol=1.0e-3,
-            max_iter=100000,
-            seed=seed,
-        )
+        optimizer_learning_rate_sweep( X_train=X_train_efgh, y_train=y_train_efgh,
+                                       X_test=X_test_efgh, y_test=y_test_efgh, 
+                                       theta_reference=theta_lasso_reference,
+                                       eta_values_by_optimizer=eta_values_by_optimizer,
+                                       method="lasso", lmbda=representative_lmbda,
+                                       theta0=theta0, accuracy_tol=1.0e-3,
+                                       max_iter=100000, seed=seed, )
     )
 
-    lasso_best_results = (
-        select_best_optimizer_runs(
-            lasso_sweep
-        )
-    )
+    lasso_best_results = select_best_optimizer_runs( lasso_sweep )
 
     print()
     print("Lasso optimizer comparison")
@@ -1350,36 +1200,16 @@ def run_part_g( seed=2026, test_size=0.20, ):
             f"{result['test_mse']:.6f}"
         )
 
-    plot_lasso_coefficient_path(
-        lasso_results=lasso_results,
-        save_path=output_dir,
-    )
+    plot_lasso_coefficient_path( lasso_results=lasso_results, save_path=output_dir, )
 
-    plot_ols_ridge_lasso_coefficients(
-        theta_ols=theta_ols,
-        theta_ridge=theta_ridge,
-        theta_lasso=
-            theta_lasso_reference,
-        lmbda=
-            representative_lmbda,
-        save_path=output_dir,
-    )
+    plot_ols_ridge_lasso_coefficients( theta_ols=theta_ols, theta_ridge=theta_ridge,
+                                       theta_lasso=theta_lasso_reference,
+                                       lmbda=representative_lmbda, save_path=output_dir, )
 
-    minimum_lasso_cost = lasso_cost(
-        theta_lasso_reference,
-        X_train,
-        y_train,
-        representative_lmbda,
-    )
+    minimum_lasso_cost = lasso_cost( theta_lasso_reference, X_train_efgh, y_train_efgh, representative_lmbda, )
 
-    plot_optimizer_convergence(
-        best_results=
-            lasso_best_results,
-        minimum_cost=
-            minimum_lasso_cost,
-        method="lasso",
-        save_path=output_dir,
-    )
+    plot_optimizer_convergence( best_results=lasso_best_results, minimum_cost=minimum_lasso_cost,
+                                method="lasso", save_path=output_dir, )
 
 
 # ============================================================
@@ -1389,11 +1219,6 @@ def run_part_g( seed=2026, test_size=0.20, ):
 def run_part_h( seed=2026, test_size=0.20,):
 
     print("\nRunning Part H...\n")
-
-    n = 200
-    sigma = 0.1
-    degree = 5
-    lmbda = 1.0e-2
 
     n_epochs = 1000
     batch_sizes = [1, 8, 32, 160]
@@ -1406,123 +1231,41 @@ def run_part_h( seed=2026, test_size=0.20,):
     # Same data as Parts E-G
     # ------------------------------------------------------------
 
-    x, y = artificial_data(
-        n=n,
-        sigma=sigma,
-        seed=seed,
-    )
-
-    (
-        x_train,
-        x_test,
-        y_train,
-        y_test,
-    ) = train_test_split(
-        x,
-        y,
-        test_size=test_size,
-        random_state=seed,
-    )
-
-    X_train = design_matrix(
-        x_train,
-        degree,
-    )
-
-    X_test = design_matrix(
-        x_test,
-        degree,
-    )
-
-    feature_means, feature_stds = (
-        fit_feature_scaler(X_train)
-    )
-
-    X_train = scale_design_matrix(
-        X_train,
-        feature_means,
-        feature_stds,
-    )
-
-    X_test = scale_design_matrix(
-        X_test,
-        feature_means,
-        feature_stds,
-    )
-
-    rng = np.random.default_rng(seed)
-
-    theta0 = rng.normal(
-        size=X_train.shape[1]
-    )
+    data = prepare_part_efgh_data( seed=seed, test_size=test_size, )
+    efh_lmbda = 1.0e-2
+    theta0 = data["theta0"]
+    X_train_efgh = data["X_train_efgh"]
+    y_train_efgh = data["y_train_efgh"]
+    X_test_efgh = data["X_test_efgh"]
+    y_test_efgh = data["y_test_efgh"]
 
     # ------------------------------------------------------------
     # Reference solutions
     # ------------------------------------------------------------
 
     theta_reference = {
-        "ols":
-            fit_ols(
-                X_train,
-                y_train,
-            ),
-
-        "ridge":
-            fit_ridge(
-                X_train,
-                y_train,
-                lmbda,
-            ),
-
-        "lasso":
-            fit_lasso_coordinate_descent(
-                X_train,
-                y_train,
-                lmbda,
-            )["theta"],
+        "ols": fit_ols( X_train_efgh, y_train_efgh, ),
+        "ridge": fit_ridge( X_train_efgh, y_train_efgh, efh_lmbda, ),
+        "lasso": fit_lasso_coordinate_descent( X_train_efgh, y_train_efgh, efh_lmbda, )["theta"],
     }
 
     minimum_cost = {
-        "ols":
-            ols_cost(
-                theta_reference["ols"],
-                X_train,
-                y_train,
-            ),
-
-        "ridge":
-            ridge_cost(
-                theta_reference["ridge"],
-                X_train,
-                y_train,
-                lmbda,
-            ),
-
-        "lasso":
-            lasso_cost(
-                theta_reference["lasso"],
-                X_train,
-                y_train,
-                lmbda,
-            ),
+        "ols": ols_cost( theta_reference["ols"], X_train_efgh, y_train_efgh, ),
+        "ridge": ridge_cost( theta_reference["ridge"], X_train_efgh, y_train_efgh, efh_lmbda, ),
+        "lasso": lasso_cost( theta_reference["lasso"], X_train_efgh, y_train_efgh, efh_lmbda, ),
     }
 
     # ------------------------------------------------------------
     # Loop over OLS, Ridge and Lasso
     # ------------------------------------------------------------
 
-    for method in [
-        "ols",
-        "ridge",
-        "lasso",
-    ]:
+    for method in [ "ols", "ridge", "lasso", ]:
 
         current_lambda = (
             0.0
             if method == "ols"
-            else lmbda
+            else efh_lmbda
         )
-
         accuracy_tol = (
             1.0e-3
             if method == "lasso"
@@ -1536,84 +1279,29 @@ def run_part_h( seed=2026, test_size=0.20,):
         if method in ["ols", "ridge"]:
 
             lr_info = learning_rate_information(
-                X_train,
+                X_train_efgh,
                 method=method,
                 lmbda=current_lambda,
             )
 
             full_eta_values = {
 
-                "plain": np.unique(
-                    np.array([
-                        0.01,
-                        0.03,
-                        0.10,
-                        0.20,
-                        0.30,
-                        lr_info["eta_opt"],
-                    ])
-                ),
-
-                "momentum":
-                    np.array([
-                        0.003, 0.01, 0.03,
-                        0.10, 0.20, 0.30,
-                    ]),
-
-                "adagrad":
-                    np.array([
-                        0.03, 0.10, 0.30,
-                        0.50, 0.70, 1.00,
-                    ]),
-
-                "rmsprop":
-                    np.array([
-                        1.0e-5, 3.0e-5,
-                        5.0e-5, 8.0e-5,
-                        1.0e-4, 3.0e-4,
-                    ]),
-
-                "adam":
-                    np.array([
-                        0.001, 0.003,
-                        0.01, 0.03,
-                        0.10, 0.30,
-                    ]),
+                "plain": np.unique( np.array([ 0.01, 0.03, 0.10, 0.20, 0.30, lr_info["eta_opt"], ]) ),
+                "momentum": np.array([ 0.003, 0.01, 0.03, 0.10, 0.20, 0.30, ]),
+                "adagrad": np.array([ 0.03, 0.10, 0.30, 0.50, 0.70, 1.00, ]),
+                "rmsprop": np.array([ 1.0e-5, 3.0e-5, 5.0e-5, 8.0e-5, 1.0e-4, 3.0e-4, ]),
+                "adam": np.array([ 0.001, 0.003, 0.01, 0.03, 0.10, 0.30, ]),
             }
 
         else:
 
             full_eta_values = {
 
-                "plain":
-                    np.array([
-                        0.003, 0.01,
-                        0.03, 0.10,
-                    ]),
-
-                "momentum":
-                    np.array([
-                        0.001, 0.003,
-                        0.01, 0.03, 0.10,
-                    ]),
-
-                "adagrad":
-                    np.array([
-                        0.03, 0.10,
-                        0.30, 0.50, 1.00,
-                    ]),
-
-                "rmsprop":
-                    np.array([
-                        1.0e-5, 3.0e-5,
-                        5.0e-5, 1.0e-4,
-                    ]),
-
-                "adam":
-                    np.array([
-                        0.001, 0.003,
-                        0.01, 0.03, 0.10,
-                    ]),
+                "plain": np.array([ 0.003, 0.01, 0.03, 0.10, ]),
+                "momentum": np.array([ 0.001, 0.003, 0.01, 0.03, 0.10, ]),
+                "adagrad": np.array([ 0.03, 0.10, 0.30, 0.50, 1.00, ]),
+                "rmsprop": np.array([ 1.0e-5, 3.0e-5, 5.0e-5, 1.0e-4, ]),
+                "adam": np.array([ 0.001, 0.003, 0.01, 0.03, 0.10, ]),
             }
 
         # --------------------------------------------------------
@@ -1621,29 +1309,16 @@ def run_part_h( seed=2026, test_size=0.20,):
         # --------------------------------------------------------
 
         full_sweep = (
-            optimizer_learning_rate_sweep(
-                X_train=X_train,
-                y_train=y_train,
-                X_test=X_test,
-                y_test=y_test,
-                theta_reference=
-                    theta_reference[method],
-                eta_values_by_optimizer=
-                    full_eta_values,
-                method=method,
-                lmbda=current_lambda,
-                theta0=theta0,
-                accuracy_tol=accuracy_tol,
-                max_iter=100000,
-                seed=seed,
-            )
+            optimizer_learning_rate_sweep( X_train=X_train_efgh, y_train=y_train_efgh,
+                                           X_test=X_test_efgh, y_test=y_test_efgh,
+                                           theta_reference=theta_reference[method],
+                                           eta_values_by_optimizer=full_eta_values,
+                                           method=method, lmbda=current_lambda,
+                                           theta0=theta0, accuracy_tol=accuracy_tol,
+                                           max_iter=100000, seed=seed, )
         )
 
-        full_best = (
-            select_best_optimizer_runs(
-                full_sweep
-            )
-        )
+        full_best = select_best_optimizer_runs( full_sweep )
 
         # --------------------------------------------------------
         # Stochastic versions of the same optimizers
@@ -1652,64 +1327,25 @@ def run_part_h( seed=2026, test_size=0.20,):
 
         stochastic_eta_values = {
 
-            "plain":
-                np.array([
-                    0.003, 0.01,
-                    0.03, 0.10,
-                ]),
-
-            "momentum":
-                np.array([
-                    0.001, 0.003,
-                    0.01, 0.03, 0.10,
-                ]),
-
-            "adagrad":
-                np.array([
-                    0.03, 0.10,
-                    0.30, 0.50, 1.00,
-                ]),
-
-            "rmsprop":
-                np.array([
-                    1.0e-5, 3.0e-5,
-                    1.0e-4, 3.0e-4,
-                ]),
-
-            "adam":
-                np.array([
-                    0.001, 0.003,
-                    0.01, 0.03, 0.10,
-                ]),
+            "plain": np.array([ 0.003, 0.01, 0.03, 0.10, ]),
+            "momentum": np.array([ 0.001, 0.003, 0.01, 0.03, 0.10, ]),
+            "adagrad": np.array([ 0.03, 0.10, 0.30, 0.50, 1.00, ]),
+            "rmsprop": np.array([ 1.0e-5, 3.0e-5, 1.0e-4, 3.0e-4, ]),
+            "adam": np.array([ 0.001, 0.003, 0.01, 0.03, 0.10, ]),
         }
 
         stochastic_sweep = (
-            stochastic_optimizer_learning_rate_sweep(
-                X_train=X_train,
-                y_train=y_train,
-                X_test=X_test,
-                y_test=y_test,
-                theta_reference=
-                    theta_reference[method],
-                eta_values_by_optimizer=
-                    stochastic_eta_values,
-                method=method,
-                lmbda=current_lambda,
-                batch_size=32,
-                n_epochs=n_epochs,
-                schedule="inverse_time",
-                decay_scale=10.0,
-                theta0=theta0,
-                accuracy_tol=accuracy_tol,
-                seed=seed,
-            )
+            stochastic_optimizer_learning_rate_sweep( X_train=X_train_efgh, y_train=y_train_efgh,
+                                                      X_test=X_test_efgh, y_test=y_test_efgh,
+                                                      theta_reference=theta_reference[method],
+                                                      eta_values_by_optimizer= stochastic_eta_values,
+                                                      method=method, lmbda=current_lambda,
+                                                      batch_size=32, n_epochs=n_epochs, schedule="inverse_time",
+                                                      decay_scale=10.0, theta0=theta0, accuracy_tol=accuracy_tol,
+                                                      seed=seed, )
         )
 
-        stochastic_best = (
-            select_best_stochastic_runs(
-                stochastic_sweep
-            )
-        )
+        stochastic_best = select_best_stochastic_runs( stochastic_sweep )
 
         # --------------------------------------------------------
         # Print comparison
@@ -1754,15 +1390,9 @@ def run_part_h( seed=2026, test_size=0.20,):
         # Regenerate old optimizer plot + plain SGD
         # --------------------------------------------------------
 
-        plot_optimizer_convergence_with_sgd(
-            full_batch_results=full_best,
-            sgd_result=
-                stochastic_best["plain"],
-            minimum_cost=
-                minimum_cost[method],
-            method=method,
-            save_path=output_dir,
-        )
+        plot_optimizer_convergence_with_sgd( full_batch_results=full_best, sgd_result=stochastic_best["plain"],
+                                             minimum_cost=minimum_cost[method], method=method,
+                                             save_path=output_dir, )
 
         # --------------------------------------------------------
         # Batch-size and schedule study
@@ -1788,34 +1418,15 @@ def run_part_h( seed=2026, test_size=0.20,):
             for batch_size in batch_sizes:
 
                 batch_results[batch_size] = (
-                    optimize_regression_stochastic(
-                        X=X_train,
-                        y=y_train,
-                        eta0=eta0,
-                        optimizer="plain",
-                        method=method,
-                        lmbda=current_lambda,
-                        batch_size=batch_size,
-                        n_epochs=n_epochs,
-                        schedule=schedule,
-                        decay_scale=10.0,
-                        theta0=theta0,
-                        theta_reference=
-                            theta_reference[method],
-                        accuracy_tol=
-                            accuracy_tol,
-                        seed=seed,
-                    )
+                    optimize_regression_stochastic( X=X_train_efgh, y=y_train_efgh, eta0=eta0,
+                                                    optimizer="plain", method=method, lmbda=current_lambda,
+                                                    batch_size=batch_size, n_epochs=n_epochs, schedule=schedule,
+                                                    decay_scale=10.0, theta0=theta0, theta_reference=theta_reference[method],
+                                                    accuracy_tol=accuracy_tol, seed=seed, )
                 )
 
-            plot_sgd_batch_study(
-                batch_results=batch_results,
-                minimum_cost=
-                    minimum_cost[method],
-                method=method,
-                schedule=schedule,
-                save_path=output_dir,
-            )
+            plot_sgd_batch_study( batch_results=batch_results, minimum_cost=minimum_cost[method],
+                                  method=method, schedule=schedule, save_path=output_dir, )
 
 
 # ============================================================
@@ -1858,10 +1469,10 @@ def main():
         run_part_f( seed=seed, test_size=test_size, )
 
     elif args.part == "g":
-            run_part_g( seed=seed, test_size=test_size, )
+        run_part_g( seed=seed, test_size=test_size, )
 
     elif args.part == "h":
-                run_part_h( seed=seed, test_size=test_size, )
+        run_part_h( seed=seed, test_size=test_size, )
 
     print("\nSee results in P1/plots \n")
 
