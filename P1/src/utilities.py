@@ -1519,10 +1519,6 @@ def stochastic_optimizer_learning_rate_sweep( X_train, y_train, X_test, y_test, 
     return results
 
 def select_best_stochastic_runs( sweep_results, ):
-    """
-    Select the converged run requiring the fewest
-    equivalent complete data passes.
-    """
 
     best_results = {}
 
@@ -1534,20 +1530,29 @@ def select_best_stochastic_runs( sweep_results, ):
             if result["converged"]
         ]
 
-        if len(converged_runs) == 0:
+        if converged_runs:
 
-            best_results[optimizer] = None
-            continue
+            best_eta, best_result = min(
+                converged_runs,
+                key=lambda item:
+                    item[1]["data_passes"],
+            )
 
-        best_eta, best_result = min(
-            converged_runs,
-            key=lambda item:
-                item[1]["data_passes"],
-        )
+        else:
+
+            # No run reached the target:
+            # retain the most accurate final result.
+            best_eta, best_result = min(
+                runs.items(),
+                key=lambda item:
+                    item[1]["relative_theta_error"],
+            )
+
 
         best_results[optimizer] = {
             "eta": best_eta,
             "result": best_result,
+            "target_reached": best_result["converged"],
         }
 
     return best_results

@@ -1092,85 +1092,130 @@ def plot_ols_ridge_lasso_coefficients(
 
     plt.close(fig)
 
-def plot_optimizer_convergence_with_sgd(
+def plot_full_vs_stochastic_optimizers(
     full_batch_results,
-    sgd_result,
+    stochastic_results,
     minimum_cost,
     method,
+    batch_size,
+    schedule,
     save_path=None,
 ):
     """
-    Compare the existing full-batch optimizers with
-    plain mini-batch SGD.
+    Compare full-batch and mini-batch versions of the same
+    five parameter-update methods.
 
-    Horizontal axis is equivalent complete passes through
-    the training data, making the comparison meaningful.
+    Solid lines:
+        full-batch gradients
+
+    Dashed lines:
+        mini-batch stochastic gradients
+
+    The same color is used for the same update rule.
     """
 
     fig, ax = plt.subplots(
-        figsize=(8, 5)
+        figsize=(9, 6)
     )
 
-    # Existing full-batch optimizers
-    for optimizer, data in (
-        full_batch_results.items()
-    ):
+    optimizer_order = [
+        "plain",
+        "momentum",
+        "adagrad",
+        "rmsprop",
+        "adam",
+    ]
 
-        if data is None:
-            continue
+    for optimizer in optimizer_order:
 
-        eta = data["eta"]
+        # ========================================================
+        # Full-batch version
+        # ========================================================
 
-        cost_history = (
-            data["result"]["cost_history"]
+        full_data = full_batch_results.get(
+            optimizer
         )
 
-        excess_cost = np.maximum(
-            cost_history - minimum_cost,
-            np.finfo(float).eps,
+        full_line = None
+
+        if full_data is not None:
+
+            full_cost = (
+                full_data["result"]["cost_history"]
+            )
+
+            full_excess = np.maximum(
+                full_cost - minimum_cost,
+                np.finfo(float).eps,
+            )
+
+            # One full-batch iteration processes
+            # the complete training set.
+            full_passes = np.arange(
+                1,
+                len(full_excess) + 1,
+            )
+
+            full_line, = ax.plot(
+                full_passes,
+                full_excess,
+                linestyle="-",
+                label=(
+                    f"Full {optimizer}"
+                ),
+            )
+
+        # ========================================================
+        # Stochastic version
+        # ========================================================
+
+        stochastic_data = (
+            stochastic_results.get(
+                optimizer
+            )
         )
 
-        data_passes = np.arange(
-            1,
-            len(excess_cost) + 1,
-        )
+        if stochastic_data is not None:
 
-        ax.plot(
-            data_passes,
-            excess_cost,
-            label=(
-                rf"{optimizer}, "
-                rf"$\eta={eta:.1e}$"
-            ),
-        )
+            stochastic_cost = (
+                stochastic_data[
+                    "result"
+                ]["cost_history"]
+            )
 
-    # Plain stochastic GD
-    if sgd_result is not None:
+            stochastic_excess = np.maximum(
+                stochastic_cost
+                - minimum_cost,
+                np.finfo(float).eps,
+            )
 
-        cost_history = (
-            sgd_result["result"]["cost_history"]
-        )
+            # Cost is stored once per epoch.
+            # One epoch is approximately one
+            # complete pass through the data.
+            stochastic_passes = np.arange(
+                1,
+                len(stochastic_excess) + 1,
+            )
 
-        excess_cost = np.maximum(
-            cost_history - minimum_cost,
-            np.finfo(float).eps,
-        )
+            plot_kwargs = {
+                "linestyle": "--",
+                "linewidth": 2,
+                "label":
+                    f"Mini-batch {optimizer}",
+            }
 
-        epochs = np.arange(
-            1,
-            len(excess_cost) + 1,
-        )
+            # Give the full-batch/stochastic pair
+            # the same color.
+            if full_line is not None:
+                plot_kwargs["color"] = (
+                    full_line.get_color()
+                )
 
-        ax.plot(
-            epochs,
-            excess_cost,
-            linestyle="--",
-            linewidth=2,
-            label=(
-                rf"SGD, "
-                rf"$\eta_0={sgd_result['eta']:.1e}$"
-            ),
-        )
+            ax.plot(
+                stochastic_passes,
+                stochastic_excess,
+                **plot_kwargs,
+            )
 
     ax.set_xscale("log")
     ax.set_yscale("log")
@@ -1184,18 +1229,24 @@ def plot_optimizer_convergence_with_sgd(
     )
 
     ax.set_title(
-        f"{method.upper()} optimizer comparison with SGD"
+        rf"{method.upper()}: full-batch vs "
+        rf"mini-batch optimization "
+        rf"($M={batch_size}$, {schedule})"
     )
 
-    ax.legend()
+    ax.legend(ncol=2, fontsize=13, loc="best")
     ax.grid(alpha=0.3)
+
     fig.tight_layout()
 
     if save_path is not None:
 
         fig.savefig(
             save_path
-            / f"optimizer_convergence_{method}_with_SGD.pdf",
+            / (
+                f"optimizer_comparison_"
+                f"{method}_full_vs_stochastic.pdf"
+            ),
             dpi=300,
             bbox_inches="tight",
         )

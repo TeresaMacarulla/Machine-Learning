@@ -62,7 +62,7 @@ from plot_generator import (
     plot_lasso_coefficient_path,
     plot_ols_ridge_lasso_coefficients,
     plot_sgd_batch_study,
-    plot_optimizer_convergence_with_sgd
+    plot_full_vs_stochastic_optimizers
 )
 
 plt.rcParams.update({
@@ -1220,7 +1220,7 @@ def run_part_h( seed=2026, test_size=0.20,):
 
     print("\nRunning Part H...\n")
 
-    n_epochs = 1000
+    n_epochs = 10000
     batch_sizes = [1, 8, 32, 160]
 
     output_dir = PLOTS_DIR / "part_h"
@@ -1340,7 +1340,7 @@ def run_part_h( seed=2026, test_size=0.20,):
                                                       theta_reference=theta_reference[method],
                                                       eta_values_by_optimizer= stochastic_eta_values,
                                                       method=method, lmbda=current_lambda,
-                                                      batch_size=32, n_epochs=n_epochs, schedule="inverse_time",
+                                                      batch_size=32, n_epochs=n_epochs, schedule="constant",
                                                       decay_scale=10.0, theta0=theta0, accuracy_tol=accuracy_tol,
                                                       seed=seed, )
         )
@@ -1390,23 +1390,16 @@ def run_part_h( seed=2026, test_size=0.20,):
         # Regenerate old optimizer plot + plain SGD
         # --------------------------------------------------------
 
-        plot_optimizer_convergence_with_sgd( full_batch_results=full_best, sgd_result=stochastic_best["plain"],
-                                             minimum_cost=minimum_cost[method], method=method,
-                                             save_path=output_dir, )
+        plot_full_vs_stochastic_optimizers( full_batch_results=full_best, stochastic_results=stochastic_best, 
+                                            minimum_cost=minimum_cost[method], method=method,
+                                            batch_size=32, schedule="constant",
+                                            save_path=output_dir, )
 
         # --------------------------------------------------------
         # Batch-size and schedule study
         # --------------------------------------------------------
 
-        if (
-            stochastic_best["plain"]
-            is not None
-        ):
-            eta0 = (
-                stochastic_best["plain"]["eta"]
-            )
-        else:
-            eta0 = 0.03
+        eta0 = 0.03
 
         for schedule in [
             "constant",
