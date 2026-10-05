@@ -208,9 +208,8 @@ def r2_score(y_true, y_pred):
     return 1.0 - numerator / denominator
 
 def fit_and_evaluate( x_train, x_test, y_train, y_test, degree, method="ols", lmbda=0.0,):
-    """
-    Fit and evaluate one polynomial OLS or Ridge model.
-    """
+    """Fit and evaluate one polynomial OLS, Ridge or Lasso model."""
+
     X_train = design_matrix(x_train, degree)
     X_test = design_matrix(x_test, degree)
 
@@ -228,17 +227,16 @@ def fit_and_evaluate( x_train, x_test, y_train, y_test, degree, method="ols", lm
     )
 
     if method == "ols":
-        theta = fit_ols(X_train_scaled, y_train)
+        theta = fit_ols( X_train_scaled, y_train, )
 
     elif method == "ridge":
-        theta = fit_ridge(
-            X_train_scaled,
-            y_train,
-            lmbda,
-        )
+        theta = fit_ridge( X_train_scaled, y_train, lmbda, )
+
+    elif method == "lasso":
+        theta = fit_lasso_coordinate_descent( X_train_scaled, y_train, lmbda=lmbda, )["theta"]
 
     else:
-        raise ValueError("method must be 'ols' or 'ridge'.")
+        raise ValueError( "method must be 'ols', 'ridge' or 'lasso'." )
 
     y_train_pred = predict(X_train_scaled, theta)
     y_test_pred = predict(X_test_scaled, theta)
@@ -325,10 +323,9 @@ def bootstrap_bias_variance( x_train, x_test, y_train, y_test, degrees, n_bootst
         "variance": variance,
     }
 
-def cross_validation_mse( x, y, degrees, n_splits=5, seed=2026,):
+def cross_validation_mse( x, y, degrees, n_splits=5, seed=2026, method="ols", lmbda=0.0):
     """
-    Estimate OLS prediction error with k-fold cross-validation.
-
+    Estimate OLS prediction error with k-fold cross-validation for OLS, Ridge or Lasso.
     Scaling is fitted independently inside each training fold.
     """
     degrees = np.asarray(degrees)
@@ -354,14 +351,9 @@ def cross_validation_mse( x, y, degrees, n_splits=5, seed=2026,):
             x_val_fold = x[val_indices]
             y_val_fold = y[val_indices]
 
-            result = fit_and_evaluate(
-                x_train=x_train_fold,
-                x_test=x_val_fold,
-                y_train=y_train_fold,
-                y_test=y_val_fold,
-                degree=degree,
-                method="ols",
-            )
+            result = fit_and_evaluate( x_train=x_train_fold, x_test=x_val_fold,
+                                       y_train=y_train_fold, y_test=y_val_fold, 
+                                       degree=degree, method=method, lmbda=lmbda, )
 
             fold_mse.append(result["mse_test"])
 

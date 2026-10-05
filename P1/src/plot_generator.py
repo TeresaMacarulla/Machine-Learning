@@ -1319,3 +1319,196 @@ def plot_sgd_batch_study(
         )
 
     plt.close(fig)
+
+def plot_final_model_selection(
+    degrees,
+    ols_cv,
+    ridge_lambdas,
+    ridge_cv_grid,
+    lasso_lambdas,
+    lasso_cv_grid,
+    save_path=None,
+):
+    """
+    Final cross-validation model-selection plots.
+
+    Creates:
+      1. Ridge and Lasso CV heatmaps.
+      2. OLS vs optimally regularized Ridge/Lasso CV curves.
+    """
+
+    # ============================================================
+    # 1. Ridge and Lasso heatmaps
+    # ============================================================
+
+    fig, axes = plt.subplots(
+        1,
+        2,
+        figsize=(13, 5),
+    )
+
+    for (
+        ax,
+        method,
+        lambdas,
+        cv_grid,
+    ) in [
+        (
+            axes[0],
+            "Ridge",
+            ridge_lambdas,
+            ridge_cv_grid,
+        ),
+        (
+            axes[1],
+            "Lasso",
+            lasso_lambdas,
+            lasso_cv_grid,
+        ),
+    ]:
+
+        image = ax.imshow(
+            cv_grid,
+            aspect="auto",
+            origin="lower",
+            interpolation="nearest",
+        )
+
+        # Best (lambda, degree) combination.
+        best_lambda_index, best_degree_index = (
+            np.unravel_index(
+                np.argmin(cv_grid),
+                cv_grid.shape,
+            )
+        )
+
+        ax.scatter(
+            best_degree_index,
+            best_lambda_index,
+            marker="x",
+            s=100,
+            linewidth=2,
+        )
+
+        degree_step = max(
+            1,
+            len(degrees) // 6,
+        )
+
+        degree_indices = np.arange(
+            0,
+            len(degrees),
+            degree_step,
+        )
+
+        ax.set_xticks(
+            degree_indices,
+            degrees[degree_indices],
+        )
+
+        ax.set_yticks(
+            np.arange(len(lambdas)),
+            [
+                f"{lmbda:.0e}"
+                for lmbda in lambdas
+            ],
+        )
+
+        ax.set_xlabel(
+            "Polynomial degree"
+        )
+
+        ax.set_ylabel(
+            r"Penalty $\lambda$"
+        )
+
+        ax.set_title(
+            f"{method}: 5-fold CV MSE"
+        )
+
+        fig.colorbar(
+            image,
+            ax=ax,
+            label="Mean CV MSE",
+        )
+
+    fig.tight_layout()
+
+    if save_path is not None:
+
+        fig.savefig(
+            save_path
+            / "final_cv_regularization_heatmaps.pdf",
+            dpi=300,
+            bbox_inches="tight",
+        )
+
+    plt.close(fig)
+
+    # ============================================================
+    # 2. Best CV error versus degree
+    # ============================================================
+
+    ridge_best_by_degree = np.min(
+        ridge_cv_grid,
+        axis=0,
+    )
+
+    lasso_best_by_degree = np.min(
+        lasso_cv_grid,
+        axis=0,
+    )
+
+    fig, ax = plt.subplots(
+        figsize=(8, 5)
+    )
+
+    ax.plot(
+        degrees,
+        ols_cv,
+        marker="o",
+        label="OLS",
+    )
+
+    ax.plot(
+        degrees,
+        ridge_best_by_degree,
+        marker="o",
+        label="Ridge, best $\lambda$",
+    )
+
+    ax.plot(
+        degrees,
+        lasso_best_by_degree,
+        marker="o",
+        label="Lasso, best $\lambda$",
+    )
+
+    ax.set_xlabel(
+        "Polynomial degree"
+    )
+
+    ax.set_ylabel(
+        "Mean cross-validated MSE"
+    )
+
+    ax.set_yscale("log")
+
+    ax.set_title(
+        "Final model selection by 5-fold cross-validation"
+    )
+
+    ax.legend()
+    ax.grid(alpha=0.3)
+    fig.tight_layout()
+
+    if save_path is not None:
+
+        fig.savefig(
+            save_path
+            / "final_cv_model_comparison.pdf",
+            dpi=300,
+            bbox_inches="tight",
+        )
+
+    plt.close(fig)

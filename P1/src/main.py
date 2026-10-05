@@ -62,7 +62,8 @@ from plot_generator import (
     plot_lasso_coefficient_path,
     plot_ols_ridge_lasso_coefficients,
     plot_sgd_batch_study,
-    plot_full_vs_stochastic_optimizers
+    plot_full_vs_stochastic_optimizers,
+    plot_final_model_selection,
 )
 
 plt.rcParams.update({
@@ -1423,6 +1424,166 @@ def run_part_h( seed=2026, test_size=0.20,):
 
 
 # ============================================================
+# PART I: Final model selection
+# ============================================================
+
+def run_part_i( seed=2026, ):
+
+    print("\nRunning Part I...\n")
+
+    # ------------------------------------------------------------
+    # Final model-selection setup
+    # ------------------------------------------------------------
+
+    n = 200
+    sigma = 0.1
+    n_splits = 5
+
+    degrees = np.arange( 1, 26, )
+
+    # Use the same penalty ranges studied previously.
+    ridge_lambdas = np.logspace( -6, 0, 7, )
+    lasso_lambdas = np.array([ 1.0e-4, 3.0e-4, 1.0e-3, 3.0e-3, 1.0e-2, 3.0e-2, 1.0e-1, ])
+
+    output_dir = ( PLOTS_DIR / "part_i" )
+
+    # ------------------------------------------------------------
+    # Generate one common data set.
+    # CV uses all observations.
+    # ------------------------------------------------------------
+
+    x, y = artificial_data( n=n, sigma=sigma, seed=seed, )
+
+    # ============================================================
+    # 1. OLS: degree selection
+    # ============================================================
+
+    ols_results = cross_validation_mse( x=x, y=y, degrees=degrees, n_splits=n_splits, seed=seed, method="ols", )
+    ols_cv = ols_results[ "mean_mse" ]
+
+    # ============================================================
+    # 2. Ridge: degree + lambda selection
+    # ============================================================
+
+    ridge_cv_grid = np.empty( (len(ridge_lambdas), len(degrees),) )
+
+    for lambda_index, lmbda in enumerate(
+        ridge_lambdas
+    ):
+
+        result = cross_validation_mse( x=x, y=y, degrees=degrees, n_splits=n_splits, seed=seed, method="ridge", lmbda=lmbda, )
+        ridge_cv_grid[ lambda_index, :, ] = result["mean_mse"]
+
+    # ============================================================
+    # 3. Lasso: degree + lambda selection
+    # ============================================================
+
+    lasso_cv_grid = np.empty( (len(lasso_lambdas), len(degrees),) )
+
+    for lambda_index, lmbda in enumerate(
+        lasso_lambdas
+    ):
+
+        result = cross_validation_mse( x=x, y=y, degrees=degrees, n_splits=n_splits, seed=seed, method="lasso", lmbda=lmbda, )
+        lasso_cv_grid[ lambda_index, :, ] = result["mean_mse"]
+
+    # ============================================================
+    # 4. Locate the optimum of each method
+    # ============================================================
+
+    # OLS
+    ols_degree_index = np.argmin( ols_cv )
+    best_ols_degree = degrees[ ols_degree_index ]
+    best_ols_mse = ols_cv[ ols_degree_index ]
+
+    # Ridge
+    ( ridge_lambda_index, ridge_degree_index, ) = np.unravel_index( np.argmin(ridge_cv_grid), ridge_cv_grid.shape, )
+    best_ridge_degree = degrees[ ridge_degree_index ]
+    best_ridge_lambda = ridge_lambdas[ ridge_lambda_index ]
+    best_ridge_mse = ridge_cv_grid[ ridge_lambda_index, ridge_degree_index, ]
+
+    # Lasso
+    ( lasso_lambda_index, lasso_degree_index, ) = np.unravel_index( np.argmin(lasso_cv_grid), lasso_cv_grid.shape, )
+    best_lasso_degree = degrees[ lasso_degree_index ]
+    best_lasso_lambda = lasso_lambdas[ lasso_lambda_index ]
+    best_lasso_mse = lasso_cv_grid[ lasso_lambda_index, lasso_degree_index, ]
+
+    # ============================================================
+    # 5. Refit the selected models using all available data
+    # ============================================================
+
+    final_ols = fit_and_evaluate( x_train=x, x_test=x, y_train=y, y_test=y, degree=best_ols_degree, method="ols", )
+
+    final_ridge = fit_and_evaluate( x_train=x, x_test=x, y_train=y, y_test=y, degree=best_ridge_degree, method="ridge", lmbda=best_ridge_lambda, )
+
+    final_lasso = fit_and_evaluate( x_train=x, x_test=x, y_train=y, y_test=y, degree=best_lasso_degree, method="lasso", lmbda=best_lasso_lambda, )
+
+    lasso_nonzero = np.count_nonzero( np.abs( final_lasso["theta"][1:] ) > 1.0e-8 )
+
+    # ============================================================
+    # 6. Numerical summary
+    # ============================================================
+
+    print(
+        "Final model selection "
+        f"({n_splits}-fold CV)"
+    )
+
+    print(
+        "----------------------------"
+    )
+
+    print(
+        f"OLS   : "
+        f"d={best_ols_degree:2d}, "
+        f"CV MSE={best_ols_mse:.6f}"
+    )
+
+    print(
+        f"RIDGE : "
+        f"d={best_ridge_degree:2d}, "
+        f"lambda={best_ridge_lambda:.1e}, "
+        f"CV MSE={best_ridge_mse:.6f}"
+    )
+
+    print(
+        f"LASSO : "
+        f"d={best_lasso_degree:2d}, "
+        f"lambda={best_lasso_lambda:.1e}, "
+        f"CV MSE={best_lasso_mse:.6f}, "
+        f"non-zero={lasso_nonzero}"
+    )
+
+    # ------------------------------------------------------------
+    # Best method overall
+    # ------------------------------------------------------------
+
+    model_mse = { "OLS": best_ols_mse, "Ridge": best_ridge_mse, "Lasso": best_lasso_mse, }
+
+    best_method = min( model_mse, key=model_mse.get, )
+
+    print()
+
+    print(
+        f"Best overall model: "
+        f"{best_method}"
+    )
+
+    print(
+        f"Lowest CV MSE: "
+        f"{model_mse[best_method]:.6f}"
+    )
+
+    # ============================================================
+    # 7. Plots
+    # ============================================================
+
+    plot_final_model_selection( degrees=degrees, ols_cv=ols_cv, ridge_lambdas=ridge_lambdas,
+                                ridge_cv_grid=ridge_cv_grid, lasso_lambdas=lasso_lambdas,
+                                lasso_cv_grid=lasso_cv_grid, save_path=output_dir, )
+
+
+# ============================================================
 # MAIN PART
 # ============================================================
 def main():
@@ -1433,9 +1594,9 @@ def main():
 
     parser.add_argument(
         "part",
-        choices=[ "a", "b", "c", "d", "e", "f", "g", "h" ],
+        choices=[ "a", "b", "c", "d", "e", "f", "g", "h", "i" ],
         help=( "Project part to run: "
-            "a, b, c, d, e, f, g, h." ),
+            "a, b, c, d, e, f, g, h, i." ),
     )
 
     args = parser.parse_args()
@@ -1464,8 +1625,11 @@ def main():
     elif args.part == "g":
         run_part_g( seed=seed, test_size=test_size, )
 
-    elif args.part == "h":
+    elif args.part == "h": 
         run_part_h( seed=seed, test_size=test_size, )
+
+    elif args.part == "i":
+        run_part_i( seed=seed )
 
     print("\nSee results in P1/plots \n")
 
