@@ -1,0 +1,1762 @@
+\documentclass[aps,rmp,reprint,amsmath,amssymb,graphicx,longbibliography]{revtex4-1}
+
+\usepackage[utf8]{inputenc}
+\usepackage{bm}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{float}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{placeins}
+
+\hypersetup{
+    breaklinks=true,
+    colorlinks=true,
+    linkcolor=blue,
+    citecolor=blue,
+    urlcolor=blue
+}
+\setcitestyle{numbers,square}
+
+\begin{document}
+
+\title{Project 1: Regression Analysis, Resampling Methods and Gradient Descent}
+
+\author{Teresa Macarulla Uriarte}
+\affiliation{FYS-STK3155 Applied Data Analytics and Machine Learning}
+\affiliation{University of Oslo}
+\date{\today}
+
+\begin{abstract}
+Polynomial regression of noisy samples of Runge's function was used to study
+model complexity, regularisation, resampling, and gradient-based optimisation.
+Ordinary Least Squares (OLS), Ridge, and Lasso regression were compared using
+training/test analysis, bootstrap resampling, and $K$-fold cross-validation.
+Increasing the sample size allowed more complex polynomial models to be fitted
+before variance became dominant, whereas increasing the noise level reduced
+the useful model complexity. Bootstrap resampling confirmed the expected
+transition from bias-dominated underfitting to variance-dominated
+over-fitting, while cross-validation provided a more stable basis for model
+selection. For $n=200$ and $\sigma=0.1$, final five-fold cross-validation
+selected OLS with degree $d=14$ and a mean MSE of $0.011852$, compared with
+$0.012489$ for Ridge and $0.013282$ for Lasso. Ridge and Lasso nevertheless
+showed substantially greater stability at excessive polynomial degree.
+Analytical and automatically differentiated gradients agreed to machine
+precision, and gradient descent reproduced the closed-form OLS and Ridge
+solutions. Momentum gave the fastest full-batch convergence among the tested
+optimisers, while mini-batch stochastic optimisation offered no computational
+advantage for the small data set considered here. Overall, the results show
+that regularisation primarily improves robustness rather than the minimum
+prediction error for this particular regression problem.
+\end{abstract}
+
+\maketitle
+
+\tableofcontents
+
+% ============================================================
+\section{Introduction}
+
+Regression analysis provides a controlled setting for studying some of the
+central questions of machine learning: how complex a model should be, how
+sensitive its predictions are to the available data, and how well its
+performance on unseen observations can be estimated. Polynomial regression is
+particularly useful for illustrating these issues because increasing the
+polynomial degree improves the flexibility of the model, but may also lead to
+poorly conditioned fits and large sensitivity to noise. In this project,
+Runge's function is used as a simple one-dimensional test problem to study
+these effects in a setting where the underlying function is known
+\cite{UiOProject1_2026}.
+
+The main objective is to investigate how polynomial model complexity, sample
+size, noise, and regularisation affect prediction and generalisation. Ordinary
+Least Squares (OLS) is used as the unregularized reference, while Ridge and
+Lasso regression are introduced to examine two different ways of controlling
+model complexity. Bootstrap resampling and cross-validation are used to study
+the bias--variance trade-off and to distinguish genuine predictive performance
+from behaviour that depends on a particular train--test split. A second aim is
+to study the numerical optimisation of the same regression problems, comparing
+closed-form solutions with gradient-based methods and examining the effects of
+different parameter-update rules and stochastic mini-batch gradients.
+
+The remainder of the report first introduces the theoretical background,
+followed by the numerical methods and implementation. The resulting regression,
+resampling, and optimisation studies are then presented and discussed, before
+the three regression methods are brought together in a final cross-validated
+model comparison. The report concludes with the main findings and possible
+extensions. 
+
+All code developed for this work is available at this 
+\href{https://github.uio.no/teresm/Machine-Learning/tree/main/P1}{GitHub} repository. The implementation was divided into three source files. The main experimental
+workflow and the individual experimental parts are defined in \texttt{main.py};
+data generation, regression, resampling, and optimization routines are
+implemented in \texttt{utilities.py}; and all figure-generation routines are
+collected in \texttt{plot\_generator.py}. This separation was used so that
+the numerical methods could be tested independently from the plotting and
+experiment-control code.
+
+% ============================================================
+\section{Theory}
+
+\subsection{Polynomial regression and performance measures}
+\label{subsec:polynomial_regression}
+
+A regression problem can be formulated by assuming that the observed targets
+are generated by an underlying function with additive noise,
+\begin{equation}
+    y_i = f(x_i) + \varepsilon_i,
+    \qquad
+    \varepsilon_i \sim \mathcal{N}(0,\sigma^2),
+    \label{eq:generated_data}
+\end{equation}
+where the noise terms are assumed to be independent. In this project, the
+underlying function is Runge's function,
+\begin{equation}
+    f(x)=\frac{1}{1+25x^2}, \qquad x\in[-1,1],
+\end{equation}
+to which Gaussian noise is added to generate the regression data
+\cite{UiOProject1_2026}. The objective is to construct an approximation
+$\tilde{y}$ to the unknown relation between $x$ and $y$
+\cite{HjorthJensen2026MLPS}.
+
+For a polynomial model of degree $d$, the approximation is written as a linear
+model in the parameters,
+\begin{equation}
+    \tilde{\mathbf{y}} = \mathbf{X}\boldsymbol{\theta},
+\end{equation}
+where $\boldsymbol{\theta}=(\theta_0,\ldots,\theta_d)^T$ and the polynomial
+design matrix is
+\begin{equation}
+    \mathbf{X} =
+    \begin{pmatrix}
+        1 & x_0 & x_0^2 & \cdots & x_0^d \\
+        1 & x_1 & x_1^2 & \cdots & x_1^d \\
+        \vdots & \vdots & \vdots & \ddots & \vdots \\
+        1 & x_{n-1} & x_{n-1}^2 & \cdots & x_{n-1}^d
+    \end{pmatrix}.
+\end{equation}
+Thus, although the model is nonlinear in the input $x$, it is linear in the
+parameters $\boldsymbol{\theta}$. Increasing $d$ increases the flexibility of
+the model, but also makes the polynomial design matrix increasingly susceptible
+to ill-conditioning \cite{HjorthJensen2026MLPS}.
+
+Ordinary Least Squares (OLS) determines the parameters by minimizing the mean
+squared residual,
+\begin{equation}
+    C(\boldsymbol{\theta})
+    = \frac{1}{n}
+      \left\lVert
+      \mathbf{y}-\mathbf{X}\boldsymbol{\theta}
+      \right\rVert_2^2.
+      \label{eq:OLS_cost}
+\end{equation}
+Setting the gradient of this cost function to zero gives the normal equations
+$\mathbf{X}^T\mathbf{X}\boldsymbol{\theta}
+=\mathbf{X}^T\mathbf{y}$ and, when $\mathbf{X}$ has full column rank,
+\begin{equation}
+    \hat{\boldsymbol{\theta}}_{\mathrm{OLS}}
+    =
+    \left(\mathbf{X}^T\mathbf{X}\right)^{-1}
+    \mathbf{X}^T\mathbf{y}.
+    \label{eq:OLS_parameter}
+\end{equation}
+This expression is the analytical OLS solution, although in numerical
+implementations the pseudoinverse or an SVD-based (Singular Value Decomposition) 
+solution is preferable to explicitly forming the inverse of $\mathbf{X}^T\mathbf{X}$, 
+particularly for high-degree polynomial models \cite{HjorthJensen2026MLPS}.
+
+The quality of the predictions is quantified using the Mean Squared Error
+(MSE) and the coefficient of determination $R^2$,
+\begin{align}
+    \mathrm{MSE}
+    &= \frac{1}{n}\sum_{i=0}^{n-1}
+       \left(y_i-\tilde{y}_i\right)^2, 
+       \label{eq:MSE}\\
+    R^2
+    &= 1-
+    \frac{\sum_{i=0}^{n-1}(y_i-\tilde{y}_i)^2}
+         {\sum_{i=0}^{n-1}(y_i-\bar{y})^2},
+    \qquad
+    \bar{y}=\frac{1}{n}\sum_{i=0}^{n-1}y_i .
+    \label{eq:R2}
+\end{align}
+The MSE measures the average squared prediction error, whereas $R^2$ compares
+the model with the constant prediction $\bar{y}$ \cite{HjorthJensen2026MLPS}.
+
+Finally, preprocessing must be handled consistently. OLS predictions are
+invariant under a rescaling of the feature columns, although centering and
+scaling can improve numerical conditioning and become essential for the
+regularized methods considered later. Centering the predictors and targets also
+provides a convenient way of handling the intercept. Importantly, all means
+and scaling factors must be computed from the training data only and then
+applied unchanged to the test data, since preprocessing the complete data set
+before the split would introduce information leakage
+\cite{HjorthJensen2026MLPS,UiOProject1_2026}.
+
+
+\subsection{Ridge and Lasso regularisation}
+\label{subsec: ridge regularisation}
+
+\subsubsection*{Ridge regression}
+
+Ridge regression extends OLS by penalizing large model
+coefficients. Using the normalized cost-function convention adopted in this
+work,
+\begin{equation}
+    C_{\mathrm{Ridge}}(\boldsymbol{\theta})
+    =
+    \frac{1}{n}
+    \left\lVert
+    \mathbf{y}-\mathbf{X}\boldsymbol{\theta}
+    \right\rVert_2^2
+    +
+    \lambda
+    \boldsymbol{\theta}^{T}\mathbf{P}\boldsymbol{\theta},
+    \label{eq:cost_function}
+\end{equation}
+where $\lambda\geq0$ controls the strength of the regularisation. The
+corresponding closed-form estimator is
+\begin{equation}
+    \hat{\boldsymbol{\theta}}_{\mathrm{Ridge}}
+    =
+    \left(
+    \mathbf{X}^{T}\mathbf{X}
+    +n\lambda\mathbf{P}
+    \right)^{-1}
+    \mathbf{X}^{T}\mathbf{y},
+    \label{eq:Ridge_parameter}
+\end{equation}
+with OLS recovered for $\lambda=0$ and where $\mathbf{P}=\mathrm{diag}(0,1,\ldots,1)$ so that the intercept is not regularized. Ridge therefore introduces bias in exchange
+for a reduction in parameter variance and improved stability in directions
+that are weakly constrained by the data \cite{HjorthJensen2026MLPS}.
+
+This effect is particularly transparent in the singular-value basis. For a
+singular value $\sigma_i$ of $\mathbf{X}$, the corresponding contribution to
+the fitted values is multiplied by the shrinkage factor
+\begin{equation}
+    s_i(\lambda)
+    =
+    \frac{\sigma_i^2}
+         {\sigma_i^2+n\lambda}.
+\end{equation}
+Directions with $\sigma_i^2\gg n\lambda$ are therefore almost unaffected,
+whereas directions with $\sigma_i^2\ll n\lambda$ are strongly suppressed.
+Ridge consequently damps most strongly the poorly determined singular-value
+modes that contribute most to the variance of an unregularized OLS fit
+\cite{HjorthJensen2026MLPS}.
+
+\subsubsection*{Lasso regression}
+
+Lasso regression replaces the 2-norm Ridge penalty with an 1-norm $L_1$ penalty (last element in Eq.~\eqref{eq:cost_function} and in Eq.~\eqref{eq:cost_Lasso} respectively).
+Using the same normalized cost convention as for Ridge,
+
+\begin{equation}
+    C_{\mathrm{Lasso}}(\boldsymbol{\theta})
+    =
+    \frac{1}{n}
+    \left\|
+        \mathbf{y}-\mathbf{X}\boldsymbol{\theta}
+    \right\|_2^2
+    +
+    \lambda
+    \sum_{j=1}^{p-1}
+    |\theta_j|,
+    \label{eq:cost_Lasso}
+\end{equation}
+
+where the intercept $\theta_0$ is not regularized. In contrast to Ridge,
+the $L_1$ penalty can set individual coefficients exactly to zero
+\cite{HjorthJensen2026MLPS}.
+
+The absolute-value penalty is not differentiable at $\theta_j=0$. Its
+derivative must therefore be replaced by the sub-differential
+
+\begin{equation}
+    \partial |\theta_j|
+    =
+    \begin{cases}
+        \{-1\}, & \theta_j < 0,\\
+        [-1,1], & \theta_j = 0,\\
+        \{+1\}, & \theta_j > 0.
+    \end{cases}
+\end{equation}
+
+The soft-thresholding operator (Eq.~\eqref{eq:thresholding}) expresses the behaviour of Lasso regularisation and forms the basis of coordinate-descent algorithms.
+
+\begin{equation}
+    S_{\gamma}(z)
+    =
+    \operatorname{sign}(z)
+    \max(|z|-\gamma,0),
+    \label{eq:thresholding}
+\end{equation}
+
+If the coefficient is large enough, $|z|>\gamma$, the operator reduces its magnitude. If the coefficient is smaller than the threshold $|z|\leq \gamma$, it becomes exactly zero.
+
+\subsection{Bias--variance decomposition and resampling}
+
+Consider observations generated according to Eq.~\ref{eq:generated_data},
+where $f(\mathbf{x})$ is the deterministic underlying function. A model fitted to
+a random training set produces predictions $\mathbf{\tilde{y}}$.
+Because the training set changes from one realization to another,
+$\mathbf{\tilde{y}}$ is itself a random quantity. For fixed input locations, the expected prediction error averaged over the
+data points is
+\begin{equation}
+    \frac{1}{n}
+    \sum_{i=0}^{n-1}
+    \mathbb{E}
+    \left[
+        (y_i-\tilde{y}_i)^2
+    \right].
+\end{equation}
+
+Using $y_i=f_i+\epsilon_i$, and adding and subtracting
+$\mathbb{E}[\tilde{y}_i]$,
+\begin{equation}
+    y_i-\tilde{y}_i
+    =
+    \left(f_i-\mathbb{E}[\tilde{y}_i]\right)
+    +
+    \left(\mathbb{E}[\tilde{y}_i]-\tilde{y}_i\right)
+    +
+    \epsilon_i .
+\end{equation}
+
+After squaring and taking the expectation, the cross terms vanish because
+$\mathbb{E}[\epsilon_i]=0$ and
+$\mathbb{E}[\tilde{y}_i-\mathbb{E}[\tilde{y}_i]]=0$. Therefore,
+
+\begin{equation}
+\begin{split}
+    \frac{1}{n}
+    \sum_i
+    \mathbb{E}
+    \left[
+        (y_i-\tilde{y}_i)^2
+    \right]
+    &=
+    \underbrace{
+        \frac{1}{n}\sum_i
+        \left(
+            f_i-\mathbb{E}[\tilde{y}_i]
+        \right)^2
+    }_{\mathrm{Bias}^2}
+    \\
+    &\quad+
+    \underbrace{
+        \frac{1}{n}\sum_i
+        \mathbb{E}
+        \left[
+            \left(
+                \tilde{y}_i-\mathbb{E}[\tilde{y}_i]
+            \right)^2
+        \right]
+    }_{\mathrm{Variance}}
+    +
+    \underbrace{\sigma^2}_{\mathrm{Noise}} .
+\end{split}
+\label{eq:bias_variance}
+\end{equation}
+This is the bias--variance decomposition of the prediction error
+\cite{HjorthJensen2026MLPSCh2}. The squared bias measures the systematic
+difference between the true function and the average prediction over possible
+training sets, whereas the variance measures how strongly the fitted prediction
+changes when the training sample is changed. The final term, $\sigma^2$, is the
+irreducible error due to the observation noise.
+
+In practice, the expectation over possible training sets is not directly
+available from a single observed data set. Bootstrap resampling approximates
+this ensemble by repeatedly drawing new training samples, with replacement,
+from the observed training data and fitting the model to each bootstrap replica
+\cite{HjorthJensen2026MLPSCh2}.
+
+Cross-validation provides an alternative estimate of the generalisation error
+without repeatedly generating resampled data sets. In $K$-fold
+cross-validation, the available observations are partitioned into
+$K$ subsets. For each fold $k$, the model is fitted using the remaining
+$K-1$ folds and evaluated on the held-out fold. The resulting estimate is
+
+\begin{equation}
+    \mathrm{CV}_{K}
+    =
+    \frac{1}{K}
+    \sum_{k=1}^{K}
+    \mathrm{MSE}_{k},
+\end{equation}
+
+where $\mathrm{MSE}_{k}$ is the prediction error on fold $k$. Every
+observation is therefore used for validation once and for training $K-1$
+times. Values between five and ten folds provide a common compromise between
+training-set size, computational cost, and variability of the estimate
+\cite{HjorthJensen2026MLPSCh2}. As for the bootstrap, any preprocessing must
+be fitted using only the training portion of each fold to avoid information
+leakage.
+
+\subsection{Gradient-based optimisation}
+\label{subsec: Gradient-based optimisation}
+% Present the gradient-descent update rule.
+% Give the analytical gradients for OLS and Ridge and explain the use of
+% automatic differentiation.
+% Briefly introduce momentum, AdaGrad, RMSprop, Adam and stochastic
+% gradient descent. Include only the theory needed to interpret the results.
+
+For OLS and Ridge regression the model parameters can be obtained analytically,
+as described in Eqs.~\eqref{eq:OLS_parameter} and~\eqref{eq:Ridge_parameter} respectively. The same optimum can instead be found
+iteratively by gradient descent. Starting from an initial parameter vector
+$\boldsymbol{\theta}_0$, plain gradient descent updates the parameters according
+to
+\begin{equation}
+    \boldsymbol{\theta}_{k+1}
+    =
+    \boldsymbol{\theta}_k
+    -
+    \eta \nabla_{\boldsymbol{\theta}}
+    C(\boldsymbol{\theta}_k),
+\end{equation}
+where $\eta>0$ is the learning rate
+\cite{HjorthJensen2026MLPSCh4}.
+
+For the normalized OLS cost of Eq.~\eqref{eq:OLS_cost}, the gradient is
+\begin{equation}
+    \nabla_{\boldsymbol{\theta}} C_{\mathrm{OLS}}
+    =
+    \frac{2}{n}
+    \mathbf{X}^{T}
+    \left(
+    \mathbf{X}\boldsymbol{\theta}-\mathbf{y}
+    \right),
+    \label{eq:OLS_grad}
+\end{equation}
+whereas for the Ridge convention of Eq.~\eqref{eq:cost_function},
+\begin{equation}
+    \nabla_{\boldsymbol{\theta}} C_{\mathrm{Ridge}}
+    =
+    \frac{2}{n}
+    \mathbf{X}^{T}
+    \left(
+    \mathbf{X}\boldsymbol{\theta}-\mathbf{y}
+    \right)
+    +
+    2\lambda\mathbf{P}\boldsymbol{\theta},
+    \label{eq:ridge_grad}
+\end{equation}
+with $\mathbf{P}=\operatorname{diag}(0,1,\ldots,1)$ so that the intercept
+remains unregularized.
+
+Since these cost functions are quadratic, their convergence under a fixed
+learning rate can be related directly to the Hessian. For OLS,
+\begin{equation}
+    \mathbf{H}_{\mathrm{OLS}}
+    =
+    \frac{2}{n}\mathbf{X}^{T}\mathbf{X},
+\end{equation}
+and Ridge adds $2\lambda\mathbf{P}$. If
+$\lambda_{\max}$ denotes the largest Hessian eigenvalue, gradient descent is
+stable for
+\begin{equation}
+    0 < \eta < \frac{2}{\lambda_{\max}},
+    \label{eq:gd_stability}
+\end{equation}
+while the convergence rate also depends on the condition number
+$\kappa=\lambda_{\max}/\lambda_{\min}$ \cite{HjorthJensen2026MLPSCh4}. Thus, poor conditioning simultaneously restricts the admissible learning rate and slows convergence.
+
+The gradients can also be evaluated by Automatic Differentiation (AD). Unlike
+finite differences, AD does not approximate derivatives using a finite step
+size; instead, exact differentiation rules are propagated through the sequence
+of numerical operations used to evaluate the cost function. It therefore
+produces derivatives accurate to floating-point precision without generating a
+symbolic derivative expression \cite{HjorthJensen2026MLPSCh4}.
+
+\subsection{Momentum and adaptive optimisation methods}
+\label{subsec: Momentum and adaptative optimisation methods}
+
+Plain gradient descent uses the current gradient together with a fixed scalar
+learning rate to update all model parameters. Its convergence can be slow
+when the curvature of the cost function differs strongly between parameter
+directions. Momentum and adaptive optimisation methods modify the parameter
+update using information from present and previous gradients
+\cite{HjorthJensen2026MLPSCh4}. Momentum introduces memory into the update
+direction, whereas AdaGrad, RMSProp and Adam additionally construct
+parameter-dependent effective step sizes.
+
+Momentum introduces a velocity variable,
+\begin{equation}
+    \mathbf{v}_{t+1}
+    =
+    \gamma\mathbf{v}_t
+    +
+    \eta\mathbf{g}_t,
+    \qquad
+    \boldsymbol{\theta}_{t+1}
+    =
+    \boldsymbol{\theta}_t-\mathbf{v}_{t+1},
+\end{equation}
+where $\mathbf{g}_t=\nabla C(\boldsymbol{\theta}_t)$ and
+$0\leq\gamma<1$. Gradients that persist in the same direction accumulate,
+whereas alternating components tend to cancel, thereby damping oscillations
+along steep directions.
+
+AdaGrad instead constructs a separate effective step size for each parameter
+by accumulating squared gradients,
+\begin{equation}
+    \mathbf{r}_t
+    =
+    \mathbf{r}_{t-1}
+    +
+    \mathbf{g}_t\odot\mathbf{g}_t,
+    \qquad
+    \boldsymbol{\theta}_{t+1}
+    =
+    \boldsymbol{\theta}_t
+    -
+    \eta
+    \frac{\mathbf{g}_t}
+         {\sqrt{\mathbf{r}_t+\epsilon}},
+\end{equation}
+where $\epsilon$ is a small constant. Large-gradient directions therefore receive progressively smaller steps. Because the accumulator never decreases, however, AdaGrad can eventually make the effective learning rate very small.
+
+RMSProp replaces this unbounded accumulation by an exponentially weighted average,
+\begin{equation}
+    \mathbf{v}_t
+    =
+    \rho\mathbf{v}_{t-1}
+    +
+    (1-\rho)\mathbf{g}_t^2,
+    \qquad
+    \boldsymbol{\theta}_{t+1}
+    =
+    \boldsymbol{\theta}_t
+    -
+    \eta
+    \frac{\mathbf{g}_t}
+         {\sqrt{\mathbf{v}_t+\epsilon}},
+\end{equation}
+with $\rho$ typically 0.9 or 0.99. Adam combines this second-moment estimate with a momentum-like first moment,
+\begin{equation}
+    \mathbf{m}_t
+    =
+    \beta_1\mathbf{m}_{t-1}
+    +(1-\beta_1)\mathbf{g}_t,
+    \qquad
+    \mathbf{v}_t
+    =
+    \beta_2\mathbf{v}_{t-1}
+    +(1-\beta_2)\mathbf{g}_t^2,
+\end{equation}
+with typical values $\beta_1 = 0.9$ and $\beta_2 = 0.999$, and $\mathbf{m_0} = \mathbf{v_0} = 0$. However, a bias correction is necessary in this case: 
+\begin{equation}
+    \hat{\mathbf{m_t}}=\frac{\mathbf{m_t}}{1-\beta_1^t},
+    \qquad
+    \hat{\mathbf{v_t}}=\frac{\mathbf{v_t}}{1-\beta_2^t}.
+\end{equation}
+Finally 
+
+\begin{equation}
+    \boldsymbol{\theta}_{t+1}
+    =
+    \boldsymbol{\theta}_t
+    -
+    \eta
+    \frac{\hat{\mathbf{m}}_t}
+         {\sqrt{\hat{\mathbf{v}}_t}+\epsilon}.
+\end{equation}
+Thus, momentum modifies the accumulated
+direction of motion, whereas AdaGrad, RMSProp and Adam also introduce
+parameter-dependent effective step sizes \cite{HjorthJensen2026MLPSCh4}. 
+
+\subsection{Stochastic gradient descent}
+
+Full-batch gradient descent evaluates the gradient using all training
+observations before each parameter update. For an objective that can be
+written as an average over the individual observations,
+\begin{equation}
+    C(\boldsymbol{\theta})
+    =
+    \frac{1}{n}
+    \sum_{i=1}^{n}
+    c_i(\boldsymbol{\theta}),
+\end{equation}
+Stochastic Gradient Descent (SGD) instead estimates the gradient from a
+mini-batch $\mathcal{B}_t$ containing $M$ observations,
+\begin{equation}
+    \mathbf{g}_t
+    =
+    \frac{1}{M}
+    \sum_{i\in\mathcal{B}_t}
+    \nabla_{\boldsymbol{\theta}}
+    c_i(\boldsymbol{\theta}_t),
+    \qquad
+    \boldsymbol{\theta}_{t+1}
+    =
+    \boldsymbol{\theta}_t-\eta_t\mathbf{g}_t .
+\end{equation}
+
+The choice of gradient estimator is independent of the parameter-update
+rule. In this work, both full-batch and mini-batch gradients are combined
+with the plain, Momentum, AdaGrad, RMSProp, and Adam update rules introduced
+in Sec.~\ref{subsec: Momentum and adaptative optimisation methods}. 
+
+A complete pass through the training data is called an epoch. The limiting
+cases $M=1$ and $M=n$ correspond respectively to single-sample SGD and
+ordinary full-batch gradient descent \cite{HjorthJensen2026MLPSCh4}.
+
+Using mini-batches reduces the amount of data required for each parameter
+update and permits several updates during one pass through the data. The
+price is that the mini-batch gradient is a noisy estimate of the full
+gradient, with fluctuations decreasing as the batch size increases. Thus,
+small batches can make rapid but irregular progress, whereas large batches
+produce smoother gradient estimates \cite{HjorthJensen2026MLPSCh4}.
+
+With a constant learning rate, the stochastic gradient noise generally
+prevents the iterates from settling exactly at the minimum. A common remedy
+is therefore to decrease the learning rate during training. The inverse-time
+schedule considered here is
+\begin{equation}
+    \eta_t
+    =
+    \eta_0
+    \frac{\tau}{t+\tau},
+    \label{eq:sgd_schedule}
+\end{equation}
+where $\eta_0$ is the initial learning rate and $\tau$ controls the decay.
+As $t$ increases, the decreasing step size suppresses stochastic
+fluctuations near the optimum, although an excessively rapid decay can also
+slow convergence before the minimum has been reached
+\cite{HjorthJensen2026MLPSCh4}.
+
+% ============================================================
+\section{Methods and Implementation}
+
+\subsection{Data generation and preprocessing}
+
+The numerical analysis was performed using synthetic observations of Runge's function, as explained in section \ref{subsec:polynomial_regression}. A random seed of 2026 was used throughout to make the experiments reproducible. The baseline data set contained $n=100$ observations with $\sigma=0.1$. The data were divided into 80\% training and 20\% test data using \texttt{train\_test\_split} from Scikit-Learn \cite{ScikitLearn2026}. 
+
+For a polynomial of degree $d$, the design matrix $\mathbf{X}$ was constructed and the non-constant columns were standardized according to
+\begin{equation}
+    X_{ij}^{\mathrm{scaled}}
+    =
+    \frac{X_{ij}-\mu_j}{s_j},
+\end{equation}
+where $\mu_j$, the mean of feature $j$, and $s_j$, the standard deviation of feature $j$, were computed exclusively from the training set. The same training-set statistics were subsequently applied to the test data. The intercept column was left unchanged. 
+
+\subsection{Regression and optimisation implementations}
+\label{subsec:Regression and optimisation}
+
+\subsubsection*{OLS implementation and experimental setup}
+
+OLS was implemented independently using the Moore--Penrose
+pseudoinverse,
+\begin{equation}
+    \hat{\boldsymbol{\theta}}
+    =
+    \mathbf{X}^{+}\mathbf{y},
+\end{equation}
+computed with \texttt{numpy.linalg.pinv}. The MSE and $R^2$ metrics (Eqs.~\ref{eq:MSE} and~\ref{eq:R2}) were also
+implemented directly from their definitions.
+
+For the baseline analysis, polynomial degrees $d=1,\ldots,15$ were fitted and
+evaluated on the same training and test sets. In addition to the prediction
+scores, the fitted coefficients $\theta_j$ were recorded as the polynomial
+degree increased. Two further sensitivity studies were performed. First, the
+number of observations was varied over $n=100$, $200$, and $400$ while keeping
+$\sigma=0.1$. Second, the noise level was varied over $\sigma=0.05$, $0.10$, $0.20$, and $0.30$ while keeping $n=200$. For the noise study, the same random seed and sample size were used in each case.
+
+\subsubsection*{Ridge implementation and experimental setup}
+
+Ridge regression was implemented using the same design matrices, train--test
+split, and preprocessing procedure as for OLS, allowing the two methods to be
+compared on identical data. For the normalized cost function of Eq.~\ref{eq:cost_function}, the coefficients were obtained by solving
+\begin{equation}
+    \left(
+    \mathbf{X}^{T}\mathbf{X}
+    + n\lambda\mathbf{P}
+    \right)
+    \hat{\boldsymbol{\theta}}
+    =
+    \mathbf{X}^{T}\mathbf{y}.
+\end{equation}
+The linear system was solved directly rather than by explicitly
+computing a matrix inverse.
+
+For the data set $n=200$ and $\sigma=0.1$, polynomial degrees
+$d=1,\ldots,15$ were evaluated for seven logarithmically spaced penalties,
+$\lambda=10^{-6},\ldots,10^{0}$. Training and test MSE and $R^2$, together
+with the fitted coefficients, were recorded for every $(d,\lambda)$
+combination. Representative fitted functions were inspected for
+$d=2,5,10,$ and $15$ at $\lambda=10^{-6},10^{-3},$ and $1$.
+This range was chosen to span the transition from a nearly unregularized model
+to strong regularisation \cite{UiOProject1_2026}.
+
+To examine the regularisation mechanism directly, the singular values of the
+standardized non-intercept training design matrix were also computed for
+$d=15$. Since the training set contains $n_{\mathrm{tr}}=160$ observations (80\% of the data set $n=200$), the shrinkage of each singular-value mode was evaluated as
+\begin{equation}
+    s_i(\lambda)
+    =
+    \frac{\sigma_i^2}
+         {\sigma_i^2+n_{\mathrm{tr}}\lambda}.
+\end{equation}
+
+\subsubsection*{Gradient descent and AD}
+
+Plain gradient descent with a fixed learning rate was implemented independently
+for OLS and Ridge regression. A representative data set with $n=200$,
+$\sigma=0.1$, and polynomial degree $d=5$ was divided into 80\% training and
+20\% test data. The polynomial features were standardized using the same
+training-set preprocessing procedure as in the previous analyses. For Ridge,
+$\lambda=10^{-2}$ was used.
+
+The OLS and Ridge gradients were implemented analytically from the expressions in Eqs.~\eqref{eq:OLS_grad} and~\eqref{eq:ridge_grad}, and independently by AD using
+\texttt{jax.grad} from JAX \cite{jax2018github}. JAX was configured to use
+64-bit floating-point arithmetic so that the two gradient implementations could
+be compared at machine precision. All gradient-descent runs used the same
+initial parameter vector and were stopped when the gradient norm fell below
+$10^{-8}$.
+
+The Hessian eigenvalues were computed for both regression methods. From these,
+the stability limit $\eta_{\max}=2/\lambda_{\max}$ and the constant-step optimum
+$\eta_{\mathrm{opt}}=2/(\lambda_{\max}+\lambda_{\min})$ were evaluated
+\cite{HjorthJensen2026MLPSCh4}. Gradient descent was first run using
+$\eta_{\mathrm{opt}}$ with both the analytical and automatically differentiated
+gradients. A second study used $\eta/\eta_{\max}=0.10$, $0.50$, $0.90$, $0.99$, and $1.01$ to examine the dependence of convergence on the learning rate and to test the theoretical stability boundary.
+
+\subsubsection*{Momentum and adaptive optimizer comparison}
+
+The optimisation study was extended using momentum, AdaGrad, RMSProp and Adam.
+The same representative regression problem as in the plain gradient-descent
+analysis was retained: $n=200$, $\sigma=0.1$, and polynomial degree $d=5$,
+with $\lambda=10^{-2}$ for Ridge. The same train--test split, feature
+standardization and initial parameter vector were used for every optimizer.
+
+The analytical gradients were used for this comparison. Momentum was implemented with $\gamma=0.9$, RMSProp with $\rho=0.9$, and Adam with $\beta_1=0.9$, $\beta_2=0.999$; a numerical constant $\epsilon=10^{-8}$ was used in the adaptive denominators.
+
+Convergence was measured relative to the corresponding closed-form OLS or
+Ridge solution,
+\begin{equation}
+    \epsilon_\theta
+    =
+    \frac{
+        \|\boldsymbol{\theta}_t-
+        \hat{\boldsymbol{\theta}}_{\mathrm{closed}}\|_2
+    }{
+        \|\hat{\boldsymbol{\theta}}_{\mathrm{closed}}\|_2
+    },
+    \label{eq:epsilon0}
+\end{equation}
+with a target accuracy $\epsilon_\theta<10^{-4}$ and a maximum of $5\times
+10^4$ iterations. Because the numerical value of the learning rate does not
+have the same meaning for plain and adaptive optimizers, each method was
+evaluated over its own range of learning rates \cite{HjorthJensen2026MLPSCh4}. For each optimizer, the fastest converged run within the tested learning-rate grid was retained for the convergence comparison.
+
+\subsubsection*{Lasso implementation and validation}
+
+Lasso regression was studied using the same representative data set employed
+in the optimisation experiments, with $n=200$, $\sigma=0.1$, polynomial
+degree $d=5$, and an 80/20 train--test split. The same feature-standardization
+procedure was applied, with the intercept left unscaled and unregularized.
+
+The Lasso objective was implemented using the normalized convention of
+Sec.~\ref{subsec: ridge regularisation}. An analytical subgradient was constructed using $\operatorname{sign}(\theta_j)$ for the penalized coefficients, choosing zero
+as the subgradient at $\theta_j=0$. The behaviour of automatic differentiation at the non-differentiable point was also examined with JAX. For $|\theta|$, \texttt{jax.grad} returned $+1$ at $\theta=0$, which is not an ordinary derivative but is a valid element of the subgradient interval $[-1,1]$.
+
+For an independent reference solution, cyclic coordinate descent with the
+soft-thresholding operator was implemented following \cite{HjorthJensen2026MLPS}. Seven penalties, $\lambda=10^{-4},3\times10^{-4},10^{-3},3\times10^{-3},
+10^{-2},3\times10^{-2},10^{-1}$, were evaluated. The implementation was
+validated against the \texttt{Lasso} estimator from Scikit-Learn
+\cite{ScikitLearn2026}. Since Scikit-Learn minimizes
+$\|y-X\theta\|_2^2/(2n)+\alpha\|\theta\|_1$, its parameter was set to
+$\alpha=\lambda/2$ to match the convention used here. Agreement was
+additionally checked using the Lasso KKT conditions.
+
+Finally, for $\lambda=10^{-2}$, the subgradient formulation was optimized
+with plain gradient descent, momentum, AdaGrad, RMSProp, and Adam. The
+coordinate-descent solution was used as the reference, and convergence was
+defined by a relative coefficient error below $10^{-3}$.
+
+\subsubsection*{Stochastic gradient descent}
+
+The optimisation analysis was finally extended to mini-batch stochastic
+gradient descent using the same $n=200$, $\sigma=0.1$, degree-$5$ data set,
+train--test split, feature scaling, and initial parameter vector as in the
+previous optimisation experiments. The training set therefore contained
+$n_{\mathrm{tr}}=160$ observations. OLS and Ridge were compared with their
+analytical reference solutions, while the coordinate-descent solution was
+used as the reference for Lasso.
+
+At the beginning of every epoch, the training observations were randomly
+shuffled and divided into mini-batches. For each mini-batch, the corresponding
+OLS, Ridge, or Lasso gradient/subgradient was evaluated using only the
+observations in that batch. The resulting stochastic gradient was then
+combined with the same five parameter-update rules considered previously:
+plain gradient descent, Momentum, AdaGrad, RMSProp, and Adam.
+
+To isolate the effect of replacing the full gradient by a stochastic
+mini-batch estimate, the main optimizer comparison used a fixed mini-batch
+size $M=32$ and a constant learning rate. For each update rule, separate
+learning-rate grids were explored for the full-batch and mini-batch cases.
+The full-batch result was selected as in Sec.~\ref{subsec:Regression and optimisation}, while for the stochastic
+runs the fastest solution reaching the prescribed coefficient tolerance was
+retained. If no tested learning rate reached the target within the maximum
+of $10^4$ epochs, the run with the smallest final relative coefficient error
+was retained instead.
+
+The dependence on mini-batch size and learning-rate scheduling was studied
+separately using plain SGD. Batch sizes $M=1,8,32,$ and $160$ were evaluated
+for up to $10^4$ epochs using $\eta_0=0.03$. Both a constant learning rate
+and the inverse-time schedule of Eq.~\eqref{eq:sgd_schedule}, with
+$\tau=10$, were considered. Since $M=160$ equals the complete training-set
+size, this case provides the full-batch limit of the same implementation.
+
+Convergence relative to the reference coefficients was measured using
+Eq.~\eqref{eq:epsilon0}, with thresholds $10^{-4}$ for OLS and Ridge and
+$10^{-3}$ for Lasso. 
+
+Computational effort was expressed in equivalent complete passes through the
+training data. A full-batch update corresponds to one complete data pass,
+whereas the cost of a mini-batch update scales with the fraction $M/n_{\rm tr}$
+of the training observations used in that update.
+
+\subsection{Bootstrap bias--variance analysis}
+\label{sec:bootstrap}
+
+The bias--variance behaviour was first investigated qualitatively by comparing
+the OLS training and test MSE as functions of polynomial complexity for
+$n=100$, $200$, and $400$, with fixed noise level $\sigma=0.1$. The degree
+range was adapted to each sample size because the onset of the high-variance
+regime occurred at different model complexities. Specifically,
+$d=1,\ldots,15$ was used for $n=100$, $d=1,\ldots,25$ for $n=200$, and
+$d=1,\ldots,40$ for $n=400$. This allows the relevant transition from
+under-fitting to over-fitting to be displayed for each sample size.
+
+The bias--variance decomposition was then estimated using bootstrap resampling
+over the same degree ranges. For each sample size, an 80/20 train--test split
+was generated and the test set was kept fixed. From the corresponding training
+set, $B=100$ bootstrap replicas were obtained by sampling observations with
+replacement. A separate OLS polynomial model was fitted to each replica, with
+feature centering and scaling recomputed within each bootstrap sample and then
+applied to the fixed test set. The resulting ensemble of predictions was used
+to estimate the expected prediction error, squared bias, and variance as
+functions of model complexity \cite{HjorthJensen2026MLPSCh2}.
+
+\subsection{Cross-validation and comparison}
+
+Five-fold and ten-fold cross-validation were applied to the OLS models using
+the \texttt{KFold} implementation from Scikit-Learn \cite{ScikitLearn2026}. For each sample size $n=100$, $200$, and $400$, cross-validation was performed using the complete available data set, without an additional train--test split. The observations were randomly divided into $K$ folds using a fixed random seed. For $K=5$, each model was therefore trained on $4/5$ of the data and evaluated on the remaining $1/5$,
+whereas for $K=10$ it was trained on $9/10$ and evaluated on the
+remaining $1/10$. This procedure was repeated until every fold had served once
+as the held-out validation set, and the reported cross-validation MSE was
+obtained by averaging the MSE over all $K$ folds. The polynomial-degree ranges
+were those introduced in Sec.~\ref{sec:bootstrap}.
+
+To compare the different model-assessment strategies, the cross-validation
+curves were plotted together with the ordinary OLS test MSE, the Ridge
+test MSE for three representative regularisation strengths,
+$\lambda=10^{-6}$, $10^{-3}$, and $1$, and OLS bootstrap test MSE obtained from $B=100$ replicas. 
+
+For the final model selection, the $n=200$, $\sigma=0.1$ data set was
+considered using five-fold cross-validation on all available observations.
+Polynomial degrees $d=1,\ldots,25$ were evaluated. OLS was selected as a
+function of degree only, while Ridge was evaluated for
+$\lambda=10^{-6},\ldots,1$ and Lasso for
+$\lambda=10^{-4},3\times10^{-4},10^{-3},3\times10^{-3},
+10^{-2},3\times10^{-2},10^{-1}$.
+For every fold, polynomial scaling was fitted exclusively on the training
+portion and then applied to the validation fold. The final model for each
+regression method was defined as the combination of hyperparameters giving
+the lowest mean validation MSE across the five folds.
+
+After model selection, the selected models were refitted using the complete
+$n=200$ data set; the cross-validated MSE, rather than the refitted training
+error, was retained as the estimate of predictive performance.
+
+% ============================================================
+\section{Results and Discussion}
+
+\subsection{OLS and Ridge regression}
+\label{subsec:OLS and Ridge regression}
+
+\subsubsection*{OLS results}
+For the baseline case, $n=100$ and $\sigma=0.1$, increasing the polynomial
+degree continuously improved the training fit: the training MSE decreased from
+approximately $9.6\times10^{-2}$ at degree 1 to $1.35\times10^{-2}$ at degree
+15, while the corresponding training $R^2$ increased from approximately 0.02
+to 0.86. This monotonic improvement is expected for OLS because each increase
+in polynomial degree adds an additional basis function without removing any of
+the previous ones.
+
+The behaviour on the test set was markedly different, as shown in
+Fig.~\ref{fig:ols_baseline_metrics}. The test error initially decreased as the
+polynomial became sufficiently flexible to reproduce the shape of Runge's
+function, reaching low values from approximately degree 6 onward. The minimum
+test MSE for this particular split was $0.018943$ at degree 12, with
+$R^2=0.847$. However, degree 6 already produced an almost identical test MSE of
+$0.018991$. Consequently, the single train--test split provides little evidence
+that degree 12 is intrinsically preferable to degree 6; the apparent minimum
+should be interpreted as a property of this particular realization rather than
+as a final model-selection result.
+
+\begin{figure*}[!t]
+    \centering
+    \includegraphics[width=0.48\textwidth,trim=0cm 0cm 0cm 0.8cm, clip]{Figures/OLS_MSE_vs_degree.pdf}
+    \hfill
+    \includegraphics[width=0.48\textwidth,trim=0cm 0cm 0cm 0.8cm, clip]{Figures/OLS_R2_vs_degree.pdf}
+    \caption{Training and test performance of the OLS polynomial models for
+    the baseline data set ($n=100$, $\sigma=0.1$). MSE vs polynomial degree on the left. $R^2$ vs polynomial degree on the right.}
+    \label{fig:ols_baseline_metrics}
+\end{figure*}
+
+The fitted functions in Fig.~\ref{fig:ols_fits} illustrate the transition from
+underfitting to increasingly high-variance behaviour. The degree-2 polynomial
+is unable to reproduce the narrow maximum of Runge's function. By degree 10, the central part of the function is described considerably better, although oscillatory behaviour has appeared close to the boundaries. At degree 15, the polynomial still follows the data reasonably closely through most of the sampled interval, but becomes
+highly unstable near the left boundary. The additional degrees of freedom make
+the fit increasingly sensitive to the particular noisy training sample. This behaviour is also reflected in the fitted coefficients of Fig.~\ref{fig:ols_coefficients}.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\columnwidth,trim=0cm 0cm 0cm 0.8cm, clip]
+        {Figures/OLS_representative_fits.pdf}
+    \caption{Representative OLS fits for polynomial degrees 2, 5, 10, and 15 for the baseline data set ($n=100,\, \sigma=0.1$).}
+    \label{fig:ols_fits}
+\end{figure}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\columnwidth,trim=0cm 0cm 0cm 0.8cm, clip]{Figures/OLS_theta_vs_degree.pdf}
+    \caption{OLS coefficients as a function of polynomial degree for the
+    baseline data set ($n=100,\, \sigma=0.1$).}
+    \label{fig:ols_coefficients}
+\end{figure}
+
+The influence of the number of observations is shown in
+Fig.~\ref{fig:ols_sample_size}. Increasing the data set size generally improved
+the test performance and reduced the instability of the high-degree models.
+The lowest observed test MSE decreased from $0.01894$ for $n=100$ to $0.01024$
+for $n=200$ and $0.01014$ for $n=400$. The corresponding minima occurred at
+degrees 12, 14, and 14, respectively. This suggests that a larger training set
+can support a more flexible polynomial model because the additional parameters
+are constrained by more observations.
+
+\begin{figure*}[!t]
+    \centering
+    \includegraphics[width=0.48\textwidth,trim=0cm 0cm 0cm 0.8cm, clip]
+        {Figures/OLS_MSE_vs_degree_different_n.pdf}
+    \hfill
+    \includegraphics[width=0.48\textwidth,trim=0cm 0cm 0cm 0.8cm, clip]
+        {Figures/OLS_R2_vs_degree_different_n.pdf}
+    \caption{Effect of sample size on the test performance of OLS polynomial
+    regression for fixed noise level $\sigma=0.1$. Test MSE vs polynomial degree on the left. Test $R^2$ vs polynomial degree on the right.}
+    \label{fig:ols_sample_size}
+\end{figure*}
+
+Increasing the noise amplitude caused the expected deterioration in predictive
+performance, as shown in Fig.~\ref{fig:ols_noise}. The lowest test MSE increased
+from $0.003108$ for $\sigma=0.05$ to $0.010240$, $0.038578$, and $0.085679$ for
+$\sigma=0.10$, $0.20$, and $0.30$, respectively. At the same time, the
+polynomial degree giving the lowest test error shifted from degree 14 for
+$\sigma=0.05$ to degree 13 for $\sigma=0.30$. The corresponding maximum test
+$R^2$ decreased from approximately 0.95 to 0.40.
+
+This behaviour is consistent with the bias--variance interpretation of
+polynomial regression. When the observations contain little noise, additional
+polynomial terms can capture more of the structure of Runge's function. As the
+noise level increases, however, highly flexible models can increasingly adapt
+to random fluctuations in the training sample, so a lower-complexity model
+generalizes more reliably. 
+
+\begin{figure*}[!t]
+    \centering
+    \includegraphics[width=0.48\textwidth,trim=0cm 0cm 0cm 0.8cm, clip]
+        {Figures/OLS_MSE_vs_degree_different_sigma.pdf}
+    \hfill
+    \includegraphics[width=0.48\textwidth,trim=0cm 0cm 0cm 0.8cm, clip]
+        {Figures/OLS_R2_vs_degree_different_sigma.pdf}
+    \caption{Effect of the Gaussian noise level on OLS polynomial regression
+    for $n=200$. Test MSE vs polynomial degree on the left. Test $R^2$ vs polynomial degree on the right.}
+    \label{fig:ols_noise}
+\end{figure*}
+
+\subsubsection*{Ridge results}
+
+Figure~\ref{fig:ridge_metrics} compares the test MSE and $R^2$ obtained
+with OLS and with the different Ridge penalties. For small values of $\lambda$,
+the Ridge curves remain close to the OLS solution. It can be noticed that the small OLS error fluctuations from degree 11 forward are slightly suppressed by the Ridge curves. The lowest test MSE among the Ridge configurations considered was $0.011309$, obtained for $\lambda=10^{-6}$ and $d=14$, with $R^2=0.853304$. For comparison, the minimum OLS test MSE for the same split was $0.010240$, also at $d=14$.
+
+\begin{figure*}[!t]
+    \centering
+    \includegraphics[width=0.48\textwidth,trim=0cm 0cm 0cm 0.8cm, clip]
+        {Figures/Ridge_MSE_vs_degree.pdf}
+    \hfill
+    \includegraphics[width=0.48\textwidth,trim=0cm 0cm 0cm 0.8cm, clip]
+        {Figures/Ridge_R2_vs_degree.pdf}
+    \caption{Comparison of OLS and Ridge test performance for
+    $n=200$ and $\sigma=0.1$. Test MSE vs polynomial degree on the left. Test $R^2$ vs polynomial degree on the right.}
+    \label{fig:ridge_metrics}
+\end{figure*}
+
+For $n=200$, the weakest regularisation considered, $\lambda=10^{-6}$, gives
+the closest overall approximation to Runge's function among the three
+representative cases (see Figure~\ref{fig:ridge_fits}). The intermediate value $\lambda=10^{-3}$ produces a smoother fit with some loss of flexibility, while $\lambda=1$ clearly under-fits the narrow central peak. This behaviour indicates that, with a larger training set, only mild regularisation is needed to stabilize the polynomial fit. However, the value of $\lambda$ that performs best depends on the sample size and on the particular train--test realization, so the weakest penalty is
+not necessarily optimal for all values of $n$.
+
+\begin{figure*}[!t]
+    \centering
+    \includegraphics[width=0.32\textwidth,trim=0cm 0cm 0cm 0.8cm, clip]
+        {Figures/Ridge_representative_fits_lambda1e-06.pdf}
+    \hfill
+    \includegraphics[width=0.32\textwidth,trim=0cm 0cm 0cm 0.8cm, clip]
+        {Figures/Ridge_representative_fits_lambda1e-03.pdf}
+    \hfill
+    \includegraphics[width=0.32\textwidth,trim=0cm 0cm 0cm 0.8cm, clip]
+        {Figures/Ridge_representative_fits_lambda1e+00.pdf}
+    \caption{Representative Ridge polynomial fits for weak
+    ($\lambda=10^{-6}$), intermediate ($\lambda=10^{-3}$), and strong
+    ($\lambda=1$) regularisation for
+    $n=200$ and $\sigma=0.1$. }
+    \label{fig:ridge_fits}
+\end{figure*}
+
+In Figure~\ref{fig:ridge_coefficients}, the effect of Ridge regularisation on the degree-15 coefficients is clearly visible. The unregularized OLS solution contains coefficients with magnitudes of several hundred, whereas even the weakest Ridge penalty reduces them substantially. As $\lambda$ increases, the coefficients are progressively drawn toward zero. 
+
+\begin{figure*}[!t]
+    \centering
+    \includegraphics[width=0.48\textwidth,trim=0cm 0cm 0cm 0.8cm, clip]
+    {Figures/Ridge_OLS_coefficients_degree15.pdf}
+    \hfill
+    \includegraphics[width=0.48\textwidth,trim=0cm 0cm 0cm 0.8cm, clip]{Figures/Ridge_coefficients_degree15.pdf}
+    \caption{Comparison of the non-intercept coefficients of the degree-15
+    OLS and Ridge models on the left for
+    $n=200$ and $\sigma=0.1$. Zoom in on the coefficients of the degree-15 Ridge models on the right. }
+    \label{fig:ridge_coefficients}
+\end{figure*}
+
+Figure~\ref{fig:ridge_shrinkage} shows the same regularisation effect in the singular-value basis. For each singular-value mode, Ridge multiplies its contribution to the fitted values by the shrinkage factor $s_i=\sigma_i^2/(\sigma_i^2+n_{\mathrm{tr}}\lambda)$
+\cite{HjorthJensen2026MLPS}. Modes associated with large singular values have
+$s_i\approx1$ and are therefore retained, whereas modes associated with small
+singular values have $s_i\approx0$ and are strongly suppressed. Increasing
+$\lambda$ shifts this transition toward larger singular values, so progressively
+more modes are damped. The figure therefore shows directly how Ridge reduces
+the contribution of the poorly constrained, high-variance directions of the
+degree-15 polynomial design matrix.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\columnwidth,trim=0cm 0cm 0cm 0.8cm, clip]
+        {Figures/Ridge_shrinkage_factors.pdf}
+    \caption{Ridge shrinkage factor
+    $\sigma_i^2/(\sigma_i^2+n_{\mathrm{tr}}\lambda)$ as a function of the
+    singular values of the standardized degree-15 design matrix for
+    $n=200$ and $\sigma=0.1$. }
+    \label{fig:ridge_shrinkage}
+\end{figure}
+
+\subsection{Bias--variance analysis and cross-validation}
+
+\subsubsection*{Bias--variance analysis}
+
+The bias--variance behaviour can first be identified qualitatively from the
+training and test errors in Fig.~\ref{fig:bv_train_test}. At low polynomial
+degree, both errors are relatively large because the model is too restrictive
+to reproduce the shape of Runge's function. Increasing the degree initially
+reduces both quantities as the approximation bias decreases. The training MSE
+continues to decrease as further polynomial terms are added, whereas the test
+error eventually stops improving and begins to increase or fluctuate. The
+resulting separation between training and test performance indicates the
+transition toward a high-variance regime
+\cite{HjorthJensen2026MLPSCh2}.
+
+\begin{figure*}[!t]
+    \centering
+    \includegraphics[width=0.32\textwidth,trim=0cm 0cm 0cm 0.8cm, clip]
+        {Figures/OLS_bias_variance_tradeoff_n100.pdf}
+    \hfill
+    \includegraphics[width=0.32\textwidth,trim=0cm 0cm 0cm 0.8cm, clip]
+        {Figures/OLS_bias_variance_tradeoff_n200.pdf}
+    \hfill
+    \includegraphics[width=0.32\textwidth,trim=0cm 0cm 0cm 0.8cm, clip]
+        {Figures/OLS_bias_variance_tradeoff_n400.pdf}
+    \caption{Training and test MSE for OLS as functions of polynomial complexity for
+    $n=100$, $200$, and $400$, with $\sigma=0.1$.}
+    \label{fig:bv_train_test}
+\end{figure*}
+
+The complexity at which this deterioration appears shifts substantially with
+sample size. For $n=100$, the test error is already highly irregular at the
+largest degrees considered, despite the continued decrease of the training
+error. For $n=200$, the test MSE remains close to its minimum over a broader
+range but rises sharply above approximately $d=20$. In contrast, for
+$n=400$ the training and test curves remain close to one another over much of
+the interval, and the test error increases only gradually at the highest
+degrees. These results indicate that a larger training sample can support a
+more flexible polynomial model before sensitivity to the training data becomes
+dominant. The behaviour of test and training MSE shown in Fig~\ref{fig:bv_train_test} is consistent with Fig. 2.11 of Hastie, Tibshirani and Friedman \cite{HastieTibshiraniFriedman2001}.
+
+The bootstrap decomposition in Fig.~\ref{fig:bv_bootstrap} makes the origin of
+this behaviour explicit. At low polynomial degree, the prediction error is
+mainly associated with the bias term. As the polynomial degree increases, the bias initially decreases because the model becomes sufficiently flexible to approximate the
+underlying function. The variance, however, increases because the estimated
+polynomial becomes progressively more sensitive to which observations appear
+in each bootstrap training sample. Increasing $n$ shifts the bias--variance
+trade-off toward more complex models.
+
+\begin{figure*}[!t]
+    \centering
+    \includegraphics[width=0.32\textwidth]
+        {Figures/OLS_bootstrap_bias_variance_n100.pdf}
+    \hfill
+    \includegraphics[width=0.32\textwidth]
+        {Figures/OLS_bootstrap_bias_variance_n200.pdf}
+    \hfill
+    \includegraphics[width=0.32\textwidth]
+        {Figures/OLS_bootstrap_bias_variance_n400.pdf}
+    \caption{Test MSE for OLS, squared bias, and
+    variance for $n=100$, $200$, and $400$, with $\sigma=0.1$ using bootstrap resampling.}
+    \label{fig:bv_bootstrap}
+\end{figure*}
+
+\subsubsection*{Cross-validation and comparison of model assessment}
+
+Figure~\ref{fig:validation_comparison} compares the ordinary OLS test MSE,
+Ridge regression, bootstrap resampling, and five- and ten-fold
+cross-validation. At low and intermediate polynomial degrees, all methods give
+similar errors and identify the same broad region of useful model complexity.
+The five- and ten-fold curves also agree closely with each other. Their minima
+occur at $d=12$, $14$, and $16$ for $n=100$, $200$, and $400$, respectively,
+with very similar MSE values for the two choices of $K$. This indicates that
+the precise choice between five and ten folds has little effect on the
+estimated optimal complexity in this experiment.
+
+\begin{figure*}[!t]
+    \centering
+    \includegraphics[width=0.32\textwidth]
+        {Figures/validation_comparison_n100.pdf}
+    \hfill
+    \includegraphics[width=0.32\textwidth]
+        {Figures/validation_comparison_n200.pdf}
+    \hfill
+    \includegraphics[width=0.32\textwidth]
+        {Figures/validation_comparison_n400.pdf}
+    \caption{Comparison of model-assessment and regularisation strategies for
+    $n=100$, $200$, and $400$, with $\sigma=0.1$. Shown are the ordinary OLS
+    test MSE from the fixed train--test split, OLS bootstrap test MSE, five- and
+    ten-fold OLS cross-test MSE, and Ridge test MSE for
+    $\lambda=10^{-6}$, $10^{-3}$, and $1$. }
+    \label{fig:validation_comparison}
+\end{figure*}
+
+For $n=100$ and $n=200$, the cross-validation curves broadly follow the
+ordinary OLS test error (red line), including its deterioration at high polynomial
+degree. For $n=400$, however, the fixed-split OLS error remains comparatively
+low at high degree while the cross-validation error increases. This difference
+is expected because the ordinary OLS curve depends on one particular
+train--test split, whereas cross-validation averages over several different
+held-out subsets and therefore exposes high-degree instability that may not
+appear in a favourable single split.
+
+The bootstrap estimate is generally the most pessimistic and becomes unstable
+at lower polynomial degree, particularly for the smaller data sets. This does
+not mean that the bootstrap error should be regarded as the ``true'' or
+absolute prediction error simply because it is the largest. Bootstrap and
+cross-validation estimate generalisation behaviour through different
+resampling procedures. A bootstrap sample contains only about $63.2\%$ of the
+original observations as distinct points, which is especially restrictive for
+high-order polynomial regression and increases the sensitivity of the fit to
+the particular resample \cite{HjorthJensen2026MLPSCh2}. Consequently,
+bootstrap tends to favour lower model complexity than cross-validation for
+$n=100$ and $n=200$. For $n=400$, the low-error regions of the two methods
+overlap much more closely, showing that their conclusions become more
+consistent as the available data increase.
+
+Ridge behaves differently: increasing $\lambda$ progressively flattens the MSE
+curve because the penalty suppresses the poorly constrained high-order
+polynomial components. Weak regularisation remains close to OLS at moderate
+degrees while preventing its strongest high-degree fluctuations, whereas
+$\lambda=1$ produces an almost degree-independent but substantially larger
+error, indicating excessive regularisation and underfitting. 
+
+\subsection{Gradient descent, adaptive methods, Lasso and SGD}
+
+\subsubsection*{Plain gradient descent and AD}
+
+The analytical and automatically differentiated gradients agree to machine
+precision for both regression methods, and both lead to the same gradient
+descent solution (see Table~\ref{tab:gd_results}). The fitted parameters reproduce
+the corresponding closed-form solutions to approximately $10^{-9}$. Ridge
+converges in substantially fewer iterations than OLS, consistent with the
+reduction of the Hessian condition number from approximately $5.16\times10^2$
+to $1.82\times10^2$. regularisation therefore improves not only statistical
+stability, but also the conditioning of the optimisation problem
+\cite{HjorthJensen2026MLPSCh4}.
+
+The direct comparison with the regression implementations used in Sec.~\ref{subsec:Regression and optimisation} provides an additional consistency check. For the same $n=200$, $\sigma=0.1$, $d=5$ data set, and $\lambda=10^{-2}$ for Ridge, gradient descent reproduces the earlier analytical test errors to approximately
+$10^{-11}$ in MSE (see last three rows of Table~\ref{tab:gd_results}). The corresponding coefficient vectors agree to approximately $10^{-9}$. Thus, gradient descent changes the optimisation procedure but not the fitted regression solution.
+
+\begin{table}[t]
+    \centering
+    \caption{Gradient verification and convergence of plain gradient descent for
+the representative case $n=200$, $\sigma=0.1$, and $d=5$. Ridge uses
+$\lambda=10^{-2}$. The final rows compare the gradient-descent solutions
+directly with the analytical OLS and Ridge implementations used in Sec.~\ref{subsec:Regression and optimisation}.}
+    \label{tab:gd_results}
+    \begin{tabular}{lcc}
+        \hline
+        Quantity & OLS & Ridge \\
+        \hline
+        $\max|\nabla C_{\mathrm{AD}}-\nabla C_{\mathrm{an}}|$
+            & $8.88\times10^{-16}$ & $8.88\times10^{-16}$ \\
+        $\kappa(H)$
+            & $5.16\times10^{2}$ & $1.82\times10^{2}$ \\
+        $\eta_{\mathrm{opt}}$
+            & 0.356240 & 0.353720 \\
+        $\eta_{\max}$
+            & 0.356931 & 0.355661 \\
+        GD iterations
+            & 5117 & 1809 \\
+        $\|\theta_{\mathrm{GD}}-\theta_{\mathrm{closed}}\|_2$
+            & $3.78\times10^{-9}$ & $3.38\times10^{-9}$ \\
+        Closed-form test MSE
+            & 0.022185970 & 0.020533871 \\
+        GD test MSE
+            & 0.022185970 & 0.020533871 \\
+        $|\Delta\mathrm{MSE}|$
+            &  $2.80\times10^{-11}$
+            & $1.43\times10^{-11}$ \\
+        \hline
+    \end{tabular}
+\end{table}
+
+The effect of the fixed learning rate is shown in
+Fig.~\ref{fig:gd_learning_rate}. Small values of $\eta$ produce stable but slow
+convergence, while increasing the learning rate toward the theoretical limit
+substantially reduces the number of required iterations. For both OLS and
+Ridge, all tested values up to $0.99\,\eta_{\max}$ converge, whereas
+$1.01\,\eta_{\max}$ diverges. The observed transition therefore agrees closely
+with the Hessian stability condition $\eta<2/\lambda_{\max}(H)$
+\cite{HjorthJensen2026MLPSCh4}. Ridge converges more rapidly throughout the
+stable region, consistent with its lower Hessian condition number.
+
+\begin{figure*}[!t]
+    \centering
+    \includegraphics[width=0.48\textwidth]
+        {Figures/GD_learning_rate_ols.pdf}
+    \hfill
+    \includegraphics[width=0.48\textwidth]
+        {Figures/GD_learning_rate_ridge.pdf}
+    \caption{Convergence of plain gradient descent for OLS (left) and Ridge
+    regression (right) for different learning rates expressed relative to the
+    theoretical stability limit $\eta_{\max}=2/\lambda_{\max}(H)$. The
+    vertical axis shows the excess cost relative to the corresponding
+    closed-form minimum.}
+    \label{fig:gd_learning_rate}
+\end{figure*}
+
+\subsubsection*{Momentum and adaptive optimizers}
+
+Figure~\ref{fig:optimizer_comparison} separates two independent choices in
+the optimisation procedure: the gradient can be evaluated from the complete
+training set or estimated from a mini-batch, while the resulting gradient can
+be used with any of the five update rules. Solid and dashed curves of the same
+colour therefore differ only in whether the gradient is full-batch or
+stochastic.
+
+\begin{figure*}[!t]
+    \centering
+    \includegraphics[width=0.48\textwidth]
+        {Figures/optimizer_comparison_ols_full_vs_stochastic.pdf}
+    \hfill
+    \includegraphics[width=0.48\textwidth]
+        {Figures/optimizer_comparison_ridge_full_vs_stochastic.pdf}
+    \caption{Comparison of full-batch and mini-batch optimisation for OLS
+    (left) and Ridge regression (right). Solid curves use gradients evaluated
+    from the complete training set, whereas dashed curves use mini-batch
+    gradients with $M=32$. The horizontal axis is expressed in equivalent complete
+    passes through the training data.}
+    \label{fig:optimizer_comparison}
+\end{figure*}
+
+For the full-batch calculations, Momentum remains the fastest of the tested
+methods for both OLS and Ridge. Introducing mini-batch gradients generally
+increases the number of equivalent data passes required to approach the same
+minimum. This is particularly clear for OLS: none of the mini-batch methods
+reached the strict coefficient criterion $\epsilon_\theta<10^{-4}$ within $10^4$ epochs, although Adam obtained the smallest final coefficient error, $\epsilon_\theta=1.24\times10^{-3}$. For Ridge, stochastic Momentum did reach the prescribed tolerance, requiring 6310 data passes compared with only 185 for full-batch Momentum.
+
+The stochastic curves also display the characteristic fluctuations expected
+from mini-batch gradients. Their cost can approach the deterministic minimum
+closely, but the residual gradient noise prevents the trajectories from
+following the smooth full-batch convergence curves. For this small training
+set of only 160 observations, the stochastic calculation therefore provides
+no computational advantage when cost is measured in equivalent data passes.
+Its principal advantage would be expected for substantially larger data sets,
+where evaluating the full gradient before every update becomes expensive
+\cite{HjorthJensen2026MLPSCh4}.
+
+\begin{table*}[t]
+    \centering
+    \caption{Best tested learning rate and number of iterations required to
+    reach $\epsilon_\theta<10^{-4}$ (from Eq.~\eqref{eq:epsilon0}) for the OLS and Ridge optimisation
+    problems. All converged methods reproduce essentially the same test MSE
+    because they minimize the same regression cost function.}
+    \label{tab:optimizer_comparison}
+    \begin{tabular}{lcccc}
+        \hline
+        Optimizer &
+        $\eta$ (OLS) &
+        Iterations (OLS) &
+        $\eta$ (Ridge) &
+        Iterations (Ridge) \\
+        \hline
+        Plain GD  & $3.562\times10^{-1}$ & 2492
+                  & $3.537\times10^{-1}$ & 893 \\
+        Momentum  & $3.0\times10^{-1}$   & 196
+                  & $2.0\times10^{-1}$   & 185 \\
+        AdaGrad   & $1.0$                 & 3685
+                  & $1.0$                 & 1316 \\
+        RMSProp   & $8.0\times10^{-5}$   & 22129
+                  & $5.0\times10^{-5}$   & 29291 \\
+        Adam      & $3.0\times10^{-1}$   & 629
+                  & $3.0\times10^{-1}$   & 259 \\
+        \hline
+    \end{tabular}
+\end{table*}
+
+The sensitivity study in Fig.~\ref{fig:optimizer_eta_sensitivity} also
+demonstrates that the numerical value of $\eta$ cannot be compared directly
+between optimizers. Plain gradient descent operates efficiently for learning
+rates of order $10^{-1}$, whereas the successful RMSProp values in the present
+implementation are of order $10^{-5}$. Momentum, AdaGrad and Adam improve
+strongly as the learning rate is increased over much of the tested range.
+Consequently, comparing all methods at a single common value of $\eta$ would
+give a misleading assessment of their relative performance
+\cite{HjorthJensen2026MLPSCh4}. The values reported in
+Table~\ref{tab:optimizer_comparison} should be interpreted as the
+best learning rates among those tested rather than as rigorously determined
+global optima.
+
+\begin{figure*}[!t]
+    \centering
+    \includegraphics[width=0.48\textwidth]
+        {Figures/optimizer_eta_sensitivity_ols.pdf}
+    \hfill
+    \includegraphics[width=0.48\textwidth]
+        {Figures/optimizer_eta_sensitivity_ridge.pdf}
+    \caption{Sensitivity of the five optimisation methods to the initial
+    learning rate $\eta$ for OLS (left) and Ridge (right). The vertical axis gives
+    the number of iterations required to reach target accuracy
+    $\epsilon_\theta<10^{-4}$ (see Eq.~\eqref{eq:epsilon0}).}
+    \label{fig:optimizer_eta_sensitivity}
+\end{figure*}
+
+\subsubsection*{Lasso regression}
+
+Figure~\ref{fig:lasso_path} illustrates the characteristic sparsity induced
+by the $L_1$ penalty. For the weakest penalties, all five non-intercept
+polynomial coefficients remain non-zero. As $\lambda$ increases, coefficients
+are successively driven exactly to zero. This differs qualitatively from Ridge, which continuously shrinks coefficients but does not normally force them exactly to zero \cite{HjorthJensen2026MLPS}.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\columnwidth]
+        {Figures/Lasso_coefficient_path.pdf}
+    \caption{Lasso coefficient paths for the degree-$5$ polynomial model
+    with $n=200$ and $\sigma=0.1$.}
+    \label{fig:lasso_path}
+\end{figure}
+
+The distinction between the three regression methods is shown directly in
+Fig.~\ref{fig:ols_ridge_lasso}. OLS gives the largest unconstrained
+coefficients, while Ridge reduces their magnitudes continuously. Lasso
+produces a sparse solution: at $\lambda=10^{-2}$ only two of the five
+non-intercept coefficients remain non-zero. Despite this much simpler
+parametrization, its test MSE is $0.020672$, close to the Ridge value
+$0.020534$ obtained for the same $d=5$ and $\lambda=10^{-2}$ configuration,
+and lower than the corresponding OLS value of approximately $0.02219$.
+These values refer only to this particular train--test realization and should
+not be interpreted as a general ranking of the three regression methods.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\columnwidth]
+        {Figures/OLS_Ridge_Lasso_coefficients.pdf}
+    \caption{Comparison of the non-intercept OLS, Ridge, and Lasso
+    coefficients for $d=5$ and $\lambda=10^{-2}$.}
+    \label{fig:ols_ridge_lasso}
+\end{figure}
+
+The independently implemented coordinate-descent solution agreed closely with
+Scikit-Learn over the complete penalty range. The Euclidean difference between
+the coefficient vectors was between approximately $10^{-8}$ and machine
+precision, while the maximum KKT-condition violation was of order $10^{-10}$
+or smaller. This agreement verifies both the implementation and the conversion
+between the two penalty conventions. The lowest test MSE among the Lasso
+penalties examined was $0.020672$ at $\lambda=10^{-2}$; stronger
+regularisation subsequently increased the error as the model became too
+restricted.
+
+Figure~\ref{fig:lasso_optimizer_comparison} extends the same full-batch
+versus mini-batch comparison to the non-smooth Lasso objective. As for OLS
+and Ridge, solid and dashed curves of the same colour use the same
+parameter-update rule and differ only in whether the gradient is evaluated
+from the full training set or from mini-batches of size $M=32$.
+
+Momentum is again the fastest configuration in both settings. Full-batch
+Momentum reaches the Lasso coefficient criterion in 178 complete data passes,
+whereas stochastic Momentum requires 265 epochs. The other stochastic
+methods also reach the target, but require more data passes: Adam converges
+in 462, AdaGrad in 1000, plain SGD in 1767, and RMSProp in 4473 epochs.
+Despite the noisier trajectories, their final test errors remain close to
+the coordinate-descent reference value $0.020672$. Thus, for this Lasso
+problem mini-batch optimisation can recover essentially the same fitted
+model, although it does not improve computational efficiency relative to
+the best full-batch optimizer.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\columnwidth]
+        {Figures/optimizer_comparison_lasso_full_vs_stochastic.pdf}
+    \caption{Full-batch and mini-batch optimisation of the Lasso objective
+    for $\lambda=10^{-2}$. Solid curves use the complete training gradient
+    and dashed curves use mini-batch gradients with $M=32$.}
+    \label{fig:lasso_optimizer_comparison}
+\end{figure}
+
+\subsubsection*{Stochastic gradient descent}
+
+The preceding optimizer comparisons established how the five update rules
+behave when the full gradient is replaced by a mini-batch estimate. The
+remaining SGD-specific questions are the effects of mini-batch size and of
+the learning-rate schedule. These are examined independently below using the
+plain stochastic update.
+
+The effect of mini-batch size is shown in
+Fig.~\ref{fig:sgd_batch_constant}. With a constant learning rate, decreasing
+the batch size increases the stochastic fluctuations of the optimisation.
+The $M=1$ trajectories are particularly noisy because every update is based
+on a single observation. Increasing $M$ reduces the variance of the gradient
+estimate and produces smoother convergence. However, the largest batch is
+not necessarily the most efficient when progress is measured per epoch:
+$M=160$ corresponds to full-batch gradient descent and therefore performs
+only one parameter update per complete pass through the training data,
+whereas smaller batches perform several updates during the same epoch.
+For the present problem, $M=8$ and $M=32$ provide the clearest compromise
+between several updates per data pass and a reduction of stochastic-gradient
+noise. 
+
+\begin{figure*}[!t]
+    \centering
+    \includegraphics[width=0.32\textwidth]
+        {Figures/SGD_batch_size_ols_constant.pdf}
+    \includegraphics[width=0.32\textwidth]
+        {Figures/SGD_batch_size_ridge_constant.pdf}
+    \includegraphics[width=0.32\textwidth]
+        {Figures/SGD_batch_size_lasso_constant.pdf}
+    \caption{Effect of mini-batch size on plain SGD with a constant learning
+    rate $\eta=0.03$ for OLS (left), Ridge (centre), and Lasso (right).
+    The training set contains $160$ observations, so $M=160$ corresponds
+    to the full-batch limit.}
+    \label{fig:sgd_batch_constant}
+\end{figure*}
+
+The inverse-time schedule in Fig.~\ref{fig:sgd_batch_decay} produces much
+smoother trajectories than the constant-rate calculation. However, all
+three objectives level off well above their deterministic minima. In the
+present implementation the learning rate is reduced after every mini-batch
+update according to Eq.~\eqref{eq:sgd_schedule} with $\tau=10$. Smaller
+mini-batches therefore experience more learning-rate updates during a given
+epoch, while for all batch sizes the step eventually becomes very small.
+The schedule suppresses the stochastic fluctuations effectively, but here
+it decays too rapidly to continue resolving the slowly converging parameter
+directions.
+
+\begin{figure*}[!t]
+    \centering
+    \includegraphics[width=0.32\textwidth]
+        {Figures/SGD_batch_size_ols_inverse_time.pdf}
+    \includegraphics[width=0.32\textwidth]
+        {Figures/SGD_batch_size_ridge_inverse_time.pdf}
+    \includegraphics[width=0.32\textwidth]
+        {Figures/SGD_batch_size_lasso_inverse_time.pdf}
+    \caption{Effect of mini-batch size on plain SGD using the inverse-time
+    learning-rate schedule for OLS (left), Ridge (centre), and Lasso
+    (right). The same initial learning rate $\eta_0=0.03$ is used for all
+    batch sizes.}
+    \label{fig:sgd_batch_decay}
+\end{figure*}
+
+Table~\ref{tab:sgd_best} summarizes the comparison in terms of the coefficient
+criterion and equivalent data passes. For OLS, none of the tested mini-batch configurations reached $\epsilon_\theta<10^{-4}$ within $10^4$ epochs. Adam gave the smallest final coefficient error, $\epsilon_\theta=1.24\times10^{-3}$, while still producing a test MSE of $0.022226$, very close to the analytical OLS value
+$0.022186$.
+
+\begin{table*}[t]
+\centering
+\caption{Best full-batch and mini-batch optimisation results for the
+representative $d=5$ problems. Mini-batch results use $M=32$ and a constant
+learning rate. Data passes denote complete equivalents of processing the
+training set. An asterisk indicates that the prescribed coefficient
+tolerance was not reached within $10^4$ epochs; the smallest final
+coefficient error among the tested stochastic runs is reported instead.}
+\label{tab:sgd_best}
+\begin{tabular}{lcccccc}
+\hline
+Model &
+Full-batch rule &
+Passes &
+Mini-batch rule &
+Passes &
+$\epsilon_\theta$ &
+Test MSE \\
+\hline
+OLS
+& Momentum & 196
+& Adam & $10\,000^{*}$
+& $1.24\times10^{-3}$
+& 0.022226 \\
+
+Ridge
+& Momentum & 185
+& Momentum & 6310
+& $8.81\times10^{-5}$
+& 0.020537 \\
+
+Lasso
+& Momentum & 178
+& Momentum & 265
+& $9.40\times10^{-4}$
+& 0.020641 \\
+\hline
+\end{tabular}
+\end{table*}
+
+\subsection{Final model comparison}
+
+Table~\ref{tab:final_model_selection} summarizes the final model selection.
+Among the tested configurations, OLS gives the lowest five-fold cross-validated error.
+
+The two-dimensional dependence on polynomial degree and regularisation
+strength is shown in Fig.~\ref{fig:final_cv_heatmaps}. Strong penalties
+produce systematically larger errors because they over-shrink the polynomial
+coefficients and prevent the model from reproducing the narrow structure of
+Runge's function. As the penalty is weakened, both methods approach the
+low-error region obtained by the unregularized model. In fact, the selected
+penalty is the smallest value examined for both Ridge and Lasso. This
+indicates that, for $n=200$ and $\sigma=0.1$, cross-validation provides
+little evidence that substantial regularisation is beneficial.
+
+\begin{table}[t]
+    \centering
+    \caption{Final five-fold cross-validation model selection for
+    $n=200$ and $\sigma=0.1$.}
+    \label{tab:final_model_selection}
+    \begin{tabular}{lccc}
+        \hline
+        Method & Degree $d$ & $\lambda$ & CV MSE \\
+        \hline
+        OLS   & 14 & --          & 0.011852 \\
+        Ridge & 10 & $10^{-6}$   & 0.012489 \\
+        Lasso & 14 & $10^{-4}$   & 0.013282 \\
+        \hline
+    \end{tabular}
+\end{table}
+
+\begin{figure*}[!t]
+    \centering
+    \includegraphics[width=0.95\textwidth]
+        {Figures/final_cv_regularization_heatmaps.pdf}
+    \caption{Five-fold cross-validated MSE for Ridge (left) and Lasso
+    (right) as functions of polynomial degree and regularisation strength.
+    The cross marks the minimum within each investigated hyper-parameter grid.}
+    \label{fig:final_cv_heatmaps}
+\end{figure*}
+
+Because both regularized minima occur at the lower boundary of the tested
+$\lambda$ grids, the precise optimum penalty is not bracketed by the present
+search. Smaller positive values of $\lambda$ would make Ridge and Lasso
+approach the OLS solution still more closely. 
+
+Figure~\ref{fig:final_cv_comparison} shows that the three methods behave
+similarly over the intermediate-complexity region, but differ strongly once
+the polynomial degree becomes large. For this particular Runge-function problem, OLS has the advantage of simplicity and achieves the lowest cross-validated error when the polynomial degree itself is selected appropriately. Its main weakness is sensitivity to
+model complexity: once unnecessary high-order terms are introduced, the
+ill-conditioned polynomial design matrix leads to rapidly increasing
+variance and unstable predictions.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\columnwidth]
+        {Figures/final_cv_model_comparison.pdf}
+    \caption{Final five-fold cross-validation comparison of OLS, Ridge, and
+    Lasso as functions of polynomial degree. For Ridge and Lasso, the curve
+    at each degree shows the lowest CV MSE over the tested values of
+    $\lambda$.}
+    \label{fig:final_cv_comparison}
+\end{figure}
+
+Ridge and Lasso do not attain quite as low a minimum, consistent
+with the bias introduced by regularisation, but their errors remain far more
+stable as the nominal polynomial degree is increased. Thus the regularized
+methods trade a small increase in bias near the optimum for a substantial
+reduction of high-complexity variance.
+
+% ============================================================
+\FloatBarrier
+\section{Conclusions and Perspectives}
+
+This work used polynomial regression of noisy Runge-function data to examine
+the relation between model complexity, generalisation, regularisation,
+resampling, and numerical optimisation. The OLS analysis demonstrated the
+usual transition from underfitting to high-variance behaviour: increasing the
+polynomial degree initially reduced prediction error, but sufficiently flexible
+models became highly sensitive to the particular training sample. Increasing
+the number of observations delayed this transition, while stronger observation
+noise reduced the useful model complexity. The bootstrap decomposition
+confirmed that the deterioration of high-degree models is associated with
+increasing variance, while cross-validation provided a more reliable model
+selection criterion than a single train--test split.
+
+Ridge and Lasso reduced this sensitivity by introducing bias in exchange for
+lower variance. Ridge suppressed poorly constrained singular-value directions,
+whereas Lasso additionally produced sparse coefficient vectors. Nevertheless,
+for the final $n=200$, $\sigma=0.1$ five-fold cross-validation study, OLS gave
+the lowest mean error: $0.011852$ at degree $14$, compared with $0.012489$ for
+Ridge and $0.013282$ for Lasso. Both regularised optima occurred at the
+smallest tested penalties, indicating that only weak regularisation was
+favoured for this data set. The regularised methods were, however,
+considerably more robust when unnecessarily high polynomial degrees were
+considered.
+
+The optimisation experiments provided independent verification of the
+regression implementations. Analytical and automatically differentiated
+gradients agreed to floating-point precision, and iterative gradient descent
+reproduced the closed-form OLS and Ridge solutions. Momentum was the fastest
+of the tested full-batch update rules for the representative problems. Using
+mini-batch gradients introduced the expected stochastic fluctuations and did
+not reduce the computational cost for the small training set considered here,
+although this conclusion should not be extrapolated directly to large-scale
+problems where full-gradient evaluations can be substantially more expensive.
+
+Several improvements would be natural extensions of this work. The Ridge and
+Lasso penalty grids could be extended toward smaller values because their
+cross-validated minima occurred at the lower boundaries of the investigated
+ranges. Repeating the complete analysis over several independently generated
+data sets or using repeated cross-validation would provide uncertainty
+estimates for the selected hyperparameters. Finally, replacing the monomial
+polynomial basis by an orthogonal basis, such as Chebyshev polynomials, would
+be useful for separating statistical over-fitting from numerical
+ill-conditioning and would provide a natural extension of the Runge-function
+study.
+
+
+% ============================================================
+\appendix
+\section{Use of AI/LLM Tools}
+
+\subsection{Tools Used}
+
+ChatGPT (OpenAI, accessed through the ChatGPT web interface,
+September--October 2026) was used during the development of the project.
+No other large-language-model tool was used.
+
+\subsection{Writing and Editing}
+
+ChatGPT was used both as a conceptual tutor and as a writing assistant.
+The contribution to each part of the report is summarized below according
+to the contribution levels defined in the FYS-STK3155 Applied Data Analytics and Machine Learning course guidelines.
+
+\begin{table*}[t]
+\centering
+\caption{LLM contributions to the written report. Level 3 denotes substantial
+generative assistance followed by revision and verification by the author.}
+\begin{tabular}{p{0.18\textwidth}cp{0.67\textwidth}}
+\hline
+Section & Level & Role of ChatGPT \\
+\hline
+Abstract & 3 &
+Drafted from the completed report and final numerical results; numerical
+values and interpretation were checked against the reported results. \\
+
+Introduction & 3 &
+Used the project description and report-writing guidelines to draft and
+revise the motivation, aims, and report structure. \\
+
+Theory & 2 &
+Assisted with explanations and drafts of OLS, Ridge, Lasso, bias--variance
+decomposition, gradient descent, adaptive optimizers, and stochastic gradient
+descent. The supplied lecture notes were specified as the primary sources;
+notation and equations were checked and adapted to the conventions used in
+the report. \\
+
+Methods and Implementation & 2 &
+Helped convert the implemented numerical workflow into concise methodological
+descriptions and organize the experimental settings. Parameter values and
+algorithmic details were checked against the source code. \\
+
+Results and Discussion & 2 &
+Assisted in interpreting the generated figures and terminal outputs and in
+drafting and restructuring discussion paragraphs. Reported numerical values
+were taken from the author's program output and figures rather than generated
+by the LLM. \\
+
+Conclusions and Perspectives & 2 &
+Drafted a synthesis of the main findings, limitations, and possible future
+extensions based on the completed analysis. \\
+
+AI/LLM Declaration & 3 &
+Drafted from the course declaration guidelines and the record of LLM use
+during the project. \\
+\hline
+\end{tabular}
+\end{table*}
+
+For the Level-3 contributions, prompts generally supplied the relevant project
+exercise, lecture-note section, current source code, numerical output, and/or
+generated figures and asked ChatGPT to explain the underlying concept or draft
+text consistent with the existing report. The generated text was used as a
+starting point and was iteratively revised to match the notation, numerical
+results, and structure of the final report. Only material understood and
+accepted by the author was retained.
+
+\subsection{Programming Assistance}
+
+ChatGPT was also used during code development. Its role was to suggest
+implementations, reorganizations, debugging strategies, and plotting routines.
+The main contributions are summarized below.
+
+\begin{table*}[t]
+\centering
+\caption{LLM assistance in the submitted source files.}
+\begin{tabular}{p{0.20\textwidth}cp{0.65\textwidth}}
+\hline
+File & Level & Role of ChatGPT \\
+\hline
+\texttt{main.py} & 2 &
+Suggested the organization of several project-part workflows and provided partial implementations for later analyses, including
+optimization, Lasso, SGD, and final cross-validation model selection.
+The code was integrated, modified, and executed by the author. \\
+
+\texttt{utilities.py} & 2 &
+Provided or assisted with several numerical routines for regression,
+resampling, gradient-based optimization, coordinate-descent Lasso,
+mini-batch SGD, convergence diagnostics, and validation. Implementations were
+tested against analytical solutions and/or scikit-learn where applicable. \\
+
+\texttt{plot\_generator.py} & 2 &
+Provided several individual plotting functions and modifications to existing
+plots. The functions were integrated into the existing plotting workflow and
+checked against the generated numerical results. \\
+\hline
+\end{tabular}
+\end{table*}
+
+All LLM-assisted numerical results used in the report were generated by
+running the final source code. The LLM was not used to fabricate numerical
+data. Suggested implementations were tested and compared, where applicable,
+with closed-form OLS and Ridge solutions, automatic-differentiation results,
+KKT conditions, and the scikit-learn Lasso implementation.
+
+\newpage
+
+% ============================================================
+
+\bibliographystyle{apsrev4-1}
+\bibliography{References}
+
+\end{document}

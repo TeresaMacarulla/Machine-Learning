@@ -21,7 +21,9 @@ The project studies polynomial regression of noisy samples of **Runge's function
 │   ├── part_h/
 │   └── part_i/
 ├── report/
-│   └── figures/
+│   ├── Machine_Learning_P1.pdf
+│   ├── References.bib
+│   └── main.tex
 └── src/
     ├── main.py             # Runs Parts a--i
     ├── utilities.py        # Regression, resampling and optimization routines
