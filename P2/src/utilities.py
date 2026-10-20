@@ -118,7 +118,6 @@ def fit_and_evaluate(x_train, x_test, y_train, y_test, degree, method="ols", lmb
         "mse_test": mean_squared_error(y_test, y_test_pred),
     }
 
-
 # ============================================================
 # Cost/loss functions and their respective gradients
 # ============================================================
@@ -147,8 +146,14 @@ def mse_gradient_l2(X, y_true, theta, lmbda):
 
     return mse_gradient(X, y_true, theta) + lmbda * penalty_gradient
 
-# These are from weekly materials: they need to be checked 
+def mse_output_derivative(y_true, y_pred):
+    """Derivative of the MSE with respect to predictions."""
+    if y_true.shape != y_pred.shape:
+        raise ValueError("Targets and predictions must have the same shape.")
 
+    return (2.0 / y_true.size) * (y_pred - y_true)
+
+# These are from weekly materials: they need to be checked 
 def softmax(z):
     """Softmax of each row of the matrix z: one row of scores per sample."""
     e_z = jnp.exp(z - jnp.max(z, axis=1, keepdims=True))
@@ -159,10 +164,17 @@ def softmax_vec(z):
     e_z = jnp.exp(z - jnp.max(z))
     return e_z/jnp.sum(e_z)
 
-
 # ============================================================
 # Activation functions and their first derivatives
 # ============================================================
+
+def identity(z):
+    """Identity activation function for regression output."""
+    return z
+
+def identity_derivative(z):
+    """First derivative of the identity activation."""
+    return np.ones_like(z)
 
 def sigmoid(z):
     """Sigmoid activation function (numerically stable)."""
@@ -190,7 +202,6 @@ def leaky_relu(z, alpha=0.01):
 def leaky_relu_derivative(z, alpha=0.01):
     """First derivative of Leaky ReLU (defined as alpha at z=0)."""
     return np.where(np.asarray(z) > 0, 1.0, alpha)
-
 
 # ============================================================
 # Learning rate update methods / Optimizers
@@ -237,82 +248,165 @@ def sgd_learning_rate(step, eta0, schedule="constant", decay_scale=10.0):
     elif schedule == "inverse_time":
         return ( eta0 * decay_scale / (step + decay_scale) )
 
-def optimize_regression_stochastic( X, y, eta0, optimizer="rmsprop", batch_size=32,
-                                    n_epochs=500, schedule="inverse_time", decay_scale=10.0, accuracy_tol=1.0e-4, seed=2026, rho=0.9,
-                                    beta1=0.9, beta2=0.999, eps=1.0e-8, divergence_threshold=1.0e12,):
-    """
-    Mini-batch stochastic optimization.
-    The same update rules options are rmsprop and adam.
-    Cost and relative parameter error are recorded once per epoch.
-    """
-
+def optimize_regression_stochastic(X, y, layers, activation_funcs, activation_ders,
+                                   eta0=0.01, batch_size=32, n_epochs=300,
+                                   schedule="constant", decay_scale=10.0, seed=2026):
+    """Train a neural network using mini-batch plain SGD."""
     n = len(y)
     rng = np.random.default_rng(seed)
 
-    # Optimizer states
-    accumulator = np.zeros()
-    first_moment = np.zeros()
-    second_moment = np.zeros()
+    # Copy parameters so the original network is not modified
+    layers = [(W.copy(), b.copy()) for W, b in layers]
 
-    cost_history = []
-    relative_error_history = []
+    # Function to calculate the full training MSE
+    def full_cost():
+        _, _, y_pred = feed_forward_saver_batch(X, layers, activation_funcs)
+        return mean_squared_error(y, y_pred)
 
-    converged = False
-    diverged = False
-
+    # Record the initial cost before training
+    cost_history = [full_cost()]
     update_count = 0
-    samples_processed = 0
 
-    for epoch in range(1, n_epochs + 1):
-
-        # Shuffle observations at the start of every epoch.
+    for epoch in range(n_epochs):
+        # Shuffle observations at the start of each epoch
         indices = rng.permutation(n)
 
         for start in range(0, n, batch_size):
-
             batch_indices = indices[start:start + batch_size]
-
             X_batch = X[batch_indices]
             y_batch = y[batch_indices]
+            # Current learning rate
+            eta = sgd_learning_rate(update_count, eta0, schedule, decay_scale)
+            # Calculate gradients using backpropagation
+            layer_grads = backpropagation_batch(X_batch, y_batch, layers, activation_funcs, activation_ders)
 
-            # Current learning rate.
-            eta = sgd_learning_rate(step=update_count, eta0=eta0, schedule=schedule, decay_scale=decay_scale)
-            gradient = gradient_calculator(theta, X_batch, y_batch)
-
+            # Update all weights and biases
+            for (W, b), (dW, db) in zip(layers, layer_grads):
+                W -= eta * dW
+                b -= eta * db
             update_count += 1
-            samples_processed += len(batch_indices)
 
-            # Learning rate update methods / Optimizers
-            if optimizer == "rmsprop":
-                update, accumulator = rmsprop_update(gradient, accumulator, eta, rho=rho, eps=eps)
-
-            elif optimizer == "adam":
-                (update, first_moment, second_moment
-                 ) = adam_update(gradient, first_moment, second_moment, update_count, eta, beta1=beta1, beta2=beta2, eps=eps)
-
-            theta -= update
-
-            if (not np.all(np.isfinite(theta)) or np.linalg.norm(theta) > divergence_threshold):
-                diverged = True
-                break
-
-        # Evaluate the FULL cost once per epoch
-        # This will be filled when we have a neural network
-        cost = neural_cost()
-        cost_history.append(cost)
-
-        if diverged:
-            break
+        # Record the training MSE after each epoch
+        cost_history.append(full_cost())
 
     return {
-        "theta": theta,
-        "epochs": epoch,
-        "updates": update_count,
-        "samples_processed": samples_processed,
-        # One epoch corresponds approximately to one complete pass through the training data.
-        "data_passes": samples_processed / n,
-        "converged": converged,
-        "diverged": diverged,
+        "layers": layers,
         "cost_history": np.asarray(cost_history),
-        "relative_error_history": np.asarray(relative_error_history),
+        "epochs": n_epochs,
+        "updates": update_count
     }
+
+# ============================================================
+# Neural network 
+# ============================================================
+
+def create_layers_batch(network_input_size, layer_output_sizes, seed=2026):
+    """Initialize the weights and biases of a feed-forward network."""
+    rng = np.random.default_rng(seed)
+    layers = []
+    n_inputs = network_input_size
+
+    for n_outputs in layer_output_sizes:
+        std = np.sqrt(1.0 / n_inputs)
+        W = rng.normal(0.0, std, size=(n_inputs, n_outputs))
+        b = np.zeros(n_outputs)
+        layers.append((W, b))
+        n_inputs = n_outputs
+
+    return layers
+
+def feed_forward_saver_batch(X, layers, activation_funcs):
+    """Forward pass that stores intermediate layer inputs and pre-activations."""
+
+    layer_inputs = []
+    zs = []
+    a = X
+
+    for (W, b), activation_func in zip(layers, activation_funcs):
+        layer_inputs.append(a)
+        z = a @ W + b
+        a = activation_func(z)
+        zs.append(z)
+
+    return layer_inputs, zs, a
+
+def backpropagation_batch(X, y_true, layers, activation_funcs, activation_ders):
+    """Calculate gradients of all network weights and biases using backpropagation."""
+    # Forward pass, saving intermediate values
+    layer_inputs, zs, y_pred = feed_forward_saver_batch(X, layers, activation_funcs)
+
+    # Store the gradients of each layer
+    layer_grads = [None] * len(layers)
+
+    # Work backwards, from the last layer to the first
+    for i in reversed(range(len(layers))):
+        if i == len(layers) - 1:
+            # Derivative of MSE with respect to the output
+            dC_da = mse_output_derivative(y_true, y_pred)
+        else:
+            # Propagate the error backwards through the next layer
+            W_next, b_next = layers[i + 1]
+            dC_da = dC_dz @ W_next.T
+
+        # Derivative with respect to the pre-activation
+        dC_dz = dC_da * activation_ders[i](zs[i])
+
+        # Gradients of weights and biases
+        dC_dW = layer_inputs[i].T @ dC_dz
+        dC_db = np.sum(dC_dz, axis=0)
+
+        # Store the gradients
+        layer_grads[i] = (dC_dW, dC_db)
+
+    return layer_grads
+
+def gradient_check(X, y, layers, activation_funcs, activation_ders,
+                   h=1e-6, n_checks=5, seed=2026):
+    """Compare backpropagation gradients with central finite differences."""
+    rng = np.random.default_rng(seed)
+
+    # Analytical gradients from backpropagation
+    layer_grads = backpropagation_batch(X, y, layers, activation_funcs, activation_ders)
+
+    # Cost function evaluated with the current network parameters
+    def cost():
+        _, _, y_pred = feed_forward_saver_batch(X, layers, activation_funcs)
+        return mean_squared_error(y, y_pred)
+
+    max_error = 0.0
+    failures = 0
+    n_tested = 0
+
+    for (W, b), (dW, db) in zip(layers, layer_grads):
+
+        # Check both the weights and biases
+        for parameter, gradient in [(W, dW), (b, db)]:
+
+            for _ in range(min(n_checks, parameter.size)):
+                # Select a random element of the parameter array
+                idx = tuple(rng.integers(s) for s in parameter.shape)
+                original = parameter[idx]
+
+                # Central finite difference
+                try:
+                    parameter[idx] = original + h
+                    cost_plus = cost()
+                    parameter[idx] = original - h
+                    cost_minus = cost()
+                finally:
+                    parameter[idx] = original
+
+                numerical = (cost_plus - cost_minus) / (2 * h)
+                analytical = gradient[idx]
+                error = abs(numerical - analytical)
+                max_error = max(max_error, error)
+                n_tested += 1
+
+                if not np.isclose(numerical, analytical, rtol=1e-4, atol=1e-7):
+                    failures += 1
+
+    print("Gradients tested:", n_tested)
+    print(f"Maximum absolute error: {max_error:.3e}")
+    print("Failed comparisons:", failures)
+
+    return failures == 0
