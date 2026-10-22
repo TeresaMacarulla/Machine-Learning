@@ -119,6 +119,21 @@ def fit_and_evaluate(x_train, x_test, y_train, y_test, degree, method="ols", lmb
     }
 
 # ============================================================
+# Basic functions for project 2
+# ============================================================
+
+def fit_input_scaler(X_train):
+    """Compute means and standard deviations from training inputs."""
+    means = np.mean(X_train, axis=0)
+    stds = np.std(X_train, axis=0)
+    return means, stds
+
+def scale_inputs(X, means, stds):
+    """Standardize input features using training-set statistics."""
+    return (X - means) / stds
+
+
+# ============================================================
 # Cost/loss functions and their respective gradients
 # ============================================================
 
@@ -248,45 +263,59 @@ def sgd_learning_rate(step, eta0, schedule="constant", decay_scale=10.0):
     elif schedule == "inverse_time":
         return ( eta0 * decay_scale / (step + decay_scale) )
 
+
 def optimize_regression_stochastic(X, y, layers, activation_funcs, activation_ders,
-                                   eta0=0.01, batch_size=32, n_epochs=300,
-                                   schedule="constant", decay_scale=10.0, seed=2026):
-    """Train a neural network using mini-batch plain SGD."""
+                                   eta0=0.01, optimizer="sgd", batch_size=32,
+                                   n_epochs=300, schedule="constant", decay_scale=10.0,
+                                   seed=2026, rho=0.9, beta1=0.9, beta2=0.999, eps=1e-8):
+    """Train a neural network using mini-batch SGD, RMSprop or Adam."""
+
     n = len(y)
     rng = np.random.default_rng(seed)
 
-    # Copy parameters so the original network is not modified
+    # Copy parameters to preserve the original initialization
     layers = [(W.copy(), b.copy()) for W, b in layers]
 
-    # Function to calculate the full training MSE
+    # Optimizer states: one array per weight matrix and bias vector
+    accumulators = [[np.zeros_like(W), np.zeros_like(b)] for W, b in layers]
+    first_moments = [[np.zeros_like(W), np.zeros_like(b)] for W, b in layers]
+    second_moments = [[np.zeros_like(W), np.zeros_like(b)] for W, b in layers]
+
     def full_cost():
         _, _, y_pred = feed_forward_saver_batch(X, layers, activation_funcs)
         return mean_squared_error(y, y_pred)
 
-    # Record the initial cost before training
     cost_history = [full_cost()]
     update_count = 0
 
     for epoch in range(n_epochs):
-        # Shuffle observations at the start of each epoch
+        # Shuffle observations
         indices = rng.permutation(n)
 
         for start in range(0, n, batch_size):
             batch_indices = indices[start:start + batch_size]
             X_batch = X[batch_indices]
             y_batch = y[batch_indices]
-            # Current learning rate
+            # Learning rate
             eta = sgd_learning_rate(update_count, eta0, schedule, decay_scale)
-            # Calculate gradients using backpropagation
+            # Backpropagation
             layer_grads = backpropagation_batch(X_batch, y_batch, layers, activation_funcs, activation_ders)
-
-            # Update all weights and biases
-            for (W, b), (dW, db) in zip(layers, layer_grads):
-                W -= eta * dW
-                b -= eta * db
             update_count += 1
 
-        # Record the training MSE after each epoch
+            # Update each layer's weights and biases
+            for i, ((W, b), (dW, db)) in enumerate(zip(layers, layer_grads)):
+                # j=0: weights, j=1: biases
+                for j, (parameter, gradient) in enumerate(((W, dW), (b, db))):
+
+                    if optimizer == "sgd" or optimizer == "sgd_inv_t":
+                        update = eta * gradient
+                    elif optimizer == "rmsprop" or optimizer == "rmsprop_inv_t":
+                        update, accumulators[i][j] = rmsprop_update(gradient, accumulators[i][j], eta, rho=rho, eps=eps)
+                    elif optimizer == "adam" or optimizer == "adam_inv_t":
+                        (update, first_moments[i][j], second_moments[i][j]
+                         ) = adam_update(gradient, first_moments[i][j], second_moments[i][j],iteration=update_count,
+                                         eta=eta, beta1=beta1, beta2=beta2, eps=eps)
+                    parameter -= update
         cost_history.append(full_cost())
 
     return {
