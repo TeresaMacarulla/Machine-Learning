@@ -111,12 +111,20 @@ def fit_and_evaluate(x_train, x_test, y_train, y_test, degree, method="ols", lmb
     y_test_pred = predict(X_test_scaled, theta)
 
     return {
+        "feature_means": feature_means,
+        "feature_stds": feature_stds,
         "theta": theta,
         "y_train_pred": y_train_pred,
         "y_test_pred": y_test_pred,
         "mse_train": mean_squared_error(y_train, y_train_pred),
         "mse_test": mean_squared_error(y_test, y_test_pred),
     }
+
+def r2_score(y_true, y_pred):
+    """Calculate the coefficient of determination R²."""
+    numerator = np.sum((y_true - y_pred) ** 2)
+    denominator = np.sum((y_true - np.mean(y_true)) ** 2)
+    return 1.0 - numerator / denominator
 
 # ============================================================
 # Basic functions for project 2
@@ -126,6 +134,8 @@ def fit_input_scaler(X_train):
     """Compute means and standard deviations from training inputs."""
     means = np.mean(X_train, axis=0)
     stds = np.std(X_train, axis=0)
+    if np.any(stds == 0):
+        raise ValueError("An input feature has zero standard deviation.")
     return means, stds
 
 def scale_inputs(X, means, stds):
@@ -267,7 +277,8 @@ def sgd_learning_rate(step, eta0, schedule="constant", decay_scale=10.0):
 def optimize_regression_stochastic(X, y, layers, activation_funcs, activation_ders,
                                    eta0=0.01, optimizer="sgd", batch_size=32,
                                    n_epochs=300, schedule="constant", decay_scale=10.0,
-                                   seed=2026, rho=0.9, beta1=0.9, beta2=0.999, eps=1e-8):
+                                   seed=2026, rho=0.9, beta1=0.9, beta2=0.999, eps=1e-8,
+                                   X_val=None, y_val=None):
     """Train a neural network using mini-batch SGD, RMSprop or Adam."""
 
     n = len(y)
@@ -281,11 +292,16 @@ def optimize_regression_stochastic(X, y, layers, activation_funcs, activation_de
     first_moments = [[np.zeros_like(W), np.zeros_like(b)] for W, b in layers]
     second_moments = [[np.zeros_like(W), np.zeros_like(b)] for W, b in layers]
 
-    def full_cost():
-        _, _, y_pred = feed_forward_saver_batch(X, layers, activation_funcs)
-        return mean_squared_error(y, y_pred)
+    def calculate_cost(X_data, y_data):
+        _, _, y_pred = feed_forward_saver_batch(X_data, layers, activation_funcs)
+        return mean_squared_error(y_data, y_pred)
 
-    cost_history = [full_cost()]
+    # Initial training cost
+    cost_history = [calculate_cost(X, y)]
+    # Initial validation cost
+    val_cost_history = []
+    if X_val is not None and y_val is not None:
+        val_cost_history.append(calculate_cost(X_val, y_val))
     update_count = 0
 
     for epoch in range(n_epochs):
@@ -306,21 +322,23 @@ def optimize_regression_stochastic(X, y, layers, activation_funcs, activation_de
             for i, ((W, b), (dW, db)) in enumerate(zip(layers, layer_grads)):
                 # j=0: weights, j=1: biases
                 for j, (parameter, gradient) in enumerate(((W, dW), (b, db))):
-
-                    if optimizer == "sgd" or optimizer == "sgd_inv_t":
+                    if optimizer == "sgd":
                         update = eta * gradient
-                    elif optimizer == "rmsprop" or optimizer == "rmsprop_inv_t":
+                    elif optimizer == "rmsprop":
                         update, accumulators[i][j] = rmsprop_update(gradient, accumulators[i][j], eta, rho=rho, eps=eps)
-                    elif optimizer == "adam" or optimizer == "adam_inv_t":
-                        (update, first_moments[i][j], second_moments[i][j]
-                         ) = adam_update(gradient, first_moments[i][j], second_moments[i][j],iteration=update_count,
-                                         eta=eta, beta1=beta1, beta2=beta2, eps=eps)
+                    elif optimizer == "adam":
+                        (update, first_moments[i][j], second_moments[i][j]) = adam_update(
+                         gradient, first_moments[i][j], second_moments[i][j], iteration=update_count, eta=eta, beta1=beta1, beta2=beta2, eps=eps)
                     parameter -= update
-        cost_history.append(full_cost())
+
+        cost_history.append(calculate_cost(X, y))
+        if X_val is not None and y_val is not None:
+            val_cost_history.append(calculate_cost(X_val, y_val))
 
     return {
         "layers": layers,
         "cost_history": np.asarray(cost_history),
+        "val_cost_history": np.asarray(val_cost_history),
         "epochs": n_epochs,
         "updates": update_count
     }
