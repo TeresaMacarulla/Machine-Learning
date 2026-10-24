@@ -204,7 +204,7 @@ for network_name, (layers, acts, ders) in networks.items():
 
     # Retrain using all 160 training observations
     result = optimize_regression_stochastic(X_train_nn, y_train_nn, layers, acts, ders, eta0=selected["eta"], optimizer=optimizer, 
-                                            batch_size=batch_size, n_epochs=100, schedule=schedule, seed=2026)
+                                            batch_size=batch_size, n_epochs=300, schedule=schedule, seed=2026)
     trained_layers = result["layers"]
     _, _, y_train_pred = feed_forward_saver_batch(X_train_nn, trained_layers, acts)
     _, _, y_test_pred = feed_forward_saver_batch(X_test_nn, trained_layers, acts)
