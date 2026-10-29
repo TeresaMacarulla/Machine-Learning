@@ -142,6 +142,15 @@ def scale_inputs(X, means, stds):
     """Standardize input features using training-set statistics."""
     return (X - means) / stds
 
+def prepare_data(x_train, x_test, y_train, y_test):
+    X_train_raw = x_train.reshape(-1, 1)
+    X_test_raw = x_test.reshape(-1, 1)
+    train_means, train_stds = fit_input_scaler(X_train_raw)
+    X_train_nn = scale_inputs(X_train_raw, train_means, train_stds)
+    X_test_nn = scale_inputs(X_test_raw, train_means, train_stds)
+    y_train_nn = y_train.reshape(-1, 1)
+    y_test_nn = y_test.reshape(-1, 1)
+    return X_train_nn, X_test_nn, y_train_nn, y_test_nn, train_means, train_stds
 
 # ============================================================
 # Cost/loss functions and their respective gradients
@@ -347,14 +356,22 @@ def optimize_regression_stochastic(X, y, layers, activation_funcs, activation_de
 # Neural network 
 # ============================================================
 
-def create_layers_batch(network_input_size, layer_output_sizes, seed=2026):
+def create_layers_batch(network_input_size, layer_output_sizes, seed=2026, hidden_activation="sigmoid"):
     """Initialize the weights and biases of a feed-forward network."""
     rng = np.random.default_rng(seed)
     layers = []
     n_inputs = network_input_size
 
-    for n_outputs in layer_output_sizes:
-        std = np.sqrt(1.0 / n_inputs)
+    for i, n_outputs in enumerate(layer_output_sizes):
+        # Check whether this is the output layer
+        is_output_layer = (i == len(layer_output_sizes)-1)
+
+        if not is_output_layer and hidden_activation in ("relu", "leaky_relu"):
+            # He initialization for ReLU-family hidden layers
+            std = np.sqrt(2.0 / n_inputs)
+        else:
+            std = np.sqrt(1.0 / n_inputs)
+
         W = rng.normal(0.0, std, size=(n_inputs, n_outputs))
         b = np.zeros(n_outputs)
         layers.append((W, b))
@@ -455,5 +472,6 @@ def gradient_check(X, y, layers, activation_funcs, activation_ders,
     print("Gradients tested:", n_tested)
     print(f"Maximum absolute error: {max_error:.3e}")
     print("Failed comparisons:", failures)
+    print()
 
     return failures == 0

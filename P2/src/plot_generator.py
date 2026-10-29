@@ -131,3 +131,72 @@ def plt_ols_vs_nn(x_train, y_train, x_test, y_test, x_grid, y_exact, y_ols, nn_p
     fig.savefig(save_path, bbox_inches="tight")
     plt.close(fig)
 
+def plt_activ_arch_comparison(best_configs_c, architectures_c, plots_dir):
+    """Compare final validation MSE across activations and architectures."""
+
+    architecture_names = list(architectures_c.keys())
+    x_positions = np.arange(len(architecture_names))
+    fig, ax = plt.subplots(figsize=(9, 5))
+
+    for activation_name in ("sigmoid", "relu", "leaky_relu"):
+        val_mses = [
+            best_configs_c[arch_name][activation_name]["result"]["val_cost_history"][-1]
+            for arch_name in architecture_names
+        ]
+        ax.plot(x_positions, val_mses, marker="o", linewidth=2, label=activation_name)
+
+    ax.set_xticks(x_positions)
+    ax.set_xticklabels(architecture_names)
+    ax.set_xlabel("Network architecture")
+    ax.set_ylabel("Final validation MSE")
+    ax.set_title("Activation functions and network architecture")
+    ax.ticklabel_format(axis="y", style="plain", useOffset=False)
+    ax.grid(True, axis="y", alpha=0.3)
+    ax.legend(bbox_to_anchor=(1.02, 1))
+
+    fig.tight_layout()
+
+    plots_dir = Path(plots_dir)
+    plots_dir.mkdir(parents=True, exist_ok=True)
+
+    save_path = plots_dir / "NN_activation_architecture_comparison.pdf"
+
+    fig.savefig(save_path, bbox_inches="tight")
+    plt.close(fig)
+
+def plt_learning_curves(best_results, architecture, plots_dir, start_epoch=1):
+    """Compare training and validation histories for the three activations."""
+
+    fig, ax = plt.subplots(figsize=(10, 6))
+
+    for i, (activation_name, configuration) in enumerate(best_results.items()):
+
+        result = configuration["result"]
+        eta = configuration["eta"]
+        train_history = result["cost_history"]
+        val_history = result["val_cost_history"]
+        epochs = np.arange(len(train_history))
+        color = f"C{i}"
+
+        # Dashed line: training MSE
+        ax.plot(epochs[start_epoch:], train_history[start_epoch:], color=color, linestyle="--", alpha=0.8, label=f"{activation_name} - train")
+        # Solid line: validation MSE
+        ax.plot(epochs[start_epoch:], val_history[start_epoch:], color=color, linestyle="-", linewidth=1.5, label=f"{activation_name} - validation")
+
+    ax.set_xlabel("Epoch")
+    ax.set_ylabel("MSE")
+    ax.set_title(f"Training and validation MSE - NN {architecture}")
+    ax.grid(True, alpha=0.3)
+    ax.legend(bbox_to_anchor=(1.02, 1), fontsize=10)
+
+    fig.tight_layout()
+
+    plots_dir = Path(plots_dir)
+    plots_dir.mkdir(parents=True, exist_ok=True)
+
+    architecture_name = "-".join(map(str, architecture))
+    save_path = plots_dir / f"NN_C_learning_curves_{architecture_name}.pdf"
+
+    fig.savefig(save_path, bbox_inches="tight")
+    plt.close(fig)
+
