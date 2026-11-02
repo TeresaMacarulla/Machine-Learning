@@ -422,15 +422,21 @@ if __name__ == "__main__":
 
         # Prepare all 160 training observations and 40 test observations
         (X_train_nn, X_test_nn, y_train_nn, y_test_nn, train_means, train_stds) = prepare_data(x_train, x_test, y_train, y_test)
-
+        
+        # Descriptive name for the selected Part c model
+        activation_labels = {"sigmoid": "Sigmoid", "relu": "ReLU", "leaky_relu": "Leaky ReLU"}
         # Sigmoid baselines from Part b and selected Part c configuration
+        selected_model_name = (
+            f"{activation_labels[best_activation_name]} "
+            f"{architectures_c[best_arch_name]}"
+        )
+        # Sigmoid baselines from Part b and selected Part c model
         models_to_compare = {
-            "Sigmoid [1,50,1]": ("1x50", "sigmoid", 0.01),
-            "Sigmoid [1,100,100,1]": ("2x100", "sigmoid", 0.01),
-            f"Part C: {best_activation_name} {best_arch_name}": (
-                best_arch_name, best_activation_name, best_eta
-            )
+            "Sigmoid [1, 50, 1]": ("1x50", "sigmoid", 0.01),
+            "Sigmoid [1, 100, 100, 1]": ("2x100", "sigmoid", 0.01),
+            selected_model_name: (best_arch_name, best_activation_name, best_eta)
         }
+
         final_results_c = {}
 
         for model_name, (arch_name, activation_name, eta) in models_to_compare.items():
@@ -497,13 +503,11 @@ if __name__ == "__main__":
         X_grid_ols = scale_design_matrix(X_grid_ols, ols_result_c["feature_means"], ols_result_c["feature_stds"])
         y_ols_grid = predict(X_grid_ols, ols_result_c["theta"])
 
-        # Neural-network predictions
+        # Neural-network predictions: selected Part c model only
         X_grid_nn = scale_inputs(x_grid.reshape(-1, 1), train_means, train_stds)
-        nn_predictions_c = {}
-
-        for model_name, result in final_results_c.items():
-            _, _, y_grid_pred = feed_forward_saver_batch(X_grid_nn, result["layers"], result["activations"])
-            nn_predictions_c[model_name] = y_grid_pred.ravel()
+        selected_result = final_results_c[selected_model_name]
+        _, _, y_grid_pred = feed_forward_saver_batch(X_grid_nn, selected_result["layers"], selected_result["activations"])
+        nn_predictions_c = {selected_model_name: y_grid_pred.ravel()}
 
         # Save figure in the Part c folder
         plt_ols_vs_nn(x_train, y_train, x_test, y_test, x_grid, y_exact, y_ols_grid, nn_predictions_c, degree=14, plots_dir=PLOTS_DIR_2)
