@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+from matplotlib.colors import LogNorm
 from pathlib import Path
 
 plt.rcParams.update({
@@ -60,7 +61,6 @@ def plt_nn_optimizer_comparison(results, layers, plots_dir):
     fig.tight_layout()
 
     plots_dir = Path(plots_dir)
-    plots_dir.mkdir(parents=True, exist_ok=True)
 
     save_path = (plots_dir / f"NN_optimizer_validation_{architecture_name}.pdf")
     fig.savefig(save_path, bbox_inches="tight")
@@ -96,7 +96,6 @@ def plt_nn_learning_rate_comparison(results, layers, plots_dir):
     fig.tight_layout()
 
     plots_dir = Path(plots_dir)
-    plots_dir.mkdir(parents=True, exist_ok=True)
 
     save_path = (
         plots_dir / f"NN_learning_rates_{architecture_name}.pdf"
@@ -125,7 +124,6 @@ def plt_ols_vs_nn(x_train, y_train, x_test, y_test, x_grid, y_exact, y_ols, nn_p
     fig.tight_layout()
 
     plots_dir = Path(plots_dir)
-    plots_dir.mkdir(parents=True, exist_ok=True)
 
     save_path = plots_dir / f"Runge_OLS_d{degree}_vs_NN.pdf"
     fig.savefig(save_path, bbox_inches="tight")
@@ -157,7 +155,6 @@ def plt_activ_arch_comparison(best_configs_c, architectures_c, plots_dir):
     fig.tight_layout()
 
     plots_dir = Path(plots_dir)
-    plots_dir.mkdir(parents=True, exist_ok=True)
 
     save_path = plots_dir / "NN_activation_architecture_comparison.pdf"
 
@@ -192,11 +189,53 @@ def plt_learning_curves(best_results, architecture, plots_dir, start_epoch=1):
     fig.tight_layout()
 
     plots_dir = Path(plots_dir)
-    plots_dir.mkdir(parents=True, exist_ok=True)
 
     architecture_name = "-".join(map(str, architecture))
     save_path = plots_dir / f"NN_C_learning_curves_{architecture_name}.pdf"
 
     fig.savefig(save_path, bbox_inches="tight")
+    plt.close(fig)
+
+
+def plt_d_regularization_learning_curves(best_regularized_d, architectures_d, plots_dir, start_epoch=30):
+    """Compare training and validation MSE of selected L1/L2 networks."""
+
+    fig, axes = plt.subplots(1, 2, figsize=(13, 5))
+    for ax, regularization in zip(axes, ("l1", "l2")):
+
+        selected = best_regularized_d[regularization]
+        result = selected["result"]
+        # Convert architecture name to its actual layer sizes
+        architecture = architectures_d[selected["architecture"]]
+        train_history = result["cost_history"]
+        val_history = result["val_cost_history"]
+        epochs = np.arange(len(train_history))
+
+        # Show only epochs from start_epoch onward
+        ax.plot(
+            epochs[start_epoch:],
+            train_history[start_epoch:],
+            label="Training MSE",
+            linewidth=1.5
+        )
+        ax.plot(
+            epochs[start_epoch:],
+            val_history[start_epoch:],
+            label="Validation MSE",
+            linewidth=1.5
+        )
+        ax.set_title(
+            f"{regularization.upper()} - NN {architecture}\n"
+            f"lambda={selected['lmbda']:.1e}, eta={selected['eta']:g}"
+        )
+
+        ax.set_xlabel("Epoch")
+        ax.set_ylabel("MSE")
+        ax.grid(True, alpha=0.3)
+        ax.legend(fontsize=10)
+
+    fig.tight_layout()
+    plots_dir = Path(plots_dir)
+    fig.savefig(plots_dir / "NN_D_regularization_learning_curves.pdf", bbox_inches="tight")
     plt.close(fig)
 

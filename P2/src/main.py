@@ -36,7 +36,8 @@ from plot_generator import (
     plt_nn_learning_rate_comparison,
     plt_ols_vs_nn,
     plt_activ_arch_comparison,
-    plt_learning_curves
+    plt_learning_curves,
+    plt_d_regularization_learning_curves
 )
 
 # Path to the root P2 folder
@@ -46,9 +47,11 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 PLOTS_DIR = PROJECT_ROOT / "plots"
 PLOTS_DIR_1 = PLOTS_DIR/ "part_1"
 PLOTS_DIR_2 = PLOTS_DIR/ "part_2"
+PLOTS_DIR_3 = PLOTS_DIR/ "part_3"
 PLOTS_DIR.mkdir(parents=True, exist_ok=True)
 PLOTS_DIR_1.mkdir(parents=True, exist_ok=True)
 PLOTS_DIR_2.mkdir(parents=True, exist_ok=True)
+PLOTS_DIR_3.mkdir(parents=True, exist_ok=True)
 
 # ================================================================================
 # Part a): Prepare the data
@@ -87,6 +90,7 @@ if __name__ == "__main__":
     print("-------------------------------------------------------------------------------")
     print("1: Compare two NN architectures and implement hyperparameter-selection.")
     print("2: Explore different activation functions and NN architectures.")
+    print("3: Investigate L1 and L2 regularization.")
     number = float(input("Choose a number: "))
     print()
 
@@ -302,6 +306,15 @@ if __name__ == "__main__":
         print(" Find the resulting plots in P2/plots/part_1 ")
         print("-------------------------------------------------------------------------------")
 
+    if number == 2 or number == 3:
+        # NN architectures to be explored
+        architectures = {
+            "1x50":       [1, 50, 1],
+            "1x100":      [1, 100, 1],
+            "2x50":       [1, 50, 50, 1],
+            "2x100":      [1, 100, 100, 1]
+        }
+
     if number == 2:
     # ============================================================
     # Part c): Compare activation functions, depth and width
@@ -313,19 +326,13 @@ if __name__ == "__main__":
             "relu": (relu, relu_derivative),
             "leaky_relu": (leaky_relu, leaky_relu_derivative)
         }
-        architectures_c = {
-            "1x50":       [1, 50, 1],
-            "1x100":      [1, 100, 1],
-            "2x50":       [1, 50, 50, 1],
-            "2x100":      [1, 100, 100, 1]
-        }
 
         # Starting learning-rate grid for Adam
         learning_rates_c = [1e-4, 1e-3, 1e-2]
         results_c = {}
         best_configs_c = {}
 
-        for arch_name, architecture in architectures_c.items():
+        for arch_name, architecture in architectures.items():
 
             results_c[arch_name] = {}
             best_configs_c[arch_name] = {}
@@ -335,12 +342,7 @@ if __name__ == "__main__":
             for activation_name, (activation, derivative) in activation_options.items():
 
                 # Initialize parameters for the selected activation
-                layers = create_layers_batch(
-                    network_input_size=architecture[0],
-                    layer_output_sizes=architecture[1:],
-                    seed=2026,
-                    hidden_activation=activation_name
-                )
+                layers = create_layers_batch(network_input_size=architecture[0], layer_output_sizes=architecture[1:], seed=2026, hidden_activation=activation_name)
 
                 # Use the selected activation for all hidden layers and identity for the output layer
                 activations = [activation] * n_hidden + [identity]
@@ -373,9 +375,9 @@ if __name__ == "__main__":
     # ============================================================
 
         # Compare final validation MSE across architectures and activations
-        plt_activ_arch_comparison(best_configs_c, architectures_c, PLOTS_DIR_2)
+        plt_activ_arch_comparison(best_configs_c, architectures, PLOTS_DIR_2)
         # Compare training/validation learning curves for each architecture
-        for arch_name, architecture in architectures_c.items():
+        for arch_name, architecture in architectures.items():
             plt_learning_curves(best_configs_c[arch_name], architecture, PLOTS_DIR_2, start_epoch=30)
 
         print("\nPART C - GENERALIZATION DIAGNOSTICS")
@@ -399,7 +401,7 @@ if __name__ == "__main__":
                 )
    
     # ============================================================
-    # Step C.4: Final held-out evaluation
+    # Part c): Final held-out evaluation
     # ============================================================
 
         # Select the best configuration using FINAL validation MSE
@@ -415,7 +417,7 @@ if __name__ == "__main__":
         best_eta = best_configs_c[best_arch_name][best_activation_name]["eta"]
 
         print("\nBEST PART C CONFIGURATION")
-        print(f"Architecture: {architectures_c[best_arch_name]}")
+        print(f"Architecture: {architectures[best_arch_name]}")
         print(f"Activation: {best_activation_name}")
         print(f"Learning rate: {best_eta}")
         print(f"Validation MSE: {best_val_mse:.6f}")
@@ -428,7 +430,7 @@ if __name__ == "__main__":
         # Sigmoid baselines from Part b and selected Part c configuration
         selected_model_name = (
             f"{activation_labels[best_activation_name]} "
-            f"{architectures_c[best_arch_name]}"
+            f"{architectures[best_arch_name]}"
         )
         # Sigmoid baselines from Part b and selected Part c model
         models_to_compare = {
@@ -441,16 +443,12 @@ if __name__ == "__main__":
 
         for model_name, (arch_name, activation_name, eta) in models_to_compare.items():
 
-            architecture = architectures_c[arch_name]
+            architecture = architectures[arch_name]
             activation, derivative = activation_options[activation_name]
             n_hidden = len(architecture) - 2
+
             # Reinitialize from the same seed used during validation
-            layers = create_layers_batch(
-                architecture[0],
-                architecture[1:],
-                seed=2026,
-                hidden_activation=activation_name
-            )
+            layers = create_layers_batch(architecture[0], architecture[1:], seed=2026, hidden_activation=activation_name)
 
             activations = [activation] * n_hidden + [identity]
             activation_ders = [derivative] * n_hidden + [identity_derivative]
@@ -515,4 +513,137 @@ if __name__ == "__main__":
         print("-------------------------------------------------------------------------------")
         print(" Find the resulting plots in P2/plots/part_2 ")
         print("-------------------------------------------------------------------------------")
+
+    if number == 3:
+
+    # ============================================================
+    # Part d): L1 and L2 regularization. Hyperparameter investigation
+    # ============================================================
+
+        regularization_options = ["l1", "l2"]
+        lambdas_d = [0.0, 1e-8, 1e-6, 1e-4, 1e-2]
+        learning_rates_d = [0.001, 0.01]
+        results_d = {}
+
+        for arch_name, architecture in architectures.items():
+
+            results_d[arch_name] = {}
+            n_hidden = len(architecture) - 2
+
+            # Use ReLU in every hidden layer
+            activations = [relu] * n_hidden + [identity]
+            activation_ders = [relu_derivative] * n_hidden + [identity_derivative]
+
+            # Same initial parameters for all experiments
+            layers = create_layers_batch(network_input_size=architecture[0], layer_output_sizes=architecture[1:], seed=2026, hidden_activation="relu")
+
+            for regularization in regularization_options:
+                results_d[arch_name][regularization] = {}
+
+                for lmbda in lambdas_d:
+                    results_d[arch_name][regularization][lmbda] = {}
+
+                    for eta in learning_rates_d:
+                        result = optimize_regression_stochastic(X_fit_nn, y_fit_nn, layers, activations, activation_ders, eta0=eta, optimizer="adam", batch_size=32,
+                                                                n_epochs=300, schedule="constant", seed=2026, X_val=X_val_nn, y_val=y_val_nn,
+                                                                regularization=regularization, lmbda=lmbda)
+                        results_d[arch_name][regularization][lmbda][eta] = result
+                        train_mse = result["cost_history"][-1]
+                        val_mse = result["val_cost_history"][-1]
+                        print(
+                            f"{arch_name:6s} | {regularization.upper():2s} "
+                            f"| lambda={lmbda:.1e} "
+                            f"| eta={eta:.3g} "
+                            f"| Train MSE={train_mse:.6f} "
+                            f"| Val MSE={val_mse:.6f}"
+                        )
+
+    # ============================================================
+    # Part d): Select best models for comparison
+    # ============================================================
+
+        best_overall_d = {}
+        best_regularized_d = {}
+
+        for regularization in ("l1", "l2"):
+            candidates = []
+
+            for arch_name, reg_results in results_d.items():
+                for lmbda, rate_results in reg_results[regularization].items():
+                    for eta, result in rate_results.items():
+                        val_mse = result["val_cost_history"][-1]
+                        if np.isfinite(val_mse):
+                            candidates.append({
+                                "architecture": arch_name,
+                                "lmbda": lmbda,
+                                "eta": eta,
+                                "val_mse": val_mse,
+                                "result": result
+                            })
+
+            # Best model, allowing lambda = 0
+            best_overall_d[regularization] = min(candidates, key=lambda c: c["val_mse"])
+
+            # Best model with an actual regularization penalty
+            best_regularized_d[regularization] = min((c for c in candidates if c["lmbda"] > 0), key=lambda c: c["val_mse"])
+
+        # Unregularized reference, using L1 results with lambda = 0
+        unregularized_candidates = []
+
+        for arch_name in architectures:
+            for eta, result in results_d[arch_name]["l1"][0.0].items():
+                unregularized_candidates.append({
+                    "architecture": arch_name,
+                    "eta": eta,
+                    "val_mse": result["val_cost_history"][-1],
+                    "result": result
+                })
+
+        best_unregularized_d = min(unregularized_candidates, key=lambda c: c["val_mse"])
+
+        print("\nPART D - BEST CONFIGURATIONS")
+
+        for regularization in ("l1", "l2"):
+
+            for label, configs in (("Best overall", best_overall_d), ("Best positive lambda", best_regularized_d)):
+                selected = configs[regularization]
+                print(
+                    f"{regularization.upper()} | {label} "
+                    f"| Architecture={selected['architecture']} "
+                    f"| lambda={selected['lmbda']:.1e} "
+                    f"| eta={selected['eta']:.3g} "
+                    f"| Val MSE={selected['val_mse']:.6f}"
+                )
+
+        print(
+            f"Unregularized reference: "
+            f"{best_unregularized_d['architecture']} | "
+            f"Val MSE={best_unregularized_d['val_mse']:.6f}"
+        )
+
+    # ============================================================
+    # Part d): Polynomial Ridge and Lasso references from project 1
+    # ============================================================
+
+        ridge_reference_d = fit_and_evaluate(x_fit, x_val, y_fit, y_val, degree=10, method="ridge", lmbda=1e-6)
+        lasso_reference_d = fit_and_evaluate(x_fit, x_val, y_fit, y_val, degree=14, method="lasso", lmbda=1e-4)
+
+        print("\nPROJECT 1 REGRESSION REFERENCES")
+        print(f"Ridge validation MSE: {ridge_reference_d['mse_test']:.6f}")
+        print(f"Lasso validation MSE: {lasso_reference_d['mse_test']:.6f}")
+
+    # ============================================================
+    # Part d): Generate figures
+    # ============================================================
+
+        plt_d_regularization_learning_curves(best_regularized_d, architectures, PLOTS_DIR_3, start_epoch=30)
+
+        print("-------------------------------------------------------------------------------")
+        print(" Find the resulting plots in P2/plots/part_3 ")
+        print("-------------------------------------------------------------------------------")
+
+
+
+
+
 

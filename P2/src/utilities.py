@@ -75,7 +75,7 @@ def fit_lasso(X, y, lmbda):
     if lmbda == 0:
         return fit_ols(X, y)
 
-    model = Lasso(alpha=lmbda / 2, fit_intercept=True, max_iter=100000, tol=1e-10)
+    model = Lasso(alpha=lmbda / 2, fit_intercept=True, max_iter=100000, tol=1e-4)
     model.fit(X[:, 1:], y)
 
     return np.r_[model.intercept_, model.coef_]
@@ -198,6 +198,17 @@ def softmax_vec(z):
     e_z = jnp.exp(z - jnp.max(z))
     return e_z/jnp.sum(e_z)
 
+def nn_regularization_penalty(layers, lmbda=0.0, regularization=None):
+    """Calculate the L1 or L2 penalty over all network weights."""
+
+    if regularization is None or lmbda == 0.0:
+        return 0.0
+    if regularization == "l1":
+        penalty = sum(np.sum(np.abs(W)) for W, b in layers)
+    elif regularization == "l2":
+        penalty = sum(np.sum(W**2) for W, b in layers)
+    return lmbda * penalty
+
 # ============================================================
 # Activation functions and their first derivatives
 # ============================================================
@@ -282,12 +293,11 @@ def sgd_learning_rate(step, eta0, schedule="constant", decay_scale=10.0):
     elif schedule == "inverse_time":
         return ( eta0 * decay_scale / (step + decay_scale) )
 
-
 def optimize_regression_stochastic(X, y, layers, activation_funcs, activation_ders,
                                    eta0=0.01, optimizer="sgd", batch_size=32,
                                    n_epochs=300, schedule="constant", decay_scale=10.0,
                                    seed=2026, rho=0.9, beta1=0.9, beta2=0.999, eps=1e-8,
-                                   X_val=None, y_val=None):
+                                   X_val=None, y_val=None, regularization=None, lmbda=0.0):
     """Train a neural network using mini-batch SGD, RMSprop or Adam."""
 
     n = len(y)
@@ -307,6 +317,7 @@ def optimize_regression_stochastic(X, y, layers, activation_funcs, activation_de
 
     # Initial training cost
     cost_history = [calculate_cost(X, y)]
+    objective_history = [cost_history[0] + nn_regularization_penalty(layers, lmbda, regularization)]
     # Initial validation cost
     val_cost_history = []
     if X_val is not None and y_val is not None:
@@ -324,7 +335,7 @@ def optimize_regression_stochastic(X, y, layers, activation_funcs, activation_de
             # Learning rate
             eta = sgd_learning_rate(update_count, eta0, schedule, decay_scale)
             # Backpropagation
-            layer_grads = backpropagation_batch(X_batch, y_batch, layers, activation_funcs, activation_ders)
+            layer_grads = backpropagation_batch(X_batch, y_batch, layers, activation_funcs, activation_ders, regularization=regularization, lmbda=lmbda)
             update_count += 1
 
             # Update each layer's weights and biases
@@ -341,12 +352,14 @@ def optimize_regression_stochastic(X, y, layers, activation_funcs, activation_de
                     parameter -= update
 
         cost_history.append(calculate_cost(X, y))
+        objective_history.append(cost_history[-1] + nn_regularization_penalty(layers, lmbda, regularization))
         if X_val is not None and y_val is not None:
             val_cost_history.append(calculate_cost(X_val, y_val))
 
     return {
         "layers": layers,
         "cost_history": np.asarray(cost_history),
+        "objective_history": np.asarray(objective_history),
         "val_cost_history": np.asarray(val_cost_history),
         "epochs": n_epochs,
         "updates": update_count
@@ -394,7 +407,7 @@ def feed_forward_saver_batch(X, layers, activation_funcs):
 
     return layer_inputs, zs, a
 
-def backpropagation_batch(X, y_true, layers, activation_funcs, activation_ders):
+def backpropagation_batch(X, y_true, layers, activation_funcs, activation_ders, regularization=None, lmbda=0.0):
     """Calculate gradients of all network weights and biases using backpropagation."""
     # Forward pass, saving intermediate values
     layer_inputs, zs, y_pred = feed_forward_saver_batch(X, layers, activation_funcs)
@@ -415,27 +428,38 @@ def backpropagation_batch(X, y_true, layers, activation_funcs, activation_ders):
         # Derivative with respect to the pre-activation
         dC_dz = dC_da * activation_ders[i](zs[i])
 
-        # Gradients of weights and biases
+        # Gradients of weights and biases from the MSE
         dC_dW = layer_inputs[i].T @ dC_dz
         dC_db = np.sum(dC_dz, axis=0)
 
+        # Add the regularization gradient to the weights
+        W, b = layers[i]
+
+        if regularization == "l1":
+            dC_dW += lmbda * np.sign(W)
+        elif regularization == "l2":
+            dC_dW += 2.0 * lmbda * W
+
+        # Biases are not regularized
         # Store the gradients
         layer_grads[i] = (dC_dW, dC_db)
 
     return layer_grads
 
 def gradient_check(X, y, layers, activation_funcs, activation_ders,
-                   h=1e-6, n_checks=5, seed=2026):
+                   h=1e-6, n_checks=5, seed=2026, regularization=None, lmbda=0.0):
     """Compare backpropagation gradients with central finite differences."""
     rng = np.random.default_rng(seed)
 
     # Analytical gradients from backpropagation
-    layer_grads = backpropagation_batch(X, y, layers, activation_funcs, activation_ders)
+    layer_grads = backpropagation_batch(X, y, layers, activation_funcs, activation_ders, regularization=regularization, lmbda=lmbda)
 
     # Cost function evaluated with the current network parameters
     def cost():
         _, _, y_pred = feed_forward_saver_batch(X, layers, activation_funcs)
-        return mean_squared_error(y, y_pred)
+        mse = mean_squared_error(y, y_pred)
+        penalty = nn_regularization_penalty(layers, lmbda, regularization)
+        return  mse + penalty
 
     max_error = 0.0
     failures = 0
