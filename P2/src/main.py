@@ -37,7 +37,8 @@ from plot_generator import (
     plt_ols_vs_nn,
     plt_activ_arch_comparison,
     plt_learning_curves,
-    plt_d_regularization_learning_curves
+    plt_d_regularization_learning_curves,
+    plt_d_final_comparison
 )
 
 # Path to the root P2 folder
@@ -307,6 +308,7 @@ if __name__ == "__main__":
         print("-------------------------------------------------------------------------------")
 
     if number == 2 or number == 3:
+
         # NN architectures to be explored
         architectures = {
             "1x50":       [1, 50, 1],
@@ -314,6 +316,9 @@ if __name__ == "__main__":
             "2x50":       [1, 50, 50, 1],
             "2x100":      [1, 100, 100, 1]
         }
+
+        x_grid = np.linspace(-1.0, 1.0, 500)
+        y_exact = runge(x_grid)
 
     if number == 2:
     # ============================================================
@@ -493,16 +498,14 @@ if __name__ == "__main__":
     # ============================================================
     # Part c): Final fitted-function comparison
     # ============================================================
-
-        x_grid = np.linspace(-1.0, 1.0, 500)
-        y_exact = runge(x_grid)
+        
+        X_grid_nn = scale_inputs(x_grid.reshape(-1, 1), train_means, train_stds)
         # Polynomial OLS prediction
         X_grid_ols = design_matrix(x_grid, 14)
         X_grid_ols = scale_design_matrix(X_grid_ols, ols_result_c["feature_means"], ols_result_c["feature_stds"])
         y_ols_grid = predict(X_grid_ols, ols_result_c["theta"])
 
         # Neural-network predictions: selected Part c model only
-        X_grid_nn = scale_inputs(x_grid.reshape(-1, 1), train_means, train_stds)
         selected_result = final_results_c[selected_model_name]
         _, _, y_grid_pred = feed_forward_saver_batch(X_grid_nn, selected_result["layers"], selected_result["activations"])
         nn_predictions_c = {selected_model_name: y_grid_pred.ravel()}
@@ -521,7 +524,7 @@ if __name__ == "__main__":
     # ============================================================
 
         regularization_options = ["l1", "l2"]
-        lambdas_d = [0.0, 1e-8, 1e-6, 1e-4, 1e-2]
+        lambdas_d = [0.0, 1e-8, 1e-6, 1e-4, 1e-2, 1e-1]
         learning_rates_d = [0.001, 0.01]
         results_d = {}
 
@@ -621,10 +624,7 @@ if __name__ == "__main__":
             f"Val MSE={best_unregularized_d['val_mse']:.6f}"
         )
 
-    # ============================================================
-    # Part d): Polynomial Ridge and Lasso references from project 1
-    # ============================================================
-
+        # Polynomial Ridge and Lasso validation references from project 1
         ridge_reference_d = fit_and_evaluate(x_fit, x_val, y_fit, y_val, degree=10, method="ridge", lmbda=1e-6)
         lasso_reference_d = fit_and_evaluate(x_fit, x_val, y_fit, y_val, degree=14, method="lasso", lmbda=1e-4)
 
@@ -632,11 +632,116 @@ if __name__ == "__main__":
         print(f"Ridge validation MSE: {ridge_reference_d['mse_test']:.6f}")
         print(f"Lasso validation MSE: {lasso_reference_d['mse_test']:.6f}")
 
+        # Generate learning curve figures
+        plt_d_regularization_learning_curves(best_regularized_d, architectures, PLOTS_DIR_3, start_epoch=30)
+
     # ============================================================
-    # Part d): Generate figures
+    # Part d):Final held-out evaluation
     # ============================================================
 
-        plt_d_regularization_learning_curves(best_regularized_d, architectures, PLOTS_DIR_3, start_epoch=30)
+        # Prepare all 160 training observations and 40 test observations
+        (X_train_nn, X_test_nn, y_train_nn, y_test_nn, train_means, train_stds) = prepare_data(x_train, x_test, y_train, y_test)
+
+        # Selected configurations from Step D.3
+        models_d = {
+            "NN (unregularized)": (best_unregularized_d, None),
+            "NN (L1)": (best_regularized_d["l1"], "l1"),
+            "NN (L2)": (best_regularized_d["l2"], "l2")
+        }
+        final_results_d = {}
+
+        for model_name, (selected, regularization) in models_d.items():
+
+            architecture = architectures[selected["architecture"]]
+            eta = selected["eta"]
+            lmbda = selected.get("lmbda", 0.0)
+            n_hidden = len(architecture) - 2
+
+            # Reinitialize the network
+            layers = create_layers_batch(network_input_size=architecture[0], layer_output_sizes=architecture[1:], seed=2026, hidden_activation="relu")
+            activations = [relu] * n_hidden + [identity]
+            activation_ders = [relu_derivative] * n_hidden + [identity_derivative]
+
+            # Train using all 160 observations
+            result = optimize_regression_stochastic(X_train_nn, y_train_nn, layers, activations, activation_ders, eta0=eta, optimizer="adam",
+                                                    batch_size=32, n_epochs=300, schedule="constant", seed=2026, regularization=regularization, lmbda=lmbda)
+            trained_layers = result["layers"]
+
+            # Predictions
+            _, _, y_train_pred = feed_forward_saver_batch(X_train_nn, trained_layers, activations)
+            _, _, y_test_pred = feed_forward_saver_batch(X_test_nn, trained_layers, activations)
+
+            final_results_d[model_name] = {
+                "architecture": architecture,
+                "regularization": regularization,
+                "lmbda": lmbda,
+                "eta": eta,
+                "layers": trained_layers,
+                "activations": activations,
+                "mse_train": mean_squared_error(y_train_nn, y_train_pred),
+                "mse_test": mean_squared_error(y_test_nn, y_test_pred),
+                "r2_test": r2_score(y_test, y_test_pred.ravel())
+            }
+
+            print(f"\n{model_name}")
+            print(f"Architecture: {architecture}")
+            print(f"Lambda: {lmbda:.1e}")
+            print(f"Learning rate: {eta:g}")
+            print(f"Training MSE: {final_results_d[model_name]['mse_train']:.6f}")
+            print(f"Test MSE: {final_results_d[model_name]['mse_test']:.6f}")
+
+        # Polynomial OLS, Ridge and Lasso test references from project 1
+        polynomial_results_d = {
+            "OLS (degree 14)": fit_and_evaluate(x_train, x_test, y_train, y_test, degree=14, method="ols"),
+            "Ridge (degree 10)": fit_and_evaluate(x_train, x_test, y_train, y_test, degree=10, method="ridge", lmbda=1e-6),
+            "Lasso (degree 14)": fit_and_evaluate(x_train, x_test, y_train, y_test, degree=14, method="lasso", lmbda=1e-4)
+        }
+
+        print("\nFINAL PART D COMPARISON")
+        print(f"{'Model':<25} {'Train MSE':>12} {'Test MSE':>12} {'Test R2':>12}")
+        print("-" * 65)
+
+        for model_name, result in polynomial_results_d.items():
+            test_r2 = r2_score(y_test, result["y_test_pred"])
+            print(
+                f"{model_name:<25} "
+                f"{result['mse_train']:>12.6f} "
+                f"{result['mse_test']:>12.6f} "
+                f"{test_r2:>12.6f}"
+            )
+        for model_name, result in final_results_d.items():
+            print(
+                f"{model_name:<25} "
+                f"{result['mse_train']:>12.6f} "
+                f"{result['mse_test']:>12.6f} "
+                f"{result['r2_test']:>12.6f}"
+            )
+
+        # ============================================================
+        # Part d): Final fitted-function comparison
+        # ============================================================
+
+        X_grid_nn = scale_inputs(x_grid.reshape(-1, 1), train_means, train_stds)
+        nn_curves_d = {}
+        nn_architectures_d = {}
+
+        for penalty in ("L1", "L2"):
+            result = final_results_d[f"NN ({penalty})"]
+            _, _, y_grid_pred = feed_forward_saver_batch(X_grid_nn, result["layers"], result["activations"])
+            nn_curves_d[penalty] = y_grid_pred.ravel()
+            nn_architectures_d[penalty] = result["architecture"]
+
+        # Polynomial predictions, using each model's own scaling
+        polynomial_curves_d = {}
+        for regression, model_name, degree in (("Lasso", "Lasso (degree 14)", 14), ("Ridge", "Ridge (degree 10)", 10)):
+
+            result = polynomial_results_d[model_name]
+            X_grid_poly = design_matrix(x_grid, degree)
+            X_grid_poly = scale_design_matrix(X_grid_poly, result["feature_means"], result["feature_stds"])
+            polynomial_curves_d[regression] = predict(X_grid_poly, result["theta"])
+
+        # Save the final comparison
+        plt_d_final_comparison(x_train, y_train, x_test, y_test, x_grid, y_exact, nn_curves_d, polynomial_curves_d, nn_architectures_d, PLOTS_DIR_3)
 
         print("-------------------------------------------------------------------------------")
         print(" Find the resulting plots in P2/plots/part_3 ")

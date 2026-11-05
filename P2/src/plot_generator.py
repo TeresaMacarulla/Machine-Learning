@@ -239,3 +239,35 @@ def plt_d_regularization_learning_curves(best_regularized_d, architectures_d, pl
     fig.savefig(plots_dir / "NN_D_regularization_learning_curves.pdf", bbox_inches="tight")
     plt.close(fig)
 
+
+def plt_d_final_comparison(x_train, y_train, x_test, y_test, x_grid, y_exact, nn_curves, polynomial_curves, architectures, plots_dir):
+    """Compare regularized neural networks with Lasso and Ridge."""
+
+    fig, axes = plt.subplots(1, 2, figsize=(13, 5), sharey=True)
+    comparisons = [
+        ("L1", "Lasso", "L1 NN vs Lasso"),
+        ("L2", "Ridge", "L2 NN vs Ridge")
+    ]
+
+    for ax, (penalty, regression, title) in zip(axes, comparisons):
+        ax.scatter(x_train, y_train, s=12, alpha=0.25, label="Training observations")
+        ax.scatter(x_test, y_test, s=25, marker="x", label="Test observations")
+        ax.plot(x_grid, y_exact, "k-", linewidth=2, label="Exact Runge function")
+        degree = 14 if regression == "Lasso" else 10
+        ax.plot(x_grid, polynomial_curves[regression],"--", linewidth=2, label=f"{regression} (degree {degree})")
+        ax.plot(x_grid, nn_curves[penalty], linewidth=2, label=f"{penalty} ReLU NN {architectures[penalty]}")
+        ax.set_xlabel("x")
+        ax.set_title(title)
+        ax.grid(True, alpha=0.3)
+        ax.legend(fontsize=9)
+
+    axes[0].set_ylabel("y")
+    fig.tight_layout()
+
+    plots_dir = Path(plots_dir)
+    plots_dir.mkdir(parents=True, exist_ok=True)
+
+    fig.savefig(plots_dir / "NN_D_final_L1_L2_vs_Ridge_Lasso.pdf", bbox_inches="tight")
+
+    plt.close(fig)
+
