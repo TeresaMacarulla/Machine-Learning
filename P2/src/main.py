@@ -29,7 +29,10 @@ from utilities import (
     runge, 
     design_matrix, 
     scale_design_matrix, 
-    predict)
+    predict,
+    softmax, 
+    one_hot_encode,
+    multiclass_cross_entropy)
 
 from plot_generator import (
     plt_nn_optimizer_comparison,
@@ -38,7 +41,8 @@ from plot_generator import (
     plt_activ_arch_comparison,
     plt_learning_curves,
     plt_d_regularization_learning_curves,
-    plt_d_final_comparison
+    plt_d_final_comparison,
+    plt_e_learning_curves
 )
 
 # Path to the root P2 folder
@@ -49,10 +53,12 @@ PLOTS_DIR = PROJECT_ROOT / "plots"
 PLOTS_DIR_1 = PLOTS_DIR/ "part_1"
 PLOTS_DIR_2 = PLOTS_DIR/ "part_2"
 PLOTS_DIR_3 = PLOTS_DIR/ "part_3"
+PLOTS_DIR_4 = PLOTS_DIR/ "part_4"
 PLOTS_DIR.mkdir(parents=True, exist_ok=True)
 PLOTS_DIR_1.mkdir(parents=True, exist_ok=True)
 PLOTS_DIR_2.mkdir(parents=True, exist_ok=True)
 PLOTS_DIR_3.mkdir(parents=True, exist_ok=True)
+PLOTS_DIR_4.mkdir(parents=True, exist_ok=True)
 
 # ================================================================================
 # Part a): Prepare the data
@@ -92,6 +98,7 @@ if __name__ == "__main__":
     print("1: Compare two NN architectures and implement hyperparameter-selection.")
     print("2: Explore different activation functions and NN architectures.")
     print("3: Investigate L1 and L2 regularization.")
+    print("4: MNIST multiclass classification.")
     number = float(input("Choose a number: "))
     print()
 
@@ -746,6 +753,154 @@ if __name__ == "__main__":
         print("-------------------------------------------------------------------------------")
         print(" Find the resulting plots in P2/plots/part_3 ")
         print("-------------------------------------------------------------------------------")
+
+    if number == 4:
+
+    # ============================================================
+    # Part e): Multiclass classification using MNIST. Load and prepare the dataset
+    # ============================================================
+
+        MNIST_PATH = PROJECT_ROOT / "data" / "mnist.npz"
+
+        # Load the official training and test sets
+        with np.load(MNIST_PATH) as data:
+            X_mnist_train_raw = data["x_train"]
+            y_mnist_train_all = data["y_train"]
+            X_mnist_test_raw = data["x_test"]
+            y_mnist_test = data["y_test"]
+
+        # Flatten images and scale pixel intensities to [0, 1]
+        X_mnist_train_all = (X_mnist_train_raw.reshape(-1, 784).astype(np.float32) / 255.0)
+        X_mnist_test = (X_mnist_test_raw.reshape(-1, 784).astype(np.float32) / 255.0)
+
+        # Set aside 10% of the original training set for validation
+        X_mnist_fit, X_mnist_val, y_mnist_fit, y_mnist_val = (
+            train_test_split(X_mnist_train_all, y_mnist_train_all, test_size=0.1, random_state=2026, stratify=y_mnist_train_all)
+        )
+        print("Prepared MNIST shapes:")
+        print("Fitting:", X_mnist_fit.shape, y_mnist_fit.shape)
+        print("Validation:", X_mnist_val.shape, y_mnist_val.shape)
+        print("Test:", X_mnist_test.shape, y_mnist_test.shape)
+
+        Y_mnist_fit = one_hot_encode(y_mnist_fit)
+        Y_mnist_val = one_hot_encode(y_mnist_val)
+        print("Fitting target shape:", Y_mnist_fit.shape)
+        print("Validation target shape:", Y_mnist_val.shape)
+
+    # ============================================================
+    # Part e): Multinomial logistic-regression baseline and NN
+    # ============================================================
+
+        architectures_e = {
+            "Logistic regression" : [784, 10],
+            "NN 1": [784, 100, 10],
+            "NN 2": [784, 100, 100, 10]
+        }
+        results_e = {}
+
+        for network_name, architecture in architectures_e.items():
+
+            n_hidden = len(architecture) - 2
+            # He initialization for ReLU hidden layers
+            layers = create_layers_batch(network_input_size=architecture[0], layer_output_sizes=architecture[1:], seed=2026, hidden_activation="relu")
+            # ReLU hidden layers and softmax output
+            activations = [relu] * n_hidden + [softmax]
+            # No separate softmax derivative is needed
+            activation_ders = [relu_derivative] * n_hidden + [None]
+
+            # Train the network
+            result = optimize_regression_stochastic(X_mnist_fit, Y_mnist_fit, layers, activations, activation_ders, eta0=0.001,
+                                                    optimizer="adam", batch_size=128, n_epochs=15, schedule="constant", seed=2026,
+                                                    X_val=X_mnist_val, y_val=Y_mnist_val, task="classification")
+
+            results_e[network_name] = result
+
+            print(f"\n{network_name}")
+            print(f"Architecture: {architecture}")
+            print(f"Training cross-entropy: "
+                f"{result['cost_history'][-1]:.6f}")
+            print(f"Validation cross-entropy: "
+                f"{result['val_cost_history'][-1]:.6f}")
+            print(f"Training accuracy: "
+                f"{100 * result['accuracy_history'][-1]:.2f}%")
+            print(f"Validation accuracy: "
+                f"{100 * result['val_accuracy_history'][-1]:.2f}%")
+            
+        plt_e_learning_curves(results_e, PLOTS_DIR_4, start_epoch=1)
+
+        print("\nMNIST VALIDATION DIAGNOSTICS")
+
+        for model_name, result in results_e.items():
+            best_ce_epoch = np.argmin(result["val_cost_history"])
+            best_acc_epoch = np.argmax(result["val_accuracy_history"])
+            print(
+                f"{model_name}: "
+                f"Best CE epoch={best_ce_epoch}, "
+                f"Best accuracy epoch={best_acc_epoch}"
+            )
+
+    # ============================================================
+    # Part e): Learning-rate investigation
+    # ============================================================
+
+        learning_rates_e = [3e-4, 1e-3, 3e-3]
+        learning_rate_results_e = {}
+
+        for network_name, architecture in architectures_e.items():
+
+            # Reuse the eta=0.001 result from Step E.4.2
+            learning_rate_results_e[network_name] = {1e-3: results_e[network_name]}
+            n_hidden = len(architecture) - 2
+            activations = [relu] * n_hidden + [softmax]
+            activation_ders = [relu_derivative] * n_hidden + [None]
+
+            for eta in (3e-4, 3e-3):
+                # Same initialization for a controlled comparison
+                layers = create_layers_batch(architecture[0], architecture[1:], seed=2026, hidden_activation="relu")
+                result = optimize_regression_stochastic(X_mnist_fit, Y_mnist_fit, layers, activations, activation_ders, eta0=eta,
+                                                        optimizer="adam", batch_size=128, n_epochs=15, schedule="constant",
+                                                        seed=2026, X_val=X_mnist_val, y_val=Y_mnist_val, task="classification")
+                learning_rate_results_e[network_name][eta] = result
+
+        # Print all six configurations
+        print("\nMNIST LEARNING-RATE COMPARISON")
+        print(
+            f"{'Network':<8} {'Eta':>10} "
+            f"{'Train CE':>12} {'Val CE':>12} "
+            f"{'Train Acc':>12} {'Val Acc':>12}"
+        )
+        print("-" * 74)
+
+        for network_name, rate_results in learning_rate_results_e.items():
+            for eta, result in sorted(rate_results.items()):
+                print(
+                    f"{network_name:<8} "
+                    f"{eta:>10.4g} "
+                    f"{result['cost_history'][-1]:>12.5f} "
+                    f"{result['val_cost_history'][-1]:>12.5f} "
+                    f"{100 * result['accuracy_history'][-1]:>11.2f}% "
+                    f"{100 * result['val_accuracy_history'][-1]:>11.2f}%"
+                )
+
+        best_rates_e = {}
+
+        for network_name, rate_results in learning_rate_results_e.items():
+            best_eta, best_result = min(rate_results.items(), key=lambda item: (-item[1]["val_accuracy_history"][-1], item[1]["val_cost_history"][-1]))
+            best_rates_e[network_name] = {
+                "eta": best_eta,
+                "result": best_result
+            }
+            print(
+                f"\n{network_name} - Best learning rate: {best_eta:g}"
+                f"\nValidation accuracy: "
+                f"{100 * best_result['val_accuracy_history'][-1]:.2f}%"
+                f"\nValidation cross-entropy: "
+                f"{best_result['val_cost_history'][-1]:.6f}"
+            )
+
+
+
+    
 
 
 

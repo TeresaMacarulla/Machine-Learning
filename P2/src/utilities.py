@@ -1,8 +1,5 @@
 import numpy as np
 from sklearn.linear_model import Lasso
-import jax
-jax.config.update("jax_enable_x64", True)   # float64, so that the checks agree with numpy to 1e-15
-import jax.numpy as jnp
 
 # ============================================================
 # Basic functions from project 1
@@ -187,17 +184,6 @@ def mse_output_derivative(y_true, y_pred):
 
     return (2.0 / y_true.size) * (y_pred - y_true)
 
-# These are from weekly materials: they need to be checked 
-def softmax(z):
-    """Softmax of each row of the matrix z: one row of scores per sample."""
-    e_z = jnp.exp(z - jnp.max(z, axis=1, keepdims=True))
-    return e_z/jnp.sum(e_z, axis=1, keepdims=True)
-
-def softmax_vec(z):
-    """Softmax of a single vector of scores."""
-    e_z = jnp.exp(z - jnp.max(z))
-    return e_z/jnp.sum(e_z)
-
 def nn_regularization_penalty(layers, lmbda=0.0, regularization=None):
     """Calculate the L1 or L2 penalty over all network weights."""
 
@@ -208,6 +194,31 @@ def nn_regularization_penalty(layers, lmbda=0.0, regularization=None):
     elif regularization == "l2":
         penalty = sum(np.sum(W**2) for W, b in layers)
     return lmbda * penalty
+
+# These are for Classification analysis
+
+def softmax(z):
+    """Numerically stable softmax, applied row-wise."""
+    z = np.asarray(z, dtype=float)
+    z_shifted = z - np.max(z, axis=1, keepdims=True)
+    exp_z = np.exp(z_shifted)
+    return exp_z / np.sum(exp_z, axis=1, keepdims=True)
+
+def softmax_vec(z):
+    """Softmax for one vector of class scores."""
+    return softmax(np.asarray(z).reshape(1, -1))[0]
+
+def multiclass_cross_entropy(y_true, y_pred):
+    """Mean cross-entropy for one-hot targets and class probabilities."""
+    # Prevent log(0), which is undefined
+    probabilities = np.clip(y_pred, 1e-15, 1.0)
+    return -np.mean(np.sum(y_true * np.log(probabilities), axis=1))
+
+def classification_accuracy(y_true, y_pred):
+    """Classification accuracy for one-hot targets and class probabilities."""
+    true_classes = np.argmax(y_true, axis=1)
+    predicted_classes = np.argmax(y_pred, axis=1)
+    return np.mean(true_classes == predicted_classes)
 
 # ============================================================
 # Activation functions and their first derivatives
@@ -297,7 +308,7 @@ def optimize_regression_stochastic(X, y, layers, activation_funcs, activation_de
                                    eta0=0.01, optimizer="sgd", batch_size=32,
                                    n_epochs=300, schedule="constant", decay_scale=10.0,
                                    seed=2026, rho=0.9, beta1=0.9, beta2=0.999, eps=1e-8,
-                                   X_val=None, y_val=None, regularization=None, lmbda=0.0):
+                                   X_val=None, y_val=None, regularization=None, lmbda=0.0, task="regression"):
     """Train a neural network using mini-batch SGD, RMSprop or Adam."""
 
     n = len(y)
@@ -311,17 +322,34 @@ def optimize_regression_stochastic(X, y, layers, activation_funcs, activation_de
     first_moments = [[np.zeros_like(W), np.zeros_like(b)] for W, b in layers]
     second_moments = [[np.zeros_like(W), np.zeros_like(b)] for W, b in layers]
 
-    def calculate_cost(X_data, y_data):
+    def calculate_metrics(X_data, y_data):
         _, _, y_pred = feed_forward_saver_batch(X_data, layers, activation_funcs)
-        return mean_squared_error(y_data, y_pred)
+        if task == "classification":
+            loss = multiclass_cross_entropy(y_data, y_pred)
+            accuracy = classification_accuracy(y_data, y_pred)
+        else:
+            loss = mean_squared_error(y_data, y_pred)
+            accuracy = None
+        return loss, accuracy
 
-    # Initial training cost
-    cost_history = [calculate_cost(X, y)]
-    objective_history = [cost_history[0] + nn_regularization_penalty(layers, lmbda, regularization)]
-    # Initial validation cost
+    # Initial training loss and accuracy
+    train_loss, train_accuracy = calculate_metrics(X, y)
+    cost_history = [train_loss]
+    objective_history = [
+        train_loss + nn_regularization_penalty(layers, lmbda, regularization)
+    ]
+    accuracy_history = []
+    if task == "classification":
+        accuracy_history.append(train_accuracy)
+
+    # Initial validation loss and accuracy
     val_cost_history = []
+    val_accuracy_history = []
     if X_val is not None and y_val is not None:
-        val_cost_history.append(calculate_cost(X_val, y_val))
+        val_loss, val_accuracy = calculate_metrics(X_val, y_val)
+        val_cost_history.append(val_loss)
+        if task == "classification":
+            val_accuracy_history.append(val_accuracy)
     update_count = 0
 
     for epoch in range(n_epochs):
@@ -335,7 +363,7 @@ def optimize_regression_stochastic(X, y, layers, activation_funcs, activation_de
             # Learning rate
             eta = sgd_learning_rate(update_count, eta0, schedule, decay_scale)
             # Backpropagation
-            layer_grads = backpropagation_batch(X_batch, y_batch, layers, activation_funcs, activation_ders, regularization=regularization, lmbda=lmbda)
+            layer_grads = backpropagation_batch(X_batch, y_batch, layers, activation_funcs, activation_ders, regularization=regularization, lmbda=lmbda, task=task)
             update_count += 1
 
             # Update each layer's weights and biases
@@ -351,10 +379,19 @@ def optimize_regression_stochastic(X, y, layers, activation_funcs, activation_de
                          gradient, first_moments[i][j], second_moments[i][j], iteration=update_count, eta=eta, beta1=beta1, beta2=beta2, eps=eps)
                     parameter -= update
 
-        cost_history.append(calculate_cost(X, y))
-        objective_history.append(cost_history[-1] + nn_regularization_penalty(layers, lmbda, regularization))
+        # Training metrics after the epoch
+        train_loss, train_accuracy = calculate_metrics(X, y)
+        cost_history.append(train_loss)
+        objective_history.append(train_loss + nn_regularization_penalty(layers, lmbda, regularization))
+        if task == "classification":
+            accuracy_history.append(train_accuracy)
+
+        # Validation metrics after the epoch
         if X_val is not None and y_val is not None:
-            val_cost_history.append(calculate_cost(X_val, y_val))
+            val_loss, val_accuracy = calculate_metrics(X_val, y_val)
+            val_cost_history.append(val_loss)
+            if task == "classification":
+                val_accuracy_history.append(val_accuracy)
 
     return {
         "layers": layers,
@@ -362,7 +399,9 @@ def optimize_regression_stochastic(X, y, layers, activation_funcs, activation_de
         "objective_history": np.asarray(objective_history),
         "val_cost_history": np.asarray(val_cost_history),
         "epochs": n_epochs,
-        "updates": update_count
+        "updates": update_count,
+        "accuracy_history": np.asarray(accuracy_history),
+        "val_accuracy_history": np.asarray(val_accuracy_history),
     }
 
 # ============================================================
@@ -407,7 +446,7 @@ def feed_forward_saver_batch(X, layers, activation_funcs):
 
     return layer_inputs, zs, a
 
-def backpropagation_batch(X, y_true, layers, activation_funcs, activation_ders, regularization=None, lmbda=0.0):
+def backpropagation_batch(X, y_true, layers, activation_funcs, activation_ders, regularization=None, lmbda=0.0, task="regression"):
     """Calculate gradients of all network weights and biases using backpropagation."""
     # Forward pass, saving intermediate values
     layer_inputs, zs, y_pred = feed_forward_saver_batch(X, layers, activation_funcs)
@@ -415,24 +454,29 @@ def backpropagation_batch(X, y_true, layers, activation_funcs, activation_ders, 
     # Store the gradients of each layer
     layer_grads = [None] * len(layers)
 
-    # Work backwards, from the last layer to the first
+    # Work backwards, from the output layer to the first hidden layer
     for i in reversed(range(len(layers))):
+
         if i == len(layers) - 1:
-            # Derivative of MSE with respect to the output
-            dC_da = mse_output_derivative(y_true, y_pred)
+            # Output layer
+            if task == "classification":
+                # Softmax + cross-entropy
+                m = X.shape[0]
+                dC_dz = (y_pred - y_true) / m
+            else:
+                # Regression: MSE with the specified output activation
+                dC_da = mse_output_derivative(y_true, y_pred)
+                dC_dz = dC_da * activation_ders[i](zs[i])
         else:
-            # Propagate the error backwards through the next layer
+            # Hidden layers: unchanged backpropagation recursion
             W_next, b_next = layers[i + 1]
             dC_da = dC_dz @ W_next.T
+            dC_dz = dC_da * activation_ders[i](zs[i])
 
-        # Derivative with respect to the pre-activation
-        dC_dz = dC_da * activation_ders[i](zs[i])
-
-        # Gradients of weights and biases from the MSE
+        # Gradients of weights and biases
         dC_dW = layer_inputs[i].T @ dC_dz
         dC_db = np.sum(dC_dz, axis=0)
-
-        # Add the regularization gradient to the weights
+        # Optional regularization of weights
         W, b = layers[i]
 
         if regularization == "l1":
@@ -440,26 +484,28 @@ def backpropagation_batch(X, y_true, layers, activation_funcs, activation_ders, 
         elif regularization == "l2":
             dC_dW += 2.0 * lmbda * W
 
-        # Biases are not regularized
-        # Store the gradients
+        # Save this layer's gradients
         layer_grads[i] = (dC_dW, dC_db)
 
     return layer_grads
 
 def gradient_check(X, y, layers, activation_funcs, activation_ders,
-                   h=1e-6, n_checks=5, seed=2026, regularization=None, lmbda=0.0):
+                   h=1e-6, n_checks=5, seed=2026, regularization=None, lmbda=0.0, task="regression"):
     """Compare backpropagation gradients with central finite differences."""
     rng = np.random.default_rng(seed)
 
     # Analytical gradients from backpropagation
-    layer_grads = backpropagation_batch(X, y, layers, activation_funcs, activation_ders, regularization=regularization, lmbda=lmbda)
+    layer_grads = backpropagation_batch(X, y, layers, activation_funcs, activation_ders, regularization=regularization, lmbda=lmbda, task=task)
 
     # Cost function evaluated with the current network parameters
     def cost():
         _, _, y_pred = feed_forward_saver_batch(X, layers, activation_funcs)
-        mse = mean_squared_error(y, y_pred)
+        if task == "classification":
+            loss = multiclass_cross_entropy(y, y_pred)
+        else:
+            loss = mean_squared_error(y, y_pred)
         penalty = nn_regularization_penalty(layers, lmbda, regularization)
-        return  mse + penalty
+        return loss + penalty
 
     max_error = 0.0
     failures = 0
@@ -499,3 +545,11 @@ def gradient_check(X, y, layers, activation_funcs, activation_ders,
     print()
 
     return failures == 0
+
+# ============================================================
+# Classification analysis 
+# ============================================================
+
+def one_hot_encode(y, n_classes=10):
+    """Convert integer class labels into one-hot encoded rows."""
+    return np.eye(n_classes)[np.asarray(y, dtype=int)]
