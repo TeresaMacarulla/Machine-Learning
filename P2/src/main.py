@@ -1,10 +1,8 @@
 import numpy as np
-import argparse
 from sklearn.model_selection import train_test_split
-from sklearn.linear_model import Lasso
+from sklearn.neural_network import MLPClassifier
+from sklearn.metrics import confusion_matrix, classification_report
 from pathlib import Path
-import jax
-import jax.numpy as jnp
 
 from utilities import (
     artificial_data,
@@ -21,7 +19,7 @@ from utilities import (
     prepare_data,
     mean_squared_error,
     gradient_check,
-    optimize_regression_stochastic,
+    train_neural_network,
     fit_input_scaler, 
     scale_inputs,
     fit_and_evaluate,
@@ -42,7 +40,9 @@ from plot_generator import (
     plt_learning_curves,
     plt_d_regularization_learning_curves,
     plt_d_final_comparison,
-    plt_e_learning_curves
+    plt_e_learning_curves,
+    plt_e_activation_architecture_heatmaps,
+    plt_e_confusion_matrix
 )
 
 # Path to the root P2 folder
@@ -177,7 +177,7 @@ if __name__ == "__main__":
                 batch_size = len(X_fit_nn) if full_batch else 32
 
                 for eta in rates:
-                    result = optimize_regression_stochastic(X_fit_nn, y_fit_nn, layers, acts, ders, eta0=eta, optimizer=optimizer,
+                    result = train_neural_network(X_fit_nn, y_fit_nn, layers, acts, ders, eta0=eta, optimizer=optimizer,
                                                             batch_size=batch_size, n_epochs=300, schedule=schedule, seed=2026,
                                                             X_val=X_val_nn, y_val=y_val_nn)
                     tuning_results[network_name][method][eta] = result
@@ -232,7 +232,7 @@ if __name__ == "__main__":
             batch_size = len(X_train_nn) if full_batch else 32
 
             # Retrain using all 160 training observations
-            result = optimize_regression_stochastic(X_train_nn, y_train_nn, layers, acts, ders, eta0=selected["eta"], optimizer=optimizer, 
+            result = train_neural_network(X_train_nn, y_train_nn, layers, acts, ders, eta0=selected["eta"], optimizer=optimizer, 
                                                     batch_size=batch_size, n_epochs=300, schedule=schedule, seed=2026)
             trained_layers = result["layers"]
             _, _, y_train_pred = feed_forward_saver_batch(X_train_nn, trained_layers, acts)
@@ -362,7 +362,7 @@ if __name__ == "__main__":
                 results_c[arch_name][activation_name] = {}
 
                 for eta in learning_rates_c:
-                    result = optimize_regression_stochastic(X_fit_nn, y_fit_nn, layers, activations, activation_ders,
+                    result = train_neural_network(X_fit_nn, y_fit_nn, layers, activations, activation_ders,
                                                             eta0=eta, optimizer="adam", batch_size=32, n_epochs=300,
                                                             schedule="constant", seed=2026, X_val=X_val_nn, y_val=y_val_nn)
                     results_c[arch_name][activation_name][eta] = result
@@ -466,7 +466,7 @@ if __name__ == "__main__":
             activation_ders = [derivative] * n_hidden + [identity_derivative]
 
             # Train using the complete training dataset
-            result = optimize_regression_stochastic(X_train_nn, y_train_nn, layers, activations, activation_ders, eta0=eta, 
+            result = train_neural_network(X_train_nn, y_train_nn, layers, activations, activation_ders, eta0=eta, 
                                                     optimizer="adam", batch_size=32, n_epochs=300, schedule="constant", seed=2026)
             trained_layers = result["layers"]
 
@@ -554,7 +554,7 @@ if __name__ == "__main__":
                     results_d[arch_name][regularization][lmbda] = {}
 
                     for eta in learning_rates_d:
-                        result = optimize_regression_stochastic(X_fit_nn, y_fit_nn, layers, activations, activation_ders, eta0=eta, optimizer="adam", batch_size=32,
+                        result = train_neural_network(X_fit_nn, y_fit_nn, layers, activations, activation_ders, eta0=eta, optimizer="adam", batch_size=32,
                                                                 n_epochs=300, schedule="constant", seed=2026, X_val=X_val_nn, y_val=y_val_nn,
                                                                 regularization=regularization, lmbda=lmbda)
                         results_d[arch_name][regularization][lmbda][eta] = result
@@ -568,10 +568,7 @@ if __name__ == "__main__":
                             f"| Val MSE={val_mse:.6f}"
                         )
 
-    # ============================================================
-    # Part d): Select best models for comparison
-    # ============================================================
-
+        # Select best models for comparison
         best_overall_d = {}
         best_regularized_d = {}
 
@@ -593,13 +590,11 @@ if __name__ == "__main__":
 
             # Best model, allowing lambda = 0
             best_overall_d[regularization] = min(candidates, key=lambda c: c["val_mse"])
-
             # Best model with an actual regularization penalty
             best_regularized_d[regularization] = min((c for c in candidates if c["lmbda"] > 0), key=lambda c: c["val_mse"])
 
         # Unregularized reference, using L1 results with lambda = 0
         unregularized_candidates = []
-
         for arch_name in architectures:
             for eta, result in results_d[arch_name]["l1"][0.0].items():
                 unregularized_candidates.append({
@@ -608,13 +603,10 @@ if __name__ == "__main__":
                     "val_mse": result["val_cost_history"][-1],
                     "result": result
                 })
-
         best_unregularized_d = min(unregularized_candidates, key=lambda c: c["val_mse"])
 
         print("\nPART D - BEST CONFIGURATIONS")
-
         for regularization in ("l1", "l2"):
-
             for label, configs in (("Best overall", best_overall_d), ("Best positive lambda", best_regularized_d)):
                 selected = configs[regularization]
                 print(
@@ -624,7 +616,6 @@ if __name__ == "__main__":
                     f"| eta={selected['eta']:.3g} "
                     f"| Val MSE={selected['val_mse']:.6f}"
                 )
-
         print(
             f"Unregularized reference: "
             f"{best_unregularized_d['architecture']} | "
@@ -634,7 +625,6 @@ if __name__ == "__main__":
         # Polynomial Ridge and Lasso validation references from project 1
         ridge_reference_d = fit_and_evaluate(x_fit, x_val, y_fit, y_val, degree=10, method="ridge", lmbda=1e-6)
         lasso_reference_d = fit_and_evaluate(x_fit, x_val, y_fit, y_val, degree=14, method="lasso", lmbda=1e-4)
-
         print("\nPROJECT 1 REGRESSION REFERENCES")
         print(f"Ridge validation MSE: {ridge_reference_d['mse_test']:.6f}")
         print(f"Lasso validation MSE: {lasso_reference_d['mse_test']:.6f}")
@@ -643,7 +633,7 @@ if __name__ == "__main__":
         plt_d_regularization_learning_curves(best_regularized_d, architectures, PLOTS_DIR_3, start_epoch=30)
 
     # ============================================================
-    # Part d):Final held-out evaluation
+    # Part d): Final held-out evaluation
     # ============================================================
 
         # Prepare all 160 training observations and 40 test observations
@@ -663,17 +653,14 @@ if __name__ == "__main__":
             eta = selected["eta"]
             lmbda = selected.get("lmbda", 0.0)
             n_hidden = len(architecture) - 2
-
             # Reinitialize the network
             layers = create_layers_batch(network_input_size=architecture[0], layer_output_sizes=architecture[1:], seed=2026, hidden_activation="relu")
             activations = [relu] * n_hidden + [identity]
             activation_ders = [relu_derivative] * n_hidden + [identity_derivative]
-
             # Train using all 160 observations
-            result = optimize_regression_stochastic(X_train_nn, y_train_nn, layers, activations, activation_ders, eta0=eta, optimizer="adam",
+            result = train_neural_network(X_train_nn, y_train_nn, layers, activations, activation_ders, eta0=eta, optimizer="adam",
                                                     batch_size=32, n_epochs=300, schedule="constant", seed=2026, regularization=regularization, lmbda=lmbda)
             trained_layers = result["layers"]
-
             # Predictions
             _, _, y_train_pred = feed_forward_saver_batch(X_train_nn, trained_layers, activations)
             _, _, y_test_pred = feed_forward_saver_batch(X_test_nn, trained_layers, activations)
@@ -689,7 +676,6 @@ if __name__ == "__main__":
                 "mse_test": mean_squared_error(y_test_nn, y_test_pred),
                 "r2_test": r2_score(y_test, y_test_pred.ravel())
             }
-
             print(f"\n{model_name}")
             print(f"Architecture: {architecture}")
             print(f"Lambda: {lmbda:.1e}")
@@ -703,7 +689,6 @@ if __name__ == "__main__":
             "Ridge (degree 10)": fit_and_evaluate(x_train, x_test, y_train, y_test, degree=10, method="ridge", lmbda=1e-6),
             "Lasso (degree 14)": fit_and_evaluate(x_train, x_test, y_train, y_test, degree=14, method="lasso", lmbda=1e-4)
         }
-
         print("\nFINAL PART D COMPARISON")
         print(f"{'Model':<25} {'Train MSE':>12} {'Test MSE':>12} {'Test R2':>12}")
         print("-" * 65)
@@ -741,7 +726,6 @@ if __name__ == "__main__":
         # Polynomial predictions, using each model's own scaling
         polynomial_curves_d = {}
         for regression, model_name, degree in (("Lasso", "Lasso (degree 14)", 14), ("Ridge", "Ridge (degree 10)", 10)):
-
             result = polynomial_results_d[model_name]
             X_grid_poly = design_matrix(x_grid, degree)
             X_grid_poly = scale_design_matrix(X_grid_poly, result["feature_means"], result["feature_stds"])
@@ -749,12 +733,24 @@ if __name__ == "__main__":
 
         # Save the final comparison
         plt_d_final_comparison(x_train, y_train, x_test, y_test, x_grid, y_exact, nn_curves_d, polynomial_curves_d, nn_architectures_d, PLOTS_DIR_3)
-
         print("-------------------------------------------------------------------------------")
         print(" Find the resulting plots in P2/plots/part_3 ")
         print("-------------------------------------------------------------------------------")
 
     if number == 4:
+
+        print(" OPTION MENU ")
+        print("-------------------------------------------------------------------------------")
+        print("1: Multinomial logistic-regression baseline and NN comparison.")
+        print("2: Learning-rate investigation.")
+        print("3: Activation functions, width and depth investigation.")
+        print("4: L1 and L2 regularization.")
+        print("5: Early stopping.")
+        print("6: Final validation of the leading configuration and Scikit-learn MLP reference.")
+        print("7: Final models run with configurations.")
+        print("Recomendable to run in order from 1 to 7 to follow the parameter selection logic.")
+        number2 = float(input("Choose a number: "))
+        print()
 
     # ============================================================
     # Part e): Multiclass classification using MNIST. Load and prepare the dataset
@@ -777,27 +773,17 @@ if __name__ == "__main__":
         X_mnist_fit, X_mnist_val, y_mnist_fit, y_mnist_val = (
             train_test_split(X_mnist_train_all, y_mnist_train_all, test_size=0.1, random_state=2026, stratify=y_mnist_train_all)
         )
-        print("Prepared MNIST shapes:")
-        print("Fitting:", X_mnist_fit.shape, y_mnist_fit.shape)
-        print("Validation:", X_mnist_val.shape, y_mnist_val.shape)
-        print("Test:", X_mnist_test.shape, y_mnist_test.shape)
 
         Y_mnist_fit = one_hot_encode(y_mnist_fit)
         Y_mnist_val = one_hot_encode(y_mnist_val)
-        print("Fitting target shape:", Y_mnist_fit.shape)
-        print("Validation target shape:", Y_mnist_val.shape)
-
-    # ============================================================
-    # Part e): Multinomial logistic-regression baseline and NN
-    # ============================================================
 
         architectures_e = {
-            "Logistic regression" : [784, 10],
+            "Logistic reg." : [784, 10],
             "NN 1": [784, 100, 10],
             "NN 2": [784, 100, 100, 10]
         }
-        results_e = {}
 
+        results_e = {}
         for network_name, architecture in architectures_e.items():
 
             n_hidden = len(architecture) - 2
@@ -809,10 +795,9 @@ if __name__ == "__main__":
             activation_ders = [relu_derivative] * n_hidden + [None]
 
             # Train the network
-            result = optimize_regression_stochastic(X_mnist_fit, Y_mnist_fit, layers, activations, activation_ders, eta0=0.001,
-                                                    optimizer="adam", batch_size=128, n_epochs=15, schedule="constant", seed=2026,
-                                                    X_val=X_mnist_val, y_val=Y_mnist_val, task="classification")
-
+            result = train_neural_network(X_mnist_fit, Y_mnist_fit, layers, activations, activation_ders, eta0=0.001,
+                                                        optimizer="adam", batch_size=128, n_epochs=15, schedule="constant", seed=2026,
+                                                        X_val=X_mnist_val, y_val=Y_mnist_val, task="classification")
             results_e[network_name] = result
 
             print(f"\n{network_name}")
@@ -825,78 +810,477 @@ if __name__ == "__main__":
                 f"{100 * result['accuracy_history'][-1]:.2f}%")
             print(f"Validation accuracy: "
                 f"{100 * result['val_accuracy_history'][-1]:.2f}%")
-            
-        plt_e_learning_curves(results_e, PLOTS_DIR_4, start_epoch=1)
 
-        print("\nMNIST VALIDATION DIAGNOSTICS")
+        if number2 == 1:
+        # ============================================================
+        # Part e): Multinomial logistic-regression baseline and NN
+        # ============================================================                
+            plt_e_learning_curves(results_e, PLOTS_DIR_4, start_epoch=1)
 
-        for model_name, result in results_e.items():
-            best_ce_epoch = np.argmin(result["val_cost_history"])
-            best_acc_epoch = np.argmax(result["val_accuracy_history"])
-            print(
-                f"{model_name}: "
-                f"Best CE epoch={best_ce_epoch}, "
-                f"Best accuracy epoch={best_acc_epoch}"
-            )
+            print("\nMNIST VALIDATION DIAGNOSTICS")
 
-    # ============================================================
-    # Part e): Learning-rate investigation
-    # ============================================================
-
-        learning_rates_e = [3e-4, 1e-3, 3e-3]
-        learning_rate_results_e = {}
-
-        for network_name, architecture in architectures_e.items():
-
-            # Reuse the eta=0.001 result from Step E.4.2
-            learning_rate_results_e[network_name] = {1e-3: results_e[network_name]}
-            n_hidden = len(architecture) - 2
-            activations = [relu] * n_hidden + [softmax]
-            activation_ders = [relu_derivative] * n_hidden + [None]
-
-            for eta in (3e-4, 3e-3):
-                # Same initialization for a controlled comparison
-                layers = create_layers_batch(architecture[0], architecture[1:], seed=2026, hidden_activation="relu")
-                result = optimize_regression_stochastic(X_mnist_fit, Y_mnist_fit, layers, activations, activation_ders, eta0=eta,
-                                                        optimizer="adam", batch_size=128, n_epochs=15, schedule="constant",
-                                                        seed=2026, X_val=X_mnist_val, y_val=Y_mnist_val, task="classification")
-                learning_rate_results_e[network_name][eta] = result
-
-        # Print all six configurations
-        print("\nMNIST LEARNING-RATE COMPARISON")
-        print(
-            f"{'Network':<8} {'Eta':>10} "
-            f"{'Train CE':>12} {'Val CE':>12} "
-            f"{'Train Acc':>12} {'Val Acc':>12}"
-        )
-        print("-" * 74)
-
-        for network_name, rate_results in learning_rate_results_e.items():
-            for eta, result in sorted(rate_results.items()):
+            for model_name, result in results_e.items():
+                best_ce_epoch = np.argmin(result["val_cost_history"])
+                best_acc_epoch = np.argmax(result["val_accuracy_history"])
                 print(
-                    f"{network_name:<8} "
-                    f"{eta:>10.4g} "
-                    f"{result['cost_history'][-1]:>12.5f} "
-                    f"{result['val_cost_history'][-1]:>12.5f} "
-                    f"{100 * result['accuracy_history'][-1]:>11.2f}% "
-                    f"{100 * result['val_accuracy_history'][-1]:>11.2f}%"
+                    f"{model_name}: "
+                    f"Best CE epoch={best_ce_epoch}, "
+                    f"Best accuracy epoch={best_acc_epoch}"
                 )
 
-        best_rates_e = {}
+            print("-------------------------------------------------------------------------------")
+            print(" Find the resulting plots in P2/plots/part_4 ")
+            print("-------------------------------------------------------------------------------")
 
-        for network_name, rate_results in learning_rate_results_e.items():
-            best_eta, best_result = min(rate_results.items(), key=lambda item: (-item[1]["val_accuracy_history"][-1], item[1]["val_cost_history"][-1]))
-            best_rates_e[network_name] = {
-                "eta": best_eta,
-                "result": best_result
-            }
+        if number2 == 2:
+        # ============================================================
+        # Part e): Learning-rate investigation
+        # ============================================================
+            learning_rates_e = [3e-4, 1e-3, 3e-3]
+            learning_rate_results_e = {}
+
+            for network_name, architecture in architectures_e.items():
+
+                # Reuse the eta=0.001 result from Step E.4.2
+                learning_rate_results_e[network_name] = {1e-3: results_e[network_name]}
+                n_hidden = len(architecture) - 2
+                activations = [relu] * n_hidden + [softmax]
+                activation_ders = [relu_derivative] * n_hidden + [None]
+
+                for eta in (3e-4, 3e-3):
+                    # Same initialization for a controlled comparison
+                    layers = create_layers_batch(architecture[0], architecture[1:], seed=2026, hidden_activation="relu")
+                    result = train_neural_network(X_mnist_fit, Y_mnist_fit, layers, activations, activation_ders, eta0=eta,
+                                                            optimizer="adam", batch_size=128, n_epochs=15, schedule="constant",
+                                                            seed=2026, X_val=X_mnist_val, y_val=Y_mnist_val, task="classification")
+                    learning_rate_results_e[network_name][eta] = result
+
+            # Print all six configurations
+            print("\nMNIST LEARNING-RATE COMPARISON")
             print(
-                f"\n{network_name} - Best learning rate: {best_eta:g}"
-                f"\nValidation accuracy: "
-                f"{100 * best_result['val_accuracy_history'][-1]:.2f}%"
-                f"\nValidation cross-entropy: "
-                f"{best_result['val_cost_history'][-1]:.6f}"
+                f"{'Network':<8} {'Eta':>10} "
+                f"{'Train CE':>12} {'Val CE':>12} "
+                f"{'Train Acc':>12} {'Val Acc':>12}"
             )
+            print("-" * 74)
+
+            for network_name, rate_results in learning_rate_results_e.items():
+                for eta, result in sorted(rate_results.items()):
+                    print(
+                        f"{network_name:<8} "
+                        f"{eta:>10.4g} "
+                        f"{result['cost_history'][-1]:>12.5f} "
+                        f"{result['val_cost_history'][-1]:>12.5f} "
+                        f"{100 * result['accuracy_history'][-1]:>11.2f}% "
+                        f"{100 * result['val_accuracy_history'][-1]:>11.2f}%"
+                    )
+
+            best_rates_e = {}
+            for network_name, rate_results in learning_rate_results_e.items():
+                best_eta, best_result = min(rate_results.items(), key=lambda item: (-item[1]["val_accuracy_history"][-1], item[1]["val_cost_history"][-1]))
+                best_rates_e[network_name] = {
+                    "eta": best_eta,
+                    "result": best_result
+                }
+                print(
+                    f"\n{network_name} - Best learning rate: {best_eta:g}"
+                    f"\nValidation accuracy: "
+                    f"{100 * best_result['val_accuracy_history'][-1]:.2f}%"
+                    f"\nValidation cross-entropy: "
+                    f"{best_result['val_cost_history'][-1]:.6f}"
+                )
+        
+        if number2 == 3:
+        # ============================================================
+        # Part e): Activation functions, width and depth
+        # ============================================================
+            architectures_e_b = {
+                "1x50":  [784, 50, 10],
+                "1x100": [784, 100, 10],
+                "2x50":  [784, 50, 50, 10],
+                "2x100": [784, 100, 100, 10]
+            }
+            activation_options_e_b = {
+                "sigmoid": (sigmoid, sigmoid_derivative),
+                "relu": (relu, relu_derivative),
+                "leaky_relu": (leaky_relu, leaky_relu_derivative)
+            }
+            # Existing ReLU results from previous step
+            reused_relu_e = {
+                "1x100": results_e["NN 1"],
+                "2x100": results_e["NN 2"]
+            }
+            activation_arch_results_e = {}
+
+            for arch_name, architecture in architectures_e_b.items():
+                activation_arch_results_e[arch_name] = {}
+                n_hidden = len(architecture) - 2
+
+                for activation_name, (activation, derivative) in activation_options_e_b.items():
+                    if activation_name == "relu" and arch_name in reused_relu_e:
+                        # These models were already trained with eta=0.001
+                        result = reused_relu_e[arch_name]
+                    else:
+                        # Initialize for the chosen hidden activation
+                        layers = create_layers_batch(network_input_size=architecture[0], layer_output_sizes=architecture[1:], seed=2026, hidden_activation=activation_name)
+                        activations = [activation] * n_hidden + [softmax]
+                        activation_ders = [derivative] * n_hidden + [None]
+                        result = train_neural_network(X_mnist_fit, Y_mnist_fit, layers, activations, activation_ders, eta0=0.001, optimizer="adam",
+                                                                batch_size=128, n_epochs=15, schedule="constant", seed=2026, X_val=X_mnist_val, y_val=Y_mnist_val, task="classification")
+
+                    activation_arch_results_e[arch_name][activation_name] = result
+
+            # Print results
+            print("\nMNIST ACTIVATION / ARCHITECTURE COMPARISON")
+            print(
+                f"{'Architecture':<13} {'Activation':<12} "
+                f"{'Train CE':>10} {'Val CE':>10} "
+                f"{'Train Acc':>11} {'Val Acc':>11} "
+                f"{'Best CE epoch':>14}"
+            )
+            print("-" * 89)
+
+            for arch_name, activation_results in activation_arch_results_e.items():
+
+                for activation_name, result in activation_results.items():
+                    train_ce = result["cost_history"][-1]
+                    val_ce = result["val_cost_history"][-1]
+                    train_acc = result["accuracy_history"][-1]
+                    val_acc = result["val_accuracy_history"][-1]
+                    best_ce_epoch = int(np.argmin(result["val_cost_history"]))
+                    print(
+                        f"{arch_name:<13} "
+                        f"{activation_name:<12} "
+                        f"{train_ce:>10.5f} "
+                        f"{val_ce:>10.5f} "
+                        f"{100 * train_acc:>10.2f}% "
+                        f"{100 * val_acc:>10.2f}% "
+                        f"{best_ce_epoch:>14d}"
+                    )
+
+            # Select best configurations
+            best_configs_e_b = {}
+            print("\nBEST ACTIVATION FOR EACH ARCHITECTURE")
+
+            for arch_name, activation_results in activation_arch_results_e.items():
+
+                best_activation, best_result = min(
+                    activation_results.items(),
+                    key=lambda item: (
+                        -item[1]["val_accuracy_history"][-1],
+                        item[1]["val_cost_history"][-1]
+                    )
+                )
+                best_configs_e_b[arch_name] = {
+                    "architecture": architectures_e_b[arch_name],
+                    "activation": best_activation,
+                    "eta": 0.001,
+                    "result": best_result
+                }
+                print(
+                    f"{arch_name}: "
+                    f"Activation={best_activation}, "
+                    f"Val accuracy={100 * best_result['val_accuracy_history'][-1]:.2f}%, "
+                    f"Val CE={best_result['val_cost_history'][-1]:.5f}"
+                )
+
+            plt_e_activation_architecture_heatmaps(activation_arch_results_e, PLOTS_DIR_4)
+
+            print("-------------------------------------------------------------------------------")
+            print(" Find the resulting plots in P2/plots/part_4 ")
+            print("-------------------------------------------------------------------------------")
+        
+        if number2 == 4:
+        # ============================================================
+        # Part e): L1 and L2 regularization
+        # ============================================================
+            architecture_e_reg = [784, 100, 10]
+            regularization_grid_e = {
+                "None": (None, [0.0]),
+                "L1": ("l1", [1e-6, 1e-5, 1e-4]),
+                "L2": ("l2", [1e-5, 1e-4, 1e-3])
+            }
+            regularization_results_e = {}
+
+            for reg_name, (regularization, lambda_values) in regularization_grid_e.items():
+                regularization_results_e[reg_name] = {}
+
+                for lmbda in lambda_values:
+
+                    # Reinitialize with the same seed
+                    layers = create_layers_batch(network_input_size=architecture_e_reg[0], layer_output_sizes=architecture_e_reg[1:], seed=2026, hidden_activation="relu")
+                    activations = [relu, softmax]
+                    activation_ders = [relu_derivative, None]
+                    result = train_neural_network(X_mnist_fit, Y_mnist_fit, layers, activations, activation_ders, eta0=0.001, optimizer="adam",
+                                                            batch_size=128, n_epochs=15, schedule="constant", seed=2026, X_val=X_mnist_val, y_val=Y_mnist_val,
+                                                            regularization=regularization, lmbda=lmbda, task="classification")
+                    regularization_results_e[reg_name][lmbda] = result
+
+            # Print comparison
+            print("\nMNIST REGULARIZATION COMPARISON")
+            print(
+                f"{'Reg.':<7} {'Lambda':>10} "
+                f"{'Train CE':>11} {'Val CE':>11} "
+                f"{'Train Acc':>11} {'Val Acc':>11} "
+                f"{'Best CE epoch':>14}"
+            )
+            print("-" * 80)
+
+            for reg_name, lambda_results in regularization_results_e.items():
+
+                for lmbda, result in lambda_results.items():
+                    best_ce_epoch = int(np.argmin(result["val_cost_history"]))
+                    print(
+                        f"{reg_name:<7} "
+                        f"{lmbda:>10.1e} "
+                        f"{result['cost_history'][-1]:>11.5f} "
+                        f"{result['val_cost_history'][-1]:>11.5f} "
+                        f"{100 * result['accuracy_history'][-1]:>10.2f}% "
+                        f"{100 * result['val_accuracy_history'][-1]:>10.2f}% "
+                        f"{best_ce_epoch:>14d}"
+                    )
+
+            # Select the best configuration at epoch 15
+            candidates_e_reg = []
+
+            for reg_name, lambda_results in regularization_results_e.items():
+
+                for lmbda, result in lambda_results.items():
+                    candidates_e_reg.append({
+                        "regularization": reg_name,
+                        "lmbda": lmbda,
+                        "result": result,
+                        "val_accuracy": result["val_accuracy_history"][-1],
+                        "val_ce": result["val_cost_history"][-1]
+                    })
+
+            best_regularization_e = min(
+                candidates_e_reg,
+                key=lambda item: (
+                    -item["val_accuracy"],
+                    item["val_ce"]
+                )
+            )
+            print("\nBEST REGULARIZATION CONFIGURATION")
+            print("Regularization:", best_regularization_e["regularization"])
+            print(f"Lambda: {best_regularization_e['lmbda']:.1e}")
+            print(f"Validation accuracy: {100 * best_regularization_e['val_accuracy']:.2f}%")
+            print(f"Validation CE: {best_regularization_e['val_ce']:.6f}")
+            
+        if number2 == 5:
+        # ============================================================
+        # Part e): Early stopping
+        # ============================================================
+            early_stopping_models_e = {
+                "None": (None, 0.0),
+                "L2 (1e-5)": ("l2", 1e-5),
+                "L2 (1e-4)": ("l2", 1e-4)
+            }
+            early_stopping_results_e = {}
+
+            for model_name, (regularization, lmbda) in early_stopping_models_e.items():
+
+                layers = create_layers_batch(network_input_size=784, layer_output_sizes=[100, 10], seed=2026, hidden_activation="relu")
+                result = train_neural_network(X_mnist_fit, Y_mnist_fit, layers, [relu, softmax], [relu_derivative, None], eta0=0.001,
+                                                        optimizer="adam", batch_size=128, n_epochs=25, schedule="constant", seed=2026,
+                                                        X_val=X_mnist_val, y_val=Y_mnist_val, regularization=regularization, lmbda=lmbda,
+                                                        task="classification", early_stopping_patience=4)
+                early_stopping_results_e[model_name] = result
+
+            print("\nMNIST EARLY-STOPPING COMPARISON")
+            print(
+                f"{'Model':<14} {'Stopped':>9} {'Best epoch':>12} "
+                f"{'Best Val CE':>13} {'Val Acc':>11}"
+            )
+            print("-" * 65)
+
+            for model_name, result in early_stopping_results_e.items():
+                best_epoch = result["best_epoch"]
+                print(
+                    f"{model_name:<14} "
+                    f"{result['epochs']:>9d} "
+                    f"{best_epoch:>12d} "
+                    f"{result['val_cost_history'][best_epoch]:>13.5f} "
+                    f"{100 * result['val_accuracy_history'][best_epoch]:>10.2f}%"
+                )
+
+        if number2 == 6:
+        # ============================================================
+        # Part e): Final validation of the leading configuration and Scikit-learn MLP reference
+        # ============================================================
+
+            architecture_e_final = [784, 100, 10]
+            layers = create_layers_batch(network_input_size=784, layer_output_sizes=[100, 10], seed=2026, hidden_activation="relu")
+            candidate_e = train_neural_network(X_mnist_fit, Y_mnist_fit, layers, [relu, softmax], [relu_derivative, None], eta0=0.001,
+                                                         optimizer="adam", batch_size=128, n_epochs=40, schedule="constant", seed=2026, X_val=X_mnist_val,
+                                                         y_val=Y_mnist_val, regularization="l2", lmbda=1e-4, task="classification", early_stopping_patience=4)
+
+            # Select the checkpoint with the lowest validation CE
+            best_epoch_e = candidate_e["best_epoch"]
+            print("\nFINAL NN CANDIDATE")
+            print("Architecture:", architecture_e_final)
+            print("Regularization: L2, lambda=1e-4")
+            print("Learning rate: 0.001")
+            print("Epochs completed:", candidate_e["epochs"])
+            print("Selected checkpoint epoch:", best_epoch_e)
+            print(f"Best validation CE: {candidate_e['best_val_ce']:.6f}")
+            print(
+                f"Validation accuracy at selected checkpoint: "
+                f"{100 * candidate_e['val_accuracy_history'][best_epoch_e]:.2f}%"
+            )
+
+            # Verify that the saved checkpoint really corresponds to
+            # the recorded minimum validation loss
+            _, _, probabilities = feed_forward_saver_batch(
+                X_mnist_val,
+                candidate_e["best_layers"],
+                [relu, softmax]
+            )
+            checkpoint_ce = multiclass_cross_entropy(
+                Y_mnist_val, probabilities
+            )
+            assert np.isclose(checkpoint_ce, candidate_e["best_val_ce"])
+
+            # Scikit-learn MLP reference
+            sklearn_mlp_e = MLPClassifier(hidden_layer_sizes=(100,), activation="relu", solver="adam", alpha=0.0, batch_size=128,
+                                          learning_rate_init=0.001, max_iter=best_epoch_e, early_stopping=False, tol=0.0,
+                                          n_iter_no_change=best_epoch_e + 1, random_state=2026)
+            # Fit on the same 54,000 fitting observations
+            sklearn_mlp_e.fit(X_mnist_fit, y_mnist_fit)
+            # Evaluate on the same 6,000 validation observations
+            sklearn_val_probs = sklearn_mlp_e.predict_proba(X_mnist_val)
+            sklearn_val_predictions = sklearn_mlp_e.predict(X_mnist_val)
+            sklearn_val_ce = multiclass_cross_entropy(Y_mnist_val, sklearn_val_probs)
+            sklearn_val_accuracy = np.mean(sklearn_val_predictions == y_mnist_val)
+
+            print("\nSCIKIT-LEARN MLP REFERENCE")
+            print("Architecture: [784, 100, 10]")
+            print("Epochs completed:", sklearn_mlp_e.n_iter_)
+            print(f"Validation CE: {sklearn_val_ce:.6f}")
+            print(f"Validation accuracy: {100 * sklearn_val_accuracy:.2f}%")
+            print("\nCUSTOM NN VS SCIKIT-LEARN (VALIDATION)")
+            print(
+                f"Custom NN:   CE={candidate_e['best_val_ce']:.6f}, "
+                f"Accuracy={100 * candidate_e['val_accuracy_history'][best_epoch_e]:.2f}%"
+            )
+            print(
+                f"Scikit-learn: CE={sklearn_val_ce:.6f}, "
+                f"Accuracy={100 * sklearn_val_accuracy:.2f}%"
+            )
+
+        if number2 == 7: 
+        # ============================================================
+        # Parte): Final models - fixed configurations
+        # ============================================================
+            # Use all 60,000 MNIST training images
+            Y_mnist_train_all = one_hot_encode(y_mnist_train_all)
+            # One-hot targets for evaluating test cross-entropy
+            Y_mnist_test = one_hot_encode(y_mnist_test)
+
+            final_configs_e = {
+                "Logistic regression": {
+                    "architecture": [784, 10],
+                    "eta": 0.003,
+                    "epochs": 15,
+                    "regularization": None,
+                    "lmbda": 0.0
+                },
+                "NN (unregularized)": {
+                    "architecture": [784, 100, 10],
+                    "eta": 0.001,
+                    "epochs": 15,
+                    "regularization": None,
+                    "lmbda": 0.0
+                },
+                "NN (L2)": {
+                    "architecture": [784, 100, 10],
+                    "eta": 0.001,
+                    "epochs": 23,
+                    "regularization": "l2",
+                    "lmbda": 1e-4
+                }
+            }
+
+            final_results_e = {}
+            test_predictions_e = {}
+            test_probabilities_e = {}
+
+            for model_name, config in final_configs_e.items():
+
+                architecture = config["architecture"]
+                n_hidden = len(architecture) - 2
+                layers = create_layers_batch(network_input_size=architecture[0], layer_output_sizes=architecture[1:], seed=2026, hidden_activation="relu")
+                activations = [relu] * n_hidden + [softmax]
+                activation_ders = [relu_derivative] * n_hidden + [None]
+
+                # Retrain on all 60,000 images
+                result = train_neural_network(X_mnist_train_all, Y_mnist_train_all, layers, activations, activation_ders, eta0=config["eta"],
+                                                        optimizer="adam", batch_size=128, n_epochs=config["epochs"], schedule="constant", seed=2026,
+                                                        regularization=config["regularization"], lmbda=config["lmbda"], task="classification")
+                # Evaluate on official MNIST test set
+                _, _, probabilities = feed_forward_saver_batch(X_mnist_test, result["layers"], activations)
+                predictions = np.argmax(probabilities, axis=1)
+                test_ce = multiclass_cross_entropy(Y_mnist_test, probabilities)
+                test_accuracy = np.mean(predictions == y_mnist_test)
+
+                final_results_e[model_name] = {
+                    "train_ce": result["cost_history"][-1],
+                    "train_accuracy": result["accuracy_history"][-1],
+                    "test_ce": test_ce,
+                    "test_accuracy": test_accuracy,
+                    "epochs": config["epochs"]
+                }
+                test_predictions_e[model_name] = predictions
+                test_probabilities_e[model_name] = probabilities
+
+                print(f"\n{model_name}")
+                print("Architecture:", architecture)
+                print("Epochs:", config["epochs"])
+                print(f"Training CE: {result['cost_history'][-1]:.6f}")
+                print(f"Test CE: {test_ce:.6f}")
+                print(f"Training accuracy: {100 * result['accuracy_history'][-1]:.2f}%")
+                print(f"Test accuracy: {100 * test_accuracy:.2f}%")
+
+            # Confusion matrix and classification metrics
+            # Predictions from the validation-selected L2 network
+            y_pred_best_e = test_predictions_e["NN (L2)"]
+            cm_e = confusion_matrix(y_mnist_test, y_pred_best_e, labels=np.arange(10))
+            # Save the confusion matrix
+            plt_e_confusion_matrix(cm_e, PLOTS_DIR_4)
+
+            # Classification metrics for each digit
+            print("\nCLASSIFICATION REPORT - SELECTED L2 NN")
+            print(
+                classification_report(y_mnist_test, y_pred_best_e, labels=np.arange(10), digits=4, zero_division=0)
+            )
+            # Check consistency between confusion matrix and accuracy
+            accuracy_from_cm = np.trace(cm_e) / np.sum(cm_e)
+            assert np.isclose(accuracy_from_cm, final_results_e["NN (L2)"]["test_accuracy"])
+
+            # Identify the five most common misclassifications
+            errors = cm_e.copy()
+            np.fill_diagonal(errors, 0)
+            error_indices = np.argsort(errors, axis=None)[::-1]
+
+            print("\nMOST COMMON DIGIT CONFUSIONS")
+            count = 0
+            for index in error_indices:
+                true_digit, predicted_digit = np.unravel_index(index, errors.shape)
+                n_errors = errors[true_digit, predicted_digit]
+                if n_errors == 0 or count >= 5:
+                    break
+                print(
+                    f"Actual {true_digit} -> predicted {predicted_digit}: "
+                    f"{n_errors} images"
+                )
+                count += 1
+
+            print("-------------------------------------------------------------------------------")
+            print(" Find the resulting plots in P2/plots/part_4 ")
+            print("-------------------------------------------------------------------------------")
+
+
+
 
 
 

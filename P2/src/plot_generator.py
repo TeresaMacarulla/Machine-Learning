@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.colors import LogNorm
 from pathlib import Path
+from sklearn.metrics import ConfusionMatrixDisplay
 
 plt.rcParams.update({
     "font.size": 15,
@@ -305,4 +306,90 @@ def plt_e_learning_curves(results, plots_dir, start_epoch=1):
 
     fig.savefig(plots_dir / "MNIST_E_learning_curves.pdf",  bbox_inches="tight")
     plt.close(fig)
+
+
+def plt_e_activation_architecture_heatmaps(results, plots_dir):
+    """Compare MNIST activation functions and architectures."""
+
+    architectures = list(results.keys())
+    activations = ["sigmoid", "relu", "leaky_relu"]
+    val_accuracy = np.array([
+        [
+            100 * results[arch][act]["val_accuracy_history"][-1]
+            for act in activations
+        ]
+        for arch in architectures
+    ])
+
+    val_ce = np.array([
+        [
+            results[arch][act]["val_cost_history"][-1]
+            for act in activations
+        ]
+        for arch in architectures
+    ])
+
+    fig, axes = plt.subplots(1, 2, figsize=(12, 5))
+
+    for ax, values, title, fmt in [
+        (axes[0], val_accuracy, "Validation accuracy (%)", ".2f"),
+        (axes[1], val_ce, "Validation cross-entropy", ".3f")
+    ]:
+
+        im = ax.imshow(values, cmap="Blues", aspect="auto")
+
+        ax.set_xticks(range(len(activations)))
+        ax.set_xticklabels(
+            ["Sigmoid", "ReLU", "Leaky ReLU"]
+        )
+
+        ax.set_yticks(range(len(architectures)))
+        ax.set_yticklabels(architectures)
+
+        ax.set_xlabel("Hidden activation")
+        ax.set_ylabel("Architecture")
+        ax.set_title(title)
+
+        for i in range(values.shape[0]):
+            for j in range(values.shape[1]):
+
+                value = values[i, j]
+
+                ax.text(
+                    j, i,
+                    f"{value:{fmt}}",
+                    ha="center",
+                    va="center",
+                    color="white" if im.norm(value) > 0.55 else "black",
+                    fontsize=11
+                )
+
+        fig.colorbar(im, ax=ax, shrink=0.85)
+
+    fig.tight_layout()
+
+    plots_dir = Path(plots_dir)
+    plots_dir.mkdir(parents=True, exist_ok=True)
+
+    fig.savefig(
+        plots_dir / "MNIST_E_activation_architecture_heatmaps.pdf",
+        bbox_inches="tight"
+    )
+
+    plt.close(fig)
+
+
+def plt_e_confusion_matrix(cm, plots_dir):
+    """Save the MNIST confusion matrix as a PDF."""
+    fig, ax = plt.subplots(figsize=(9, 8))
+    display = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=np.arange(10))
+    display.plot(ax=ax, cmap="Blues", values_format="d",colorbar=False)
+    ax.set_title("MNIST test confusion matrix - L2 ReLU NN")
+
+    fig.tight_layout()
+    plots_dir = Path(plots_dir)
+    plots_dir.mkdir(parents=True, exist_ok=True)
+    fig.savefig(plots_dir / "MNIST_E_confusion_matrix.pdf", bbox_inches="tight")
+    plt.close(fig)
+
 

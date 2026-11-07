@@ -304,11 +304,12 @@ def sgd_learning_rate(step, eta0, schedule="constant", decay_scale=10.0):
     elif schedule == "inverse_time":
         return ( eta0 * decay_scale / (step + decay_scale) )
 
-def optimize_regression_stochastic(X, y, layers, activation_funcs, activation_ders,
+def train_neural_network(X, y, layers, activation_funcs, activation_ders,
                                    eta0=0.01, optimizer="sgd", batch_size=32,
                                    n_epochs=300, schedule="constant", decay_scale=10.0,
                                    seed=2026, rho=0.9, beta1=0.9, beta2=0.999, eps=1e-8,
-                                   X_val=None, y_val=None, regularization=None, lmbda=0.0, task="regression"):
+                                   X_val=None, y_val=None, regularization=None, lmbda=0.0, 
+                                   task="regression", early_stopping_patience=None):
     """Train a neural network using mini-batch SGD, RMSprop or Adam."""
 
     n = len(y)
@@ -352,6 +353,20 @@ def optimize_regression_stochastic(X, y, layers, activation_funcs, activation_de
             val_accuracy_history.append(val_accuracy)
     update_count = 0
 
+    # Early-stopping setup
+    best_layers = None
+    best_epoch = None
+    best_val_ce = None
+    epochs_without_improvement = 0
+
+    if early_stopping_patience is not None:
+        if X_val is None or y_val is None:
+            raise ValueError("Early stopping requires validation data.")
+        # Initially, the best model is the untrained network (epoch 0)
+        best_layers = [(W.copy(), b.copy()) for W, b in layers]
+        best_epoch = 0
+        best_val_ce = val_cost_history[0]
+
     for epoch in range(n_epochs):
         # Shuffle observations
         indices = rng.permutation(n)
@@ -393,15 +408,32 @@ def optimize_regression_stochastic(X, y, layers, activation_funcs, activation_de
             if task == "classification":
                 val_accuracy_history.append(val_accuracy)
 
+        # Early-stopping check, after recording validation metrics
+        if early_stopping_patience is not None:
+            if val_loss < best_val_ce:
+                # Save the new best model
+                best_val_ce = val_loss
+                best_epoch = epoch + 1
+                best_layers = [(W.copy(), b.copy()) for W, b in layers]
+                epochs_without_improvement = 0
+            else:
+                epochs_without_improvement += 1
+            # Stop after consecutive epochs without improvement
+            if epochs_without_improvement >= early_stopping_patience:
+                break
+
     return {
         "layers": layers,
         "cost_history": np.asarray(cost_history),
         "objective_history": np.asarray(objective_history),
         "val_cost_history": np.asarray(val_cost_history),
-        "epochs": n_epochs,
+        "epochs": len(cost_history) - 1,
         "updates": update_count,
         "accuracy_history": np.asarray(accuracy_history),
         "val_accuracy_history": np.asarray(val_accuracy_history),
+        "best_layers": best_layers,
+        "best_epoch": best_epoch,
+        "best_val_ce": best_val_ce,
     }
 
 # ============================================================
