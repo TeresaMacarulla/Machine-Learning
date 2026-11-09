@@ -93,6 +93,7 @@ y_val_nn = y_val.reshape(-1, 1)
 
 if __name__ == "__main__":
 
+    print("-------------------------------------------------------------------------------")
     print(" OPTION MENU ")
     print("-------------------------------------------------------------------------------")
     print("1: Compare two NN architectures and implement hyperparameter-selection.")
@@ -128,12 +129,12 @@ if __name__ == "__main__":
 
         # Network 1: [1, 50, 1]
         print()
-        print("Network 1:")
+        print("Network 1: 1x50")
         check_1 = gradient_check(X_fit_nn, y_fit_nn, layers_1, activations_1, activation_ders_1)
         print()
 
         # Network 2: [1, 100, 100, 1]
-        print("Network 2:")
+        print("Network 2: 2x100")
         check_2 = gradient_check(X_fit_nn, y_fit_nn, layers_2, activations_2, activation_ders_2)
         print()
 
@@ -428,7 +429,7 @@ if __name__ == "__main__":
         )
         best_eta = best_configs_c[best_arch_name][best_activation_name]["eta"]
 
-        print("\nBEST PART C CONFIGURATION")
+        print("\nBEST CONFIGURATION")
         print(f"Architecture: {architectures[best_arch_name]}")
         print(f"Activation: {best_activation_name}")
         print(f"Learning rate: {best_eta}")
@@ -484,7 +485,7 @@ if __name__ == "__main__":
         # OLS benchmark on the identical train/test split
         ols_result_c = fit_and_evaluate(x_train, x_test, y_train, y_test, degree=14, method="ols")
 
-        print("\nFINAL PART C COMPARISON")
+        print("\nFINAL COMPARISON")
         print(f"{'Model':<35} {'Train MSE':>12} {'Test MSE':>12} {'Test R2':>12}")
         print("-" * 75)
         print(
@@ -689,7 +690,7 @@ if __name__ == "__main__":
             "Ridge (degree 10)": fit_and_evaluate(x_train, x_test, y_train, y_test, degree=10, method="ridge", lmbda=1e-6),
             "Lasso (degree 14)": fit_and_evaluate(x_train, x_test, y_train, y_test, degree=14, method="lasso", lmbda=1e-4)
         }
-        print("\nFINAL PART D COMPARISON")
+        print("\nFINAL COMPARISON")
         print(f"{'Model':<25} {'Train MSE':>12} {'Test MSE':>12} {'Test R2':>12}")
         print("-" * 65)
 
@@ -739,7 +740,8 @@ if __name__ == "__main__":
 
     if number == 4:
 
-        print(" OPTION MENU ")
+        print("-------------------------------------------------------------------------------")
+        print(" OPTION MENU/ PART 4")
         print("-------------------------------------------------------------------------------")
         print("1: Multinomial logistic-regression baseline and NN comparison.")
         print("2: Learning-rate investigation.")
@@ -800,21 +802,22 @@ if __name__ == "__main__":
                                                         X_val=X_mnist_val, y_val=Y_mnist_val, task="classification")
             results_e[network_name] = result
 
-            print(f"\n{network_name}")
-            print(f"Architecture: {architecture}")
-            print(f"Training cross-entropy: "
-                f"{result['cost_history'][-1]:.6f}")
-            print(f"Validation cross-entropy: "
-                f"{result['val_cost_history'][-1]:.6f}")
-            print(f"Training accuracy: "
-                f"{100 * result['accuracy_history'][-1]:.2f}%")
-            print(f"Validation accuracy: "
-                f"{100 * result['val_accuracy_history'][-1]:.2f}%")
-
         if number2 == 1:
         # ============================================================
         # Part e): Multinomial logistic-regression baseline and NN
-        # ============================================================                
+        # ============================================================    
+            for network_name, architecture in architectures_e.items():
+                print(f"\n{network_name}")
+                print(f"Architecture: {architecture}")
+                print(f"Training cross-entropy: "
+                    f"{result['cost_history'][-1]:.6f}")
+                print(f"Validation cross-entropy: "
+                    f"{result['val_cost_history'][-1]:.6f}")
+                print(f"Training accuracy: "
+                    f"{100 * result['accuracy_history'][-1]:.2f}%")
+                print(f"Validation accuracy: "
+                    f"{100 * result['val_accuracy_history'][-1]:.2f}%")
+
             plt_e_learning_curves(results_e, PLOTS_DIR_4, start_epoch=1)
 
             print("\nMNIST VALIDATION DIAGNOSTICS")

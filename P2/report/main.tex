@@ -1,0 +1,1519 @@
+\documentclass[aps,rmp,reprint,amsmath,amssymb,graphicx,longbibliography]{revtex4-1}
+
+\usepackage[utf8]{inputenc}
+\usepackage{bm}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{float}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{placeins}
+
+\hypersetup{
+    breaklinks=true,
+    colorlinks=true,
+    linkcolor=blue,
+    citecolor=blue,
+    urlcolor=blue
+}
+\setcitestyle{numbers,square}
+
+\begin{document}
+
+\title{Project 2: Neural Networks for Regression and Classification: Implementation, Optimization, and Critical Evaluation}
+
+\author{Teresa Macarulla Uriarte}
+\affiliation{FYS-STK3155 Applied Data Analytics and Machine Learning}
+\affiliation{University of Oslo}
+\date{\today}
+
+\begin{abstract}
+We develop a feed-forward neural-network implementation in NumPy for regression and
+multiclass classification, with manually coded backpropagation and mini-batch
+optimization. Regression on noisy Runge-function data is compared with polynomial
+ordinary least squares (OLS), Ridge and Lasso; the influence of optimizers,
+activation functions, network size and regularization is examined. The lowest
+observed held-out regression error is obtained with an unregularized ReLU network
+(test MSE $0.008492$), compared with $0.010240$ for degree-14 OLS, although the
+polynomial model is substantially simpler. For classification, a softmax output
+and cross-entropy loss are applied to the full MNIST handwritten-digit dataset.
+The validation-selected $L_2$-regularized network reaches $97.90\%$ accuracy
+and cross-entropy $0.064215$ on the official test set; an unregularized network
+reaches $97.87\%$, versus $92.45\%$ for multinomial logistic regression.
+The results illustrate both the advantages of learned nonlinear features and
+the importance of validation, numerical gradient checks and appropriately
+matched model complexity.
+\end{abstract}
+
+\maketitle
+
+\tableofcontents
+
+% ============================================================
+\section{Introduction}
+
+Regression and classification are central supervised-learning tasks, but their
+outputs and optimization objectives differ. Regression estimates continuous
+responses, whereas classification assigns observations to discrete categories.
+Neural networks offer a common framework for both: successive trainable layers
+learn nonlinear representations, while the output activation and loss function
+are chosen to match the task. Their flexibility must nevertheless be weighed
+against computational cost, sensitivity to optimization settings and the risk
+of overfitting \cite{Book_Ch8}.
+
+The purpose of this project is to implement a feed-forward neural network (NN)
+and backpropagation from scratch, building on the gradient-based optimization
+methods studied in Project~1 \cite{Project_1}. First, noisy observations of
+Runge's function are used to compare neural-network regression with polynomial
+ordinary least squares (OLS), Ridge and Lasso. We examine the effects of
+optimizer, learning rate, hidden-layer activation, width, depth and weight
+regularization. Next, the same code is adapted to multiclass classification
+with a softmax output and cross-entropy loss. On the full MNIST handwritten-
+digit dataset \cite{lecun2010mnist}, we compare a multinomial logistic-
+regression baseline with networks containing hidden layers, explore their
+hyperparameters, and evaluate a validation-selected classifier on a held-out
+test set.
+
+The implementation uses three Python files: \texttt{main.py} controls the
+experiments, \texttt{utilities.py} contains the numerical methods and training
+routines, and \texttt{plot\_generator.py} generates the figures. The source
+code is available in the
+\href{https://github.uio.no/teresm/Machine-Learning/tree/main/P2}{project repository}.
+The following sections present the mathematical formulation, implementation,
+results and a critical assessment of the methods for the two datasets.
+
+
+% ============================================================
+\section{Theory}
+
+
+\subsection{Mean-squared error and regularization}
+\label{subsec:mse_gradients}
+
+For regression, the mean-squared error (MSE) quantifies the average squared
+residual between the target values $\mathbf{y}$ and predictions
+$\hat{\mathbf{y}}$. For a linear model with design matrix
+$X\in\mathbb{R}^{n\times p}$ and parameter vector
+$\boldsymbol{\theta}\in\mathbb{R}^{p}$, the predictions are
+$\hat{\mathbf{y}}=X\boldsymbol{\theta}$ and the cost is \cite{Book_Ch3}
+\begin{equation}
+    C_{\mathrm{MSE}}(\boldsymbol{\theta})
+    =\frac{1}{n}\sum_{i=1}^{n}(y_i-\hat y_i)^2
+    =\frac{1}{n}\|\mathbf{y}-X\boldsymbol{\theta}\|_2^2.
+    \label{eq:MSE}
+\end{equation}
+Differentiating with respect to the parameters gives
+\begin{equation}
+    \nabla_{\boldsymbol{\theta}}C_{\mathrm{MSE}}
+    =\frac{2}{n}X^{\mathsf T}(X\boldsymbol{\theta}-\mathbf{y}).
+\end{equation}
+
+To control model complexity, the cost can be augmented with either an
+$L_1$ (Lasso) or squared $L_2$ (Ridge) penalty:
+\begin{equation}
+    C_{L_1}=C_{\mathrm{MSE}}+\lambda\sum_{j\in\mathcal{P}}|\theta_j|,
+    \qquad
+    C_{L_2}=C_{\mathrm{MSE}}+\lambda\sum_{j\in\mathcal{P}}\theta_j^2,
+\end{equation}
+where $\lambda\geq0$ controls the regularization strength and
+$\mathcal{P}$ denotes the penalized parameters (usually excluding the
+intercept) \cite{Book_Ch3}. Their gradients are
+\begin{align}
+    \partial_{\boldsymbol{\theta}}C_{L_1}
+    &\ni \frac{2}{n}X^{\mathsf T}(X\boldsymbol{\theta}-\mathbf{y})
+      +\lambda\mathbf{s},\\
+    \nabla_{\boldsymbol{\theta}}C_{L_2}
+    &=\frac{2}{n}X^{\mathsf T}(X\boldsymbol{\theta}-\mathbf{y})
+      +2\lambda\boldsymbol{\theta}_{\mathcal{P}},
+\end{align}
+where $s_j=\operatorname{sign}(\theta_j)$ for penalized nonzero
+coefficients, $s_j\in[-1,1]$ at zero, and $s_j=0$ for excluded
+coefficients. The vector $\boldsymbol{\theta}_{\mathcal{P}}$ equals
+$\boldsymbol{\theta}$ on penalized entries and zero elsewhere.
+Thus, the $L_1$ expression is a subgradient at zero, whereas the squared
+$L_2$ penalty is differentiable everywhere. We use the convention
+$1/n$ (rather than $1/(2n)$) to match the MSE implementation.
+
+
+\subsection{Binary cross-entropy and regularization}
+\label{subsec:binary_cross_entropy}
+
+For binary classification, each target $y_i\in\{0,1\}$ is modeled by a
+Bernoulli probability $p_i=\sigma(z_i)$, where
+$z_i=\mathbf{x}_i^{\mathsf T}\boldsymbol{\theta}$ and
+$\sigma(z)=1/(1+e^{-z})$ \cite{Book_Ch5}. The average binary cross-entropy (log loss) is
+\begin{equation}
+ C_{\mathrm{BCE}}(\boldsymbol{\theta})=
+ -\frac{1}{n}\sum_{i=1}^{n}
+ \left[y_i\ln p_i+(1-y_i)\ln(1-p_i)\right].
+\end{equation}
+Since $\partial C_{\mathrm{BCE}}/\partial z_i=(p_i-y_i)/n$,
+the chain rule gives
+\begin{equation}
+ \nabla_{\boldsymbol{\theta}}C_{\mathrm{BCE}}
+ =\frac{1}{n}X^{\mathsf T}(\mathbf p-\mathbf y).
+\end{equation}
+Adding $L_1$ or squared $L_2$ regularization over the same penalized
+parameter set $\mathcal{P}$ as in the MSE case gives
+\begin{equation}
+ C_{\mathrm{BCE},L_1}=C_{\mathrm{BCE}}
+ +\lambda\sum_{j\in\mathcal{P}}|\theta_j|,\qquad
+ C_{\mathrm{BCE},L_2}=C_{\mathrm{BCE}}
+ +\lambda\sum_{j\in\mathcal{P}}\theta_j^2.
+\end{equation}
+Their corresponding (sub)gradients are
+\begin{align}
+ \partial_{\boldsymbol{\theta}}C_{\mathrm{BCE},L_1}
+ &\ni \frac{1}{n}X^{\mathsf T}(\mathbf p-\mathbf y)
+ +\lambda\mathbf s,\\
+ \nabla_{\boldsymbol{\theta}}C_{\mathrm{BCE},L_2}
+ &= \frac{1}{n}X^{\mathsf T}(\mathbf p-\mathbf y)
+ +2\lambda\boldsymbol{\theta}_{\mathcal{P}}.
+\end{align}
+Here $\mathbf s$ and $\boldsymbol{\theta}_{\mathcal{P}}$ follow the
+conventions introduced for MSE regularization \cite{Book_Ch5}.
+
+
+\subsection{Multiclass cross-entropy and softmax}
+\label{subsec:softmax_cross_entropy}
+
+Multiclass cross-entropy extends binary classification to $K$ classes.
+Instead of a binary target $y_i\in\{0,1\}$, we use one-hot encoding,
+where $y_{ik}=1$ if observation $i$ belongs to class $k$, and zero
+otherwise. The softmax function provides the predicted probability
+$p(C=k\mid\mathbf{x}_i)$ for each class,
+
+\begin{equation}
+    p(C=k\mid\mathbf{x})=\frac{\mathbf{exp}(\mathbf{x}^T\,\boldsymbol{\theta}_k)}{\sum^{K-1}_{r=0}\mathbf{exp}(\mathbf{x}^T\,\boldsymbol{\theta}_r)}.
+\end{equation}
+
+The multiclass cross-entropy cost function is
+\begin{equation}
+    C_{\mathrm{CE}} =
+    -\frac{1}{n}\sum_{i=1}^{n}\sum_{k=0}^{K-1}
+    y_{ik}\ln p(C=k\mid\mathbf{x}_i).
+\end{equation}
+
+Its gradient with respect to the parameters of class $k$ is
+\begin{equation}
+    \frac{\partial C_{\mathrm{CE}}}
+    {\partial\boldsymbol{\theta}_k}
+    =-\frac{1}{n}X^{\mathsf T}
+    (\mathbf{y}_k-\mathbf{p}_k),
+\end{equation}
+where $\boldsymbol{\theta}_k$ denotes the parameter vector for class
+$k$, while $\mathbf{y}_k$ and $\mathbf{p}_k$ contain the corresponding
+target indicators and predicted probabilities.
+
+For Neural Networks (NNs), the same loss functions are evaluated using
+predictions obtained through successive network layers. The cost
+function is minimized with respect to all network weights and biases,
+and its gradients are calculated using backpropagation, as discussed
+in Chapter 8 of the lecture notes \cite{Book_Ch8}. In this project, MSE is used for
+regression, while multiclass cross-entropy is used for classification.
+
+
+\subsection{Activation functions and their derivatives}
+\label{subsec:activation_functions}
+
+Activation functions introduce nonlinearity into NNs, allowing
+them to learn relationships beyond linear combinations of the inputs.
+Their first derivatives are required during backpropagation to compute
+the gradients of the cost function.
+
+The \textit{sigmoid} activation function maps its input to the interval
+$(0,1)$ \cite{Book_Ch8} and is defined as
+\begin{equation}
+    \sigma(z)=\frac{1}{1+e^{-z}},
+    \qquad
+    \sigma'(z)=\sigma(z)[1-\sigma(z)].
+\end{equation}
+The sigmoid saturates for large positive or negative inputs, potentially
+leading to vanishing gradients.
+
+The \textit{Rectified Linear Unit} (ReLU) is defined as
+\begin{equation}
+    \mathrm{ReLU}(z)=\max(0,z),
+    \qquad
+    \mathrm{ReLU}'(z)=
+    \begin{cases}
+        1, & z>0,\\
+        0, & z<0.
+    \end{cases}
+\end{equation}
+Unlike the sigmoid, ReLU does not saturate for positive inputs \cite{Book_Ch8}.
+However, its zero gradient for negative inputs can prevent certain
+neurons from updating their weights.
+
+The \textit{Leaky ReLU} introduces a small nonzero slope for negative
+inputs, controlled by a parameter $\alpha$, typically $\alpha=0.01$:
+\begin{equation}
+    \mathrm{LReLU}(z)=
+    \begin{cases}
+        z, & z>0,\\
+        \alpha z, & z\leq 0,
+    \end{cases}
+    \qquad
+    \mathrm{LReLU}'(z)=
+    \begin{cases}
+        1, & z>0,\\
+        \alpha, & z<0.
+    \end{cases}
+\end{equation}
+This modification allows gradients to propagate even when the
+pre-activation values are negative \cite{Book_Ch8}. Both ReLU and Leaky ReLU are
+not differentiable at $z=0$, where a convention must be chosen
+for numerical implementation.
+
+
+\subsection{Feed-forward regression and backpropagation}
+\label{subsec:ffnn_backprop}
+
+A feed-forward NN represents a nonlinear mapping by composing
+successive affine transformations and activation functions. For a batch of
+$m$ observations stored in rows, the forward pass through layer $\ell$ is
+\begin{align}
+ Z^{(\ell)} &= A^{(\ell-1)}W^{(\ell)}
+                 +\mathbf{1}(\mathbf{b}^{(\ell)})^{\mathsf T},\\
+ A^{(\ell)} &= g_{\ell}\!\left(Z^{(\ell)}\right),
+ \qquad A^{(0)}=X,
+\end{align}
+where $W^{(\ell)}$ and $\mathbf{b}^{(\ell)}$ are the layer weights and
+biases. In the regression networks considered here, hidden layers use
+sigmoid, ReLU or Leaky ReLU activation, while the final layer uses the identity function,
+$g_L(z)=z$, so that the predicted response is not restricted to $(0,1)$.
+
+The gradients of the unregularized MSE are obtained by backpropagating
+errors through the network using the chain rule \cite{Book_Ch8}. 
+For a batch of $m$ observations, the unregularized MSE is
+\begin{equation}
+    C_{\mathcal{B}} =
+    \frac{1}{m}\sum_{i \in \mathcal{B}}
+    (y_i-\hat{y}_i)^2.
+\end{equation}
+Here, $m$ denotes the batch size, while $n$ in Eq.~\eqref{eq:MSE}
+denotes the total number of observations. For a linear output activation,
+the output-layer error is
+\begin{equation}
+    \delta^{(L)}
+    = \frac{2}{m}(\hat{\mathbf{y}}-\mathbf{y}).
+\end{equation}
+
+For a hidden layer, the errors satisfy
+\begin{equation}
+ \delta^{(\ell)}=\left[\delta^{(\ell+1)}
+   (W^{(\ell+1)})^{\mathsf T}\right]
+   \odot g_\ell'\!\left(Z^{(\ell)}\right),
+\end{equation}
+where $\odot$ denotes element-wise multiplication \cite{Book_Ch8}. The corresponding
+parameter gradients are
+\begin{equation}
+ \frac{\partial C}{\partial W^{(\ell)}}
+   =(A^{(\ell-1)})^{\mathsf T}\delta^{(\ell)},
+   \label{eq:parameter_gradient}
+\end{equation}
+\begin{equation}
+ \frac{\partial C}{\partial \mathbf b^{(\ell)}}
+   =(\delta^{(\ell)})^{\mathsf T}\mathbf{1}.
+\end{equation}
+The output error contains the factor of two because the cost uses MSE,
+not half the MSE. These gradients can be combined with full-batch or
+mini-batch parameter updates.
+
+
+\subsection{Regularization of neural-network weights}
+\label{subsec:nn_regularization_theory}
+
+In the feed-forward networks, the same $L_1$ and squared $L_2$
+penalties introduced above are applied to the weight matrices of
+all layers, excluding biases. For a mini-batch $\mathcal{B}$ of
+$m$ observations, the regularized objective is
+\begin{align}
+ C_{L_1} &= C_{\mathcal{B}}+
+   \lambda\sum_{\ell=1}^{L}\sum_{j,k}|W_{jk}^{(\ell)}|,\\
+ C_{L_2} &= C_{\mathcal{B}}+
+   \lambda\sum_{\ell=1}^{L}\sum_{j,k}(W_{jk}^{(\ell)})^2,
+\end{align}
+where $C_{\mathcal{B}}$ is the unregularized batch MSE.
+Accordingly, the weight gradients (Eq.~\eqref{eq:parameter_gradient}) from backpropagation acquire an
+additional term $\lambda\,\mathrm{sign}(W^{(\ell)})$ for $L_1$, or
+$2\lambda W^{(\ell)}$ for squared $L_2$; the bias gradients remain
+unchanged. For $L_1$ a subgradient of zero is chosen at a zero weight.
+The penalized objective is optimized during training, whereas plain MSE
+is retained as the common measure of predictive performance
+\cite{Book_Ch8}.
+
+
+\subsection{Multiclass network output and evaluation metrics}
+\label{subsec:mnist_theory}
+
+The softmax and cross-entropy formulation of
+Sec.~\ref{subsec:softmax_cross_entropy} also applies to a feed-forward
+classifier: the final-layer pre-activations $Z^{(L)}$ replace the linear
+scores of multinomial logistic regression. For a mini-batch of $m$
+observations, let $P$ contain the predicted class probabilities and
+$Y$ their one-hot targets. The combination of softmax and cross-entropy
+simplifies the output-layer error to \cite{Book_Ch5,Book_Ch8}
+\begin{equation}
+    \delta^{(L)}_{\mathrm{CE}}
+    =\frac{\partial C_{\mathrm{CE}}}{\partial Z^{(L)}}
+    =\frac{1}{m}(P-Y).
+    \label{eq:mnist_output_delta}
+\end{equation}
+The hidden-layer recursion and parameter gradients of
+Sec.~\ref{subsec:ffnn_backprop} remain unchanged; no separate softmax
+derivative is needed in backpropagation. For $L_1$ or squared $L_2$
+classification, the MSE term in Sec.~\ref{subsec:nn_regularization_theory}
+is replaced by cross-entropy, while the weight-penalty terms are unchanged.
+A network with no hidden layer therefore reduces to multinomial logistic
+regression.
+
+For an observation with true digit $t_i$, the predicted label is
+$\hat t_i=\arg\max_k p_{ik}$. Classification accuracy is
+\begin{equation}
+    \mathrm{Accuracy}=
+    \frac{1}{n}\sum_{i=1}^{n}\mathbb{I}(t_i=\hat t_i),
+    \label{eq:mnist_accuracy}
+\end{equation}
+where $\mathbb{I}$ is the indicator function. Unlike accuracy, cross-entropy
+also reflects the probability assigned to the correct class. To examine
+errors by digit, the confusion matrix is defined as
+\begin{equation}
+    M_{jk}=\sum_{i=1}^{n}
+    \mathbb{I}(t_i=j)\,\mathbb{I}(\hat t_i=k),
+    \label{eq:mnist_confusion}
+\end{equation}
+with true labels along rows and predicted labels along columns. For
+class $k$, precision is $M_{kk}/\sum_j M_{jk}$, recall is
+$M_{kk}/\sum_j M_{kj}$, and $F_1$ is their harmonic mean
+\cite{Book_Ch5}.
+
+
+% ============================================================
+\section{Methods and Implementation}
+
+\subsection{Runge data, preprocessing, and network architecture}
+\label{subsec:partb_methods}
+
+The regression study used $n=200$ noisy observations of Runge's function,
+$f(x)=(1+25x^2)^{-1}$, with inputs sampled uniformly on $[-1,1]$ and
+additive Gaussian noise of standard deviation $\sigma=0.1$. The data
+were generated with NumPy \cite{harris2020array} seed 2026, reproducing the dataset used in
+Project~1 \cite{Project_1}. An 80\%/20\% split (random state 2026) reserved 160
+observations for model development and 40 for final testing. During
+hyperparameter selection, the 160 observations were split again into
+120 fitting and 40 validation samples (random state 2027). The single
+neural-network input feature was standardized using the fitting-set mean
+and standard deviation; the same transformation was applied to the
+validation observations. Following model selection, preprocessing was
+refitted using all 160 training observations and applied unchanged to
+the final test set. Targets were not standardized.
+
+Two fully connected architectures were implemented in NumPy \cite{harris2020array}: one hidden
+layer with 50 neurons, $[1,50,1]$, and two hidden layers of 100 neurons
+each, $[1,100,100,1]$. Hidden neurons used the sigmoid function and the
+regression output used an identity activation.
+Weights were drawn independently from a zero-mean normal distribution
+with standard deviation $1/\sqrt{n_{\mathrm{in}}}$, where
+$n_{\mathrm{in}}$ is the number of inputs to the layer; biases were
+initialized to zero. The same initial parameters were reused for all
+optimization comparisons within each architecture.
+
+
+\subsection{Backpropagation and optimization}
+\label{subsec:partb_optimization}
+
+A custom batched forward pass saved the input activations and
+pre-activations of each layer. A reverse-layer implementation of
+backpropagation then returned gradients for every weight matrix and
+bias vector. The gradients were checked against central finite
+differences, $[C(\theta+h)-C(\theta-h)]/(2h)$, with $h=10^{-6}$, on
+selected randomly sampled parameter entries.
+
+Training compared plain full-batch gradient descent, plain mini-batch
+stochastic gradient descent (SGD), mini-batch RMSprop, and mini-batch
+Adam. Both constant and inverse-time learning-rate schedules were
+tested, giving eight configurations in total. Full-batch runs used all
+120 fitting observations per update, while the stochastic runs used
+mini-batches of up to 32 observations, shuffled at the beginning of each
+epoch. The inverse-time schedule was
+$\eta_t=\eta_0\tau/(t+\tau)$, with $\tau=10$ and $t$ counting parameter
+updates. RMSprop used $\rho=0.9$; Adam used
+$\beta_1=0.9$ and $\beta_2=0.999$, with $\epsilon=10^{-8}$ for both.
+Plain GD and SGD were tested at
+$\eta_0\in\{0.01,0.05,0.1\}$; RMSprop and Adam at
+$\eta_0\in\{10^{-4},10^{-3},10^{-2}\}$. For deeper understanding of SGD, RMSprop and Adam see the Theory section in Project~1 \cite{Project_1}. Each of the 48 combinations
+(two architectures, eight optimizer--schedule configurations, and three
+learning rates) was trained for 300 epochs. The final validation MSE,
+not the test error, determined the selected configuration for each
+architecture.
+
+In the results reported below, the selected networks were subsequently
+reinitialized and fitted using all 160 training observations for
+300 epochs. 
+
+
+\subsection{Polynomial OLS reference}
+\label{subsec:partb_ols}
+
+The OLS baseline reproduced the best polynomial order from Project~1\cite{Project_1},
+$d=14$. Its design matrix comprised $1,x,\ldots,x^{14}$. Each
+non-intercept column was standardized using statistics estimated from
+the same 160 training observations, and its coefficients were computed
+with the Moore--Penrose pseudoinverse. OLS and the NNs were
+evaluated against the identical 40 held-out targets using MSE and
+$R^2$. Unlike the NNs, OLS used predefined polynomial
+features, allowing a direct comparison between explicit and learned
+nonlinear representations.
+
+
+\subsection{Activation-function, width, and depth comparison}
+\label{subsec:partc_methods}
+
+This section extends the previous unregularized Runge regression experiment to compare three hidden-layer activations: sigmoid, ReLU, and
+Leaky ReLU ($\alpha=0.01$). Four fully connected architectures were
+considered: $[1,50,1]$, $[1,100,1]$, $[1,50,50,1]$, and
+$[1,100,100,1]$. This $2\times2$ arrangement allows the effect of
+width (50 or 100 neurons per hidden layer) to be examined separately
+from depth (one or two hidden layers). All networks retained a linear
+output neuron and were trained with unregularized MSE.
+
+The same generated observations, 120 fitting samples, 40 validation
+samples, and training-only input standardization were
+retained, leaving the 40 test observations unused during the present
+comparison. Parameters were initialized with random seed 2026 and zero
+biases. Sigmoid hidden layers and linear output layers used weights
+with standard deviation $1/\sqrt{n_{\mathrm{in}}}$; hidden ReLU and
+Leaky ReLU layers used He initialization with standard deviation
+$\sqrt{2/n_{\mathrm{in}}}$. Backpropagation was implemented by supplying the appropriate activation
+functions and derivatives, and representative gradients were checked
+with central finite differences.
+
+For each of the 12 architecture--activation combinations, mini-batch
+Adam was run for 300 epochs with batch size 32, constant learning rate,
+and initial rates $\eta_0\in\{10^{-4},10^{-3},10^{-2}\}$. Thus, 36
+training runs were compared. For each combination, the rate minimizing
+\emph{validation MSE at epoch 300} was selected. Both training and
+validation MSE were stored after every epoch. To examine possible
+overfitting and training instability the following was recorded: the final
+validation--training MSE difference, the epoch attaining the minimum
+validation MSE, and that minimum value. No regularization or early
+stopping was applied at this stage.
+
+Following validation-based model selection, the architecture
+and activation function with the lowest final validation MSE
+were selected for held-out evaluation. The selected network
+was reinitialized and trained for 300 epochs using all 160
+training observations, with input scaling recalculated from
+this training set. Its predictive performance was evaluated
+on the same 40 test observations used for the degree-14 OLS
+benchmark \cite{Project_1}.
+
+
+\subsection{$L_1$ and $L_2$ regularization study}
+\label{subsec:partd_methods}
+
+The Runge dataset and the fitting/validation split described above
+were retained (120 fitting, 40 validation observations); the 40
+held-out test observations were not used in this experiment.
+Using the ReLU activation function, four network
+architectures were considered: $[1,50,1]$, $[1,100,1]$,
+$[1,50,50,1]$, and $[1,100,100,1]$. Weights were initialized with
+the same He scheme and random seed as in the previous step. Only weights,
+not biases, were penalized. The implementation augmented the
+backpropagated weight gradients with the appropriate $L_1$
+subgradient or squared $L_2$ derivative (explained in Sec.~\ref{subsec:nn_regularization_theory}); both were verified against
+central finite differences. The existing mini-batch Adam optimizer
+was reused with batch size 32, 300 epochs, and a constant learning
+rate.
+
+The regularization strengths were
+$\lambda\in\{0,10^{-8},10^{-6},10^{-4},10^{-2},10^{-1}\}$, combined with
+$\eta_0\in\{10^{-3},10^{-2}\}$. The resulting grid comprised
+$4\times2\times6\times2=96$ runs, including duplicate
+unregularized controls ($\lambda=0$) for both penalty types.
+For each configuration, the trained parameters and histories of the
+unpenalized training and validation MSE were retained. Model selection
+was based on \emph{validation MSE after epoch 300}, not on the
+penalized training objective. The complete numerical grid is
+reported in Appendix~\ref{app:partd_grid}.
+
+For comparison with Project~1 \cite{Project_1}, polynomial Ridge with degree 10 and
+$\lambda=10^{-6}$ and Lasso with degree 14 and
+$\lambda=10^{-4}$ were fitted on the same 120 observations and
+assessed on the same validation partition.The Lasso benchmark was fitted using the \texttt{Lasso} estimator from
+\texttt{scikit-learn} rather than a custom optimization routine
+\cite{Pedregosa2011}.  These polynomial configurations
+were adopted from Project~1 rather than reselected using the current
+validation split.
+
+
+\subsection{MNIST multiclass classification}
+\label{subsec:mnist_methods}
+
+The regression framework was extended to ten-class recognition using
+the full MNIST dataset \cite{lecun2010mnist}. Its canonical split comprises
+$60\,000$ training and $10\,000$ test images of handwritten digits.
+Each $28\times28$ grayscale image was flattened into 784 input features,
+and pixel intensities were divided by 255 to map them to $[0,1]$.
+The original training set was divided into $54\,000$ fitting and $6\,000$ validation images.
+Integer labels were converted to ten-component one-hot vectors for the
+custom implementation. The official test images were excluded from all
+model selection.
+
+The feed-forward and backpropagation code used in the previous experiments was reused,
+replacing the linear regression output with ten softmax units and MSE
+with the multiclass cross-entropy of
+Sec.~\ref{subsec:softmax_cross_entropy}. Cross-entropy will be named CE from now on throughout the text. The classification output
+gradient is given by Eq.~\eqref{eq:mnist_output_delta}; the same
+hidden-layer recursion, optional weight penalties, and Adam updates
+were retained \cite{Book_Ch8}. Classification gradients were checked
+during development against central finite differences, as for the
+regression implementation. Models were initialized with seed 2026 and
+zero biases; hidden ReLU and Leaky ReLU layers used He initialization,
+while sigmoid hidden layers used a standard deviation of
+$1/\sqrt{n_{\mathrm{in}}}$. Unless specified otherwise, training used
+mini-batch Adam, batch size 128, a constant learning rate, and 15 epochs.
+
+A no-hidden-layer classifier $[784,10]$ served as the multinomial
+logistic-regression baseline \cite{Book_Ch5}. Initially, it was compared
+with $[784,100,10]$ and $[784,100,100,10]$ ReLU networks. Learning rates
+$\eta_0\in\{3\times10^{-4},10^{-3},3\times10^{-3}\}$ were examined.
+To investigate width, depth and activation, four architectures
+($[784,50,10]$, $[784,100,10]$, $[784,50,50,10]$, and
+$[784,100,100,10]$) were combined with sigmoid, ReLU and Leaky ReLU
+hidden units at $\eta_0=10^{-3}$. Their epoch-15 validation accuracy
+was compared, using validation CE to resolve ties.
+
+Regularization was then investigated on the $[784,100,10]$ ReLU
+network. The unregularized model was compared with
+$L_1$ strengths $\lambda\in\{10^{-6},10^{-5},10^{-4}\}$ and
+squared $L_2$ strengths $\lambda\in\{10^{-5},10^{-4},10^{-3}\}$.
+The penalties of Sec.~\ref{subsec:nn_regularization_theory} were
+applied to all weight matrices, but not biases; their sums were not
+normalized by the number of parameters. Both training and validation
+cross-entropies reported below exclude the penalty.
+
+Finally, early stopping monitored the unpenalized validation
+CE with patience four, retaining a copy of the weights at
+its lowest observed value. The leading $L_2$ configuration was checked
+with a maximum of 40 epochs. After validation-based selection, the
+custom classifiers were reinitialized and fitted on all $60\,000$
+training images for fixed epoch counts, without consulting the held-out
+test set. A scikit-learn \texttt{MLPClassifier} with 100 ReLU neurons,
+Adam and 23 fixed epochs was also trained on the $54\,000$ fitting
+images as an external \emph{validation} reference \cite{Pedregosa2011}.
+It used no weight penalty or validation-selected checkpoint and hence
+was not a fully matched comparison. The selected custom classifier was
+finally evaluated on the $10\,000$ test images using accuracy,
+CE and a confusion matrix.
+
+
+% ============================================================
+\section{Results and Discussion}
+
+
+\subsection{Gradient verification and optimizer sensitivity}
+\label{subsec:partb_results_optim}
+
+Numerical differentiation confirmed the backpropagation gradients at
+the sampled entries. For the $[1,50,1]$ network, 16 comparisons gave a
+maximum absolute difference of $1.339\times10^{-10}$; for the
+$[1,100,100,1]$ network, 26 comparisons gave
+$2.310\times10^{-11}$. No comparison failed the prescribed numerical
+tolerance. 
+
+Figures~\ref{fig:partb_learning_rates} and
+\ref{fig:partb_validation_curves} show the sensitivity to optimizer and
+learning rate. Plain full-batch GD and
+mini-batch SGD show large early
+fluctuations in Fig~\ref{fig:partb_validation_curves} (purple and blue curves). RMSprop (red curve in Fig.~\ref{fig:partb_validation_curves}) reached lower
+errors but produced more irregular validation curves, especially for [1, 100, 100, 1] architecture.
+Adam (green curve in Fig.~\ref{fig:partb_validation_curves}) with a constant learning rate attained the smallest final
+validation error for both architectures. Inverse-time scheduling often
+reduced the step size before the networks had fitted the narrow central
+peak of Runge's function, leaving relatively high validation errors;
+this behaviour is specific to the tested decay scale and training
+budget rather than an intrinsic limitation of decreasing schedules.
+
+\begin{figure*}[t]
+ \centering
+ \includegraphics[width=0.49\textwidth]{Figures/NN_learning_rates_1-50-1.pdf}\hfill
+ \includegraphics[width=0.49\textwidth]{Figures/NN_learning_rates_1-100-100-1.pdf}
+ \caption{Final validation MSE as a function of initial learning rate
+ for the $[1,50,1]$ (left) and $[1,100,100,1]$ (right) networks.
+ Each curve represents one optimizer--learning-rate-schedule
+ configuration after 300 epochs.}
+ \label{fig:partb_learning_rates}
+\end{figure*}
+
+\begin{figure*}[t]
+ \centering
+ \includegraphics[width=0.49\textwidth]{Figures/NN_optimizer_validation_1-50-1.pdf}\hfill
+ \includegraphics[width=0.49\textwidth]{Figures/NN_optimizer_validation_1-100-100-1.pdf}
+ \caption{Validation MSE over 300 epochs for the best tested initial
+ learning rate within each optimizer--schedule configuration. Solid
+ curves correspond to constant learning rates and dashed curves to
+ inverse-time decay. The vertical axis is logarithmic.}
+ \label{fig:partb_validation_curves}
+\end{figure*}
+
+The selected configuration was constant-rate mini-batch Adam with
+$\eta_0=0.01$ for both models. The final validation MSE was 0.011731
+for $[1,50,1]$ and 0.011246 for $[1,100,100,1]$. These are
+validation-set model-selection results, not measurements on the held-out
+test set.
+
+
+\subsection{Comparison with polynomial OLS}
+\label{subsec:partb_results_ols}
+
+Table~\ref{tab:partb_model_comparison} summarizes the final evaluation
+on the shared 80\%/20\% split. For the reported 300-epoch final
+fitting, both network architectures performed slightly worse than the best OLS case.
+The differences are modest and concern one realization with only 40
+test observations.
+
+\begin{table}[h]
+ \centering
+ \caption{Training and held-out test performance for the degree-14 OLS
+ reference and two feed-forward networks. The
+neural-network entries correspond to 300 final-training epochs.}
+ \label{tab:partb_model_comparison}
+ \begin{tabular}{lccc}
+ \hline\hline
+ Model & Train MSE & Test MSE & Test $R^2$ \\
+ \hline
+ OLS ($d=14$) & 0.009278 & 0.010240 & 0.867169 \\
+ NN $[1,50,1]$ & 0.009931 & 0.011101 & 0.856006 \\
+ NN $[1,100,100,1]$ & 0.010264 & 0.011555 & 0.850116 \\
+ \hline\hline
+ \end{tabular}
+\end{table}
+
+Figure~\ref{fig:partb_runge_fits} compares the fitted curves with the
+exact Runge function and the noisy observations. All three models
+reproduce the narrow peak near $x=0$ and its decay toward the interval
+edges. The deeper network, referred to from now on as Network~2, corresponding to architecture [1, 100, 100, 1], slightly overestimates the peak. The simpler network, Network 1, corresponding to architecture [1, 50, 1], replicates the peak the best but is farther from the exact Runge function than OLS in the lateral slopes. The degree-14 polynomial fit is also accurate in the central
+region but displays more pronounced boundary oscillations, especially
+near $x=\pm1$, where polynomial extrapolation near the edges is
+sensitive to the fitted coefficients. 
+
+\begin{figure}[t]
+ \centering
+ \includegraphics[width=0.49\textwidth]{Figures/Runge_OLS_d14_vs_NN.pdf}
+ \caption{Exact Runge function, noisy training and test observations,
+ degree-14 OLS, and the two trained NNs, all evaluated on
+ the same dense input grid. The displayed networks correspond to the
+ 300-epoch final fits reported in Table~\ref{tab:partb_model_comparison}.}
+ \label{fig:partb_runge_fits}
+\end{figure}
+
+OLS uses only 15 fitted polynomial coefficients, whereas the two neural
+networks have 151 and 10\,401 trainable weights and biases, respectively.
+
+The slightly better performance of OLS can be explained by the
+relatively simple, smooth, one-dimensional nature of Runge's
+function, which can be accurately approximated by a degree-14
+polynomial using only 15 coefficients. In contrast, the neural
+networks contain substantially more trainable parameters relative
+to the 160 training observations, particularly Network 2, which
+may increase their susceptibility to fitting noise and overfitting.
+However, the higher training MSE of Network 2 compared with OLS
+suggests that optimization effects may also contribute to its
+poorer test performance. Thus, for this particular regression
+problem, the simpler polynomial model provides a favorable
+balance between model complexity and generalization.
+
+
+\subsection{Activation functions, network depth, and width}
+\label{subsec:partc_results}
+
+Table~\ref{tab:partc_activation_mse} and
+Fig.~\ref{fig:partc_architecture} summarize the final validation
+MSE for all twelve architecture--activation combinations. The selected
+initial learning rate was $\eta_0=0.01$ in every case, the largest of
+the three rates tested. The lowest \emph{final} validation MSE,
+$0.010980$, was obtained with ReLU and two hidden layers of 100 neurons.
+Nevertheless, the $[1,100,1]$ sigmoid network achieved $0.011004$,
+a difference of only $2.4\times10^{-5}$. Thus, the reported ranking
+is sensitive to small performance differences and should not be
+interpreted as evidence of general superiority from one split and
+initialization.
+
+\begin{table}[h]
+ \centering
+ \caption{Validation MSE at epoch 300 for each architecture and
+ hidden-layer activation. All selected learning rates were $0.01$.
+ The smallest entry in each row is bold.}
+ \label{tab:partc_activation_mse}
+ \begin{tabular}{lccc}
+ \hline\hline
+ Architecture & Sigmoid & ReLU & Leaky ReLU \\
+ \hline
+ $[1,50,1]$ & 0.011731 & 0.011501 & \textbf{0.011477} \\
+ $[1,100,1]$ & \textbf{0.011004} & 0.011267 & 0.011210 \\
+ $[1,50,50,1]$ & \textbf{0.011178} & 0.011346 & 0.011404 \\
+ $[1,100,100,1]$ & 0.011246 & \textbf{0.010980} & 0.011055 \\
+ \hline\hline
+ \end{tabular}
+\end{table}
+
+\begin{figure}[t]
+ \centering
+ \includegraphics[width=0.49\textwidth]{Figures/NN_activation_architecture_comparison.pdf}
+ \caption{Final validation MSE after 300 epochs for sigmoid, ReLU,
+ and Leaky ReLU hidden layers in networks of different depths and
+ widths. All twelve configurations selected an Adam learning rate
+ of $\eta_0=0.01$ from the tested grid. }
+ \label{fig:partc_architecture}
+\end{figure}
+
+Increasing width or depth did not consistently reduce validation
+error. Sigmoid performed best within the
+$[1,100,1]$ and $[1,50,50,1]$ architectures, whereas Leaky ReLU
+performed best within $[1,50,1]$ and ReLU within $[1,100,100,1]$.
+The influence of model capacity therefore depends on the activation
+and its optimization trajectory; more trainable parameters alone did
+not ensure better generalization.
+
+Figure~\ref{fig:partc_learning_curves} shows the training and
+validation histories, restricted to epochs 30--300 to make the later
+behavior visible. The sigmoid curves display a comparatively smooth
+initial decrease over the displayed interval. ReLU and Leaky ReLU
+usually reach the low-error regime sooner but exhibit more frequent
+spikes and fluctuations, particularly in the wider and deeper
+networks. The first 30 epochs are not shown, so the plots
+do not establish which activation had the sharpest decrease at the
+very start of training.
+
+\begin{figure*}[t]
+ \centering
+ \includegraphics[width=0.48\textwidth]{Figures/NN_C_learning_curves_1-50-1.pdf}\hfill
+ \includegraphics[width=0.48\textwidth]{Figures/NN_C_learning_curves_1-100-1.pdf}\\[1ex]
+ \includegraphics[width=0.48\textwidth]{Figures/NN_C_learning_curves_1-50-50-1.pdf}\hfill
+ \includegraphics[width=0.48\textwidth]{Figures/NN_C_learning_curves_1-100-100-1.pdf}
+ \caption{Training (dashed) and validation (solid) MSE histories for
+ one-hidden-layer networks with 50 and 100 neurons (top row) and
+ two-hidden-layer networks with 50 and 100 neurons per layer (bottom
+ row). Each activation uses its best tested initial learning rate;
+ the displayed interval is epochs 30--300.}
+ \label{fig:partc_learning_curves}
+\end{figure*}
+
+The final generalization gaps and best observed validation epochs are
+reported in Table~\ref{tab:partc_diagnostics}. Note that some validation trajectories attained lower errors well before the
+last epoch. Overall, the training--validation gaps and intermittent deterioration in validation MSE provide \emph{indications}, but not a quantitative bias--variance decomposition, of possible overfitting. 
+
+\begin{table*}[t]
+ \centering
+ \caption{Generalization and optimization diagnostics for the learning
+ rate selected within each architecture--activation combination. The
+ gap is final validation MSE minus final training MSE. The minimum
+ validation MSE can occur before epoch 300.}
+ \label{tab:partc_diagnostics}
+ \begin{ruledtabular}
+ \begin{tabular}{llccc} %{llrrr}
+ Architecture & Activation & Final gap & Best epoch & Min. validation MSE \\
+ \hline
+ $[1,50,1]$ & Sigmoid & 0.001350 & 277 & 0.010642 \\
+                & ReLU & 0.002482 & 296 & 0.010725 \\
+                & Leaky ReLU & 0.002391 & 296 & 0.010669 \\
+ $[1,100,1]$ & Sigmoid & 0.001868 & 298 & 0.010852 \\
+                & ReLU & 0.002435 & 100 & 0.010994 \\
+                & Leaky ReLU & 0.002680 & 120 & 0.010930 \\
+ $[1,50,50,1]$ & Sigmoid & 0.001716 & 220 & 0.010450 \\
+                & ReLU & 0.003728 & 56 & 0.009360 \\
+                & Leaky ReLU & 0.003780 & 56 & 0.009856 \\
+ $[1,100,100,1]$ & Sigmoid & 0.001357 & 282 & 0.010279 \\
+                & ReLU & 0.003054 & 156 & 0.010737 \\
+                & Leaky ReLU & 0.003162 & 80 & 0.009924 \\
+ \end{tabular}
+ \end{ruledtabular}
+\end{table*}
+
+Finally, the best configuration selected from the validation
+experiments was the ReLU network with architecture
+$[1,100,100,1]$ and learning rate $\eta_0=0.01$.
+After retraining on all 160 training observations (leaving 40 for testing) for 300
+epochs, this model achieved a test MSE of $0.008492$ and
+$R^2=0.889851$, outperforming both sigmoid networks and the degree-14 OLS benchmark from the previous comparison (see Table~\ref{tab:partb_model_comparison}).
+
+Figure~\ref{fig:partc_runge_fits} compares the selected ReLU
+network with OLS and the exact Runge function. The ReLU
+network shows some visible changes in
+slope due to the piecewise-linear nature of ReLU.
+The polynomial OLS fit is comparatively smooth in the
+central region but exhibits larger deviations near the
+interval boundaries. 
+
+\begin{figure}[t]
+    \centering
+    \includegraphics[width=\columnwidth]
+    {Figures/Runge_OLS_d14_vs_NN_2.pdf}
+    \caption{Exact Runge function,
+    noisy training and test observations, degree-14
+    polynomial OLS, and the selected ReLU NN
+    with architecture $[1,100,100,1]$. Both models were
+    fitted using the same noisy 160 training observations and
+    evaluated on the same 40 held-out test observations.}
+    \label{fig:partc_runge_fits}
+\end{figure}
+
+
+\subsection{Effect of $L_1$ and $L_2$ regularization}
+\label{subsec:partd_results}
+
+Table~\ref{tab:partd_architecture_results} reports the lowest
+\emph{final validation MSE} for each architecture and penalty type ($L_1$ or $L_2$),
+selected over the tested learning rates and regularization strengths (see Appendix~\ref{app:partd_grid} for more results).
+Both penalties attained their lowest overall validation MSE with the
+two-hidden-layer network $[1,100,100,1]$. However, the preferred
+regularization strength depended on the architecture and penalty:
+stronger penalization was not uniformly beneficial. In particular,
+for the one-hidden-layer network $[1,100,1]$, the best $L_2$
+configuration had $\lambda=0$.
+
+\begin{table}[h]
+\centering
+\caption{Best validation MSE at epoch 300 for each ReLU network and
+penalty, selected over the tested $\lambda$ and learning-rate values.}
+\label{tab:partd_architecture_results}
+\begin{ruledtabular}
+\begin{tabular}{llccc}
+Architecture & Penalty & $\lambda$ & $\eta_0$ & Val. MSE \\
+$[1,50,1]$ & $L_1$ & $10^{-4}$ & 0.01 & 0.010932 \\
+$[1,50,1]$ & $L_2$ & $10^{-4}$ & 0.01 & 0.011104 \\
+$[1,100,1]$ & $L_1$ & $10^{-8}$ & 0.01 & 0.011264 \\
+$[1,100,1]$ & $L_2$ & $0$ & 0.01 & 0.011267 \\
+$[1,50,50,1]$ & $L_1$ & $10^{-8}$ & 0.01 & 0.011293 \\
+$[1,50,50,1]$ & $L_2$ & $10^{-2}$ & 0.001 & 0.010407 \\
+$[1,100,100,1]$ & $L_1$ & $10^{-4}$ & 0.01 & 0.010556 \\
+$[1,100,100,1]$ & $L_2$ & $10^{-2}$ & 0.001 & 0.010249 \\
+\end{tabular}
+\end{ruledtabular}
+\end{table}
+
+Table~\ref{tab:partd_reference_results} compares the selected
+network configurations with the unregularized ReLU reference and the
+Project~1 polynomial Ridge and Lasso models on the same validation
+observations. For squared $L_2$, $\lambda=10^{-2}$ and
+$\eta_0=0.001$ gave the lowest observed validation MSE,
+$0.010249$ (about $6.7\%$ below the unregularized reference).
+The historical
+Ridge and Lasso configurations yielded validation MSEs of
+$0.012406$ and $0.012875$, respectively.
+
+\begin{table}[h]
+\centering
+\caption{Best observed regularized and unregularized ReLU NNs,
+and polynomial regression references (Lasso and Ridge) on the fitting/validation split.
+The NN use architecture $[1,100,100,1]$.}
+\label{tab:partd_reference_results}
+\begin{ruledtabular}
+\begin{tabular}{lccc}
+Model & $\lambda$ & Train MSE & Val. MSE \\
+Unreg. NN & $0$ & 0.007927 & 0.010980 \\
+$L_1$ NN & $10^{-4}$ & 0.008143 & 0.010556 \\
+$L_2$ NN & $10^{-2}$ & 0.009133 & \textbf{0.010249} \\
+$L_1$ Lasso ($d=14$) & $10^{-4}$ & --- & 0.012875 \\
+$L_2$ Ridge ($d=10$) & $10^{-6}$ & --- & 0.012406 \\
+\end{tabular}
+\end{ruledtabular}
+\end{table}
+
+Figure~\ref{fig:partd_regularization_curves} shows the fitting and
+validation trajectories of the two selected regularized networks
+from epochs 30--300. The $L_1$ network, trained with the larger
+learning rate, exhibits appreciable fluctuations, especially in
+validation MSE. The $L_2$ network shows a more gradual reduction
+followed by comparatively stable errors. Their final
+validation--training MSE differences were $0.002413$ and $0.001116$
+for $L_1$ and $L_2$, respectively, versus $0.003053$ for the
+unregularized reference. These differences are consistent with a
+reduced generalization gap, but they do not by themselves establish
+that the networks are free of overfitting.
+
+\begin{figure*}[t]
+ \centering
+ \includegraphics[width=0.85\textwidth]{Figures/NN_D_regularization_learning_curves.pdf}
+ \caption{Unpenalized training and validation MSE from epochs
+ 30--300 for the selected $[1,100,100,1]$ ReLU networks with
+ $L_1$ ($\lambda=10^{-4}$, $\eta_0=0.01$) and squared $L_2$
+ ($\lambda=10^{-2}$, $\eta_0=0.001$) penalties.}
+ \label{fig:partd_regularization_curves}
+\end{figure*}
+
+\noindent\textit{Final held-out evaluation.}
+
+Following validation-based hyperparameter selection,
+the best unregularized, $L_1$-regularized, and
+$L_2$-regularized ReLU NNs were reinitialized
+and trained for 300 epochs using all 160 training
+observations. All three selected networks had
+architecture $[1,100,100,1]$. Their predictions
+were evaluated on the same 40 held-out test
+observations as the polynomial regression references.
+
+Table~\ref{tab:partd_final_comparison} summarizes the
+final performance. Although $L_2$ regularization
+achieved the lowest validation MSE during model
+selection, the unregularized network obtained the
+lowest test MSE ($0.008492$), followed closely by the
+$L_1$ network ($0.008555$). The $L_2$ network
+achieved a higher test MSE ($0.009770$), despite
+its superior validation performance. Nevertheless,
+all three neural networks outperformed the
+polynomial OLS, Ridge, and Lasso references on
+this particular test split.
+
+\begin{table*}[t]
+\centering
+\caption{Final training and held-out test performance
+of the polynomial regression references and selected
+ReLU NNs. All neural networks use
+architecture $[1,100,100,1]$ and were retrained
+for 300 epochs on the complete training set.}
+\label{tab:partd_final_comparison}
+\begin{ruledtabular}
+\begin{tabular}{lccc}
+Model & Train MSE & Test MSE & Test $R^2$ \\
+\hline
+OLS ($d=14$)       & 0.009278 & 0.010240 & 0.867169 \\
+Ridge ($d=10$)     & 0.010720 & 0.011360 & 0.852644 \\
+Lasso ($d=14$)     & 0.011544 & 0.012094 & 0.843116 \\
+Unregularized NN   & 0.008884 & \textbf{0.008492} & \textbf{0.889851} \\
+$L_1$ NN           & 0.009026 & 0.008555 & 0.889033 \\
+$L_2$ NN           & 0.009698 & 0.009770 & 0.873262 \\
+\end{tabular}
+\end{ruledtabular}
+\end{table*}
+
+Figure~\ref{fig:partd_final_fits} compares the fitted
+functions obtained with $L_1$ and $L_2$
+regularization against their corresponding
+polynomial regression methods.
+
+The $L_1$ neural network reproduces the narrow
+central peak of Runge's function more accurately
+than Lasso, which underestimates its maximum
+and exhibits deviations near the interval boundary.
+For $L_2$, both the neural network and Ridge
+underestimate the central peak, although the
+neural network achieves a lower overall test MSE.
+The ReLU networks also exhibit local changes in
+slope due to their piecewise-linear activations.
+
+\begin{figure*}[t]
+    \centering
+    \includegraphics[width=0.95\textwidth]
+    {Figures/NN_D_final_L1_L2_vs_Ridge_Lasso.pdf}
+    \caption{Comparison of the exact Runge function,
+    noisy training and test observations, and fitted
+    regression models. Left: $L_1$-regularized ReLU
+    NN ($\lambda=10^{-4}$) versus degree-14
+    Lasso. Right: $L_2$-regularized ReLU NN
+    ($\lambda=10^{-2}$) versus degree-10 Ridge.
+    The NNs use architecture
+    $[1,100,100,1]$. All models were fitted on the
+    same noisy 160 training observations and evaluated
+    on the same 40 held-out test observations.}
+    \label{fig:partd_final_fits}
+\end{figure*}
+
+These results show that the improvements obtained
+through regularization during validation were not
+fully reproduced on the held-out test set.
+In particular, the test MSE of the $L_1$ network
+was only slightly higher than that of the
+unregularized model, whereas $L_2$ produced a
+larger deterioration. The different ranking may
+reflect sensitivity to the small validation and
+test subsets, the retraining procedure, and
+stochastic optimization. Thus, although
+regularization can improve validation performance,
+it did not provide a consistent advantage over
+the unregularized ReLU network in the present
+experiment.
+
+
+\subsection{MNIST multiclass classification}
+\label{subsec:mnist_results}
+
+\noindent\textit{Baseline and learning-rate sensitivity.}
+
+
+The initial comparison (Table~\ref{tab:mnist_baseline}) shows that
+adding a hidden layer substantially improved classification over the
+multinomial logistic-regression baseline. After 15 epochs at
+$\eta_0=10^{-3}$, validation accuracy increased from $92.75\%$ for the
+baseline to $97.93\%$ for the one-hidden-layer ReLU network. Adding a
+second hidden layer did not help: the $[784,100,100,10]$ network
+achieved $97.67\%$ and had a higher validation CE despite a
+lower training CE ($0.01109$ versus $0.01918$). Its
+validation CE reached its minimum at epoch 5 but rose to
+$0.11109$ by epoch 15, providing evidence of overfitting under these
+settings. Figure~\ref{fig:mnist_learning_curves} illustrates the
+training and validation trajectories.
+
+\begin{table}[h]
+\centering
+\caption{MNIST fitting/validation comparison after 15 epochs with
+$\eta_0=10^{-3}$, Adam and batch size 128. All hidden layers use ReLU.}
+\label{tab:mnist_baseline}
+\begin{ruledtabular}
+\begin{tabular}{lcc}
+Model & Val. CE & Val. accuracy \\
+Logistic $[784,10]$ & 0.264513 & $92.75\%$ \\
+NN $[784,100,10]$ & \textbf{0.080613} & $\mathbf{97.93\%}$ \\
+NN $[784,100,100,10]$ & 0.111089 & $97.67\%$ \\
+\end{tabular}
+\end{ruledtabular}
+\end{table}
+
+\begin{figure*}[t]
+\centering
+\includegraphics[width=0.93\textwidth]{Figures/MNIST_E_learning_curves.pdf}
+\caption{Training (dashed) and validation (solid) CE and
+accuracy for multinomial logistic regression and two ReLU networks.
+All models use Adam with $\eta_0=10^{-3}$ and 15 epochs; the initial
+state (epoch 0) is omitted to make the learning trajectories clearer. NN 1 corresponds to architecture [784, 100, 10] and NN 2 corresponds to architecture [784, 100, 100, 10].}
+\label{fig:mnist_learning_curves}
+\end{figure*}
+
+The learning-rate study found $\eta_0=10^{-3}$ to be the best tested
+rate for both hidden-layer networks in terms of final validation
+accuracy. For $[784,100,10]$, increasing $\eta_0$ to $3\times10^{-3}$
+reduced training CE but worsened validation CE
+from $0.08061$ to $0.11786$ and validation accuracy from $97.93\%$ to
+$97.72\%$. For logistic regression, $\eta_0=3\times10^{-3}$ gave a
+slightly higher validation accuracy ($92.80\%$) than $\eta_0=10^{-3}$
+($92.75\%$), although its CE was higher ($0.27188$ versus
+$0.26451$). This illustrates that accuracy and CE need not
+rank configurations identically.
+
+\noindent\textit{Activation functions, depth and width.}
+
+
+Figure~\ref{fig:mnist_architecture} summarizes the 12
+architecture--activation combinations trained at $\eta_0=10^{-3}$.
+The one-hidden-layer $[784,100,10]$ (1x100) ReLU network was best by both
+final validation accuracy ($97.93\%$) and CE ($0.08061$).
+Its Leaky ReLU counterpart was close ($97.87\%$, CE $0.08298$).
+For two 100-neuron hidden layers (2x100), Leaky ReLU gave the highest accuracy
+($97.80\%$), whereas sigmoid gave a lower CE ($0.08210$).
+The effect of increased depth therefore depended on the activation,
+and more layers or neurons did not consistently improve validation
+performance. All comparisons used one data split and initialization,
+so small differences should not be interpreted as universal rankings.
+
+\begin{figure*}[t]
+\centering
+\includegraphics[width=0.89\textwidth]{Figures/MNIST_E_activation_architecture_heatmaps.pdf}
+\caption{MNIST validation accuracy (left) and CE (right)
+after 15 epochs for four network architectures and three hidden-layer
+activations. All runs use mini-batch Adam, batch size 128 and
+$\eta_0=10^{-3}$. Architecture labels indicate the number and width of
+hidden layers.}
+\label{fig:mnist_architecture}
+\end{figure*}
+
+\noindent\textit{Regularization and early stopping.}
+
+At a fixed budget of 15 epochs, weak $L_2$ regularization
+($\lambda=10^{-5}$) produced the highest validation accuracy in the
+regularization search ($97.98\%$); a stronger $L_2$ penalty
+($\lambda=10^{-4}$) achieved the lowest CE ($0.07564$),
+with $97.92\%$ accuracy (Table~\ref{tab:mnist_regularization}).
+The $L_1$ model with $\lambda=10^{-5}$ attained a similar CE of
+$0.07579$, while stronger penalties worsened performance. The gain
+in accuracy from $97.93\%$ to $97.98\%$ corresponds to only three
+additional correct images among the 6000 validation observations.
+
+\begin{table}[h]
+\centering
+\caption{Validation results for the $[784,100,10]$ (1x100) ReLU network
+after 15 epochs at $\eta_0=10^{-3}$. CE excludes the regularization
+penalty.}
+\label{tab:mnist_regularization}
+\begin{ruledtabular}
+\begin{tabular}{lccc}
+Penalty & $\lambda$ & Val. CE & Val. acc. \\
+None & 0 & 0.08061 & $97.93\%$ \\
+$L_1$ & $10^{-6}$ & 0.08008 & $97.93\%$ \\
+$L_1$ & $10^{-5}$ & 0.07579 & $97.87\%$ \\
+$L_1$ & $10^{-4}$ & 0.08689 & $97.40\%$ \\
+$L_2$ & $10^{-5}$ & 0.07902 & $\mathbf{97.98\%}$ \\
+$L_2$ & $10^{-4}$ & \textbf{0.07564} & $97.92\%$ \\
+$L_2$ & $10^{-3}$ & 0.11900 & $97.00\%$ \\
+\end{tabular}
+\end{ruledtabular}
+\end{table}
+
+Allowing early stopping with patience four changed the comparison:
+the unregularized model reached a minimum validation CE of $0.07802$
+at epoch 13 ($97.83\%$ accuracy), the $L_2$ model with
+$\lambda=10^{-5}$ reached $0.07751$ at epoch 16 ($97.90\%$), and
+$\lambda=10^{-4}$ reached $0.06784$ at epoch 23 ($98.07\%$).
+When the maximum training budget for the last configuration was
+extended to 40 epochs, training stopped at epoch 27 and selected the
+same epoch-23 checkpoint. These results favored the latter model for
+final evaluation; the checkpoint weights were verified by recomputing
+its validation CE independently.
+
+As a library reference, a scikit-learn \texttt{MLPClassifier} with
+architecture $[784,100,10]$, ReLU, Adam and 23 fixed epochs achieved
+$97.80\%$ validation accuracy and CE $0.09142$, compared with
+$98.07\%$ and $0.06784$ for the custom selected checkpoint
+\cite{Pedregosa2011}. However, the scikit-learn model was
+unregularized and did not use a validation-selected checkpoint.
+Different initialization and optimization trajectories also prevent
+attributing this gap to an intrinsic advantage of the custom code.
+These are \emph{validation} results; no scikit-learn test result was
+computed in the final evaluation.
+
+\noindent\textit{Held-out test performance and error structure.}
+
+After hyperparameters and epoch counts were fixed, the custom models
+were reinitialized and trained on all $60\,000$ MNIST training images.
+Table~\ref{tab:mnist_test} reports their performance on the untouched
+$10\,000$-image official test set. The $L_2$-regularized ReLU network
+achieved $97.90\%$ test accuracy and CE $0.064215$, compared with
+$97.87\%$ and CE $0.071666$ for its unregularized counterpart. Both
+networks substantially outperformed multinomial logistic regression. Nevertheless, the accuracy difference
+between the two neural networks is only $0.03$ percentage points,
+equivalent to three images; a single split and seed do not establish a
+statistically reliable advantage of $L_2$ regularization. The lower
+test CE and smaller training--test accuracy gap are
+consistent with improved generalization in this particular run.
+
+\begin{table*}[t]
+\centering
+\caption{Final MNIST training and held-out test results after refitting
+on all $60\,000$ training images. The official $10\,000$ test images
+were not used for hyperparameter selection. The selected $L_2$ NN uses
+$\lambda=10^{-4}$ and $\eta_0=10^{-3}$.}
+\label{tab:mnist_test}
+\begin{ruledtabular}
+\begin{tabular}{lccccc}
+Model & Epochs & Train CE & Test CE & Train accuracy & Test accuracy \\
+Logistic regression $[784,10]$ & 15 & 0.236807 & 0.274847 & $93.48\%$ & $92.45\%$ \\
+Unregularized NN $[784,100,10]$ & 15 & 0.014306 & 0.071666 & $99.74\%$ & $97.87\%$ \\
+$L_2$ NN $[784,100,10]$ & 23 & 0.023611 & \textbf{0.064215} & $99.56\%$ & $\mathbf{97.90\%}$ \\
+\end{tabular}
+\end{ruledtabular}
+\end{table*}
+
+The confusion matrix for the validation-selected $L_2$ network
+(Fig.~\ref{fig:mnist_confusion}) contains $9790$ correctly classified
+images and $210$ errors. The most frequent off-diagonal entries were
+true $9$ predicted as $4$ (11 cases), true $4$ predicted as $9$
+(10 cases), and true $7$ predicted as $2$ (9 cases). These indicate
+specific digit pairs with overlapping visual features. Class $9$ had
+the lowest recall ($95.94\%$) and $F_1$ score ($0.9690$); the
+macro-averaged $F_1$ was $0.9789$. Thus, even with high overall
+accuracy, recognition difficulty is not uniform across digits.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=0.42\textwidth]{Figures/MNIST_E_confusion_matrix.pdf}
+\caption{Confusion matrix of the validation-selected, $L_2$-regularized
+$[784,100,10]$ ReLU network on the 10\,000-image official MNIST test
+set, after refitting on all training images. Rows give true digits and
+columns predicted digits; off-diagonal entries indicate errors.}
+\label{fig:mnist_confusion}
+\end{figure}
+
+
+% ============================================================
+
+\newpage
+\vspace{10cm}
+\section{Conclusions and Perspectives}
+
+
+The implementation developed in this project successfully handled
+both continuous regression and multiclass classification within a
+common feed-forward and backpropagation framework. By adapting the
+output activation and loss function, the same numerical routines
+could be applied to substantially different learning problems.
+Finite-difference gradient checks supported the correctness of
+the implementation, while the experiments demonstrated the
+sensitivity of neural networks to optimization settings,
+architecture, and regularization.
+
+For the Runge regression problem, the unregularized ReLU network
+achieved the lowest observed test MSE ($0.008492$). Nevertheless,
+the degree-14 polynomial OLS model remained competitive
+($0.010240$) while requiring substantially fewer parameters
+and offering a simpler, more interpretable representation.
+Ridge and Lasso provided additional control over model
+complexity but did not outperform these models in the present
+experiment. In contrast, the MNIST classification task
+demonstrated a clearer benefit from nonlinear hidden layers:
+the selected $L_2$-regularized network achieved $97.90\%$
+test accuracy, compared with $92.45\%$ for multinomial
+logistic regression. However, its improvement over the
+unregularized neural network was only $0.03$ percentage points.
+
+These contrasting results illustrate that the flexibility of neural networks
+does not guarantee superior performance, and model selection
+should depend on the structure and complexity of the data
+\cite{Book_Ch8}. For a relatively simple, low-dimensional
+problem such as Runge regression, polynomial models can provide
+an effective alternative at considerably lower complexity.
+For a larger and more complex classification problem such as
+MNIST, nonlinear neural networks offer substantial predictive
+advantages. Nevertheless, our fully connected networks operated
+on flattened images and did not explicitly exploit their
+spatial structure.
+
+The experiments also highlight limitations associated with
+neural networks, including computational cost, sensitivity
+to hyperparameters and initialization, and limited
+interpretability. The results are restricted to individual
+random seeds and fixed data partitions, so small performance
+differences should not be regarded as conclusive. Future work
+could evaluate stability across multiple seeds, compare
+computational costs and probability calibration, and investigate
+architectures that explicitly exploit spatial information,
+such as convolutional neural networks. Applying the developed
+code to other datasets would further test its generality.
+
+Overall, the main lesson of this project is not that one
+algorithm is universally superior, but that predictive
+performance must be balanced against model complexity,
+interpretability, computational cost, and the available data.
+
+% ============================================================
+%TC:ignore
+
+\appendix
+
+
+\section{Complete $L_1$ and $L_2$ hyperparameter results}
+\label{app:partd_grid}
+
+Tables~\ref{tab:partd_l1_full} and \ref{tab:partd_l2_full} list all 96 training runs used for the results in Sec.~\ref{subsec:partd_results}.
+Values are unpenalized MSE after 300 training epochs on the
+120-observation fitting and 40-observation validation sets.
+The $\lambda=0$ cases appear under both penalties as an internal
+reproducibility control.
+\begin{table*}[p]
+\centering
+\caption{Complete $L_1$ grid: unpenalized training and validation MSE
+at epoch 300, for four NN architectures, six $\lambda$ values,
+and two learning rates.}
+\label{tab:partd_l1_full}
+\scriptsize
+\begin{ruledtabular}
+\begin{tabular}{lccrr}
+Architecture & $\lambda$ & $\eta_0$ & Train MSE & Val. MSE \\
+$[1,50,1]$ & $0$ & 0.001 & 0.013271 & 0.013980 \\
+$[1,50,1]$ & $0$ & 0.01 & 0.009019 & 0.011501 \\
+$[1,50,1]$ & $10^{-8}$ & 0.001 & 0.013271 & 0.013980 \\
+$[1,50,1]$ & $10^{-8}$ & 0.01 & 0.009019 & 0.011501 \\
+$[1,50,1]$ & $10^{-6}$ & 0.001 & 0.013272 & 0.013980 \\
+$[1,50,1]$ & $10^{-6}$ & 0.01 & 0.009019 & 0.011518 \\
+$[1,50,1]$ & $10^{-4}$ & 0.001 & 0.013296 & 0.013993 \\
+$[1,50,1]$ & $10^{-4}$ & 0.01 & 0.008754 & 0.010932 \\
+$[1,50,1]$ & $10^{-2}$ & 0.001 & 0.025158 & 0.025430 \\
+$[1,50,1]$ & $10^{-2}$ & 0.01 & 0.029405 & 0.024923 \\
+$[1,50,1]$ & $10^{-1}$ & 0.001 & 0.049263 & 0.042792 \\
+$[1,50,1]$ & $10^{-1}$ & 0.01 & 0.099490 & 0.088418 \\
+$[1,100,1]$ & $0$ & 0.001 & 0.012216 & 0.013462 \\
+$[1,100,1]$ & $0$ & 0.01 & 0.008833 & 0.011267 \\
+$[1,100,1]$ & $10^{-8}$ & 0.001 & 0.012216 & 0.013462 \\
+$[1,100,1]$ & $10^{-8}$ & 0.01 & 0.008832 & 0.011264 \\
+$[1,100,1]$ & $10^{-6}$ & 0.001 & 0.012217 & 0.013463 \\
+$[1,100,1]$ & $10^{-6}$ & 0.01 & 0.008841 & 0.011269 \\
+$[1,100,1]$ & $10^{-4}$ & 0.001 & 0.012429 & 0.013606 \\
+$[1,100,1]$ & $10^{-4}$ & 0.01 & 0.008961 & 0.012547 \\
+$[1,100,1]$ & $10^{-2}$ & 0.001 & 0.022570 & 0.020599 \\
+$[1,100,1]$ & $10^{-2}$ & 0.01 & 0.028982 & 0.024667 \\
+$[1,100,1]$ & $10^{-1}$ & 0.001 & 0.040916 & 0.035704 \\
+$[1,100,1]$ & $10^{-1}$ & 0.01 & 0.099489 & 0.088449 \\
+$[1,50,50,1]$ & $0$ & 0.001 & 0.008226 & 0.012321 \\
+$[1,50,50,1]$ & $0$ & 0.01 & 0.007618 & 0.011346 \\
+$[1,50,50,1]$ & $10^{-8}$ & 0.001 & 0.008312 & 0.011719 \\
+$[1,50,50,1]$ & $10^{-8}$ & 0.01 & 0.007716 & 0.011293 \\
+$[1,50,50,1]$ & $10^{-6}$ & 0.001 & 0.008294 & 0.011674 \\
+$[1,50,50,1]$ & $10^{-6}$ & 0.01 & 0.007884 & 0.011435 \\
+$[1,50,50,1]$ & $10^{-4}$ & 0.001 & 0.008537 & 0.011722 \\
+$[1,50,50,1]$ & $10^{-4}$ & 0.01 & 0.008105 & 0.011480 \\
+$[1,50,50,1]$ & $10^{-2}$ & 0.001 & 0.011014 & 0.011655 \\
+$[1,50,50,1]$ & $10^{-2}$ & 0.01 & 0.012606 & 0.013254 \\
+$[1,50,50,1]$ & $10^{-1}$ & 0.001 & 0.099489 & 0.088438 \\
+$[1,50,50,1]$ & $10^{-1}$ & 0.01 & 0.099492 & 0.088401 \\
+$[1,100,100,1]$ & $0$ & 0.001 & 0.007765 & 0.011603 \\
+$[1,100,100,1]$ & $0$ & 0.01 & 0.007927 & 0.010980 \\
+$[1,100,100,1]$ & $10^{-8}$ & 0.001 & 0.007837 & 0.010828 \\
+$[1,100,100,1]$ & $10^{-8}$ & 0.01 & 0.007602 & 0.011737 \\
+$[1,100,100,1]$ & $10^{-6}$ & 0.001 & 0.008371 & 0.012311 \\
+$[1,100,100,1]$ & $10^{-6}$ & 0.01 & 0.007883 & 0.010897 \\
+$[1,100,100,1]$ & $10^{-4}$ & 0.001 & 0.008293 & 0.011063 \\
+$[1,100,100,1]$ & $10^{-4}$ & 0.01 & 0.008143 & 0.010556 \\
+$[1,100,100,1]$ & $10^{-2}$ & 0.001 & 0.012197 & 0.011967 \\
+$[1,100,100,1]$ & $10^{-2}$ & 0.01 & 0.012551 & 0.013209 \\
+$[1,100,100,1]$ & $10^{-1}$ & 0.001 & 0.099489 & 0.088438 \\
+$[1,100,100,1]$ & $10^{-1}$ & 0.01 & 0.099491 & 0.088412 \\
+\end{tabular}
+\end{ruledtabular}
+\end{table*}
+\begin{table*}[p]
+\centering
+\caption{Complete $L_2$ grid: unpenalized training and validation MSE
+at epoch 300, for four NN architectures, six $\lambda$ values,
+and two learning rates.}
+\label{tab:partd_l2_full}
+\scriptsize
+\begin{ruledtabular}
+\begin{tabular}{lccrr}
+Architecture & $\lambda$ & $\eta_0$ & Train MSE & Val. MSE \\
+$[1,50,1]$ & $0$ & 0.001 & 0.013271 & 0.013980 \\
+$[1,50,1]$ & $0$ & 0.01 & 0.009019 & 0.011501 \\
+$[1,50,1]$ & $10^{-8}$ & 0.001 & 0.013271 & 0.013980 \\
+$[1,50,1]$ & $10^{-8}$ & 0.01 & 0.009019 & 0.011501 \\
+$[1,50,1]$ & $10^{-6}$ & 0.001 & 0.013271 & 0.013978 \\
+$[1,50,1]$ & $10^{-6}$ & 0.01 & 0.009013 & 0.011509 \\
+$[1,50,1]$ & $10^{-4}$ & 0.001 & 0.013265 & 0.013958 \\
+$[1,50,1]$ & $10^{-4}$ & 0.01 & 0.008787 & 0.011104 \\
+$[1,50,1]$ & $10^{-2}$ & 0.001 & 0.017186 & 0.018577 \\
+$[1,50,1]$ & $10^{-2}$ & 0.01 & 0.029600 & 0.025067 \\
+$[1,50,1]$ & $10^{-1}$ & 0.001 & 0.027365 & 0.025614 \\
+$[1,50,1]$ & $10^{-1}$ & 0.01 & 0.098050 & 0.086916 \\
+$[1,100,1]$ & $0$ & 0.001 & 0.012216 & 0.013462 \\
+$[1,100,1]$ & $0$ & 0.01 & 0.008833 & 0.011267 \\
+$[1,100,1]$ & $10^{-8}$ & 0.001 & 0.012216 & 0.013462 \\
+$[1,100,1]$ & $10^{-8}$ & 0.01 & 0.008838 & 0.011282 \\
+$[1,100,1]$ & $10^{-6}$ & 0.001 & 0.012216 & 0.013461 \\
+$[1,100,1]$ & $10^{-6}$ & 0.01 & 0.008833 & 0.011278 \\
+$[1,100,1]$ & $10^{-4}$ & 0.001 & 0.012182 & 0.013358 \\
+$[1,100,1]$ & $10^{-4}$ & 0.01 & 0.008459 & 0.011782 \\
+$[1,100,1]$ & $10^{-2}$ & 0.001 & 0.016339 & 0.015926 \\
+$[1,100,1]$ & $10^{-2}$ & 0.01 & 0.029810 & 0.025455 \\
+$[1,100,1]$ & $10^{-1}$ & 0.001 & 0.025476 & 0.023543 \\
+$[1,100,1]$ & $10^{-1}$ & 0.01 & 0.098717 & 0.087730 \\
+$[1,50,50,1]$ & $0$ & 0.001 & 0.008226 & 0.012321 \\
+$[1,50,50,1]$ & $0$ & 0.01 & 0.007618 & 0.011346 \\
+$[1,50,50,1]$ & $10^{-8}$ & 0.001 & 0.008256 & 0.012143 \\
+$[1,50,50,1]$ & $10^{-8}$ & 0.01 & 0.007651 & 0.011061 \\
+$[1,50,50,1]$ & $10^{-6}$ & 0.001 & 0.008496 & 0.011373 \\
+$[1,50,50,1]$ & $10^{-6}$ & 0.01 & 0.007880 & 0.011846 \\
+$[1,50,50,1]$ & $10^{-4}$ & 0.001 & 0.008531 & 0.011149 \\
+$[1,50,50,1]$ & $10^{-4}$ & 0.01 & 0.007904 & 0.011323 \\
+$[1,50,50,1]$ & $10^{-2}$ & 0.001 & 0.009965 & 0.010407 \\
+$[1,50,50,1]$ & $10^{-2}$ & 0.01 & 0.018444 & 0.016989 \\
+$[1,50,50,1]$ & $10^{-1}$ & 0.001 & 0.035086 & 0.031398 \\
+$[1,50,50,1]$ & $10^{-1}$ & 0.01 & 0.099508 & 0.088353 \\
+$[1,100,100,1]$ & $0$ & 0.001 & 0.007765 & 0.011603 \\
+$[1,100,100,1]$ & $0$ & 0.01 & 0.007927 & 0.010980 \\
+$[1,100,100,1]$ & $10^{-8}$ & 0.001 & 0.007869 & 0.011428 \\
+$[1,100,100,1]$ & $10^{-8}$ & 0.01 & 0.008052 & 0.010607 \\
+$[1,100,100,1]$ & $10^{-6}$ & 0.001 & 0.007892 & 0.011752 \\
+$[1,100,100,1]$ & $10^{-6}$ & 0.01 & 0.007914 & 0.010750 \\
+$[1,100,100,1]$ & $10^{-4}$ & 0.001 & 0.008254 & 0.011307 \\
+$[1,100,100,1]$ & $10^{-4}$ & 0.01 & 0.007872 & 0.011625 \\
+$[1,100,100,1]$ & $10^{-2}$ & 0.001 & 0.009133 & 0.010249 \\
+$[1,100,100,1]$ & $10^{-2}$ & 0.01 & 0.018165 & 0.016952 \\
+$[1,100,100,1]$ & $10^{-1}$ & 0.001 & 0.025226 & 0.022559 \\
+$[1,100,100,1]$ & $10^{-1}$ & 0.01 & 0.099508 & 0.088352 \\
+\end{tabular}
+\end{ruledtabular}
+\end{table*}
+
+
+\section{Use of AI/LLM Tools}
+
+\subsection{Tools Used}
+
+ChatGPT (OpenAI, web interface, accessed during the development of
+Project~2 through October and November 2026) was used as a conceptual tutor,
+programming assistant and drafting/editing tool. No other LLM was used
+for the work described here. The author selected the experiments,
+executed the programs, inspected the figures and is responsible for the
+submitted implementation and scientific interpretation.
+
+\subsection{Writing and Editing}
+
+ChatGPT helped connect explanations from Chapters~3, 5 and 8 of the
+course notes \cite{Book_Ch3, Book_Ch5, Book_Ch8} to the implemented algorithms, interpret numerical outputs
+and figures, and draft or revise portions of the report. Its substantive
+text contributions, including those concerning the MNIST experiments and
+the critical evaluation, are identified in Table~\ref{tab:llm_writing}.
+Levels denote the extent of assistance; Level~3 indicates substantial
+generated draft text subsequently reviewed and edited by the author.
+
+\begin{table*}[t]
+\centering
+\caption{LLM assistance with report writing and editing.}
+\label{tab:llm_writing}
+\begin{ruledtabular}
+\begin{tabular}{p{0.23\textwidth}cp{0.64\textwidth}}
+Section & Level & Nature of assistance \\
+Abstract and Introduction & 3 & Drafted a synthesis of the assignment,
+methods and measured results; the author reviewed the wording and factual claims. \\
+Theory & 1 & Helped revise transitions and notation against the supplied lecture notes. \\
+Methods and Implementation & 3 & Drafted methodological descriptions from
+the author's code and experimental settings, including dataset splits,
+optimization, classification, regularization and early stopping. \\
+Results and Discussion & 2 & Helped interpret
+learning curves, hyperparameter comparisons and confusion matrix, and drafted
+the results tables without inventing measured values. \\
+Critical Evaluation and Conclusions & 1 & Wrote the comparative synthesis
+of the regression and classification algorithms, strengths, limitations
+and follow-up experiments from the authors draft. \\
+AI/LLM Declaration & 2 & Reorganized and redrafted this declaration from
+the conversation history and the author's code/report, retaining the
+course's requested structure. \\
+\end{tabular}
+\end{ruledtabular}
+\end{table*}
+
+The author supplied guidelines and theory basis, relevant lecture chapters,
+Python source files, validation/test outputs and generated PDFs as the
+basis for these exchanges. Suggested prose was used only after review
+for correctness, consistency with the report and agreement with the
+actual program output. The LLM did not run the author's experiments
+or supply fabricated performance measurements.
+
+\subsection{Programming Assistance}
+
+ChatGPT provided some example code, especially
+for adapting the existing regression implementation to classification.
+Its suggestions included debugging recording of training histories,
+adding loss and accuracy tracking, checking analytical gradients with
+finite differences, testing architecture/activation/penalty grids,
+implementing checkpoint-based early stopping and creating figures.
+The principal file-level contributions are summarized in
+Table~\ref{tab:llm_programming}.
+
+\begin{table*}[t]
+\centering
+\caption{LLM assistance with the submitted Python source.}
+\label{tab:llm_programming}
+\begin{ruledtabular}
+\begin{tabular}{p{0.18\textwidth}cp{0.69\textwidth}}
+File & Level & Nature of assistance \\
+\texttt{main.py} & 1 & Supplied example of hyperparameter grids for
+Runge and MNIST, scikit-learn references and confusion-matrix analysis;
+the author incorporated, adapted and executed the suggestions. \\
+\texttt{utilities.py} & 2 & Assisted in implementing and extending
+optimization and backpropagation, L1/L2 gradients, stable softmax,
+one-hot encoding, cross-entropy, accuracy, finite-difference checks
+and early-stopping checkpoints. \\
+\texttt{plot\_generator.py} & 3 & Supplied or revised plotting routines
+for regression learning curves, architecture comparisons, MNIST
+learning curves/heatmaps and the confusion matrix; the figures were
+produced and reviewed by the author. \\
+\end{tabular}
+\end{ruledtabular}
+\end{table*}
+
+% ============================================================
+
+\bibliographystyle{apsrev4-1}
+\bibliography{References}
+%TC:endignore
+\end{document}
