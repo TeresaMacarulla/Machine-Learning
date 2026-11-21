@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_112fe45606ede33d20edbac1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Le Leiste",
+  "setter": "pile",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "650b5ddbc60947e99a53dd23f68116d9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1185r13p1234r13p1272r13p1306r13p1359r13p1391r14p1456r15p1470r15p1479r15p1489r15p1498r15p1508r15p1517r15p1527r15p1536r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b78dc47a549d5e830992271266a3824a4892aacf6c9dcbfb1d8d0553d1f90418",
+  "validation_errors": []
+}

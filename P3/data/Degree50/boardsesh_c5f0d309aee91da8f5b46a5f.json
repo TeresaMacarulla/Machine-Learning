@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c5f0d309aee91da8f5b46a5f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "the 2 in the front",
+  "setter": "amitaidemayo5",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "dcdde08f8fcd4a69bd387f3d4e6687f6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1229r13p1245r13p1253r12p1314r13p1370r13p1372r13p1394r14p1484r15p1511r15p1519r15p1549r12",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "33c361c841e49246ea62fba4a9b2528b09aecc4be87ba37872c7fa36a8322612",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a219ac548385a8f2062917ab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "frieren",
+  "setter": "yochanan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "a1c949aaf66a415486ef7bd5466f6900",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1128r12p1182r13p1198r13p1206r15p1253r13p1254r13p1291r13p1324r13p1393r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4d325e6387831dea6d8ceb5574057bc618366c22c61663409f4f3983a77b5d14",
+  "validation_errors": []
+}

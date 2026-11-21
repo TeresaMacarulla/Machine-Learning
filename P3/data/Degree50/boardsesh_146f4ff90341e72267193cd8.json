@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_146f4ff90341e72267193cd8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Pyrometrics",
+  "setter": "Mr.MathGuru",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "01321132-8ef7-47d9-8783-a7f7f3a7f100",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1127r12p1177r13p1216r13p1300r13p1302r13p1461r15p1457r15p1320r13p1358r13p1391r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.5,
+  "ascensionist_count": 4,
+  "quality_average": 5.0,
+  "hold_fingerprint": "ae22f5eabacd66e7a71608ab7b09c2f7baee4f5310fa7b04b0f5232094e472ac",
+  "validation_errors": []
+}

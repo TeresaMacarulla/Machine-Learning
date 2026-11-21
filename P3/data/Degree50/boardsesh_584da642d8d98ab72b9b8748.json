@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_584da642d8d98ab72b9b8748.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "BIG DUNG",
+  "setter": "bizzop",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "6495F8DA24BF4280A278A746E746ADB5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1143r12p1213r13p1235r13p1302r13p1341r13p1388r14p1460r15p1484r15p1485r15p1503r15p1513r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b69baa41f24b945a6b5b5947d0e9f6381ce241a709d6433b342ccf67b497c900",
+  "validation_errors": []
+}

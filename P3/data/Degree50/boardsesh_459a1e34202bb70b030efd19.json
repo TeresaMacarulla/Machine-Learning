@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_459a1e34202bb70b030efd19.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Tantalizer light",
+  "setter": "Georg1220",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "8259a2b05b3340e698ca874c02e0caa7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1122r15p1155r12p1174r12p1219r13p1268r13p1336r13p1383r14p1448r15p1451r15p1456r15p1505r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "f8b9936b76c614330601a49d9a7258a17b3f3e9138844e9633d55aa7ce88e99c",
+  "validation_errors": []
+}

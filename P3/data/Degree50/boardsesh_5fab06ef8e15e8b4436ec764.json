@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5fab06ef8e15e8b4436ec764.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "cheese XOR ham",
+  "setter": "arikak",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "23699cd700cf47568027440bc65b93ab",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1189r12p1190r12p1248r13p1251r13p1255r13p1334r13p1388r13p1392r14p1482r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "c4b14380946926c81c25a864964ecc00298ce68fff910e4167c38ad051967d0c",
+  "validation_errors": []
+}

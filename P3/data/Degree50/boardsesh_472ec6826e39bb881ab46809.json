@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_472ec6826e39bb881ab46809.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Invertidas",
+  "setter": "Noe98_mu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "d755e4da1c1e4852a747c87815525089",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1169r12p1187r12p1234r13p1268r13p1300r13p1317r13p1367r13p1387r14p1452r15p1504r15p1539r15p1559r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "1d99303bc249690b564926119e63dccffa66aaffdc7f07ade20fce1d2e646f4d",
+  "validation_errors": []
+}

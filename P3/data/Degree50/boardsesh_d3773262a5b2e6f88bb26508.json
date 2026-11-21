@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d3773262a5b2e6f88bb26508.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Musical Stairs",
+  "setter": "geolinus",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "713e1d06dc954ccd9a33c8ea86a7a1ae",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r15p1155r12p1157r12p1207r13p1221r13p1236r13p1244r15p1251r13p1302r13p1315r13p1331r14p1447r15p1450r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "9ccfd5f6db3a5e987553902dcbbc4edd615228a8b772b8b80341e81b9a5bb9cf",
+  "validation_errors": []
+}

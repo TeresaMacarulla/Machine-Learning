@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_620d9ab9bf9719cafa97eb67.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Gettin Froggy Wid It",
+  "setter": "novazhao",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "86CDF45FCF864149B6D8D7363F496195",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1180r12p1182r12p1230r13p1264r13p1265r13p1333r13p1382r14p1466r15p1468r15p1477r15p1484r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "472445e72d7a043ebab253c690748999307305713d8a568a9bf7a4baa4d40fb1",
+  "validation_errors": []
+}

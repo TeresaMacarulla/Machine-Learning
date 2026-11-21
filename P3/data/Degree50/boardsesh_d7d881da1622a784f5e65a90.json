@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d7d881da1622a784f5e65a90.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Benchmark 02",
+  "setter": "EthanHunt125",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "c6950db8adc94fdd84112c08af7963e7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1184r13p1185r13p1205r12p1206r12p1250r13p1283r13p1352r13p1383r14p1385r13p1471r15p1478r15p1509r15p1521r15p1559r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "f1d371a04858f461641552d601e7a57a8b117804fd955a874db106de1763fb00",
+  "validation_errors": []
+}

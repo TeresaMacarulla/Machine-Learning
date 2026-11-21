@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0125ff0e2969a690932e850f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "reverse traverse",
+  "setter": "ND_climbing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "5a4ab8f7ac9d490ba3093dfc2f4f9bc9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1130r15p1132r13p1133r15p1136r12p1140r12p1162r13p1169r13p1181r13p1210r14p1452r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a442fc3276d1a5e6e6708f1b6786feba2fc1743662de4e236df5ad58db7cdc6a",
+  "validation_errors": []
+}

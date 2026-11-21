@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bc743b2c74293ffb5faa6e2d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Rectal Prolapse",
+  "setter": "importedbean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "8B4A8D8FE0134FA7985D1B7E78C9E238",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1136r12p1188r13p1236r13p1291r13p1339r13p1394r14p1395r14p1449r15p1473r15p1489r15p1515r15p1518r15p1536r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f66642c038ef3af4301467b0976fc2a1536629b1093731e3156f88c3a3e87540",
+  "validation_errors": []
+}

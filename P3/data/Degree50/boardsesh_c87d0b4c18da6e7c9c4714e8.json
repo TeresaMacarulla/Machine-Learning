@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c87d0b4c18da6e7c9c4714e8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Super Monaco GP",
+  "setter": "mbalestero",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "87e97a92dbe94b379d66853a93f98019",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1197r12p1228r12p1264r13p1281r13p1348r13p1379r14p1504r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.99,
+  "ascensionist_count": 1364,
+  "quality_average": 3.2800000000000002,
+  "hold_fingerprint": "5deab62b3784ebb107cc27197017c0b85f821922448e8afb361c46b6dbde3010",
+  "validation_errors": []
+}

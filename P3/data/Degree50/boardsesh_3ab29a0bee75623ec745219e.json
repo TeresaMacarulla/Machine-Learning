@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3ab29a0bee75623ec745219e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "triggered",
+  "setter": "rosiedecker",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 7,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "EF4FF32DB12048DB9CDC70E5966784DE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1085r15p1099r15p1128r12p1131r12p1182r13p1215r13p1219r13p1270r13p1307r13p1356r13p1357r13p1388r14p1389r14p1486r15p1507r15p1533r15p1552r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.29,
+  "hold_fingerprint": "73b4f2a651597c3ee0943bc61c9c4c4f088df3e2b12be8e6e95554b24328f92e",
+  "validation_errors": []
+}

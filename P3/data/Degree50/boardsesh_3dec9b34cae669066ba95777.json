@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3dec9b34cae669066ba95777.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Flight of Icarus",
+  "setter": "ShaneLP",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "82F4E942729F4835896769B4C927D53E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1179r12p1226r13p1298r13p1347r13p1387r14p1483r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "f87f7cde57958e61c94d8aa0f3c641bceaf66cd8168752d44fe736eeab538d39",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f3bad58170f29969cb82d8fa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Flexeur",
+  "setter": "LeWaf",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "460ee34a-71b3-41f9-902a-0984dfbdcfd3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1217r13p1168r12p1149r12p1081r15p1131r15p1284r13p1231r15p1317r13p1349r13p1384r14p1269r13p1203r13",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "3a302f2b71b5bd2831cd2972f7dc4bc15aa3a5d2858256087a24754cff031c03",
+  "validation_errors": []
+}

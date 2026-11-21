@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_78ac1e159e307cbe6ff1afb6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Ich Pinch",
+  "setter": "pablicho",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "059BFDD4EB164D52AD9E45A31A7E217D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1130r15p1148r13p1196r13p1216r13p1283r13p1285r13p1315r13p1352r13p1385r14p1459r15p1513r15p1547r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5d16c4a7b254e66326f5d0bd06c227ded1cc945886af1b852250963ca6e6e5c1",
+  "validation_errors": []
+}

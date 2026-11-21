@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3bd5320f4c80c82997085af4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "knopdree",
+  "setter": "chriscantclimb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "a2c5727d965244f5bed9fd935698d55e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1141r12p1163r13p1214r13p1219r13p1234r13p1272r13p1323r13p1325r13p1391r14p1496r15p1515r15p1527r15p1544r15p1578r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "46000efda41d6a5decc663bd0de0a38094f622f054eb35aad577d2aa7ab48dcd",
+  "validation_errors": []
+}

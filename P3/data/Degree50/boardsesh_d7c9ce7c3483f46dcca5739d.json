@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d7c9ce7c3483f46dcca5739d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Goldie",
+  "setter": "dispositiv",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "B5F3ADF04317400FB5FB7E75E79876B2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1149r12p1200r13p1236r13p1239r13p1256r13p1276r13p1343r13p1391r14p1393r13p1453r15p1457r15p1489r15p1499r15p1516r15p1518r15p1586r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.29,
+  "ascensionist_count": 7,
+  "quality_average": 3.86,
+  "hold_fingerprint": "85314dcaf68bc4bf3147dea4b38cf3b99b22b05a67e66075d41d06ba1f2b90bd",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4344f8f636abe0f3d384a47d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "fake wagon",
+  "setter": "bdahlstrom",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "09921421320A46D8A9C418EF2D6D793B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1153r12p1164r13p1183r13p1195r13p1265r13p1314r13p1353r13p1356r13p1391r14p1468r15p1493r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "29f9f09fb63af42ade38203e176ccebcb051efd4e79c4343e3efd2fd10b5cd3b",
+  "validation_errors": []
+}

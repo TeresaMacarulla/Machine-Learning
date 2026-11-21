@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_439a6593233dc44c21cefbde.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "shoulder blaster 2000",
+  "setter": "Gav",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "f0dcbcc5-d7a3-4238-8e09-872f375570f7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1231r13p1270r13p1089r15p1460r15p1339r13p1148r15p1393r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.33,
+  "ascensionist_count": 9,
+  "quality_average": 4.17,
+  "hold_fingerprint": "c5cb35a7a8d8ce18ce25e6411cb32010e648957fab5db0a284602017b058e984",
+  "validation_errors": []
+}

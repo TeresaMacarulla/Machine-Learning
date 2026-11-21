@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0f17768bb52612720aa8ed6c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "trous peaux de gnou",
+  "setter": "Quentin Lavit",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8332594d-f78b-4bb8-8328-c60f583a501b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1162r12p1228r13p1265r13p1283r13p1287r13p1192r15p1257r15p1359r13p1393r14p1458r15p1090r15p1321r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "240b8e64da689299229656963207b287391f45a52223482f32962e6e201a22d5",
+  "validation_errors": []
+}

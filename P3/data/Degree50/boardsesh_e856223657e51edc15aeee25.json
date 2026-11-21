@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e856223657e51edc15aeee25.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "fun",
+  "setter": "Konnerjolley",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "f67765b4-d6a7-4fe8-bcac-0231f5fad52d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1302r13p1239r12p1257r12p1289r13p1156r15p1151r15p1300r13p1315r13p1183r15p1195r15p1532r15p1347r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.5,
+  "ascensionist_count": 3,
+  "quality_average": 4.5,
+  "hold_fingerprint": "deae79b7ac16e441941100bb1db4d8067b5235ee35ec390d7b6550a9c3321dc0",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c23c589117c9f932938e11f2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Rubik \ud83d\udc08",
+  "setter": "Adrenaline.Factory",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "b6880c5c5e18425690dbd6b404f99fd0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1214r13p1266r13p1287r13p1289r13p1343r13p1392r14p1459r15p1460r15p1485r15p1506r15p1535r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 23,
+  "quality_average": 3.45,
+  "hold_fingerprint": "68d1db6bd4be91631fa6301a051c2b074de04c5846dccc63b0c1cebb7e3de172",
+  "validation_errors": []
+}

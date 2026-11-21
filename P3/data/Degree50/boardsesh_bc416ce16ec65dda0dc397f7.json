@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bc416ce16ec65dda0dc397f7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Underground Undercling",
+  "setter": "jonathan0335",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "c6e3f85f47524c158c461b1c48b22b88",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1143r12p1146r15p1166r15p1179r13p1203r15p1247r13p1268r13p1304r13p1305r15p1353r13p1388r14p1460r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "36b961215a56e8d1f69d9f54415241783c40026cbc6653d88d88808956211db5",
+  "validation_errors": []
+}

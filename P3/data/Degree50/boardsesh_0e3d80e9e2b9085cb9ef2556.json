@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0e3d80e9e2b9085cb9ef2556.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "10:40 pm",
+  "setter": "hendrikcd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "efb54de0737949e28200cceefa8ddb1c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1210r12p1246r13p1279r13p1281r13p1315r13p1333r13p1383r14p1467r15p1475r15p1503r15p1521r12",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d7afedc885949dd01b584a0b43d9e4ef3ff464316ef0746e5215adca3b74e0f9",
+  "validation_errors": []
+}

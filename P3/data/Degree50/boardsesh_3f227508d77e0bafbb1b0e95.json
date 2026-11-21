@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3f227508d77e0bafbb1b0e95.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Tunable Tuna",
+  "setter": "KrisBoulder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "A6D7CAAA00BD479D8A6D97BF966D7347",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r15p1175r12p1192r12p1281r13p1282r13p1303r13p1372r13p1373r13p1393r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "3b3e7d0b56b02cf0ab7c3d49a2e38c6739765f8f93b9839ab697ada0f8c13c4f",
+  "validation_errors": []
+}

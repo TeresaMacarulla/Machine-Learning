@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e377cd0eadad6cc8f712e4ea.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Ask the staff",
+  "setter": "ianjchurch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3E20E86D2DF048338072ADF2689C41F1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r15p1163r12p1215r13p1248r13p1284r13p1322r13p1391r14p1467r15p1494r12p1541r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.0,
+  "hold_fingerprint": "d7fce27e78e197e6a174a034f7e348ee6971c12c5492d5a190f5a63f17194c1f",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_45d69a7bf1c13c8d8a32804f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "diadora cellula",
+  "setter": "apgautreaux",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "6A51A8E883EA4326871274B18E489382",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1113r15p1143r12p1164r13p1213r13p1254r13p1267r13p1336r13p1384r14p1458r15p1507r15p1551r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d31c12934713f377115c91cc2cb85a258a81c2e6475bc01198bfe3f0efa6c5a2",
+  "validation_errors": []
+}

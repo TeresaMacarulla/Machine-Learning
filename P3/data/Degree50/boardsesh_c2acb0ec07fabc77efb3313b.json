@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c2acb0ec07fabc77efb3313b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Pogo please",
+  "setter": "juliantheberge",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 1,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "66ED21E5A67A4967BA52C102587FBF2F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1097r15p1164r12p1234r12p1280r13p1347r14p1348r14p1520r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9991ba842b84d4ea743e9eafc26dc6099956c0efbe9e589fd5db935ab814c167",
+  "validation_errors": []
+}

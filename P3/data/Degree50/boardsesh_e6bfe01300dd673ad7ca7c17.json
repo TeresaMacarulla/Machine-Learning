@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e6bfe01300dd673ad7ca7c17.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Pogota",
+  "setter": "Cickak",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 8,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "90d168029a5b43c392acb9ffb059c139",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r12p1111r12p1113r13p1142r15p1180r13p1198r13p1202r13p1221r15p1266r13p1269r13p1271r15p1319r13p1350r13p1380r14p1383r14p1460r15p1489r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "019df467438dd83ecd9e8d2ea264ca9998e41fa31264c27d8bd735454570c1e2",
+  "validation_errors": []
+}

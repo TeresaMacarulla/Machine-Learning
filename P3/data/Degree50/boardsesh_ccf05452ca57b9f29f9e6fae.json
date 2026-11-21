@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ccf05452ca57b9f29f9e6fae.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "lirak",
+  "setter": "domifabbri",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "8D710F4D775042B0A8251CDC476867F7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1186r12p1202r12p1241r13p1258r13p1304r13p1309r13p1317r13p1322r13p1385r14p1482r15p1500r15p1535r15p1559r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "fb0114439a78d44e02600cd3c8684fb1fe11fc52edc5ba8ba8df17cc0411ecd2",
+  "validation_errors": []
+}

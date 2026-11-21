@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9c0fe9d1fd7b27825c8a0aed.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "ETA",
+  "setter": "p.tang",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "0c494852b08d49cebf8e11f6ea12fa69",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1176r12p1182r15p1198r13p1249r13p1270r13p1285r13p1290r13p1326r13p1395r14p1464r15p1474r15p1483r15p1536r15p1554r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "a30d64b86518e79c7abe1765a35d30b810e8e461bd69678bc817b64ee514f3cb",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9e232d8eaac9be14c33e826c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Flashlight",
+  "setter": "con321dude",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9A5AA1B7FBBC4D4CA26C1AB91787FD95",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1188r12p1237r13p1282r15p1287r13p1301r13p1353r13p1385r14p1449r15p1472r15p1497r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.75,
+  "ascensionist_count": 8,
+  "quality_average": 3.75,
+  "hold_fingerprint": "b4d297bf420754a85fd6f527b33d308485ea381f40b27ddb0c2cf28f440bab89",
+  "validation_errors": []
+}

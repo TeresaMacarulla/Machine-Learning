@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_91050a8c031d7556e576a479.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "drop a knee, drop a grade (V2)",
+  "setter": "bogbean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "878a3000df9a45cb8f28c5d1dce56e41",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1162r15p1166r12p1194r15p1215r13p1248r13p1264r13p1315r13p1330r13p1380r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "275171f2c0fe41e84162aa3b8e8721f5c66ba9271caff04c633829843f89d771",
+  "validation_errors": []
+}

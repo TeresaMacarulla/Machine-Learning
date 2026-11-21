@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_18c4c2b9c6d9442518354e7e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "dewalt",
+  "setter": "thijs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "6ED8E9285DC3440BB2E27771FCE550F0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1133r12p1182r13p1211r13p1246r13p1312r13p1330r13p1380r14p1454r15p1458r15p1512r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "2cf5646025c511df3e77e1cde10c832157a14d9ddfc7b0a2ed47ec861d474ea4",
+  "validation_errors": []
+}

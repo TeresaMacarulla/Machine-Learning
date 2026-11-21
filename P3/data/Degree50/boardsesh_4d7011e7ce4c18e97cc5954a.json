@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4d7011e7ce4c18e97cc5954a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Eurofighter",
+  "setter": "Fantomet",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3703EBA42B244CF388776AB12492B103",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1165r13p1248r13p1303r13p1334r13p1385r14p1466r15p1540r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.98,
+  "ascensionist_count": 44,
+  "quality_average": 3.3,
+  "hold_fingerprint": "2ae79928c9325f6e786669e2de4448ddae028628b7c1f24431682e3f54815282",
+  "validation_errors": []
+}

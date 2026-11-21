@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_37ec6fb0ce3e1c6fd05cd04a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "SOTY",
+  "setter": "ethan.mathewson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "ef2f06c406b4470abb0bd0d8a5c4aad6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r15p1170r12p1224r13p1239r13p1293r13p1340r13p1357r13p1387r14p1550r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5d5f387f68c41f29fd776a38f78691c5178098064b71f7d26739702793190355",
+  "validation_errors": []
+}

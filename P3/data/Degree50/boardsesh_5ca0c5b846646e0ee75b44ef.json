@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5ca0c5b846646e0ee75b44ef.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "sharn\u2019t",
+  "setter": "Elihamilton",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "3c7afee9-81ff-4cc6-9084-e50ebaf0678a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r12p1516r15p1334r13p1201r12p1081r15p1472r15p1301r13p1196r15p1556r15p1381r14p1288r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "dc450fcdd673d27f77f1a52714f7ad8f2b73293e1b701269b5179ba14c3404e9",
+  "validation_errors": []
+}

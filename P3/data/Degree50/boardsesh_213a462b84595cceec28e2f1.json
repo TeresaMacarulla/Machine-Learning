@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_213a462b84595cceec28e2f1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Toyota Corolla",
+  "setter": "jchongsends",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "03BB985A7A5C4848A833BD71A7429E6D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1084r15p1166r12p1215r13p1269r13p1320r13p1357r13p1388r14p1487r15p1523r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "c125e30230281875d7af2758d4fca256ec98bca0e2225a7b3d7e3a27d8034206",
+  "validation_errors": []
+}

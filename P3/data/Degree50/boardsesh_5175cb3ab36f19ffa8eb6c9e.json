@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5175cb3ab36f19ffa8eb6c9e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "lenny",
+  "setter": "FelixHellmeier",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "D29D7A8196074D11ABDD4B8E1880A54F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1160r12p1163r13p1198r13p1234r13p1268r13p1304r13p1356r13p1359r13p1394r14p1458r15p1464r15p1478r15p1506r15p1524r15p1534r15p1563r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "fdfc7a27c8bf30dd07211ce86bee9257cdc995891de18ce3b6da223af4f9a48f",
+  "validation_errors": []
+}

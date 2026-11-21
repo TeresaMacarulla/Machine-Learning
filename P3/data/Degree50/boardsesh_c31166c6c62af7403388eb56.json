@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c31166c6c62af7403388eb56.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Big tiff",
+  "setter": "joechester_kilter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6E595EAB1F194C4DB88DACF842C10D3D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1204r15p1234r12p1236r12p1281r15p1302r13p1350r13p1387r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.86,
+  "ascensionist_count": 24,
+  "quality_average": 3.76,
+  "hold_fingerprint": "130b889e29233a606f37947d1843081707db4933241afe2987e86c4d43c9b9f0",
+  "validation_errors": []
+}

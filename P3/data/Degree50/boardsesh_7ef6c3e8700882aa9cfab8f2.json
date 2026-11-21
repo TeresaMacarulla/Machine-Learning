@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7ef6c3e8700882aa9cfab8f2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Mantis Rider",
+  "setter": "freezypops",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "b2332b25-2807-47be-a53d-e44834e0a0a8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1138r12p1168r12p1220r13p1447r15p1255r13p1291r13p1452r15p1306r13p1325r13p1389r14p1536r15p1390r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.25,
+  "ascensionist_count": 5,
+  "quality_average": 3.75,
+  "hold_fingerprint": "5747faee961cfa211e976d824480a1eb9514a1dbe637ebac689efdd813c6609e",
+  "validation_errors": []
+}

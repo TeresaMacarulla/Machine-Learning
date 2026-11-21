@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d2102005ef77b51d8a1737b9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "toromivana",
+  "setter": "Eli_Climbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "265055D463294C5CB7BE4C4B8988DEF6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1179r12p1202r13p1250r13p1339r13p1372r13p1394r14p1460r15p1541r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "fef986c2c674289c5074a329418a21136c80eaa7b8350d0cd06a15a236e0b794",
+  "validation_errors": []
+}

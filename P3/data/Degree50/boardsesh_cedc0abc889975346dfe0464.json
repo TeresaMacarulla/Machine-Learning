@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cedc0abc889975346dfe0464.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Honda Accord 8 (Europe Edition)",
+  "setter": "mikser",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "B1485B04AA3C44F98F3A0E830B7F1224",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1133r15p1144r12p1182r13p1229r13p1267r13p1269r13p1307r13p1340r13p1393r14p1527r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e021bd8ea1e8bf68f5dc53a64f8c80ed8946c847a334414722d175ab4faecd97",
+  "validation_errors": []
+}

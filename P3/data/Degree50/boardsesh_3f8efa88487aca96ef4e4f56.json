@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3f8efa88487aca96ef4e4f56.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "high rise",
+  "setter": "preston0408",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "22AB0D0E749D40CA83A2D885EBB2B310",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1169r12p1216r15p1241r13p1242r15p1289r13p1339r13p1373r13p1394r14p1453r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "6a93ab2624ad4e016c2fbb8157c82dab3410d3789ca701832a4ca0a45cd7ccd4",
+  "validation_errors": []
+}

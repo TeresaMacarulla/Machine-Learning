@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_54cf2a3b999fb98e73a8508e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "super big big dyno",
+  "setter": "170",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0c0d93f3-a601-4884-876a-52d56f32608d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1485r15p1492r15p1211r12p1300r13p1302r13p1394r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "0b6ba0f313026f304f7259dd8c3b4cdcef47794dd3f29266e00f668d978aed91",
+  "validation_errors": []
+}

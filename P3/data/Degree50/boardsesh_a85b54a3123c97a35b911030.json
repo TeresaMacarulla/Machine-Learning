@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a85b54a3123c97a35b911030.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "2 exams left",
+  "setter": "sam.cg4",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "b67470fba606476f80c7ee237360b4e4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1154r15p1169r12p1187r12p1250r13p1273r15p1287r13p1299r13p1369r13p1387r14p1392r14p1452r15p1505r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.87,
+  "ascensionist_count": 16,
+  "quality_average": 2.6,
+  "hold_fingerprint": "69b84eeca7d3022c8c6187cad141032b0a2dbb3610246ccfae99b66496ec3fed",
+  "validation_errors": []
+}

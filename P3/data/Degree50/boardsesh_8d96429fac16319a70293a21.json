@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8d96429fac16319a70293a21.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Three Move Campus 0.2",
+  "setter": "camzim",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "0ca0040647034db499221f65a58576dc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1219r12p1286r13p1319r13p1333r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "43b1db5ca32f408b5a0929c29df1cf12d75950c42b32f18f0bdeb7c369ea5ebd",
+  "validation_errors": []
+}

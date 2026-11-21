@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5b80a0784f29b922cdbefa08.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Flowmaster",
+  "setter": "TomJim",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "597C8B53B5F441F8A0460141102180EC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1136r12p1188r13p1226r15p1237r13p1243r15p1268r13p1296r13p1329r13p1335r13p1383r14p1472r15p1499r15p1505r15p1549r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.09,
+  "ascensionist_count": 11,
+  "quality_average": 3.55,
+  "hold_fingerprint": "e4d5a39d3fd224f9802ad0ce540612e5e28104d9324ab64532fad256e487a366",
+  "validation_errors": []
+}

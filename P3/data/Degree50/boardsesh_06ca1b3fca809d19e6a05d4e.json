@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_06ca1b3fca809d19e6a05d4e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Clarke comfort pak 6",
+  "setter": "adam_nearing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1186067e47214a94b27bbcc7a790d38f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r12p1139r12p1190r13p1201r13p1269r13p1283r13p1334r13p1388r14p1447r15p1470r15p1487r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 30,
+  "quality_average": 3.33,
+  "hold_fingerprint": "52f0116bb00f8d21b85dd966d587965faa3346a31028b1833371b7fa7a377dda",
+  "validation_errors": []
+}

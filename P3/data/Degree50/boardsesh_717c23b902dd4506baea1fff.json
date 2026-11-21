@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_717c23b902dd4506baea1fff.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "(P)entangled",
+  "setter": "forlu138",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "b0f13dcbea96461f80b7f7d619a24faa",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1167r12p1185r12p1234r13p1252r13p1302r13p1315r13p1331r13p1383r14p1497r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "d3acc7a7f106b25e37c000b77ba9236751ed7e5927556b54931d1a3fe4a90303",
+  "validation_errors": []
+}

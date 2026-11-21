@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ef042babf01307734c3697b2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Groszek",
+  "setter": "putswirinok",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "12C54C9E2A02406EA5636AE23DCD2FAD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1171r12p1188r12p1192r15p1202r13p1267r13p1280r13p1284r13p1298r13p1345r13p1383r14p1455r15p1478r15p1537r15p1543r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.73,
+  "hold_fingerprint": "5364c82cb0ccb57eb9490169dd78cfec33ec84a80ca8adec3792defb04d51abd",
+  "validation_errors": []
+}

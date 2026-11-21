@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b9719fe5628350cdf010ea15.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "phrasing",
+  "setter": "hailsclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2B87F5C7D14E411CB5166B40B99893BE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r12p1181r12p1215r13p1269r13p1283r13p1353r13p1383r14p1385r14p1469r15p1497r15p1504r15p1524r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "0a415f770dd5b5f54a3b9b2055334828b9618e2a079b37cd48a0446099226638",
+  "validation_errors": []
+}

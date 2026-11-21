@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0315af61e7e5dce3c0a61292.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Crazy Squirrel",
+  "setter": "fatguy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "8e5d726650f14e9086c30f8fb20d81bc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1148r12p1233r13p1266r13p1316r13p1349r13p1371r13p1390r14p1459r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.99,
+  "ascensionist_count": 105,
+  "quality_average": 3.27,
+  "hold_fingerprint": "fdac289ae84dd3779b148609381f4f5cb8004414e59eda8e888888ef8967b054",
+  "validation_errors": []
+}

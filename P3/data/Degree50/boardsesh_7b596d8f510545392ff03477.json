@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b596d8f510545392ff03477.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Have Snap Will Travel",
+  "setter": "KilterStudio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "A1CAF817518E45F697CA9F7DE6033077",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1184r12p1187r12p1235r13p1299r13p1302r13p1384r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3442,
+  "quality_average": 3.240511182108626,
+  "hold_fingerprint": "41c56c4eb66c9aab8f09d2d30e4173a893b817c54c6bdfb11b2011316f81b89c",
+  "validation_errors": []
+}

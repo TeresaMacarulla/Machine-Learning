@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4adeea449d662c28a3df3deb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Line Drive",
+  "setter": "ThatClimbingPanda",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "02259D3795DF44BEBCE2CD23D062CB4F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r12p1188r13p1256r13p1307r13p1375r14p1451r15p1480r12p1544r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 5.0,
+  "hold_fingerprint": "056070f2808b9bf829df41e376d516a1aeda61a84f64809fb1f115bef7137dd0",
+  "validation_errors": []
+}

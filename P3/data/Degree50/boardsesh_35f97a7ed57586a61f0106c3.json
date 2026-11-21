@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_35f97a7ed57586a61f0106c3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Give it some POP",
+  "setter": "RedFox15",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "B0E0489FC5184A4EB8195C9783527916",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1114r12p1129r12p1161r13p1179r13p1192r13p1243r13p1248r15p1281r13p1294r13p1348r13p1382r14p1457r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2d8101a5b0af3626ea5e911d625dfee3340a6ea012625e9c8b21618420cf857b",
+  "validation_errors": []
+}

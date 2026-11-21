@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_03f8e3eb3ec34968639ddeac.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "bjark",
+  "setter": "BirkUtenC",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "dfae9e473501431396d14fdc5943891f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1187r12p1240r12p1284r13p1289r13p1334r13p1365r13p1380r14p1383r14p1500r15p1539r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "38d38fdefb464a6b47aaf33ca23dc48321c009edc0f18bbf34bb0ed3daa1ae36",
+  "validation_errors": []
+}

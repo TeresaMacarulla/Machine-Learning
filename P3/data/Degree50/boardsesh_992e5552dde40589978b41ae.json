@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_992e5552dde40589978b41ae.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Wizardo",
+  "setter": "steil_boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "344870FB78884823855F2532530F3C44",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1161r12p1214r13p1271r13p1336r13p1392r14p1457r15p1523r13p1542r13p1579r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.94,
+  "ascensionist_count": 70,
+  "quality_average": 3.31,
+  "hold_fingerprint": "b43f8578ffe342ce8e62ed0a2fb2b0559af4dedf3767ff327e1cfa2f9cb7da28",
+  "validation_errors": []
+}

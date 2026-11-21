@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f15f7d924e58222c15f0a171.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "panda pinch",
+  "setter": "coverdalien",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "db299730-1ff0-4051-815b-cc1455c4a150",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1157r15p1241r13p1189r12p1255r13p1273r13p1202r15p1533r15p1542r15p1305r13p1304r13p1336r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 0,
+  "quality_average": null,
+  "hold_fingerprint": "39a0e40f5cd75b840ee33793ccc02b0ff9499add329dbca496e2b4f0ad1e665e",
+  "validation_errors": []
+}

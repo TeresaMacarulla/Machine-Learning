@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_70f04aecfae544bcbb179c0a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Kiss FM",
+  "setter": "KilterStudio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "AC3710E0D8AD4908BE64EC50EA84D3A4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1094r15p1112r12p1143r12p1214r13p1263r13p1316r13p1346r13p1381r14p1459r15p1494r15p1512r15p1540r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.98,
+  "ascensionist_count": 522,
+  "quality_average": 3.44,
+  "hold_fingerprint": "03057706cfd9a9f5491ad5f6319bf8f7813b4462a1a49a64fdcfcbe3ce480f60",
+  "validation_errors": []
+}

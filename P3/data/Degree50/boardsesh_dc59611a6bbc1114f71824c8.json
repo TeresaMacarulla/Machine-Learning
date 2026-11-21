@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dc59611a6bbc1114f71824c8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Power endurance",
+  "setter": "NoamAradGever",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "5eca72cc902a4a4098b705d1f8e5192e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1096r15p1149r12p1230r13p1239r15p1248r13p1295r13p1322r13p1339r13p1344r13p1351r13p1352r13p1395r14p1493r15p1510r15p1542r15p1545r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.86,
+  "ascensionist_count": 7,
+  "quality_average": 3.57,
+  "hold_fingerprint": "2a107064f249130832deea0dee5a5da3a889932b74af3c99e15a6c11625c5539",
+  "validation_errors": []
+}

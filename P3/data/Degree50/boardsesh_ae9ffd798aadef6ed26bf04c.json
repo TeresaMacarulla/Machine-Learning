@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ae9ffd798aadef6ed26bf04c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Hacking the Sack",
+  "setter": "Hazen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "b996f38b345546809eb7424927142fdb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1170r12p1235r13p1303r13p1351r13p1386r14p1478r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "36332b07a1c29068f3f232f714555a520120ec78f875b7e8f2b8bbad1f13aac5",
+  "validation_errors": []
+}

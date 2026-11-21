@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4fb08bbd9e69892a0a9f7556.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "CC Power1",
+  "setter": "kklein28",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "D81C0D4741FE404F974A10B96974302D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r15p1230r12p1234r12p1302r13p1337r13p1386r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.33,
+  "ascensionist_count": 14,
+  "quality_average": 3.11,
+  "hold_fingerprint": "804a5b4120f78d98b6674c89a69108869194aadd3ca419a6ada00290ee145945",
+  "validation_errors": []
+}

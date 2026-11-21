@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6b98c393b59a32e4c83ced40.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Mini Megos",
+  "setter": "AndiQ",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "08394625b52d4e82b2fb5dac8c5eadfb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1109r12p1142r12p1163r13p1234r13p1288r13p1340r13p1394r14p1525r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.64,
+  "hold_fingerprint": "24278293005b353018d12d1ca18cb0f039e59fd71858d73b338cc620a44b148b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3a75d6c08912c0d71b6b20aa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Turn the Boot!",
+  "setter": "TonyMaroney",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "7B27B1266446414EA63763B3FB388151",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1099r15p1153r12p1169r12p1171r15p1200r15p1205r13p1236r13p1272r13p1320r14p1323r14p1490r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.57,
+  "ascensionist_count": 7,
+  "quality_average": 2.43,
+  "hold_fingerprint": "64cf205d0b7054c605eb64d26542f960cd9c954eebfe1780af23e6c6876563a4",
+  "validation_errors": []
+}

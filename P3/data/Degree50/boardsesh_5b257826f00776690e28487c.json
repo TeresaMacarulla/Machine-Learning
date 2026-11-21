@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5b257826f00776690e28487c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Shoulder displacement",
+  "setter": "BilboBaggins122",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FF93FC01B575425FB6BE9D2E563D0BCA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1125r12p1180r12p1231r13p1236r13p1304r13p1325r13p1353r13p1367r13p1379r14p1489r15p1526r15p1553r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ac3d64ec7c4043288a22f4e329674b8b64785da03a50f1dbc186adfbac276993",
+  "validation_errors": []
+}

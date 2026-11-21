@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_050c2152b4beec6dfe38ce43.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Okie Boy",
+  "setter": "scro",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FD3E805CBE674DDA966257A375244702",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1149r12p1164r12p1192r15p1215r13p1247r13p1280r13p1294r13p1312r13p1380r13p1384r14p1458r15p1467r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.79,
+  "ascensionist_count": 30,
+  "quality_average": 3.61,
+  "hold_fingerprint": "6790f901ae99a62a5fd36d3e4fb4637516004b182942ed8064e88dc7c2fd8dfb",
+  "validation_errors": []
+}

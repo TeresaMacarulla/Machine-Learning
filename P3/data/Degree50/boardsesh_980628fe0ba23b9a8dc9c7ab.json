@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_980628fe0ba23b9a8dc9c7ab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "floats your boat direct",
+  "setter": "strings",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "160907E75BC94811B6C7E0FE1A6FC2D4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1131r15p1144r15p1165r15p1198r12p1200r12p1234r13p1252r15p1317r13p1387r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 44,
+  "quality_average": 3.2100000000000004,
+  "hold_fingerprint": "2548dfab595f673e712b103418c54e1f7bb991a27a93f4d6efdbe534ed387d82",
+  "validation_errors": []
+}

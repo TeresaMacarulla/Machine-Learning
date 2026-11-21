@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8fa5b1154efa8fcfe4cded4a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "sawai_climber2",
+  "setter": "sawai_climber",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "732FAE4EE6CA4F15BB7CEB76E174BF5E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r13p1116r12p1168r12p1236r13p1242r15p1252r13p1292r13p1308r13p1340r13p1389r14p1391r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "556f531cfc4546e64214d571d1222ce9c9b1de3a19bff9624cbf5dc053b685e9",
+  "validation_errors": []
+}

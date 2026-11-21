@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_24aaafd321be665b2ef064c8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "break down the system",
+  "setter": "gianiclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "33d63c8c606647e5896f3acf031951c1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1123r12p1152r12p1210r15p1222r13p1233r13p1283r13p1314r13p1383r14p1447r15p1499r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "702e7c1663d4b3511275fd39e62c666f33fa8a8cb42a4a88d5e10e71635958b2",
+  "validation_errors": []
+}

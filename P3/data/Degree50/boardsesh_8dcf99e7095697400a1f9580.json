@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8dcf99e7095697400a1f9580.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "oublis pas tes doigts",
+  "setter": "audreypicard1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7fa5016b5923449985bf38610e889334",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1095r15p1100r15p1165r12p1166r12p1203r13p1218r13p1270r13p1303r13p1336r13p1384r14p1504r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.98,
+  "ascensionist_count": 351,
+  "quality_average": 3.4715186246418344,
+  "hold_fingerprint": "203ce8a7d2cd18d1507b117865fbf943b2072ce5127830723263c1be04926ba5",
+  "validation_errors": []
+}

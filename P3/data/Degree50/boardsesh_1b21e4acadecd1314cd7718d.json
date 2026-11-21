@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1b21e4acadecd1314cd7718d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "G00IE",
+  "setter": "scottyB94",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "049bccb6db504c7199d8fb92cfba6c1f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1187r13p1201r13p1254r13p1266r13p1300r13p1347r13p1382r14p1447r15p1453r15p1478r15p1480r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 6,
+  "quality_average": 4.8,
+  "hold_fingerprint": "c769b3dabab32c46c6acfe7fb69283df4f2f07277cadc4cef3808f71172c415b",
+  "validation_errors": []
+}

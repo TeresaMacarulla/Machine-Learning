@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_600b2092f3605dadcf61d60a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Han 3",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "D11CB3BA0D804490B0CADF1EAA14A250",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1250r12p1369r13p1382r14p1512r15p1514r15p1540r12p1576r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.96,
+  "ascensionist_count": 280,
+  "quality_average": 3.27,
+  "hold_fingerprint": "2d7c4279954bbc8a008422d42d14d01f67ddf0a2c032278e7c070311bb398b53",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_27c79dd126ebaef6add5b8b6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Bounding",
+  "setter": "PJP",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "365E68FBC1CF4AEDA4FAE89B8DF2C3B4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r12p1169r12p1205r13p1270r13p1272r13p1320r13p1356r13p1387r14p1453r15p1471r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c770869027e65b0a1650ee5ffec8870834f5e881f3515b1a84b2d2a388070dd8",
+  "validation_errors": []
+}

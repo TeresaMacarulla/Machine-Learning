@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4e095fec583525fe97b91701.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "just Jump twin ( only left foot )",
+  "setter": "Talvinsclimb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "DAC60034BC2041CAB4D8BA2408DFF2D8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1175r12p1213r13p1236r15p1248r13p1302r13p1321r13p1357r13p1394r14p1464r15p1484r15p1540r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "b6dbc9243eb2d3e45345f35baedf6b90be73baf1cdb410daa5cd777c7bb46e60",
+  "validation_errors": []
+}

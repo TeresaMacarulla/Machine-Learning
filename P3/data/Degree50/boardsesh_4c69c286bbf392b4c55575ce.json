@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4c69c286bbf392b4c55575ce.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "subaru forester",
+  "setter": "samgtmeyer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b44897f356ed45fabefec9f1d3a9ce2e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1123r12p1136r12p1150r15p1170r15p1191r15p1221r15p1223r13p1271r13p1272r13p1356r13p1394r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 19,
+  "quality_average": 3.37,
+  "hold_fingerprint": "fe219cc70b77b2807050e7680772cb10c1b5d2997635f8435f50f0db8bef2ffe",
+  "validation_errors": []
+}

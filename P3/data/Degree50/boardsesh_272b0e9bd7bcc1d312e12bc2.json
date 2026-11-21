@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_272b0e9bd7bcc1d312e12bc2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "right pincher",
+  "setter": "kanachan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "549971A214F54960B491363A8B2305E5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1149r12p1216r13p1229r13p1280r13p1283r13p1332r13p1381r14p1457r15p1493r15p1502r15p1522r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "09bf24b83f0fe56e9a5e36ad8656e9cffbbfb5d4b2916086616f2b236e4e6dd0",
+  "validation_errors": []
+}

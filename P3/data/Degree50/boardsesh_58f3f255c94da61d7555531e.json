@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_58f3f255c94da61d7555531e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Frontside",
+  "setter": "adriankask",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0f079dddd7c74cd3b34ebe9556d0078a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r15p1165r12p1182r12p1250r13p1265r15p1289r13p1356r13p1390r14p1457r15p1476r15p1550r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.97,
+  "ascensionist_count": 969,
+  "quality_average": 3.31,
+  "hold_fingerprint": "577e2bd06085c9544b45d78ec59fdd89c8fe104c8a9c95829bca6523cf5af65b",
+  "validation_errors": []
+}

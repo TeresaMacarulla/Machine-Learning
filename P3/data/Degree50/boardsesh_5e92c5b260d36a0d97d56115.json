@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5e92c5b260d36a0d97d56115.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Stimulator Simulator",
+  "setter": "Chipcashew",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "C430DE7052D84FAF8BB1BF640F4F94E3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1191r12p1206r12p1214r15p1273r13p1285r13p1301r13p1389r14p1482r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6bdfde13cc603f772497f0b4a9e6c9b7ae50940294755f71ee8ba96bcaedefc2",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_af4e89e96b70c069e0e50127.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "I forgot my shoes",
+  "setter": "popo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "c0f1dd1dcc4b462ca3912511f5db7fab",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1194r12p1196r12p1246r13p1247r13p1300r13p1317r13p1352r13p1387r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c29f27918ea1b6cf2fcb4eb1dacda820e627adcf9bccec1ea3dbaee27f0156f7",
+  "validation_errors": []
+}

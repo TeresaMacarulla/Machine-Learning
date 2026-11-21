@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b1769f08d91c485707d18e0d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "campus circuit 1",
+  "setter": "mackintosh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "61CD4A1379C24B59A8B19C49F75395A8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1248r12p1251r12p1319r13p1355r13p1388r14p1390r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "83c075cf326494c9907c08a5ec5ef451496c88d8afb4ab7ebd03f20169262097",
+  "validation_errors": []
+}

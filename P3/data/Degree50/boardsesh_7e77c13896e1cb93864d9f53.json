@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7e77c13896e1cb93864d9f53.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "KSAS1",
+  "setter": "Kingsley",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "89a6da1333344726825e877f33719145",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r12p1140r12p1206r13p1239r13p1249r15p1256r13p1303r13p1355r13p1387r14p1447r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "d35bf70084312404b685dfd543cb3bf88a1e4954cf8f0cc248900a2f35730289",
+  "validation_errors": []
+}

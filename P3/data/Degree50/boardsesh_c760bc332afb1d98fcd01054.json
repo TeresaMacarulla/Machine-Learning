@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c760bc332afb1d98fcd01054.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "unison",
+  "setter": "damndaniel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "00bf8a3a-9cb4-409b-b28c-9a4ab17b8fd6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1302r13p1272r13p1244r12p1211r12p1158r15p1537r15p1281r13p1535r15p1291r13p1509r15p1344r14p1571r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "376fc7f79110651d950fc4cfa42ac1f40a584a6502c96efe910eb04abf16d9e5",
+  "validation_errors": []
+}

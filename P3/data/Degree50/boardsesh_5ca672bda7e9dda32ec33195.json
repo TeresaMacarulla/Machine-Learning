@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5ca672bda7e9dda32ec33195.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Revolt",
+  "setter": "importedbean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "54834124B56C45AC9794C7260305A9C7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1187r12p1219r13p1266r13p1270r13p1351r13p1384r14p1451r15p1505r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "22f9f5ee52322d1a7a3e84c1498e981f82446bd5e6508da23dced026d2e412d2",
+  "validation_errors": []
+}

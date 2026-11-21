@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_396e77f6902fca682b8a215e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Vorpal Blade",
+  "setter": "ramsayromero",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E78538637B944EE7A28B0860DAF06DCF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1132r12p1164r12p1178r13p1230r13p1248r13p1287r13p1321r13p1344r13p1394r14p1467r15p1474r15p1533r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "464f1b10a028971e60224c98823c3119132cfe2dd0a495ec4912da0dfcc3e2b5",
+  "validation_errors": []
+}

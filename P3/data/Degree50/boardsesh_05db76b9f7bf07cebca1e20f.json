@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_05db76b9f7bf07cebca1e20f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Shake that tree",
+  "setter": "bensnead1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0D8B927F37494E80AC5D8BD5593BA057",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1119r12p1201r13p1223r12p1236r13p1247r13p1335r13p1354r13p1391r14p1448r15p1482r15p1503r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "a80ed600223609826c2066c93593b64f150a82868256c0d19fc89c3c2011e07d",
+  "validation_errors": []
+}

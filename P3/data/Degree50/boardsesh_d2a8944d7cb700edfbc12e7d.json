@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d2a8944d7cb700edfbc12e7d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "bad app",
+  "setter": "michl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "fdf20e7f-4a6f-4683-bcfb-141244ebab2e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1182r12p1137r15p1231r13p1454r15p1506r15p1285r13p1317r13p1387r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.75,
+  "ascensionist_count": 5,
+  "quality_average": 4.0,
+  "hold_fingerprint": "2d79195ce277b7d7d4fb1f6da04d889b2e114e02defb19079328516a6352b0d7",
+  "validation_errors": []
+}

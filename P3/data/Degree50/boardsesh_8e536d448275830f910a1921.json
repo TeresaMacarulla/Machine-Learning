@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8e536d448275830f910a1921.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Tickle Me Silly",
+  "setter": "tomheslam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "FF62C62DB6194D8B9C9541AC73634C4D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1198r13p1202r13p1269r13p1301r13p1335r13p1387r14p1459r15p1485r12p1488r15p1540r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "dc0adbeac383f7cdb4867bec003c5cb5e2f72e2d410cd36fb1bdfd7d0e2cc0e3",
+  "validation_errors": []
+}

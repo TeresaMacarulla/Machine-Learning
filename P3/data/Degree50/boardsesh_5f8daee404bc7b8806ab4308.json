@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5f8daee404bc7b8806ab4308.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "ready set stop",
+  "setter": "Donny4",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5571AB5AE7CB4C92BC73039F74E4980A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1149r15p1163r12p1212r13p1249r13p1264r13p1301r13p1350r13p1388r14p1460r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0b39f3b6ad9bf533915a33ed298ad2b939d23cab441f04b93658eb7f0a455710",
+  "validation_errors": []
+}

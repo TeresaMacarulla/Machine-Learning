@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eac0aea3a7832d91e938d4dc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "that thing",
+  "setter": "tacomaclimber",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "C7AA92A1DE394A59BE44044C45732C5D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1149r12p1171r15p1202r13p1215r13p1286r13p1323r13p1371r13p1387r14p1454r15p1457r15p1542r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.96,
+  "ascensionist_count": 76,
+  "quality_average": 3.32,
+  "hold_fingerprint": "ceccf685c6efaaf0aa305e251dc66d2c4ece83c91c51d408753e7e963dc7828d",
+  "validation_errors": []
+}

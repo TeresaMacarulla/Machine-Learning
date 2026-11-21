@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b6963c1e22636970baab0863.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Primer bloc del marc",
+  "setter": "marcllobet",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "99a6c5054af04449821bc24b3ce02caa",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1148r12p1179r13p1228r13p1281r13p1330r13p1383r14p1458r15p1466r15p1512r15p1531r15p1549r15p1559r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "39bee35998afb5d334917dd9e17a557bd854d90a89262cdbfbef4974107cc402",
+  "validation_errors": []
+}

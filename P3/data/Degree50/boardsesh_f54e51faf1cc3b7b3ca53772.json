@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f54e51faf1cc3b7b3ca53772.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Fun Control",
+  "setter": "yevyevquest",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FF38A4DF8ACC4D36A09344C3EFA162DA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1092r15p1147r12p1166r12p1179r13p1231r13p1263r13p1316r13p1347r13p1362r13p1363r13p1379r14p1458r15p1513r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.67,
+  "ascensionist_count": 5,
+  "quality_average": 4.0,
+  "hold_fingerprint": "b0c277dcc7e12e0eb50ca40ff34ed7856bb491b1b79110371af73dc98f25f017",
+  "validation_errors": []
+}

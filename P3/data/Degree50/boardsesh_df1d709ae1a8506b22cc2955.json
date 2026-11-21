@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_df1d709ae1a8506b22cc2955.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Bloody ROSE",
+  "setter": "Shinji.Kohsaka",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "359446CB04AB485E9531218077C0E4F1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r15p1127r12p1157r15p1163r13p1187r13p1188r15p1215r13p1223r13p1236r13p1274r13p1324r13p1391r14p1462r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.5,
+  "ascensionist_count": 12,
+  "quality_average": 5.0,
+  "hold_fingerprint": "b8b29a41de94969b1917e5862be2936bff5a006331194d32b76f472446cac682",
+  "validation_errors": []
+}

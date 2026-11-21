@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0d383997d17d4273041c2701.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Ghetto Excerpt",
+  "setter": "hangar18LB",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 8,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F83F01791C7746C8973C35866F399080",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1151r15p1170r15p1178r15p1214r12p1235r13p1236r13p1248r12p1285r13p1288r13p1289r13p1290r13p1324r13p1340r13p1391r14p1392r14p1490r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "f6152ac14df8a1d90e5162d61306bd71041c675f10c4f54d4c626c2fc486fca7",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_570ec6be089cda2b6577004a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Forward bay park",
+  "setter": "thosearentholds",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "11481EA0957B4902BEF79FB47005654B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r14p1157r15p1220r13p1245r12p1255r13p1295r12p1303r13p1336r13p1349r13p1496r15p1519r15p1531r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "146996e3949ab0cbfd59523317da5420f03d88bb36e747523285be719c66d4b4",
+  "validation_errors": []
+}

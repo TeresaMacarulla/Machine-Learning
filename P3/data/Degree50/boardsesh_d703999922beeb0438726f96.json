@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d703999922beeb0438726f96.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Five Below",
+  "setter": "Hamiter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "18ecefd07a754c6d8e4391cf3c230afc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r15p1149r12p1154r15p1199r12p1238r13p1287r13p1299r13p1351r13p1382r14p1459r15p1496r15p1547r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.91,
+  "ascensionist_count": 56,
+  "quality_average": 3.48,
+  "hold_fingerprint": "606e4c37dbd4e759072f14d65536ed33afadebdc1be99e4681ceb991ed317761",
+  "validation_errors": []
+}

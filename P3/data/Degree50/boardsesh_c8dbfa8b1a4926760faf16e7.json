@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c8dbfa8b1a4926760faf16e7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "AC/CC",
+  "setter": "Vladimir_Putyakov",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "a4f9e393-8c77-4a11-be4b-4084aab891c1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1267r13p1162r12p1559r13p1286r13p1125r12p1107r15p1195r15p1352r13p1219r15p1230r13p1384r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "c2fdbe3d3c223170180080ff007a43e4063a936a10561d5e06b1cbc8f87ea17e",
+  "validation_errors": []
+}

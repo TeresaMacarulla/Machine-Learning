@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2e49905af55eed0b5429b80b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "tooter",
+  "setter": "ColbyL",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "DFD459547DE14938BD10AB0DE956664E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1180r12p1201r12p1269r13p1271r13p1322r13p1389r14p1503r15p1535r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.25,
+  "hold_fingerprint": "bdae7abe37c7dae16ec174bfcd084612d1c745923cb0ce78c92bc2a34094b66e",
+  "validation_errors": []
+}

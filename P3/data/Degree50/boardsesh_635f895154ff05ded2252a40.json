@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_635f895154ff05ded2252a40.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "BIG 2",
+  "setter": "Legrand_Erwan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1c15d9a7317f487ba9aa99076063c819",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1109r12p1192r12p1246r13p1278r13p1283r13p1350r13p1354r13p1390r14p1513r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "4eaf06ee12efdebf4f914c28264c2b43c1539e2227dbbb809841e6ee94b70d1d",
+  "validation_errors": []
+}

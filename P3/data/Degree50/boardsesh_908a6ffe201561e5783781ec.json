@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_908a6ffe201561e5783781ec.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Cut Feed Not Onions",
+  "setter": "spidermonkey",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E8BB051D6C7349D2AE7DF2EF5BFBDEFB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1134r12p1135r12p1150r15p1182r13p1183r13p1231r13p1297r13p1331r13p1368r13p1387r14p1452r15p1476r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.99,
+  "ascensionist_count": 77,
+  "quality_average": 3.32,
+  "hold_fingerprint": "0fb2fa17fe040845861d555a1b73211f0bf5cf31b868adff3098ddc32544d585",
+  "validation_errors": []
+}

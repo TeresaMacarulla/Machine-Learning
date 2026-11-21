@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_502bc2e8b76f74c5999000f1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Skifahrkurs",
+  "setter": "Lewin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "66E0B3DDF6344D73B34E37301E26AEAB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1218r13p1222r13p1283r13p1287r13p1351r13p1352r13p1390r14p1453r15p1505r15p1509r15p1514r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.2,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "b8124830c8d2e6ae9f13142b5280715b5273c7c1a7c1c4a964e22bb6138d942a",
+  "validation_errors": []
+}

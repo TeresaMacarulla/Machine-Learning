@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_92c0776cc969bc36b913ff87.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Yakul",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "f15f1a50daa1459fbe9e46c875cd560a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1130r15p1147r12p1166r12p1215r13p1269r13p1302r13p1354r13p1385r14p1532r15p1557r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.07,
+  "ascensionist_count": 14,
+  "quality_average": 3.36,
+  "hold_fingerprint": "8ac2e419dbb2b24068d8e43b9b719599a9eb2067e61f23b1cafa4548f9802132",
+  "validation_errors": []
+}

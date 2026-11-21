@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3d21f2343b0fea7a14834db0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Flying into wrist pain",
+  "setter": "ClimbsALot33",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "77F3161D4E56414AA75867FBC8ED14AB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r15p1171r15p1257r12p1259r12p1359r13p1371r13p1383r14p1385r14p1387r13p1593r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.87,
+  "ascensionist_count": 30,
+  "quality_average": 3.63,
+  "hold_fingerprint": "cc92cb5ef057e0c9df9a3abf98f36940eeca3f45181175dda1ad788461690257",
+  "validation_errors": []
+}

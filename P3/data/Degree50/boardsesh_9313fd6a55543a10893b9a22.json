@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9313fd6a55543a10893b9a22.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "To the right",
+  "setter": "teamcampus",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "9f77c12e52dc43aea527ff203fd775ef",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1130r15p1145r15p1193r12p1200r15p1214r12p1247r13p1300r13p1302r13p1356r13p1387r14p1568r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.02,
+  "ascensionist_count": 3995,
+  "quality_average": 3.250876533934385,
+  "hold_fingerprint": "aef84ba66be2564a38df81ca3144581094bacb3a33a6d58bcb8bda7869a39fce",
+  "validation_errors": []
+}

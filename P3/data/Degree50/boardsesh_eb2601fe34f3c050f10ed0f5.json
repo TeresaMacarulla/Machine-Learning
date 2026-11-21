@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eb2601fe34f3c050f10ed0f5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Snake Juice",
+  "setter": "bluemoo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 7,
+    "foot": 10
+  },
+  "source": "boardsesh",
+  "source_uuid": "82f4e650c521455b95df91eca42c4d98",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1075r15p1078r15p1130r15p1134r12p1156r12p1169r15p1197r15p1201r13p1205r13p1233r15p1252r13p1253r15p1282r13p1303r13p1321r13p1340r14p1342r13p1377r14p1453r15p1471r15p1507r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e7f6c92eba47ffa170a8bb22a645a0820434c971611aa82e4826d64657139f50",
+  "validation_errors": []
+}

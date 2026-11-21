@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_253f90656fc28a9b58392dd1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "360p",
+  "setter": "AlexM0927",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "B1B66F01506F4C4AA86DEB3A2CC20A36",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1190r12p1204r12p1241r13p1271r13p1288r13p1337r13p1354r13p1384r14p1482r15p1489r15p1559r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5e2a1cf2cd956aec00c61543aa90a85289c758abab8e43fb219b4e38fffed320",
+  "validation_errors": []
+}

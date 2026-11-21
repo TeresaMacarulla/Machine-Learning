@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_56877837061527c5a558c234.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Dyno Pitstop",
+  "setter": "brianr3697",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "a24a3a74fe9d46efb71094f9e4dcb66c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1243r12p1263r13p1331r13p1333r13p1380r14p1483r15p1485r15p1492r15p1501r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.94,
+  "ascensionist_count": 35,
+  "quality_average": 3.65,
+  "hold_fingerprint": "00284c23f171e58d114f03b576ac380d20775e5b6702161570316fbc1da0a2a4",
+  "validation_errors": []
+}

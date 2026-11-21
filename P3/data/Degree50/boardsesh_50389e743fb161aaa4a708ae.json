@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_50389e743fb161aaa4a708ae.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "front bumper",
+  "setter": "ArchieH",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "9660feb0-e4a3-407e-a235-5c144be90567",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1235r13p1506r12p1187r12p1077r15p1449r15p1288r13p1339r13p1578r13p1358r13p1388r14p1553r15p1190r15p1517r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.2,
+  "ascensionist_count": 8,
+  "quality_average": 3.8,
+  "hold_fingerprint": "4ed843db8b594b38229a977a02e40e1913c8fd4be524cd097f4a82fe49f2a912",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_751c5501fec3335067a579ab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Milit\u00e6r navigering",
+  "setter": "aksel_olsen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "15391b4297fb4160ac984077045bdc46",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1145r12p1187r15p1214r13p1269r13p1270r13p1309r13p1339r13p1392r14p1459r15p1505r15p1516r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "462cf1c359739ebf426a45e2814e46804772acd5c87ac27212bf3e82e394c350",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f841110835ebaf8ab9e0379a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "franconian ground",
+  "setter": "ayaan.climbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "5B8C350D18D14A02B4B0B469E066BE46",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1219r12p1220r12p1305r13p1390r14p1488r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b2dc4e04ca152e75ca79a2ec979d13b40654bc620fdc346c7ac0e40ea700fec0",
+  "validation_errors": []
+}

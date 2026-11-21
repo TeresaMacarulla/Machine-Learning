@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d88e585ba0b614296d278d3d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "campus-problem2",
+  "setter": "teregen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "CE360842B2DF4D37838D3F8D405B16B3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1230r12p1233r12p1248r13p1269r13p1283r13p1320r13p1322r13p1356r13p1387r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d4d24012d4e6153af57ce6daedaf03ac11aaa0d9e4b1977537c37ae829c95299",
+  "validation_errors": []
+}

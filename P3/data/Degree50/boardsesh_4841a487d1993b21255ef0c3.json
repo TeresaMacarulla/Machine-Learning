@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4841a487d1993b21255ef0c3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Get a Grip",
+  "setter": "yifanluo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "72AD2E47D5DC49038BEED4D80F242CD6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1148r12p1175r15p1186r12p1196r13p1202r13p1216r13p1228r13p1245r13p1315r13p1345r13p1384r14p1456r15p1519r15p1537r15p1586r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "5609ce845267223b89c8c7d946f32759090dd45a7cb6e94a7d08783d74597e1a",
+  "validation_errors": []
+}

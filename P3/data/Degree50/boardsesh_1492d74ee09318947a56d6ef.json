@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1492d74ee09318947a56d6ef.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "sanasana#02",
+  "setter": "sanada_stretch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "67FFC8D1D3C641C4A58D802F395B199B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1189r12p1257r13p1270r13p1283r13p1291r13p1332r15p1337r13p1385r14p1451r15p1482r15p1551r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "0ed15323262f0ed93730bccc7bc3fbd6ee7e73b4d08d06a361dc30cf4f6b97e1",
+  "validation_errors": []
+}

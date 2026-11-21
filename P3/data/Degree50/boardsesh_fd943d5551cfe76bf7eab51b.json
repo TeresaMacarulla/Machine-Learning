@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fd943d5551cfe76bf7eab51b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Puckered Up",
+  "setter": "GirthQuake",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "A6CCBF1060A349AAAC720286AC7B20E4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1154r15p1185r12p1186r12p1204r15p1219r15p1230r13p1250r13p1262r13p1312r13p1330r13p1369r13p1387r14p1504r13p1528r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a1391c3ecdd3b16056fe8c681b58acb28da7d5000c7afdabfc9a0dfbfcb6104f",
+  "validation_errors": []
+}

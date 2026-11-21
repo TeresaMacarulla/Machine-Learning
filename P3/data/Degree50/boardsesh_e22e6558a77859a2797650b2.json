@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e22e6558a77859a2797650b2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Chalk it and walk it",
+  "setter": "Xerat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "e585dc431e5d4390bf7673111777d625",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1075r15p1138r12p1152r12p1157r15p1200r15p1205r13p1236r13p1268r13p1287r13p1317r13p1387r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.11,
+  "ascensionist_count": 18,
+  "quality_average": 3.44,
+  "hold_fingerprint": "4e39e0c358f9346cf9f4ba60c5894d3bde375928f0b3941566199596d86fa3e3",
+  "validation_errors": []
+}

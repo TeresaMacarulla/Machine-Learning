@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7aae32eb7fe4d5505dcca524.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Ground Control to Major Tom",
+  "setter": "drewclimbthru",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "026f865f-5e59-4451-9c92-1cf3278825b5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1287r13p1266r13p1196r12p1233r12p1152r15p1387r14p1485r15p1506r15p1181r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.75,
+  "ascensionist_count": 5,
+  "quality_average": 4.5,
+  "hold_fingerprint": "7dda1a6e6b3e535f9e1b4e6509c557f9882a8739c40a09bbdf05e8af0b093c2e",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e72ff03e5679e226d2aa73eb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "just marmelade",
+  "setter": "faucet",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "34f1a00969504cbbbd9a1e543bee6453",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1144r12p1150r15p1164r12p1191r15p1200r13p1217r13p1256r13p1289r13p1325r13p1394r14p1544r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "4ecd6ce2071f35c46a446f2d309443d9af1262e1eee0c74c0e9a3c5f1322a3fe",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3f19bc74f662959c79ac8dff.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Dionysus",
+  "setter": "wbaghuis",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "580df8c4-8722-41dc-a96f-0cd79d3d584d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1223r12p1239r12p1291r13p1289r13p1359r13p1356r13p1373r13p1387r14p1157r15p1120r15p1508r15p1219r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.86,
+  "ascensionist_count": 23,
+  "quality_average": 2.86,
+  "hold_fingerprint": "91ac2c8fb4e64c452476208b04be91a8a7171c0a97c8a1a793e5fbddb7b68616",
+  "validation_errors": []
+}

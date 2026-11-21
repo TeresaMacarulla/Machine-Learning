@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c3487e9ea77c62ac443e475f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "ale-t-1",
+  "setter": "noahblackdiamond",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "effa38c7-aaed-4288-88d7-0ba560c18a44",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1219r13p1254r13p1284r13p1366r13p1379r14p1450r15p1154r12p1134r12p1188r13p1453r15p1165r15p1197r15p1319r13p1315r13p1212r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.8,
+  "ascensionist_count": 7,
+  "quality_average": 2.2,
+  "hold_fingerprint": "664847a62fd77ca29da36ca739882ad008fedd48b1f15cc4e79483154f92e49a",
+  "validation_errors": []
+}

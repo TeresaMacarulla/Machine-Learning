@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_565969442255cc041c017c69.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Yalo-halo",
+  "setter": "yalowega",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "09793EE67F494669A7A65606E1DFCB8F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1180r12p1218r13p1268r13p1336r13p1384r14p1459r15p1467r15p1469r15p1506r15p1540r15p1560r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 49,
+  "quality_average": 3.28,
+  "hold_fingerprint": "9eec8dcc90445665b6a266041e3541a692320fbfa4115f423b0524d5dc21f6ea",
+  "validation_errors": []
+}

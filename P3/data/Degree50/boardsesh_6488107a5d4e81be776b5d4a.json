@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6488107a5d4e81be776b5d4a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "dyno cen",
+  "setter": "kipper111",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "011eb6f11b0e4c8a96dbca433052b8b9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1108r15p1142r12p1192r12p1226r15p1246r13p1294r13p1380r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "af0d3ba5e8fd416703c939ba5f3f246f9419c99055ee3cd84fc9ec20c06dac86",
+  "validation_errors": []
+}

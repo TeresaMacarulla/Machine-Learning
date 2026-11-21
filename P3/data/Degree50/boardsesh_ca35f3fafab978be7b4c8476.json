@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ca35f3fafab978be7b4c8476.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Hot War",
+  "setter": "nate02",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "D6CBDE1E1C8E4C9C9513C303BAC62E56",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1144r12p1214r13p1282r13p1321r13p1355r13p1395r14p1521r13p1553r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d29d7dd4ca0a6c842c0a5cb203433758a723531275a81a478b91373838f51be0",
+  "validation_errors": []
+}

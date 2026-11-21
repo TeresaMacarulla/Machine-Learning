@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a1fbf195cd8accb96589a4e4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "bento box",
+  "setter": "jazzhands1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E16B2C89B7C84259A4A4270DF7CF29B5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1212r13p1213r13p1250r13p1252r13p1321r13p1325r13p1394r14p1458r15p1502r15p1534r15p1554r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.92,
+  "ascensionist_count": 12,
+  "quality_average": 3.25,
+  "hold_fingerprint": "da7aee6625bf111b928566679473d749e4b1ff1a62dd37e8ae40e6668423362c",
+  "validation_errors": []
+}

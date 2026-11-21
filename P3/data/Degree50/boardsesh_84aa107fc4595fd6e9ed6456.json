@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_84aa107fc4595fd6e9ed6456.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "BubbleTea",
+  "setter": "ksmd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "a15e7d6e8fc24cc291b94f1fc6298bd7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1170r12p1213r15p1237r13p1247r15p1270r13p1302r13p1315r13p1349r13p1380r14p1505r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.95,
+  "ascensionist_count": 20,
+  "quality_average": 3.4,
+  "hold_fingerprint": "4032df601b8a45b7e63aab90a0ac3af2e4086f4cb3ce9326320f7316560e0cb2",
+  "validation_errors": []
+}

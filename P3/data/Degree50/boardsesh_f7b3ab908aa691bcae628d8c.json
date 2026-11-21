@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f7b3ab908aa691bcae628d8c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "cold room freestyle",
+  "setter": "Lewin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "154A2041AE664C9AAA80C684DB9CFF86",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1203r13p1269r13p1339r13p1372r13p1395r14p1457r15p1494r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "32ab8c6e0b345bc32816ae960f06f410e00a3a5900c43f0208e2624fc4fcbe84",
+  "validation_errors": []
+}

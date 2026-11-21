@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_713071747ccf04ceceea9990.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Mo HBF",
+  "setter": "Hauptbanhof",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "4355D841D4A34537919351AE854E600B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1177r12p1195r12p1204r15p1236r13p1250r13p1256r13p1340r13p1372r13p1386r14p1483r15p1501r15p1508r15p1567r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "c9dcb95a501ae92860d333e70eadabfcb2b237c50ba8ce463fa91f499914d258",
+  "validation_errors": []
+}

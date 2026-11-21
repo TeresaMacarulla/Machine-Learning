@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6dea0d357add114f0f586c4b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Plague rat",
+  "setter": "ratclaw",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "267a7e1a1fa540aaa355a7911b4c6185",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1174r15p1189r12p1222r15p1271r13p1320r13p1372r14p1482r15p1497r15p1500r15p1545r12p1550r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "308bd712d4cdb400e481bd5c065d710408e22b119fc3e6040953959553d03808",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f601d1f4f7820ba164635726.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "6 or 7 moves",
+  "setter": "Asherr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "CFD80ABFDEA94A4EA5D42F8E682FA898",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1163r15p1180r12p1199r12p1267r13p1270r13p1298r13p1319r13p1349r13p1350r13p1380r14p1555r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4147a14dd251db2dcb0ca176418a8e02e182d25c312ad468a85eb4b21c930b7d",
+  "validation_errors": []
+}

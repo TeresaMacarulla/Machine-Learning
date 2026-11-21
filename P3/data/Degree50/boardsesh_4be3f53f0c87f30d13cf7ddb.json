@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4be3f53f0c87f30d13cf7ddb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Cryofinger",
+  "setter": "harringtonkristian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4BED1C92B4654546879F1392BB07A19F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1120r12p1169r13p1222r13p1254r13p1302r13p1304r13p1391r14p1452r15p1477r12p1481r15p1533r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9320ee47a135f5100ef04f360c4be1369b36da4c2543d57312e10b3246f6d1ec",
+  "validation_errors": []
+}

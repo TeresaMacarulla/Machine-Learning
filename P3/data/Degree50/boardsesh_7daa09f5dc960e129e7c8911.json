@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7daa09f5dc960e129e7c8911.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "cutshort",
+  "setter": "thijs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "92836CDEFC2F44A5BE2EC92FF5B5A8CD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1119r12p1207r12p1238r13p1283r13p1353r14p1472r15p1500r15p1508r15p1514r13",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 91,
+  "quality_average": 3.2200000000000006,
+  "hold_fingerprint": "346b1ec461ebd202426da3041bc03e45869549dc92a92e5061031269f3799088",
+  "validation_errors": []
+}

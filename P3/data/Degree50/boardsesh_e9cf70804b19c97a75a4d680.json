@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e9cf70804b19c97a75a4d680.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "probably possible",
+  "setter": "joshuabrahams",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "D5F534DED08849258BAE54C2F45CF557",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1205r15p1217r12p1234r12p1322r13p1387r14p1495r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "cdb6c0926bfa9907855dee482c5f7231a0018254557ae9638011ad0e83f5b295",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bfe17ef448da406a8cb2fec0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "proj",
+  "setter": "balekrymasz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "00f1b933-0906-405c-a871-da6c2b9049a8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1290r13p1339r13p1204r12p1139r12p1448r15p1378r14p1191r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.5,
+  "ascensionist_count": 4,
+  "quality_average": 4.5,
+  "hold_fingerprint": "508d02d2f83cea08d874cb21055499eb972107fe7b1fde70e26fee88d0cc7581",
+  "validation_errors": []
+}

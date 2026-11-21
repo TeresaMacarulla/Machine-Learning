@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_48ae84f6b01ff53b9a8158d2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "q5",
+  "setter": "GripComp",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "85b1837b9a6249078dfac02f3f236376",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1120r15p1172r12p1173r12p1203r13p1206r13p1239r13p1269r13p1304r13p1336r13p1354r13p1384r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.18,
+  "hold_fingerprint": "5694ed15b04b921ff4ccb218a1955789934f3a1f98a49b9b72cb10f91970953b",
+  "validation_errors": []
+}

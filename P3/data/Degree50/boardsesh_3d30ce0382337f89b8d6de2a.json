@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3d30ce0382337f89b8d6de2a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Scion xD",
+  "setter": "tcharland13",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "d6b4d36a2619477ab1c3fa408ea3e0d8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1230r12p1240r15p1246r15p1250r12p1285r13p1322r13p1332r13p1333r13p1354r13p1362r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "096aafa541d0cd8cf8c1da48044a760acf632683b614b703161f81cef459ef4a",
+  "validation_errors": []
+}

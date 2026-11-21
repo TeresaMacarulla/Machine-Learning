@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1ced96e549e0e0324e53bbe9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "jump street ",
+  "setter": "solman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "520af5a4-41e8-4353-9af3-3844bf6dafe5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1124r12p1143r12p1234r13p1506r15p1164r15p1176r15p1387r14p1596r14p1214r13p1319r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 2,
+  "quality_average": 3.5,
+  "hold_fingerprint": "6839d598dce33680f1cd87ded1800ce2f7117ed2ddac1f54fb8be86b93364219",
+  "validation_errors": []
+}

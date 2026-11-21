@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6da7e8d4c2a852477365b79e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Rightovers",
+  "setter": "offhmax",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "03bf782c971e42438d9f2a9eb4de9b01",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1218r15p1241r13p1252r13p1285r13p1298r13p1385r14p1447r15p1496r15p1500r15p1508r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "f535c6713fa45e40c1308755bba2a12cd6c3a8e01d780a533eff2dcf1bcbbc8e",
+  "validation_errors": []
+}

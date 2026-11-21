@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ac708d91d035d594f16409d1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "where\u2019s my T25",
+  "setter": "colemaaj",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "F6380E151E234397BEA5719974661FC4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1188r12p1220r12p1253r13p1268r13p1314r13p1321r13p1335r13p1365r14p1366r14p1500r15p1509r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b60cedbb98a270ec54a955b4e8ed0c00fd53a9ae5bf3316b0fe82abc6bc217e7",
+  "validation_errors": []
+}

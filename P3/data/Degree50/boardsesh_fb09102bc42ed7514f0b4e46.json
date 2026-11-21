@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fb09102bc42ed7514f0b4e46.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "BellasG\u00f6tt",
+  "setter": "Flip",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "6820E713F2E4462CBFA56FAEFC7FC380",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1149r12p1218r15p1221r13p1236r13p1256r13p1273r15p1305r13p1340r13p1354r13p1389r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.08,
+  "ascensionist_count": 13,
+  "quality_average": 2.0,
+  "hold_fingerprint": "416e6596026efe8eecd9b7b07203a48f3fa8d07c16c757d914f25841d43d9a2b",
+  "validation_errors": []
+}

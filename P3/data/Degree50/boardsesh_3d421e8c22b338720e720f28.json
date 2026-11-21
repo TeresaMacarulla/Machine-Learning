@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3d421e8c22b338720e720f28.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "ATOM AR",
+  "setter": "leemiho",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "BB534B698B8243918D2C5AF41EA60589",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1128r12p1133r15p1163r12p1196r13p1215r13p1216r13p1302r13p1334r13p1387r14p1460r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.33,
+  "ascensionist_count": 7,
+  "quality_average": 4.33,
+  "hold_fingerprint": "1edc7f2674f7b6870877b222eaf64c493347a1bb6c1454cd5428d25a4e2026a4",
+  "validation_errors": []
+}

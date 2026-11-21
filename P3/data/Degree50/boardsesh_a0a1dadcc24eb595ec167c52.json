@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a0a1dadcc24eb595ec167c52.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Heater",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "a76d3ee642d343bc83d1ba4ae4fa7870",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1120r15p1134r12p1153r12p1157r15p1205r13p1218r15p1239r13p1240r13p1271r15p1305r13p1308r13p1355r13p1387r14p1449r15p1453r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.96,
+  "ascensionist_count": 27,
+  "quality_average": 3.8,
+  "hold_fingerprint": "6e537896a616a18eb734951a97daae7e8800fd206d2b2a916663233c3c1b4ea7",
+  "validation_errors": []
+}

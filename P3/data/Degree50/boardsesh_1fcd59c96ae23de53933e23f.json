@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1fcd59c96ae23de53933e23f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Vraagteken 2",
+  "setter": "Gerke",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 10,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "dc71fedcba554964823dfaf202fdde38",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1095r15p1116r15p1127r15p1149r12p1152r15p1163r12p1199r13p1210r15p1213r13p1233r15p1236r13p1248r13p1270r13p1278r13p1290r15p1300r13p1321r13p1331r13p1373r13p1383r14p1386r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ff461c888e2f6cc790a897856927b778df257c33f9f9bb19d9155bcea88bcde0",
+  "validation_errors": []
+}

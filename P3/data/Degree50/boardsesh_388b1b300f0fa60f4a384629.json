@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_388b1b300f0fa60f4a384629.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "mrt",
+  "setter": "Roxana_Wienand",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "D0EE10EEA30144EF8E0B2C8A7C8C2C2A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1203r13p1256r13p1273r13p1344r13p1391r14p1447r15p1450r15p1471r15p1527r15p1597r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "ef8bc7dd950339ad95180fd09232e812ab849463fca455efa3643fe5f435e7b0",
+  "validation_errors": []
+}

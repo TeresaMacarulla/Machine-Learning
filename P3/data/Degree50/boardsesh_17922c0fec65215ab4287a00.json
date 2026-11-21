@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_17922c0fec65215ab4287a00.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "shtn gems",
+  "setter": "blakelemelin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "15FC7EC988F54A6BA0D1719515C665A6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1169r12p1191r12p1216r15p1239r13p1270r13p1271r13p1304r13p1352r13p1387r14p1447r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.8,
+  "ascensionist_count": 5,
+  "quality_average": 3.0,
+  "hold_fingerprint": "74e45c410af90bfbf17d5cbff7d05dd71edde7a82807d5b0d39af5e3a3fbb1e6",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4d757b4d8f8ba2ed4197969c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Unicycle eliminate",
+  "setter": "ChrisToast",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1E0EE94A355B4334918F4995A1FA5605",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1149r12p1150r15p1236r13p1289r13p1340r13p1391r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 18,
+  "quality_average": 3.6300000000000003,
+  "hold_fingerprint": "d4fe864961656bf5c6896960dd356cc983e60b61269f28cf57fe89fc37a0052a",
+  "validation_errors": []
+}

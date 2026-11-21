@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c3f6948c7fb90a360c95c009.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Dump truck warm up",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3A734EBBBD534F5BB736C7040CE74566",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1147r12p1165r12p1218r13p1220r13p1240r13p1304r13p1305r13p1317r13p1387r14p1459r15p1500r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.03,
+  "ascensionist_count": 2557,
+  "quality_average": 3.301994524833789,
+  "hold_fingerprint": "c7c1e70c140f553624510e06ffacced01d47e629852946362a227d167cc42fda",
+  "validation_errors": []
+}

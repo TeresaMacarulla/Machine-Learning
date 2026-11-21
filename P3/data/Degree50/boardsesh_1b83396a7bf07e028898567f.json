@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1b83396a7bf07e028898567f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "easiers",
+  "setter": "Jamie_Jenkins",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "40293C46E580485FBE44D96F262290C3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1153r12p1199r13p1200r13p1267r13p1317r13p1384r14p1452r15p1471r15p1521r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.22,
+  "hold_fingerprint": "9ebca73d6390153a6e390c5c6f1160c060ec9d6c647928e75bd99f9a7d7544a8",
+  "validation_errors": []
+}

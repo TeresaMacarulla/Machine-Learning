@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bb28e3406af82b4f1ac493ad.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "kbord Champus 1",
+  "setter": "bigtimetomo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "A560C469300D48F5B24BBB241D557AC5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1225r12p1239r12p1306r13p1320r13p1354r13p1368r13p1386r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "d131f711928de6882de484f6d1988cc95bf80f89a9a870ed5c9dbd73bbe48577",
+  "validation_errors": []
+}

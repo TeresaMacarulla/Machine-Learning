@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d28b23673e62ad626977f17f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "torment(easy)",
+  "setter": "wispo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "73d34ec8-0203-4804-a04b-8458cb5a987e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1322r13p1352r13p1386r14p1164r12p1148r12p1459r15p1494r15p1201r13p1541r13p1269r13p1516r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "dcba165b049b78083672b9b1b9938d4630b0261e7fc02d2c5e0435c8f2558c2c",
+  "validation_errors": []
+}

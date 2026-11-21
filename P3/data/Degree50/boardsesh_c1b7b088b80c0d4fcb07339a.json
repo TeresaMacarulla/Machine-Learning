@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c1b7b088b80c0d4fcb07339a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "the rocking horse",
+  "setter": "KAIIIII",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "89d6e587-cd8e-4982-af7d-7e2969c265fb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1211r12p1283r12p1266r13p1271r13p1504r15p1340r13p1395r14p1507r15p1272r13p1268r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "3dfaf2e297de66e3ae441ad257cc76420020c64fb72e8d0ee8c255b487108133",
+  "validation_errors": []
+}

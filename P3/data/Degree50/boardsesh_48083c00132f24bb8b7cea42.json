@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_48083c00132f24bb8b7cea42.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Hot Compress",
+  "setter": "RJClimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "c38db53018bf48258b8791d962386b54",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r12p1147r12p1199r13p1254r13p1283r13p1323r13p1334r13p1357r13p1372r13p1392r14p1456r15p1543r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 173,
+  "quality_average": 3.22,
+  "hold_fingerprint": "264d51e4c90e36ad0800a8920b476b423507a4fcb412e7eefa81fcfe16d4f7c6",
+  "validation_errors": []
+}

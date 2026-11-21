@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a29864a81da0f2900de973cc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Twist it",
+  "setter": "Mayeyou",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7716b670-83ac-442e-a2c3-97f860964112",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1243r12p1260r12p1315r13p1502r15p1538r15p1316r13p1354r13p1561r15p1373r14p1374r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 5,
+  "quality_average": 2.5,
+  "hold_fingerprint": "cdb8b09b8b66ab2a510da00addc96a5a4fccbd03dd468e83ae3ff716cf017f71",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f3cd9fc114ff4146cf47d3ba.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "RIGZ V3",
+  "setter": "kyeGG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "F5F467EF17CD4F4EB270F38D1B244654",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1215r12p1263r13p1316r13p1353r13p1357r13p1367r13p1371r13p1392r14p1484r15p1510r15p1521r12p1581r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.83,
+  "ascensionist_count": 12,
+  "quality_average": 3.67,
+  "hold_fingerprint": "f7509b7440cafdcc4d3384cfcfafa180dae4417c3764cac1217f25ad93f754c0",
+  "validation_errors": []
+}

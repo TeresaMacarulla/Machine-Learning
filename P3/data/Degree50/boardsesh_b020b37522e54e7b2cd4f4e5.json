@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b020b37522e54e7b2cd4f4e5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Lock it Down",
+  "setter": "will_avelar",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "D860B4477AB545F99C88C49EBB0E96E6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r15p1137r15p1166r12p1168r15p1202r13p1220r13p1239r13p1251r15p1269r15p1270r13p1289r15p1305r13p1336r13p1338r13p1373r13p1392r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.82,
+  "ascensionist_count": 11,
+  "quality_average": 3.36,
+  "hold_fingerprint": "5ad4edecd3b34437de694d9de6875050ab51b9bc21835a92d050d8f3feb0df2b",
+  "validation_errors": []
+}

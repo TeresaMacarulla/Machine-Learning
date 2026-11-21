@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aa65cf3161556d24f9c41b08.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "For Banana 1.1",
+  "setter": "anwen.rachel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "D762CE07D45F460A86A7EE2F603F8A97",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1146r15p1149r12p1152r15p1198r13p1249r13p1279r13p1300r13p1332r13p1384r14p1520r15p1540r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "67ec2786cdcfd977620e96d88d90d7dae28668cc3b292120cd69b84ab4a41b5f",
+  "validation_errors": []
+}

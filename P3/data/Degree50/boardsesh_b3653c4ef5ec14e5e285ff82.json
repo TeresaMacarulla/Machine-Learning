@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b3653c4ef5ec14e5e285ff82.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "get twisty",
+  "setter": "rbailey",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "10e49524a89842da9abdca6260dc65f2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1205r13p1252r13p1264r13p1267r13p1351r13p1385r14p1473r15p1481r15p1503r15p1521r15p1543r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2b174e5e3707de8bafc901ab70c621d8bdcc12975ca41ed127c9b542d7135162",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d944ef41212c519087627260.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Le 7 C pas si simple",
+  "setter": "Roch.O",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "73523b82cf1b4215975a26e564b963b2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1169r15p1185r15p1186r13p1241r13p1258r13p1291r13p1320r13p1323r13p1375r13p1378r14p1453r15p1569r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.5,
+  "hold_fingerprint": "bb5cd3fe1956d3cf9c3f0460db8590595ca993129b2b8327e888f5dffce017b1",
+  "validation_errors": []
+}

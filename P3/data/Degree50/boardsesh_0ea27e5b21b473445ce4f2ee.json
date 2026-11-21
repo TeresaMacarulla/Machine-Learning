@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0ea27e5b21b473445ce4f2ee.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "training Tim goed",
+  "setter": "Timdewildt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0dccbcee-2128-4080-b354-f8c273070c3a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1380r14p1348r13p1311r13p1281r13p1262r13p1246r13p1528r15p1192r12p1159r12p1089r15p1486r15p1501r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.5,
+  "hold_fingerprint": "083d88b341dce6a48a9ae6b15e8db1363a6b7f249f0f46ccf559a3da4fb733aa",
+  "validation_errors": []
+}

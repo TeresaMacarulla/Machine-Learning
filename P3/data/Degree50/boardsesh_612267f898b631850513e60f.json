@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_612267f898b631850513e60f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "boomslang",
+  "setter": "derwelt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "d152216a8eda437d83d5d86ce9db91d1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1176r12p1177r12p1235r13p1246r13p1270r13p1340r13p1391r14p1474r15p1485r15p1488r15p1494r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "ca4b7c07b1f1f45c615106a5a9ad8305d68c5e8f6177b03297224e7e2c2b9867",
+  "validation_errors": []
+}

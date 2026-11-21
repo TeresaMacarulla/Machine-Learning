@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eece401d56f9325128d7e75f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Flobots",
+  "setter": "demyanek",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "83676A2CEB494C838E9571DC7E2E8EFD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1159r12p1219r15p1231r13p1282r13p1304r13p1340r13p1361r13p1395r14p1460r15p1464r15p1544r15p1570r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.6699999999999995,
+  "hold_fingerprint": "66c28b24abe3a58da4d020f58493a8286472af512e7a2534a8751c7ac0e64bff",
+  "validation_errors": []
+}

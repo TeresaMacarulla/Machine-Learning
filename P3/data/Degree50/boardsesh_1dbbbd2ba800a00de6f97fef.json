@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1dbbbd2ba800a00de6f97fef.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Left, Left, Cut",
+  "setter": "Hangar18SC",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "142CB97B9E244DA5B5B9BEE9F84DB441",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1130r15p1143r12p1144r12p1161r15p1177r13p1192r15p1201r15p1214r13p1229r13p1247r13p1289r15p1302r13p1335r13p1387r14p1464r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 41,
+  "quality_average": 3.47,
+  "hold_fingerprint": "4ca6c15531c86fa7a61806449f5aefcda8eaf20d1a90dde63a7e6066c42bfd06",
+  "validation_errors": []
+}

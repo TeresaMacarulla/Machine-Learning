@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f7af9f727521656ac92517e9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Pez 7x10 edit",
+  "setter": "hwilly",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "049f77ffb0ca48329e05049ef5355673",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r15p1205r15p1215r12p1269r12p1286r13p1324r13p1371r13p1387r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6210a7137c643c98612f51eddb999bc0022bc186122f5e2fd895d197bf948f9e",
+  "validation_errors": []
+}

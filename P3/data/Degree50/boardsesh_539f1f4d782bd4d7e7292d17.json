@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_539f1f4d782bd4d7e7292d17.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "NotN-2",
+  "setter": "notnphone",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E740D89F421D4EC18A6F94EA7DBF1BA1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r12p1169r12p1204r13p1235r13p1271r13p1301r13p1353r14p1451r15p1454r15p1478r15p1513r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.25,
+  "hold_fingerprint": "1fcdeeef000b80e8288ddbe763caa70ee1df4f419f21696e67641d52058db77c",
+  "validation_errors": []
+}

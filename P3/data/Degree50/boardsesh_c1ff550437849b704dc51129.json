@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c1ff550437849b704dc51129.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Pinch Trip \ud83c\udfce\ufe0f",
+  "setter": "AlexanderMegos",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "307F6D70BACB49FAA778D001A1AADD47",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1148r12p1216r13p1254r13p1285r13p1357r13p1387r14p1457r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "094b7e7694cf62dfc2d1d0ea19b37a52e38719bdf390b0e0f3c845fe64741b91",
+  "validation_errors": []
+}

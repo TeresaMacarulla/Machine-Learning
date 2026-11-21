@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9cd3ee3852ad0a2baa306cb5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Operation Rolling Thunder",
+  "setter": "yevyevquest",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "53006830-118d-4eb6-81f4-c5db1e4d2a9f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1106r15p1154r12p1173r12p1206r15p1223r13p1259r13p1289r13p1325r13p1374r13p1394r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.71,
+  "ascensionist_count": 31,
+  "quality_average": 3.06,
+  "hold_fingerprint": "f3adf59ee66bdbbb760441389208d16297f21dd6f283cff45b0c5c70592b8cd0",
+  "validation_errors": []
+}

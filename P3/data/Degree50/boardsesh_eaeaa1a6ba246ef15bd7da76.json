@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eaeaa1a6ba246ef15bd7da76.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "BODY TENSION ",
+  "setter": "matheod",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "fed84d04-844e-4a43-97d9-a42a29db1552",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1513r12p1506r12p1269r13p1081r15p1264r13p1503r15p1332r13p1345r14p1511r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2d63f81986d938a714a60b930d69bd0b7e4b198c491759b068e7c6456f6709a1",
+  "validation_errors": []
+}

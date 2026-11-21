@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f45e2c69f23e35b7494f2a54.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Fasho",
+  "setter": "Erik_Cmiel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "23FDBD0C8C7B4424B5EED5042936619F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r12p1165r12p1217r13p1265r13p1284r13p1320r13p1342r13p1394r14p1477r15p1479r15p1547r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "d54f8d4676346d851707b3cc59e029403de4dcdf60518068c0fa66e280ea8e83",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1c70898b911b455051815bcb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "side quest",
+  "setter": "jchongsends",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 8,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "40A2FCD39D4645EB95318165EA652B38",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1230r14p1234r13p1236r13p1239r13p1268r15p1305r13p1313r14p1349r13p1360r13p1387r13p1391r13p1464r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2cbfa76d8643a2fb920634fbf11aa2b511cf805814a83f1653447db692a6bd38",
+  "validation_errors": []
+}

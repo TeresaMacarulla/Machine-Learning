@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5f7ede12612cab15c32543f1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "homey full of baloney",
+  "setter": "KAIIIII",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "cd550426-39d4-4211-8343-3a31bcd55d2c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1302r13p1204r15p1272r13p1506r15p1149r12p1113r15p1457r15p1215r13p1341r13p1391r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "7d24327f77ad171a39a562dea63b76fa77e93a7fa0329fe2f8bb6dca507597cd",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_09c89cbbfa0d4e718e2b301c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "farmer shoulders",
+  "setter": "climbing_clare",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3ebbd1ac-0fe7-4677-aa00-27298a73e0d9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1132r12p1199r13p1236r13p1487r15p1457r15p1306r13p1342r13p1394r14p1479r15p1523r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "f5d637c0017b09a1483f1a367b9fd6ae11d419f1abe43c59962cb334e15cf3ca",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_90e26b700feef74ee8533ee1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Laser Focused",
+  "setter": "jpless",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "A90834CE7D6C4DAC9FE2D7CBBCFBCC9E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1215r13p1252r13p1319r13p1340r13p1391r14p1469r15p1495r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "188f93b6bc72ee9727ad64ac13e6f6b22b36b9582dce9fb893937c16e8ffbc7c",
+  "validation_errors": []
+}

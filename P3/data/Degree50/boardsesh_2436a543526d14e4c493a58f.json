@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2436a543526d14e4c493a58f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "paddle (easy mode)",
+  "setter": "RupertLawless",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B982FC0694894BB79D1055971E9B4903",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1182r12p1213r12p1267r13p1315r13p1347r13p1379r14p1468r15p1476r15p1505r15p1555r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.82,
+  "ascensionist_count": 11,
+  "quality_average": 3.73,
+  "hold_fingerprint": "b5ab0ff5127cea88aca66c5e815faff66eb27d2317a12b9103ee47e69ad0cdb7",
+  "validation_errors": []
+}

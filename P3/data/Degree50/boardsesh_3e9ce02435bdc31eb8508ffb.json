@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3e9ce02435bdc31eb8508ffb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Beat It",
+  "setter": "KilterStudio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "FAD667E8955C4637ABDF83D772ACAB79",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1142r15p1181r12p1214r12p1248r13p1278r13p1313r13p1330r13p1366r13p1383r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.01,
+  "ascensionist_count": 2870,
+  "quality_average": 3.220620425235274,
+  "hold_fingerprint": "2a9f8ad9969cedb17691527d69dacc2fe6ac25ae8b68768cf1e4ab0db91b2bd5",
+  "validation_errors": []
+}

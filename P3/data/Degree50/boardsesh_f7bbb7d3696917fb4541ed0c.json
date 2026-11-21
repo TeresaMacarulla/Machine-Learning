@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f7bbb7d3696917fb4541ed0c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Didier \u00e0 l'escalade",
+  "setter": "maxcrevier",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "D3D911F9DB794195A5D49C9B7DC6FA68",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1119r12p1190r12p1220r13p1256r13p1272r13p1359r13p1371r13p1387r14p1482r15p1597r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d5e277e40b4120310a39742ddabd753b086a32781d803852b31a80e20530de56",
+  "validation_errors": []
+}

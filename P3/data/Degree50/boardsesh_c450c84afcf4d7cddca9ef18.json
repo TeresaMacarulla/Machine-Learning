@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c450c84afcf4d7cddca9ef18.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Naked Gun 5.$",
+  "setter": "mbalestero",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "22f29f6b19c2460580eb13e6057e66a2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r12p1209r12p1230r13p1243r15p1280r13p1298r13p1350r13p1372r14p1461r15p1483r15p1519r15p1570r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bb292014f58a09b25e851e8197eae2ecd65be491e225a8fc983cc9d48decd636",
+  "validation_errors": []
+}

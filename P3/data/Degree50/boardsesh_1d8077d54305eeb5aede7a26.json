@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1d8077d54305eeb5aede7a26.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "1Pinte",
+  "setter": "ArquantSiel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "077CFED5F5B4475EB69D27025055FA1B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1150r12p1234r13p1256r13p1270r13p1358r13p1391r14p1456r15p1478r15p1515r15p1544r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "e716d24907b9ded07c954bb28238014379ec246d765022004863d4b64ac1f9a1",
+  "validation_errors": []
+}

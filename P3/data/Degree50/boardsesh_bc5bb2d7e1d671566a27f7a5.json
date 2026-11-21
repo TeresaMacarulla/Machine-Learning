@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bc5bb2d7e1d671566a27f7a5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "does it go",
+  "setter": "gart",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "d7cc825a-0f01-466b-869f-0cd9c44aa2a3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1138r12p1220r13p1076r15p1115r15p1249r13p1487r15p1495r15p1504r15p1287r13p1335r13p1391r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b847ed2dd3b1a0ba86f36631db5929896ded5f7b15c4f587eb654ba80c053e3a",
+  "validation_errors": []
+}

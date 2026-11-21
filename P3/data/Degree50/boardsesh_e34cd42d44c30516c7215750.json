@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e34cd42d44c30516c7215750.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Going Merry",
+  "setter": "JakeSully",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "720bf3f15f2946eea29bf108d99a5efa",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1210r12p1227r12p1278r13p1289r13p1296r13p1301r13p1308r13p1317r13p1323r13p1394r14p1483r15p1501r15p1503r15p1514r15p1523r15p1535r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.25,
+  "hold_fingerprint": "635a023d00bd83656f33d69ce9847813d4aab826a477fdfb3b0123f59d0c1cb1",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_80ee6b7daab35c6778ea1e63.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Dual Lingo",
+  "setter": "tortesla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "267A1CF2F33F4B87BEA3D838152A4D0F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1167r12p1179r13p1199r15p1218r15p1297r13p1335r13p1351r13p1370r13p1392r14p1452r15p1457r15p1467r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b3dbdbfa89e3bef337b8658af2efc0b95e05cf754329ee0fa2601b6fcc253322",
+  "validation_errors": []
+}

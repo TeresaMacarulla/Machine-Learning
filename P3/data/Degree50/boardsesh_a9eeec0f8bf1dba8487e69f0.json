@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a9eeec0f8bf1dba8487e69f0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "depths of doom",
+  "setter": "abramra",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9afc81e9-b748-494e-96d3-bc3c9f751ec4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r14p1257r12p1292r12p1191r15p1236r13p1221r13p1151r15p1200r13p1130r15p1167r13p1081r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.5,
+  "ascensionist_count": 10,
+  "quality_average": 2.75,
+  "hold_fingerprint": "5af4c6175743d85dc2edf2220fd2a6fde22c87be19dcdb3c5c2305d092fe438d",
+  "validation_errors": []
+}

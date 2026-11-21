@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d67b9168de72e4a5472b7072.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Piccolo",
+  "setter": "pgfv",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "948DE5BF2A93465FA226CBBE60B0A35C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1166r13p1216r13p1230r13p1281r13p1312r13p1382r14p1455r15p1457r15p1479r15p1504r15p1538r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "83652691987d40fc1896576c89f09c3805da21cbf4f52bc10ee0f821d41ce3e9",
+  "validation_errors": []
+}

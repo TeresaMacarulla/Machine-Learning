@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f3b12fd58ea62d38e8c5e871.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "T 1",
+  "setter": "MichielN",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "998a71abf98c4c2caf404f06749e03f5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1150r12p1183r12p1238r13p1286r13p1357r13p1391r14p1552r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.99,
+  "ascensionist_count": 554,
+  "quality_average": 3.26,
+  "hold_fingerprint": "446e46f7bde2a1c978596cf9e5fe76fe4d84bbe7ddfacd0c58dd1375db165e3c",
+  "validation_errors": []
+}

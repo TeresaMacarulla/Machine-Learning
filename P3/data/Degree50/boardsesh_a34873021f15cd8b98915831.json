@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a34873021f15cd8b98915831.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Golden Great Fridge",
+  "setter": "msteps",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "76C0D36A91564FE4B54991FDE21B7F75",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1121r12p1130r15p1132r13p1154r12p1187r15p1202r13p1204r15p1215r13p1268r13p1285r13p1336r13p1384r14p1447r15p1453r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.75,
+  "ascensionist_count": 4,
+  "quality_average": 5.0,
+  "hold_fingerprint": "e4aefa8b840b80863f003141789c40ed42def5117417bb54890f6a8f6981cd35",
+  "validation_errors": []
+}

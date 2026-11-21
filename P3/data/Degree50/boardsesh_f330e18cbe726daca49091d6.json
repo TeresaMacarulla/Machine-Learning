@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f330e18cbe726daca49091d6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Elelator Go Up",
+  "setter": "kilterjackie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "B173F147C0B24D23AF4B273F8AA76AD1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r15p1166r12p1216r13p1271r13p1288r13p1341r13p1372r14p1389r14p1469r15p1553r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "789cee9c6bd21ec09ab6075322390ba2b74a418e66ed131ba0f9a69aabe95bcf",
+  "validation_errors": []
+}

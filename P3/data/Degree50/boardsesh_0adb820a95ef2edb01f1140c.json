@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0adb820a95ef2edb01f1140c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Shield Wall",
+  "setter": "krimdogbillionaire",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "C890CA0AC4DF4C42A46A88EDBDED57B1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1210r13p1246r13p1269r13p1354r13p1393r14p1467r15p1474r15p1495r15p1505r15p1516r15p1525r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "8d8046b7e8adf7131cf92398872e81fdec43806fa1b94b48e2a323e4df17b89d",
+  "validation_errors": []
+}

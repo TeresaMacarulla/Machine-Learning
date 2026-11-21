@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b476577283051ce8457a483c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Problem solver",
+  "setter": "ydhsh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "D52F607333BF4B48B81C35D6225BCD39",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1160r12p1213r13p1248r13p1287r13p1320r13p1357r13p1389r14p1494r12p1589r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "4f65c1d94bbd8633ca27881e0d73cec16e43b8a1ba6347bb4dee15e68cd0b080",
+  "validation_errors": []
+}

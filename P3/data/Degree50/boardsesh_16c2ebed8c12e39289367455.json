@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_16c2ebed8c12e39289367455.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "morphomania",
+  "setter": "SvendeV",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "B4974CF3D39641F7BD43449E37ADD501",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1198r12p1200r12p1302r13p1369r13p1390r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.88,
+  "ascensionist_count": 8,
+  "quality_average": 3.5,
+  "hold_fingerprint": "2a6c800e561962f7aee8674f93aa531e247599bb20ab4a08fe5d2a73df6cdc67",
+  "validation_errors": []
+}

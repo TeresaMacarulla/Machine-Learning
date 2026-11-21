@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_46c92402753874e91a4ea355.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "not okay",
+  "setter": "EliHook",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1ff8982a2fab40cea4b39f21171fc1a2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1144r15p1148r12p1195r12p1200r13p1252r13p1255r13p1305r13p1359r13p1385r14p1389r13p1391r13p1456r15p1506r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bd3f6ead027e30869ca557cc63bc148709407e9347aa93403a37136a4bc38872",
+  "validation_errors": []
+}

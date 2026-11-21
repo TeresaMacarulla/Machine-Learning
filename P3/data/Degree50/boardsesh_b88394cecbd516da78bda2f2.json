@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b88394cecbd516da78bda2f2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "high rollers club",
+  "setter": "yarden.pilpel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "0d10d8e7816e4a19a430207dcb80bfbf",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1139r12p1184r12p1224r13p1292r13p1344r13p1390r14p1479r15p1500r15p1509r15p1518r15p1568r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "758c4c4b087bab37cd6b7301f1fc33b0c6503bf61c84ab3fdbd268d8321a98f8",
+  "validation_errors": []
+}

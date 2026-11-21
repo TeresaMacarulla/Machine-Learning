@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d1cd88909c28e56f3573ca18.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Willfree",
+  "setter": "NickleAss",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "424A84EAEF90440AA8FC6BA1B8A47CDC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1131r12p1147r12p1163r15p1201r13p1215r13p1231r13p1260r13p1278r13p1311r13p1347r13p1383r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c0d3e8bcec8de6385fc4a7966eeb321c41a82dbee3c9587fa7710790823a0ea5",
+  "validation_errors": []
+}

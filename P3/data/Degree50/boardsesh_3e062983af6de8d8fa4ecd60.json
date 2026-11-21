@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3e062983af6de8d8fa4ecd60.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Squid jump",
+  "setter": "ClimbMaster69",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "DA0338910BD646B798E5A7688B96F65C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1138r12p1153r12p1187r13p1237r13p1302r13p1316r13p1384r14p1447r15p1449r15p1481r15p1551r15p1569r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "47002d201cc8f223c022276b884b0310d2d6529f61ece4e975c9a4e3578a469e",
+  "validation_errors": []
+}

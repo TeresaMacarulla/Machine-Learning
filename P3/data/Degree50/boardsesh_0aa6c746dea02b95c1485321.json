@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0aa6c746dea02b95c1485321.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Nahanni",
+  "setter": "zebblower",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8CD37A8B48814B018EFA56A82F763C1A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1131r15p1142r12p1143r12p1197r13p1198r13p1204r15p1266r13p1269r15p1304r13p1340r13p1395r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "d953a7adb41e476f76ac9d8ff1f0a44a1559b972a94959aed3622c276ac2a470",
+  "validation_errors": []
+}

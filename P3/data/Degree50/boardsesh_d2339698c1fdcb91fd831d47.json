@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d2339698c1fdcb91fd831d47.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "reassuring swings",
+  "setter": "def_fed",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "7c7b644c92ff4e4d975c6257817f17ee",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1105r15p1119r12p1169r12p1173r15p1205r13p1237r15p1257r13p1281r15p1308r13p1356r13p1385r14p1389r13p1451r15p1518r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 13,
+  "quality_average": 3.33,
+  "hold_fingerprint": "4131a8f8bdc77eb7935a7ffbad93b222dab4f14d4dbc98485fb2f070d7f511af",
+  "validation_errors": []
+}

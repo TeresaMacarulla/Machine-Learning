@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5bf9a0b05080c4164c77bab9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "COMPLIANCE-2",
+  "setter": "ilich",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "EE43BE20E0AD413BA0F28BE5E95A66D1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1082r15p1146r15p1149r12p1203r15p1235r13p1266r13p1287r13p1335r13p1384r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "0c503af03fe40189b8670ec56cbc13cb6bba748df90f691989444139133438aa",
+  "validation_errors": []
+}

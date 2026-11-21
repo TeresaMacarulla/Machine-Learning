@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fe951d80d70ddc1d46c41726.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Drop the noodle",
+  "setter": "sakahiet",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "2c07c739e5e546b3a65a0ec809242bbf",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1192r13p1246r13p1297r13p1301r13p1368r13p1389r14p1461r15p1467r15p1513r15p1532r15p1570r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.13,
+  "ascensionist_count": 19,
+  "quality_average": 3.38,
+  "hold_fingerprint": "04a81d70e2a77c14d0b525367435d332fab81f283199d6050783e37383187dde",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ba620e9ca01ae4c1cfad71c2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Hard control l",
+  "setter": "dong___hyun___",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "F23BC4326121484EB132A2988600907D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1184r13p1186r13p1249r13p1283r13p1305r13p1384r14p1385r13p1454r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "7ae96bf4491e7ee256c6350b5e63f8a9286ab385e335eb289fccae11df184d7d",
+  "validation_errors": []
+}

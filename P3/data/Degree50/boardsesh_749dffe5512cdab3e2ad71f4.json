@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_749dffe5512cdab3e2ad71f4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "M\u2019lizzie",
+  "setter": "mr_toro",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "EE9B07D0FC7B4C13A0D519BB6C1385B7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1156r15p1220r13p1237r13p1252r13p1306r13p1340r13p1390r14p1451r15p1505r15p1523r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.75,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "31e8d86b4835d29f8ff1b487f26bcdd9d5d79752f225dfc2b5f5f5684489fb29",
+  "validation_errors": []
+}

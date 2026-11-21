@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b6e7cd52fc93cd10284bfd7b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "diss",
+  "setter": "kikeona",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "3198E2CE8AF9449A90A8E56728149CF0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1149r12p1198r13p1228r13p1231r13p1297r13p1347r13p1381r14p1384r14p1453r15p1467r15p1470r15p1484r15p1501r15p1504r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "cecbd90b905a4c5331c7457555d3df93d557c742279a866b179402cd1c517563",
+  "validation_errors": []
+}

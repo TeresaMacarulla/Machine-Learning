@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4eaaebe4339e49c0d13ae11a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "crank the yank",
+  "setter": "GW_Kilter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "B537D61158404184B97AB47623625F41",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1168r12p1183r12p1216r13p1254r13p1283r13p1320r13p1368r13p1384r14p1480r15p1489r15p1508r15p1521r15p1522r15p1540r15p1547r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "41ed9c8b532817a49008dd7fac867b91a4ac4d4fbb2d8116a02971c424885cc1",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cc7413f5c23226662ba50dde.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Dyno cross",
+  "setter": "Magnusstrom",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "831576949A7D4EE4B5A277105BCD872F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1205r12p1242r12p1308r13p1336r13p1355r13p1382r14p1385r14p1480r15p1491r15p1542r15p1566r15p1582r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "761367c16f5abe253eb34f1c20973d1727014a184c51b07c60828a0144da32bf",
+  "validation_errors": []
+}

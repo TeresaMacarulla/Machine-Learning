@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1ec80e0d291fc46f48e6759f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "check yaself",
+  "setter": "zealot",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A6B7B92F8F7946F0911BFEB0A83EEAD1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1125r12p1132r13p1162r12p1180r13p1218r13p1273r13p1274r13p1293r13p1361r13p1395r14p1458r15p1474r15p1506r15p1525r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.93,
+  "ascensionist_count": 524,
+  "quality_average": 3.62,
+  "hold_fingerprint": "b48e9fe0c50b3612863a7ac8df39716e53920d2923726928be146401b25a9197",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b5265d7ea005dc67731a9997.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Hey V3 practice",
+  "setter": "heymove616",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F24AAF04F8CB425D8298916488E8695D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1165r15p1198r12p1200r12p1234r13p1247r13p1270r15p1300r13p1317r13p1353r13p1387r14p1511r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.95,
+  "ascensionist_count": 98,
+  "quality_average": 3.34,
+  "hold_fingerprint": "1fa6f74134ff60990dd0698a30e374e23b1a81dc65860e2ca58dd7c7e98536e2",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3d9a918ef5c4fc5f94c7f024.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Vogue",
+  "setter": "kilterjackie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E00D9E2B106048198EBD0090674189E5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1219r12p1234r12p1287r13p1317r13p1338r13p1370r13p1390r14p1506r15p1508r15p1516r15p1561r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.81,
+  "ascensionist_count": 60,
+  "quality_average": 3.54,
+  "hold_fingerprint": "634081ba4dd6f5c43b825699c6d4626eea7fbb142a47a963d984d559bf9f5f09",
+  "validation_errors": []
+}

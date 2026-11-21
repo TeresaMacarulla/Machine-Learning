@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a131f6dd01adb856e8b7a2d2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Brain Damage",
+  "setter": "importedbean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "6FBB3EF2DC6B454D9D530EEF979E8CD2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1134r12p1144r15p1199r13p1215r13p1264r13p1303r15p1351r13p1384r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 2.0,
+  "hold_fingerprint": "879797d2c7983c5f65ef13343fd9ee4187cf9eb2427fcd0f95c8659e8aab8d45",
+  "validation_errors": []
+}

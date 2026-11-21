@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_165a1e984e584a20d86d8e2c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "HFMD",
+  "setter": "kylerowe",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1F9B39A09085412B9E28D3D6ED67411E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r12p1163r12p1234r13p1303r13p1321r13p1385r14p1486r15p1506r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.0,
+  "hold_fingerprint": "a2da1bbadcdb7031f3413af57238536d046e19ae524413fbb5509b087399c93c",
+  "validation_errors": []
+}

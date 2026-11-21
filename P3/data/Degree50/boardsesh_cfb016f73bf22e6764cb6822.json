@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cfb016f73bf22e6764cb6822.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "BOSS:Guardian",
+  "setter": "RappRocks",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 10,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "796B887583A84CAFB7289684D1883E6B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1098r12p1118r12p1152r13p1163r13p1188r13p1243r15p1282r13p1296r13p1329r13p1380r14p1452r15p1533r13p1543r13p1549r13p1559r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "44664a0f13bff18786ed22cd42d231e872b851aee3f600b1a5d6126631762d72",
+  "validation_errors": []
+}

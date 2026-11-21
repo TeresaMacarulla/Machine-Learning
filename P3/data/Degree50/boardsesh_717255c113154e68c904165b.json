@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_717255c113154e68c904165b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Happy crimp",
+  "setter": "Moritzboulder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5ad3699ed5334c238bc8c3c56541d4ad",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1083r15p1113r15p1133r15p1149r12p1165r15p1198r13p1200r13p1269r13p1301r13p1336r13p1355r13p1391r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.94,
+  "ascensionist_count": 31,
+  "quality_average": 3.32,
+  "hold_fingerprint": "e2a16e2cb9a4ddfb4038899c168be019a0891746bdad0fe5c9ddbe333b8ebddb",
+  "validation_errors": []
+}

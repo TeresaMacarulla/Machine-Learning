@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_32c7abb4298f60cb1ec1b5eb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Not sure about this one",
+  "setter": "dries_bouldert",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "86b2fb6167d443f4875854c1beac5a0b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1163r15p1191r12p1252r13p1257r12p1302r13p1317r13p1387r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "95e56b8f17c33def0e0db8c13b2e21edfb9bb0a602a7cd75bb678c0d7c57fffc",
+  "validation_errors": []
+}

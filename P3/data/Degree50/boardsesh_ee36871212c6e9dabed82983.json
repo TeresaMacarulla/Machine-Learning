@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ee36871212c6e9dabed82983.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Alphone",
+  "setter": "Ralle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7c5e7213d9a341b99e93b2fe18644ee5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1203r12p1250r13p1273r13p1282r13p1292r15p1297r13p1350r13p1380r14p1499r15p1500r15p1516r15p1525r12p1559r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.67,
+  "ascensionist_count": 6,
+  "quality_average": 3.5,
+  "hold_fingerprint": "8147a5e0e337f66510d150259ef7607026184edd41aa53a8bdda0811071bc724",
+  "validation_errors": []
+}

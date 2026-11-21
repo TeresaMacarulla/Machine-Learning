@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f6d160da13f5bdec689d18c3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "highwire",
+  "setter": "anshuldadwal",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "F034FBB824604F57B36BF1BEC9A6B967",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1164r12p1168r15p1180r12p1191r15p1234r13p1256r13p1323r13p1373r13p1387r14p1458r15p1459r15p1460r15p1494r15p1554r15p1569r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "8689be2ef77d97b754255a7de81296016fca5f91f8c9f229fe389d40a17ef2cf",
+  "validation_errors": []
+}

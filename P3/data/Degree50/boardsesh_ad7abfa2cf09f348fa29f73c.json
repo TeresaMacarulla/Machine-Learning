@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ad7abfa2cf09f348fa29f73c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Lowdown",
+  "setter": "Enlife",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "14ef864191c440e9a8884799eca4bec8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1131r12p1168r13p1215r13p1267r13p1301r13p1355r13p1386r14p1455r15p1503r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.07,
+  "ascensionist_count": 15,
+  "quality_average": 3.29,
+  "hold_fingerprint": "30189152225450cbe221c7ec51fa1c7367e6765ba3399c4117e0287521abbb9a",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e9e1db6500cdbe2c9d398dbf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "twisters",
+  "setter": "JasperDudley",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "BA56F35B5D674214A29C9AAD1098292A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r15p1191r12p1221r12p1289r13p1303r13p1336r13p1367r13p1382r14p1514r15p1540r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.67,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "f4f77722bc2be209f9de418dfe39359c740c5dcc5b292e66f1d4bb49410f9d9f",
+  "validation_errors": []
+}

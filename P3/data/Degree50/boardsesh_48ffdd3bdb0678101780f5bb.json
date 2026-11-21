@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_48ffdd3bdb0678101780f5bb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "low ankle sprain",
+  "setter": "rgda95",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "016F406317694A9FB8D0462C7ED24B61",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r12p1107r15p1127r12p1165r13p1203r13p1271r13p1309r13p1377r13p1392r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.75,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "19e5d172c59590b3f3e164c2e8cfb5093a8aef4abc5a31c127bd73b45515c90c",
+  "validation_errors": []
+}

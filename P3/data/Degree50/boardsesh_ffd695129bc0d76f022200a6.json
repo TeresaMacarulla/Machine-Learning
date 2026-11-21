@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ffd695129bc0d76f022200a6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "kilter 1-4-7 (no foot game)",
+  "setter": "FLova",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "521A667EF65B4F9880625A28B09CCA5C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1257r12p1259r12p1343r13p1374r13p1386r14p1390r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6de4dc5547504ba6686e1a788187dac13ea6e4a0077658e796cd2ded319460a3",
+  "validation_errors": []
+}

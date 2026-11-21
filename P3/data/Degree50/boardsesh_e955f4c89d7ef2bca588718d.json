@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e955f4c89d7ef2bca588718d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "overhang throw",
+  "setter": "timothypocock",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "d056c379-7858-4cf5-863e-558ec0970501",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1461r15p1459r15p1215r13p1484r15p1267r13p1288r13p1356r13p1395r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "8cb09793542b43d8ffd7ecce156e2b36796b38d79edbc00369cae9dff512d178",
+  "validation_errors": []
+}

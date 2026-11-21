@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2a507a41a6c172ab209d86ed.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "hold tight",
+  "setter": "Matthew_C",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "40855BEE5AC448B583C2A7D9E021AF22",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1256r12p1309r13p1355r13p1385r14p1518r15p1536r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f0007ff5b8bf6b722adf3832e53fc286de96089d91f2f4687174090135c9c159",
+  "validation_errors": []
+}

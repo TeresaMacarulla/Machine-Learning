@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_db79ea33ba7db2c72c8c8847.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Roller Disco",
+  "setter": "klausskyworker",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7591DCD3616B42F3937914619AD4F121",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1145r12p1171r15p1215r13p1236r13p1252r13p1306r13p1319r13p1337r13p1385r14p1456r15p1461r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.33,
+  "ascensionist_count": 8,
+  "quality_average": 4.67,
+  "hold_fingerprint": "fa77f346ac07631a396aeb0ff87ab7b29b66b621f1c95429e73f8e3cac76f02a",
+  "validation_errors": []
+}

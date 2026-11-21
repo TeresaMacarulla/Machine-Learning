@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_70699729b8c7b4c508dafc73.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Low n High",
+  "setter": "oscar2003",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "CB109AAE1E4A476BA59B5ED2FD577C20",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1147r13p1153r12p1163r13p1227r13p1281r13p1315r13p1386r14p1451r15p1452r15p1456r15p1459r15p1497r12p1520r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b6ed497ce7cc6389be78110b3b96e78981cc971510cec7e8f8744d8fa81de3fc",
+  "validation_errors": []
+}

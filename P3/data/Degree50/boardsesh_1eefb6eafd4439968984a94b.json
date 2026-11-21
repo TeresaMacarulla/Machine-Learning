@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1eefb6eafd4439968984a94b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "mission campus #3",
+  "setter": "sosoboard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "048D42183ABF4896820DDAA25385D77F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1231r12p1247r12p1300r13p1317r13p1337r13p1353r13p1390r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.6699999999999995,
+  "hold_fingerprint": "47e8a5407fd0855621397ac89ad13a82e811e769c3b00a5ff625f7d721d0ddc9",
+  "validation_errors": []
+}

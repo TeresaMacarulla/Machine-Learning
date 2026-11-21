@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_850c71dda8629e1eb7a0cf5c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Eugenics",
+  "setter": "Louie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "a3b85cab137640c68e86a5b213250eb1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r15p1166r12p1203r13p1253r13p1273r13p1304r13p1305r13p1352r13p1368r13p1382r14p1383r14p1476r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b73ad74228851a528b8b8d91b26340b6343a338b08b45aa7e2836ff3bd50dfc1",
+  "validation_errors": []
+}

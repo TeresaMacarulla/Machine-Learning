@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ad7cc07b3ef0309e246c92a6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "7-10 split",
+  "setter": "kiel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "2A3902C97A624180948A86180D45C365",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1200r12p1203r15p1219r12p1251r13p1288r13p1319r13p1337r13p1351r13p1388r14p1549r15p1558r15p1559r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.4,
+  "hold_fingerprint": "88bfd1b94d884046e8742733294991748a3ad60a5eebfe20c0d42c89554495d8",
+  "validation_errors": []
+}

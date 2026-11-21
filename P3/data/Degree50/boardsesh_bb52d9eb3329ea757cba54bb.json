@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bb52d9eb3329ea757cba54bb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Board Wars",
+  "setter": "Washed Surrey Climber 07",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "7c72c553-2aee-406b-a01b-00e145c9f6df",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1081r15p1200r13p1459r15p1214r13p1227r13p1484r15p1281r13p1512r15p1311r13p1380r14p1538r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.5,
+  "hold_fingerprint": "577dcb0ebbaaf88324809bcb6944cdeb78d547606da705bee039e0531ba5f984",
+  "validation_errors": []
+}

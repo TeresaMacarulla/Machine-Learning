@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a4b28309be98dbc8148bd0cc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "PG13",
+  "setter": "DIDO",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "20a0fca0c69342199fda73ee975377f2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1178r12p1179r12p1204r15p1248r13p1269r13p1321r13p1340r13p1395r14p1467r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5e396a6e8982bde9893d02933357d8d37dbca0dd97f8f8d5f701c8bf116b2c40",
+  "validation_errors": []
+}

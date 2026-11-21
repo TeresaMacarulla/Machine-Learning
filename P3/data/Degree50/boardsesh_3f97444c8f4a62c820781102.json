@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3f97444c8f4a62c820781102.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "campus board?",
+  "setter": "JStreet",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "4A16D136D8484D8786DE4FDFF730EB7D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1171r12p1191r15p1203r12p1306r13p1352r13p1386r14p1451r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.75,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "ece1f798909fc8bab9c7a9bf5224d75eea13a910d310b12f348a1a2b96202d00",
+  "validation_errors": []
+}

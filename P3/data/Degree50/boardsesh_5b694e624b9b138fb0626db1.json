@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5b694e624b9b138fb0626db1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "GOOD",
+  "setter": "tomheslam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "C4690F4EB1A04CC4B0195C23FC5EBEEF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1163r12p1247r13p1269r13p1286r13p1306r13p1357r13p1371r13p1383r14p1386r13p1460r15p1544r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "129774b44827b0b29bb7b4d03f2c7bcc80d2d39f30128ec33e053218a5883b08",
+  "validation_errors": []
+}

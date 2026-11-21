@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b815938634c18dda34fd38ff.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Lo\u00efc climb",
+  "setter": "Daminus",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "4e802d35-e6ab-4a74-b163-3e2231e314b0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1250r13p1249r13p1220r13p1169r12p1336r13p1382r14p1106r12",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": null,
+  "hold_fingerprint": "b66ef04408933f8f75bce3d4aef0ea7ddffaf8a4368df8d1aa662eda7c196b30",
+  "validation_errors": []
+}

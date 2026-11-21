@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_53ebfd850855b1d7137d36fa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "this or pickleball",
+  "setter": "eric_cashman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "57E24E68198E414DA78A1501FE219C63",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r12p1230r13p1241r13p1253r13p1269r13p1314r13p1369r13p1381r14p1447r15p1453r15p1503r15p1516r13p1521r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 4,
+  "quality_average": 2.5,
+  "hold_fingerprint": "ede4c6c89e87f674cbeef9303e8520e2773b7020d35ed60f764bc2bf760f4d3b",
+  "validation_errors": []
+}

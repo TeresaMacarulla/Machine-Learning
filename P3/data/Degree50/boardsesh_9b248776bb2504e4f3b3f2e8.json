@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9b248776bb2504e4f3b3f2e8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Screech",
+  "setter": "pazee",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "19f07de8c13f4174b808b1c32f7f4bf8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1129r12p1135r12p1137r15p1191r15p1215r13p1216r13p1220r15p1254r13p1272r13p1339r13p1394r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 23,
+  "quality_average": 3.14,
+  "hold_fingerprint": "70255b87b39617fe8659ba414ef85e9f34b34741601e7ebc3040362629f7abe6",
+  "validation_errors": []
+}

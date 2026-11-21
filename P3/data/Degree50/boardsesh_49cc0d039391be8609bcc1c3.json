@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_49cc0d039391be8609bcc1c3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Shoulder the Boulder",
+  "setter": "pietstonie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "ef8abb1d913b4b3986849d1a97007753",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1163r12p1202r15p1215r13p1247r13p1268r13p1320r13p1334r13p1384r14p1458r15p1462r15p1485r15p1506r15p1522r15p1542r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.93,
+  "ascensionist_count": 14,
+  "quality_average": 3.29,
+  "hold_fingerprint": "7703339ddac95058be17d596005f6ea8d2917d57ed53fb59583ed74795be73f0",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2eaae660877db9f08aaea7ba.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Greifbar",
+  "setter": "freezyfreaz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "d3776e93be2c400084a213b3dcc3b960",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r15p1196r12p1212r15p1215r12p1239r15p1267r13p1283r13p1286r13p1337r13p1354r13p1391r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "079d54814f36ceca4b5aea4ec7f0522593e9cadfa2729234e713d2362ec1d02c",
+  "validation_errors": []
+}

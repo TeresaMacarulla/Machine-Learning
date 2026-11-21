@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1aa8c8491e8557c700585ca9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Indomee",
+  "setter": "El_Kujo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6b4a7428e71f43c19f008b5cac1fcde0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1153r12p1184r13p1233r13p1235r13p1268r13p1322r13p1371r13p1387r14p1452r15p1470r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "09cca87e9163ac8a84a8af25cd82056df7ffcbb5f6f42c38f74306a9187e1037",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9530a37a342aa716e99e6826.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "the warm up",
+  "setter": "liamheyman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0038E23ED58D4CF280CC5A1D368FAD33",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1096r15p1142r12p1145r13p1163r13p1215r13p1234r13p1267r13p1302r13p1334r13p1354r13p1387r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.75,
+  "ascensionist_count": 12,
+  "quality_average": 2.13,
+  "hold_fingerprint": "6e7f2920c9c225156ef5d682245ba1e129e0e315e901bac6fd2567635767c520",
+  "validation_errors": []
+}

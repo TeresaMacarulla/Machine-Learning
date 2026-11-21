@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_96994e06e744cd3780399f50.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Impreza",
+  "setter": "skinnyC",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "882C35C8A94546E3922096BFD3965507",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1176r12p1214r12p1244r13p1264r13p1265r13p1301r13p1350r13p1389r14p1466r15p1513r15p1580r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.33,
+  "ascensionist_count": 6,
+  "quality_average": 3.83,
+  "hold_fingerprint": "633319676535fcc61bcfa1ac29d659af97f3dc737916ab656e321072fd3d9125",
+  "validation_errors": []
+}

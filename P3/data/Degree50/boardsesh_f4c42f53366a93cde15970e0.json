@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f4c42f53366a93cde15970e0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Manger",
+  "setter": "LucasHi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "073a544a196148278b739e890371de94",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1235r13p1284r13p1304r13p1391r14p1455r15p1468r15p1497r12",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 17,
+  "quality_average": 3.82,
+  "hold_fingerprint": "1dc2ecc78fc0243e93eea78ae2ec3df8ec73f227119fd72ede852ac1edcd6baf",
+  "validation_errors": []
+}

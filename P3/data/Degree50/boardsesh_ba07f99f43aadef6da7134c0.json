@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ba07f99f43aadef6da7134c0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "02.02.22",
+  "setter": "Torstein",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "8f52109e06354fcd9f666907cf182005",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1213r12p1230r12p1253r13p1320r13p1340r13p1393r14p1528r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "b4f38f02d611990385d61a091b220a03d73c07a55cac441ad60b89c23fdfe652",
+  "validation_errors": []
+}

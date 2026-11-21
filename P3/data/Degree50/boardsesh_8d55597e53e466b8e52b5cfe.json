@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8d55597e53e466b8e52b5cfe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "people change",
+  "setter": "itsstilleric",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "9DC2491766BC4619AA5B082E419F77E6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1154r15p1155r12p1183r15p1210r15p1266r15p1275r13p1283r13p1284r13p1304r13p1315r13p1379r14p1450r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "318adfdb8da5e24a9dd6052c84355f2f6bc048f12bfa7702446230c94060bd4c",
+  "validation_errors": []
+}

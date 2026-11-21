@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e8366f6f1b23eb06b554b306.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Tougher Warm Up Route",
+  "setter": "tomheslam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "E5649D4E51DC41DD955964CB06DDA453",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r12p1151r12p1182r13p1214r13p1263r15p1266r13p1267r13p1334r13p1382r14p1452r15p1455r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "728a4268338f44bcda14340c1553eab915ef40cce69cebbf2b37e1492d4f30af",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d3dd7ab1ba3b806e50fc8c24.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "battletoads",
+  "setter": "jchongsends",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "D5E4825191CB47019105A4EFA0F3CF11",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1107r15p1176r12p1197r12p1263r13p1302r13p1350r13p1379r14p1383r14p1485r15p1524r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "80393081dd22ae3bd32ee353983584087995d54a426ba81aeb56132b2181c555",
+  "validation_errors": []
+}

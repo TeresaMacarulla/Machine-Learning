@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ca8157ea0c5a43518b5bc13f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Fuged shouldering",
+  "setter": "meow1626",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "326D7F8073B14DC69CA0BF7DFCE7B55A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1269r12p1274r15p1301r13p1330r13p1334r13p1380r14p1532r15p1541r12p1555r15p1557r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e026837e67f50e5286f6fdebaa0ef9b6f0298b1b0402b484ab4f101fda2e91e7",
+  "validation_errors": []
+}

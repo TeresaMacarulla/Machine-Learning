@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_65dc11a3f4dc783648473cc5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "balance your feet",
+  "setter": "matheod",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "360399D8964940EAAA13582266E53067",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1234r12p1242r15p1288r13p1321r13p1359r13p1394r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4bd7e2ba6f9e088bb15b4440560a3382bd2b11dd86252d5f435961c831b2edaa",
+  "validation_errors": []
+}

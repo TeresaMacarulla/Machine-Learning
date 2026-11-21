@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8ab35c88afc193ade967a311.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "axis",
+  "setter": "jakedotclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "D5D467DBF6394E6B9272765F242B5971",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1146r12p1216r13p1229r13p1320r13p1323r13p1335r13p1392r14p1493r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b6bb1493f97e133b5e436b263fa266e6f83793ecf85d225365f7add13fa1c227",
+  "validation_errors": []
+}

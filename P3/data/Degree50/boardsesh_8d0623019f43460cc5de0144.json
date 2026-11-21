@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8d0623019f43460cc5de0144.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Rapid Access Memory",
+  "setter": "Fingerschinder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "D466A76BD35E40AEA41AE072200F6ACF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1179r13p1228r13p1300r13p1334r13p1338r13p1389r14p1453r15p1458r15p1467r15p1492r15p1543r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "515de82355bb2edc652cb674894ed49463e1e60b5ad859cd217a4cb4a6e759fc",
+  "validation_errors": []
+}

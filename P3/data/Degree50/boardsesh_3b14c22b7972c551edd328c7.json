@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3b14c22b7972c551edd328c7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Kattegat",
+  "setter": "krimdogbillionaire",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "C3163DF6C3DD48F4BE2C4E30A207A1DA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1174r12p1206r12p1250r13p1273r13p1286r13p1298r13p1318r13p1382r14p1482r15p1489r15p1521r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "5d44d1ee0221dd7cde742edc0a402989f2fbd7a7ddbef3448426d851234a5ae3",
+  "validation_errors": []
+}

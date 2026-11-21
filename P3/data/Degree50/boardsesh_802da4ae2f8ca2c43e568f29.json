@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_802da4ae2f8ca2c43e568f29.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Homunculous",
+  "setter": "samchesney13",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1F9C5DF3F69E4BF88F32FBCFA60074F3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1171r15p1185r12p1198r12p1204r15p1236r13p1286r13p1322r13p1336r13p1390r14p1476r15p1505r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "04c3244b5eef6ae029e8550dc47efa3842c613c31be2678b55a8915757076889",
+  "validation_errors": []
+}

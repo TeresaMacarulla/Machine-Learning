@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1ed71e607b637c0bf732abf8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "powertool",
+  "setter": "lachlan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "56F28C95051840529073BFB2A4FB24EE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1164r12p1253r13p1284r13p1338r13p1386r14p1456r15p1459r15p1487r15p1504r15p1531r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e74808f3a8bdd0238e319f2ad0f3da0cc2c075a18f2504cfd319911a912340a1",
+  "validation_errors": []
+}

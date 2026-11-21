@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_720dabbb5dbb0be62f6d54ff.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "SO sykd",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "A620E56CB2EE425398D24649256990F9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1163r12p1188r15p1218r13p1252r13p1288r13p1305r13p1356r13p1387r14p1455r15p1459r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.99,
+  "ascensionist_count": 2716,
+  "quality_average": 3.2706374355195282,
+  "hold_fingerprint": "299a137a3c8f04a2cf87fe986dbd09bd7deaa43b9df9d5873350e81cc67afc24",
+  "validation_errors": []
+}

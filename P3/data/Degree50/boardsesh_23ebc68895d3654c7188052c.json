@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_23ebc68895d3654c7188052c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "BD KILTERKILLER #011",
+  "setter": "svetielko",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "08A8AFD1FC56433CB774BEA7CE531897",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1147r12p1196r13p1198r12p1216r13p1231r15p1267r13p1271r15p1320r13p1335r13p1389r14p1497r15p1530r15p1533r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.2,
+  "ascensionist_count": 5,
+  "quality_average": 2.6,
+  "hold_fingerprint": "ff45d607f463728a8aa190305f4dbdf985fac7402de4a12706301599dcf08d45",
+  "validation_errors": []
+}

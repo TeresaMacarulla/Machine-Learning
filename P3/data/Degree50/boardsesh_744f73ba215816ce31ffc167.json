@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_744f73ba215816ce31ffc167.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "LiNe",
+  "setter": "EliHook",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "98704aedbbf542a49b826a0cc7d48ea0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1149r12p1166r15p1200r13p1251r13p1268r13p1302r13p1336r13p1387r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.33,
+  "hold_fingerprint": "ad86de555726990000c4439eddd7b28e5a8ffad263217bcf4783fdcbd2eeb10b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dfa82be7af91b6108460f7d1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "ponies",
+  "setter": "DWJ",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 24
+  },
+  "source": "boardsesh",
+  "source_uuid": "a08573bd971c49b1a792d6a2eb3bc923",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1085r15p1086r15p1087r15p1088r15p1089r15p1127r12p1141r12p1212r13p1263r13p1269r13p1286r13p1300r13p1306r13p1340r13p1360r13p1395r14p1458r15p1459r15p1460r15p1461r15p1462r15p1463r15p1464r15p1502r15p1512r15p1514r15p1519r15p1532r15p1535r15p1543r15p1551r15p1553r15p1561r15p1580r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "87b661ae974f95794e59c8239e99694debfdef10d734febd166c0f445d3ac447",
+  "validation_errors": []
+}

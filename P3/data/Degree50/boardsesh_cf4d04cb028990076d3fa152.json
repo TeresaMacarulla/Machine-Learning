@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cf4d04cb028990076d3fa152.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "lessfeet",
+  "setter": "crytedelights",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "3ba56caf-739d-462d-a5c2-f89dbcd04b32",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1147r13p1457r15p1197r13p1460r15p1452r15p1229r13p1177r13p1300r13p1477r15p1351r13p1389r13p1391r13p1395r14p1504r15p1532r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "911348d65ef341afdc154fdc2101d0c110222fa0547b7337ad29b2dcee2885cb",
+  "validation_errors": []
+}

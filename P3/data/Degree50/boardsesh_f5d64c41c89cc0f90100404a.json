@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f5d64c41c89cc0f90100404a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "pepite 4",
+  "setter": "SweztThomas",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "01ab589da6554903a109b327514d5124",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1135r12p1168r12p1191r15p1204r15p1222r13p1240r13p1323r13p1341r13p1390r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 5,
+  "quality_average": 5.0,
+  "hold_fingerprint": "b83218fd184870537abe1f78e0e48bde69de67f56df271d00a9eb9ab9d05e614",
+  "validation_errors": []
+}

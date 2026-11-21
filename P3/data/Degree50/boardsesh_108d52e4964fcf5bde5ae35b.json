@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_108d52e4964fcf5bde5ae35b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "bolo 1",
+  "setter": "nunanuna",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "492e368f5bbb4852819ddb93ef5f9ff7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1149r12p1203r15p1239r15p1251r13p1268r13p1304r13p1340r13p1393r14p1454r15p1456r15p1553r15p1560r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.6,
+  "ascensionist_count": 7,
+  "quality_average": 3.8,
+  "hold_fingerprint": "ac340f23553f5fbc2d9a95bf2fe94f50f3d31343b420d6ca1259e44974f34e44",
+  "validation_errors": []
+}

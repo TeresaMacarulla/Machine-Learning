@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e2bae7846350c868d1d13d2a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "wrist wrench",
+  "setter": "ravenvanwaijjen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "453C9151A5884EA6B093D448637AA72B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r15p1196r12p1214r15p1227r12p1264r13p1284r13p1285r13p1323r13p1332r13p1391r14p1510r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "a569bf2a07d879066822b5d58e31f270f6d287b2abcd39f4adad795b274dc36d",
+  "validation_errors": []
+}

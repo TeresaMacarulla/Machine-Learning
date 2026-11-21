@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8e96a14c15306a3a47e419f8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "veethree",
+  "setter": "shiguchi1215",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5C1BE88745384996ADF922E65AFCB2B7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1116r12p1145r15p1153r12p1156r15p1201r13p1230r13p1234r13p1281r13p1331r13p1384r14p1451r15p1511r15p1540r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d0b8b28da224da294f1a51e49215f3e80a20d9d25e148bd6e99b57140343f7f0",
+  "validation_errors": []
+}

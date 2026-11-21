@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3fd5d913d0f2443c4d32ca82.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Gone with the goat",
+  "setter": "ania",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "cbe38fa2b5e94a268f18d1ac6fd812d9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1147r12p1202r13p1215r13p1269r13p1301r13p1338r13p1371r13p1392r14p1456r15p1504r15p1543r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.95,
+  "ascensionist_count": 62,
+  "quality_average": 3.39,
+  "hold_fingerprint": "64b38e2ea22a82dfb131d371a957093137498af45f6d12491c0801624b8ec995",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_90b5576ec3f2cab2ae63f11c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "I am flying cat",
+  "setter": "hynngloomy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1F96CCB9915C43D48BF3F9A1D6271571",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r15p1215r15p1241r12p1268r13p1280r13p1281r13p1291r12p1303r13p1308r13p1347r13p1379r14p1518r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.07,
+  "ascensionist_count": 44,
+  "quality_average": 3.57,
+  "hold_fingerprint": "3049ac398a992d9f072419daed3c17d549eccce0291af9f0742658dd353bd269",
+  "validation_errors": []
+}

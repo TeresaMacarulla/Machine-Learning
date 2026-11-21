@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d8940d65d53107607200d0da.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "swish",
+  "setter": "thomashochman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "767ED5346079483992DA0FB9C4EA53ED",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1166r12p1198r13p1249r13p1282r13p1301r13p1353r13p1390r14p1504r15p1541r15p1560r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f5ea151eca7e792ee1903343fb0da552662f26cbb7a08a12268db725d8c44c25",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_17d2442f39a93a015e5d6be9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "big moves but small motion",
+  "setter": "TF07",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "8da1c410-fc5e-4127-894a-f9ca9b7cfb27",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1371r13p1268r13p1266r13p1162r12p1143r12p1247r13p1085r15p1183r15p1376r14p1325r14p1572r15p1234r15p1197r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.6,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "4f549827864ace6051694e1467bde2c0bad7d145d4914aea78409538116fe274",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_672ccc5e57343ffae4cb86dc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "pill rolling",
+  "setter": "tlandman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "77E6EC8B29A84B108EEDDFC0B392CE10",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1124r12p1162r12p1214r13p1235r13p1269r13p1272r15p1337r13p1384r14p1477r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.95,
+  "ascensionist_count": 20,
+  "quality_average": 3.3199999999999994,
+  "hold_fingerprint": "728704f394d957d3e880d3eee2bfad1e1aaa1bb4677168f56e1dd80810f6f25c",
+  "validation_errors": []
+}

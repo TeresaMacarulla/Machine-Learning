@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5cb1dc7146c82eff19f4cd2d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Get Capped",
+  "setter": "daxxta",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "067d69c08a1045848895efc79bcf605c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1150r12p1179r13p1232r13p1297r13p1350r13p1382r14p1459r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "e34067a7385ac335f0e5385d6bbc3f9593ccdab2d814c12fd3e221754e934d98",
+  "validation_errors": []
+}

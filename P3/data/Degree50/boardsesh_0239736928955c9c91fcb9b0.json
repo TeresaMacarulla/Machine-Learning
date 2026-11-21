@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0239736928955c9c91fcb9b0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "101010 50Degrees",
+  "setter": "youwillexpire93",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "82CCDA9E09A64719A3CDFDF8A7597566",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1168r12p1185r12p1210r15p1250r13p1269r13p1297r13p1317r13p1345r13p1379r14p1452r15p1471r15p1479r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "32041ac064f48579fe870d1f80e9d5649ec4a5bce5741d589f07c4800fbe9c56",
+  "validation_errors": []
+}

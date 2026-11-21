@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7dfa7e9d313e771c92c780f9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Drifters",
+  "setter": "Paka",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F8AEFB7C466943339450C77217300CFF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1167r12p1269r13p1290r13p1323r13p1327r13p1395r14p1469r15p1515r15p1526r15p1527r15p1542r12",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "c825d8d8780300c4adf7f0469ca34847da572661da649892c293f6d0778a1a8b",
+  "validation_errors": []
+}

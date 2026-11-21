@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8e9ba02b41f22201a0c23388.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Pinch Me Silly",
+  "setter": "TristynButler",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "6C7CA2A820AE42138F2E9408B072B960",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1102r15p1157r12p1168r15p1206r13p1254r13p1259r13p1285r15p1291r13p1340r13p1391r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.92,
+  "ascensionist_count": 12,
+  "quality_average": 3.33,
+  "hold_fingerprint": "af04815f478783758dd1c03f3503a1a6d4ca660c7b328b0496b304e2798d7dc5",
+  "validation_errors": []
+}

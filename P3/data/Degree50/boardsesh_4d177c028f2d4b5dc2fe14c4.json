@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4d177c028f2d4b5dc2fe14c4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Cold Blooded",
+  "setter": "jacobosullivan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 13
+  },
+  "source": "boardsesh",
+  "source_uuid": "0459511590BA443DBA4998B944F9ED69",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1198r13p1236r13p1251r13p1289r13p1340r13p1359r13p1377r13p1395r14p1454r15p1457r15p1468r15p1470r15p1487r15p1489r15p1506r15p1508r15p1514r15p1525r15p1535r15p1543r15p1554r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.67,
+  "ascensionist_count": 3,
+  "quality_average": 3.33,
+  "hold_fingerprint": "4b61b8fa783505b9f1b7dae020739fc2389850ae928fc1fc2917555ae418a8d5",
+  "validation_errors": []
+}

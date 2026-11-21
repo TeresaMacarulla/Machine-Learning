@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6a324f0cd878f8e39ff91dd4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "y=mx+b",
+  "setter": "owen-dmustard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "40fca7c9-4601-49e5-9617-3ed2716152fc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1355r13p1270r13p1219r12p1514r15p1471r15p1134r12p1383r14p1334r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "00620ca799ae4f4484c8fc5a8dff50eba2de334f7149871049f5230d031b2dbb",
+  "validation_errors": []
+}

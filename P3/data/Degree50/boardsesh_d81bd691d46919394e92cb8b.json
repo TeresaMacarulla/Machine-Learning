@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d81bd691d46919394e92cb8b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Anti 1",
+  "setter": "Bicky0108",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "F8D4CAA4EB0E4FE2A02F57BD31F38C2C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1124r12p1127r12p1196r13p1228r13p1266r13p1295r13p1332r13p1379r14p1460r15p1477r15p1519r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.5,
+  "hold_fingerprint": "9c0b494833a1794a9dfe3aff488a610dd4635781a907d58ee50e59c8eebee714",
+  "validation_errors": []
+}

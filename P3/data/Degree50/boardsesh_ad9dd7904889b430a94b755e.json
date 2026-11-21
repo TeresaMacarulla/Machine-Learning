@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ad9dd7904889b430a94b755e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "otb 4",
+  "setter": "bobby1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "7591A8D775C9417CA1D81233364FE9EF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1166r12p1169r15p1180r12p1232r13p1254r13p1286r13p1304r13p1352r13p1388r14p1486r15p1524r15p1541r15p1543r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f037aa144587ed3fc26a551047bb29a7a4542f77febedab881aa2439c68e3b4e",
+  "validation_errors": []
+}

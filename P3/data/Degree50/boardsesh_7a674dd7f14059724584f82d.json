@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7a674dd7f14059724584f82d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Biggus Dickus",
+  "setter": "samuelwyler",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "fb6c81d5a0ec46089c85168d4ae39912",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r15p1147r12p1168r12p1219r13p1224r13p1236r15p1273r13p1327r13p1394r14p1451r15p1456r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.95,
+  "ascensionist_count": 7743,
+  "quality_average": 3.3309505949301603,
+  "hold_fingerprint": "5362e2345cbad13baabce0e7313c010adab0d74b6cf42ce310f302ee3c10bc11",
+  "validation_errors": []
+}

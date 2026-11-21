@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cd8609adca6a3d86c6d246a0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "fourchette",
+  "setter": "maxlenail",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "A967CD97FD304C1D916B71943A73F525",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1128r12p1199r13p1248r13p1254r13p1270r13p1341r13p1390r14p1459r15p1496r15p1515r15p1544r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "780d2111f3f0cf7c9d4710f71b2d7b747b70d4891b6d5d60dd16e02d7079d651",
+  "validation_errors": []
+}

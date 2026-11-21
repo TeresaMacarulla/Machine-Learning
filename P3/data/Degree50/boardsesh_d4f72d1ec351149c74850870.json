@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d4f72d1ec351149c74850870.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Keine Kraft in der Schulter",
+  "setter": "core.nelius",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5d2a4438a54049a281b77f12ecea5506",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1202r13p1253r13p1265r13p1318r13p1365r13p1381r14p1452r15p1534r15p1551r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "097a7c3b0e064af8981d2c68312908e2be7fc9e6c5309a9643e262368ab83b4d",
+  "validation_errors": []
+}

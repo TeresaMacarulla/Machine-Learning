@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0974b2be4ebfd3eb71f82fd3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "good movement",
+  "setter": "VictorScalo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 8,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "70DD05A62F2D4A1E98B1ABF0FD708A2C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1186r12p1191r12p1255r13p1272r13p1295r14p1320r13p1331r13p1345r14p1347r13p1357r13p1369r13p1371r13p1482r15p1559r15p1576r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "078c326675764e045dd3e09652a4c911509db204ad60f8748fd62582baa7c28c",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9f24e34d17f09dfe2cb6b6dd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "I Can See It!",
+  "setter": "will_avelar",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "1349BFD456D74F9A9A353304C942D16C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1164r13p1236r13p1300r13p1317r13p1382r14p1455r15p1456r15p1470r15p1479r15p1489r15p1530r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.03,
+  "ascensionist_count": 32,
+  "quality_average": 3.44,
+  "hold_fingerprint": "278d5b9d1aad980ac8f729aabe0f6c21165aace575880c485f45ae2f6b4f88fd",
+  "validation_errors": []
+}

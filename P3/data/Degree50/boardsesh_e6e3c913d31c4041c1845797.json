@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e6e3c913d31c4041c1845797.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "River Floats",
+  "setter": "etrain90",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "bf38cc6a-c1d8-434e-9afd-ccb9eb2008b1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1212r12p1084r15p1267r13p1284r13p1322r13p1372r13p1391r14p1525r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": null,
+  "hold_fingerprint": "42c8959604afab593a62cd7878b9130ba5a0ec5eb4cb09a3eabd07d6c47886b1",
+  "validation_errors": []
+}

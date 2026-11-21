@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ec10a3447803001ab018f85b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Cerebral Palsy",
+  "setter": "rchai",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1e9368518195400ea780482ebdac4ad8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r12p1147r12p1196r13p1216r13p1263r13p1301r13p1334r13p1384r14p1456r15p1467r15p1503r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.98,
+  "ascensionist_count": 600,
+  "quality_average": 3.3810385259631492,
+  "hold_fingerprint": "bdd36705561090b6ebc3a0d9d3f891305defb53992c67c2f9cb164ae13b850ac",
+  "validation_errors": []
+}

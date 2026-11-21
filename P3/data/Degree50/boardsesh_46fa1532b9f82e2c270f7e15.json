@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_46fa1532b9f82e2c270f7e15.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "ALV6",
+  "setter": "alvi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "71FFE39F7B1E434CA4C898397151B762",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1180r12p1210r13p1265r13p1298r13p1354r13p1390r13p1393r14p1460r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3fd0cfe5868cb68b2bf6a872f80c5a8a49b7c97d25d4340d917c11b1578df1b7",
+  "validation_errors": []
+}

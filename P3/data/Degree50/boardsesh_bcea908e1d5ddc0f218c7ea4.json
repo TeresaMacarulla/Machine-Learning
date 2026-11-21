@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bcea908e1d5ddc0f218c7ea4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "gemstone crab",
+  "setter": "bobdjango",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "a3fc2b867ec94e1f941293f7493307d2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1126r12p1131r15p1185r15p1204r15p1233r13p1247r12p1286r13p1308r15p1334r13p1355r13p1372r13p1395r14p1521r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "edefe7c422965bc8fbcdd5a9167f69f7689e4cdbc587d8253f466c855818a8d7",
+  "validation_errors": []
+}

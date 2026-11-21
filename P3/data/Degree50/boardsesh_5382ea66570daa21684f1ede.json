@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5382ea66570daa21684f1ede.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Climb de toilet",
+  "setter": "rizoman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "23C20838C84A4419ADCE82B32EDF3CBE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1197r15p1216r12p1263r12p1286r13p1314r13p1386r14p1510r15p1520r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "72de24620a927012fb61e3778d28184d453736d6d76e8e72f1e80c726077ae4e",
+  "validation_errors": []
+}

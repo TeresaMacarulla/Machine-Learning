@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0fd14442c9020ec1475a0c1c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "the system",
+  "setter": "eli12k",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "202867A4B3A443CA8E02AC6230CCC258",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1149r15p1163r15p1201r12p1202r12p1217r15p1252r13p1255r15p1268r13p1337r13p1338r13p1385r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.5,
+  "hold_fingerprint": "715c260ebab694465a8e7d7e81506920cd808b40f55c889f1505e65a0d3f1c11",
+  "validation_errors": []
+}

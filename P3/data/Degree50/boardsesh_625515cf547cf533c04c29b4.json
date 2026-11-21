@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_625515cf547cf533c04c29b4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Hulk Smash",
+  "setter": "Climbering",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9FF3CC4F46D0432CB7DB3B1D04A49927",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1161r15p1171r12p1189r12p1201r13p1234r13p1238r13p1250r13p1264r13p1318r13p1331r13p1367r14p1383r14p1449r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "89fb6599001c516fd6805fd07c060c7ce12cb6b38d84bef4fbadcc155632df7a",
+  "validation_errors": []
+}

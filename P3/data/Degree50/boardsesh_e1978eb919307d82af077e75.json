@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e1978eb919307d82af077e75.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Whipper Snapper",
+  "setter": "ashtenbush",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "a17d1330-c8a0-4583-8c1f-8f7de9bcc2df",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1276r12p1191r12p1256r13p1154r15p1270r13p1353r13p1298r13p1281r13p1217r15p1345r14p1228r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "144dc41f75633022f7d676b185eb10a5c4722ae622c142eadb13cc74caaddfaa",
+  "validation_errors": []
+}

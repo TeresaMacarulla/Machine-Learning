@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ba8778eee6bbc877ea353435.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "you guessed it",
+  "setter": "JakeSully",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "4657d15e91934f0c84dd09598bd04d18",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1184r15p1210r13p1227r13p1248r13p1265r13p1268r13p1337r13p1389r14p1463r15p1493r15p1543r15p1561r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "64f88814359fdd649919a27609e419fa3656a2e519a7c8fe5d71ac96615a26de",
+  "validation_errors": []
+}

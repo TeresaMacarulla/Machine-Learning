@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1324f5265b667cb0b2876f32.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Hanami",
+  "setter": "jerryv",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "01e8b3ede4ca4d14b79a005d20c0c5f0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1154r15p1200r12p1221r13p1236r13p1289r13p1338r13p1341r13p1373r13p1387r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "4b9cf51aee61b636d2bcf600ff17ff467fcf7cfd0e45d0e9a8a276dd9184978c",
+  "validation_errors": []
+}

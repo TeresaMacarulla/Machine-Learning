@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_00acfc453c7f83e706865cc0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Campus W-Up",
+  "setter": "santobekking",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "1B6B51EBB0E54D27B449A328B4A350D2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1273r12p1289r12p1339r13p1354r13p1368r13p1371r13p1384r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e49484f859fc35ae31bb5df29f03d0dd31c35a0156b654e5e86e2560d0a82ce2",
+  "validation_errors": []
+}

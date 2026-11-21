@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_338464fb540ebfd8370b8230.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Unary",
+  "setter": "ANWC",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "BABB293C260A4A4AA416810B1DF82F2C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r15p1198r12p1250r13p1274r15p1287r13p1339r13p1387r14p1544r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.98,
+  "ascensionist_count": 56,
+  "quality_average": 3.44,
+  "hold_fingerprint": "f935cf03387fcd6066a7200d39d4f05e7904ae0e87aa65f5f758dd9d3991ac87",
+  "validation_errors": []
+}

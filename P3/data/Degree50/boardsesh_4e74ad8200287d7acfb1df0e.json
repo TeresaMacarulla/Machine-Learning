@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4e74ad8200287d7acfb1df0e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "fleebleweeble",
+  "setter": "agiewagie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "9CA3A01CA108496B9F7E05C919A57E84",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1111r15p1133r15p1147r12p1148r12p1203r15p1215r13p1217r13p1284r13p1339r13p1387r14p1456r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b03ae04a0d5359eb525e155d35cbe573afa462abdd1d84b42c3f2a2746ab7409",
+  "validation_errors": []
+}

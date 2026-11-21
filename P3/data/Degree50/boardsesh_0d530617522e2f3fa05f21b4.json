@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0d530617522e2f3fa05f21b4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Nocturne",
+  "setter": "max481",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b048bc53-8802-49d3-96cd-9860539924dc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1271r12p1155r15p1308r13p1536r15p1498r15p1256r12p1361r13p1391r13p1387r13p1385r13p1383r13p1565r15p1380r14p1356r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.75,
+  "ascensionist_count": 9,
+  "quality_average": 3.5,
+  "hold_fingerprint": "7427af6074c0def7dfd9f9100a07cb5bdb35248056dc159fbc685311ada156a9",
+  "validation_errors": []
+}

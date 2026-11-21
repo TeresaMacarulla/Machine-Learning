@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1b679fcffe387ac3c352d2d4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Just go up!",
+  "setter": "Gergo_PowerSesh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "e4cab3f2-1d8b-480c-8026-ad3c9bea7bf9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1090r15p1109r12p1227r13p1211r13p1501r15p1295r13p1347r13p1379r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": null,
+  "hold_fingerprint": "3b2adbdcc941d6c6ca8d798560dfe504698ebd2c04d1c57d5cf3aee4e863143e",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_52e445c4808f6aeadc5f6da6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "bomba",
+  "setter": "evan_ravenel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "83af50ff-90b9-40ec-851f-22d59e33a25d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1233r13p1196r13p1165r12p1147r12p1265r13p1302r13p1304r13p1357r13p1391r14p1085r15p1487r15p1506r15p1534r15p1543r15p1533r15p1578r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "305322c1d1a026c0e2b9aa81daada6c68c6f070659039af6d6b0d844942c92ff",
+  "validation_errors": []
+}

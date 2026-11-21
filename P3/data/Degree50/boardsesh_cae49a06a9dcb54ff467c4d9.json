@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cae49a06a9dcb54ff467c4d9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Zig-Zag-Zug",
+  "setter": "dazachu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "48535484-bc48-4c42-abdd-c3225385526f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1135r12p1187r13p1456r15p1452r15p1238r13p1491r15p1257r13p1389r14p1515r15p1305r13p1340r13p1550r15p1532r15p1307r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.25,
+  "ascensionist_count": 7,
+  "quality_average": 3.25,
+  "hold_fingerprint": "15db4debfa5f0075a5613f2bdf36dc921a3f8e6fc64fc8845f0bad3710ef78be",
+  "validation_errors": []
+}

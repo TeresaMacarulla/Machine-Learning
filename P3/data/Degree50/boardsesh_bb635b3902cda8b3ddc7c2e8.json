@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bb635b3902cda8b3ddc7c2e8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Frog and Bandit",
+  "setter": "mmreyes",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "FEF6DE6095C145EEBBF24CCBB36556B0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r12p1120r15p1125r12p1137r15p1148r13p1185r13p1196r13p1235r13p1305r13p1339r13p1394r14p1457r15p1461r15p1462r15p1464r15p1563r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3364e3fb72695356571ee68d1506e0c07372bcf35e0636e8fd422b6cd0649ffd",
+  "validation_errors": []
+}

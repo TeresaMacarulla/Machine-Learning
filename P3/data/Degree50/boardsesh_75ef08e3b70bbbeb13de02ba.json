@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_75ef08e3b70bbbeb13de02ba.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "1 inch cut",
+  "setter": "iestyncjames",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "B0FAB2A416264043B7F0673BC72302BD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r12p1104r15p1110r15p1131r12p1151r13p1161r15p1200r13p1215r13p1268r13p1283r13p1302r13p1347r15p1385r14p1461r15p1593r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "43a8ca6dc1e9d0b294c525f3d8c60c0d2861a20afa0c87976b892dff75a20748",
+  "validation_errors": []
+}

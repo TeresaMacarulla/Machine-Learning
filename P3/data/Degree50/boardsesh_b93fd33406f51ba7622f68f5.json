@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b93fd33406f51ba7622f68f5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "fake splits",
+  "setter": "mark1234",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "04F010EEF7A746438C9D11E0A1ECA070",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1142r12p1163r13p1231r13p1263r13p1267r13p1317r13p1347r13p1383r14p1464r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.75,
+  "hold_fingerprint": "33ed583b59336789232e0557243cd61511bf95f450fa881f2b159ce1b0893179",
+  "validation_errors": []
+}

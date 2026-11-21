@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3cfd40bbdaf92e31b3e06805.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Own Narrative Sim",
+  "setter": "Chater",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "6ddfda7897f94177863850f54b51fbda",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1082r15p1086r15p1147r12p1149r12p1231r13p1244r13p1266r13p1284r13p1307r15p1334r13p1389r14p1487r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "066173cccf7c1da8b4f2f0513d3b7ce4f5574bc82c4363bd73af4baa98255358",
+  "validation_errors": []
+}

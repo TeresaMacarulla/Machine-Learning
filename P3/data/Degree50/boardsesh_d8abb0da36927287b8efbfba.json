@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d8abb0da36927287b8efbfba.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Hotel Breakfast",
+  "setter": "Beta.Boxer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B7B929DB019748DC88FE59E940CF8B8A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1166r12p1267r13p1320r13p1375r13p1394r14p1455r15p1456r15p1557r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "60de98380e958a087f91577175d6183a9d8b1d3da3c92281b139b499556aa251",
+  "validation_errors": []
+}

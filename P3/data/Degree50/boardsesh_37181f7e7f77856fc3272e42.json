@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_37181f7e7f77856fc3272e42.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Crossknee",
+  "setter": "greencrow",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9d5cf1c1-4587-4a16-bf93-2f919a1aa1d7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1201r13p1254r13p1163r12p1177r12p1456r15p1283r13p1204r15p1323r13p1343r13p1395r14p1536r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "47c2753313a1c6c2ad58e4616fae6fbe15cbeeafac3ed51a0ef1fe6a66f87601",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bced30a20713473339f1d434.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Precept 1",
+  "setter": "yuunique",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "89463b72-911e-4185-8dc8-de025b0348b4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1269r12p1267r12p1370r13p1304r13p1391r14p1525r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.6,
+  "hold_fingerprint": "781df05103d669b3575ac8466ca91106049402fa67057695c725d9cc5e381696",
+  "validation_errors": []
+}

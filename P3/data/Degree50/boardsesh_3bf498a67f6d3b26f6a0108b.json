@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3bf498a67f6d3b26f6a0108b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "actionstyle",
+  "setter": "zdordai",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "0E457357064C4BA2BDD8DDC065552E3E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1153r12p1199r13p1201r13p1230r13p1281r13p1315r13p1354r13p1388r14p1450r15p1453r15p1469r15p1480r15p1528r15p1569r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 3,
+  "quality_average": 4.0,
+  "hold_fingerprint": "ce64672f74c549210bac4a695191c654b5c886a48e92f318854c269ce68807cf",
+  "validation_errors": []
+}

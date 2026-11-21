@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_79d5a36302294816da116aae.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "target",
+  "setter": "ella__duprow",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "199FAEFDC9EA4E268C67A0D7325148BA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1144r15p1148r12p1195r12p1218r15p1233r13p1282r13p1301r13p1353r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "51122bcf38e7b09fe1eaa545c94176a62d32842341e3832626d1afa25f815ef5",
+  "validation_errors": []
+}

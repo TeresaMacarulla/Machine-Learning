@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d00ac556cba62a0a5de7e748.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Soup Kitchen",
+  "setter": "Subject.Nimby",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "DA2931FABAEC4D55B36944E1839E8E7A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1240r13p1289r13p1359r13p1389r14p1447r15p1452r15p1480r15p1515r15p1568r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.32,
+  "ascensionist_count": 35,
+  "quality_average": 3.59,
+  "hold_fingerprint": "867f5a20ac00e3b8d947a7093700712a0d7730e0debc82f89de9f3860d108d2f",
+  "validation_errors": []
+}

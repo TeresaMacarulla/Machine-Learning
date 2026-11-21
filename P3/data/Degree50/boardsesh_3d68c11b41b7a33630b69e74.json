@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3d68c11b41b7a33630b69e74.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "jimmy forearms",
+  "setter": "Jgilbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C81EC622B74B4FC2A061CA4696F0DF3A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1103r15p1140r15p1155r12p1187r15p1190r12p1220r13p1224r13p1274r13p1324r13p1326r13p1393r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.99,
+  "ascensionist_count": 1151,
+  "quality_average": 3.3120695652173913,
+  "hold_fingerprint": "4cbe7b6e1c12199070a263c5a08cedb52af416d266c8cb83c869c3b8e841b29e",
+  "validation_errors": []
+}

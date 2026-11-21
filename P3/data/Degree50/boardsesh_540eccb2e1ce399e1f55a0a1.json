@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_540eccb2e1ce399e1f55a0a1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Yard Work",
+  "setter": "KilterStudio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "E6B705F5769E44369A65C102DC14CEEE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1180r12p1182r12p1269r13p1325r13p1392r14p1468r15p1506r15p1526r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.05,
+  "ascensionist_count": 20,
+  "quality_average": 3.3,
+  "hold_fingerprint": "1f710ef94fbe9033fb2bb57dd4e8888f441e68ee9ad101d4e307959b1e48c551",
+  "validation_errors": []
+}

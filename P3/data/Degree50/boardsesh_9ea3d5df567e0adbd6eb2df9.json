@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9ea3d5df567e0adbd6eb2df9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "360",
+  "setter": "twinktickler2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7b8cebc4-1056-4a83-a9bd-8ebdef5dcba7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1219r13p1157r12p1189r12p1395r14p1391r13p1201r15p1248r13p1162r15p1315r13p1369r13",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c0e8613e7edde7ecf6defe52f5a0316b150ee468bcc530924a37fc86e874a775",
+  "validation_errors": []
+}

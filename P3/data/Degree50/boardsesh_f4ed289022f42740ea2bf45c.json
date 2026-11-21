@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f4ed289022f42740ea2bf45c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Watery Roof",
+  "setter": "jenky",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "6f67509281384fa495e889a7d507892b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1135r15p1185r12p1202r12p1249r15p1267r13p1270r13p1305r13p1359r13p1388r14p1452r15p1455r15p1554r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.4,
+  "hold_fingerprint": "f6e32a65f5a17b37aa397e7afa19d08b5e11c2a8419036276888870e200a41f9",
+  "validation_errors": []
+}

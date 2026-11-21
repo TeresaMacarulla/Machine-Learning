@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cb44c6ba4077f62b83d38131.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Beep Chief",
+  "setter": "tortesla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0D24D8234B7243E1B3106C3DE549F86F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r15p1136r15p1180r12p1186r12p1268r13p1390r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f4664820300dbf448b59d1458830f26393b79740bcd5e5fe9f04d1e7bfed096c",
+  "validation_errors": []
+}

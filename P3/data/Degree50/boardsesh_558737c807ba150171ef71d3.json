@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_558737c807ba150171ef71d3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Pulp Friction",
+  "setter": "pgfv",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "E63E81A133A04BC283100F99D50A291E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1133r12p1149r12p1200r13p1268r13p1297r15p1303r13p1354r13p1383r14p1385r13p1454r15p1457r15p1496r15p1568r15p1577r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.99,
+  "ascensionist_count": 1182,
+  "quality_average": 3.31,
+  "hold_fingerprint": "f0ce118923e98f483bda5bd625a0a08f556fe841cf904c812650fc9b1a86c356",
+  "validation_errors": []
+}

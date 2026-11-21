@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_24fc0be38fd21cb4f17ae5bd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "waterloo",
+  "setter": "BarryDillon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "d83c0918-f136-4402-85c0-e1fa59e54c07",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1181r13p1201r13p1254r13p1458r15p1461r15p1171r15p1352r13p1383r14p1302r13p1551r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.67,
+  "ascensionist_count": 3,
+  "quality_average": 4.67,
+  "hold_fingerprint": "1caf6e57fa04d4428e9a8519a70775dee71700a6647ab3a2839eaae558d2b238",
+  "validation_errors": []
+}

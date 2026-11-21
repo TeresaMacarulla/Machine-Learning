@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_58ea587d04c1076fe4a76eda.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Side to Side",
+  "setter": "lwillets",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "603710A1483B4EECAE3EBC91037E33D8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r15p1201r15p1216r12p1230r12p1285r13p1298r13p1318r13p1332r13p1387r14p1487r15p1521r15p1548r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 18,
+  "quality_average": 3.56,
+  "hold_fingerprint": "a2c00c490ca6d4e40618b6b280b037f723ef0f898e228b964528e36a47af385e",
+  "validation_errors": []
+}

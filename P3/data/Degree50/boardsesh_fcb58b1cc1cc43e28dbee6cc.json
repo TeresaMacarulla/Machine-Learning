@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fcb58b1cc1cc43e28dbee6cc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "set with only right foot",
+  "setter": "QuentinLavit",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1d898ded96084334b85f0d6ab39900cd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1163r15p1180r12p1182r12p1234r13p1266r13p1317r13p1365r14p1384r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "142a3f829223c0513b3a3a7bcfbcb7409f4681377f4b1bf91debf91a80a4cb65",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e61050b44291ad06bfeb566e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "SimonSays",
+  "setter": "simonsilver",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "E95BEFE927E640C4854D0657F0AE2BC2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1083r15p1149r12p1234r13p1288r13p1301r13p1315r13p1332r13p1381r14p1498r15p1523r15p1534r15p1539r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.67,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "a7acf803513c727cd4efde00a4f0ae51aaed4b9f16c3decf48c37d633bfd803e",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b9752000f72245a3d50a4722.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Super Cereal",
+  "setter": "jwilder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "F04AFE1F53054C9AB40C9A3471420366",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1136r12p1154r15p1204r13p1216r13p1238r13p1284r13p1304r13p1356r13p1392r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.01,
+  "ascensionist_count": 6630,
+  "quality_average": 3.1406910078455037,
+  "hold_fingerprint": "a328e2399304e3ae43e5e28d0ee730d063e59736601813d51279f16640e89b29",
+  "validation_errors": []
+}

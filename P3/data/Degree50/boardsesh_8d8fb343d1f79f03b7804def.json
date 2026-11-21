@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8d8fb343d1f79f03b7804def.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "sleddin",
+  "setter": "zealot",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "41B8E73239B94E0FA45AD1E58820A457",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1150r12p1188r13p1202r13p1274r13p1324r13p1336r13p1387r14p1536r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "dc841ba2bce0b63727925742bbc41cc67d6c092df44f9d6835cc32a974d07225",
+  "validation_errors": []
+}

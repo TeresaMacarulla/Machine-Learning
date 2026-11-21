@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_08de15d1b530336a4e2f2083.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "wagon",
+  "setter": "Nathan_Collard_",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0f5c42de-74ef-4b89-b3b5-97eb054138f1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1303r13p1317r13p1331r13p1379r14p1546r15p1499r15p1222r12p1517r12p1290r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.5,
+  "ascensionist_count": 2,
+  "quality_average": 1.5,
+  "hold_fingerprint": "3a3ef4d1c5eec0d145bf918bcf605aaee080255f85614acaf2ea097467c9e390",
+  "validation_errors": []
+}

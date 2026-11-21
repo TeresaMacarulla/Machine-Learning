@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e6644978253e44132fabffa8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "improwarm",
+  "setter": "dazachu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "c52ae642-211c-41e0-b649-31079f8d9e71",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1147r12p1218r13p1321r13p1083r15p1498r15p1558r15p1078r15p1239r13p1478r15p1289r13p1270r13p1513r15p1371r14p1531r15p1507r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 6,
+  "quality_average": 3.25,
+  "hold_fingerprint": "60d9cb2ede7ae72a20f6a8789ffb2d61733ab93ca47642604d98eb1cfa36f920",
+  "validation_errors": []
+}

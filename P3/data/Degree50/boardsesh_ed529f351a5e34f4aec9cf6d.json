@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ed529f351a5e34f4aec9cf6d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "roll wave",
+  "setter": "AugustT19",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "330A078109B549D3A5624B7B576819B4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1133r15p1137r15p1187r12p1201r12p1269r13p1284r13p1300r13p1369r13p1385r14p1585r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3d7acf58f2ed28e900fc70fe158afee309c8be6b06858125972297490f7fe725",
+  "validation_errors": []
+}

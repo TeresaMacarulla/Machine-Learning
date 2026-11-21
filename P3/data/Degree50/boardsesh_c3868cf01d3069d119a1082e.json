@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c3868cf01d3069d119a1082e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Blustery",
+  "setter": "Hazen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "e76df7ae042e4ce99d6d37564cfaea0a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1239r13p1268r13p1351r13p1380r14p1471r15p1496r15p1559r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 5,
+  "quality_average": 4.2,
+  "hold_fingerprint": "c9087cb61249e8debc5fcbcc2eff18dfa251fe85388877b8020fe671393b94db",
+  "validation_errors": []
+}

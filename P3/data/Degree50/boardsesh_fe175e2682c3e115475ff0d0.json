@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fe175e2682c3e115475ff0d0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "The Method",
+  "setter": "ksmd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8cee6174a2644db08101e4af2d14d17d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r15p1145r12p1199r13p1266r13p1285r13p1315r13p1386r14p1460r15p1530r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.97,
+  "ascensionist_count": 96,
+  "quality_average": 3.44,
+  "hold_fingerprint": "dc317eec3169273c4482a624e5f5addb729ebdf033789e0e256b6d39f383ce87",
+  "validation_errors": []
+}

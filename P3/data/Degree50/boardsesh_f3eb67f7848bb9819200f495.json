@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f3eb67f7848bb9819200f495.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "EK | Double under",
+  "setter": "EgorKryachkov",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "899E5DE0E246426FB74E9AEE1C66A962",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r12p1144r12p1177r13p1231r13p1249r13p1279r13p1333r13p1385r14p1461r15p1464r15p1511r15p1528r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "c00f6726835a907a3cdb66207464338cde4c24e61913c0edd5a71d9e43164c6e",
+  "validation_errors": []
+}

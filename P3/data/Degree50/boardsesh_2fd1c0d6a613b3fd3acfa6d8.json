@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2fd1c0d6a613b3fd3acfa6d8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "polnischer raum",
+  "setter": "derwelt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "17c6b07fa14e4e2d8896321adc666f9d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1230r13p1281r13p1345r13p1379r14p1465r15p1501r15p1531r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.6,
+  "hold_fingerprint": "c724cc93d2113627d7454dadbf29fec8a9c27d160e197f58c0617fbec348f8c9",
+  "validation_errors": []
+}

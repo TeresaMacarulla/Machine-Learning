@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c00ea4b08d1b2e1bcfe1f24e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Stepup",
+  "setter": "Arne",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 10
+  },
+  "source": "boardsesh",
+  "source_uuid": "7968dc98a6ec4393a2b322a61eabcdad",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1161r15p1234r13p1247r13p1248r13p1280r13p1333r13p1351r13p1388r14p1454r15p1457r15p1466r15p1467r15p1468r15p1469r15p1475r15p1477r15p1522r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.17,
+  "ascensionist_count": 14,
+  "quality_average": 3.75,
+  "hold_fingerprint": "2a9ae967068af83989766edcd1f10a63f447ff143abd3c2a520dbb78a41676bc",
+  "validation_errors": []
+}

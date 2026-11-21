@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bba0f7e8fc7590fa67909b50.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Shoulderkeskus",
+  "setter": "Wille",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "438746FB2FAD46FEAEEEFBE88999AF58",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1126r12p1197r13p1201r13p1235r13p1272r13p1323r13p1344r13p1395r14p1486r15p1498r15p1554r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "1fa9d1658b8b20fad795bc672185c23b55e7cdb049e862a60f76057c857b0de4",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4b8f4203df6fe5a0260adedb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "bicycle",
+  "setter": "JasperDudley",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1057EB25000843E6A215988D07135CED",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1179r12p1186r15p1195r12p1267r13p1268r13p1304r13p1353r13p1390r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.75,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "30693ebedcff0d7fe1cc92c4d51d3d08d7c58f4b45ef6f3dac2e9614b4a108ca",
+  "validation_errors": []
+}

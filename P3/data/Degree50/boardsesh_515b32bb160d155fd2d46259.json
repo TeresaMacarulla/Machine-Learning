@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_515b32bb160d155fd2d46259.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Overanalysis",
+  "setter": "just_lemme_climb_stuff",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "DEC10E824BF34F9AB153EE576FC5D144",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1094r12p1147r12p1160r15p1179r13p1244r15p1250r13p1298r13p1337r13p1388r14p1462r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "87533521e0cd03baba57e260bbce922dcfc85e34512cc9796471212931be1caa",
+  "validation_errors": []
+}

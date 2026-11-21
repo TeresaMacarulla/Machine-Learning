@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d61b3e20aad578000c2dc76c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Kunde wollte Sessel",
+  "setter": "Aensen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3C42D9E7B6354319A03501298004D74A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1127r12p1212r13p1266r13p1283r13p1354r13p1384r14p1461r15p1463r15p1495r15p1524r15p1530r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "d6898e461178d630a41315650df357ce83e3f62bb0bc2f459d6dc27c1d310a13",
+  "validation_errors": []
+}

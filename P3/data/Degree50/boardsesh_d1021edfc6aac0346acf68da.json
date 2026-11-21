@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d1021edfc6aac0346acf68da.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "control-c",
+  "setter": "rodrigo.hanada",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9043AF2687A7417F8A113B32E4EADC70",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1186r13p1216r13p1285r13p1332r13p1388r14p1456r15p1459r15p1476r15p1479r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "469473d89e3019788dc74348e7fa37f9986cb03c44ca72c141616d35cb8c4153",
+  "validation_errors": []
+}

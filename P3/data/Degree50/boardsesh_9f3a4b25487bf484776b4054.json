@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9f3a4b25487bf484776b4054.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "overcook",
+  "setter": "teo_garcia33",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "d27a8a62cb574476a4f6a758ec25c508",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1210r15p1226r15p1275r12p1314r13p1321r13p1322r13p1345r13p1350r13p1379r14p1482r15p1534r12p1537r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.33,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "76497d1d3d35645f6c2f809c0225c7af7b7a71f103be27755ad59493e05fc5da",
+  "validation_errors": []
+}

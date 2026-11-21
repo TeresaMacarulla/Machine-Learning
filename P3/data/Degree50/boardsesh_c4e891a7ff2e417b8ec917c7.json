@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c4e891a7ff2e417b8ec917c7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "tension 101",
+  "setter": "ThomasScalise",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C8DA83574F154279A480A91BD13A1813",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1215r12p1268r13p1269r13p1272r13p1342r13p1394r14p1457r15p1496r15p1516r15p1531r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.4,
+  "hold_fingerprint": "622dfd3bab9114c320cff5a774c0681d72188428731a4c6ba139727a4a81b49a",
+  "validation_errors": []
+}

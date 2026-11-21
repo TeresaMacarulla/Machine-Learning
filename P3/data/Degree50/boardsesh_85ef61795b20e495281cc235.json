@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_85ef61795b20e495281cc235.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Potholes",
+  "setter": "El.B",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "f8315bd9682946af83e5296bc1e991f1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r15p1182r12p1197r12p1201r13p1202r13p1271r13p1286r13p1340r13p1360r13p1394r14p1553r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "888258db3044b547eb30e9ba4ffac93eb7485a6db1f988f763de7ab188a2c587",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6e0b9dec8e3cc60fb6c85bd2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Lockenkopf",
+  "setter": "BoulderFlo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 7,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "8F51F23EB1194D0487C168E7F8F73253",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1187r13p1205r13p1216r13p1254r13p1263r13p1301r13p1349r13p1379r14p1380r14p1453r15p1487r15p1491r15p1512r15p1519r15p1520r15p1539r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.89,
+  "ascensionist_count": 9,
+  "quality_average": 3.33,
+  "hold_fingerprint": "847b78d473915003a733c9b056f977c3026154e24d09c5ae3b4310e4aada5663",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bf56a6f83afa6151dba7b5fc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Nebel",
+  "setter": "crrrrrrr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "6538ea8a03c24a499350f1973c7e60e5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1191r12p1220r13p1238r13p1304r13p1340r13p1370r13p1383r14p1451r15p1507r15p1535r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "fca6788e6f9d1bc7d184584e962e7e1a1933bdfbc80ff90a3d976e3ac72d3e98",
+  "validation_errors": []
+}

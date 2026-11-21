@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3ac6efa18ece713da22bb937.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "susmanns shoulder",
+  "setter": "susmann",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4F815610D1604E46B735C9D0F37616A3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1105r15p1156r12p1202r13p1273r13p1305r13p1338r13p1340r13p1393r14p1534r15p1542r15p1550r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ac52ebafb9292807e5416d97767be1b9115ecf5c1b75bd5cfdd51359abd83a3a",
+  "validation_errors": []
+}

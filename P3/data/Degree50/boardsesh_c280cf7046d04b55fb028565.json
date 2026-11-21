@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c280cf7046d04b55fb028565.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "vitasoy original",
+  "setter": "kpechera",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "5322EE9A89A943D49B0FA752B95DB926",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1131r15p1163r12p1177r12p1217r13p1231r13p1236r13p1270r13p1308r13p1340r13p1393r14p1458r15p1506r15p1513r15p1544r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.76,
+  "ascensionist_count": 52,
+  "quality_average": 3.68,
+  "hold_fingerprint": "13ea9d1d4864c6f0a2e7a0e233c39516512eff304b484ad1eebf2c2595a150c2",
+  "validation_errors": []
+}

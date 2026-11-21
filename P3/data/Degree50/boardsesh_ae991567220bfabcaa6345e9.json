@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ae991567220bfabcaa6345e9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Achsenzentrierung",
+  "setter": "romanhoe",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "b427d95a-1210-427b-bb02-15650e27ac70",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r12p1188r12p1156r15p1254r13p1268r13p1166r15p1317r13p1331r13p1379r14p1558r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.5,
+  "ascensionist_count": 8,
+  "quality_average": 1.5,
+  "hold_fingerprint": "055b27d51dbb0d9b7f20fbb19faad53bb8a5bb4e5f556dcf9a66936c209bcf93",
+  "validation_errors": []
+}

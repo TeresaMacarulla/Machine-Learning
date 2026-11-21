@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8c2c1ac938f6468446840b33.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "hip twist",
+  "setter": "rcadoret",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3C5AA6841C8C41B78C7D3393A2ABEB6B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1180r12p1216r12p1245r13p1281r13p1284r13p1394r14p1485r15p1496r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7c0f5bcc344ad6ff2f04fd2f76a565bc2ed71723a8f69805b9625da9385494e2",
+  "validation_errors": []
+}

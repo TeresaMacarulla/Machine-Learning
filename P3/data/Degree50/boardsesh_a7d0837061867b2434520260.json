@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a7d0837061867b2434520260.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Rusty farmer",
+  "setter": "climbing_clare",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "ef1aba47-cc05-43ae-90ff-de9d33e55e67",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1464r15p1466r15p1125r12p1127r12p1177r13p1521r15p1214r13p1250r13p1271r13p1320r13p1339r13p1390r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "6750e84554e8b7e5b5167e054bc4b32a992b5db2210d61fc291894feb0ec5a9e",
+  "validation_errors": []
+}

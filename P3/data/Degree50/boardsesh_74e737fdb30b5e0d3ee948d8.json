@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_74e737fdb30b5e0d3ee948d8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "karolines ladder",
+  "setter": "bjornskarv",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "19c254a5f96b4420884bb73c387d0df5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1092r15p1159r12p1161r12p1192r13p1194r13p1243r13p1246r13p1294r13p1297r13p1347r13p1379r14p1461r15p1464r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.88,
+  "ascensionist_count": 86,
+  "quality_average": 3.33,
+  "hold_fingerprint": "961eba9faaf30c45078c45a6680aa972c556a012183afaa4c1aa9a546bae8a51",
+  "validation_errors": []
+}

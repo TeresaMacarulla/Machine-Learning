@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2a4e1d6b5f7cd70e4fb15eb2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Multiple Beta",
+  "setter": "send_aholic",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "bdb08db12c084c62a1b64df3f45e9e92",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1197r13p1216r13p1228r13p1248r13p1286r13p1334r13p1387r14p1459r15p1463r15p1496r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "6662d7746512e9fc96b284844a6afca982af235f6c6e316500a3511313354e88",
+  "validation_errors": []
+}

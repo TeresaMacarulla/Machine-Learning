@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2e9e82b170e9995e953f2e8f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Bowsers",
+  "setter": "dispositiv",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5A82317C315E455C91DC0ABD77528351",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1166r12p1219r13p1253r13p1273r13p1321r13p1355r13p1386r14p1470r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.89,
+  "ascensionist_count": 9,
+  "quality_average": 3.8899999999999997,
+  "hold_fingerprint": "3f40a49faa0d472be5544d35811dbc3aaf20fb982165504346d623487eb6f5a3",
+  "validation_errors": []
+}

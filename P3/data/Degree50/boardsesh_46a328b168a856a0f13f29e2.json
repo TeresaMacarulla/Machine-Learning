@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_46a328b168a856a0f13f29e2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "treppen steigen",
+  "setter": "Vroni",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "E4D1862E58EF4F76B382637D0A25945E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1142r12p1163r13p1195r13p1246r13p1294r13p1347r13p1364r13p1384r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.25,
+  "ascensionist_count": 12,
+  "quality_average": 3.67,
+  "hold_fingerprint": "7e434a4aa813e1675efa983b7811f67a679cb27a89fe35f8ebdfe7a4967d99f2",
+  "validation_errors": []
+}

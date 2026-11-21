@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_73d34e73286a1dcd326b518e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "MN824",
+  "setter": "MN82",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "851E6264385941B390BD88052A6C7AD5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1172r12p1191r12p1203r13p1254r13p1285r13p1357r13p1388r14p1482r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.97,
+  "ascensionist_count": 153,
+  "quality_average": 3.3500000000000005,
+  "hold_fingerprint": "922e3a8376777abb6e88e63b4d099d08742d629668c44e9eb1002ff9363130fc",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a1eb6bcb8eb2759b6da57dad.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Mechanical Complication",
+  "setter": "petercrane",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2CF4E711AD3B48A8992EA830D666576C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1210r12p1227r12p1230r13p1250r13p1253r13p1270r13p1339r13p1387r14p1516r15p1519r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.55,
+  "hold_fingerprint": "ab070044ca43ec45d7e63be0f2d86550021ea4a86e45fc48f22af4754d165ca5",
+  "validation_errors": []
+}

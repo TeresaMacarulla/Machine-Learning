@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_13fe7459bc4f8f1f46ab362f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Slide to the left (V1)",
+  "setter": "AlanClimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "f26cbf40d68e45649a3dcb9a4df90c1b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r12p1287r13p1317r13p1336r13p1384r14p1495r15p1496r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.67,
+  "ascensionist_count": 7,
+  "quality_average": 2.8300000000000005,
+  "hold_fingerprint": "57e30131b63f96b85ba446c093511ffd3d0a716b5b5c7f8b2bfc780987c228d6",
+  "validation_errors": []
+}

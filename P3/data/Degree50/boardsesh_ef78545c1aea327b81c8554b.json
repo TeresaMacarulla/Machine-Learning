@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ef78545c1aea327b81c8554b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Flying free reverse",
+  "setter": "Fangui",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "281a06ea094640a2871e28ab77063301",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r12p1236r12p1302r13p1387r14p1486r15p1488r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "8e2f238df6eed8bad3ac3d4de20257be34043862cae48113497ff6891752e937",
+  "validation_errors": []
+}

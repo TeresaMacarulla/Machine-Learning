@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1ac8e71c69a4b2f32594f66f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "KC beta book 1",
+  "setter": "RyanKing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7E3E03314C984D9C99EEE0ABE931BC15",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1158r15p1192r12p1246r13p1263r13p1300r13p1332r13p1387r14p1461r15p1465r15p1520r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.92,
+  "ascensionist_count": 12,
+  "quality_average": 3.83,
+  "hold_fingerprint": "a9284797780e5d7e5211d19a9fa53cb9b7814cbeae17d993a2e724bf5062753f",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2b4bb4c7ad67d8032c224149.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Inverted Cheesecake",
+  "setter": "jwilder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "28E66FC3BFB14741AE7B8E5D4AB01259",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r12p1219r13p1237r13p1268r15p1289r13p1305r13p1335r13p1369r13p1383r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.06,
+  "ascensionist_count": 49,
+  "quality_average": 2.23,
+  "hold_fingerprint": "d631b23985921497348d52f02fc2f86b35db7c69ec3b9e1af84d66a900a927ab",
+  "validation_errors": []
+}

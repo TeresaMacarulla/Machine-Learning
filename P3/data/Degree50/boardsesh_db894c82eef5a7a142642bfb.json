@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_db894c82eef5a7a142642bfb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Buttdy tension",
+  "setter": "steil_boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "6A74708E61D24D27B3D8DE54C499E34C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1167r12p1235r13p1265r13p1318r13p1365r13p1386r14p1454r15p1494r15p1506r15p1549r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 51,
+  "quality_average": 3.27,
+  "hold_fingerprint": "85a8ee3f1f471fe2efcf06a3c72736eb6b81d5efd0ccbef2ace225b4667ef489",
+  "validation_errors": []
+}

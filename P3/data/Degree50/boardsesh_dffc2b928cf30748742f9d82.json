@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dffc2b928cf30748742f9d82.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Dexter",
+  "setter": "thijs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "7EEAAE6135734CC49A830F9D833767D2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1191r12p1241r13p1254r13p1334r13p1357r13p1383r14p1482r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 7,
+  "quality_average": 2.86,
+  "hold_fingerprint": "be388da94abdbd093fa63ebb11cddba80fb6a91b15979220502878a38b3b0096",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0ac564011f07e31c9f3adb57.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Cross country skiing",
+  "setter": "mcanniz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "e9d78cbe81144fecbc9c6680c07892b6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1082r15p1096r15p1184r12p1187r12p1233r13p1246r13p1316r13p1349r13p1388r14p1477r15p1504r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 17,
+  "quality_average": 3.38,
+  "hold_fingerprint": "afff99e17bb52181c1b1f67748286cd385ee63d8085ce8a7c3f4ff51bc052024",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4ef538abf1b815e06cb1a72d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "ABS v4",
+  "setter": "taschagreisel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "4279e71d-e6db-4367-a8b8-da1fa5c07593",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1268r12p1300r12p1166r15p1183r15p1302r13p1257r15p1319r13p1373r13p1390r14p1336r13p1356r13",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.5,
+  "ascensionist_count": 19,
+  "quality_average": 2.2,
+  "hold_fingerprint": "c497db475c35f27850ca800ed3672ce8d65ffedbd28248055b9498a5097a5d2a",
+  "validation_errors": []
+}

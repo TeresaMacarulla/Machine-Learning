@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0b1b9ae15c4a56b1480aee27.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "unit matrix",
+  "setter": "rollo8",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1C3E93B253184CDAAF12869A415E6D63",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r12p1174r12p1203r13p1248r13p1254r13p1295r13p1318r13p1366r13p1379r14p1449r15p1512r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 17,
+  "quality_average": 3.41,
+  "hold_fingerprint": "c978203670b9e4cfc2093ebedc01290e7d74959ccf1c3bdd58c917b99c4d19d4",
+  "validation_errors": []
+}

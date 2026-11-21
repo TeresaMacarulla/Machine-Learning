@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b1319abe22d250a8d386bb10.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "sploog",
+  "setter": "benmclayton",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "e4ac4d4f-df6c-4577-b5b5-4648460746f9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1189r12p1221r12p1137r15p1308r13p1302r13p1353r13p1385r14p1383r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.75,
+  "ascensionist_count": 10,
+  "quality_average": 4.25,
+  "hold_fingerprint": "6326c33db093ecf3a39e8a70ec1d3294fc9190a9351db5e40f8f2523e2c01e04",
+  "validation_errors": []
+}

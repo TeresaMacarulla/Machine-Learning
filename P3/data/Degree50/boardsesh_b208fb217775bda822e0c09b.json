@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b208fb217775bda822e0c09b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Shoulder no shoulder",
+  "setter": "Zi Yi1234",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7e3a5ca1-0259-45db-8f9c-3da528040fce",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1239r13p1236r13p1270r13p1304r13p1389r14p1391r14p1451r15p1074r15p1182r15p1586r13p1255r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "029c901a45fe6239ba2219fcfff95c8362e0cd09f47ed4f69cebadedfb3bbe84",
+  "validation_errors": []
+}

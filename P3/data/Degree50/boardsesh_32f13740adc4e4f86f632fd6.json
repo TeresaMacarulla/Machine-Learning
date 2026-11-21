@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_32f13740adc4e4f86f632fd6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Fire It Up Campus",
+  "setter": "elivyale",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 9,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "F2171891532E46F1B10592DBBE1A0F16",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r12p1146r12p1182r13p1195r13p1231r13p1247r13p1268r13p1300r13p1319r13p1341r13p1359r13p1395r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "8cafd81c6821ab500b56717f0ff3650d855afb434c9b9a2c3baa859f83677294",
+  "validation_errors": []
+}

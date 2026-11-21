@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fa991105669bef74f4c7b1ff.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Rolling",
+  "setter": "LV04",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "a41048a3-af9f-44c1-8283-a1f4d5442e91",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r12p1164r12p1380r14p1302r13p1349r13p1371r13p1133r15p1219r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "01ac2a30ce2a4c82c738f2349ae4b46d2dcb47f22f64d223324d72e228c0956c",
+  "validation_errors": []
+}

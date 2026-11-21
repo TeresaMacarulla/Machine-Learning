@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c4a2eb928641dcb6e702e989.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Mumble Mumble",
+  "setter": "RavioliTriceps",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "361B2C074CF343279372594E3A09292F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1185r12p1205r15p1215r12p1272r13p1273r15p1284r13p1340r13p1344r13p1392r13p1395r14p1514r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 36,
+  "quality_average": 3.17,
+  "hold_fingerprint": "3b51d967d0b373f82d397d5b03f5029ffbc670eb2a9c99dc008c98c15fb1274d",
+  "validation_errors": []
+}

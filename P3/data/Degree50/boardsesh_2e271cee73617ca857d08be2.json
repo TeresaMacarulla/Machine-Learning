@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2e271cee73617ca857d08be2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Pinchttaining 1",
+  "setter": "Moritz12345",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "75d177fc-c818-4b9c-9134-1b2c17e8d38b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1241r13p1191r12p1447r15p1100r15p1219r13p1073r15p1291r13p1509r15p1389r14p1357r13p1305r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 2.5,
+  "hold_fingerprint": "bf2c67e8b17820c4e934c9542f65ff31bd35594315f5e053818895b6d57bbef2",
+  "validation_errors": []
+}

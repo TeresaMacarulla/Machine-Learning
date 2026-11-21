@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_57de25f6f7e473effb1b761c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "catch me if you can",
+  "setter": "Daan_VO",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "7e589c5f-32f6-4744-9a69-446116645b86",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1156r12p1157r12p1450r15p1291r13p1254r13p1285r13p1447r15p1151r15p1357r13p1385r14p1534r15p1312r15",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "70a25eb383fec4a03a74b9312361baf8097e9adf874b5175d4c48f6d060739f0",
+  "validation_errors": []
+}

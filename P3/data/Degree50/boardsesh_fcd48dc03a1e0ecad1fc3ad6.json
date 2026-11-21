@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fcd48dc03a1e0ecad1fc3ad6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Barrel Roll",
+  "setter": "trendyrendy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "F13932EC4BFA49D096D2196C4ADD51D7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1136r12p1166r15p1169r12p1237r13p1303r13p1304r13p1340r15p1355r13p1369r13p1382r14p1454r15p1562r15p1594r13",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 452,
+  "quality_average": 3.46,
+  "hold_fingerprint": "842b8e4f4a76ae4be3bfd2c35cd0636a27e45e00bbc9dcf9740290cfcf5d087c",
+  "validation_errors": []
+}

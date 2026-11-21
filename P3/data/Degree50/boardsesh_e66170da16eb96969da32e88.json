@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e66170da16eb96969da32e88.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Aphrodite",
+  "setter": "Milo.T",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "897CC806A9D547699B7B8E43992BAB78",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1175r12p1264r13p1267r13p1274r13p1325r13p1375r13p1389r14p1465r15p1497r15p1504r15p1515r15p1536r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "d3232fc16210e389dd86c2b4d1ce0a10a6d2db63566b2c0d0a2953ffbca1f89e",
+  "validation_errors": []
+}

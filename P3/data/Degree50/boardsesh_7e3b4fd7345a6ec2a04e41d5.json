@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7e3b4fd7345a6ec2a04e41d5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "ghigliottina",
+  "setter": "max_65",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "fba5c766e2ce44e19c7564f1583e6aaf",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1100r12p1148r13p1186r13p1271r13p1326r13p1390r14p1451r15p1456r15p1470r12p1572r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8b6244a7f6fd9383573e146340f5706c7e136606eb5f114b66281aa51892ddcb",
+  "validation_errors": []
+}

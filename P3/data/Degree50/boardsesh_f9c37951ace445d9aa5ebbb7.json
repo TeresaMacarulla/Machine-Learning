@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f9c37951ace445d9aa5ebbb7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "campus v5",
+  "setter": "BradF732",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "14703C34451F4086B25D6ACC13576B4C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1192r12p1194r12p1246r13p1280r13p1300r13p1302r13p1306r13p1340r13p1393r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b235d6131b342888074e82726f7cbf9b14c7107b4946514088d8e91d993a2de6",
+  "validation_errors": []
+}

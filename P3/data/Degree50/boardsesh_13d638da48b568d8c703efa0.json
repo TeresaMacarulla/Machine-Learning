@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_13d638da48b568d8c703efa0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "The Wonder-Cling",
+  "setter": "charlesbarron",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "153D188E12A54050A22D03F46DCF1614",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1204r12p1205r12p1304r13p1384r14p1480r15p1508r15p1533r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.6,
+  "hold_fingerprint": "df510b012f4c66a2d6497e1cf0db957088afb46027e64351743ad01ec75e24fc",
+  "validation_errors": []
+}

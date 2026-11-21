@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a54f0ebb009089e94d91a340.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Touchstone Party V3? 7x10 edit",
+  "setter": "hwilly",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "f03ff52eacbc4a5d9a3dc3603619eb47",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1197r15p1234r12p1239r15p1268r13p1304r13p1337r13p1389r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.67,
+  "ascensionist_count": 3,
+  "quality_average": 1.33,
+  "hold_fingerprint": "9dc2321d000a8cac23e02a2b890cfd907b7413540713ac9811bd7a1e04ca8821",
+  "validation_errors": []
+}

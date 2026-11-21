@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1f82d829799f5103b87bbc33.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Bump Bump V2",
+  "setter": "rylans_",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "a9a09390-dedb-4079-81b7-739dd0711150",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1087r12p1458r15p1460r15p1199r13p1523r13p1146r15p1267r13p1288r13p1561r13p1183r15p1327r13p1309r13p1562r15p1390r14p1375r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "9ebaf2574d52e1f810937442f2648f63db2330bb5d870536cad49dc64157b889",
+  "validation_errors": []
+}

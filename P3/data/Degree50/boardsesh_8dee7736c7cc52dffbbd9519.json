@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8dee7736c7cc52dffbbd9519.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "Mogetition",
+  "setter": "noahwheels",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "98430AC68D0B4F38A189F4F50BEDEF4A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1203r15p1230r13p1270r13p1272r13p1392r14p1461r15p1485r15",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b6be93bb6163cb775b8c5853d176939a69e3e3077af9903664187feba7500f83",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f6ba99bee435fc6d6ca4d9a9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Priest in Peril",
+  "setter": "krai3060",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "29D9BADC0D72435DACFC6E2E5AC7FFA7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1135r12p1163r15p1166r12p1218r15p1221r13p1252r13p1289r13p1343r13p1394r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f911840cb4df5b11553c03ae266c112e7a2a34d680c965798ae1c5d21f995895",
+  "validation_errors": []
+}

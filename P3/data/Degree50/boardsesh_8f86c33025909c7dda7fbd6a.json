@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8f86c33025909c7dda7fbd6a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Laws of motion",
+  "setter": "blakeVTswim",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C4540F3654FD4914A7D5BB4314ED6D9F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r15p1178r12p1180r12p1233r13p1236r13p1306r13p1359r14p1455r15p1461r15p1465r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c7f237c557e3aea9bc466cfed10532d4fa0f4a1dd35a0b4f417f2f7e51e41763",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bc6a3421f0446ed1b968298a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "open straight",
+  "setter": "Flogo2000",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "c7123b0e-ba02-43b4-998a-9aa5cfd289bd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1174r12p1137r12p1447r15p1220r13p1516r13p1239r13p1505r15p1270r13p1322r13p1353r13p1559r15p1382r14p1386r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.8,
+  "ascensionist_count": 17,
+  "quality_average": 3.8700000000000006,
+  "hold_fingerprint": "3e2c0252f6186513955ef44b4e599527a6a8c84898c7200fa6cda512d7070a77",
+  "validation_errors": []
+}

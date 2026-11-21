@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d556b2ca1b8af96702e5e7b9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "N8",
+  "setter": "PJP",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "B97C9CDE1D43426DAF3D5CF8D376444D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1215r12p1234r12p1267r13p1300r13p1331r13p1384r14p1479r15p1506r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "24f80e626b12f61f3b7e0192cf6248bb8b3cc76d6209062c74466f8ae4dd5460",
+  "validation_errors": []
+}

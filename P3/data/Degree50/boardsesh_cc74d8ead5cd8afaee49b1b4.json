@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cc74d8ead5cd8afaee49b1b4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Fettuccine Alfredo",
+  "setter": "gluems",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1A1E7B34CE564FE094F332491FE1295D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1146r12p1231r13p1270r13p1336r13p1389r14p1456r15p1487r15p1504r15p1507r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.13,
+  "ascensionist_count": 8,
+  "quality_average": 3.5,
+  "hold_fingerprint": "5f27be5cfa308e7c42d5cb9c713bac217ba43525f87c1e206db8c5d5ba6e35c2",
+  "validation_errors": []
+}

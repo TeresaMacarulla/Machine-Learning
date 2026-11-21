@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0e5c22666000722872cd4d57.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "go Steil or go home",
+  "setter": "steil.boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "8BE982208E2B4AE4B5D5BC4E97DEE449",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1185r12p1249r13p1265r13p1278r13p1329r13p1384r14p1470r15p1480r15p1506r15p1519r15p1522r15p1537r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.75,
+  "hold_fingerprint": "ed402f4f2c1fa2256e8a0c8e7cd9c0070ef64c443b9bd0db12eb9d9ced0c4e6f",
+  "validation_errors": []
+}

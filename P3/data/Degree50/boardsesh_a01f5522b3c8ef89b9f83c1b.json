@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a01f5522b3c8ef89b9f83c1b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Tricky Road",
+  "setter": "Saltho03",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "D8F5E31592294B28805646EDC1083ED1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r15p1140r12p1191r13p1241r13p1256r13p1344r13p1357r13p1372r13p1385r14p1518r15p1535r15p1572r15p1593r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "9a6350143dd09ab84ad0bc6ac4389bc6976733b918fc3495af6b39ccb610057b",
+  "validation_errors": []
+}

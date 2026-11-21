@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8a80ca78b06d259a5dffb3b3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "control the swing",
+  "setter": "hangar18longbeach",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "F5B2D933346D4A2888F5F0F52DAE9A0D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1169r12p1187r12p1221r15p1235r13p1287r13p1336r13p1389r14p1450r15p1532r15p1541r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 14,
+  "quality_average": 3.43,
+  "hold_fingerprint": "ee8c13b4f0a66e7434aaa68856df65d7be6e497a3ad095536f091d0d08f60b51",
+  "validation_errors": []
+}

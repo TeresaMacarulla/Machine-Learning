@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_54fc02fa94b6bfe6a55d98d0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Swing through",
+  "setter": "LachlanJennings",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 10
+  },
+  "source": "boardsesh",
+  "source_uuid": "1c4b9b95e7de436b911c1d03af89859c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1105r15p1126r12p1147r13p1155r13p1186r13p1241r13p1291r13p1320r13p1387r14p1449r15p1450r15p1459r15p1464r15p1482r15p1518r15p1524r15p1536r15p1542r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "2cf54ac3fa6c94abb9aa1980c8c17991b10e902d5e418bd2d0fddcd90b324af1",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_47a511a36fd6ad3f6b85f82a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "HH1",
+  "setter": "klettergoo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "23459EB3FACA4B7CAD95C485060FDAF3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r15p1128r12p1169r15p1185r13p1216r13p1254r13p1287r13p1334r13p1383r14p1459r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.91,
+  "ascensionist_count": 233,
+  "quality_average": 3.31,
+  "hold_fingerprint": "9f4adcf885e41ea822cab6562486b827a800c819599d5b3c73c3179306fcdfdd",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0e88096ddd99bf5dc493e8c4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Whirly Bird",
+  "setter": "Bird",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "6A05B935F4A64DDCB491563FE8CB18D3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1165r13p1179r13p1227r13p1230r13p1278r13p1345r13p1379r14p1457r15p1467r15p1483r15p1512r15p1538r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7d29cc6f3da584802300be6695a5c0a967cc90663f4539052bc646014b167dcd",
+  "validation_errors": []
+}

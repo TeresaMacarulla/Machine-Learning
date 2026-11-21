@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fc00537fc30d3e9ab12733c3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "TS route 1",
+  "setter": "kiltertjun",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "c29280c2-7716-45f6-b210-6963863a200f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1231r13p1267r13p1349r13p1370r13p1388r13p1391r14p1133r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.8,
+  "ascensionist_count": 7,
+  "quality_average": 4.6,
+  "hold_fingerprint": "3891da933f6f6b31e099b8d91e24233c7722e21a1bd80f89daa2343c8f240d8d",
+  "validation_errors": []
+}

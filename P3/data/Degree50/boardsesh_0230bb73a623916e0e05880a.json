@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0230bb73a623916e0e05880a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Meet Me at SMOTD",
+  "setter": "ripmorj",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "847448858ADE40C8866CDDC0B5D5FAE7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1137r15p1152r15p1185r12p1198r13p1200r12p1236r13p1237r15p1266r13p1319r13p1353r14p1454r15p1521r15p1557r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.92,
+  "ascensionist_count": 13,
+  "quality_average": 2.92,
+  "hold_fingerprint": "10e88d02419f0c1eebf96bdc60591b98cc979cbe2f7a6e24fdd0042095db3166",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0320e7f29ad401247deff584.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "hurdles",
+  "setter": "slim.shady",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6806fc18-ffe9-478b-9e63-0751c05a106b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1452r15p1169r12p1200r13p1202r13p1251r13p1154r15p1249r13p1302r13p1353r13p1391r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.57,
+  "ascensionist_count": 11,
+  "quality_average": 4.43,
+  "hold_fingerprint": "27a8fb9924dd2b58597d254a3e2a333347f227182ea1a9fc8b888349dbb37689",
+  "validation_errors": []
+}

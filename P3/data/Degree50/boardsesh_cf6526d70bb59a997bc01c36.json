@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cf6526d70bb59a997bc01c36.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "BP V12@shanghai",
+  "setter": "Betaplus",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "65ED3394F7C44294AA5CF8A4DB21DB7B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1176r12p1212r15p1216r13p1230r13p1270r13p1326r13p1390r14p1459r15p1465r15p1544r13p1554r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1c35a9e828bb584e0f7e73bfc5fd415b7834e36afa424b144da08b8cd8a98db9",
+  "validation_errors": []
+}

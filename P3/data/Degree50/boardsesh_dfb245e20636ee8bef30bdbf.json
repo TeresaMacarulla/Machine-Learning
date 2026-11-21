@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dfb245e20636ee8bef30bdbf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Touching Cloth",
+  "setter": "Hamiter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "c6119c5920c04bcbaec540e0f0402e6d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r15p1162r15p1184r12p1232r13p1238r12p1266r13p1337r13p1385r14p1496r15p1550r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.44,
+  "hold_fingerprint": "12fd72cc27708628f8da8444f6a7e439754886a02823d28156dcb859c63d35ea",
+  "validation_errors": []
+}

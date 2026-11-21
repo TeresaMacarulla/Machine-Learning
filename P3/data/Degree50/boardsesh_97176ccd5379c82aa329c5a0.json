@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_97176ccd5379c82aa329c5a0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Bad holds for kilterboard",
+  "setter": "TylerBarchet",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "2C7390A9C4BC444D9D66D94654553B5C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1166r12p1232r13p1249r13p1264r13p1349r13p1379r14p1485r15p1511r15p1547r15p1549r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "6ffe22de6e575967ef175e275f5a3669994587c6c349e09e37cf511477665ad0",
+  "validation_errors": []
+}

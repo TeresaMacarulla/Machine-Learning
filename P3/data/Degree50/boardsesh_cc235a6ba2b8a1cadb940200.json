@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cc235a6ba2b8a1cadb940200.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "The LADDER",
+  "setter": "Jtrigz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "d12a9056-e949-4103-9f74-c92281448c57",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1241r12p1269r13p1283r13p1104r15p1270r13p1384r13p1380r14p1354r13p1522r15p1353r15p1169r12",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 6,
+  "quality_average": 2.5,
+  "hold_fingerprint": "890cfad4e08867a3dc5c83d824365aad61336e65d6fcd0a6b8fa7c16eb5734e4",
+  "validation_errors": []
+}

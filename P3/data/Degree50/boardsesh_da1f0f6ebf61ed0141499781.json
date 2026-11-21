@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_da1f0f6ebf61ed0141499781.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "El Bubble",
+  "setter": "mikey.light",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "86EA1060B7F54D148DB1230F58C095E8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1137r12p1169r12p1190r13p1240r13p1252r13p1302r13p1349r13p1383r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 2.2,
+  "hold_fingerprint": "fa35aada64fd23f0d95c997383ccd8a64322ecc79c2a540bf3abc4ebbfc0d6a3",
+  "validation_errors": []
+}

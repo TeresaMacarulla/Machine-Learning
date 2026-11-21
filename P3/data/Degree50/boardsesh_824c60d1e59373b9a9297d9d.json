@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_824c60d1e59373b9a9297d9d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Millipede",
+  "setter": "paulrayner",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "fa9d0299475d458683c361ea31b73c21",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1160r13p1177r13p1210r13p1246r13p1299r13p1320r13p1372r14p1457r15p1478r12",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "d35007ac83d48d21091608b6b25a07c34d6c7c2ccbff33ddb366fb780cfa5308",
+  "validation_errors": []
+}

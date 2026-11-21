@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7d9d3806c1f95d591be44cab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "ComfortZone",
+  "setter": "LJP",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "61D3032EBE6A41D9B6D71D46007585CB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r15p1187r12p1188r12p1253r13p1282r13p1338r13p1368r13p1384r14p1524r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "d0c0d2766dd76d5560fd2e9548414ced9239ff033f9cc16639bf942db365d786",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e8f0dde2817c48656db92d61.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Tender foot",
+  "setter": "saignc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "C649C79268A04F998253F10A32494132",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1142r15p1175r12p1179r12p1228r13p1231r13p1280r13p1317r13p1347r13p1382r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "46ce1105d4e21e4161550885edb120850a6cb77aaf3ca29b6f27fab74955dfb5",
+  "validation_errors": []
+}

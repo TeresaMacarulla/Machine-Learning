@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1fd77d363fa77d752f52e393.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Biceps Twister",
+  "setter": "climbcentral",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5F51F583F9E449368512AE809429D8FE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1183r15p1192r12p1210r12p1231r13p1246r13p1267r13p1302r13p1334r13p1338r13p1386r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6d1ddd60fbf48fabac90492a26dbfbe7db57bc78a034f51c05f5ffc6dccb3af9",
+  "validation_errors": []
+}

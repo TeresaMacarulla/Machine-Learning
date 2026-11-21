@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e4f691358ef131878213c63c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "shosholoza move",
+  "setter": "AlexanderMegos",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6C73ABDBF67544E3B6ED47B00E985772",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1151r12p1197r13p1265r13p1348r13p1386r14p1455r15p1485r15p1496r15p1549r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.83,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "2e52c7123ba2b2f8f2f41e0c5ca6a67b7146552c725682b7a69e46dcce81d335",
+  "validation_errors": []
+}

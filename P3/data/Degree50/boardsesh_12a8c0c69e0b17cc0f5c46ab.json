@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_12a8c0c69e0b17cc0f5c46ab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Medium Tension",
+  "setter": "shiguchi1215",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 9,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "B254C3AB59DF4C519F88135D2BB3C910",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r13p1141r12p1157r15p1181r13p1215r13p1219r13p1224r13p1237r13p1274r13p1309r13p1340r13p1390r14p1458r15p1462r15p1467r15p1489r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "651bba2eb5131f880e3df84d16fe127760e1f455bcf88ec8bd531952c4b725fc",
+  "validation_errors": []
+}

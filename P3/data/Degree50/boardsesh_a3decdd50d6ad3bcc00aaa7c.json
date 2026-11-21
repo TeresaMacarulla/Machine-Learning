@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a3decdd50d6ad3bcc00aaa7c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "campus for training",
+  "setter": "jonas7483",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "FABD1BF2DEF642F7B26F6808B026F6CE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r12p1236r12p1299r13p1302r13p1353r13p1356r13p1391r14p1394r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.78,
+  "ascensionist_count": 9,
+  "quality_average": 3.44,
+  "hold_fingerprint": "10dc95c1b5c939e10278084db1a81664b6bd1ec345753c4af695ed3b49e4fe2f",
+  "validation_errors": []
+}

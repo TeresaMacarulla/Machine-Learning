@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8dacf674e3edd236dc381557.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "klk",
+  "setter": "La Cabra",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "56b5da7a-4c00-442a-931f-f1fbe4a94cb9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1109r12p1464r15p1462r15p1465r15p1084r15p1178r13p1163r13p1249r13p1247r13p1269r13p1286r13p1340r13p1168r15p1308r13p1554r15p1394r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "eb47317b18d953046bb069599076e08c0b394aa61d71323b3c3b541585f2ec2d",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d6b83f4295ed78d0c4c6d6af.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Tyrolienne",
+  "setter": "Arthur548",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "101a1ffa9ea64c87a0383a85d468f83c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1167r12p1255r13p1272r13p1320r13p1392r14p1452r15p1496r15p1499r15p1524r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "27c9cc7648470553f618333aad4ab1b37955ea3d9e544e2d1d1335fcb6ed096b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cf5c84dde7aaa9afb0e1b51c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "true color",
+  "setter": "Phips",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "C208BD287C694C1CBA71E969C14E0A94",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1235r13p1265r13p1299r13p1312r13p1379r14p1454r15p1457r15p1476r15p1506r15p1520r15p1539r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "00e87a485f7eefdc1696ff75ad000e451f7ce83de5522b6de7cc1cc2653fd52b",
+  "validation_errors": []
+}

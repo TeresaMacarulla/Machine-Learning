@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b1a8b6b233706aa8b272c62e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "chat GPT",
+  "setter": "strings",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "F3D411CDFA6348249630B3D543B3A60A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1127r12p1176r12p1214r13p1267r13p1322r13p1339r13p1394r14p1484r15p1502r15p1514r15p1553r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.97,
+  "ascensionist_count": 30,
+  "quality_average": 3.5,
+  "hold_fingerprint": "3f2761981569feb392334a2beb471522b36395f5f808c69d7b329d215f7c3c78",
+  "validation_errors": []
+}

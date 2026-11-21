@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e3b19c7428fd2fdf572e0249.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Jorge Palawhiskey",
+  "setter": "_abc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "AC3EE86FD8934A8D87DD9916E03ECA24",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1151r12p1184r12p1255r13p1272r13p1298r13p1304r13p1318r13p1354r15p1383r14p1468r15p1469r15p1526r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "40c0d56e732fd5717ddd488678fa963c595df2b3302476a540977e951cbc5776",
+  "validation_errors": []
+}

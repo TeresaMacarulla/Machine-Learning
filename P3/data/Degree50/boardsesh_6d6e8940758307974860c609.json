@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6d6e8940758307974860c609.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "KB Etiquette",
+  "setter": "Riptile",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6AD3DE5D10DD46B6B114DDEA3DE98269",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r12p1169r12p1219r13p1231r13p1267r13p1299r13p1349r13p1381r14p1453r15p1504r15p1531r15p1547r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 10,
+  "quality_average": 4.13,
+  "hold_fingerprint": "ad0114f3fce5c4d1f50b6cf81dd344e4103308bd8eca574fb28b6b64813975f0",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6f45b3c8c0ec564716148339.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Boardasaurus rex",
+  "setter": "Ds4564561",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "7283635265DD46E1ACD1600B30BC0F26",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1096r15p1118r15p1165r12p1169r15p1185r12p1197r15p1233r13p1270r13p1320r13p1357r13p1393r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "a91bd5676f68b632ee25c8bda9491cea946e7339bf7676408985c004eb0d2e6c",
+  "validation_errors": []
+}

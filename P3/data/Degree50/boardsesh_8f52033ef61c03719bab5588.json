@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8f52033ef61c03719bab5588.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Dead spider",
+  "setter": "cko",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "360d9fa0-b5df-42d7-a7aa-61ea4f6dda80",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1199r13p1236r13p1284r13p1304r13p1353r13p1391r14p1586r15p1456r15p1082r15p1489r15p1204r15p1460r15p1182r12p1127r12",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.75,
+  "ascensionist_count": 9,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ece6ca05b8793786cfc43c7373be6d0fefa43305b446ac635076d673d3d9eb4b",
+  "validation_errors": []
+}

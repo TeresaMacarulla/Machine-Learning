@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a95421aacc8ef1485f53cdd9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Bicep-Man",
+  "setter": "Rasmus187",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "16c04fd57d394a22b666d3d51ff3f362",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1207r12p1224r12p1272r13p1304r13p1371r13p1382r14p1384r14p1482r15p1517r15p1535r15p1552r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "4f1fb85682bb8608e6e889103ca8edc563c63e53abc9a6e3c7d993f29864a99d",
+  "validation_errors": []
+}

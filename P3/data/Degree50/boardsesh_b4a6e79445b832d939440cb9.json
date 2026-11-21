@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b4a6e79445b832d939440cb9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Osterwalder-Schrader reconstruction",
+  "setter": "tobiasiding",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "099D0E2035374E6E944C0C659A29CCF8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1241r13p1250r13p1269r13p1278r13p1328r13p1379r14p1449r15p1482r15p1497r15p1504r15p1539r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "3e49936b16f259f25f2ee040a902e3b049ca3582ccd770508b2ae59c39d5b8a6",
+  "validation_errors": []
+}

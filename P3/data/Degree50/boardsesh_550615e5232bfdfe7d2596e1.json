@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_550615e5232bfdfe7d2596e1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Allergen Free",
+  "setter": "winstonclayton",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "E0E61EEAD3B14C658F171BFDD61E0887",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1129r12p1135r12p1198r13p1225r13p1269r13p1270r13p1359r13p1387r14p1489r15p1506r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ca7ef4c8c3d54c23a85fc2f2bb9e31d30eefce2df507ccddc27b08c9e2cc564e",
+  "validation_errors": []
+}

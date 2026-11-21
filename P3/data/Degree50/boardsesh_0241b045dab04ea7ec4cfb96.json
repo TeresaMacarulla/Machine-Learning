@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0241b045dab04ea7ec4cfb96.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Campus",
+  "setter": "svitP",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 7,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "ffbf8a06-f4c3-47ac-9b5f-fba9fc92d419",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1277r12p1278r12p1346r13p1364r13p1369r13p1353r13p1321r13p1305r13p1272r13p1259r14p1258r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "1d3946f4e8cc7835e42399e746139e8768e49937e1f43e8553669cdae1e68d1c",
+  "validation_errors": []
+}

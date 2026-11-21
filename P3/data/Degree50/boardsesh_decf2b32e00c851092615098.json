@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_decf2b32e00c851092615098.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "board specific",
+  "setter": "nik.o",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "DF2C1FFE6B3E4F7FB1B318270935885C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1379r12p1380r12p1383r13p1387r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f08ff272e906f887313836ac0a00580e6af7d62fe61097ac46bd59904d4d79f9",
+  "validation_errors": []
+}

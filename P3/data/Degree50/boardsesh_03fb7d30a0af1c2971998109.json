@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_03fb7d30a0af1c2971998109.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "swinging past the knees",
+  "setter": "jawhn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "241a9399c4c54bd18690a35f8554b277",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r12p1204r15p1229r12p1234r13p1269r13p1304r13p1371r13p1391r14p1395r14p1483r15p1501r15p1552r15p1571r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7e3ae478b1df3a857f287cf72193304c26be19e6bc7b3c5635b32a9272691a4b",
+  "validation_errors": []
+}

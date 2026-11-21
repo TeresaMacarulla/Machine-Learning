@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f80d47049cae8c48872dc7bb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Il moccioso (campus)",
+  "setter": "bloccstation",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "8f74c5437d584e00912d3dee18952984",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1229r13p1233r13p1237r12p1279r13p1284r13p1290r12p1298r13p1332r13p1382r14",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.75,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "e7d95148e7b9266b70b4b00de66401b0853936b46a729cbe4decd23b1f81db05",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_11cecc338f42a293ab4767dd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "finger breaker (Don't stand on handholds)",
+  "setter": "Deathmian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "db6e4f49-f92c-4c4b-a7d9-58dd7d922286",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1459r15p1456r15p1163r12p1181r13p1479r12p1487r15p1252r13p1301r13p1532r15p1336r13p1302r15p1214r13p1349r13p1366r13p1379r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.88,
+  "ascensionist_count": 38,
+  "quality_average": 3.72,
+  "hold_fingerprint": "c3262c596164bcaefc463ab524d686c0f49d043eee7eabff216885546c69bbcf",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8d141c7115568d3c924689ff.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Come into this hold",
+  "setter": "kendall05",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "e8620f077bf44d2a986bb1a95c3bfa29",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1168r12p1213r15p1219r13p1255r13p1285r13p1303r13p1349r13p1350r13p1379r14p1452r15p1456r15p1513r15p1546r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5e1f002efe4845b962f663780f04ab1140d68a2a165839ea5a40b06cf9f3fb56",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b60fd47d06ced9e10b2a56c6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "F#ck Any",
+  "setter": "jorx",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "af18f64ae0e14a3eb1c7877cd604f22e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1167r12p1187r12p1256r13p1292r13p1293r13p1375r13p1389r14p1451r15p1480r15p1536r15p1572r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.67,
+  "ascensionist_count": 6,
+  "quality_average": 3.83,
+  "hold_fingerprint": "6b8ef12216e57e9765d7da216b0a7c3efe31720028603669b88569d6521fecfd",
+  "validation_errors": []
+}

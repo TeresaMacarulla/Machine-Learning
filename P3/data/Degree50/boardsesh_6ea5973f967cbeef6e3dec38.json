@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6ea5973f967cbeef6e3dec38.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "hard as hoblonites",
+  "setter": "ceba",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "ea786d0e-0ef1-4dd8-b32e-ed16eb21039e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1237r13p1173r12p1168r12p1100r15p1250r13p1504r15p1303r13p1531r15p1351r13p1389r14p1598r15p1499r15p1533r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": null,
+  "hold_fingerprint": "3617b8abbd2cfc3bcfb8cf5222c55a85583912d4279a12bee3cd03ef819881a3",
+  "validation_errors": []
+}

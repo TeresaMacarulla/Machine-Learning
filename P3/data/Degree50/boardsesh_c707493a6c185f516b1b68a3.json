@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c707493a6c185f516b1b68a3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Rotisserie chicken",
+  "setter": "Paka",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "664DBFCF2844420DA615CE67844A9FD1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r15p1225r12p1256r13p1307r13p1372r13p1387r14p1482r15p1500r15p1507r12p1518r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 6,
+  "quality_average": 2.33,
+  "hold_fingerprint": "c82a136c2d07e908d4dfbfcddfb200f43892b0ec220a052b3818ddbb5991cf4e",
+  "validation_errors": []
+}

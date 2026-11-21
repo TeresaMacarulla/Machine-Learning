@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1eceb18ce88ad9c6bd748df6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "my pinch hand left",
+  "setter": "dewaranch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "c2bf02c4b0d640be80b906d162cf607c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r15p1126r13p1147r12p1148r12p1176r13p1197r13p1228r13p1246r13p1261r13p1313r13p1366r13p1380r14p1455r15p1459r15p1478r15p1485r15p1503r15p1555r15p1558r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.78,
+  "ascensionist_count": 19,
+  "quality_average": 3.582105263157895,
+  "hold_fingerprint": "c4fd678c84bf3a8ed1b97a48fda1971fee82bd2aca400fb43d40cad3186bd52f",
+  "validation_errors": []
+}

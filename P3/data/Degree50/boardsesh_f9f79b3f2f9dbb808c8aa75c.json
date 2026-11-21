@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f9f79b3f2f9dbb808c8aa75c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "baby 360",
+  "setter": "arthe38",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "fa2d9521e8ad4280b82463b02d19b628",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r15p1165r15p1186r15p1189r12p1223r12p1234r13p1255r13p1302r13p1337r13p1374r13p1393r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "c2cfb5bae709fb40d8112492674fff03f7686a8c98d26b33c8780b3cc89c9cab",
+  "validation_errors": []
+}

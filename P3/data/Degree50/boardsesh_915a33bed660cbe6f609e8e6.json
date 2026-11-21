@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_915a33bed660cbe6f609e8e6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "papaya",
+  "setter": "mtnaniki",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "7e8a304b21594a0ca035cf0b385e4a83",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1170r12p1220r13p1256r13p1288r13p1304r13p1353r13p1391r14p1471r15p1478r15p1517r15p1525r15p1559r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "f90ce81a7b6a7113419930df40bb989ebeb481e25c2542912eda37a7124956e6",
+  "validation_errors": []
+}

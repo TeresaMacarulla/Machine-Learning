@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fb5c714301758c852355bde0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "ROCuronium",
+  "setter": "FabiS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F369E3750D69401A87355E94066AF8B4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1160r12p1177r12p1242r15p1265r13p1266r13p1272r13p1307r13p1357r13p1387r14p1488r15p1527r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.96,
+  "ascensionist_count": 23,
+  "quality_average": 3.43,
+  "hold_fingerprint": "698746741e443bf51d0b2006960648058b37c04c9af4e3aca1e213d1388465e0",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f7ca34095b6a4f079459be4a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Karen state campus",
+  "setter": "pako16",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "cf6f20578b38408285466a64d17d973a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1222r12p1235r12p1271r13p1301r13p1372r13p1386r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d9d3b747f4e1f915939615643efcfb632136a135561bb2fcbe077ed50d77bdc5",
+  "validation_errors": []
+}

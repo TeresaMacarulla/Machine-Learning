@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9530c8c23bfcf76247394862.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Curveball",
+  "setter": "demyanek",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "E164B771C15E420083135CB8C506534F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1162r15p1235r12p1284r13p1306r13p1372r13p1389r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.86,
+  "ascensionist_count": 35,
+  "quality_average": 3.37,
+  "hold_fingerprint": "5a064e768659d0c449415ecf132e8848b199c069be8801aa5f0a8afa51fc4401",
+  "validation_errors": []
+}

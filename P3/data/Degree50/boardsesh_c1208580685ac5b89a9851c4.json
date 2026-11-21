@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c1208580685ac5b89a9851c4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "fuas",
+  "setter": "juanitoo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "E735B6E5334B42EA95A9B56484D2A64D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r12p1266r13p1281r13p1368r13p1381r14p1529r15p1547r15p1565r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b87061cf89ceb605e0c11dbed9ce0a9b26dedd1c9589c00c5b91e35299ebbe9b",
+  "validation_errors": []
+}

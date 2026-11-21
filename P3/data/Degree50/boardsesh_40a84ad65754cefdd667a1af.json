@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_40a84ad65754cefdd667a1af.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Five splits",
+  "setter": "mscho",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "7c89e69c-b112-4123-a9d9-7f887e269951",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1212r12p1250r13p1379r14p1328r13p1467r15p1283r13p1316r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.75,
+  "ascensionist_count": 4,
+  "quality_average": 3.25,
+  "hold_fingerprint": "fec9b0fcb5d44fb277d8f9696c6b94f3a075398333eb46a9e42b4b8fc0166344",
+  "validation_errors": []
+}

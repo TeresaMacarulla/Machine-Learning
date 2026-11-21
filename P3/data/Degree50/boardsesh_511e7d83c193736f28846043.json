@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_511e7d83c193736f28846043.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "jack sim 1",
+  "setter": "coopa8",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "7cc745b0-b8dc-45b4-be50-10e4f7e7168b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1215r12p1144r15p1142r15p1458r15p1512r12p1185r13p1235r13p1221r13p1225r13p1308r13p1140r15p1340r13p1387r14p1389r14p1081r15p1452r15p1157r15p1489r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.5,
+  "hold_fingerprint": "812bcf8a0b5ff71d256cc3435d60dbcc8ab114a3ce3c7c5177ff00fd72af295e",
+  "validation_errors": []
+}

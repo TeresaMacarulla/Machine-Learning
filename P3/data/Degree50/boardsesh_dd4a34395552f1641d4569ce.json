@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dd4a34395552f1641d4569ce.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "high reach",
+  "setter": "sakika.m",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "A8CF7B68814349489200F372237786E2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1156r12p1157r12p1208r13p1257r13p1259r13p1306r13p1308r13p1341r13p1359r14p1447r15p1450r15p1508r15p1509r15p1543r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "cf07bd175a3d68508c4e02bcdaff07034b8622d75f3d08050c8c7c198771c800",
+  "validation_errors": []
+}

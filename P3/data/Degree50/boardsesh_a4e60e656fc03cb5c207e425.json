@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a4e60e656fc03cb5c207e425.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "PAC-MAN",
+  "setter": "NathanHotchkiss",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3B8A69AFFC834D6483527AA71835E1E6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r12p1233r13p1280r13p1314r13p1369r13p1390r13p1394r14p1453r15p1490r15p1519r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d1ab4c1e3a239acea4c3c184c9751a038624a9fb8611e87d22b2b24400199220",
+  "validation_errors": []
+}

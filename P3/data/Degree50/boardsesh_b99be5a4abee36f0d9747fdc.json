@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b99be5a4abee36f0d9747fdc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Big shoulders \ud83d\udcaa",
+  "setter": "ZackWF",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "c35352fd-7071-470f-9c96-918f6226ce77",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1468r12p1219r13p1456r15p1166r12p1240r13p1191r15p1287r13p1514r15p1338r13p1340r14p1376r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "cacb2f9ba6016a4d177105a22efd65ed057769a2991cc08fcbdbf0aea35e5900",
+  "validation_errors": []
+}

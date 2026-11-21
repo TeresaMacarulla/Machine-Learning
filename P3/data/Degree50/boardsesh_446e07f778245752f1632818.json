@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_446e07f778245752f1632818.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Stealing Cutlery",
+  "setter": "SimonFleet",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "7F0D3DA7DBFD45028B7058983708CDAE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1111r12p1125r12p1231r13p1239r15p1282r13p1304r13p1350r13p1381r14p1462r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9fd94381384e2c83a2c6f94902d6b533c3544e16f57ed81f5c61c63a174bfe79",
+  "validation_errors": []
+}

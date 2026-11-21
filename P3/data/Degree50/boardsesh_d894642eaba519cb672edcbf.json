@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d894642eaba519cb672edcbf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Turn Around",
+  "setter": "american_killjoy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "e2bfa240166e4d069431a260150b4484",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1148r12p1151r12p1196r15p1202r13p1249r13p1284r13p1315r13p1384r14p1456r15p1489r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e441ecf29fd58d2de94f849470c4e208184f59aafbd5a73d81f3ba40730adbd5",
+  "validation_errors": []
+}

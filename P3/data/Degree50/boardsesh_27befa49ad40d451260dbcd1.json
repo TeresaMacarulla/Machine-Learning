@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_27befa49ad40d451260dbcd1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "MED01",
+  "setter": "Lord_Bernie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "26b6e20d7b964b86aeea75283ef87a18",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1146r15p1153r12p1166r12p1219r13p1251r13p1288r13p1320r13p1356r13p1387r14p1454r15p1498r15p1531r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 8,
+  "quality_average": 2.0,
+  "hold_fingerprint": "b6b6f65ac88da4f1589eb536bc09c72c7f479a3ae166cbbe50a13bebeed5a65f",
+  "validation_errors": []
+}

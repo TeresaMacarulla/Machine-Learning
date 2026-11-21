@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_df010811f8219c0520731e3b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Kogo",
+  "setter": "lasertronic",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "4e2e5797d004491692a7f6de4a73438a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1178r12p1245r13p1281r13p1350r13p1387r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.29,
+  "hold_fingerprint": "7fa0ca039fe044f3d2bc74e2b4dcb2e54303acfdc919b19eb72ab62bf002bea5",
+  "validation_errors": []
+}

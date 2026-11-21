@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f20e78789b389dcea1824c01.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "tension board 2",
+  "setter": "mxtl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "dd870ba5-d7d6-4e6a-9056-ff283b254c0b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1217r13p1286r13p1265r13p1318r13p1505r15p1202r13p1189r12p1155r12p1518r15p1500r15p1482r15p1473r15p1272r13p1314r13p1121r15p1552r15p1546r15p1362r14p1365r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "cf5f29d3c9ce5237dc82a02bf184b06106a87974e39a61cb3dc2237931c99f43",
+  "validation_errors": []
+}

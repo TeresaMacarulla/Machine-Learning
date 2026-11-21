@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b512c1f3f80651f463fbe060.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "FlipMode L to R",
+  "setter": "Flip",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 10
+  },
+  "source": "boardsesh",
+  "source_uuid": "B80BAE3E8C1244D4BCEE952E55D8D6AB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1110r15p1176r12p1228r13p1230r13p1266r13p1283r13p1318r13p1320r13p1371r13p1391r14p1461r15p1464r15p1494r12p1502r15p1504r15p1521r15p1523r15p1530r15p1559r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e7a641dee337230ff3a08e03edeef24094fcce25d15b1a0594b36c80a2e69e01",
+  "validation_errors": []
+}

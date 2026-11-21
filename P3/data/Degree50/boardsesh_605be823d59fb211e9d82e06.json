@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_605be823d59fb211e9d82e06.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "I need more snacks!",
+  "setter": "leemiho",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "49ED82E2DE9A487A996B276801DFADF6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1150r15p1196r12p1199r12p1233r13p1266r13p1285r13p1299r13p1354r13p1388r14p1513r15p1561r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 4,
+  "quality_average": 2.0,
+  "hold_fingerprint": "e4e1d453a04738100c3e2bfeb7a638c003b059cd4f9ada2aacc4c7b1b761cf96",
+  "validation_errors": []
+}

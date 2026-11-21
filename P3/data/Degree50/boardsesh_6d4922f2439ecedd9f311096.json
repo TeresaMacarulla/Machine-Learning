@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6d4922f2439ecedd9f311096.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Folk theorem",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "fe473ced682e4db5bc506a66b63108b3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1155r12p1191r15p1218r15p1255r13p1258r12p1305r13p1324r13p1374r13p1394r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.86,
+  "ascensionist_count": 7,
+  "quality_average": 3.57,
+  "hold_fingerprint": "4cf3d60d0e35b9d5c0d8e7c03fba318d4dbd601bc3782fbe7b46af7e40d93a2b",
+  "validation_errors": []
+}

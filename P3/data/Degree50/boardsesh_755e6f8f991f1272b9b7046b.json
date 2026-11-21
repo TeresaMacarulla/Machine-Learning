@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_755e6f8f991f1272b9b7046b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Battle of the Bulge",
+  "setter": "NGS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "AD8AB3FEEFD84C58BECAA1BCCACAA053",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1120r15p1169r12p1207r12p1273r13p1341r13p1386r14p1536r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "d356f8a3da343d2dda3f6eb8fd34271dd2373b647c4561454873abe3182f5817",
+  "validation_errors": []
+}

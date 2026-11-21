@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8e4ba21314d8747eed062e8c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Keduclimb",
+  "setter": "bobito",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "c9dfe6765d21491fb72854ac243a2c03",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1145r15p1163r12p1175r12p1210r13p1243r13p1246r13p1297r13p1302r13p1353r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.3299999999999996,
+  "hold_fingerprint": "e85c93a9ea3c607f6d869afe6792dadfb50fb441ea1c43b3f7a52a8e63e92e4f",
+  "validation_errors": []
+}

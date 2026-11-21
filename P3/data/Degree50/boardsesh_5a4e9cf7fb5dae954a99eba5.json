@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5a4e9cf7fb5dae954a99eba5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "deux boiteux - no foot",
+  "setter": "sylgru",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "E10DE9BB1C9F4B4581B99C22A108B605",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1236r12p1267r12p1302r13p1315r13p1362r14p1379r14p1383r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "1451a0996f786193826be232432f1088f3c85a4b3035745638a65a468f180913",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9a1c73571bc616a92a2f1608.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Deception",
+  "setter": "griffinwhiteside",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "eb1ef3edf08647a3984a8b0b135eb2e6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1228r13p1249r13p1250r13p1318r13p1335r13p1382r14p1483r15p1525r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.93,
+  "ascensionist_count": 1703,
+  "quality_average": 3.23,
+  "hold_fingerprint": "654ebc6b70a3fb045841763012972b129920895aaacfd400aea39737113850ed",
+  "validation_errors": []
+}

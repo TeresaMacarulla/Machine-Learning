@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_68e53481622d075dcb7820e0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Solo Levelling",
+  "setter": "markusleebV",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "B8529D9B852D4DAAAE43D70B0C50CA4A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1082r15p1096r15p1149r12p1202r12p1231r13p1251r13p1278r13p1330r13p1381r14p1512r15p1519r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.75,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "15019ae5856344cfc15db0cb249aef4b43fb941df2193a37ae1e5546c0648db8",
+  "validation_errors": []
+}

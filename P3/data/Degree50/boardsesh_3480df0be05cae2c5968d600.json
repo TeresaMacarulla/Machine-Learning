@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3480df0be05cae2c5968d600.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "cool pogo",
+  "setter": "climb.climbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "f4655c4c-660a-47c6-9de8-259c53930f20",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1169r12p1451r15p1456r15p1221r13p1133r15p1239r13p1259r13p1289r13p1359r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.32,
+  "ascensionist_count": 176,
+  "quality_average": 3.22,
+  "hold_fingerprint": "1f9c4701ecabfe04d5b381260c202d979a79c07eba5425eabfeda0d716fcf720",
+  "validation_errors": []
+}

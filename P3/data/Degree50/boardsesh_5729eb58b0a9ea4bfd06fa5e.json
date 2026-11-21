@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5729eb58b0a9ea4bfd06fa5e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Rizzo",
+  "setter": "p.tang",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "67c0dac833894cd9af41e898cd6031d7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1096r15p1142r12p1144r12p1195r13p1197r13p1247r13p1300r13p1302r13p1306r13p1340r13p1394r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "f04f74e3cca9371fd495a06f189183f306d0ecb9567f4af069aaf90062984f17",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b202374d0e545a3ff084d44f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "7A Fiend",
+  "setter": "keil224",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "82cb767acbd9491db1e4ad8f252735a2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1130r12p1181r13p1203r13p1220r13p1287r13p1291r13p1339r13p1387r14p1461r15p1468r15p1499r15p1532r15p1544r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "df70d0d4a36d74cfa979fdd0349de86f875d8159398442cf2c922c76f1d1f65f",
+  "validation_errors": []
+}

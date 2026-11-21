@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_45ebaf18ffc4b727dd8aa8e0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Das traversen",
+  "setter": "HectorEdenvik",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "CEABE10C5F4742E391DA555F4580F6CE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1084r15p1089r15p1141r12p1143r12p1144r13p1149r13p1151r15p1219r13p1239r13p1289r13p1359r13p1395r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.33,
+  "ascensionist_count": 6,
+  "quality_average": 3.5,
+  "hold_fingerprint": "86a31b6a29702a096313330dcb79c7d092ec5e6aceeb6fa8d136c617a1672667",
+  "validation_errors": []
+}

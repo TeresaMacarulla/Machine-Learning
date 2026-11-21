@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2a6238dec6931679a30a434a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Triple x",
+  "setter": "Ekiel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "E17C31715C664DBDB202266E8965F3D0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1124r12p1127r12p1196r13p1214r13p1234r13p1267r13p1287r13p1352r13p1366r13p1382r14p1460r15p1464r15p1507r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b8a8887b1631d6dc245fa4cc9879f0df6cbfdf10a3bde70b9b3f2742839aed51",
+  "validation_errors": []
+}

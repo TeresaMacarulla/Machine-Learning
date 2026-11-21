@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c4379cc11a3e098c29b7a9bf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Propane (Alphane)",
+  "setter": "E.2.d.2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "DCD87F01BC8B44D0BE862593593F2590",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1105r15p1145r15p1187r13p1241r15p1243r15p1253r13p1258r12p1264r13p1298r13p1329r13p1379r14p1490r15p1527r12p1540r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "87248ee02b754b5b672ecf7519b4956cad6cef64093d58e775fbb22b147e8bb9",
+  "validation_errors": []
+}

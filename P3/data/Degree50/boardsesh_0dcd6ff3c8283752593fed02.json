@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0dcd6ff3c8283752593fed02.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Christmas fingers",
+  "setter": "Frostknocker",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "06ed659b7839400890d8eaae78a41dd4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1128r12p1163r12p1171r15p1214r13p1234r13p1251r13p1272r13p1305r13p1322r13p1336r13p1389r14p1468r15p1496r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.22,
+  "hold_fingerprint": "7bec8db45290c46c7838fe8f5759f22d736fbe9c5da893db39e65964242057eb",
+  "validation_errors": []
+}

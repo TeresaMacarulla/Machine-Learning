@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1d7ed7e9e987a47091d9b72e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "campless",
+  "setter": "rbailey",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "7cfff7e18439451a9e3b72629e959170",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1246r12p1260r12p1312r13p1347r13p1351r13p1385r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5c1de5adc11a8d97a8b195e0ba82451ad60a9ec8525640c5edb6cb60814d2c98",
+  "validation_errors": []
+}

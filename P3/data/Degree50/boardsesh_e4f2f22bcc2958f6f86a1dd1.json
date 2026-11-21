@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e4f2f22bcc2958f6f86a1dd1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "jump for papi",
+  "setter": "micheljorbin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2AA8A729C8CA454CB90E446B570AC18D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1144r12p1163r12p1248r13p1319r13p1384r14p1459r15p1542r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "043053434583fa53ea556224b9dd33ec3ce86eb5eea50c89d7e056c702773b34",
+  "validation_errors": []
+}

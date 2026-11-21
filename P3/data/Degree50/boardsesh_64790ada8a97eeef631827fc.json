@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_64790ada8a97eeef631827fc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Oopsie",
+  "setter": "obiss",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "D4D39BEEBCC145329A3AFE37529A1BE5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1097r15p1182r12p1195r12p1233r13p1247r13p1267r13p1319r13p1337r13p1387r14p1455r15p1460r15p1493r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "cb88f119b5f275b5ec0cfe7806524be4ab7a7160b193667a7d4cc3a1ab6e2beb",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cde9b4e5667ad5f735e21aa5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Eliminate the Eliminate",
+  "setter": "tobreggirt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "b7d007c1-15eb-4d63-8a53-8746407282b3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1163r12p1198r13p1221r13p1257r13p1291r13p1341r13p1389r13p1386r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.2,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "66c670d4169559691450ec08ffe735986499409ad3d9e2ca68d4343272549178",
+  "validation_errors": []
+}

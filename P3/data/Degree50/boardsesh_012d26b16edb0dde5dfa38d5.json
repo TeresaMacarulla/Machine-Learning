@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_012d26b16edb0dde5dfa38d5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "memoo",
+  "setter": "hKassay",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "19b30e28-d9e4-4430-83ed-967493a173f7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r12p1217r12p1267r13p1131r15p1133r15p1300r13p1251r15p1314r13p1348r13p1380r14p1382r14p1312r15p1263r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.67,
+  "ascensionist_count": 6,
+  "quality_average": 3.0,
+  "hold_fingerprint": "a0e183b984ada730ebe15709ade4cf7512abf292c88641fa33fabc2897418f0a",
+  "validation_errors": []
+}

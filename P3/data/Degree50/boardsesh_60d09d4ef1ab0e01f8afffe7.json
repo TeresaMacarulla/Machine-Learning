@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_60d09d4ef1ab0e01f8afffe7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Chainsawman",
+  "setter": "Daniel Brzozowski",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 10,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "75f43af0-2331-466b-9f35-eb46dc27146b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r12p1481r12p1202r13p1254r13p1249r13p1243r13p1328r13p1345r13p1350r13p1368r13p1371r13p1395r14p1325r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "8082ab16d421736cc62d31206659f97c89dce9332d06a1fe725071541e5e015a",
+  "validation_errors": []
+}

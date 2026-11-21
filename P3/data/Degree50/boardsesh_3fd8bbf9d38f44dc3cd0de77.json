@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3fd8bbf9d38f44dc3cd0de77.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Adam board comp #1",
+  "setter": "adam.zw",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "A820BF4A886349D28F594329502F99B2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1168r13p1171r13p1182r12p1237r13p1287r13p1317r13p1362r14p1367r13p1503r12p1575r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.33,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "8d2a9e0143a3e3c2dfaad78a0b7cba056dab06832918c082f7838caa7f6e8d35",
+  "validation_errors": []
+}

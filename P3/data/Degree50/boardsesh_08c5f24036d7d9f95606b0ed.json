@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_08c5f24036d7d9f95606b0ed.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "back to bacs",
+  "setter": "yoanT",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "e3a78089d42f4fcdb033931080e49eb7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1156r12p1157r12p1257r13p1308r13p1356r13p1389r14p1447r15p1450r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0f11859a85c46bbbeb6703085028695af405dfbe39177646fc93ca30284e9866",
+  "validation_errors": []
+}

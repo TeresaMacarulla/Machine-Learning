@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cbb37216a9899752e38126d2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Subaru CRoSstrek",
+  "setter": "tobibias",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3BCE325214E44FA1B9AF306DF95BFA60",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1125r12p1163r12p1177r13p1248r13p1249r13p1301r13p1302r13p1331r13p1380r14p1555r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.22,
+  "ascensionist_count": 91,
+  "quality_average": 3.901098901098901,
+  "hold_fingerprint": "b30810dbe187ecbe767d5a830b635952a746b490b8e98e2bb8ab601a57869b8e",
+  "validation_errors": []
+}

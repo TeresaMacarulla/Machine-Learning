@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9b607ad960b1100d84fc0567.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Gastron",
+  "setter": "niccharron",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "648f2ca4-5f1d-4ca0-861b-c2da659ee8c4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1132r12p1127r15p1458r15p1168r13p1153r13p1451r15p1174r13p1500r15p1240r13p1224r13p1309r13p1342r13p1535r15p1560r15p1339r13p1390r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 1.0,
+  "hold_fingerprint": "89e7fd34f73ac24e96c368b3993d03a4687a2bcdefacd452baf12e3cc77ae952",
+  "validation_errors": []
+}

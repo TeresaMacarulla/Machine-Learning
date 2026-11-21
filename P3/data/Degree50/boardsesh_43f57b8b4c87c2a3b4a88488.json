@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_43f57b8b4c87c2a3b4a88488.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "whole lotta effort",
+  "setter": "strings",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0F8DE2D5140F498DB44BC73E1A38D65A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1125r12p1145r12p1247r13p1303r13p1336r13p1392r14p1460r15p1533r15p1567r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.96,
+  "ascensionist_count": 139,
+  "quality_average": 3.46,
+  "hold_fingerprint": "5c1ee7b3e0e927b1e02d61987f3c383c532d42ad5861b8c4334bd57250d66a96",
+  "validation_errors": []
+}

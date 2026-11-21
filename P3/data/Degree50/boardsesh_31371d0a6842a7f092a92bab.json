@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_31371d0a6842a7f092a92bab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Amputee circus",
+  "setter": "costandy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "9388c28a14cf4622881df4eeb0486dca",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1200r12p1234r13p1236r13p1302r13p1353r13p1383r14p1385r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 6,
+  "quality_average": 2.67,
+  "hold_fingerprint": "9ad098ce38078a2535af8923a620b6436c2f68ba8fb21dceb406796968f1d958",
+  "validation_errors": []
+}

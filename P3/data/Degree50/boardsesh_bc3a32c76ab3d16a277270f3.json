@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bc3a32c76ab3d16a277270f3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "who forgot the pockets?",
+  "setter": "tteemus",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8d70e6f3530a4382a99a5270eb8b2231",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1147r15p1180r12p1210r13p1246r13p1279r13p1349r13p1380r14p1462r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "62abd24191a051909b24fcf65ffbea8dfa13353efe1b5aed246d22d7e6e230cf",
+  "validation_errors": []
+}

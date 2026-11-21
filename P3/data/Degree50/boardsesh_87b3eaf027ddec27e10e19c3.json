@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_87b3eaf027ddec27e10e19c3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Singularity",
+  "setter": "beachesrockgym",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5dab53d0960d4153892da84069325fb5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1201r12p1203r12p1271r13p1357r13p1387r14p1478r15p1486r15p1513r15p1577r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.18,
+  "hold_fingerprint": "1ccec7b044d4551aa346f1383998dd8fed89fc1ea2119b61a8e8eedf4598f7da",
+  "validation_errors": []
+}

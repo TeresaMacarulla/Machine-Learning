@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b02b0d386789fa5991593d96.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "BEG+INT Boulder 17",
+  "setter": "Coach_Nick_Orange",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "46afce8c-e60d-4456-b0b7-9fde0fa257ad",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1271r13p1202r13p1076r15p1197r15p1320r13p1156r12p1074r15p1388r14p1189r12p1284r13p1540r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 2,
+  "quality_average": 1.5,
+  "hold_fingerprint": "b425a45487b181fe005aa3183294a74dc8567e16f95fecf5708640cf91a6d4ca",
+  "validation_errors": []
+}

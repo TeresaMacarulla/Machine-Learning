@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fd4bd384e2ad1473713e5b89.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Free Ride",
+  "setter": "OBES",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0BFA8993B46046C8AE5A3CD3F64568B2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1164r12p1183r12p1235r13p1273r13p1320r13p1353r13p1384r14p1476r15p1489r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 12,
+  "quality_average": 3.33,
+  "hold_fingerprint": "d126ef33c9e3d7b6643d637d4cfcd9ff8e18c94639e82a039b571bd8cae0cd74",
+  "validation_errors": []
+}

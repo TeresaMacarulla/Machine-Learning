@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aff6ba9d2b29c2d917272e43.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Classic Ladders",
+  "setter": "nlun",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "85c0720eaaa74e978d75ffbf0c7ef66d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r12p1142r12p1163r13p1215r13p1236r13p1302r13p1304r13p1369r13p1383r14p1458r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.5,
+  "ascensionist_count": 8,
+  "quality_average": 3.38,
+  "hold_fingerprint": "461b4d33545abd6caa2b114a4debc7145f4097f1d329798a5e5bac54343797a2",
+  "validation_errors": []
+}

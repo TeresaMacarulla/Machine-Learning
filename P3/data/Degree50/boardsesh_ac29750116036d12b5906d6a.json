@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ac29750116036d12b5906d6a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Tension Trainer : Easy 1",
+  "setter": "ty.steele",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "3ac51085-b390-44d9-8b96-f3413d073cfa",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1259r12p1257r12p1289r13p1302r13p1353r13p1384r13p1380r14p1349r13p1482r15p1489r15p1506r15p1499r15p1533r15p1513r15p1530r15p1555r15p1540r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 3,
+  "quality_average": 1.5,
+  "hold_fingerprint": "623b52537276f01ac195ee1de5dfc20127f9548ea7b02aaab9a4854b110a21f5",
+  "validation_errors": []
+}

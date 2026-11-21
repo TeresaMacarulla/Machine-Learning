@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4d3a71476cb904f9de9f8d3b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Bad pinch!!",
+  "setter": "MDEMOY",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "C58CACAE1A55461A8A403314E70B87FE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1125r12p1180r12p1204r15p1230r13p1285r13p1286r13p1339r13p1385r14p1458r15p1475r15p1492r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "fa26d0e8664e4cd0172a5432bb72dd097500048baafa3e6401bc3c914dea218a",
+  "validation_errors": []
+}

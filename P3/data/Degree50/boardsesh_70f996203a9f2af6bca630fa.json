@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_70f996203a9f2af6bca630fa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "maschendraht",
+  "setter": "Armino",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "F1BF49CE34F346F091094C2725A72F1E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1141r15p1144r12p1145r12p1156r15p1166r13p1201r13p1240r13p1324r13p1374r13p1387r14p1580r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.88,
+  "ascensionist_count": 26,
+  "quality_average": 3.73,
+  "hold_fingerprint": "860c87169767239ed23e18f9e8c9c461954b5c06868d6e5b089ac0c088d88742",
+  "validation_errors": []
+}

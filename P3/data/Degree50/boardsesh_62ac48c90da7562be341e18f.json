@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_62ac48c90da7562be341e18f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "school\u2019s out",
+  "setter": "lachlan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "25D3EFD2E91549CD92B64391EFAC3871",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1137r12p1150r15p1169r12p1220r13p1236r13p1271r13p1289r13p1303r13p1338r13p1387r14p1452r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.55,
+  "hold_fingerprint": "d3126a2c482e09f307812ec8f03841afb0c150b1c6beb3c69567e7df0c4414c0",
+  "validation_errors": []
+}

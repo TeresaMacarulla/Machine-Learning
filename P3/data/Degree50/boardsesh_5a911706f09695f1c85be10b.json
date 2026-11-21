@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5a911706f09695f1c85be10b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Fanatic",
+  "setter": "Miguelo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "027d6b3539684c4382345152a5810593",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r15p1136r12p1199r13p1202r13p1212r15p1266r13p1301r13p1356r13p1373r13p1394r14p1450r15p1571r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "ceef23325a2c0ad93e273dd317983d66afe3ca78218d1a450f7f22e1fd2ad867",
+  "validation_errors": []
+}

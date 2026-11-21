@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_01b789be8b0020734fbef191.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Looks easy",
+  "setter": "Dojo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "22789D77A3A44114AFA810F032324EEB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1216r15p1223r12p1224r12p1231r15p1272r13p1286r13p1317r13p1371r13p1392r14p1482r15p1518r15p1534r15p1552r15p1567r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c602f3a914219146bb5314d1f55527fe648955a309f7584ae91013efbf1ba659",
+  "validation_errors": []
+}

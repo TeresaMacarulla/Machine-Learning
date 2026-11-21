@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_76b119c22f9424e39b81e9de.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "stay tight",
+  "setter": "austinlee",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "538F3A08C22A4596ADA4103D8B17E697",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1160r15p1212r12p1229r12p1249r13p1266r13p1286r13p1336r13p1387r14p1505r15p1540r15p1542r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2291,
+  "quality_average": 3.26,
+  "hold_fingerprint": "59f701b5ab83a142f9e36fe55a8ee452bba83bba0929fc4c25932a957a046664",
+  "validation_errors": []
+}

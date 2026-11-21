@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6b5cb6743a17e9807670c20e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "undercutty ",
+  "setter": "ArchieH",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "d339230f-d97a-47fc-ab00-69700d0e01e3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1198r12p1253r13p1271r13p1291r13p1292r13p1361r13p1391r14p1459r15p1171r15p1518r15p1598r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 1.33,
+  "hold_fingerprint": "e65bd8e02ee9b63aa34c526cf7505088ed90a0532dd9acd7d59aa8b93979046f",
+  "validation_errors": []
+}

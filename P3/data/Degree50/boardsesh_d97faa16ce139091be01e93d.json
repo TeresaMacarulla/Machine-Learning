@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d97faa16ce139091be01e93d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Shoulder Bastardized",
+  "setter": "paulnagy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "C76FA9CE14E745E6A4E5F9688094A192",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1134r12p1222r13p1232r15p1270r13p1281r15p1320r13p1352r13p1363r14p1365r13p1368r13p1561r13p1573r15p1574r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "192c82357bc73f0624732d6aede5de75ed844f3aee95459648a2356695e78a74",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4ac84fa820866ef39c40b498.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "flexicon",
+  "setter": "andrewmorin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FC22713E71DC447E99B01AC4914AF53A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1142r12p1163r13p1164r13p1234r13p1239r15p1283r13p1322r13p1336r13p1387r14p1459r15p1464r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "3561e3d8e76c6166405828a07bb6f874b07bf2d33469ffe2badafd444f7d65f3",
+  "validation_errors": []
+}

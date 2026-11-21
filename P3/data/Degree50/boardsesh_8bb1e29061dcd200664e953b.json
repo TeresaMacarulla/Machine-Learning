@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8bb1e29061dcd200664e953b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "kilter endurance",
+  "setter": "Jeonghwan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 10,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "8ABE501AD68A4CCDA8BF7F527AD03526",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1175r13p1194r13p1204r15p1228r13p1249r13p1266r13p1287r13p1321r13p1350r13p1354r13p1379r14p1383r13p1460r15p1464r15p1483r15p1485r15p1513r15p1556r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1dd158a741332b221b6af5b34645b63045b5c0b9072da9b96b09f945a4069ea4",
+  "validation_errors": []
+}

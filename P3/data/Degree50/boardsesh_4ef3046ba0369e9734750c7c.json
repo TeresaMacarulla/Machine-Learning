@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4ef3046ba0369e9734750c7c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Rotary Hammer",
+  "setter": "tkearney",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B6CAA6048F9549D08EE0153C1CC77DB1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1201r13p1202r13p1223r13p1289r13p1326r13p1394r14p1455r15p1459r15p1500r15p1536r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "b8278849049eaf4ea1868ee69ec2c12ef2783a9f3bc9b9e8907f34a8530f9b44",
+  "validation_errors": []
+}

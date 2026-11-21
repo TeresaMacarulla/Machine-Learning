@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5dfcf81e46c22096a0a4e2ef.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Shoulder To Cry On",
+  "setter": "Rannon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8B3B8F8E4BE5446C86FE3506B210CE2E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1231r12p1263r12p1265r13p1302r13p1315r13p1320r13p1340r13p1371r13p1390r14p1503r15p1505r15p1533r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.89,
+  "ascensionist_count": 19,
+  "quality_average": 2.05,
+  "hold_fingerprint": "d743b02df2840fb677f6f3e973855bf26ed7812849a5377c05acc4f86c9ad7bf",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_41cf51786a91ef10a17e3783.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "neburacheane",
+  "setter": "Shinji.Kohsaka",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 9,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "982F8133B816422BB1772987AA654060",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r12p1133r15p1136r12p1161r15p1169r13p1200r13p1215r13p1218r13p1221r13p1231r13p1245r13p1246r13p1294r13p1347r14p1451r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.2,
+  "ascensionist_count": 10,
+  "quality_average": 3.2,
+  "hold_fingerprint": "37ab63db36101eb5f30355eb58fc3d48dc6a750556aa0744d01a5cf2309cece6",
+  "validation_errors": []
+}

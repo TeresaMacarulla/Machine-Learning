@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_99f61f9f51fc38fcf8ba3212.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Goooji",
+  "setter": "ksmd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9016c36bf9c04a2981f394755136212f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1168r12p1183r12p1253r13p1287r13p1325r13p1391r14p1472r15p1479r15p1535r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "284aef0bf615d09bbbed58829ae547cf8e8c93284a8a5656cb96345f7bbba584",
+  "validation_errors": []
+}

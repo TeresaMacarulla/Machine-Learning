@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8f9615ec2ec0036e37880ce7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "pretty fun",
+  "setter": "nathan.tsui",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3DCC6B39F52849AD87004DC279C6C490",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r15p1155r12p1157r12p1171r15p1221r13p1234r13p1302r13p1350r13p1387r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.06,
+  "ascensionist_count": 34,
+  "quality_average": 3.69,
+  "hold_fingerprint": "81a6a7052f074a442a54d131e890dca57dceb6fe14c7944c01aade4c79d2aaa0",
+  "validation_errors": []
+}

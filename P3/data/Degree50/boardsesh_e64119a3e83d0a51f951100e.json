@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e64119a3e83d0a51f951100e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "\u26a0\ufe0f \u00e0 la porte de Caro",
+  "setter": "carosinno",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "3E12B9C8008D431E89E405DE7B001B3E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1135r12p1153r12p1222r13p1290r13p1323r13p1358r13p1389r14p1491r15p1499r15p1518r15p1527r15p1543r13p1554r15p1571r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.4,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "dfeeb8e1e6477801060d4bfb804f04e837df19238eb78c25cf711c27422558ac",
+  "validation_errors": []
+}

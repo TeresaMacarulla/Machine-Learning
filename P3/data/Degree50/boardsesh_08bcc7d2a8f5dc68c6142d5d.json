@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_08bcc7d2a8f5dc68c6142d5d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Time Bandits",
+  "setter": "TheoKonst",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "27315FFA58E34E7C96F31738BE86CFA8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1147r12p1189r13p1199r13p1253r13p1271r13p1308r13p1371r13p1386r14p1462r15p1517r15p1536r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "11da2295d1135730f3e0eed46533275d6c3b24e85ef1469710d051b820a8bd66",
+  "validation_errors": []
+}

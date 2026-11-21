@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_72a11fd7adeb38e670b0140a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "staggered entry",
+  "setter": "challpike98",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "60e0a4ba8e9048e8be04b1498a10824b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1144r12p1163r12p1214r13p1267r13p1302r13p1305r13p1340r13p1394r14p1469r15p1533r15p1543r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.2,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "c6a8f17e3153461865e3114ae4c413e68d1eeadd0cf0f1e547c026673ba42feb",
+  "validation_errors": []
+}

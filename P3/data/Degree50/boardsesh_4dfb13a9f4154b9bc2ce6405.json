@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4dfb13a9f4154b9bc2ce6405.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Gohan",
+  "setter": "VadimDelakian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "359FB6DAAEBB4D17922AA18F914C5EA2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1160r15p1200r13p1230r12p1232r12p1235r13p1271r13p1321r13p1322r13p1352r14p1504r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.8,
+  "ascensionist_count": 10,
+  "quality_average": 3.6,
+  "hold_fingerprint": "478e976339940b66b21cf49b56409f4bb603cf34c8283ba1402a019d050350d2",
+  "validation_errors": []
+}

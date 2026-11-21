@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9b3e9688082469c2d1c846fa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "squeeze eliminate",
+  "setter": "Jasperbeetroot",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "6D36FEDBD78D46BDBFCDAA148237A97A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1164r12p1165r12p1230r13p1267r13p1283r13p1371r14p1458r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "05c14d44276fa991819723b6c32c866e139a2f2f7ff681f1e501e98282a8cc6a",
+  "validation_errors": []
+}

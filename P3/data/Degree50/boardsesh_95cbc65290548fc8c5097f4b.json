@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_95cbc65290548fc8c5097f4b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "KUBI",
+  "setter": "Kubi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9569372411E7400BB839833686DDBB65",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r12p1146r12p1180r13p1219r13p1270r13p1308r13p1390r14p1458r15p1464r15p1536r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d28bc570e6f4641410447c6c0ed72bf07b4584d38e1b959570e9d15eee959512",
+  "validation_errors": []
+}

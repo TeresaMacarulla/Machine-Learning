@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1bca8e1e12a38d17ef7c753e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "wagon wheel",
+  "setter": "koolguy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "AB612588AD074F2FB46B95025A9A7D79",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1105r15p1175r15p1187r12p1199r13p1205r12p1214r15p1231r13p1234r13p1254r15p1263r13p1268r15p1302r15p1313r13p1363r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "a281a4e4319d63db62202593dd4bead07838f059cfd063a6552cc089931f3ac4",
+  "validation_errors": []
+}

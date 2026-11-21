@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f92b47f5bc1403407ce2368d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Color Out of Space",
+  "setter": "Necronomicon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "c17807618e2b45f38f2c9c2b97b34d5b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1143r13p1213r13p1218r13p1269r13p1307r13p1342r13p1392r14p1464r15p1503r12p1516r15p1535r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "d18164a2c8122d0b63a077441d7193950c90fe8eb2c59b87cb31d0ef87d23faa",
+  "validation_errors": []
+}

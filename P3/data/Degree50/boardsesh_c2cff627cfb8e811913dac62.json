@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c2cff627cfb8e811913dac62.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "langmack proj 1",
+  "setter": "noahwheels",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "CC42E775C7F74C5589AA692059FE5E2E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1127r12p1148r12p1167r13p1196r13p1271r13p1293r13p1378r13p1388r14p1395r13",
+  "display_difficulty": 30.0,
+  "difficulty_average": 29.84,
+  "ascensionist_count": 70,
+  "quality_average": 3.8700000000000006,
+  "hold_fingerprint": "0518d900d1e191f81d1470dcc4334f9a8d2d889c7b8c7e0bd8a4e69f66a1d6d3",
+  "validation_errors": []
+}

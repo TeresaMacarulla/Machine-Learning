@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_05d2a17f4e09ed54cef13718.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "I shot",
+  "setter": "Nicocelse",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5892aa0aac7c4a3ab609d21295b1f118",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1128r12p1180r13p1197r13p1266r13p1284r13p1338r13p1390r14p1484r15p1510r15p1524r15p1528r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "64067eb0e19be4750fe950b57b7713b92e63f29bcbfa9c5aed9cd36a3301e912",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7748b4a72e5d1148850ddedb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "no feet",
+  "setter": "Finz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "081424ff-f1de-4e4a-8553-610afe951d2d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1201r12p1133r12p1214r13p1249r13p1247r13p1336r13p1387r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.33,
+  "ascensionist_count": 3,
+  "quality_average": 3.33,
+  "hold_fingerprint": "f3f1429cf8ab0b813a832854e9e1b399ec7f56252a4bed1f85dee3145db6702e",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b312d7623a82c64ff8f1b990.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "fake sherif",
+  "setter": "ash_climbing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "652175d87d5d4ba6919758ba0fe4c6d5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1142r15p1178r12p1195r12p1266r13p1269r13p1322r13p1387r14p1506r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "95815a06bd1bfea84082ed4d46ec0d64f96482c54ca2d77eaa6068d3ec536074",
+  "validation_errors": []
+}

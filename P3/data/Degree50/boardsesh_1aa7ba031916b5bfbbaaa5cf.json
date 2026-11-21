@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1aa7ba031916b5bfbbaaa5cf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "DNA polymerase III",
+  "setter": "CHAPito",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "7a484306-0222-4293-8d29-6c4d20928e68",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1259r15p1075r15p1235r13p1257r12p1242r15p1181r15p1256r13p1285r13p1516r15p1302r13p1298r13p1383r14p1351r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "b2d368954f08accf8e328f7aec66638e8b2f968462e52b29c9835837280a19d3",
+  "validation_errors": []
+}

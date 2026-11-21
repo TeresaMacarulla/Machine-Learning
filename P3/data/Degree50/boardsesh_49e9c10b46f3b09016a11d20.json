@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_49e9c10b46f3b09016a11d20.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "picque",
+  "setter": "mxtl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "c7f0a88a-b920-459c-b25b-528157965995",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1217r13p1270r12p1146r15p1488r15p1559r13p1540r13p1180r15p1161r15p1261r13p1329r13p1379r14p1546r15p1510r15p1241r12",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "53528fdc475b4fc90e0fdbbe8215c11181c61b3c17160ba01da6e4364eb5f1b7",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_14ab7b1f6843ed57763da486.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Ode to Korb",
+  "setter": "dmix",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "97F37D8AB89A490F80840CABA4AAFC2D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1199r12p1253r13p1254r13p1291r13p1337r13p1339r13p1368r13p1383r14p1468r15p1494r15p1526r15p1548r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6548af5d47bb233cd670c16ae465c52ac2f195ffba49f91e574ec126e07b0f51",
+  "validation_errors": []
+}

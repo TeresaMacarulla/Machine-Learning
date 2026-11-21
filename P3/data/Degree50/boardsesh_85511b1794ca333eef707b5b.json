@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_85511b1794ca333eef707b5b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Die \ud83e\udd0f Marschtheorie",
+  "setter": "brene",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "b7f4f23dc18a454eaffc60bda7f1801b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1123r12p1189r12p1206r13p1255r13p1269r13p1287r13p1351r13p1383r14p1447r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "525317854ebd7dc2e1bfa2c9b2bc21e41bd8474d5e0e97f7f0078f06fdc69b00",
+  "validation_errors": []
+}

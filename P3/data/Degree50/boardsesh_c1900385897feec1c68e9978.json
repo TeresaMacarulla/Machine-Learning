@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c1900385897feec1c68e9978.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "DANCE",
+  "setter": "niggos2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "2f1b4e22-e0e9-4e6e-8b84-24a982e64c38",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1272r13p1165r15p1205r15p1300r13p1340r13p1542r15p1301r13p1262r12p1214r12p1394r14p1141r15p1572r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": null,
+  "hold_fingerprint": "b717d6f49699278103e6f25bcb8fcb8cd6252d5f08880dec72ce1e9d45311682",
+  "validation_errors": []
+}

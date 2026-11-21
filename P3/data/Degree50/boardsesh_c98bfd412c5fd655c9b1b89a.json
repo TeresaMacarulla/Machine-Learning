@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c98bfd412c5fd655c9b1b89a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Take the power back",
+  "setter": "galaxy.punk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "6a5e62f6-8aea-433f-9407-8b7774492759",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1269r13p1286r13p1323r13p1340r13p1394r14p1561r15p1212r15p1248r12p1214r12p1205r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "d94d2a133dd1e215959a6cd66c8045083e56f63b2e41eb9955fa9ba736c321f2",
+  "validation_errors": []
+}

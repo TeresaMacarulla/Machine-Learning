@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6a601c8b570a50f27efbf358.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Spot of time",
+  "setter": "Baptiste-R",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9f0288d1-1044-4e4f-bbaa-1c8e7d7eea4f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1543r13p1549r13p1505r12p1102r15p1203r13p1135r12p1076r15p1096r15p1489r15p1283r13p1353r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.33,
+  "ascensionist_count": 3,
+  "quality_average": 4.67,
+  "hold_fingerprint": "93674e20d33a3467c0c6d7b8898acc60e23fe914043c18342343d803314dda77",
+  "validation_errors": []
+}

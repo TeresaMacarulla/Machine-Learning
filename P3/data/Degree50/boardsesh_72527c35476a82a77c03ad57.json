@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_72527c35476a82a77c03ad57.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "igrok",
+  "setter": "doskaboard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "338e2c64-795c-4bce-9222-59e7421b60ea",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1453r15p1267r13p1516r15p1307r13p1523r15p1337r13p1392r14p1239r13p1478r15p1199r13",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.5,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "dc80afbc67be3f8a1c5db48e757c121cfaf2719f4743e5cf33b93d9dbb6044e7",
+  "validation_errors": []
+}

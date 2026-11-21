@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bcb60cfd55b64c4a6d2ca53c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "the Vienna ",
+  "setter": "Ethank",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "2b8bd6cf-3343-4133-a4b9-ef2d9f17169e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1187r12p1106r15p1451r15p1289r13p1337r13p1523r15p1315r13p1243r15p1380r14p1189r12p1518r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "4ab54a038bd50e36fcc1495fb8f633f9bbb0e3f25a38f73e20055d2dd9797fae",
+  "validation_errors": []
+}

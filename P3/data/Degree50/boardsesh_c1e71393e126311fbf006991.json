@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c1e71393e126311fbf006991.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Shoop",
+  "setter": "LeodF",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A1AE87589AD1407FAFCDB1EC13206149",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1132r12p1171r15p1232r13p1254r13p1305r13p1358r13p1376r13p1395r14p1457r15p1532r15p1572r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "7e5926fa13dee8d5a62d0a13087cbbef26e58c6ab5532d9fbd0b78b618639303",
+  "validation_errors": []
+}

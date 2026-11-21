@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ed1b34ef6c2e9cf7f46e4bdb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Flambetarte",
+  "setter": "partchamp",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "53369b05034048cc99d4514a383e9ccd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r15p1176r12p1180r12p1242r15p1246r15p1248r13p1270r13p1321r13p1343r13p1393r14p1485r15p1494r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 39,
+  "quality_average": 3.26,
+  "hold_fingerprint": "22ecf1f196d5bc49e779faa5e8647241d887f0bb6e5ee5f76a8b8cef8136109c",
+  "validation_errors": []
+}

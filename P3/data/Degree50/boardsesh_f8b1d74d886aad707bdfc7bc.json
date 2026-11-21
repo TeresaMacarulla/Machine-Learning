@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f8b1d74d886aad707bdfc7bc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Iron Crossed",
+  "setter": "importedbean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "74665670986043AAAF96F0870B7BD38C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1163r12p1201r13p1270r13p1321r13p1333r13p1380r14p1383r14p1457r15p1514r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.95,
+  "ascensionist_count": 407,
+  "quality_average": 3.42,
+  "hold_fingerprint": "1dc9de95891d0696f6cfc13cbbee375d186431d6f4c78e156667016091922bea",
+  "validation_errors": []
+}

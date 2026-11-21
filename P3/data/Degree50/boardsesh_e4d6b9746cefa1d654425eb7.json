@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e4d6b9746cefa1d654425eb7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Blocked Foot",
+  "setter": "christoph.braeuer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "F437E2546672457091BD03188BD71350",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1163r12p1216r13p1271r13p1272r13p1326r13p1395r14p1515r13p1527r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "23081b683df80b0023e7cf37e444bdc7396d336678f3fd09575c72660fc34e1a",
+  "validation_errors": []
+}

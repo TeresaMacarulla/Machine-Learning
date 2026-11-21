@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f2b0e30cf9840ef7af22c5bc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "MINI Otis",
+  "setter": "amitaidemayo5",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "e3243e1f6fe640c781b1a9ec175e5137",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1218r13p1228r12p1250r13p1322r13p1392r14p1485r15p1496r15p1515r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "071dadd5bc2ceaac4e5a4b714400e6cfbf9db9378636bb72e9bbe00c21f8c194",
+  "validation_errors": []
+}

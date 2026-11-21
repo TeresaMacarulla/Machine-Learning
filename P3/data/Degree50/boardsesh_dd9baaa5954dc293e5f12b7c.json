@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dd9baaa5954dc293e5f12b7c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Epiphany",
+  "setter": "Hamiter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "c891aa38aac242898a3f2021d863a591",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1163r12p1167r13p1170r15p1219r13p1249r15p1256r13p1320r13p1373r13p1386r14p1455r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "f34bdca3225dd70551f5738699cded5c66a47378145f0cfb6d62f7ed6d9b0b86",
+  "validation_errors": []
+}

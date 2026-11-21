@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5255a3a496d184e093d1efef.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Machine",
+  "setter": "Hamiter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "a3a264338515449caf4516a1f8171aac",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1110r15p1163r12p1229r13p1265r13p1301r13p1321r13p1371r13p1392r14p1456r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5effaade711b0e43b1351e21a803ce75bcdaa2b7222d41e9bf5dc7bb7870597a",
+  "validation_errors": []
+}

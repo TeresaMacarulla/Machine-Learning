@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b1b44f3dc7b5d19ae74683d0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "bite me hard.",
+  "setter": "BarryHoland",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "865DE9CF576E48C49EE9D8BF6DFE386B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1143r12p1158r12p1228r13p1231r13p1252r15p1296r13p1305r15p1318r13p1366r13p1389r14p1458r15p1464r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1609ec00560781209685ce6993002a16c35a5a07124c80437bb743695c6bb3ab",
+  "validation_errors": []
+}

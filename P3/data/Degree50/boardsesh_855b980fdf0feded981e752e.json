@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_855b980fdf0feded981e752e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "B3",
+  "setter": "juligris",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 5,
+    "foot": 10
+  },
+  "source": "boardsesh",
+  "source_uuid": "6c8129115cae4c21bc92a8d2ac27e020",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1085r15p1179r12p1245r13p1248r13p1263r13p1331r13p1351r13p1385r14p1386r14p1458r15p1459r15p1460r15p1493r15p1502r15p1530r15p1540r15p1549r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.33,
+  "hold_fingerprint": "eef33375b1a60d3907cf35abe7c3fe7e111088da051732c80dd8482e980303e2",
+  "validation_errors": []
+}

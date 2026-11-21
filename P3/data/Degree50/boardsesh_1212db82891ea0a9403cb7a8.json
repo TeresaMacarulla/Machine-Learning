@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1212db82891ea0a9403cb7a8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "My Gas on E",
+  "setter": "Depresto",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3E0833596A154AA196901C71BC4EC167",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1118r15p1197r12p1198r12p1202r13p1269r13p1272r13p1308r13p1361r13p1392r14p1516r15p1545r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 6,
+  "quality_average": 4.0,
+  "hold_fingerprint": "f3ce8eee6b71586ec3a8fea92649b027c65c14a646e6e7c03ac73f1f23936ca2",
+  "validation_errors": []
+}

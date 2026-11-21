@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f65820420c34d2d00cb3e8d7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Screen Shot",
+  "setter": "lukasschier",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3085d545a520495fada8556105049d92",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1151r12p1189r12p1239r13p1259r15p1276r13p1341r13p1377r14p1449r15p1491r15p1518r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.67,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "05b61bfb2d798104202498780649714d8169ffbaeb90eda0a7d474ae2833b48f",
+  "validation_errors": []
+}

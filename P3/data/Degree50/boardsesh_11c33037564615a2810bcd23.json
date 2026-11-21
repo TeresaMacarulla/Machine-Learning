@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_11c33037564615a2810bcd23.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Sit Down Power Up",
+  "setter": "Shawn_lab06",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "31E1098D89EB4DF8A4DE4E63285A9A4B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1114r12p1129r12p1200r13p1236r13p1270r13p1306r13p1353r13p1382r14p1496r15p1499r15p1564r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.75,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "4fe4a81a86ccc9da33812f2bd69fc51aab7b6df003c85001591fc78cd1d41ccd",
+  "validation_errors": []
+}

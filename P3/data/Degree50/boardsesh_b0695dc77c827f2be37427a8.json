@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b0695dc77c827f2be37427a8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "2 cant 2 pinch",
+  "setter": "BryceMcCulloch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "446E7C80B72943E3BC8638FB3FEDE2DA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1186r12p1216r13p1254r13p1283r13p1285r13p1332r13p1387r14p1452r15p1456r15p1487r15p1504r15p1506r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.5,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "8b80b6bdc9ab636d00d668d2563541f4157901864b1344bd3456fcb45a9bc288",
+  "validation_errors": []
+}

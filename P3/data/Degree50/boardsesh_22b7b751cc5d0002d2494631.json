@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_22b7b751cc5d0002d2494631.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "SBYH",
+  "setter": "Eliasdem",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "E991493B7B2C4C21BC3B2BB2556B3D35",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1169r12p1221r12p1234r13p1239r15p1302r13p1350r13p1387r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "28614d14315a4850ba8b8c0acac18ac4dd3322656a304681c2b6b97dddc0985a",
+  "validation_errors": []
+}

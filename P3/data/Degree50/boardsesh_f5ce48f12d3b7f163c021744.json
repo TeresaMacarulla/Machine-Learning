@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f5ce48f12d3b7f163c021744.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Brian\u2019s bad wrist",
+  "setter": "jameshurst",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B480466B870B45109E39F206D4022D6B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1131r15p1153r12p1201r12p1237r13p1250r13p1269r13p1299r13p1335r13p1384r14p1451r15p1551r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.88,
+  "ascensionist_count": 34,
+  "quality_average": 3.5,
+  "hold_fingerprint": "028d9e8095c9152d30c1e04823348592d5b2f8945143a253fc65274c62e91883",
+  "validation_errors": []
+}

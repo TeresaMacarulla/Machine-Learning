@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8a94d50a172e62cb74dc8fac.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "nodule",
+  "setter": "crocsg",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "88DB3E2E77184BB1A3D488F01D4FCCC9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r15p1170r12p1204r15p1249r13p1253r13p1319r13p1348r13p1383r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "ff84b59400b94c1fc0baed341a08125c401572cbeaa76c9af7724e67011d3a78",
+  "validation_errors": []
+}

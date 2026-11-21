@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_af7c24152d6a21619f6a5cb7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Lamentably Steep",
+  "setter": "B.Pasci",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "ED8A137C75A84AB0866DE9E16543B20F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1136r12p1185r13p1205r13p1236r13p1268r13p1302r13p1315r13p1347r13p1379r14p1449r15p1452r15p1489r15p1496r15p1513r15p1539r15p1546r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.5,
+  "ascensionist_count": 8,
+  "quality_average": 5.0,
+  "hold_fingerprint": "757496721ee1b28f83a01b3f61d85937d0933648956e5ebf32c102cc2a7a7a6c",
+  "validation_errors": []
+}

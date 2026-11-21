@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_40e93b6ccf5550d450798d57.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "chair leg",
+  "setter": "JustinV?",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "e38a549b-1f4c-40b4-b79f-29834555711a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1250r13p1182r13p1507r15p1127r12p1091r12p1483r15p1464r15p1457r15p1272r13p1355r13p1365r14p1386r13p1517r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.5,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "e5780ffb41fac7495b28487da0a9cc33f5b3f00a53272634177f850af4299be6",
+  "validation_errors": []
+}

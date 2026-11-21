@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f4a5338867642aa9cdc170ec.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "big texas",
+  "setter": "solman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "e44d1190-ab7f-4069-be0a-222450b5af64",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r12p1145r12p1086r15p1322r13p1234r13p1506r15p1562r15p1387r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.5,
+  "hold_fingerprint": "e5de565e216f1e89fc684b831b45ae6b213350fee9e5e6616ceae8fe107652b5",
+  "validation_errors": []
+}

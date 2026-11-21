@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_127d9c355ab1915eb14fe785.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "klausi Uno",
+  "setter": "Klausbaier",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b86c0933142e4930bc7ceab1100f9a1f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1138r12p1152r12p1166r15p1204r13p1239r13p1257r13p1270r13p1322r13p1356r13p1393r14p1453r15p1470r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "28d404023a1ce18c2046b5d24d98ee510d689a0f39453adf14e12d4292b33add",
+  "validation_errors": []
+}

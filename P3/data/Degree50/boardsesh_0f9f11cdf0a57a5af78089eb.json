@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0f9f11cdf0a57a5af78089eb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "hombro-itis",
+  "setter": "taniacrl3",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "93F44CF43B1244768B19F157F59EAD7D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1156r12p1206r13p1221r13p1234r13p1302r13p1349r13p1383r14p1447r15p1453r15p1487r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "75c64adc9fb22ddeb38d48505d72e57ce428aec90efd7b7e89a879933437acb3",
+  "validation_errors": []
+}

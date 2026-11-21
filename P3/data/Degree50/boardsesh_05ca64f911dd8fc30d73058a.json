@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_05ca64f911dd8fc30d73058a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "A true v3",
+  "setter": "Cadsmar",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "f5fe08174a7247978de3046e36c850a3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r15p1144r12p1163r12p1195r15p1229r13p1246r13p1284r15p1294r13p1347r13p1383r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.04,
+  "ascensionist_count": 58,
+  "quality_average": 3.3,
+  "hold_fingerprint": "f94b1e81797c3fc958dfc39c5c5452736247e99fe5da1f470c80838fa49a84d7",
+  "validation_errors": []
+}

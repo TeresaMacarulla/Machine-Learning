@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ad8f6228d2d84526d5f5f8d1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "flow of time",
+  "setter": "bridgeraston",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "245486185F68426699A729237850F2E7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1135r13p1147r13p1153r13p1221r13p1276r13p1305r13p1321r13p1387r14p1452r15p1459r15p1500r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.12,
+  "ascensionist_count": 34,
+  "quality_average": 3.42,
+  "hold_fingerprint": "0cea37a13b8fbeb1391c944baf2166f641139e148efa977eedb8b820a339cc3f",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c06530ebcf74203f67d0ae2a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "wagon on buckets",
+  "setter": "jdubclimb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "23D1EAB2E2D1488E9F3098014A23C478",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1091r15p1178r12p1181r12p1263r13p1265r13p1353r13p1356r13p1359r13p1395r14p1510r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b09413af47f5070f5586b737a73ee5ed57e33488a0171bdcb1d362b18a2f8c8c",
+  "validation_errors": []
+}

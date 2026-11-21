@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_48cd54b1467361eb076a7007.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "What's that smell?",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "e2d016304bb6497ca4ec386f14d6e653",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1162r15p1169r15p1206r15p1214r12p1215r12p1218r13p1252r13p1272r13p1321r13p1373r13p1389r14p1571r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "999e067a329352f9bba6c8bf58ac2b1a8c14fa9caeff767e0a30ae2688798b5a",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7f0342da3fd2ddbbb31749a2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "hard under pull",
+  "setter": "harringtonkristian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "661D32B18F334E74A4D9246562F9887D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1147r13p1233r13p1247r13p1264r13p1333r13p1387r14p1454r15p1485r15p1493r15p1503r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ab028803c6b6a872a4b91a9637204f5845aadf3a5bf918ff489678b96e9e83f5",
+  "validation_errors": []
+}

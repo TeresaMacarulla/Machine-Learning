@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f785adf47c17dec5cd0f028d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "simplify, simplify",
+  "setter": "kevinG8",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "554B109439514B89885B5A1A01960FCC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1188r15p1253r12p1286r12p1324r13p1374r13p1394r14p1542r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "7f4c61bbd3fe29440934860b3330f41ade32a48c7129141eaa3bef5c830893b3",
+  "validation_errors": []
+}

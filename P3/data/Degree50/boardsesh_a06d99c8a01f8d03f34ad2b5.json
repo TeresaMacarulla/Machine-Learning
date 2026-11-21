@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a06d99c8a01f8d03f34ad2b5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "bombaclart",
+  "setter": "dan.rogers22",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "DBECAEAEDF954316A3BF9EA328CB5E4D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1173r12p1178r15p1189r13p1220r13p1264r13p1287r13p1299r13p1347r13p1385r14p1447r15p1451r15p1508r15p1549r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.13,
+  "ascensionist_count": 8,
+  "quality_average": 3.25,
+  "hold_fingerprint": "2fade37e94dd000ab9b85eb536d0906fa32a47f7be23792beb68d5d73ccbdc18",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c35c2e95195d8b903ab78e86.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "THE GRUDGE",
+  "setter": "crunch2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3c675380a86c435a86e7ed7035ed0082",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r13p1150r15p1162r15p1187r12p1192r15p1204r12p1232r13p1236r13p1247r13p1249r13p1262r15p1299r13p1347r13p1385r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "71ab63c15794dd30ce7ce0d8eade98fe3c39950697fdc33715ef1b9b68595431",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0f637b9ca66714ca02ac4e48.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "regres",
+  "setter": "Maciekolesky",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "14639c29079348a9b70c66c60639c459",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1175r12p1246r13p1281r13p1336r13p1372r13p1393r14p1513r15p1551r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.92,
+  "ascensionist_count": 12,
+  "quality_average": 3.67,
+  "hold_fingerprint": "4fd0b21ff7d4f0887ae623ed615651bc7530cb8d3f9fa4aec93b47742847d310",
+  "validation_errors": []
+}

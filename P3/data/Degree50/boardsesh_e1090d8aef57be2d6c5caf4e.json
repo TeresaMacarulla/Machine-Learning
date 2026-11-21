@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e1090d8aef57be2d6c5caf4e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "foretell",
+  "setter": "JEONGSUK",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ea9d7da4edf84f6b80126c338b7946ad",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1166r12p1236r13p1251r13p1300r13p1354r14p1470r15p1489r15p1530r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "55ed9d056e582979e81a866b1e1c42b54d54bee0ec7798a9ff169197a3bfee5b",
+  "validation_errors": []
+}

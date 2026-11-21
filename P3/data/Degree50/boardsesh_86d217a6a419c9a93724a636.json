@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_86d217a6a419c9a93724a636.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "CTC",
+  "setter": "Cuckovich",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "407A3414C3EA4BD1A1A5A64118917054",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1196r12p1216r13p1283r13p1304r13p1373r13p1391r14p1467r15p1487r15p1515r15p1534r15p1553r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 12,
+  "quality_average": 2.73,
+  "hold_fingerprint": "3839444141c4d8b3f8aee5d6ed3eb0ec800b2a20a3e1fa9172d823db02d70890",
+  "validation_errors": []
+}

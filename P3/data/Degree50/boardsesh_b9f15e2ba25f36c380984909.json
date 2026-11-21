@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b9f15e2ba25f36c380984909.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "rickrout",
+  "setter": "miguelintherocks",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "CFD02D441DF146A98E22B3A69FB6A134",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1137r12p1152r12p1167r15p1187r13p1219r13p1232r15p1284r13p1287r13p1335r13p1384r14p1385r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f1a76003f028878ed0bc29889d4a176cbfef886f514ea5c435416307d13854b6",
+  "validation_errors": []
+}

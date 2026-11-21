@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_45330a8e4ec008bfddd1bfdf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Campus pinches and jugs",
+  "setter": "spame",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "6fd956754a3a4a908a0ba2b0ee4b5068",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1196r12p1216r12p1247r13p1281r13p1295r13p1347r13p1379r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 4,
+  "quality_average": 2.75,
+  "hold_fingerprint": "23e41190f98900a30688b287b1fd9ee8bf4b643c312fd2139b09f2185a654442",
+  "validation_errors": []
+}

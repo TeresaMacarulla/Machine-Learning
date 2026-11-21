@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_58bc9c366e0cbdb599dcfb8f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "b\u2019awesome",
+  "setter": "itsjohntan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "D4A9D5F5824947B7AC2CC8C8D9E7EBEE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1133r15p1144r12p1214r13p1247r13p1268r13p1337r13p1391r14p1523r15p1525r15p1570r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "26d1bdced8d920ce9ddd5c33415cfcd83f906fc9cded22150cd6178ed3f2e5c9",
+  "validation_errors": []
+}

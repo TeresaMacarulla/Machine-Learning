@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_160ea561b1607e75308803be.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "\u00e7a pulse",
+  "setter": "johann.bjrd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "D43F507188364326A2CA0F69D2144981",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1168r12p1250r13p1268r13p1318r13p1338r13p1389r14p1478r15p1505r15p1514r15p1552r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.56,
+  "hold_fingerprint": "c01e620762f6077f1013b41711ca880eb9ce6fbc049836f5871e2efea5128be3",
+  "validation_errors": []
+}

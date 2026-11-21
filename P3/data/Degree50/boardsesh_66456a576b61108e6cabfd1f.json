@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_66456a576b61108e6cabfd1f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "RoseSqueeze",
+  "setter": "Pamu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2D5AAB879B8F46DC8E40E4D30EEFEF42",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1186r12p1241r12p1257r13p1291r13p1305r13p1323r13p1353r14p1518r15p1536r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "182c92993dd31ba952a7cc60a3f7efa0048f6e0437af60ff106c3570d05c6f02",
+  "validation_errors": []
+}

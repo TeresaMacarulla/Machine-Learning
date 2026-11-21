@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_af1432bf065af84caba6a0db.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Paste and Kick",
+  "setter": "kilterjackie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "11B116B2FB9C4E90ABAE1FD77B8B2F0B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1149r12p1165r15p1201r15p1216r15p1236r13p1266r13p1302r13p1368r13p1385r14p1389r14p1554r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 40,
+  "quality_average": 2.7,
+  "hold_fingerprint": "efb3bb9907995aae0cfb351e62546378b41a2e034186ab38566ccd9b28cae088",
+  "validation_errors": []
+}

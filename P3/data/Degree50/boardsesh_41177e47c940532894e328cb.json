@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_41177e47c940532894e328cb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Far Far Links",
+  "setter": "chrislee",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0940C92DDFB842838FBAFD9DC9ECF3EC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1121r15p1152r15p1157r12p1185r13p1205r13p1217r13p1247r15p1254r13p1264r13p1300r13p1329r13p1379r14p1447r15p1584r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e0e3c6f2cdd11666a1171af43e924a325706340608eefd013cdc26efba066597",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_887b676e6bbb17041e39fa34.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Sloppy slap",
+  "setter": "BryceMcCulloch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "734B68A1A7144E1B971CDD59638F4C93",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1189r12p1235r13p1271r13p1319r13p1372r13p1386r14p1451r15p1499r15p1534r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "cdbe1779cf51c4f038147fc6acc8117b4948adc282a2b28777729d08c6117c6a",
+  "validation_errors": []
+}

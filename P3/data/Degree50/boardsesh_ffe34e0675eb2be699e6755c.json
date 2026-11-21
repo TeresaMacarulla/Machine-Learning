@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ffe34e0675eb2be699e6755c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Direct Action",
+  "setter": "sdpearce",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3F295272D2A347B7B012680EB8C941E8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1170r12p1172r12p1221r13p1269r13p1301r13p1315r13p1367r13p1383r14p1546r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3a33c11d07fe2706226bcbd5b98feef985cebc2d1bc8964a9719e5b03b8bb441",
+  "validation_errors": []
+}

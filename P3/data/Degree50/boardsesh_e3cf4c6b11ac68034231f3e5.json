@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e3cf4c6b11ac68034231f3e5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Black Magicc",
+  "setter": "gonzales",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "FD89F5D3D62C4EE1BE00BD9B1FCC26EC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1112r12p1146r12p1228r13p1250r13p1283r13p1339r13p1372r13p1394r14p1462r15p1483r15p1590r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.93,
+  "ascensionist_count": 14,
+  "quality_average": 3.71,
+  "hold_fingerprint": "6a8e42a865697f80da0b31fa9ee70a4622b52957a94be920dd5fc1702b8f9141",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f22d69a4b5bc3ad6f004feaf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "plus ultra",
+  "setter": "leemiho2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "11116ade-d65a-43af-bfad-27304abb445b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1271r13p1236r13p1187r13p1204r12p1104r15p1304r13p1354r13p1387r14p1155r12p1168r15p1284r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.42,
+  "ascensionist_count": 17,
+  "quality_average": 3.42,
+  "hold_fingerprint": "6633894a6b135d7a2e344c08d72f3437afc0e413d545b560995c956fec46b69c",
+  "validation_errors": []
+}

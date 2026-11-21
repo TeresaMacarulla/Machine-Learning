@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c4e758ff10794ebf24a3ab41.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Pop Fly",
+  "setter": "torc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "69f51101-74fe-46f1-a8c5-eb2940943214",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1176r12p1464r15p1459r15p1460r15p1085r15p1181r15p1210r13p1281r13p1284r13p1334r13p1144r12p1246r13p1387r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.83,
+  "ascensionist_count": 12,
+  "quality_average": 3.5,
+  "hold_fingerprint": "87ac6aa2017833066e44cb2be194369ca8ba5d656e211afa37c63043131b5d01",
+  "validation_errors": []
+}

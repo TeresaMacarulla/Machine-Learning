@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a85ca7abe62fd9b963ad82b0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Runaway train",
+  "setter": "isaacdon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "39DBC2C5F20448BEB7766BA9E9313A6C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1129r12p1182r12p1196r13p1252r13p1284r13p1306r13p1324r13p1394r14p1460r15p1530r15p1535r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c3dd507c39822f3ecf7c0321513f006a53fedee604a62b0ec913c71ef2ba98b0",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9cebd38a7d28f4287658715a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Toss n Cross",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "494ADB74892C441AA743490AD29C80BF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r12p1233r12p1306r13p1318r13p1350r13p1380r14p1470r15p1485r15p1538r15p1552r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.57,
+  "hold_fingerprint": "871832ddd829dc9425d6fb3bf032620c6f0e1f728794856b4fe54af762014451",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ce35a62ecba74e32c87af306.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Peppercorn Bing Bing",
+  "setter": "runclimbrepeat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "EE871B02C30E49B197BA446A6E455C88",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1098r15p1144r12p1163r12p1214r13p1234r13p1266r13p1302r13p1369r13p1387r14p1458r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 32,
+  "quality_average": 3.47,
+  "hold_fingerprint": "0aa4d9049043ad775d24897c792a4561db62e09231dafb3f616ca6233f507382",
+  "validation_errors": []
+}

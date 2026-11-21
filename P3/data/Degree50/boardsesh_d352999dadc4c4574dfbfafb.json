@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d352999dadc4c4574dfbfafb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "Cyberfunk",
+  "setter": "noahwheels",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "B020A92CF6004641A81244295AEC8D36",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r12p1307r13p1395r14p1542r12p1550r13p1560r15p1597r13",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 3,
+  "quality_average": 4.67,
+  "hold_fingerprint": "5e14802f277850dbd25541ff46f57f323a316af08a344c85f41f89fdad138d46",
+  "validation_errors": []
+}

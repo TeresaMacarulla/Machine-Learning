@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1be2084374bc47aab9e98c3e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Goobers",
+  "setter": "Riptile",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "107BF09272A540FD9E7D038D96C2D679",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1166r12p1173r15p1201r13p1238r13p1256r13p1274r13p1327r13p1342r13p1377r13p1391r14p1457r15p1478r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "edb4c333617f0af0657037443151dc89f209149017e1687f865084b9ed92d39d",
+  "validation_errors": []
+}

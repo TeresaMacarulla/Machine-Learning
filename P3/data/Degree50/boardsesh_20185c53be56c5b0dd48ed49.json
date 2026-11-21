@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_20185c53be56c5b0dd48ed49.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Kald",
+  "setter": "KassePerson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 9,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "a0f88487-df51-4294-a2f0-c4039d435fb1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1185r13p1201r13p1456r15p1078r15p1221r13p1289r13p1239r13p1471r15p1308r13p1359r13p1340r13p1173r15p1133r15p1276r13p1390r14p1387r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.71,
+  "ascensionist_count": 11,
+  "quality_average": 4.43,
+  "hold_fingerprint": "b8808d9b84f5e02e65530b869055037963379a5bd504c0c4f07962ed5316be85",
+  "validation_errors": []
+}

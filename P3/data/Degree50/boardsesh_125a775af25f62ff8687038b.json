@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_125a775af25f62ff8687038b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "pannenkoek",
+  "setter": "Mees",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "a5fd6b3f96ed43b69981f17cf1321ed8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1147r12p1152r15p1233r13p1247r13p1335r13p1352r13p1388r14p1454r15p1457r15p1502r15p1569r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3e65faad7d223d172ff86e00a45c693c975b5c7d4fa16956a3d903d7122948d1",
+  "validation_errors": []
+}

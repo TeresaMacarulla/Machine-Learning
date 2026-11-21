@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_125e10c2a55badcb6ab372ab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Smacktown",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "412E93D1267E4DCA83DB82CC4676856A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1165r12p1168r12p1253r13p1283r13p1323r13p1387r14p1534r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.06,
+  "ascensionist_count": 160,
+  "quality_average": 3.37,
+  "hold_fingerprint": "d66492058501af53ac5bd19f0a855d70d94d9b76b81f59fda4e9c827f32a9d14",
+  "validation_errors": []
+}

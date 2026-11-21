@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d30092d4ab7f1e8f63fce63a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Darwinian",
+  "setter": "adriankask",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "d5ef4a4fe8e9426b81b8438add1aa895",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1203r12p1250r12p1318r13p1332r13p1389r14p1507r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1e9cf6989a0d8155088cec37bb197fe3a94f96662cad93d6ee5b0b52e5dd9561",
+  "validation_errors": []
+}

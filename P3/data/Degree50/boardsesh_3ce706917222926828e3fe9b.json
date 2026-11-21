@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3ce706917222926828e3fe9b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "peachy sunrise",
+  "setter": "atari climbing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 10
+  },
+  "source": "boardsesh",
+  "source_uuid": "7223b51d-ad36-4452-afd0-08406363e00d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1196r12p1216r12p1254r13p1200r13p1456r15p1458r15p1271r13p1291r13p1156r15p1274r13p1536r15p1344r13p1554r15p1515r15p1518r15p1498r15p1152r15p1517r15p1394r14p1359r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.25,
+  "ascensionist_count": 5,
+  "quality_average": 3.0,
+  "hold_fingerprint": "890464b6a821e5c10caf69f9bda2e74543ecc72892e23f0cf062787a84e25e1f",
+  "validation_errors": []
+}

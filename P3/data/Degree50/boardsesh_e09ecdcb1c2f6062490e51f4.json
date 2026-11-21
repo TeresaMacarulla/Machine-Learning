@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e09ecdcb1c2f6062490e51f4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "zigzagz",
+  "setter": "PJP",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1D1478ACC2F64E04AD9CCBACE46D5063",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r12p1168r12p1187r13p1235r13p1253r13p1301r13p1356r13p1387r14p1450r15p1522r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.29,
+  "hold_fingerprint": "456814b88add85831aca2ed70e41966606ae1a7a655d25ff2dc9eeb0ef412d0a",
+  "validation_errors": []
+}

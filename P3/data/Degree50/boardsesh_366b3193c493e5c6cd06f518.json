@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_366b3193c493e5c6cd06f518.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Some top of the wall actions",
+  "setter": "Malinx_pro",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "fa9a536945a4441e990353fa671421c8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1187r12p1257r13p1281r15p1308r13p1339r13p1383r14p1385r13p1390r13p1452r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "9e092516eb5f801dca4430b4ed8729470613cf4fb7c717bdbc152c1a0a24877e",
+  "validation_errors": []
+}

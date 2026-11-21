@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8c5713d2332082a4c8eb5d7c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Mandatory Foothold Climb",
+  "setter": "planetboom",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "165A63C3462149FAA05BFCF4815AA767",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1144r12p1199r13p1208r15p1264r13p1292r14p1306r13p1318r13p1332r13p1338r13p1458r15p1459r15p1495r15p1512r13p1529r15p1535r15p1545r15p1553r15p1562r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6f4103f5fcff4d109d826a27f5030652f9918a22062127f8f3bde81d76dd3aaa",
+  "validation_errors": []
+}

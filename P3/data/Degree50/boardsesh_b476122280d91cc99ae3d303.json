@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b476122280d91cc99ae3d303.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Campus 720 \ud83d\udd04",
+  "setter": "robin_rg",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "32e465fa717149358e963a45c77b4b69",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1139r12p1186r12p1225r13p1274r13p1327r13p1380r14p1384r13p1387r13p1391r13p1394r13p1451r15p1482r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b66ca05ac2c07bba837e988dac44fd775ee222c0d1747d6f6b85ec8bbb3effad",
+  "validation_errors": []
+}

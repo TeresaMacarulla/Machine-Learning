@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9616e592ae31935edb4e0265.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Vision",
+  "setter": "dylan__le",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "ae0ba4dd7b334072a912d96e2a0ab59e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1119r12p1121r12p1185r13p1197r15p1218r13p1285r13p1357r13p1385r14p1449r15p1452r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "cf6277b1579e93341909331a1867b15f1afad2fce6cb9e21804b0c029d1c0ddc",
+  "validation_errors": []
+}

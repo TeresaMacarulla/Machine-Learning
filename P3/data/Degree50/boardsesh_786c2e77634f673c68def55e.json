@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_786c2e77634f673c68def55e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Open Elevator D00r",
+  "setter": "climbcentral",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "AAD94F7CF8B64B55BAA404F0AC1E67FD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1182r12p1184r12p1236r13p1266r13p1285r13p1315r13p1383r14p1455r15p1479r15p1529r15p1540r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d3c94a1b73e2b1c00651530a64b2093e9d0313cc50fd2c5eb8633fa2acd0d9b7",
+  "validation_errors": []
+}

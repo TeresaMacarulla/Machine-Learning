@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_586dac126207220add6877d4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Booty Call",
+  "setter": "madsrm",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "4104E64828D14F5E95950D1DF37CE7C1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1116r12p1168r13p1218r13p1255r13p1272r13p1326r13p1360r13p1395r14p1454r15p1471r15p1516r15p1517r15p1536r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "fea325b265c00161e226df85614db43c5da995e3a68b80f17518bad39050023c",
+  "validation_errors": []
+}

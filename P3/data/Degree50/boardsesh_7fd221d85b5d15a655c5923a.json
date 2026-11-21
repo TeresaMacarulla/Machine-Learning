@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7fd221d85b5d15a655c5923a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "offline",
+  "setter": "Aensen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "342D2AB6FFFD4FDB96EC93FB6553D513",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1185r13p1206r15p1253r13p1272r13p1339r13p1393r14p1453r15p1456r15p1470r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.57,
+  "hold_fingerprint": "e9fe7fd9fe4c09166f24ab0106ade10306f93fed2fa9463601ec6c60953e9c47",
+  "validation_errors": []
+}

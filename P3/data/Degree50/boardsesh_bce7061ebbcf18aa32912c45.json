@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bce7061ebbcf18aa32912c45.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "boulder problem 12",
+  "setter": "theomagas",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "206deffd765546518a954bfada9b15ee",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1102r12p1146r15p1166r12p1220r13p1268r13p1332r13p1387r14p1454r15p1530r15p1541r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f1214e50dd53aaf01f0834ec8b26b7b699c0c9f563be8c99ac00db5be19c1614",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_64b4e7f919ee1851de31cf0b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "EMERGENCY ROOM DIRECT",
+  "setter": "noahsends",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 0,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "0fd177715bee40a5a10d14631c12e2b7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1191r15p1224r12p1289r12p1392r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bc55e2e3621df0b2881eaaed4877347b38367bf66911aca5e10cf6aa033dd893",
+  "validation_errors": []
+}

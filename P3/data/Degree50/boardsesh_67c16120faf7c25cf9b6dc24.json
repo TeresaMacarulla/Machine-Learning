@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_67c16120faf7c25cf9b6dc24.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "TurboCopter",
+  "setter": "JoelHaefliger95",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "f280aaa9-3a6f-43c5-a849-8cbd5c4d2d96",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1187r12p1151r12p1255r13p1307r13p1471r15p1451r15p1508r15p1320r13p1523r15p1390r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.6,
+  "ascensionist_count": 8,
+  "quality_average": 2.8,
+  "hold_fingerprint": "cfb2801b5a8399b00b6479a8680f792bfed1b75d25547eb9995455a72fc01f04",
+  "validation_errors": []
+}

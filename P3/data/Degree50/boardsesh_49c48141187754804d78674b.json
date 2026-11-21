@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_49c48141187754804d78674b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "(\u2200\u03b5>0)(\u2203\u03b4>0):dX(x,p)<\u03b4 \u21d2dY(f(x),f(p))<\u03b5",
+  "setter": "tobiasiding",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "7E49E789AB724723A58AABAC6636CDD6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r15p1189r12p1207r12p1236r13p1264r13p1282r13p1307r15p1349r13p1387r14p1503r15p1513r15p1520r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 60,
+  "quality_average": 3.26,
+  "hold_fingerprint": "5833f204416aa7804267aae8bc45257fec54df727618f139f53e7581e7974de2",
+  "validation_errors": []
+}

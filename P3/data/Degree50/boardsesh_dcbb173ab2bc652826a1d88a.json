@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dcbb173ab2bc652826a1d88a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Baroque",
+  "setter": "Tobias_Scheuer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "f787d973693d4898896d6a883bbfb656",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1159r12p1197r12p1262r13p1330r13p1379r14p1477r15p1537r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "32c8e8f629608cd32813e9a831287588b954f2cfcc8759b2b8567988681dd80e",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6810d060a146f62e973b15c0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Tensi\u00f3 (only yellow holds as footholds)",
+  "setter": "wgc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "c6b30c2bd0944685b8278edbd730686d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1160r12p1230r13p1231r13p1252r13p1269r13p1307r13p1324r13p1374r13p1388r14p1467r15p1475r15p1477r15p1487r15p1508r15p1535r15p1578r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "3b131a4bf86119fd0f3c1dbf04976712b3f51a20c7477c3f82d60b1d82b3a813",
+  "validation_errors": []
+}

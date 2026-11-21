@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2f3186e828c52cc27997d1e0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Get to the Topper",
+  "setter": "castleclimber",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "D012B4351F814D7589940DEDAB590382",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1165r12p1168r12p1203r13p1273r13p1286r13p1322r13p1339r13p1375r13p1393r14p1452r15p1456r15p1535r15p1543r13p1554r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "75ae8517ea8d0bd8863a96f302c73d389ce559d3cfb3bf102de842f590227942",
+  "validation_errors": []
+}

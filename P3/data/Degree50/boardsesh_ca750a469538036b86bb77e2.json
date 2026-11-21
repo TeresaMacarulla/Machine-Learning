@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ca750a469538036b86bb77e2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "6A+ physique",
+  "setter": "benoitdeydey",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "67B6578F44324E708FC4174F28880650",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1163r15p1202r12p1234r13p1288r13p1301r13p1353r13p1383r14p1385r13p1452r15p1487r15p1523r12",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.5,
+  "ascensionist_count": 3,
+  "quality_average": 4.5,
+  "hold_fingerprint": "027177ee969f372a89e7c23abbed4ab88edd1d8e9929586a7601da15323da096",
+  "validation_errors": []
+}

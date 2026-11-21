@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cd1084e37b03f2ec18617e6a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Toss me a towel",
+  "setter": "Xerat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "90896b599e584d218aa7f44db7c0b562",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1192r12p1198r15p1243r13p1294r13p1347r13p1383r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 58,
+  "quality_average": 3.29,
+  "hold_fingerprint": "5356928b8947acf497efca529e9cf88a2ff8db7beb1cfa5d240589eae6f325a6",
+  "validation_errors": []
+}

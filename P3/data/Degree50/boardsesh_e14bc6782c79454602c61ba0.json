@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e14bc6782c79454602c61ba0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Crimp university",
+  "setter": "leemiho",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6330FB08837541868AC313CBD527BB0F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1161r15p1166r12p1181r12p1230r13p1250r13p1299r13p1319r13p1355r13p1386r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 2.75,
+  "hold_fingerprint": "829d2e7735d01a629b7e22845c8d6af647201e32b38596346af018223197636e",
+  "validation_errors": []
+}

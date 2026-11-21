@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e0f0962b9d6418d90f083348.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "hopper remake",
+  "setter": "rickshore",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 2,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1E28F8A5D79F497CA1CA87459EF21A07",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1131r15p1170r12p1218r13p1273r13p1305r14p1306r14p1447r15p1451r15p1469r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 2.0,
+  "hold_fingerprint": "055e63866139bf0e5496ad124834cba2e9466c1ab9aec17a157d9bf10207a11f",
+  "validation_errors": []
+}

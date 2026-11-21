@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d96c3745d90b9e218182cb5c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "JW 1 Lite",
+  "setter": "jchongsends",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C8FBDE269339496C97458B9B19C65A62",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1143r12p1169r13p1195r12p1200r13p1237r13p1289r13p1324r13p1354r14p1451r15p1460r15p1499r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "bee3521016693c78bb473baf8cea063c201216c9576eaaf1f460ea41651bf9c6",
+  "validation_errors": []
+}

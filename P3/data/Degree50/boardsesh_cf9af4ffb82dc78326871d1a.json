@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cf9af4ffb82dc78326871d1a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "count up",
+  "setter": "Actuator",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "EFA0D126894A497E8123EECE10CBB9D9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1212r15p1245r12p1263r13p1269r13p1336r13p1390r14p1501r15p1519r15p1532r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "80b41ddeaf457043132a148749f7b9f47240b78e3dbb030ad08004e188be9683",
+  "validation_errors": []
+}

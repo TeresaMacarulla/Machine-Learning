@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c0f5da3c5931d529b763dc12.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Chunky",
+  "setter": "Adampling",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "C0923F47A77A4F5DA34DEFAECBE17DDC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1128r12p1228r13p1239r15p1254r13p1268r13p1291r13p1357r13p1386r14p1483r15p1516r15p1521r13p1526r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bc4560a5f02781808657d1e6efe215358c8cc2ab3f0478dbb9b174515d552ec9",
+  "validation_errors": []
+}

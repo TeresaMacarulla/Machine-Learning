@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dfa0d9209f22b55c91616db0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Neuron Activation",
+  "setter": "FlexOnTheFlux",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "72079ba0398543fcabadd070f8608e0a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r15p1217r15p1224r12p1241r12p1280r13p1300r13p1302r13p1306r13p1347r13p1379r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "66a9a2ac89c3072d644923e4b5e254e4508471ec8642f3547c75e8adbe9b6472",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d375d28dcd1dc3110681c033.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "low go",
+  "setter": "AndyY",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "6D26E430216B422A9028657E51FC98B7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1134r12p1184r13p1214r13p1266r13p1301r13p1372r14p1453r15p1455r15p1477r15p1479r15p1493r15p1511r15p1577r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 11,
+  "quality_average": 2.64,
+  "hold_fingerprint": "2ef9f33287d4e2e4a5bc78d5940ac4b7ad5bd0bba919144ee6dbfb9721e968a5",
+  "validation_errors": []
+}

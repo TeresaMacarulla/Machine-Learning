@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ac3726925ff6b73cb56b8a55.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "extended tension 1",
+  "setter": "spinit",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8812AAE8113A40509856092154FA0918",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1160r12p1180r13p1214r13p1218r13p1267r13p1300r14p1464r15p1488r15p1506r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d8292a8b252b5f7dcc7b8aaa7dd190d5c2d666f1667d97a6ab239759dc6a2438",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_47f456595fea6ca75f8cba1b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "mog bait",
+  "setter": "luke.climbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "646D40D5305E4099926FD72CC830C9D5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r12p1270r13p1293r13p1369r14p1372r13p1447r15p1516r15p1527r12",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 12,
+  "quality_average": 4.5,
+  "hold_fingerprint": "958b8a12d6da55291e58f864f4757af30420e01f28b58b6e53eb678e5d7a3df6",
+  "validation_errors": []
+}

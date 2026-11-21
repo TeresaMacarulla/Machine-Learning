@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1b4622d752cc3c8aeab739e4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Punish OrderFollower",
+  "setter": "itzanarchy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "ae6eba71dedc4242b34d3f56edce4855",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1230r12p1269r12p1283r13p1321r13p1371r14p1488r15p1521r15p1540r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "5661f8b53ebb0348119cd32785c21d9c4d8cc2bf5318b887f51c08d137596296",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_24d475c470d93a6b27ac9d4f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "StateOfEmergency",
+  "setter": "cliff_shredder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B7BBA51E467240E2BEEF74DF7F1C04BC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1169r12p1254r13p1283r13p1314r13p1318r13p1382r14p1472r15p1490r15p1504r15p1530r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.01,
+  "ascensionist_count": 271,
+  "quality_average": 3.31,
+  "hold_fingerprint": "23338e784854e410ae15a931bd4830d3374ee9b25f223581cb406d2ace6139e0",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_165ebb453d9860a6eebe5a4e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Cop That",
+  "setter": "importedbean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2E4F7E7BD6A74EB68BD4FE6E2CEA68CE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1231r13p1287r13p1334r13p1389r14p1467r15p1506r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.43,
+  "ascensionist_count": 7,
+  "quality_average": 3.57,
+  "hold_fingerprint": "58989681fc556b641a08281c4cc6bf0eb4755b1acc33b248c0d8d90683a3e6da",
+  "validation_errors": []
+}

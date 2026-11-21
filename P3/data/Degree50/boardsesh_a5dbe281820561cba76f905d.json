@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a5dbe281820561cba76f905d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "ander the pinch",
+  "setter": "amitaidemayo5",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "46c311a48b11428cb0417e8c8c1cb0b2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1164r13p1189r12p1201r12p1228r13p1283r13p1298r13p1352r13p1387r14p1457r15p1459r15p1476r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.93,
+  "ascensionist_count": 106,
+  "quality_average": 3.36,
+  "hold_fingerprint": "ed7ac4f0a0c5da9c0a27631d915bff716b131c84a1cb176b16c1fb3aaca61499",
+  "validation_errors": []
+}

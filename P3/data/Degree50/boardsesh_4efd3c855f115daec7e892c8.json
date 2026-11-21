@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4efd3c855f115daec7e892c8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Retract",
+  "setter": "ericxu721",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "6b659889-9dab-46bb-b538-85e8669f7b19",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1247r12p1331r13p1302r13p1353r14p1142r15p1468r15p1523r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.75,
+  "ascensionist_count": 8,
+  "quality_average": 3.25,
+  "hold_fingerprint": "473564fb2003ac5379625acbdc0c0dc978a9a43531b90e21629abb9b629375d7",
+  "validation_errors": []
+}

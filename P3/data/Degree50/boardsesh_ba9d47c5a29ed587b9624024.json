@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ba9d47c5a29ed587b9624024.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "V10 for under five foot",
+  "setter": "peakteamipad",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "701DC5C28B1E4C02A314314BED629A49",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1142r12p1177r13p1197r15p1231r13p1235r13p1286r13p1290r13p1341r13p1344r13p1395r14p1465r15p1483r15p1484r12p1504r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 3,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2e050cf834675997b5aff97d8e03962874cab8397f7529860b49890829083754",
+  "validation_errors": []
+}

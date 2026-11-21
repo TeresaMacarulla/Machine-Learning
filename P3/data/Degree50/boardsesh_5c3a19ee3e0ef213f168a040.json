@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5c3a19ee3e0ef213f168a040.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "pikadegen",
+  "setter": "sognekraft",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A687A29C331849DE910012D7304E82D8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1167r12p1253r13p1291r13p1325r13p1360r13p1389r14p1456r15p1536r15p1554r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "10597afcdb76daa862250b7caaec8ceba312762a5dd0c4c848e8b02d0231b6a3",
+  "validation_errors": []
+}

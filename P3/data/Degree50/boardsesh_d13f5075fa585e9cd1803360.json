@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d13f5075fa585e9cd1803360.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Fly Boy 1",
+  "setter": "turnerFam6",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "7B9FA53809AD4ECDBEB9849F860D0887",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1098r15p1117r15p1130r15p1163r12p1182r12p1212r15p1215r15p1231r13p1237r15p1251r13p1300r13p1337r13p1368r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "94a0ed7e852d3b03ca8dc3d1bfd2a7bd50351b49eaa9901da56288afbfde71b0",
+  "validation_errors": []
+}

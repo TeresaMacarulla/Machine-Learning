@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b90e6c2c80689cc27b6f6c4e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "360 unicorn",
+  "setter": "coverdalien",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "a4d98e03-78fd-484c-9b3d-3b394b918660",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1225r12p1157r15p1154r15p1239r12p1308r13p1326r13p1343r13p1378r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 24,
+  "quality_average": null,
+  "hold_fingerprint": "c99a4bce6124c9d1205879994d892f9a4c55ccb38cb1d23345c4b523c8b874fe",
+  "validation_errors": []
+}

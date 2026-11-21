@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ff6030b0f44ab023c7851512.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "For D.",
+  "setter": "mlr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "74763688140A4DBA8DEA27D55EB19E55",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1179r12p1230r13p1250r13p1257r15p1301r13p1340r13p1356r13p1394r14p1459r15p1462r15p1503r15p1521r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "cad8d5779168d7b9e5fbba38fe261f29f026af8b16c209c9b9f8b0e07d3a1c2a",
+  "validation_errors": []
+}

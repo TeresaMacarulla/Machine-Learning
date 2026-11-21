@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9c17aaef926b87cc37b88153.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Tension I",
+  "setter": "alex22",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "B9C57DAE2BD14E7A88B115BD8AFF44D7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1083r15p1132r12p1153r15p1198r12p1236r13p1245r15p1284r13p1300r13p1331r13p1384r14p1504r15p1522r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "fc8c1812484d509279755cc072c3d4b4bdf06e1b74c00ce08677097ab5a7b3ef",
+  "validation_errors": []
+}

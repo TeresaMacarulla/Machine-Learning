@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a4cee01beaa5eb3dc64ce292.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Boulder A+",
+  "setter": "StijnvU",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7DC5C219D9CB41CCB0A3302165033838",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r12p1171r12p1240r13p1252r13p1321r13p1351r13p1366r13p1379r14p1450r15p1453r15p1505r15p1555r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.91,
+  "ascensionist_count": 7218,
+  "quality_average": 3.3101914539400665,
+  "hold_fingerprint": "b88b615805bf62a4fda19c884c8416aaa84ff92f59b4cdaa587e392b547c7ea4",
+  "validation_errors": []
+}

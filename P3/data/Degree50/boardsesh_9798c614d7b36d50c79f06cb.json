@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9798c614d7b36d50c79f06cb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "bounce core",
+  "setter": "bkozina",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "831AB3AD1D784407A6239C77E0B2A05E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1195r12p1267r13p1334r13p1388r14p1459r15p1466r15p1539r15p1561r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "1d4980a56d53162b971207651c9412de67b78abca097c169b00c259b8bf6c9dd",
+  "validation_errors": []
+}

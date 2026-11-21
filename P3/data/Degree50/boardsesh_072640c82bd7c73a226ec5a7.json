@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_072640c82bd7c73a226ec5a7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "is this something?",
+  "setter": "chriiss",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "35F29D594ED04AE9BCD31B89452029AA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r15p1230r12p1234r12p1302r13p1340r13p1391r13p1394r14p1541r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "7660db552a6ffa0ffb972f4e57691f2fbff814fe31f2472f275991200b447b1d",
+  "validation_errors": []
+}

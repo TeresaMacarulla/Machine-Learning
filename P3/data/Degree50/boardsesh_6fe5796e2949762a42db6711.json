@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6fe5796e2949762a42db6711.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Take Off",
+  "setter": "urbanclimbingireland",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "3620B43BDB714888BA4B0A23D1404F0E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1118r12p1137r12p1203r13p1273r13p1339r13p1394r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.5,
+  "ascensionist_count": 3,
+  "quality_average": 2.5,
+  "hold_fingerprint": "f3c886217131efdfd7a0a457bb5ecd7ffa1bf72344a6bef361868914573d0449",
+  "validation_errors": []
+}

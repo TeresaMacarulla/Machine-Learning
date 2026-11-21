@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4d104d5ee3f71efeea092149.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Beefeater",
+  "setter": "juligris",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "0948a33a7298405a9d90641632fe826d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1143r12p1177r12p1212r13p1227r13p1263r13p1295r13p1333r13p1385r13p1389r14p1460r15p1463r15p1483r15p1501r15p1519r15p1579r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 2.0,
+  "hold_fingerprint": "167f4eb8a60be04ec586e385b9248a397b25e6ee9fe5a408cbb1111f7c3bef2d",
+  "validation_errors": []
+}

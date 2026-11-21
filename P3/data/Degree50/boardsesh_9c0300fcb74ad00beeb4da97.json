@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9c0300fcb74ad00beeb4da97.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Fire exit",
+  "setter": "bendelamotte",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "de8b1b1f-55de-4e0b-9d3e-da04ad88b665",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1236r13p1304r13p1453r15p1499r15p1523r15p1334r13p1508r15p1333r13p1380r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "d8abdc93cc3620b6c5b9af3a33dfad081a6f110b1fcc46ae397e93e955183aab",
+  "validation_errors": []
+}

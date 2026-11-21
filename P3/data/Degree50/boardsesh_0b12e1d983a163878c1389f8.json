@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0b12e1d983a163878c1389f8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "comPlaning",
+  "setter": "nickhealey",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "506A4E94BF844D769890CAC74500BB6D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1214r13p1266r13p1304r13p1319r13p1356r13p1389r14p1459r15p1534r15p1599r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "2b3c09aaf102aa8bc7df5c10f8fdd36d763e6e338ff72a63740c7ad97fd9a786",
+  "validation_errors": []
+}

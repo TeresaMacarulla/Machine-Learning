@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_78821380cf2a5fe02859a81f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Start and middle are hands only1",
+  "setter": "teregen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 11,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "A244A52735ED43B2AABB8ACABA4D93C6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r12p1127r12p1175r13p1210r13p1228r13p1265r13p1279r13p1304r13p1314r13p1318r13p1323r13p1334r13p1371r13p1393r14p1461r15p1465r15p1485r15p1502r15p1522r15p1529r15p1532r15p1543r15p1563r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "00a7bf75482ea1779b8047fa9a09753b8daff2a9d2dade1e73380d9c6e4e0072",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_af2c336ba94a6b37dd586e88.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "no days off",
+  "setter": "jcoup",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "3E42913F4F6A4E6C8D661A14E9A223CD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r12p1227r12p1270r15p1281r13p1314r13p1318r13p1369r13p1385r14p1501r15p1504r15p1529r15p1537r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "cb4a2d47e378d7186b683c5cf43e6483ea37b9a0fade5a1fa721cd3b9fcd6966",
+  "validation_errors": []
+}

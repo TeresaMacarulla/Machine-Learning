@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3e296d27faa9fb7255d698aa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Don't sell",
+  "setter": "adriankask",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "9182955b6f6d499e9c44266d25dfd6bb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1237r12p1256r12p1292r13p1308r13p1375r13p1393r14p1489r15p1506r15p1535r15p1544r15p1545r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e391dd45e6ab69bf6cb5f3f67d5a3892143e1b078ef12a7cc4d26c752d84c6d4",
+  "validation_errors": []
+}

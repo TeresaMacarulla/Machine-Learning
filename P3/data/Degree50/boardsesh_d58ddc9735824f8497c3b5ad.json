@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d58ddc9735824f8497c3b5ad.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "cochon peureux ",
+  "setter": "guillaumeboss",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5333781f-69b1-453f-a28a-e4748821b111",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1177r13p1143r12p1211r13p1245r13p1264r13p1464r15p1523r15p1279r13p1336r13p1570r15p1389r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "a3106e3eba42ca041c7ba6749e32e4319e1cfa3a399c0f4d391b18c8128bfbf6",
+  "validation_errors": []
+}

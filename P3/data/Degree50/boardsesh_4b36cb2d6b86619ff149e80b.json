@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4b36cb2d6b86619ff149e80b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Misstol 1",
+  "setter": "gasgiant2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "3a1fe5cf-d5e5-418f-b4fd-e23e7824545b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1167r12p1185r13p1217r13p1268r13p1315r13p1386r14p1506r15p1264r13p1505r15p1454r15p1538r15p1131r15p1152r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "fcb5399035bee4b9ef7fa7ab1ec8254c512d55fc39717d482008cb779d7185ec",
+  "validation_errors": []
+}

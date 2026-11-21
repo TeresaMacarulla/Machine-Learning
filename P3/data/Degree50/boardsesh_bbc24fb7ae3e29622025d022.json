@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bbc24fb7ae3e29622025d022.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "badday",
+  "setter": "vegardorvold",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "807FF2E76A484035B3296B9978845624",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1164r12p1249r13p1296r13p1334r13p1387r14p1456r15p1460r15p1506r15p1519r15p1546r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5d7a41daa0e1b67e99c50633a87213b78f8611fd908de65bfbb79dd6baff6109",
+  "validation_errors": []
+}

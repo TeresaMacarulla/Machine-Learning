@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1485cb71ecd17fdb875ac3de.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "Carbonated Shower",
+  "setter": "NoahWheels",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2ebc8c72-b540-4c3c-8d3d-6799c7c63761",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1197r12p1469r15p1253r13p1543r13p1517r15p1355r13p1366r13p1381r14",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "a80664aa51a4a68d0bd4d130ac60da3c6def8267eeabcca9abb322ae6c8eadbc",
+  "validation_errors": []
+}

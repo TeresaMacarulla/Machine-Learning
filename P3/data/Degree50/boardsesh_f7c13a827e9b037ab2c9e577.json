@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f7c13a827e9b037ab2c9e577.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "Bapst from the Past",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "AF583440C50E4617AFA7C2BD54AE2E3A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1160r12p1186r13p1216r13p1317r13p1348r13p1379r14p1483r15p1498r15p1523r13p1543r13",
+  "display_difficulty": 30.0,
+  "difficulty_average": 29.97,
+  "ascensionist_count": 145,
+  "quality_average": 3.37,
+  "hold_fingerprint": "174d866abf0d0010e49a22dd748b99820abebccc03f9bf0246e772773e258002",
+  "validation_errors": []
+}

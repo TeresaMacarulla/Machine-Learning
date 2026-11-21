@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7c6d98ec29d2a454f06084a8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Ankle Trick",
+  "setter": "romanhoe",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "e2555619-76f2-4d92-b1d6-295a683f266a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1210r12p1143r12p1467r15p1249r13p1227r13p1236r15p1192r15p1485r15p1316r13p1513r15p1336r13p1371r13p1391r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 6,
+  "quality_average": 4.5,
+  "hold_fingerprint": "62e7fdadfd6d98c7e932dc7bc36d74ed231b189633865dbbc9b1ee213a426b73",
+  "validation_errors": []
+}

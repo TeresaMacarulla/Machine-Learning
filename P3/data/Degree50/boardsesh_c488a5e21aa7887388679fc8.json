@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c488a5e21aa7887388679fc8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Cam Puss",
+  "setter": "fndy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0f65106c-fa77-4f73-9cd5-d3923eeecc41",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1257r13p1270r13p1498r15p1353r13p1382r14p1334r13p1312r15p1190r12p1155r12p1073r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.14,
+  "ascensionist_count": 79,
+  "quality_average": 4.210126582278481,
+  "hold_fingerprint": "48c876d67da742193e42317a28ef3e826c2975f35cfd82353006b85a69a104be",
+  "validation_errors": []
+}

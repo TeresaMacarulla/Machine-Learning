@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c6eecd10e05aa9beee5ddae4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Just Do Eat",
+  "setter": "NateT1302",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "CB542DCB951E4D87A350B7690B16C204",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1144r12p1163r12p1214r13p1250r13p1272r13p1284r13p1340r13p1391r14p1496r15p1525r15p1560r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 333,
+  "quality_average": 3.34,
+  "hold_fingerprint": "c13c2498cb7693ab0f3476cd96143e5b564942c19f62379973aa028be92f6e4b",
+  "validation_errors": []
+}

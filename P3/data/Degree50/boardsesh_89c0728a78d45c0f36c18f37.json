@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_89c0728a78d45c0f36c18f37.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Compass",
+  "setter": "SaxonCasi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "585e55a6fbd14cfd9f31d5d3ada6acb8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1170r15p1268r12p1292r12p1340r13p1372r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.94,
+  "ascensionist_count": 17,
+  "quality_average": 2.25,
+  "hold_fingerprint": "3751dbd52e590ebe4ee9854ad018acf65929bb88569c8a5ee980e0c151e32d2c",
+  "validation_errors": []
+}

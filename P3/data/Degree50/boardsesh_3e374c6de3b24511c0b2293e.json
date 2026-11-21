@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3e374c6de3b24511c0b2293e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Red pill",
+  "setter": "karlkeigo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "62cf7c2653124ffc8b8f83ba21c823ae",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r12p1188r12p1283r13p1287r13p1368r13p1382r14p1384r14p1470r15p1472r15p1506r15p1549r15p1583r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "f508bfd29820e8a872d1431ba60b1281eaf1a66e457f8d083881cba391288ce9",
+  "validation_errors": []
+}

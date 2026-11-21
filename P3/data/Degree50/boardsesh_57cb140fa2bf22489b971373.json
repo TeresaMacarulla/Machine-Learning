@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_57cb140fa2bf22489b971373.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Hostile Chimpanzee",
+  "setter": "BigMatt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "45b37321432646969d0cadbf2a598815",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1133r15p1137r12p1169r12p1239r13p1270r13p1317r13p1322r13p1352r13p1383r14p1506r15p1532r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.9100000000000006,
+  "hold_fingerprint": "c7a8bb2daa342671bfcb675f9472b6ca52aabbee3adc27a24125ed0364afa3e3",
+  "validation_errors": []
+}

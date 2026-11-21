@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fc0e4cee0b0ffdecc1a6ec8b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "zulu",
+  "setter": "benmclayton",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "9f7b3107-558a-47de-810e-817757bfe818",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1257r12p1259r12p1307r13p1270r13p1200r15p1302r13p1389r14p1385r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.14,
+  "ascensionist_count": 9,
+  "quality_average": 3.71,
+  "hold_fingerprint": "286e81c69ec98fb6dc240cb14f862db7b509bc06258bd73c31a119414ab8054d",
+  "validation_errors": []
+}

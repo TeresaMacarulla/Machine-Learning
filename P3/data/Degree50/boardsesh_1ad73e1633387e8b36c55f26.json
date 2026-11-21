@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1ad73e1633387e8b36c55f26.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Bananenkoekje",
+  "setter": "santobekking",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FE962B55322E46A9BED29D26752F0DE0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1139r12p1154r12p1183r15p1219r15p1241r13p1270r13p1289r13p1302r13p1383r14p1385r13p1447r15p1450r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "551fbb3c52179cb914c57052746d63b89684cdcf5b8b6a9021be7489ee90c610",
+  "validation_errors": []
+}

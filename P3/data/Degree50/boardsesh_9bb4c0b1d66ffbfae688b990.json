@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9bb4c0b1d66ffbfae688b990.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Hypnosis",
+  "setter": "Eliasdem",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "FA2F4567A170482B8949F51B037C1665",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1203r12p1250r13p1268r13p1273r15p1322r13p1334r13p1371r13p1392r14p1506r12",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c0cb40d55a7068f1273ef93babf59d506315bb036f1cc275fc7abbcadfae77d8",
+  "validation_errors": []
+}

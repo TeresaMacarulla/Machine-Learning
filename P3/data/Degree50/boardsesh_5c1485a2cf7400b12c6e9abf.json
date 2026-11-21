@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5c1485a2cf7400b12c6e9abf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "50 is nifty",
+  "setter": "joshuaandress",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "e8a1c48ea76042508590afebb882eeb6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1154r15p1187r12p1191r15p1219r15p1234r13p1236r12p1300r13p1316r13p1387r14p1521r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.13,
+  "ascensionist_count": 8,
+  "quality_average": 3.75,
+  "hold_fingerprint": "0bd5ccc0710e4f8236a6a20464e1cbb863d51bcf77acd0788e202f0ab5a0f2e9",
+  "validation_errors": []
+}

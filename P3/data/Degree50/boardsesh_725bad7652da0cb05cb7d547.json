@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_725bad7652da0cb05cb7d547.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "large static or small dyno",
+  "setter": "Laytonpal123",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "2B15C03CA19C4DE0AD280D6B692323FC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1075r15p1103r15p1106r15p1154r12p1157r12p1257r13p1359r14p1447r15p1450r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "7f8dc3f88e972a1bc1813eed7a5b565eb451109d8f0e217b29cfbcb55aa94312",
+  "validation_errors": []
+}

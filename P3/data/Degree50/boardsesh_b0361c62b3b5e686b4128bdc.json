@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b0361c62b3b5e686b4128bdc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Future blind",
+  "setter": "gypsyclimber",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7B493EDDAC6C4ED1AA06FA6074134502",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1167r12p1236r13p1256r13p1308r13p1376r13p1390r14p1455r15p1480r15p1508r15p1536r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.67,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "0f04e7b1222342536406f2e32348910b16a0fae565fd594500d20be606979d77",
+  "validation_errors": []
+}

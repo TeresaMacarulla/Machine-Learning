@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f01f3bcfe32651887ac792a0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Spring Vibes",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9C9D9E65FB22439C8C2B465A4ABB4C6B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r12p1204r12p1230r13p1233r13p1298r13p1369r13p1371r13p1392r14p1480r15p1489r15p1503r15p1580r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.04,
+  "ascensionist_count": 54,
+  "quality_average": 3.44,
+  "hold_fingerprint": "4a2cb6bcd594a728d4c1ddf3800ea5b44c52465ce8c125385e4bdf1f330cc384",
+  "validation_errors": []
+}

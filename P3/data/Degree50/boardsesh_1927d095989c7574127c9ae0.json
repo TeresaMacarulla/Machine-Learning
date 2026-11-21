@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1927d095989c7574127c9ae0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "M\u2019s on the heel",
+  "setter": "pmctague",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E3F9259E391A41078CF843EC13CD29ED",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r15p1101r12p1154r13p1157r12p1169r13p1223r13p1233r15p1270r13p1291r13p1353r14p1357r13p1515r15p1533r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.67,
+  "hold_fingerprint": "22bed01706a697981ceae939c9c565d6cd989ac46b1aa151ccb99998e30c228a",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_01c1992d073c2d3ab7ab7d94.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "fly me to the neptune",
+  "setter": "im.nobody",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8A6567DA62394D8CAE902DD08B02BEF3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r12p1125r12p1176r13p1199r15p1228r13p1250r13p1336r13p1389r13p1392r14p1464r15p1511r15p1539r13",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.93,
+  "ascensionist_count": 15,
+  "quality_average": 3.47,
+  "hold_fingerprint": "7f999c60daa3beb49486507af1df2d166cdcbe3cee9b3462e3ff311816c39ba0",
+  "validation_errors": []
+}

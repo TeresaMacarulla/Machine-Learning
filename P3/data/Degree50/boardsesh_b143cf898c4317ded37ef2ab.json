@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b143cf898c4317ded37ef2ab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "venom",
+  "setter": "space_aperols",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "F64046483085417EAF75048D5DDAA8EA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1166r12p1283r13p1338r13p1385r14p1479r15p1508r15p1542r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "4ac8b4527d69d586f18a3f260e874e540c67bd82f4dadbf64f91fd4b1962ab15",
+  "validation_errors": []
+}

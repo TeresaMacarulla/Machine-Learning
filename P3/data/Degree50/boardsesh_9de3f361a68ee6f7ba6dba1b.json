@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9de3f361a68ee6f7ba6dba1b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "walking around with no feet",
+  "setter": "Albinoso",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "39AB51F521AE4BC2950F0508A0BA369D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1201r13p1214r13p1247r13p1279r13p1351r13p1387r14p1459r15p1479r15p1501r15p1560r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "187f34386fba108c4af6ed9284abe1d5a107c5bf248825358aaf1bc0e11f7899",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3595a96f15f4a20bf8d8c072.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Ming 50.0",
+  "setter": "bjhestet",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "AE079B53C40A4358B8B54B8D2DBB9B12",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1130r15p1163r12p1178r12p1219r15p1231r13p1267r13p1302r13p1355r13p1388r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 14,
+  "quality_average": 3.86,
+  "hold_fingerprint": "359973505c9c5b200f9aae878381a3e2dff08e9f1ca95b837c0305df73e0882e",
+  "validation_errors": []
+}

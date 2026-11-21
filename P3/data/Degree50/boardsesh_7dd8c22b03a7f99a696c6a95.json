@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7dd8c22b03a7f99a696c6a95.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "SWING THE LADDER",
+  "setter": "BAD.BRUSH.CLIMBS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "a12964a5-00ad-4855-b0a7-00ab6a9abf46",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1308r13p1259r15p1395r14p1157r12p1121r12p1204r13p1257r13p1447r15p1359r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.75,
+  "ascensionist_count": 9,
+  "quality_average": 2.0,
+  "hold_fingerprint": "bfb7846cc5d9ad9dd040f9f36ecf5b69222389bdc0dd2e7a6a76e13f4b8f9ac6",
+  "validation_errors": []
+}

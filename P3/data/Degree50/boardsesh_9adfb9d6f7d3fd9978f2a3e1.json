@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9adfb9d6f7d3fd9978f2a3e1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "contorting corners",
+  "setter": "KaneZ1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7fd42049-3c27-466f-a2ed-4a5c546b4918",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r12p1097r12p1462r15p1464r15p1178r13p1262r13p1316r13p1389r14p1588r15p1367r13p1375r14p1179r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": null,
+  "hold_fingerprint": "ca2d94d565d0792bba891625c7e231b528ded54af0c077dcde660e911cf0bdb9",
+  "validation_errors": []
+}

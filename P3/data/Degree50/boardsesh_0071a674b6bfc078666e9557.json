@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0071a674b6bfc078666e9557.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "getting under it",
+  "setter": "Bennet",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "eaff973f-4f4d-4579-9322-d87e961ab724",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r15p1275r13p1274r12p1270r12p1327r13p1518r15p1340r13p1347r13p1331r13p1385r13p1389r13p1379r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "18a6de5d68d9ac9af445bdbaa666018b950a0bd8d1d2691518fcd95a2faa0e06",
+  "validation_errors": []
+}

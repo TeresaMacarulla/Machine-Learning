@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d5de87133a54158d51af3f20.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "La Collante",
+  "setter": "pumpfriction",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "67e8915a4a164a5d8b1f5262f1bf76af",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1147r12p1186r12p1216r13p1286r13p1287r13p1336r13p1384r14p1489r15p1534r15p1543r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "47e16c8292bf65f4062d0d43625cfdb408f1d946f653b86f0c963234374402be",
+  "validation_errors": []
+}

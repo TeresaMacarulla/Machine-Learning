@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1665e01bf56258d09ff33eb4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Rushed",
+  "setter": "scurville",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "20E7250173F74805B13077415BC425C7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1150r15p1184r12p1203r12p1256r13p1286r13p1321r13p1357r13p1387r14p1517r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2de6f194ecbbaf3eb8d555ff2b1ade90a007111dca8e2fb0a63ce6b7900b2187",
+  "validation_errors": []
+}

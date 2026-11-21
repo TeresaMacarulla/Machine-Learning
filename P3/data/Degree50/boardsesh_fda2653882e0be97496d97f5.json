@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fda2653882e0be97496d97f5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Scandalous Scapula",
+  "setter": "milomergler",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "73232370E0E949D59FF08F5C619177BC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1097r15p1144r12p1157r15p1163r12p1186r13p1198r13p1234r13p1257r13p1305r13p1359r13p1389r14p1394r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c094da493ddb66a718726623dac4c4ec696e97ee3e174ebafffb6791fe4c2072",
+  "validation_errors": []
+}

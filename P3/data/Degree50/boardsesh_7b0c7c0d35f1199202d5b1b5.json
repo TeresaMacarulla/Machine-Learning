@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b0c7c0d35f1199202d5b1b5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "geisha",
+  "setter": "satoshi______",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8AAF7D01EE1540858D010B794887C1CA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1149r12p1198r13p1233r13p1250r13p1288r13p1339r13p1391r14p1496r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "fc07f451f43dcc7433679351cf5ab449aa8e2266ce281fe6109336ad364df179",
+  "validation_errors": []
+}

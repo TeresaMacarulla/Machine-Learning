@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6d3dabd96e643bb8917554b5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Big-Mack",
+  "setter": "olak",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "019232217D09468C927C1EBE3B654014",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1175r12p1227r13p1264r13p1283r15p1300r15p1302r13p1324r13p1390r14p1464r15p1512r15p1579r13p1597r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "cbcce54c1072039711c2aacc408118b7fd08ccbc0e6a8ce2e67076efa0b7ec46",
+  "validation_errors": []
+}

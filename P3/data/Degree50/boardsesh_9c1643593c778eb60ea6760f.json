@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9c1643593c778eb60ea6760f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Sobaco anraku",
+  "setter": "ronny.esc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "ebff7ccb-6879-44da-90c5-6cffcb17b9da",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1173r12p1273r13p1271r13p1357r13p1351r13p1365r13p1379r14p1482r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "087d5e90209fcd40af414c558f0d6d1ce461a94c0284cb29b758748daf16b098",
+  "validation_errors": []
+}

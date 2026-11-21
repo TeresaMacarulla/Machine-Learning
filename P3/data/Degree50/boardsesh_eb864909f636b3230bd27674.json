@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eb864909f636b3230bd27674.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Don't chuff",
+  "setter": "CampusBeta",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "007cdac810ff4df78bcf8dc6218587f3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1164r15p1187r12p1196r15p1252r13p1307r13p1373r13p1383r14p1388r13p1472r15p1527r15p1566r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.33,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "4e6038db72ea1fc8e64a6483500c9d0dc20f3b139a121e8d7268d9a0fde9e31b",
+  "validation_errors": []
+}

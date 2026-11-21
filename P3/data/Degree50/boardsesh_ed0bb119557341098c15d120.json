@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ed0bb119557341098c15d120.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Twischter",
+  "setter": "ClimbingToschter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8c9cf7f2-5702-4e3f-8d76-953f94fd820e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1127r12p1161r13p1080r15p1182r13p1215r13p1187r13p1235r13p1157r15p1256r13p1271r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 5,
+  "quality_average": 2.25,
+  "hold_fingerprint": "ed040a6eec931c4ebafa87cce68702413c7b0e3b1a67ad1a3d43b34cb1caa52e",
+  "validation_errors": []
+}

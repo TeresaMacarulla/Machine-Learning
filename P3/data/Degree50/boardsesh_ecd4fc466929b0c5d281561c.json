@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ecd4fc466929b0c5d281561c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Simon says left foot only",
+  "setter": "simon.goldammer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "09AFC15D4FB44CFBB7EDD8DA6B72AB85",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1161r15p1214r15p1215r12p1234r12p1271r15p1284r13p1301r13p1321r13p1325r13p1340r13p1392r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "669ec8ebb5ca2a446581295702ba7b52d0bcc2f47e6b8cc905043d07b251a86a",
+  "validation_errors": []
+}

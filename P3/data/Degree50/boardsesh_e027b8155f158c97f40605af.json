@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e027b8155f158c97f40605af.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "49 Cents",
+  "setter": "RavioliTriceps",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3E34722917F949F8899C713D16EC2DF4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1115r15p1153r12p1184r12p1239r13p1274r13p1326r13p1395r14p1496r15p1515r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.8,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "ffd48f34309c7eead220b9793ea3c571909fe37855b0c5ad2208ca769cd92bc6",
+  "validation_errors": []
+}

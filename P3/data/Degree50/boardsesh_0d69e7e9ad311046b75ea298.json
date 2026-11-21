@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0d69e7e9ad311046b75ea298.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Adhesion Gap Original",
+  "setter": "JoelHaefliger",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "8096700E4F0A4A439EFE1C604C083872",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1133r15p1179r12p1180r13p1202r13p1218r13p1227r12p1306r13p1324r13p1394r14p1455r15p1460r15p1505r15p1543r13p1560r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f0d8421b5aaff9565ac7db85517f2129c0befb967a6acb6200743a79dd5a3acc",
+  "validation_errors": []
+}

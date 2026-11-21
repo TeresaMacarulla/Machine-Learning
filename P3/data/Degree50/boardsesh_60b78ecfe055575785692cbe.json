@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_60b78ecfe055575785692cbe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Silenced",
+  "setter": "i_am_stone_dog",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "f01275eaa33044d899dc1e664e319dd5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1083r15p1167r12p1185r12p1254r13p1284r13p1300r13p1314r13p1382r14p1529r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9aecc9571b90d7ab2fdb1ba6a443816220120aff5fb1a4e949ab2b6055b0739f",
+  "validation_errors": []
+}

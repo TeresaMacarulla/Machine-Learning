@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7a1ef3dff5a43f61951faddf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Orang-utan",
+  "setter": "SpaceLegs07",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1A464122DD7247DC95140BB7BC151250",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1094r15p1145r12p1175r13p1246r13p1305r15p1331r13p1387r14p1483r15p1521r15p1537r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 14,
+  "quality_average": 3.29,
+  "hold_fingerprint": "72bc6c24a837175887911210539638de44d6dc0de4f447b2f451495208961d59",
+  "validation_errors": []
+}

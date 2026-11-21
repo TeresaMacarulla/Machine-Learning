@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_493b6e9da3415c7f77dc117d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "shoulder warmup 1",
+  "setter": "cvalenzuela",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0f6dea3b-7892-4091-90a6-874055a152ac",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1234r12p1487r15p1272r13p1190r15p1289r13p1340r13p1387r14p1354r13p1594r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 6,
+  "quality_average": null,
+  "hold_fingerprint": "c541c9d692c270742206152f74aa1148f20a2e69a06332692ea149ee9a040ba0",
+  "validation_errors": []
+}

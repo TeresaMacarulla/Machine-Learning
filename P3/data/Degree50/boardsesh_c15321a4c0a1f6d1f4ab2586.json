@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c15321a4c0a1f6d1f4ab2586.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Campus Swing",
+  "setter": "GabeA",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "a3d1053969454672a17d4af0e5880335",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r12p1236r12p1302r13p1315r13p1383r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.06,
+  "ascensionist_count": 18,
+  "quality_average": 3.33,
+  "hold_fingerprint": "4c252754968e5ec6d34fef6610319c17052f199b8bbb18809c17d3e34ec9559d",
+  "validation_errors": []
+}

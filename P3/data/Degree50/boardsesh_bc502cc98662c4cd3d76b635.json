@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bc502cc98662c4cd3d76b635.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "OCampus13",
+  "setter": "LJP",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "E85EAC10F0534AF5B4664987131E5AEF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1231r12p1234r12p1302r13p1334r13p1354r13p1371r14p1389r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.33,
+  "ascensionist_count": 10,
+  "quality_average": 3.8899999999999997,
+  "hold_fingerprint": "e6ca0a200584ff483d12cfe521d99b7cad0567397cb954844f8981c0e99281f5",
+  "validation_errors": []
+}

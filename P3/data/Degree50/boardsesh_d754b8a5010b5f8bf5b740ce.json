@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d754b8a5010b5f8bf5b740ce.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "CURRENT",
+  "setter": "SpencerShore",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3CB57050695E41F6813288F57CEF6D81",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1197r15p1217r12p1270r13p1299r13p1334r13p1382r14p1477r15p1488r15p1529r15p1533r12",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "cfb060835f41d6d27b3f1777079fa6616dc1d4688430d5c2e5c3ece387c4ebdd",
+  "validation_errors": []
+}

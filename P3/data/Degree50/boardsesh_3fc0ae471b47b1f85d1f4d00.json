@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3fc0ae471b47b1f85d1f4d00.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "brush pls",
+  "setter": "Lewin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "156B39B0C50A431ABB7C4401C7878213",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r12p1203r12p1230r13p1250r13p1334r13p1339r13p1375r13p1395r14p1451r15p1499r15p1520r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.97,
+  "ascensionist_count": 161,
+  "quality_average": 3.45,
+  "hold_fingerprint": "5316e6ca614c808130820eccdbc84d669d1414229d6a200f2cb06aa3cfb012d0",
+  "validation_errors": []
+}

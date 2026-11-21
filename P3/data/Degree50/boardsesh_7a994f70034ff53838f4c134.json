@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7a994f70034ff53838f4c134.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Dummy Thang",
+  "setter": "stubbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "e4b61201820e47d1808c77c066d493ee",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r15p1107r15p1177r12p1199r13p1209r12p1230r13p1268r13p1316r13p1384r14p1466r15p1476r15p1504r15p1506r15p1542r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "f49ff9427ac4f2db44c134db5236a7240d5087da6491a7181475e31bee0e90d3",
+  "validation_errors": []
+}

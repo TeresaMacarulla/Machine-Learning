@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_28c9aaa207fe6b67fe56333c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Call the Shots RemIx",
+  "setter": "PJP",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "81595488FDD1427488C0427D6517CB02",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1165r12p1181r12p1218r13p1234r13p1269r13p1317r13p1354r13p1387r14p1497r15p1508r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.33,
+  "ascensionist_count": 4,
+  "quality_average": 2.67,
+  "hold_fingerprint": "cef86dd519c253a3a78f7ba24df86b2b77a0d0c217dcb45f554b0a81892768fb",
+  "validation_errors": []
+}

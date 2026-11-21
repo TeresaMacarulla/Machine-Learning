@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_267297303971a5f38861abbd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "Greatest System Pinch Trainer",
+  "setter": "bloop",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "cae1fc45424849088e5886c6fee72e2b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1098r15p1127r12p1148r13p1196r13p1285r13p1314r13p1379r14p1381r14",
+  "display_difficulty": 30.0,
+  "difficulty_average": 29.71,
+  "ascensionist_count": 21,
+  "quality_average": 4.24,
+  "hold_fingerprint": "4ac44d24e4a0b5e4df0e37fc722865bf4b10dd627f9b620a1aa5c5efe67f7107",
+  "validation_errors": []
+}

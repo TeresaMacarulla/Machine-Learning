@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3f968e99792a659f3461208f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Bedhead",
+  "setter": "Analise",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9FAA932EB3634C269F72E1C071D81723",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1167r12p1201r13p1254r13p1255r13p1309r13p1340r13p1357r13p1387r14p1455r15p1526r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "e9baa9b8d9d78fe2e6f912f3d40cbb32c15201622abf4b45ff9b942ffaaea0f5",
+  "validation_errors": []
+}

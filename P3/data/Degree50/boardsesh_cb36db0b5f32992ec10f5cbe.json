@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cb36db0b5f32992ec10f5cbe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Happyrock",
+  "setter": "tomspp",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0bf4a0e3-38d4-4035-8a47-71ff2d123cce",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1457r15p1455r15p1218r13p1256r13p1137r15p1166r12p1286r13p1322r13p1334r13p1206r15p1333r13p1382r14p1231r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.33,
+  "ascensionist_count": 9,
+  "quality_average": 4.17,
+  "hold_fingerprint": "03d0ed4c664dc5741672f5383b434082e062460020fd8ac1e18344397149f93d",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_44f9060c7cb3a479b09e4705.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "NuGui",
+  "setter": "AngelCabezas",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "B176A562ED0441C794F2B8A97CCA3109",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1149r12p1153r12p1177r13p1215r13p1231r13p1279r13p1318r13p1385r14p1452r15p1455r15p1492r15p1510r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ee8693a02f8c7eb5703be04dad7de982cdee0d3ee80166b40efad079b1f669e6",
+  "validation_errors": []
+}

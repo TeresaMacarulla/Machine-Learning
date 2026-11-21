@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c8023c544ba0d1e793e20a22.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "skipping stoned",
+  "setter": "jpt13",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "67B80384A4E344ED8E31D1F24E7FB482",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1149r12p1254r13p1256r13p1258r13p1339r13p1388r14p1454r15p1457r15p1500r15p1518r15p1535r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "494d1974ac5c0a8e9ff2657c5e140fe83be30a74c83c3a2cb8530daaa0cecd64",
+  "validation_errors": []
+}

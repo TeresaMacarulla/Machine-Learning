@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b0dc4d996a7050a6bd9bbc6e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Glitch Attractor",
+  "setter": "tortesla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "24332DAD32734D6C810F9E1CF2C708F8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1169r15p1214r13p1286r13p1306r13p1318r13p1392r14p1455r15p1535r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.33,
+  "hold_fingerprint": "14fca46b5006596f50de87d6a451f60a63b09bf85e6951009891bf848eb01dc4",
+  "validation_errors": []
+}

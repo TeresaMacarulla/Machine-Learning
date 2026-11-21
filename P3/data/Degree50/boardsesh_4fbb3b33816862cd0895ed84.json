@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4fbb3b33816862cd0895ed84.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "spider frog",
+  "setter": "vshchepe",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "c03b092367be403f90891445d9c09b87",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r15p1154r12p1169r12p1205r13p1221r13p1271r13p1306r14p1451r15p1453r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e58d229ee44d378fa576b9ee2fe4997c8e4def83f8f7cc3523833bff21d150ad",
+  "validation_errors": []
+}

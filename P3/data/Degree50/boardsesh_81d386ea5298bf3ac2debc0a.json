@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_81d386ea5298bf3ac2debc0a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "lizard shi",
+  "setter": "ethanpolk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "0BC16636046241A5AB7158FC8284DD1A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1135r12p1147r12p1240r15p1249r13p1250r13p1287r13p1321r13p1392r14p1456r15p1459r15p1481r15p1506r15p1516r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8bdd194823f6820671976c0018dc0372a0a686e413f9729a9bdb067c25e9934f",
+  "validation_errors": []
+}

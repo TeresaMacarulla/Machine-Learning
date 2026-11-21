@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b2e9b6b96571548e5a455957.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Isolation",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "F718F202D4744275B506BBAB809CA46D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1116r12p1147r12p1169r15p1222r13p1232r13p1252r13p1339r13p1369r13p1384r14p1458r15p1532r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "446ac4750f9549081946783c4319016d953bc372faddec828d78909fe56db664",
+  "validation_errors": []
+}

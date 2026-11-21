@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8d6ea0ac65fc43ca004253ea.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Small Daim",
+  "setter": "NonoBerthier",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "3D1F2106941B46BABDCB1724F174AE95",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1177r15p1178r12p1242r15p1249r13p1270r13p1271r13p1273r13p1325r13p1392r14p1485r15p1548r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0502cd17825f2e11527b2ea91fa7744a7048ad78f8748d6d120c8bf0ffa6758f",
+  "validation_errors": []
+}

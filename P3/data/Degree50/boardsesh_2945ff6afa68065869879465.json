@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2945ff6afa68065869879465.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Reachy T-Hooks",
+  "setter": "GirthQuake",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F72DEC1633BC4D6499F359478998ED00",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r15p1219r15p1230r12p1239r15p1248r12p1281r13p1282r13p1284r13p1304r13p1387r14p1485r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "09bcdea3c37fde63f502b6997c711255f7012746110c1fffb757607c0018e522",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d0752d8eeffcd68375f3a7aa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Something Old, Something New",
+  "setter": "sdpearce",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6605AA7CB0884919B6AFD3643B08C3D9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1144r12p1163r12p1215r13p1234r13p1268r13p1304r13p1353r13p1387r14p1458r15p1506r15p1525r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.86,
+  "ascensionist_count": 62,
+  "quality_average": 3.47,
+  "hold_fingerprint": "03d42d384bac64b27ad511382e6925c31e32ed916b7d9a6171d70ab307c6897f",
+  "validation_errors": []
+}

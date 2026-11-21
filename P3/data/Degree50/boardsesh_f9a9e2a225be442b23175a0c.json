@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f9a9e2a225be442b23175a0c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "shoopty",
+  "setter": "deckerscully",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "7BD370F8065344D0A4BE658F70F8B372",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1149r12p1233r13p1264r13p1315r13p1379r14p1487r15p1511r15p1530r15p1537r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e5708103efb213269a522c4d58e3fdd7b325ed51ee0bf18495f1191698b2c6bc",
+  "validation_errors": []
+}

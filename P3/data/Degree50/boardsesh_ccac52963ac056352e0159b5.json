@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ccac52963ac056352e0159b5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Pinch my soul",
+  "setter": "tobbenhuv",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "568bcb0796ba474586b1931d410426ff",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1154r15p1186r12p1216r13p1255r15p1283r13p1287r13p1318r13p1332r13p1383r14p1450r15p1452r15p1470r15p1547r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6aaf15f4d5c35def173e18d99145ee1df3a058f80263d5143703a02165ac9383",
+  "validation_errors": []
+}

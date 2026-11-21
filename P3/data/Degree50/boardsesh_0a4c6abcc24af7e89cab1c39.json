@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0a4c6abcc24af7e89cab1c39.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Alibaba",
+  "setter": "thijs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "CF6953DA90C6420F98A600B67640F1E7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1158r12p1209r13p1227r13p1250r13p1269r13p1290r13p1357r13p1391r14p1465r15p1483r15p1501r15p1527r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.99,
+  "ascensionist_count": 142,
+  "quality_average": 3.34,
+  "hold_fingerprint": "d04aea62e5b24552389cfb59c990d214535275c69b89729d218e087a613adff2",
+  "validation_errors": []
+}

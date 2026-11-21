@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0cc8e4f9e0b3a5c8794c8c1a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Dog pinch",
+  "setter": "KrisSuriyo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "51A391EF89EF417893FDD0E0D8090BE1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1216r13p1228r13p1285r13p1332r13p1382r14p1457r15p1478r12p1485r15p1492r15p1512r15p1540r15p1546r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b21ccebe3325e2dbadd7932fbd0296044e96972eeaf91c3e168599c90dbf2f07",
+  "validation_errors": []
+}

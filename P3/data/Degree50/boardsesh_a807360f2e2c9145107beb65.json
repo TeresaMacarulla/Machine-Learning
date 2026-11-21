@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a807360f2e2c9145107beb65.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Star program",
+  "setter": "E.2.d.2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "C8B63658E5934A4EA7649B0FD337226B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r15p1166r15p1237r12p1246r15p1258r12p1268r13p1333r13p1334r13p1381r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f077510cabff4111b86fe96d9213598740099960f57cecaa6041e68b9ed954cd",
+  "validation_errors": []
+}

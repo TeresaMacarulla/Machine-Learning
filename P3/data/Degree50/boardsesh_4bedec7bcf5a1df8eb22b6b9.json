@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4bedec7bcf5a1df8eb22b6b9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "training for jacks",
+  "setter": "malinlocher",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "9890F6EEBF094DA08E6980A696540AA0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1170r12p1234r13p1239r13p1240r13p1250r13p1252r13p1263r13p1295r13p1316r13p1382r14p1534r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "edbadd8aaf00ff5d1c93232d145c2c5181515fd01f2dcce7054b0c195ddfc7fb",
+  "validation_errors": []
+}

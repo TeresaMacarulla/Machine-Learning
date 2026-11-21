@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_be1b4ba29182570162c8c3b2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Round Trip",
+  "setter": "jakedotclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A8EDB27544B441009BD3EB1C74953E91",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1181r15p1184r12p1188r12p1254r13p1283r13p1285r13p1314r13p1371r13p1386r13p1392r14p1455r15p1529r15p1580r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.78,
+  "ascensionist_count": 9,
+  "quality_average": 3.44,
+  "hold_fingerprint": "42d5299234b1de809dcfdc7039b349cd70265713674ddc06f56a3f3b62bfcc3f",
+  "validation_errors": []
+}

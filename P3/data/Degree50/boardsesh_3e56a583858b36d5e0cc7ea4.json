@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3e56a583858b36d5e0cc7ea4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Safe Flight",
+  "setter": "kakeru_nx",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ECE7141E0DF540AB9F97E3EC37CBFD8D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r15p1149r12p1187r13p1204r13p1231r15p1271r13p1320r13p1350r13p1383r14p1456r15p1509r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "aafa4a52efd79adf955bf833808e34ee768194ebbbbf250afb4ed5e35dd40c8e",
+  "validation_errors": []
+}

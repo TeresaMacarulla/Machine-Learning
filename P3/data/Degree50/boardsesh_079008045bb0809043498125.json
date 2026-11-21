@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_079008045bb0809043498125.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "boulder pause 1",
+  "setter": "stone.gardens",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "A0BA41B3D9654B508A20ECE6F8B2D031",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r12p1199r12p1250r13p1299r13p1318r13p1369r13p1388r14p1469r15p1486r15p1506r15p1522r15p1531r15p1551r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "33b024f08af5a4adc6f64c2ed937b869337f270963381b8f51fa3b9431d5c34c",
+  "validation_errors": []
+}

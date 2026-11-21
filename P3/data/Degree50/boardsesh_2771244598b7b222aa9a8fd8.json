@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2771244598b7b222aa9a8fd8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Lock off training",
+  "setter": "esgehteingeistum",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "363f84a43a3c40058dec36e0f18e697f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1153r12p1178r15p1204r15p1214r13p1218r13p1282r13p1333r13p1337r13p1338r13p1391r14p1451r15p1470r15p1552r15p1560r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.0,
+  "hold_fingerprint": "8fa59cd1a6f46c676919c7683cd020209eaba196b536b5cedf65e7a7a003e3ea",
+  "validation_errors": []
+}

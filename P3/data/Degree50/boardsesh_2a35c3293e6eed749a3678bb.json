@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2a35c3293e6eed749a3678bb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "perturbative 8x12",
+  "setter": "Hen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7b3d465d-d9f4-46e5-877e-9010e7a0aeac",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1269r13p1216r13p1134r12p1222r13p1332r13p1388r14p1120r12p1453r15p1498r15p1529r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 2,
+  "quality_average": null,
+  "hold_fingerprint": "417455d88d70e565e7a7db1e9498a9e2b31bc18f8d1fb408920e22503ca58af1",
+  "validation_errors": []
+}

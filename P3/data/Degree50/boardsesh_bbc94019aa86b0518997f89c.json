@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bbc94019aa86b0518997f89c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "snagger",
+  "setter": "Jakobiiiii",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "94D3583C84894D2C862D22DD1814CE15",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1131r15p1196r15p1216r12p1228r13p1263r13p1283r13p1301r13p1353r13p1385r14p1461r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "65fcbf06fe6b0f81b1e5d6d0e531cc995d8758ed55732a2e372081e765b8994f",
+  "validation_errors": []
+}

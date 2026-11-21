@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b552c63584e68b360d19f2c1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Crossy roads ",
+  "setter": "solman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5c2dac74-954b-45b9-a2c9-b7992dfc561f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1148r12p1128r12p1492r15p1195r13p1249r13p1250r13p1201r15p1287r13p1336r13p1391r14p1372r13",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.33,
+  "ascensionist_count": 4,
+  "quality_average": 4.67,
+  "hold_fingerprint": "eebe85f0295aa7cc82a4efee672018cb13e8517f76f81787a136d4695af9fb88",
+  "validation_errors": []
+}

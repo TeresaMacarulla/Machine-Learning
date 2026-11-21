@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_289a5b0396a76dec56492e2a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "bird on a wired",
+  "setter": "noahlee7",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "206A8584A42C4A94A6D90401AA3F76CE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1075r15p1171r12p1174r12p1257r13p1276r13p1353r13p1361r13p1380r14p1384r13p1393r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 5,
+  "quality_average": 4.5,
+  "hold_fingerprint": "1b02b972ee372bad0079cc26e22ffd07eb00f616d0b3b899b70babf18f23f223",
+  "validation_errors": []
+}

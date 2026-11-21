@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b7eb750bcdb92abf4f7fa049.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "philanthrepic",
+  "setter": "GaldalfTheSender",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "821e614352384095bad4610dc7f58583",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r12p1148r12p1188r13p1217r13p1238r13p1303r13p1350r13p1387r14p1454r15p1456r15p1472r15p1478r15p1495r15p1557r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5968fe166a507ae4591d3e218a249e2332b3dd74a0dc45eb4963cc558fd966fa",
+  "validation_errors": []
+}

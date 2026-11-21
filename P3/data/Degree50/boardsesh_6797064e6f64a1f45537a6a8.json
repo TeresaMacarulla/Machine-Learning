@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6797064e6f64a1f45537a6a8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "biba",
+  "setter": "grainycurd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "C2D9D755C17246A89937837688B84B5E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r12p1158r12p1202r13p1213r13p1218r13p1271r13p1355r13p1392r14p1490r15p1505r15p1516r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.86,
+  "ascensionist_count": 7,
+  "quality_average": 2.86,
+  "hold_fingerprint": "fedb067053f126b701c5917c132dde42552b029d439b058d93b757043166c83d",
+  "validation_errors": []
+}

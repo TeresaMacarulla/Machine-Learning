@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ace90a41c643e6632e56861d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Tigre du bloc",
+  "setter": "max_rav",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "18a601ec00da4bb1bad03f252d5f1600",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1178r12p1213r12p1220r13p1234r13p1239r13p1241r13p1291r13p1305r13p1338r13p1387r14p1467r15p1476r15p1551r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "934c5a99aa06168e89aace9dbebe07e6e1567f2e35538270b6bc70f72d332466",
+  "validation_errors": []
+}

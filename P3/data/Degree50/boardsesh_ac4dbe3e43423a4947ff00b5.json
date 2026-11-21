@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ac4dbe3e43423a4947ff00b5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "fraud check",
+  "setter": "babayaga1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "763cc409-f7b8-4f6f-9d6a-b3722d2b6984",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1451r15p1156r12p1205r13p1140r15p1240r13p1270r13p1506r15p1281r15p1353r14p1307r13",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ff8cedf4b7bae10cb306ac39193da2c2a196caa4a1d563f5d452754700977ae5",
+  "validation_errors": []
+}

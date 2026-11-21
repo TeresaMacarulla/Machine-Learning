@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cdbf0cb51b845312d0ffd4c0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Pinchie pinchie ER",
+  "setter": "climbcentral",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "901C6F20B2BF46119CA91C6A7768A62B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1151r15p1186r12p1206r15p1234r15p1241r12p1254r13p1285r13p1291r13p1357r13p1387r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "cfb47ba6bf6c3191683c8c3d77cd3834775047c1880d923a10b7a4a6ad4db264",
+  "validation_errors": []
+}

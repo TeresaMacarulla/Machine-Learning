@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_80d5cf0a349fa1b28ab6ca8b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Bottom of the Barrel",
+  "setter": "trackandy89",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "05E45E7BE05144BE8C554DEE25C88798",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1197r12p1214r12p1270r13p1339r13p1373r13p1385r14p1467r15p1487r15p1560r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 14,
+  "quality_average": 3.79,
+  "hold_fingerprint": "ccce591b15fbf826ac495e8051cef8bb556473e4205a49df3432c9fc127cc16b",
+  "validation_errors": []
+}

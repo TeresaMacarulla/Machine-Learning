@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_edf87c1ae3df59fb54d1d87b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "span the dyno",
+  "setter": "TylerBarchet",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "CE3F0A99C48F4B97A0EF40296C59B984",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1224r12p1239r12p1289r13p1308r13p1353r13p1367r14p1499r15p1574r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "9663700066731bb7e8e0d1caa1841cac0b0e6fe2f2914f977e7c1df098a06803",
+  "validation_errors": []
+}

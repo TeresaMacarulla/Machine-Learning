@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7a453e3420d61ec18d7bf5d1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Shoulder for days",
+  "setter": "AffenKalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "07DC4B57850E46409A9889DD1590F11E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1197r13p1249r13p1286r13p1321r13p1392r14p1457r15p1497r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.2,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "2b8b7cceb229341a4534d41c56b1a079dc01643f1d213de2b49d264542c23226",
+  "validation_errors": []
+}

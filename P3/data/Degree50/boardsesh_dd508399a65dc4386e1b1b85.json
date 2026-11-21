@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dd508399a65dc4386e1b1b85.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "PinchPanter",
+  "setter": "bouldersgallery",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "5FA4717529B04E5A88CFE88BD34346E9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1124r12p1127r12p1133r15p1176r13p1196r13p1216r13p1285r13p1298r13p1332r13p1387r14p1461r15p1506r15p1531r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 100,
+  "quality_average": 3.31,
+  "hold_fingerprint": "a34777730ec6db2292f49222bc87f73cfa5128e37a16bcde3b0436d039ae017f",
+  "validation_errors": []
+}

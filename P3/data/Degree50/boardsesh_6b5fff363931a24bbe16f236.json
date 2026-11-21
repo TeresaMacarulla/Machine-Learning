@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6b5fff363931a24bbe16f236.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "whatever they say",
+  "setter": "D_M",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 8,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "36284FD0935F40DBAC694A74833BDA8C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1140r15p1155r12p1169r12p1208r15p1221r13p1254r13p1257r13p1306r13p1324r13p1355r13p1356r13p1383r14p1385r14p1387r13p1447r15p1489r15p1566r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "48fe0bdd587ca4ead53ff8c32c4e0cc1e25938c3d5108122cb57d36c0d390c48",
+  "validation_errors": []
+}

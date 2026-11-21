@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d785c99b2680f116d38be3a2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Noobertron",
+  "setter": "Alex_kilterboard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "50e7fc30-8f93-44e0-85d6-90d23e65cb82",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1143r12p1192r13p1281r13p1107r15p1331r13p1369r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "fc385fd7702cf11d45b17d83c680223fb3fe2b8cab465518efaa1777bfca51eb",
+  "validation_errors": []
+}

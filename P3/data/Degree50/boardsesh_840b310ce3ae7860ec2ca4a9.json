@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_840b310ce3ae7860ec2ca4a9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Grizzly",
+  "setter": "Halvorbb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "B529AF2A5FE24E49BAD743DE77A2440E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1184r12p1203r12p1232r13p1285r13p1314r13p1319r13p1349r13p1379r14p1480r15p1555r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "237e6216a961469fef56fb79c83d6464d8e1df9675b5fee263f359732c7195b7",
+  "validation_errors": []
+}

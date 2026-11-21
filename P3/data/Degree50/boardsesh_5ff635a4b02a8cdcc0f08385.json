@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5ff635a4b02a8cdcc0f08385.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "wake-up slap",
+  "setter": "touretteovwrlord",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 2,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "A113A162601F4D54B4EEBFE8E6FCEDA5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1130r15p1147r12p1160r15p1181r12p1237r15p1247r13p1302r13p1371r14p1376r14p1457r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "03784a703f288653a6088483481cead83282011a0024036cbf9231241ecf866b",
+  "validation_errors": []
+}

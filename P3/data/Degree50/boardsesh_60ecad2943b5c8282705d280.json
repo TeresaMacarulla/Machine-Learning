@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_60ecad2943b5c8282705d280.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "mimic 1",
+  "setter": "kylerowe",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "50F99570993A42D58443328D62DD972F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r15p1218r12p1220r12p1258r13p1273r13p1307r13p1321r13p1339r13p1387r14p1471r15p1486r15p1496r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "3ad8ee9dde3434afadb13904ed41da31897d2e44883e093bc2a9c37df5f91b59",
+  "validation_errors": []
+}

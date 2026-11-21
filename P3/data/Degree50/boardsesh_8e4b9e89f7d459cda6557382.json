@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8e4b9e89f7d459cda6557382.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "traverso Cate 2",
+  "setter": "mandi.ndima",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "40CB904E6DFE4B58BFC9C3AC6CA8D36C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r13p1149r13p1158r12p1159r12p1162r13p1163r13p1166r13p1169r13p1171r13p1174r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": 1.0,
+  "hold_fingerprint": "981277a15c9bb7b8cf93e5ffdd30ce5cbc80ada62f60e81e7c750ca6dfe33f20",
+  "validation_errors": []
+}

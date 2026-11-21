@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_72cfc46bb97284cea005dbb5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Pure Vanilla",
+  "setter": "core.nelius",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "b1efaa09c6094e238154ff97bb98380b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r12p1189r15p1211r15p1270r13p1280r13p1300r13p1311r13p1380r14p1489r15p1533r12p1537r15p1555r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "e9047cdaf8d0a724d12336a5af7bec21d5288d04a92eb79c81acec60343c9db1",
+  "validation_errors": []
+}

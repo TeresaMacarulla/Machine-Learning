@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a88e544017601ed6455cf5cb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "On the Cams",
+  "setter": "Eamon_Rolls",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "77d3828e-0f02-47ad-9cda-8fbfb26707cc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1126r12p1465r15p1463r15p1162r13p1229r13p1529r15p1300r13p1353r13p1340r13p1395r14p1359r13",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 4,
+  "quality_average": 2.67,
+  "hold_fingerprint": "1acab2bc6b91201f4fff34121ae8b089f2bf922c0adcbfea1989ec589ba8916e",
+  "validation_errors": []
+}

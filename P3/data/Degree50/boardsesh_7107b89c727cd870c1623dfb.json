@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7107b89c727cd870c1623dfb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Rock Climb That!",
+  "setter": "jwilder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9216359ED96E44C5A0C1A57CDD2C1CA3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1110r15p1128r12p1165r13p1215r13p1239r15p1253r13p1285r13p1290r13p1340r13p1390r14p1461r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.93,
+  "ascensionist_count": 60,
+  "quality_average": 3.22,
+  "hold_fingerprint": "9cd3dab94a63f23ddb43f6340ca21388162496c511bcea0be81930d67604e30f",
+  "validation_errors": []
+}

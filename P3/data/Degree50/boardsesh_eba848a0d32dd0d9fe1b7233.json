@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eba848a0d32dd0d9fe1b7233.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Mister V",
+  "setter": "peterschwab",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "dc70542b188c4375a49f09dcd525da65",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1165r13p1216r13p1254r13p1271r13p1304r13p1368r13p1383r14p1459r15p1534r15p1535r15p1549r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.98,
+  "ascensionist_count": 42,
+  "quality_average": 3.19,
+  "hold_fingerprint": "9156eb3f150872d20341686a066cd6beb79586266ccb7a4f835b9ab70f5d62f6",
+  "validation_errors": []
+}

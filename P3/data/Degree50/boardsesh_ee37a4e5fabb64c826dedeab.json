@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ee37a4e5fabb64c826dedeab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Sans Kickboard",
+  "setter": "Natasha",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "F24B82954A524E37AB2336B5B1635983",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r12p1214r12p1263r13p1317r13p1369r13p1390r14p1477r15p1502r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "fee859560ec7bdc37fde22e17fc54d4d1214d2ba374e43653c423487323e680f",
+  "validation_errors": []
+}

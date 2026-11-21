@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_06be5c4ab7b77ed2b80d95d0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Feuerwehrleiter",
+  "setter": "dastrobu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6680A2CFA0A14A808DFB6DB5B9F83994",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r15p1169r12p1191r12p1221r13p1270r13p1272r13p1292r13p1306r13p1359r13p1394r14p1395r14p1451r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "5cfce38346d1b2aa90f0e1ca5ec6010225741636239f51772e4d1f385e844151",
+  "validation_errors": []
+}

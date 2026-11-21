@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_31d74bf14edba9469fe539db.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Scap squeeze",
+  "setter": "jk_47",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5FBE9582ABDB4CF38AC013457414A7B5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1220r12p1241r12p1273r13p1286r13p1290r13p1320r13p1357r13p1387r14p1500r15p1508r15p1516r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "dbb9ae90934ca82595134c8ff8235e7315a81c44b6c6559c7b63fbaa4259d196",
+  "validation_errors": []
+}

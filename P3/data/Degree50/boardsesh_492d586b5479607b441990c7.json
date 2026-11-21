@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_492d586b5479607b441990c7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Hip shifter",
+  "setter": "Vladimir_Putyakov",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 9,
+    "foot": 10
+  },
+  "source": "boardsesh",
+  "source_uuid": "74f84021-2446-42f5-b0fa-1c9da1632255",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1215r13p1236r13p1221r13p1257r13p1459r15p1096r15p1154r15p1137r15p1157r15p1192r12p1143r13p1142r13p1464r15p1111r15p1163r13p1274r13p1292r13p1208r15p1133r15p1210r12p1340r14p1460r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.43,
+  "ascensionist_count": 13,
+  "quality_average": 3.86,
+  "hold_fingerprint": "12d49dee7271f3600ec26d6bef5cd693dd28747f192d92f04ce7cd3d975aa373",
+  "validation_errors": []
+}

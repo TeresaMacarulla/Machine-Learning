@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6ce6b445bd9cfac0b0e7d723.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Bogart",
+  "setter": "alookatommorow",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8C4F38AB284B477C98A6E1EC4DBC1C86",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1218r13p1250r13p1269r13p1301r13p1373r13p1391r14p1453r15p1455r15p1489r15p1521r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.2,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "f7a5f2bd63eb63b5f79664826edce4484908e290b5aa2cca2c19428fa6edd455",
+  "validation_errors": []
+}

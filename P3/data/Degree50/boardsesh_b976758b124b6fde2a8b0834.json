@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b976758b124b6fde2a8b0834.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Hello, Zuko here",
+  "setter": "Daniel_Brzozowski",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7D3B51F07F154E518F09112A85F6B7BA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1143r12p1177r12p1244r13p1262r13p1267r13p1351r13p1371r13p1376r13p1395r14p1464r15p1483r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.88,
+  "ascensionist_count": 8,
+  "quality_average": 4.13,
+  "hold_fingerprint": "b0ddc0068e7ae9e618d698535de367e89b7a72afdb9cf3c6469f540799318f52",
+  "validation_errors": []
+}

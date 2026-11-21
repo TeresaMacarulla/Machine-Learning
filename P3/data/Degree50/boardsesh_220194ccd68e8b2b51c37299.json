@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_220194ccd68e8b2b51c37299.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "OAP36 (one arm pull 360) ",
+  "setter": "sameliz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "f632b2eb-a1d9-445c-b8a8-9a334b1a7562",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1231r12p1234r12p1356r13p1387r13p1302r13p1384r13p1347r13p1294r14p1311r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.33,
+  "ascensionist_count": 5,
+  "quality_average": 3.0,
+  "hold_fingerprint": "cefa3a9beea2ab9a0b24dfe89458aaee3be9af2b4aa215826049184a02052190",
+  "validation_errors": []
+}

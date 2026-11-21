@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ded8576e3ec96494391c6b1f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "flipperoo",
+  "setter": "rbailey",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "eaa1da1c0af340498c41e82e81f836b0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r12p1223r13p1255r13p1270r13p1272r13p1340r13p1394r14p1447r15p1482r15p1514r15p1517r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5fc41657f5137620615267ae945b5c20c3ad9177afd6c0199f6a262f41110c2d",
+  "validation_errors": []
+}

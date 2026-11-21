@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_58006cff1fa5bd24bb8d80d8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Cutloose Ladder",
+  "setter": "noahzxe",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1d276d0b-8d22-41ee-8dab-3b9f95b8a6af",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1192r12p1246r13p1294r13p1464r15p1347r13p1382r14p1558r15p1485r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.57,
+  "ascensionist_count": 37,
+  "quality_average": 3.3697297297297295,
+  "hold_fingerprint": "2b1a651e5ffbe0ddae8ce4c265ee8bd85ce05d73855e13fe2afe00221bfdb95a",
+  "validation_errors": []
+}

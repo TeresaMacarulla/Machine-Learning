@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6fd841167c866a77cc10d21c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "kia stinger",
+  "setter": "samgtmeyer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "2b7f70949c43439980a757e6ab6a1488",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r12p1147r12p1216r13p1230r13p1299r13p1335r13p1383r14p1459r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.02,
+  "ascensionist_count": 49,
+  "quality_average": 3.41,
+  "hold_fingerprint": "10bbc04daf50babc630178b0fbb9fe2c36aa384a9015cc1097c238e016bc6195",
+  "validation_errors": []
+}

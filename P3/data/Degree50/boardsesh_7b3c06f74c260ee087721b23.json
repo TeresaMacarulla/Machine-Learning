@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b3c06f74c260ee087721b23.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "pinch of salt ",
+  "setter": "Knoedelbroat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "35f6a140-4d0b-499b-bf1b-6075191560c4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1255r12p1241r12p1291r13p1286r13p1287r13p1317r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "cbb87f5f14d128dd72baec5955aaa5731b97d00bf19ae09d98853f4eb75b8d20",
+  "validation_errors": []
+}

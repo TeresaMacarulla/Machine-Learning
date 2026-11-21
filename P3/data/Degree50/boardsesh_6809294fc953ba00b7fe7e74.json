@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6809294fc953ba00b7fe7e74.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "D\u00f6nerbr\u00fccke",
+  "setter": "keyRAM",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "8b607f65e0d8424584a7ec99669517ee",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r15p1143r12p1163r12p1215r13p1235r13p1237r13p1259r15p1289r13p1344r14p1359r14p1456r15p1467r15p1514r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "4692f803882704ce04d910fd0393b69b5fb22a675188841b8c8bb777c1711ed7",
+  "validation_errors": []
+}

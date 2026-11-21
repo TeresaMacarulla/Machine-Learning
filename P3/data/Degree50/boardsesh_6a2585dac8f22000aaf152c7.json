@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6a2585dac8f22000aaf152c7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "Anterior Lateral",
+  "setter": "Daan_VO",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "a7cd9a86-f632-4f0e-9b72-dc56e0730d35",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1464r15p1465r15p1107r15p1129r15p1474r15p1503r15p1511r15p1184r15p1109r12p1193r12p1199r13p1246r13p1270r13p1320r13p1368r13p1281r15p1373r13p1395r14",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1ce3992e6d3d51685264673d870e71e2c82e6ef4ccbc2939e0e7de15516affbd",
+  "validation_errors": []
+}

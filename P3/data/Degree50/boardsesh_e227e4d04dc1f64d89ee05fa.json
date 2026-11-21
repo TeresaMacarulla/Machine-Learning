@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e227e4d04dc1f64d89ee05fa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Make it break",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "DD63A1B9ADBC4FA38720C4215D03F7C2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1165r12p1181r12p1253r13p1290r13p1320r13p1390r14p1468r15p1525r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 142,
+  "quality_average": 3.3,
+  "hold_fingerprint": "7bcee184ee9a385e37176d5ee3a10769114bfeaf75080dd8738eca1bb010d81b",
+  "validation_errors": []
+}

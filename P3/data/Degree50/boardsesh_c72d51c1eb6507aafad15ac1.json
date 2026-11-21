@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c72d51c1eb6507aafad15ac1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Puma Sneaker",
+  "setter": "vincentdohna",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0fb3ac9c6fb84bbf8842e646cd83d785",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1158r12p1162r12p1197r13p1201r13p1235r13p1256r13p1304r13p1320r13p1371r13p1393r14p1499r15p1572r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.0,
+  "hold_fingerprint": "7bd1881820687ebb5637c1be46d064ddff9c9bb711c37b423f22c697f690f224",
+  "validation_errors": []
+}

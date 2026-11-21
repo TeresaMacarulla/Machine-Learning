@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_349ac460714ab62ae6a79634.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "boyf",
+  "setter": "chanda",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "330F36C10D2B4B9AB30F761942CC2790",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r15p1131r15p1151r15p1186r12p1200r12p1212r15p1217r13p1234r13p1302r13p1315r13p1351r13p1380r14p1383r14p1547r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "07634b91cf42b5dba24ff727f5adecb10f6c7dbe5d4d640b73532343d2c12549",
+  "validation_errors": []
+}

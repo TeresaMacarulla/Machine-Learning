@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5cf3e07c2bbe225c16ac634f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Knee Injury Right",
+  "setter": "Chriz.Haag",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9468475bf55a425bbd980b20a7e04bb8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1230r13p1250r13p1315r13p1382r14p1483r15p1492r15p1503r12p1530r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f6ef8aade42a7c3cc020fab774e54de79975f18f486e99056bc81490e4015d49",
+  "validation_errors": []
+}

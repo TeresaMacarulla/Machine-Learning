@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1d6f483851b9b308378e462a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Don\u2019t fight the music",
+  "setter": "johnthedon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1D4313321577468483D42066C76D46F9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1102r15p1172r12p1187r12p1225r13p1254r13p1276r13p1320r13p1326r13p1390r14p1482r15p1500r15p1506r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "24dce7ce7dc793e0ba7d8d05ab72f8a31900d31b0822710bb2a9c4e98d01757d",
+  "validation_errors": []
+}

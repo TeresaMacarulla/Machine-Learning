@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_50735e9a496b4c83f6f98301.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Grade me",
+  "setter": "Rickert90",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "acd7eb0e5c2248a88033cb1931369d7f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1155r12p1186r15p1207r12p1237r13p1292r13p1340r13p1394r14p1482r15p1490r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "305b506be4eb285b773f1a6fa636e6a7d034f96c0b5601a4a69cb3a57aaab8da",
+  "validation_errors": []
+}

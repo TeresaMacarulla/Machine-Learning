@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b14e08153f92c2fe898a461d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "guts",
+  "setter": "lisamom",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "85A1EBF58219436299081CBE8C3B696A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1162r12p1194r13p1249r13p1264r13p1335r13p1386r14p1486r12p1513r15p1551r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7d174a2bc74e54eefdfab315cf5c1a61ad1998645e6d0d3e9b0d04fde57d875e",
+  "validation_errors": []
+}

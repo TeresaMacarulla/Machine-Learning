@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f0c0e4410b529c9ceb2053e2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Crosspaddle Dyno",
+  "setter": "Foxz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "331058d57db640b2b6fc8097347020a4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1170r15p1239r12p1257r12p1320r13p1350r13p1353r13p1383r14p1509r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.25,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "0b1e36f862185f41df7fd0d461c7c0e80ccd02510479ff4a863191dd01adfb56",
+  "validation_errors": []
+}

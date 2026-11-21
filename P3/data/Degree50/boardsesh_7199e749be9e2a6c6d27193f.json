@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7199e749be9e2a6c6d27193f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Baby's first idiot",
+  "setter": "alex_r",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "60831cb371a14d1aa7fdcfafe1ec0aa4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1149r12p1171r15p1198r12p1206r15p1219r13p1251r13p1272r13p1320r13p1371r14p1373r14p1476r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3b20da004785eeb50bb3b7a0a3de7ccea12e0851d76bc1e06c218a3428edaa8a",
+  "validation_errors": []
+}

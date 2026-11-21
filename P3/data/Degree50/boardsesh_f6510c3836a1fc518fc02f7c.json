@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f6510c3836a1fc518fc02f7c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "True Damage",
+  "setter": "chonyunchon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "35B91FAB8026423DA4077AA4E5AF6E33",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1135r12p1148r12p1216r13p1230r13p1283r13p1298r13p1384r14p1510r15p1520r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 15,
+  "quality_average": 3.4,
+  "hold_fingerprint": "76863660757d949f3d8f6ab09cd06cf7fa1c06e86fa35d556c9fdacc974cd9ea",
+  "validation_errors": []
+}

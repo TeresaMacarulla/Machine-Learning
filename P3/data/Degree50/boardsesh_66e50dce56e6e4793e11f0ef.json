@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_66e50dce56e6e4793e11f0ef.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "trebuchet",
+  "setter": "Climb_Arkansas",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "375e0151-f20f-4b5a-83d9-8e5d1320f3c9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1197r12p1210r13p1198r15p1265r13p1280r13p1336r13p1388r14p1096r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "a143ba46df63e9a4cfb813db6c99fdbe2efe79a1dd2cef929d686169f7eff3e7",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9fc95ba73e7bf9bc2d6d232e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Jugglin Holds 7x10 edit V2",
+  "setter": "hwilly",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "ff26283c81cf4b67a74fed880ea55b9a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1151r15p1163r15p1182r12p1203r15p1215r12p1236r13p1284r13p1304r13p1353r13p1354r13p1385r14p1386r14p1532r15p1540r15p1551r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.89,
+  "ascensionist_count": 63,
+  "quality_average": 3.36,
+  "hold_fingerprint": "483a6b2748d005d3e130957be81e20391f23cb84f98015548cb1de1537dc27f0",
+  "validation_errors": []
+}

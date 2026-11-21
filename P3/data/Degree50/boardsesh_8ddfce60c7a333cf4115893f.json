@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8ddfce60c7a333cf4115893f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Parthian Tactics",
+  "setter": "ABenAbides",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "825260b4784c4de6bc4d02fcb2d58fbb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1145r15p1148r12p1187r12p1215r13p1248r13p1263r13p1313r13p1316r13p1380r14p1502r15p1511r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0ef83e5946caed443815187ca10edb5334e25166ecd28398485014432b956b6f",
+  "validation_errors": []
+}

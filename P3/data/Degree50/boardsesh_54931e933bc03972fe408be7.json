@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_54931e933bc03972fe408be7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "amber2",
+  "setter": "doni",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "252e6c7edeae46089b29c742e01abfb0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1089r15p1126r12p1178r12p1180r15p1201r13p1219r13p1223r13p1307r13p1322r13p1334r13p1386r14p1483r15p1496r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "1ecbe0b82081a195a76d60a4200befc9fcb416bd7cd68955e3606d413fceb8ac",
+  "validation_errors": []
+}

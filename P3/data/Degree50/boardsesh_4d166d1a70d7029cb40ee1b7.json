@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4d166d1a70d7029cb40ee1b7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "bingo bango bongo",
+  "setter": "smokestack",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "08847d8471594f98acf3e6496a679723",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1127r12p1176r12p1231r13p1248r13p1286r13p1321r13p1340r13p1392r14p1476r15p1521r15p1542r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 8,
+  "quality_average": 1.0,
+  "hold_fingerprint": "466b0596ebf3ffe62d3a833bbc14f197fdcf319ab80593ca781c894e84b2a0c2",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9bd8478b580efd5591b050b7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Roswell",
+  "setter": "lasertronic",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "79e6057bbe51482b9ec44e50cb2d6aab",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1228r13p1249r13p1299r13p1308r15p1338r13p1372r13p1392r14p1461r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9a154029d826ccfb3f561c0840a014d368d910916a601678c5f0ab25f11f411b",
+  "validation_errors": []
+}

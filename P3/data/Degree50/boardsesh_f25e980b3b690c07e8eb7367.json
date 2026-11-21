@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f25e980b3b690c07e8eb7367.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "face your demons",
+  "setter": "JPlieu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "F52AB51CAC8E4447AEEECB5B77FE2423",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1113r15p1178r12p1179r12p1205r15p1267r13p1322r13p1340r13p1395r14p1466r15p1542r13p1554r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "b7b287d73630c6300dce0bc5a2bf961539135a7d3899ffa0ae001f29a6371c7e",
+  "validation_errors": []
+}

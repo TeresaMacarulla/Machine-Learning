@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_232c7a7ccb6f302e5266e427.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "First route (7A)",
+  "setter": "porrasm",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "fdb7002a90c7494fba90adbabcf072eb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1158r12p1229r13p1261r13p1298r13p1316r13p1367r13p1385r14p1461r15p1464r15p1483r15p1504r15p1540r15p1556r15p1565r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4a02aaf12b8686cbe422cb97ac160ad916ddf2d284409a84d2aa9fa342730015",
+  "validation_errors": []
+}

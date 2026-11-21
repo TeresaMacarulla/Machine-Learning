@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dcb7a40abcfe6652d1a54360.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Red Croissant",
+  "setter": "Chris_Klaembt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "BE6AD3BFF89B4A96ABBCB4517E7C9B5E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1189r12p1207r12p1272r13p1293r13p1337r13p1339r13p1393r14p1472r15p1482r15p1500r15p1517r15p1544r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6a4e0af84bcc138e2abde7637a029c0c4a8acadf7af68dd2ce5af876bcc64357",
+  "validation_errors": []
+}

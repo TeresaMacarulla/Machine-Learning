@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9d8d0c8030c831827cb76462.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "sloper pinch",
+  "setter": "Jason_Aweida",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0b9e0d4387c94c8d85979cad9a8af77a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1186r12p1235r13p1271r13p1319r13p1372r14p1480r15p1504r15p1525r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 12,
+  "quality_average": 3.0,
+  "hold_fingerprint": "20a27990bef507b3134568f45ade508c7a8028d39f2bea32139c531ca0ac6e06",
+  "validation_errors": []
+}

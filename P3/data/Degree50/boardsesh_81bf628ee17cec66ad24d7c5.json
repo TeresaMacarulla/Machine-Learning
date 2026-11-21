@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_81bf628ee17cec66ad24d7c5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "beaker",
+  "setter": "mopdemusa",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "10a8ce6c10854c8da1c5582db361e3dd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r12p1233r13p1267r13p1355r13p1372r13p1393r14p1466r15p1467r15p1506r15p1512r12",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ea32b1da96f69a309336023eeff86e119fd12b83c6c851e8d974b85f2cd91cfc",
+  "validation_errors": []
+}

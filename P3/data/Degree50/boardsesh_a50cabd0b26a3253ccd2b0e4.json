@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a50cabd0b26a3253ccd2b0e4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "gauge invariant level",
+  "setter": "tobiasiding",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "9263D7A68F9645638DD244C5A3C73E83",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1121r12p1139r12p1238r13p1241r13p1254r13p1320r13p1375r13p1393r14p1482r15p1489r15p1500r15p1531r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 4,
+  "quality_average": 2.75,
+  "hold_fingerprint": "a48733d544a7bb890b5c00cd3b8a4b47c156a4b7b4c6b065611914c92113930d",
+  "validation_errors": []
+}

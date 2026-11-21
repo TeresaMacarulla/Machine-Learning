@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_781e9ba07ad9b8c19bb5d912.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "koekendoosje in moeder",
+  "setter": "Siemen.del",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "fbe9df8c9f0248849eabf2db7a0b5be9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1185r13p1198r13p1252r13p1308r13p1342r13p1395r14p1455r15p1460r15p1463r12p1479r15p1554r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.94,
+  "ascensionist_count": 100,
+  "quality_average": 3.88,
+  "hold_fingerprint": "2b4122c47cbaad59b3efb2a5618af69d5f91230c9692c12b121c86ebcd3e40ca",
+  "validation_errors": []
+}

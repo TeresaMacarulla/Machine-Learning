@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3b728b3ba22621b14d7675f5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "dribbelk\u00f6nig",
+  "setter": "gclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9ced97fac9624432a8e76a300074c001",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1187r12p1191r15p1238r13p1287r13p1298r13p1318r13p1382r14p1451r15p1506r12p1532r15p1535r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ebd8ad27a668a0da6eb9e01ef5de88ac6570ca95ff73cb098bb05e9efc99247a",
+  "validation_errors": []
+}

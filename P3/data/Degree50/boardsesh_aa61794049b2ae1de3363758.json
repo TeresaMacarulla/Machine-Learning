@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aa61794049b2ae1de3363758.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "crosssectional area",
+  "setter": "mxtl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "95fd8d5e-d583-4d09-a331-74d5ccb85ec2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1456r15p1202r13p1525r13p1274r13p1325r13p1361r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e502ea2183949d022165b3b039e4fb1748d61b6c0c18bdfce06676a22cf4758b",
+  "validation_errors": []
+}

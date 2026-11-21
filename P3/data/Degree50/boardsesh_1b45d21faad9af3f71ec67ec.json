@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1b45d21faad9af3f71ec67ec.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Bunch Jump",
+  "setter": "Cuckovich",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "18CEEA33C87A49A180E34EC985985406",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1159r15p1192r12p1197r15p1243r13p1245r13p1296r13p1317r13p1384r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "8e4e6f07d50a69ca4cfbd4cdc084238e29d93b0a35a526435d56c58cd31afa80",
+  "validation_errors": []
+}

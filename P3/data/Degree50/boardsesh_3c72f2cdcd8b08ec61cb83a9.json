@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3c72f2cdcd8b08ec61cb83a9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "jammin",
+  "setter": "ZEYBOLD",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "7C7B1CD7E1544001BC50E477D6804A5E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1133r15p1163r12p1198r12p1234r15p1252r13p1317r13p1369r13p1383r14p1459r15p1566r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.97,
+  "ascensionist_count": 13231,
+  "quality_average": 3.2307692890134017,
+  "hold_fingerprint": "d794ce65f9aa3758c519645129844848d9fd38190afb2de6a87daaa557d006b1",
+  "validation_errors": []
+}

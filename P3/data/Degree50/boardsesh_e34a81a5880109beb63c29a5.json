@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e34a81a5880109beb63c29a5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "cocoloco",
+  "setter": "evanravenel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "a172612141cc465d905098305bee440e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1239r12p1241r12p1289r13p1302r13p1304r13p1387r14p1499r15p1532r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.17,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "a47e1616a102ac7f740c52b583b924c163c4df92f630af8296141919b21c54df",
+  "validation_errors": []
+}

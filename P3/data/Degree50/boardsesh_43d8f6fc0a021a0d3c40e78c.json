@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_43d8f6fc0a021a0d3c40e78c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Error 404",
+  "setter": "ksmd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "e71040b0a6a54bcc9b784928092df2f5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1152r15p1197r15p1219r13p1267r13p1302r13p1315r13p1383r14p1453r15p1529r15p1547r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.92,
+  "ascensionist_count": 25,
+  "quality_average": 3.56,
+  "hold_fingerprint": "ae3cbe54e101c6f43f7a73ddb16269fe6e8e7c991dcb48119fec7c97f3a6891c",
+  "validation_errors": []
+}

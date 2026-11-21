@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e8e32d943a86d80d5176fb8e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Twee Chimpanzee",
+  "setter": "nino_smets",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6eacf8eb457a4f209f0bd0929c0a9083",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1222r12p1253r12p1290r13p1320r13p1371r13p1383r14p1509r15p1523r15p1531r15p1566r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e64824e370d7e583680484b960c8d227a5e3f34fc74b3170844a8f273abe9d0b",
+  "validation_errors": []
+}

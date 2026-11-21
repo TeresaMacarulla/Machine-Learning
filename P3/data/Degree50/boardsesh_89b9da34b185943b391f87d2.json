@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_89b9da34b185943b391f87d2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "micro top",
+  "setter": "rsierotko",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "202e5ded-9da3-42ae-963f-fea609c4f094",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1221r12p1219r12p1515r15p1516r15p1271r13p1272r13p1304r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e23825ec6dfbe25aaec381fedb8c09b1ccfae894bcd39b5b588542f43deed626",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_41dabaf085657f4194ec223f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Slopefest",
+  "setter": "marshalldvorak",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8369f7f4068d42948f58b2fb287d00b4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1164r13p1177r13p1233r13p1235r13p1271r13p1320r13p1357r13p1391r14p1456r15p1460r15p1464r15p1495r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.8,
+  "ascensionist_count": 6,
+  "quality_average": 4.6,
+  "hold_fingerprint": "499015d40ad056cc7b5096b0a3dbfc9b93f087eee73d79bd19029eb6d333a55a",
+  "validation_errors": []
+}

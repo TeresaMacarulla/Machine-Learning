@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ecc254aa11deb7c9a8398e84.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "OHA",
+  "setter": "NilsHolgerson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "404D206B444C4439A611C15F3F26EF3F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1167r15p1170r15p1182r12p1198r12p1235r13p1236r13p1305r13p1306r13p1356r13p1390r14p1391r14p1476r15p1515r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "5d45d7383dad071c69f37a2bc3c8bc41d7d931863ccf27ffb777631ae36656a0",
+  "validation_errors": []
+}

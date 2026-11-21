@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_961020cf5b36324d8dc5883b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Brute force",
+  "setter": "steil_boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "2203EDB790A2463F9DA4C41D24742F89",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1158r12p1167r13p1177r12p1216r13p1222r13p1273r13p1338r13p1360r13p1395r14p1454r15p1460r15p1464r15p1478r15p1514r15p1545r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "7739f618e878f23649fc0a8c9883db290b0381ab527deed663ef4fa530e4d781",
+  "validation_errors": []
+}

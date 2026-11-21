@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b5a28264b56ba93a0726b8f8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "shredder project",
+  "setter": "E.2.d.2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "6DB3E42FBC3A4DACBF81E41212DFA1AF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1238r12p1254r12p1322r13p1339r13p1393r14p1517r15p1536r15p1545r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "bf478cd31af4d4eb0cc0bfd0d8bea8dc3ec6fda85292b192e990a41bce26be05",
+  "validation_errors": []
+}

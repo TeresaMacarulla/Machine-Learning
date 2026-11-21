@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8e52af42befbbf49143a954d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "111einself",
+  "setter": "steil_boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C124D3FD8B6342389E2FE65EB4F6C79D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1186r13p1222r13p1285r13p1318r13p1320r13p1368r13p1381r14p1451r15p1490r15p1522r15p1569r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 12,
+  "quality_average": 3.42,
+  "hold_fingerprint": "3ed87b735df8bd8178df903cb1e406d44a3aba1954c8ef57895c29c911f0c68b",
+  "validation_errors": []
+}

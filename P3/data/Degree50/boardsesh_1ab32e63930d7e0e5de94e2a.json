@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1ab32e63930d7e0e5de94e2a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "forced to lose foot ",
+  "setter": "Quentin Lavit",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2af81138-78f3-49d9-9ad9-7b79a7664f3b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1212r12p1249r13p1300r13p1287r13p1257r15p1322r13p1359r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d07d28d6765c4f4d284ac2a9198d078e1e82f729856ee89812a17e690ac72f10",
+  "validation_errors": []
+}

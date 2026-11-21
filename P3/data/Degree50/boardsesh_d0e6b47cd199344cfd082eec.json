@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d0e6b47cd199344cfd082eec.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "pumpytow",
+  "setter": "adamfogarasi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "9E247516D3D146288FD0F61B05BFDF39",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1114r12p1169r15p1178r12p1215r13p1217r13p1218r15p1239r15p1268r13p1304r13p1307r15p1354r13p1391r14p1458r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.38,
+  "ascensionist_count": 9,
+  "quality_average": 2.13,
+  "hold_fingerprint": "6984a28b505a4f2a871606afbbd91c2c8a3d95ebc7a91265d9e1dfc5e513966a",
+  "validation_errors": []
+}

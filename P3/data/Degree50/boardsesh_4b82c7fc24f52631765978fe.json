@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4b82c7fc24f52631765978fe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Tip here!",
+  "setter": "45er",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "624CA0CC9BA64020824390F2D16443DE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1165r12p1196r13p1248r13p1282r13p1320r13p1385r14p1386r14p1492r15p1510r15p1539r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c9350593ec24f0c8a7b5e751cd534d3cebb354c5793d28d57a01d794b665d4ab",
+  "validation_errors": []
+}

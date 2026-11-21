@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b180382ac541ee4968abc633.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Species",
+  "setter": "Pille",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "d141da8c-288d-4dbd-96da-941116474f19",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1127r15p1195r12p1214r12p1250r13p1254r13p1320r13p1338r13p1368r13p1384r14p1487r15p1496r15p1508r15p1514r15p1533r15p1557r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "9f79382018b294da0b8bc37e1ea2afca43eaf90a3b5b2be7ff3f6ae7085ab436",
+  "validation_errors": []
+}

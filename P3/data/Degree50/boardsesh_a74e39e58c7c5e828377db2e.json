@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a74e39e58c7c5e828377db2e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Aerodynamisch",
+  "setter": "markusleebV",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B66CD5DAFD8247109425D717442E84EA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1226r15p1235r15p1257r12p1304r13p1315r13p1322r13p1362r14p1383r13p1482r15p1529r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.15,
+  "ascensionist_count": 14,
+  "quality_average": 3.85,
+  "hold_fingerprint": "862233c65faaf85829697422dd5d29196fc33a93b1b24a87d2cebaabe1b793cb",
+  "validation_errors": []
+}

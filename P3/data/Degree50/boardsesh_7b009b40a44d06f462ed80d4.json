@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b009b40a44d06f462ed80d4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Stone",
+  "setter": "Maxmeixenn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "08513e28-e0c7-48d6-bc84-1c504495fb00",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1199r13p1292r13p1509r15p1527r15p1375r13p1371r13p1387r14p1382r14p1092r15p1270r13p1235r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 3,
+  "quality_average": 4.0,
+  "hold_fingerprint": "440c24611a19ba22f78d592aa7d33f43393cb4ecdc4968976621aeb2b3e8bf65",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e32345f08a1e7ea0311d3c76.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Two Guys With Handlebar Mustaches",
+  "setter": "jwilder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "98C1C1713D8E41FB96BD3474201EABD3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1145r12p1230r13p1231r15p1250r13p1283r13p1321r13p1371r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 18,
+  "quality_average": 3.12,
+  "hold_fingerprint": "a362b5f7216e2c3b30a90ca8cd272e67e5fbc166d24523e5a042f1c41edff8e7",
+  "validation_errors": []
+}

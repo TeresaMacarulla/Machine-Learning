@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5522ffa49b57568158fe9e7a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "viscous sublayer",
+  "setter": "cwlester",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "D3CFD3046114497F9D7786E1765B7555",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r12p1178r13p1195r12p1198r13p1247r13p1260r13p1298r13p1347r13p1383r13p1385r14p1483r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ce31e65a2ff1a4bc3ee6409eeca0d0f08a51f2c025ac2ba1b8c722f250b1df42",
+  "validation_errors": []
+}

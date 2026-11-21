@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6b49a3dd21ce329b0feaaad7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "einfach Nein",
+  "setter": "Tarekrobrahn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "411ddb1f96d24146988d3c9fa5cd6ba5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r12p1137r12p1203r13p1241r13p1287r13p1359r13p1391r14p1394r14p1450r15p1456r15p1518r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "876504e7bc9d406222cfe4d6d55180f0b6c4429d298a1883e7b223184a53363a",
+  "validation_errors": []
+}

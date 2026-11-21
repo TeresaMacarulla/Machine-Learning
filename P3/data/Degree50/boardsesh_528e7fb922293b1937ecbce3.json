@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_528e7fb922293b1937ecbce3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "easy campus climb",
+  "setter": "jojoyreiter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "7F784FB724B143DB8A0C5B360D0270A4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r12p1237r12p1289r13p1308r13p1359r13p1394r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "293668c0ca32217eadbb336f19870639085aa6fe28636cfe8292913cfe764b4c",
+  "validation_errors": []
+}

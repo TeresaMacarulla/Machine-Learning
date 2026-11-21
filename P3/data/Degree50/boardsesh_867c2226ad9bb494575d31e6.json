@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_867c2226ad9bb494575d31e6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "failphobic",
+  "setter": "moritzpriewe",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "acac6c2b4ced4621b116d10b0d6b8f6a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1160r15p1198r12p1235r12p1283r13p1304r13p1371r13p1392r14p1495r15p1525r15p1567r15p1590r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d1d0fe2fd31a1bea25d29fd467d1e71de631f9727ece48135d49da220baa9c5a",
+  "validation_errors": []
+}

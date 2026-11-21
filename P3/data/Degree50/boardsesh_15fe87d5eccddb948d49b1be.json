@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_15fe87d5eccddb948d49b1be.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "longitude",
+  "setter": "flying_lotus",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "563caa899e4f45e681cac0a1e50bed75",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1111r15p1127r12p1163r12p1216r15p1234r13p1269r15p1289r13p1341r13p1394r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.96,
+  "ascensionist_count": 55,
+  "quality_average": 3.58,
+  "hold_fingerprint": "dec440d206e458ffa51e5b0870e4505132ce7c07cfa08db2690fef729054294f",
+  "validation_errors": []
+}

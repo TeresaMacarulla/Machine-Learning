@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_21b1618c16d83706fd19b7c3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Sweet 16",
+  "setter": "Phips",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "D3AF290479A042F0A8D3824709FC38A5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1096r15p1149r12p1201r13p1230r13p1263r13p1314r13p1335r13p1387r14p1476r15p1484r15p1502r15p1537r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4d68b60235463e4a8d56c435029058569b033b165ea4102314f60b0215a1cdaa",
+  "validation_errors": []
+}

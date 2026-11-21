@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_efd761ab4be0c274001e65dc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "hypermegaloconstrictor",
+  "setter": "max_rav",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "28a97ca8fcee41db95b517731c512b3b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1148r12p1164r12p1202r13p1271r13p1291r13p1339r13p1370r13p1374r13p1386r14p1456r15p1470r15p1479r15p1506r15p1526r15p1527r15p1534r15p1560r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "0be6af14db3ff3303a3639d20cdf501f7a9d28bf14e2935077e1fb54aa8d4935",
+  "validation_errors": []
+}

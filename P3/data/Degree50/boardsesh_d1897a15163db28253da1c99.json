@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d1897a15163db28253da1c99.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "swooped easy",
+  "setter": "xiMaarten",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "77D4EB328A7140C0BE51AC56F0A00CA1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1110r15p1146r15p1164r12p1202r12p1246r13p1250r13p1282r13p1331r13p1351r13p1385r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "0cf42d6a953c287c854e0e54c25ef3ed418b0d5dbb2ac3a2b5de14a283e92742",
+  "validation_errors": []
+}

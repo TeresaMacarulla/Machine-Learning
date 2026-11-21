@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9adabfe26b1bcad2b38eeffb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "2 finger drag me",
+  "setter": "xj",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F363372B9EF144AC81256CEEE2F36AF0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1167r12p1203r12p1250r13p1286r13p1334r13p1388r14p1497r15p1522r15p1530r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "82b53ee84e001d69df55e49dac5f7b6f7ee7b7a8939217ff517c3bdc26613c3e",
+  "validation_errors": []
+}

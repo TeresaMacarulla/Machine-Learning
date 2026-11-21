@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f7108fc6b88c09df2885c598.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Angle of the Dangle",
+  "setter": "bmac",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "5f9e9127f9774f379a3d2fa59b0e5dc2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r12p1202r13p1216r13p1283r13p1304r13p1374r13p1392r14p1450r15p1479r15p1488r15p1533r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.1,
+  "ascensionist_count": 10,
+  "quality_average": 3.4,
+  "hold_fingerprint": "5cef473030663cbeb69fcccff7a4657e9e5f315facf1ed720e5abfa8adee6b0c",
+  "validation_errors": []
+}

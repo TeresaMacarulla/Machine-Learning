@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e681b587e63c0b0694ebb2ed.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Burial Plot",
+  "setter": "mikebann",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 10
+  },
+  "source": "boardsesh",
+  "source_uuid": "88b2053f9ab04fed9593a167775d093d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r15p1129r15p1143r12p1193r12p1215r15p1231r13p1267r13p1268r13p1270r13p1290r13p1340r13p1395r14p1465r15p1487r15p1527r15p1535r15p1536r15p1543r15p1560r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "135f4713fe73aa9ed391955e56bb98f299e6becb1c9594cdb7795d0fd7ffb820",
+  "validation_errors": []
+}

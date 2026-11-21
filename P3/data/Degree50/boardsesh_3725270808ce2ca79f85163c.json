@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3725270808ce2ca79f85163c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "beta Boulder",
+  "setter": "beta",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "BAEC81E64AA6400083363915321AC8E3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1131r15p1154r12p1169r12p1181r15p1214r15p1221r13p1235r13p1236r13p1249r15p1269r13p1302r13p1334r13p1353r14p1452r15p1478r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.15,
+  "ascensionist_count": 13,
+  "quality_average": 3.46,
+  "hold_fingerprint": "d7077026aad1d010f5c522a3abcee74b8cd717bbd384e520de2e0b236f49ff7e",
+  "validation_errors": []
+}

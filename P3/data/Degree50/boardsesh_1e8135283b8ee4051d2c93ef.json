@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1e8135283b8ee4051d2c93ef.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Fear of Commitment",
+  "setter": "nickvh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "BB6BA2960B3145C481EA100BA44736A0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1168r12p1204r15p1234r13p1280r13p1285r13p1347r13p1379r14p1451r15p1456r15p1542r13p1584r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1b89c53e1788be9ac577e71d8f7ddca1e0cf060a9d94371e91601c04566e861e",
+  "validation_errors": []
+}

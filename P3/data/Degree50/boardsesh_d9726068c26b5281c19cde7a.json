@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d9726068c26b5281c19cde7a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Warm 2",
+  "setter": "calvinyeung",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5502951b-388e-4687-b0fb-67b1c9aea825",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1257r12p1255r12p1202r15p1306r13p1242r15p1325r13p1394r14p1340r13",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 14,
+  "quality_average": 3.6,
+  "hold_fingerprint": "4a0bcd8a1073ad2743c574cb75daf83c0057dace9802f9e5b7a303a8baaa1b12",
+  "validation_errors": []
+}

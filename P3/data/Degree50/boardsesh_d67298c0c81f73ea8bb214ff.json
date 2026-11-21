@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d67298c0c81f73ea8bb214ff.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Super Pinchy",
+  "setter": "gym_rat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "A30C694374B84A2999F7B8562EC272EC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r15p1191r12p1242r12p1271r13p1274r15p1283r13p1287r13p1298r13p1318r13p1367r14p1530r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.96,
+  "ascensionist_count": 1934,
+  "quality_average": 3.3112331606217618,
+  "hold_fingerprint": "a69b6eee0ffb2879f4a071a26b02f775cf60f4e4f52810a1d6c6ab6fa88d08e9",
+  "validation_errors": []
+}

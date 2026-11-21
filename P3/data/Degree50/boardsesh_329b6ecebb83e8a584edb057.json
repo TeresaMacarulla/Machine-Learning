@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_329b6ecebb83e8a584edb057.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Humanized Slingshot ",
+  "setter": "Vladimir_Putyakov",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "736be874-e6c5-4f5b-a101-aae824c56b35",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1183r15p1198r15p1304r13p1187r12p1507r15p1258r12p1516r15p1313r13p1299r13p1380r14",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 4,
+  "quality_average": 2.0,
+  "hold_fingerprint": "508da408a56eae3a37d862de68b7c3d8ead517143747d1eb0dac78d928bcef95",
+  "validation_errors": []
+}

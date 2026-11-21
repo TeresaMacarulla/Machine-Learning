@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_41f6cc06d68224c20bdca56d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Fido Waitress",
+  "setter": "shortdrinkofwater",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "BDAE9C903F8A48EE91DD861641A0855E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1143r12p1178r15p1192r13p1234r15p1245r13p1246r13p1300r13p1315r13p1366r13p1379r14p1463r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "91bf5acc71a4f37513f557f9ab705eb7f4f9da86112652ac9750809116cec36c",
+  "validation_errors": []
+}

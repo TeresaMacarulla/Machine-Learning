@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_78b4e62352e7b5ad7f34d92a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Magical systems",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "f0ea696b83864b31a6a2c1679ef5340e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r15p1197r15p1199r12p1203r12p1252r13p1266r13p1301r13p1315r13p1351r13p1383r14p1469r15p1496r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.92,
+  "ascensionist_count": 13,
+  "quality_average": 3.62,
+  "hold_fingerprint": "3351b2194495e10e9542d95ec177be70eaaeececdc7ca5ba856b92fe6ee8cd4d",
+  "validation_errors": []
+}

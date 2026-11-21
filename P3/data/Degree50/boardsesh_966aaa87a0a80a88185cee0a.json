@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_966aaa87a0a80a88185cee0a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Step in the void",
+  "setter": "Fortuna TOP",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "a39cfbe6-4ca6-455f-ba87-1b93868e478c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1145r15p1198r13p1177r13p1092r15p1501r15p1227r13p1532r15p1318r13p1352r13p1340r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "43217e1665cb1a4d7aa295e3302d73afcc0f2e11a1536628368909efffcc76ef",
+  "validation_errors": []
+}

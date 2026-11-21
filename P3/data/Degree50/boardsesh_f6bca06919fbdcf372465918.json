@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f6bca06919fbdcf372465918.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Tyske aner",
+  "setter": "KassePerson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "11dba5fa-67f7-4eab-a220-85e93da47bb8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1185r13p1215r13p1081r15p1471r15p1231r13p1144r15p1245r13p1501r15p1492r15p1298r13p1510r15p1519r15p1331r13p1347r13p1380r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 7,
+  "quality_average": null,
+  "hold_fingerprint": "3ab50560505a9755684536e4ff25a1ad7d5688e8938170d875edea1aafb9543e",
+  "validation_errors": []
+}

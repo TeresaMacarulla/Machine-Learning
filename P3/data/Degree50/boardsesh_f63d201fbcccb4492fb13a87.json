@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f63d201fbcccb4492fb13a87.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "hanging out",
+  "setter": "spannermad",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 16
+  },
+  "source": "boardsesh",
+  "source_uuid": "1e8d39d08da54aafa6ac64125948221e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1075r15p1155r12p1156r15p1157r12p1223r13p1257r13p1289r13p1302r13p1304r13p1353r13p1388r14p1389r14p1508r15p1517r15p1518r15p1526r15p1532r15p1533r15p1536r15p1540r15p1542r15p1578r15p1586r15p1587r15p1588r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.99,
+  "ascensionist_count": 103,
+  "quality_average": 3.39,
+  "hold_fingerprint": "58961790623a5d38d06f61bcb78c6f617acdf4f7ca116732dfabf86cbde65664",
+  "validation_errors": []
+}

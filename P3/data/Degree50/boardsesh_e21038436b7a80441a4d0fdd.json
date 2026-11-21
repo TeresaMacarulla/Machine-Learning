@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e21038436b7a80441a4d0fdd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Yank",
+  "setter": "SaxonCasi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "a367c278dc1c4468ade9e508080416e4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1154r15p1167r12p1230r12p1287r13p1350r13p1390r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0bf000460e25e30e168fa4ddb0b9e3feea30106595371f517d036aaab5bb6440",
+  "validation_errors": []
+}

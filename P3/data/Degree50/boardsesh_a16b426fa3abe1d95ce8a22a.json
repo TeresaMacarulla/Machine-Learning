@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a16b426fa3abe1d95ce8a22a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Wu 100",
+  "setter": "ethanT",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1260532D6C5B44BD88F9951A14CE7EE8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1166r12p1201r13p1204r15p1255r13p1304r13p1320r13p1389r14p1598r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7bb86a74d0ca2aa49ecfd697ef60351304dc54ff4db085a94691337a8cc96c03",
+  "validation_errors": []
+}

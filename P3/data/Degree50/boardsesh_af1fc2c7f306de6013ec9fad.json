@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_af1fc2c7f306de6013ec9fad.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "KRumble 11",
+  "setter": "Ethan_lavoc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1c0236cd-e2e4-41c3-bb20-3df904a478d3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1384r14p1336r13p1320r13p1272r13p1273r13p1241r13p1222r13p1190r13p1134r12p1137r12p1454r15p1482r15p1500r15p1517r15p1548r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "f5411c6f3939f0057652bef4dc854b717797abeed2a3cf6a77203faed86fe7c1",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e9990c4b828d0b04562eef98.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "WC 3.5",
+  "setter": "richiec4",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8654a674-7337-4796-b554-155b7783c238",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r12p1199r13p1466r15p1250r13p1484r15p1253r13p1504r15p1270r13p1514r15p1309r13p1342r13p1394r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 3,
+  "quality_average": 4.0,
+  "hold_fingerprint": "735b0f3f3a328cae70752609e14028f1574a8848c7833d97199574dfbf8bf00b",
+  "validation_errors": []
+}

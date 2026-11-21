@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f5f78e9a415949ab12b2f179.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Chapito",
+  "setter": "ChapoClimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "487A97A25E7B4C08958A5FE24BEC3BE2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1121r12p1130r15p1184r13p1206r13p1246r15p1266r13p1269r13p1322r13p1388r14p1447r15p1453r15p1500r12p1534r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "66c6a3e29932d54a4b44abf32c9fa179e21e870da7ce46c464ddb826610dd0a8",
+  "validation_errors": []
+}

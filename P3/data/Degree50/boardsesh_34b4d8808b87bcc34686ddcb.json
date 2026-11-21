@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_34b4d8808b87bcc34686ddcb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Ivy geranium",
+  "setter": "ElvisS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "d58bc706aa4d44a9871ae3811420c8f5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1170r15p1221r12p1223r12p1237r15p1242r15p1257r13p1306r13p1308r13p1344r13p1359r13p1394r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "64d3e63e4d51f34cc55e1dae1e80cc10a6d72f85ba582eef7828efaa0422058a",
+  "validation_errors": []
+}

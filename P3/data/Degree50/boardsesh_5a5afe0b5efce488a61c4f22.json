@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5a5afe0b5efce488a61c4f22.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "You cross to the left then you cross to the right",
+  "setter": "MrDurian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 10,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "6b8843116ed24e91a03ccd74f971c947",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r12p1138r12p1141r15p1153r13p1165r13p1169r13p1181r13p1223r15p1228r13p1248r13p1254r13p1283r13p1322r13p1340r13p1393r14p1447r15p1453r15p1456r15p1511r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bcc4a056db011b57165cafc914dc79399c16c9545fe9148667920e9b3c04aa9d",
+  "validation_errors": []
+}

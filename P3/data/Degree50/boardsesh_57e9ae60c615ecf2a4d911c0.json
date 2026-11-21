@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_57e9ae60c615ecf2a4d911c0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Stronger",
+  "setter": "demyanek",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "7128D014150B4FEAA3CD290E594ED8B6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1093r15p1141r15p1164r12p1228r13p1233r13p1243r15p1280r13p1318r13p1350r13p1389r14p1510r15p1539r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "988ba1f7561858a8a10e80fa2340cc7fa995d8e0edbf71aafee4ff9e7a49b656",
+  "validation_errors": []
+}

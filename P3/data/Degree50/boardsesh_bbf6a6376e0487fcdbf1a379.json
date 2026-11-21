@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bbf6a6376e0487fcdbf1a379.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "pince-mi pince-moi",
+  "setter": "VinceNor",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "58df36dddc934ec8b7663d6757b48933",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1111r12p1115r12p1148r13p1186r13p1234r13p1287r13p1336r13p1373r13p1391r14p1455r15p1460r15p1471r15p1523r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.82,
+  "ascensionist_count": 48,
+  "quality_average": 3.49,
+  "hold_fingerprint": "b142cc5f1b4c1d8f72daa6478830fb02213f82295c0b92638b3b3084e598991e",
+  "validation_errors": []
+}

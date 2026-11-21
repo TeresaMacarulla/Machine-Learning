@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d7202081920233d75340d6e0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Brown and Sticky",
+  "setter": "100dane100",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9F873B94DD2648DC9E8BD353F9A6C43E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1163r13p1215r13p1220r15p1234r13p1302r13p1315r13p1319r13p1365r14p1366r14p1460r15p1469r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "fdf142f653a7f1ed7ee86c52818822c780f36e7080c7c5e67b248f8a3f3fe0cf",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_16f9210fe341305ac82e85a3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "balright",
+  "setter": "Eunhochoisigma",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "c8779cc9-504d-4651-bf47-264f7a8f3440",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1303r13p1230r13p1457r15p1163r12p1216r13p1351r13p1386r14p1267r13p1144r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.86,
+  "ascensionist_count": 8,
+  "quality_average": 3.43,
+  "hold_fingerprint": "d8f64a3b9e128b027a8b2be77b8c6ebed1caea55d2fb76eebdf5bccea8f74c12",
+  "validation_errors": []
+}

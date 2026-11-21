@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_461d9767ad83fa9ae96d9462.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "flow.",
+  "setter": "oliverw_climbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "73b6809a-eb7b-4d7e-b29e-5dc6f55a9341",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r12p1155r12p1168r15p1225r13p1239r13p1265r15p1272r13p1320r13p1336r13p1384r14p1481r15p1557r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.14,
+  "ascensionist_count": 7,
+  "quality_average": 3.86,
+  "hold_fingerprint": "e7e008c39131e6779888e04cf966ccbd28fab662c281e650e417a0c1bc817b40",
+  "validation_errors": []
+}

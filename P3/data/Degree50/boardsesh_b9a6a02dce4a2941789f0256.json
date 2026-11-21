@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b9a6a02dce4a2941789f0256.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Cutting A Traverse",
+  "setter": "boyer_brothers",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "c904deab893247e085f3e1183719dd3d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1170r12p1201r13p1222r13p1254r13p1302r13p1315r13p1384r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "21b2ce50ce9c9687828592fef6548b90fa4c3cc8f9a18639e74e88d6788cc5fe",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_697bf6bb4d2b85cf1b399238.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Gamba Juice",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "FAC2816BE0E7404393BDF319848BD3C5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1159r15p1177r12p1232r13p1320r13p1374r13p1392r14p1487r15p1504r15p1511r15p1542r13p1578r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 16,
+  "quality_average": 3.38,
+  "hold_fingerprint": "f3518f9d34a0bc93ecdd236c2edb70dff112e1725406e71fbd71038f50b9b84b",
+  "validation_errors": []
+}

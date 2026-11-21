@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_56a477f209d8aae52eaff7e5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "rob zombie",
+  "setter": "RNorris",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "568F236C0ECA4141AC0930A7E3E8AA22",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r15p1183r12p1186r12p1232r13p1266r13p1297r13p1318r13p1339r13p1390r14p1469r15p1479r15p1529r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "3b29054ed3ee4b10e1f570545cba0df85b24e072a5ea0fe596cc105b53cccb9f",
+  "validation_errors": []
+}

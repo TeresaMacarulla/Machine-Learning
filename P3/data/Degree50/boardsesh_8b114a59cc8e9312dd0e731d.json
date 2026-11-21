@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8b114a59cc8e9312dd0e731d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Solitaire",
+  "setter": "BiggieCheezeDawg",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "baaa5f9b-5fa3-4690-b389-ad212e1259f6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1241r13p1307r13p1352r13p1386r14p1447r15p1139r12p1156r15p1224r13p1557r15p1482r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "8ef48ebef7ce8a81ef4a40837c6b33f0aa6760626377e628ef876f3670abb773",
+  "validation_errors": []
+}

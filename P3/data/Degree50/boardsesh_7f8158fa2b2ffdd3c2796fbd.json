@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7f8158fa2b2ffdd3c2796fbd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "pinch training",
+  "setter": "Mong",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "a40beb0c-ec58-426b-894c-4900d360b0c0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1216r12p1247r13p1268r13p1479r15p1505r15p1321r13p1395r14p1344r13p1291r13p1507r15p1527r15p1323r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "0bcce625ad8e0ebb7138ad71e89e20ccd4d656474db21161f84f70e2b84d4cfa",
+  "validation_errors": []
+}

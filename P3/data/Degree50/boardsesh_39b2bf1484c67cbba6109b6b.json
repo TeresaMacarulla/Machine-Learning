@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_39b2bf1484c67cbba6109b6b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "RIP UdeM",
+  "setter": "louissimon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "3D1D198A433145A89337D5C203F3E371",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1170r15p1186r12p1199r15p1239r15p1241r12p1246r15p1270r13p1271r15p1304r13p1335r13p1349r13p1362r14p1500r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "c5825d9f8b12589714bc6f5857230e2161d214170df3b4e2f150bbe733f76ff2",
+  "validation_errors": []
+}

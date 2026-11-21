@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_32f2dcfe32a0c5207a3a4ea2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "during the alarm",
+  "setter": "Goldfish",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "68A165097B9F48D0983532AEBDC56FF4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r13p1200r12p1216r12p1270r13p1292r13p1326r13p1394r14p1471r15p1477r15p1494r15p1534r15p1536r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "7e7a1b054b40d6fc080779708873c716118db7bd09b6885f17c7d489130e7b10",
+  "validation_errors": []
+}

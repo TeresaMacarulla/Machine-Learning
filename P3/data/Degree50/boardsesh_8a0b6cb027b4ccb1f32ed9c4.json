@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8a0b6cb027b4ccb1f32ed9c4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "no foot no match",
+  "setter": "Lilian14",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "dd724b340dde4df6b1ee606e6c2bb62a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1257r12p1259r12p1340r13p1343r13p1387r14p1389r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "5b681398938ef1686a2f4451256fd86fbfceb3bbb3b89db540a6de0b84c54365",
+  "validation_errors": []
+}

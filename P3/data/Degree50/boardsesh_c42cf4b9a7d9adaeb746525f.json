@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c42cf4b9a7d9adaeb746525f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "bakboord",
+  "setter": "thijs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C6A3ABCE739546DB9C48FF69CDA81529",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1095r12p1125r12p1177r13p1193r13p1206r15p1233r13p1284r13p1288r13p1298r13p1348r13p1383r14p1460r15p1465r15p1520r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "9220379196266c5b4832dbd097e43ad43dde90105210ab411a6385d3562ea2b5",
+  "validation_errors": []
+}

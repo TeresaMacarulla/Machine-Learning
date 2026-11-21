@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2ec1c7fca432c27965a3ef26.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Sid de l'\u00e2ge de glace (no foot)",
+  "setter": "LegitShaco",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "77baaf6887e5470884ef55d3a659c9f2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1231r12p1233r12p1300r13p1331r13p1380r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e21442e1bbcf49b2a097c84663d5a578c8cd47f43163f67da3d2412774c31688",
+  "validation_errors": []
+}

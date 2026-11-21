@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f93d1f4987890157673b89fd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "standardbewegung no.2",
+  "setter": "Leoliebtleberkas",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "f7a94410ec3f46a3a4e655d5d99b8569",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1093r15p1130r15p1145r12p1161r15p1163r12p1195r13p1249r13p1280r13p1335r13p1385r14p1510r15p1531r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.83,
+  "ascensionist_count": 6,
+  "quality_average": 3.17,
+  "hold_fingerprint": "3eee50c648da906d2b737d6d6bfda08770053addaab9e6a8ea4b4c24209a954d",
+  "validation_errors": []
+}

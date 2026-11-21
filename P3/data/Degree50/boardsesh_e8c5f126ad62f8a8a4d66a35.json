@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e8c5f126ad62f8a8a4d66a35.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Turn Around Now",
+  "setter": "SenatorWiggles",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3A668EA0C38F4050A75EF9921571388D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1251r12p1269r12p1301r13p1314r13p1383r14p1514r15p1538r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "488c6c3c796fb22a638474bcefc33894cd720eb36e976b225b2a44c59f9a3e29",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_838ab6c803b68fd60f942401.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "foolin'x",
+  "setter": "joe1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8f3502dd-b6b0-4eb4-a864-195092bbd363",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1148r12p1455r15p1179r13p1462r15p1304r13p1372r13p1534r15p1283r13p1391r13p1395r14p1248r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 1.5,
+  "hold_fingerprint": "3d9da19b124c1c65ca29641e13e46a8317a1eda037518fe7553f4d2ccf36a747",
+  "validation_errors": []
+}

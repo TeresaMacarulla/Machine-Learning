@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d10c5b2dd2122b7f318e62ea.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Oldschool V7",
+  "setter": "Yoshisapple",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E869AD49FC35451FB385706944020B92",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1115r12p1147r12p1216r13p1248r13p1249r13p1301r13p1339r13p1388r14p1495r15p1523r15p1531r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.99,
+  "ascensionist_count": 1970,
+  "quality_average": 3.3008629441624366,
+  "hold_fingerprint": "e7445d82a24145946b92d10f653c7cb097fa3cd270b97aa4c8e219a85b1f3168",
+  "validation_errors": []
+}

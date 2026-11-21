@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b9830d2f785c477419a92a48.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "dither trick",
+  "setter": "twanetoner",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3eb0dcc2-9db3-4f0c-b149-92c6a5123588",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1110r12p1461r15p1214r13p1231r13p1504r15p1532r15p1515r15p1270r13p1320r13p1356r13p1395r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "43c236857f41aff42ea9864e5d01c9583c613370ee0b46e2d14bfec09d2fa7bc",
+  "validation_errors": []
+}

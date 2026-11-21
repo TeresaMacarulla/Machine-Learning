@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1a3f672ded0a49823db98df8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Accio !",
+  "setter": "yarden.pilpel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "92596f33eff443b6a9c5ed590a9a3727",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r15p1162r12p1163r12p1204r15p1248r13p1255r13p1285r13p1286r13p1358r13p1387r14p1476r15p1506r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.1,
+  "ascensionist_count": 10,
+  "quality_average": 3.8,
+  "hold_fingerprint": "0f7692476d0a348c93e7d1261eb31192cc631e4b4b1dc24151a037378c8439dc",
+  "validation_errors": []
+}

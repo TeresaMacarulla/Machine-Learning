@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d73adfbdeaf6502695b12704.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Chips n Ketchup",
+  "setter": "frankystamour",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "68B41FC00611498CACC84D49872A644A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1182r12p1210r13p1260r13p1315r13p1340r15p1349r13p1387r14p1458r15p1462r15p1512r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "71535d21a2f50e5f6a78184b075e990d4873a8bfcf4518a685201f0a5a8e8f24",
+  "validation_errors": []
+}

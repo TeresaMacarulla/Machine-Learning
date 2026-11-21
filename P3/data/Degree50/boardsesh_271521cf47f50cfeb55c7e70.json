@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_271521cf47f50cfeb55c7e70.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Reap What You Pasta",
+  "setter": "KilterStudio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B999FC38366E44BEB7AC6CC7BCEA091E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r15p1145r15p1185r12p1196r15p1202r12p1215r13p1246r15p1267r13p1280r13p1317r13p1331r13p1386r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.03,
+  "ascensionist_count": 320,
+  "quality_average": 3.33,
+  "hold_fingerprint": "430701a92fd1661069e3585633b9d6336afa6a44b7a08684005562b3b86d997c",
+  "validation_errors": []
+}

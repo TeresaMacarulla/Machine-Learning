@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_503c6bd17b6fe6ddbe39f0b4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "throw up",
+  "setter": "sm20ka",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9F5E3B70D55D406980E8D6A8222282AD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1082r15p1132r12p1133r12p1181r15p1205r15p1219r13p1270r13p1324r13p1356r13p1391r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "6976b34572c63a5820a462270523e4c3858d6b56bfcf11d15914f9ca83310a09",
+  "validation_errors": []
+}

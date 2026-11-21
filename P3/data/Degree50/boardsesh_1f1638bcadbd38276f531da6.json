@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1f1638bcadbd38276f531da6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Controlla Playa",
+  "setter": "TheWhisper595",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7a744323-7775-4620-90f4-b640ad3417ac",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1158r12p1127r12p1179r13p1263r13p1302r13p1306r13p1344r13p1395r14p1168r15p1517r15p1465r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c95f32beeca32c0b73e6a9a4c47808353c181532f3f33bcfd595538de7367246",
+  "validation_errors": []
+}

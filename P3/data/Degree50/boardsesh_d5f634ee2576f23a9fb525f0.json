@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d5f634ee2576f23a9fb525f0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "be water 2",
+  "setter": "tobiasiding",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "87CE4F6F244C4F4E9942C05430D22C82",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1184r12p1251r13p1298r13p1351r13p1382r14p1455r15p1468r15p1476r15p1480r12p1493r15p1529r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.07,
+  "ascensionist_count": 55,
+  "quality_average": 3.43,
+  "hold_fingerprint": "24e46419f83e462243ee59bb3a063f33134b0b298f22c8f989d5ccd934686a59",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d299261f6c8d662f9ca9ff7f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Kilter Olympics Finals M1",
+  "setter": "ZiYi1234",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "04389B76594D4AD586EA3258668A2809",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r15p1177r12p1247r13p1312r13p1385r14p1387r14p1475r15p1541r15p1550r15p1560r15p1594r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 5,
+  "quality_average": 2.4,
+  "hold_fingerprint": "4f3e1dd44c435a0818249072a3abeb556eb2b8ef99b948309fce008c4b9b9b23",
+  "validation_errors": []
+}

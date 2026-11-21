@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8b96ca4544fd8ca75fbf0aa5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Right shoulder, I hate you",
+  "setter": "dlebewitz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "7DC0275A986C4E9B90440ACCDEEE2862",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1167r12p1203r12p1234r13p1263r13p1316r13p1348r13p1384r14p1452r15p1454r15p1455r15p1456r15p1501r15p1530r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.33,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "55349ab149e0e2e227e965669f58d859b984f941da157285748c828c2c38474b",
+  "validation_errors": []
+}

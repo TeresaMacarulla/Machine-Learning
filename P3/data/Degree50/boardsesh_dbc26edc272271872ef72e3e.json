@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dbc26edc272271872ef72e3e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Do something",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "c5b7213c8ebe499c816791250c8087e7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1144r15p1214r12p1230r12p1267r13p1283r13p1336r13p1369r13p1389r14p1505r15p1561r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 8,
+  "quality_average": 4.0,
+  "hold_fingerprint": "1a46b8a89bb5ad567b2c59971354b351a6355624d21c9e72dc3d132aa509d7e6",
+  "validation_errors": []
+}

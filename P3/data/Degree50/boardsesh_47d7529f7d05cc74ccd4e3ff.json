@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_47d7529f7d05cc74ccd4e3ff.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "BSL training 2",
+  "setter": "BielSerraLlop",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "60dec7122a054b23a0e0a2d0a1b7e0af",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1134r12p1199r13p1210r15p1285r13p1287r13p1295r13p1298r13p1345r13p1381r14p1489r15p1519r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 4,
+  "quality_average": 5.0,
+  "hold_fingerprint": "ec47ab540480f52c641a838b463ec4a846c19bdeed1da8ee8c9086bf9bc51a98",
+  "validation_errors": []
+}

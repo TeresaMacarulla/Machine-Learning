@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a4a359a1319f416f784e1be5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Asian Dimensions",
+  "setter": "ksmd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "ca2b73c7d54140fab29917999fd5c885",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1110r15p1130r15p1143r12p1197r13p1266r13p1270r13p1320r13p1338r13p1385r14p1533r15p1575r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.02,
+  "ascensionist_count": 338,
+  "quality_average": 3.39,
+  "hold_fingerprint": "b5a954a2fe46a1e2bee2a3d5ac148bff2b9fc806f1b8b111484e89bb497702ae",
+  "validation_errors": []
+}

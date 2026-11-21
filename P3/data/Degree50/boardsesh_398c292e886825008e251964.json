@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_398c292e886825008e251964.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "BoulderhausReut_First",
+  "setter": "BoulderhausReutlingen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "C2607FDA930E49A99149CD54138CB175",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1126r12p1142r15p1147r12p1152r15p1165r13p1201r13p1233r13p1267r13p1283r13p1309r15p1321r13p1371r13p1392r14p1459r15p1462r15p1476r15p1530r15p1561r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "6d94b9c6fdb0753b6613781f36c2185b74980c0c0aa24a770db735f503a6adea",
+  "validation_errors": []
+}

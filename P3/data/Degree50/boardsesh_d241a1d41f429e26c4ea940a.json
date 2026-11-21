@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d241a1d41f429e26c4ea940a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "The Little Squeeze v2",
+  "setter": "Aganonce",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "d8b24c4d-8f88-4cd9-80f2-4008dce402dd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1147r12p1457r15p1469r15p1478r15p1487r15p1505r15p1202r13p1232r13p1287r13p1301r13p1514r15p1523r15p1532r15p1338r13p1368r14p1389r14p1559r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.33,
+  "ascensionist_count": 5,
+  "quality_average": 1.33,
+  "hold_fingerprint": "aaac2b55c56710abf20d5e2156bf1b2d83b784a86528934d2f3d21e84f9d115b",
+  "validation_errors": []
+}

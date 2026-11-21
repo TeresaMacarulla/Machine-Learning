@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d87e092578456a1cd3d79f51.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "THE Pinch Testpiece",
+  "setter": "VadimDelakian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "C2C326C9F6BF4DB8B9483BFE91A24628",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r14p1186r14p1216r13p1254r13p1285r12p1322r12",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 20,
+  "quality_average": 3.25,
+  "hold_fingerprint": "45e8f5d7b76617f290bcd8345dbc11adc93d506e4db9f61c422bd2d0d1b5e74b",
+  "validation_errors": []
+}

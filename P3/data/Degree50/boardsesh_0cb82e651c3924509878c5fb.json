@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0cb82e651c3924509878c5fb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "T warm",
+  "setter": "aidancallan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "78571BF70F3C466EA12090A50B1949C3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r15p1132r12p1198r12p1287r13p1320r13p1390r14p1468r15p1504r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0791ce31a16c0bf36f320c7a013f8f683260c312ed60c39dd911faff40ed9f53",
+  "validation_errors": []
+}

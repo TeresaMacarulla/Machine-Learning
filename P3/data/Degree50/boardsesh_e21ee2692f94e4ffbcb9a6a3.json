@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e21ee2692f94e4ffbcb9a6a3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "ruo-lan",
+  "setter": "liam.eggs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "bff2adbcca1544b4a27ed61d123a748a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1103r15p1148r12p1154r13p1168r12p1222r13p1242r15p1244r15p1249r15p1270r13p1290r13p1332r13p1338r13p1379r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "76991ef55b8babc46582061e7c75148b8534c978f1927b77f726179a220c18cc",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b123eefe3c9306133e860b50.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Mission-possible",
+  "setter": "Phips",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "40003383C0234097B9E4A840E61A1EA8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1203r13p1212r15p1233r13p1284r13p1332r13p1383r14p1455r15p1489r12",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.1,
+  "ascensionist_count": 10,
+  "quality_average": 3.6,
+  "hold_fingerprint": "55ba91850759965c3d8ef344c110e3dab47741837e41c84730a0c383ffe34d78",
+  "validation_errors": []
+}

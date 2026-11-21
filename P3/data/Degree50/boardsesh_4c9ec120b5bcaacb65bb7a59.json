@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4c9ec120b5bcaacb65bb7a59.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "klimat during covid",
+  "setter": "klimat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "EF4B3DC724C64A31A38D692F569F5CB4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1107r15p1162r12p1163r13p1176r12p1231r13p1268r13p1353r13p1387r14p1506r15p1524r15p1550r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 20,
+  "quality_average": 3.6,
+  "hold_fingerprint": "56fe97f24ac2a02a08476b3b7b123722513ef547b6eedd2e0096c9bab2c7a14a",
+  "validation_errors": []
+}

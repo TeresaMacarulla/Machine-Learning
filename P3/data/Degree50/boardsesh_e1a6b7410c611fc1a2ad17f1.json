@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e1a6b7410c611fc1a2ad17f1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "shaking foot",
+  "setter": "Abe_S",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "d63edfce092641839a8a0da9db706eac",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1179r12p1231r13p1261r13p1313r13p1329r13p1383r14p1474r15p1503r15p1519r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.33,
+  "ascensionist_count": 3,
+  "quality_average": 2.33,
+  "hold_fingerprint": "73b42df7b9407353d5ff5e04e8135b90469e934de24beb913ff81151fa1710f6",
+  "validation_errors": []
+}

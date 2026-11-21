@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fb123dc30d1527aba1200a4f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Bad asteroid",
+  "setter": "Alirock",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "40ee3da83a0542c8b894292bc593d006",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1239r13p1256r13p1301r13p1389r13p1391r13p1395r14p1478r15p1518r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.29,
+  "hold_fingerprint": "e00e2cedc871f8e6c60bee00391784a3576b511863d43f287cd9e2ac1fee5bf0",
+  "validation_errors": []
+}

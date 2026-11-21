@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7c362787fa0056647e876a3e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "All of the Lights",
+  "setter": "krimdogbillionaire",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "D17FE839DBD64876B3750595F9660E9C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1085r15p1163r12p1199r13p1254r13p1319r13p1331r13p1335r13p1380r14p1543r15p1549r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 15,
+  "quality_average": 3.92,
+  "hold_fingerprint": "a7e66a87df1f2e0df36d9c3a70c3df4b6c17b00ed65d13aebfd7f753d9f276ac",
+  "validation_errors": []
+}

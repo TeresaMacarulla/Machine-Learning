@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_906fcbbbf593d0d0d5d11f20.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "dead left",
+  "setter": "zealot",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7C967449496348888F8685C366523C43",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1167r12p1199r13p1249r13p1283r13p1305r13p1373r13p1394r14p1469r15p1479r15p1506r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7551e7204571d0cbb868b12d2883a166192ae5ad1d85d3121841ef5d87bd192d",
+  "validation_errors": []
+}

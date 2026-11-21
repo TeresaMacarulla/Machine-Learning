@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c6a508f47d01705e54bb55b9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Wagon Left #2",
+  "setter": "hcw20",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5a38b907d3fd4c0a959f100baa28dab4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1155r12p1157r15p1186r13p1256r13p1302r13p1313r13p1316r13p1380r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "fae48aeb94d575340c3a3c4e1576d9a202bb2fc1430952b72b93deacd013e843",
+  "validation_errors": []
+}

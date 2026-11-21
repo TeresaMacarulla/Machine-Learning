@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b536706be764ba6a82bfa61d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "zero to the end",
+  "setter": "Cole_Crosby",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "c93e3ca0943248f1a8a279d513fa1ab4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r12p1096r12p1099r15p1130r15p1145r13p1183r13p1204r15p1214r13p1252r13p1284r13p1338r13p1387r14p1392r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "54b88ae5e3fa807e80f9ccfb87bc4a1a42432809866dfb901617a6faca8d8730",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3cf24fb853c5246e67388c9d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "No feet just campus",
+  "setter": "xienclimb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "39d995a1-7c4e-4206-bdf5-ae572978c0cd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1209r12p1210r12p1260r13p1300r13p1303r13p1306r13p1374r13p1394r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "7d2b9fbbb7bebcfb2159f5c16d2b8d538a35179059c8884eed1880a4cc975178",
+  "validation_errors": []
+}

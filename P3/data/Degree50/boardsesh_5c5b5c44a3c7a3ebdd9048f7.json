@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5c5b5c44a3c7a3ebdd9048f7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Wishing Thinking",
+  "setter": "ksmd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "bf1f211b239c4b01997508ee05d65cd6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1184r12p1199r12p1254r13p1285r13p1291r13p1339r13p1357r13p1387r14p1471r15p1488r15p1524r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1fd9014c4590cf83fa679f22f114b3f79af0b25a7ba42dfe4ed317c75fc8d214",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4038b3e5e1548419fd9cf899.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "go loko 2",
+  "setter": "cliff_shredder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "D045C9F13C284261BC7D40C616AE6313",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1198r15p1214r12p1215r12p1255r13p1307r13p1374r13p1389r14p1493r15p1504r15p1506r15p1525r15p1529r15p1552r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.03,
+  "ascensionist_count": 36,
+  "quality_average": 3.4,
+  "hold_fingerprint": "ceeb7135f881dfd76f3be5d784044d75db4c0199c8a91a3742c5940a370466b1",
+  "validation_errors": []
+}

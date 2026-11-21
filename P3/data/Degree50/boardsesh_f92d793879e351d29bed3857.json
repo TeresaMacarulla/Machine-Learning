@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f92d793879e351d29bed3857.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Lain",
+  "setter": "Bennet",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "36b2541d-6e2a-47ee-88bb-605d5da78572",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1301r13p1321r13p1389r14p1263r13p1531r15p1264r13p1144r15p1194r12p1227r12p1533r15p1289r15p1308r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": null,
+  "hold_fingerprint": "eea7850c927e1f7d0b791fb5565598a9022de1ddb32256002d2d5cbc8a06e202",
+  "validation_errors": []
+}

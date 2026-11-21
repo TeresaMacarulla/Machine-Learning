@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_234be9f4d02f3180a040ff4a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Devil Level",
+  "setter": "Trojey",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "71220F75431444E5B7C959E0717AD30E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1201r13p1255r13p1257r15p1320r13p1352r13p1382r14p1457r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.5,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "8701e530597321fc8b3cca74c103ea480bd38c389018fe4953e810384f99a44b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e46fc8b299b8b71f57170a46.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "DO IT!",
+  "setter": "AlanClimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "e747353daa7446e8a68a0731b8ba0a4f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1163r12p1215r13p1252r13p1302r13p1322r13p1353r13p1389r14p1457r15p1460r15p1525r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.04,
+  "ascensionist_count": 80,
+  "quality_average": 3.54,
+  "hold_fingerprint": "6f9283fbc753580ed6a3fa06b9f0a7246fa8f69298865ea033b6bce51b5fc26b",
+  "validation_errors": []
+}

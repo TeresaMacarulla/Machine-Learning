@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_83fd205f8cb9fb6524d86c28.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Campus BA",
+  "setter": "egoitz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "a46cc61127364ffeb5cb2f295af0b0ea",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1165r12p1201r13p1203r13p1271r13p1291r13p1339r13p1357r13p1387r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "078fa85c215213267bda15c936879bc9ba0ecd17fd387885736c2d48f2ecad1e",
+  "validation_errors": []
+}

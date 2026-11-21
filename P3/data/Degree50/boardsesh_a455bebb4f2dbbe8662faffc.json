@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a455bebb4f2dbbe8662faffc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "gotta start somewhere",
+  "setter": "Philbothegeek",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "72428eac-250e-40dc-abd2-1c495adeb469",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1237r12p1252r12p1303r13p1334r13p1548r15p1506r15p1386r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.83,
+  "ascensionist_count": 7,
+  "quality_average": 4.17,
+  "hold_fingerprint": "f9db20eacfddcf8391a1d3fc4fc16890d349188bedcb615032dce06e28282fc4",
+  "validation_errors": []
+}

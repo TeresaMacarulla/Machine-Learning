@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_960e49e7b795b2e1121e5391.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "inject",
+  "setter": "SaxonCasi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "285583004cc8440b8c3ffe5d86c74cc2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r15p1144r12p1145r12p1263r13p1301r13p1336r13p1392r14",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.0,
+  "hold_fingerprint": "04ea18f63785e95abb42c96630cbb44d823856b85834c62b98421a92708b3104",
+  "validation_errors": []
+}

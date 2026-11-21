@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_27d323537e5a7e759b91c61c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "fuse box",
+  "setter": "boddha",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "D6DE3D12D9FD462F804371FCBF7CD6C8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1144r15p1192r13p1279r13p1313r13p1332r13p1380r14p1462r15p1510r15p1538r13p1558r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b1b2e4e70b7a4dd65483ff06c578cd1f23a3ae6413e850c8228fc79f840bc582",
+  "validation_errors": []
+}

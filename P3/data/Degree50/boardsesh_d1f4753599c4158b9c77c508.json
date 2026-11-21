@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d1f4753599c4158b9c77c508.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "smd",
+  "setter": "englewoodipad1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 7,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "0031FF8875E9464986436BCC8BA2D99A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1083r15p1129r12p1147r12p1183r13p1215r13p1229r13p1230r13p1301r13p1333r13p1352r13p1385r14p1386r14p1496r15p1503r15p1541r15p1550r15p1566r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.9,
+  "ascensionist_count": 11,
+  "quality_average": 3.5,
+  "hold_fingerprint": "a04a8a88a77b5b6cf65dfea443bdd2482b02910fd150a9cd77e49594279069bc",
+  "validation_errors": []
+}

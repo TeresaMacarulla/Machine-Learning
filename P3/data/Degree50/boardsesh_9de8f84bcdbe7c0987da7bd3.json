@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9de8f84bcdbe7c0987da7bd3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": ".130",
+  "setter": "yogg",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "81DCC4DDC9B643A3B23AD85254A3E2CA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1165r13p1196r13p1201r13p1268r13p1324r13p1373r14p1459r15p1462r15p1469r15p1503r15p1540r15p1553r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "d12fcc227e7442cf927467652732adc4901d26566c13ecb4e62631c3c1beb3b5",
+  "validation_errors": []
+}

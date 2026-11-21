@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9461efac33d48bebff6b385b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "ShoulderClack",
+  "setter": "JoelHaefliger95",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "f4ab7682-b4b6-4761-b9ae-ead135c8b517",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1160r12p1213r13p1267r13p1107r15p1461r15p1268r13p1505r15p1336r13p1391r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.69,
+  "ascensionist_count": 16,
+  "quality_average": 4.0,
+  "hold_fingerprint": "aef8668cf7619d4e7aca24e942073e96555e637c774a8d10d7ef538c5a9e4862",
+  "validation_errors": []
+}

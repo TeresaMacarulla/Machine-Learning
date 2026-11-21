@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ee76490e4628e25c40d72bce.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Ask and go to the blue",
+  "setter": "Matadorlee",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6F7EF01BE28748C4B89F95AC8484259F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1133r15p1142r13p1143r13p1144r15p1163r12p1192r13p1243r13p1260r13p1279r13p1281r13p1347r13p1380r14p1464r15p1521r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.04,
+  "ascensionist_count": 6066,
+  "quality_average": 3.310836219693221,
+  "hold_fingerprint": "9ae0b5e2b2160a84dcf6a6cc2a4ae54fd7fae01effedb5af336cfd29dd435005",
+  "validation_errors": []
+}

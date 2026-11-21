@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e699e1d2610eaa4b44ea0dc0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "GENERAL ZOD",
+  "setter": "markusleebV",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "4951E9A4E51A492790201904AF8756C9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1131r15p1164r12p1197r12p1228r13p1302r13p1352r13p1390r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6b9a5325580652c8a6075f719aa64f0c352095eb2acedb7504940598a70ee2fe",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c69240b63843e94da522ec9d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Sandwich 10",
+  "setter": "reu_kill",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "59287EE379E447CE8E7F513509AD4B90",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1147r12p1201r13p1250r13p1287r13p1351r13p1353r13p1364r14p1493r15p1495r15p1548r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "82d45e02072178139d40db8679b92ebb6ee73c834d3e38f0e9d624d88d125833",
+  "validation_errors": []
+}

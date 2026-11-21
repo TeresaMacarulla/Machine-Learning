@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6f6d36a70a25c721600ea2d5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Zero Power",
+  "setter": "bloop",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "e4ca162ebd814c8eae0434d6eaf241b8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1138r15p1185r12p1254r12p1264r13p1282r13p1298r13p1370r13p1391r14p1521r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.67,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "270e188da4f89ffadf6e792d543a3f4eb0b631d702f4fea00f2bcf55e6d42d72",
+  "validation_errors": []
+}

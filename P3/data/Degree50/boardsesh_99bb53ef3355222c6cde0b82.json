@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_99bb53ef3355222c6cde0b82.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Naked",
+  "setter": "VadimDelakian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "6D1E213185AE4E9297721EEBD085728A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1172r12p1185r13p1287r13p1292r15p1320r13p1341r13p1372r14p1478r15p1531r15p1542r13p1543r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "e6f556abf80282d436d5c6278d597a16340282fd9a5332ac2016f880b55a8cfb",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3aa7aeb45828e41fffe47eaa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Bewegnung",
+  "setter": "mason.reck",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "7a3899546adb4605a13e989c99e7667b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1161r12p1198r12p1248r13p1286r13p1334r13p1386r14p1457r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6578611b6af24facccc7decc64e59aa68230cbbffbeb1440125c3e41922d1db1",
+  "validation_errors": []
+}

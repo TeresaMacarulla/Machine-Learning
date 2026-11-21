@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b7d6a7710c2cce0fac3abab2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "flowing end",
+  "setter": "ND_climbing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "94f3390ec73d4fe9925b382f6537eb34",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1227r12p1267r13p1301r13p1339r13p1387r14p1483r15p1514r15p1548r12",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "31b09ed73701c4c58448e847d7b686a6b5874e39a01f3c46982b75ccb1a204f8",
+  "validation_errors": []
+}

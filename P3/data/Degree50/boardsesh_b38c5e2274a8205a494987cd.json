@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b38c5e2274a8205a494987cd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Hold your horses",
+  "setter": "Nikolauk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "38e49c86d28a4a8d9ec547c7627b5490",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1118r12p1135r12p1199r13p1214r13p1264r13p1285r13p1351r13p1382r14p1450r15p1453r15p1487r15p1504r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.71,
+  "hold_fingerprint": "c01c5d03db7e4f810df7aeade8b08e7da4f50a8494c59f4158dca01ce503c567",
+  "validation_errors": []
+}

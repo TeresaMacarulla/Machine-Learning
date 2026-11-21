@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_51acfb8110fa6e83ab4d12b0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Debatable Pinch Size",
+  "setter": "KilterStudio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "155F1DB34BC747A393DD1A911A9C6BD1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1115r12p1146r12p1183r13p1189r15p1216r13p1237r13p1303r13p1322r13p1355r13p1390r14p1454r15p1456r15p1458r15p1488r15p1523r15p1553r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.75,
+  "ascensionist_count": 6,
+  "quality_average": 2.0,
+  "hold_fingerprint": "67918e592461fbcd2c52f61739717ecd5d1ed57bb2abb81bf66ce04c2c836d88",
+  "validation_errors": []
+}

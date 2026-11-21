@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3fc931e3f9322fceb6deda3d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Walk",
+  "setter": "helloootheree",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5F4CB1BB1D884CC4B2C224F479CB7202",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1083r15p1168r12p1269r13p1316r13p1380r14p1513r12p1576r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "a6a91c73e80b32a512b898e9a861b05296f1fcc046426e008e66cea52c624f5a",
+  "validation_errors": []
+}

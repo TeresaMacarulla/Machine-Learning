@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e3582b18136553931bd1abd0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "wavybaby",
+  "setter": "jesse.walls",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1344931F4CFF4D93B90BD6DECFB496FD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1116r12p1127r15p1198r12p1231r15p1235r13p1271r13p1305r13p1360r13p1392r14p1494r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "301ac2e969e142576dbbd37b78caa6199b11931a3b522b82dfbb301b4a068135",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f5275c237bfe0758acf4e5e7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "clammyhands",
+  "setter": "maxpenny",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "D10E03978DD84146B002F00792B18107",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1137r15p1190r12p1236r13p1303r13p1309r15p1351r13p1373r13p1392r14p1451r15p1507r12",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "421250a35710a283222e5a862941184a18bf818aa0d372b04b140c1061b51bca",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_240c711105e14d93f4e354fc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Simple Popper",
+  "setter": "JoelHaefliger95",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "ecda90cf-447a-4012-8360-6bd0e75ca28f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1239r13p1256r13p1288r13p1200r15p1305r13p1336r13p1373r13p1391r14p1451r15p1447r15p1140r15p1490r15p1499r15p1541r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.7,
+  "ascensionist_count": 50,
+  "quality_average": 4.059591836734694,
+  "hold_fingerprint": "eefe4cb2223b8b1c01308dc4cb93c6dbe0abfd501d68c0914185b532edcfef77",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5a7ba3ff320a4d631ee6b686.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "floating",
+  "setter": "nonouzumaki",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "2df164b3-7f8a-4f29-8d4d-eb6fe57f2c82",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1148r12p1085r15p1201r13p1220r13p1498r15p1269r13p1322r13p1273r15p1390r14p1165r13p1094r15p1134r15p1525r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "3c776fe790b7cdc725d09e66f4ba3bf682cc588c262a04eaae93bb05aa42904f",
+  "validation_errors": []
+}

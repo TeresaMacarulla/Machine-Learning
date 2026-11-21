@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ef09b9686f97eb571bbfee75.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Crimp Check",
+  "setter": "agrphoto",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "D5D8357F49EC4AB2A3201F88BD4093DE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1203r13p1250r13p1286r13p1316r13p1352r13p1387r14p1455r15p1521r15p1532r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 2.0,
+  "hold_fingerprint": "4c9da6e63d6a34095be87d4a2bf99c56f3ca1df32f2c79775c7f8590898df6d0",
+  "validation_errors": []
+}

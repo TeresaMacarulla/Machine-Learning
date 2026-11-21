@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a635ebfde6b73fd2bdd414e9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "burden of gravity v2",
+  "setter": "fill",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "d90fa7f0-2749-488a-b270-bf330be91083",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1163r12p1185r12p1234r13p1353r13p1383r15p1331r14p1287r13p1304r13p1168r15p1249r15p1347r13p1243r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": null,
+  "hold_fingerprint": "f4b934bb04cb92dc6d6ddb78ed40c833c2a48fdc8cb0a4670de2f2bfb3733131",
+  "validation_errors": []
+}

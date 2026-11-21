@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_630d7fcb41e2719f48f09540.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Blindtest",
+  "setter": "h.henriet",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "25908517f8cc4475bb618679bcd1096e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1134r12p1138r12p1169r13p1190r13p1221r13p1257r13p1288r13p1308r13p1359r13p1394r14p1453r15p1517r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.89,
+  "ascensionist_count": 87,
+  "quality_average": 3.25,
+  "hold_fingerprint": "fd3e0d6cb499a45f1face8bdb1882ad3075cec279a4a70f2661c8d475ec3144f",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_adca4a7287438b3355ca0329.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Tattoo",
+  "setter": "christoph.braeuer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "6CC15DD0B6C24640B6CB9A9300EC8E04",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1199r12p1202r12p1285r13p1295r13p1298r13p1332r13p1379r14p1469r15p1479r15p1514r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.57,
+  "hold_fingerprint": "faae932966ea4b610c6799fc5deb2992bff8bd0142050b83bff0d814e66635d1",
+  "validation_errors": []
+}

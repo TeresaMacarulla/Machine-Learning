@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_15cd74834e25db039cd603c7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "crimp test",
+  "setter": "pklap",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "9238d6dc0beb4975b1562a3fc39e4459",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1155r12p1241r13p1255r13p1307r13p1321r13p1373r13p1386r14p1447r15p1482r15p1515r15p1525r15p1536r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.71,
+  "ascensionist_count": 17,
+  "quality_average": 3.53,
+  "hold_fingerprint": "809c11638e0d6d327b216a1bf2e2377a322d17351def7b4df15e092e5b6b839c",
+  "validation_errors": []
+}

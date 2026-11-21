@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1d46546d4a0001926c482e85.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Bricked",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "59F9BE4311924CDEB937DBE4E7CBF32A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1133r15p1162r12p1195r12p1234r13p1249r13p1272r13p1321r13p1334r13p1337r13p1384r14p1507r15p1526r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.99,
+  "ascensionist_count": 267,
+  "quality_average": 3.48,
+  "hold_fingerprint": "20e6a92cc4911338a4082334e1929f169951af12f9d03fb6891fb800fb8b2d95",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c4480c892f75a6fd4ab1ed47.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Furs one done",
+  "setter": "jimfu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "d8df63b6970b449ca4f0a7897b5c9c4a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1152r15p1169r15p1206r15p1234r13p1268r13p1289r15p1306r13p1337r13p1390r14p1454r15p1457r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ecc9bf26916fe6a8ee974e8902dfb1130734c4483adcbd5a6a619ba5ec349def",
+  "validation_errors": []
+}

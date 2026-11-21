@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d3ee4d422723bb6960d4babb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "the Pinch battery",
+  "setter": "harrylh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "ec58237234114f33b2538565426d67e5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1089r15p1131r15p1162r12p1169r15p1177r12p1178r15p1181r15p1216r13p1231r13p1267r13p1298r13p1353r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.92,
+  "ascensionist_count": 14,
+  "quality_average": 3.31,
+  "hold_fingerprint": "507476325d3fe99dcfb2ab09f0b9fd6445e4c8c56dc1d01087ae5a412eeb8b62",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_49eef6796c0583d7d2602af8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Pancake Fiasco",
+  "setter": "Cornelius.kilter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "ee20d790661144b9a7168bd1bdac0d16",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1144r12p1163r12p1214r13p1234r13p1246r15p1301r13p1302r13p1350r13p1387r14p1459r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.93,
+  "ascensionist_count": 15,
+  "quality_average": 3.27,
+  "hold_fingerprint": "dc23fe1793fb8e38f2e90d832b84326f9a78315d781302bcd0e68fdd09a510e7",
+  "validation_errors": []
+}

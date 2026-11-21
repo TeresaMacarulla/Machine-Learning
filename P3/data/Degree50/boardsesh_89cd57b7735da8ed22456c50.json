@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_89cd57b7735da8ed22456c50.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Rastatur",
+  "setter": "vincentdohna",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "dc94b8bdd1d3449db6eded5c9a414f21",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1180r12p1234r13p1251r13p1305r13p1340r13p1357r13p1388r14p1458r15p1470r15p1489r15p1516r15p1534r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8ab26151c7e037378b8de64a33acf41700854642b77e598c7c300ccf27e43517",
+  "validation_errors": []
+}

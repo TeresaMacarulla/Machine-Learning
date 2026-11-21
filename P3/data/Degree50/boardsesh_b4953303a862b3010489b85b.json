@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b4953303a862b3010489b85b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Motor mouth",
+  "setter": "jkassay",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "e4894d61f98148e9821aa2aadec434ec",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r15p1227r12p1249r13p1271r13p1284r13p1339r13p1340r13p1394r14p1538r12",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.94,
+  "ascensionist_count": 4629,
+  "quality_average": 3.3005188067444875,
+  "hold_fingerprint": "76bb1e12eced63b06db2487d139088c4ec920a396d9c326a017041088ffd6821",
+  "validation_errors": []
+}

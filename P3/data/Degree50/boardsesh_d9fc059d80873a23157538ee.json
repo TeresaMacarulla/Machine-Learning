@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d9fc059d80873a23157538ee.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "A Vulgar Display of Power",
+  "setter": "NGS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A6005A473CB94951A2DCF68F3989D979",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1145r15p1197r12p1282r13p1339r13p1355r13p1378r14p1459r15p1464r15p1553r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 4,
+  "quality_average": 5.0,
+  "hold_fingerprint": "2ee0f6561b9be2fb444150874a7ff89e28ee6e8315e70d77d58d1992095723c6",
+  "validation_errors": []
+}

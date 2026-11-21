@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_30e6b08db4b296fb768ac36c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Knochen",
+  "setter": "Tarekrobrahn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "e8541f2505644cdb93ceccf1fe673b34",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r12p1136r12p1201r13p1252r13p1300r13p1313r13p1333r13p1380r14p1449r15p1456r15p1505r15p1529r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "584524f3955808895e975a23b39163cf21615ea406ef7e4d1cfc379a1aa6b43a",
+  "validation_errors": []
+}

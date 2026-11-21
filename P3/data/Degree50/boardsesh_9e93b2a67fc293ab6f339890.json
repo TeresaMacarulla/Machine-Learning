@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9e93b2a67fc293ab6f339890.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "disco move",
+  "setter": "RileyCrusher",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "91804cf49f254e3fade636af567dc79e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1166r12p1204r15p1234r13p1268r13p1302r13p1350r13p1383r14p1453r15p1457r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e86e15915b281806fd0b6c0948193cf8bad2cb2d47f8e885c4847435d66a218c",
+  "validation_errors": []
+}

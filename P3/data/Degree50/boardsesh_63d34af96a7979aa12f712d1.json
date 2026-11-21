@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_63d34af96a7979aa12f712d1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Snailed it",
+  "setter": "xander",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "e8e68a66-b936-41a7-8654-c69209318edb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1198r12p1146r15p1145r15p1163r15p1212r15p1547r15p1266r13p1299r13p1334r13p1387r14p1370r14p1254r13p1149r12",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.33,
+  "ascensionist_count": 3,
+  "quality_average": 1.67,
+  "hold_fingerprint": "0c64243f604ca4da2c88b3e89d0c4c66bee56b78f35b5a9dbf0d91750707789f",
+  "validation_errors": []
+}

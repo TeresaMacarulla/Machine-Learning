@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_85033021a2297f17919a31c2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Burden of Core",
+  "setter": "Mr.White",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b589c054-5cc4-4da3-addc-9be2166f9a37",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1447r15p1156r12p1174r12p1257r13p1306r13p1320r13p1233r15p1536r15p1354r13p1350r13p1557r15p1383r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a2b7883a4190eddbdf3e4eb81a964209df3b1341da41470e6b37d8f26474ccdf",
+  "validation_errors": []
+}

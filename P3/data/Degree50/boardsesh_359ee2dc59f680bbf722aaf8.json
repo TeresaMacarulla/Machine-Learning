@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_359ee2dc59f680bbf722aaf8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Whatever sinks your ship",
+  "setter": "rikischwark",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "2b1d88c102d84932bc68bbff8c638b53",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1286r12p1332r13p1353r13p1379r14p1544r12",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 12,
+  "quality_average": 3.17,
+  "hold_fingerprint": "83ccbe8bb364961f658fc38ec36312a1fe9acbb4a2c7f55e63b3add9e673966f",
+  "validation_errors": []
+}

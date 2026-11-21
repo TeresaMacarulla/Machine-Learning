@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6aea3d51e904fbc330e89aea.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "sstp",
+  "setter": "liam_megos17",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "4a44c606-a027-4f14-9a1c-908d513a16a0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1175r12p1483r15p1231r13p1179r15p1538r15p1334r13p1367r13p1388r13p1393r14p1390r13p1263r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "f601396d90881c7aaca9c089aaaed0952a466dee3ab502803e2c03dfd6c2c4d3",
+  "validation_errors": []
+}

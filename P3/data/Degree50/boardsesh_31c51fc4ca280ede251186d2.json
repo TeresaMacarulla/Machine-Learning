@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_31c51fc4ca280ede251186d2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "sapin",
+  "setter": "nathan69",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 10,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "1de34109eb3a481db28b292c915a6d2a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r13p1129r12p1131r12p1180r13p1198r13p1212r13p1231r13p1246r13p1265r13p1297r13p1316r13p1365r13p1383r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "e8a8e94d440d025f7d7c6a3b0f356a8e08b83677b6a87d8971c9dcca44911807",
+  "validation_errors": []
+}

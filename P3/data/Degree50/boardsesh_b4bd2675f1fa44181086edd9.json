@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b4bd2675f1fa44181086edd9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "experiment 2",
+  "setter": "Jason Todd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "f5991e37-28d4-492e-b9de-46847132a06b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1458r15p1462r15p1183r13p1184r13p1221r13p1499r15p1287r13p1353r13p1385r14p1575r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b1a69c23eb642e06d95c89ad6e942a84d3b9dcb5fe078c6b58034372816c4066",
+  "validation_errors": []
+}

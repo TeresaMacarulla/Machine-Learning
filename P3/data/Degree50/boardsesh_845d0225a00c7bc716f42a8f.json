@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_845d0225a00c7bc716f42a8f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "vfern",
+  "setter": "cwlester",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8E6F753091404BD1982D507BF1215BC0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1168r12p1239r12p1263r15p1269r13p1303r13p1334r13p1351r13p1382r14p1508r15p1514r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "888bda3a69081d9c4a276839fb3b4109eb254e09f2f305b4e75de3606b32c6ed",
+  "validation_errors": []
+}

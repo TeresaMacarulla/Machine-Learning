@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a1271e03c3f801eb7e6a228e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "jump 1",
+  "setter": "Estebane",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "564ba746-6f8c-46f7-a773-f57c9a524af5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1456r15p1454r15p1168r13p1182r13p1489r15p1205r13p1508r15p1506r15p1257r13p1255r13p1222r15p1308r13p1131r12p1133r12p1306r13p1326r13p1394r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": null,
+  "hold_fingerprint": "cac9bea7a2423b6a66d26849e50af37bd0c5dee20b9524019996e27dafd31684",
+  "validation_errors": []
+}

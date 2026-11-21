@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1b891e3fb512e96e796cb4cd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "TWIST",
+  "setter": "Golddigger",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "fc83a6d7-b8c1-477b-a167-5f4ed96ee7c6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r15p1208r15p1221r12p1155r12p1259r13p1257r13p1308r13p1359r13p1377r13p1389r14p1393r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "398c494b7a3ebf8150db88771bd9f891e02e7010bbbe0db8d669aac3ecc7b56b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_34c50bd6781c3c6412d9292d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Vecna",
+  "setter": "jadonmac1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "8E69B063225F4C6B8D76E0DD9AD48EF4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r12p1215r12p1250r13p1265r13p1303r13p1352r13p1388r14p1456r15p1470r15p1494r15p1506r15p1543r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9069a30bd638a77282d8e06adcfafa4a102b2cccd6a3081839a7177e7626aaf0",
+  "validation_errors": []
+}

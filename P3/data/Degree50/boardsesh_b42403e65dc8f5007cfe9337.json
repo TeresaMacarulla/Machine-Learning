@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b42403e65dc8f5007cfe9337.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "scrunchy feet",
+  "setter": "entity_climbing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 8,
+    "foot": 12
+  },
+  "source": "boardsesh",
+  "source_uuid": "9093B875168B47749A8DC814C1FB188D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1120r15p1156r12p1157r12p1169r15p1173r15p1206r13p1219r15p1223r13p1237r13p1239r15p1255r15p1269r15p1288r13p1289r13p1302r15p1305r15p1323r13p1355r13p1356r13p1388r14p1389r14p1447r15p1449r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "28a31d47f64aad2f8c975813f1517891335ce413336bd29753f8e910e96a72a0",
+  "validation_errors": []
+}

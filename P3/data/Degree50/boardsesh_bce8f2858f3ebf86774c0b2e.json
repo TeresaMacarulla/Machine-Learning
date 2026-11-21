@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bce8f2858f3ebf86774c0b2e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "life of Brian",
+  "setter": "kennyMerx",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "830A5763070546448340A776EE2962AE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1102r15p1138r12p1171r12p1185r13p1202r13p1210r15p1245r15p1248r13p1283r13p1332r13p1388r14p1448r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.8,
+  "ascensionist_count": 5,
+  "quality_average": 5.0,
+  "hold_fingerprint": "3b53b9621efaac51074604e6049ed2c62d899cb2cf505fb2dd842ad6c173b67c",
+  "validation_errors": []
+}

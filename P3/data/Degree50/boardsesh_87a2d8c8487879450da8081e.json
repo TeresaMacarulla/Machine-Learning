@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_87a2d8c8487879450da8081e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "The Orchid",
+  "setter": "Jmcbulls89",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "085FBAEB4CA34BEBB0CA5B4B3799DE67",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1140r15p1154r12p1204r13p1241r13p1257r13p1308r13p1340r13p1360r13p1393r14p1451r15p1454r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "780b077a5581d355c20778e6a7f90798fe5f0cbb546fccc027c98513278e87f1",
+  "validation_errors": []
+}

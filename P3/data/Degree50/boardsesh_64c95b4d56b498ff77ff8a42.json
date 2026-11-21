@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_64c95b4d56b498ff77ff8a42.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "true V0",
+  "setter": "muma",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 8,
+    "foot": 11
+  },
+  "source": "boardsesh",
+  "source_uuid": "AF801C854A494AC3901336CB13026E6B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r15p1150r15p1170r15p1171r12p1174r12p1183r15p1203r15p1221r13p1223r13p1239r15p1253r15p1256r13p1257r15p1270r13p1302r13p1306r13p1355r13p1356r13p1390r14p1393r14p1447r15p1450r15p1523r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.1,
+  "ascensionist_count": 21,
+  "quality_average": 3.24,
+  "hold_fingerprint": "bf26d562a5d3cf5d42c4564a93a80f07f31c3ae1349bd18ee595216decb9ac1a",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ef77d21a22804ba1471fddf8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "plout",
+  "setter": "Wayward",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "CE860454D88F4D27AACAD23F01E83784",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1134r12p1135r12p1150r15p1187r13p1206r13p1254r13p1268r13p1335r13p1349r13p1388r14p1490r15p1551r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 4,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8a0c8b009b48555f18e57cb1ba419b4eb57fa1b49d231247a00b6a820ac31ad0",
+  "validation_errors": []
+}

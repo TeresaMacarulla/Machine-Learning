@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b85c0fd588a1643f94a679d1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "TenseDaFeet",
+  "setter": "damienclimb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "B24135C748F14014982D9BE24B50103E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1087r15p1145r12p1168r15p1230r13p1233r13p1265r13p1287r13p1337r13p1370r13p1383r14p1458r15p1462r15p1534r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.75,
+  "ascensionist_count": 4,
+  "quality_average": 4.5,
+  "hold_fingerprint": "b95eab53aafcefb6fd77e93fef9e61087f2d70029a2e35799fcaea7644c8ffe6",
+  "validation_errors": []
+}

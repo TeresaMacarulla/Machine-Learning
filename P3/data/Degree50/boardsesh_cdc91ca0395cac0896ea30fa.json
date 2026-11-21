@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cdc91ca0395cac0896ea30fa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Charlie Kirk",
+  "setter": "robodih",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1cd4078e-391a-4bc9-840f-01b02be95fd2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1192r12p1464r15p1210r12p1294r13p1540r15p1353r13p1255r15p1391r13p1394r14p1092r15p1315r13p1297r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.67,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "cc11dd47eb8cddfc7e063352c6a612463d30f3b1216981c1a9882bf414dd5814",
+  "validation_errors": []
+}

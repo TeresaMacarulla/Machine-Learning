@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3ed22f1c7adcfd3320e0bb31.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Maybe",
+  "setter": "nlun",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "74e68e4f81c24140af546685bf228e4b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1143r12p1148r12p1212r15p1231r13p1248r13p1269r13p1334r13p1349r13p1379r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "299d2062f5f1625c819f44d4f0384a0e54f64040e3c160fb103012edb3da1406",
+  "validation_errors": []
+}

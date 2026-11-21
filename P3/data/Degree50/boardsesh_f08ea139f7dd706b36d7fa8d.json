@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f08ea139f7dd706b36d7fa8d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Dispenser",
+  "setter": "GewieksteVos",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "A31D4E10E45B463890228562AEF8480A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r12p1163r12p1215r13p1236r13p1270r13p1308r13p1337r13p1354r13p1368r14p1497r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2ea6d4288cac7b130e046b4d9367df0c229152c65ba7172618b4ea06f0679d77",
+  "validation_errors": []
+}

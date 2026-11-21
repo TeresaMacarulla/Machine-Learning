@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0e2a7d39addc694784a0083e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "dk64",
+  "setter": "lasertronic",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "90430b1075b64bc489ec765819141a20",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1127r12p1194r13p1228r13p1264r13p1282r13p1318r13p1367r13p1386r14p1461r15p1524r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c24ef32d6b00208a5f0689713ae7f69ed5c78d45a7a3681469605e7f764d9dc2",
+  "validation_errors": []
+}

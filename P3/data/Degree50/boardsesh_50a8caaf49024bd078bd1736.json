@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_50a8caaf49024bd078bd1736.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "no Mach 7b",
+  "setter": "Nonskilter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "9FB9B4C74511432B8DE83B901BFC38B7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1149r12p1180r13p1233r13p1283r13p1302r13p1318r13p1340r13p1388r14p1504r15p1542r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 2.0,
+  "hold_fingerprint": "007fe9afea7662eb8cb7c0ff64945f7a0a3a8bfe52ec2506d046d189274c6189",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_344457c8205e05feecd04699.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Span BAM",
+  "setter": "DanielKinzo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "E232FAD83A1047C4A222320DC11C11FE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r12p1148r12p1185r13p1222r13p1287r13p1295r13p1298r13p1318r13p1379r14p1456r15p1470r15p1508r15p1522r15p1528r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.95,
+  "ascensionist_count": 64,
+  "quality_average": 3.36,
+  "hold_fingerprint": "41f1950f489ce7b2518deaaa7e7a72a95678c9d181fa540a6df80f93bd29ecfd",
+  "validation_errors": []
+}

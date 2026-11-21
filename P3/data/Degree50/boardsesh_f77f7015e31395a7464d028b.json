@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f77f7015e31395a7464d028b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "four mouv in the train",
+  "setter": "mimi.esp",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9699eb471539478da1e7e76090ec834c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1201r12p1203r12p1270r13p1301r13p1356r14p1469r15p1495r15p1567r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "047aaa1fd7255554239dce3543dea08a62498aa54cb9e17e0020b99a946c279f",
+  "validation_errors": []
+}

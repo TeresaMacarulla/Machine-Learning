@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_54af8a62dff9dca0575a8f1f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "PiNUS big big",
+  "setter": "climbcentral",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "09BBB7397F2844F5B42C3298BC46BEFE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1132r12p1185r12p1198r13p1236r13p1284r13p1304r13p1337r13p1389r14p1453r15p1469r15p1513r15p1534r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "abe969a88d35a8bde6ed2e8ab43d4b4dd9e0b1705c1f342e1f3513b09b528fe6",
+  "validation_errors": []
+}

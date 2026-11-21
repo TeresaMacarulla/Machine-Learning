@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5af7da885e4fcebe5ff65bc4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "Dr. Doom",
+  "setter": "luke.climbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "9EDEBCF55B994B84A673B042FCF849E5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1177r12p1194r12p1216r13p1317r13p1372r13p1392r14p1498r15p1501r15p1523r13p1543r13",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 14,
+  "quality_average": 3.43,
+  "hold_fingerprint": "9a165fdb360de63e9d1edd4d8e019cba77b4210acb8165ccdffb2f152a0f47bf",
+  "validation_errors": []
+}

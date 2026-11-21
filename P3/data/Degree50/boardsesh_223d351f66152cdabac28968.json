@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_223d351f66152cdabac28968.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Brainal Leakage",
+  "setter": "Hero",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "47246055-953c-4cd6-81ce-b59ec537f178",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1111r15p1287r13p1186r15p1232r13p1459r15p1091r15p1179r12p1176r15p1320r13p1358r13p1394r14p1553r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "e3edbe52c4e59d35e6b3aa04a1e2f891181a37d798108e09a5e8c21a8e725043",
+  "validation_errors": []
+}

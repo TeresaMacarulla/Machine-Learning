@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_abc939792f5603dc2e89bc73.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Location Location",
+  "setter": "ryanneedles",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "AFCC659D40F84D48A3D15DBA75CB44FD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1098r15p1166r12p1231r13p1264r13p1265r13p1334r13p1369r13p1388r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "0930437f3abea78368b1135940d7d08641b207cac6d321dd66e3fa81be5d0253",
+  "validation_errors": []
+}

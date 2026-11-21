@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c9f06392473ef756e0e8df6a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "cold pocket",
+  "setter": "GripBoulder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F8ED541A42424FA3A609784AC2F9B864",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r12p1243r15p1262r13p1279r13p1300r13p1387r14p1474r15p1477r15p1521r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ce82896ff1d3a5c112e6739e80ef1a14221ea23cc34eee38e7451d79a9d6e722",
+  "validation_errors": []
+}

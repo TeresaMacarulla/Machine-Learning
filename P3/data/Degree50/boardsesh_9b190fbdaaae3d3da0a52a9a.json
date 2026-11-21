@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9b190fbdaaae3d3da0a52a9a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Capybara push up",
+  "setter": "davidyu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3C6CC052E7974842AF4E69798DD4CA25",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1082r15p1131r12p1133r12p1198r13p1202r13p1251r15p1302r13p1334r13p1338r13p1387r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3914f89cca91827d9bbd11a7a9980e5a5d0190ce9ee326cde398bc2648a148ea",
+  "validation_errors": []
+}

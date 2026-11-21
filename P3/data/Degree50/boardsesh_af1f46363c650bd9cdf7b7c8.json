@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_af1f46363c650bd9cdf7b7c8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "7grimpe",
+  "setter": "Arthur.escalade",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "60edc2bd7b4240139a15390ec24f8e91",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1143r12p1163r13p1215r13p1302r13p1390r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3357ad7eb676fbe3488920d67326267914dd58bb95044f0442b48db11159fae7",
+  "validation_errors": []
+}

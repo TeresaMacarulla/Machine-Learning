@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aa93d768e97e6aeaac349fb8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Flow Level 2",
+  "setter": "tlandman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "C07C0A65557645EA962CEFFD94987F1D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1159r12p1177r12p1246r13p1266r13p1316r13p1354r13p1390r14p1465r15p1561r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.97,
+  "ascensionist_count": 123,
+  "quality_average": 3.48,
+  "hold_fingerprint": "094dcd394def63d81068c7a5960ba4c8188effe2c6911cc51b030a1e939fd031",
+  "validation_errors": []
+}

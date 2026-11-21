@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c50e25677a65e1742b987b10.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Brebis Galeuse",
+  "setter": "Pepoum",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "198BCF135F274527BE86CE983C3DD274",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1196r12p1210r12p1263r13p1303r13p1355r13p1387r14p1483r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3a1210f237ffb94afb24c283e1da154e84f6046f6efd48df967ed30e91b1c167",
+  "validation_errors": []
+}

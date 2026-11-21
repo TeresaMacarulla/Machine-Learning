@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3db39b39a258933577e01888.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "TURBULENCE",
+  "setter": "medvis",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7be2a2cd6ecd49f8b346fb3aa9622f2a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r15p1174r12p1201r15p1204r12p1231r13p1237r13p1281r13p1296r13p1382r14p1450r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.9,
+  "ascensionist_count": 60,
+  "quality_average": 3.93,
+  "hold_fingerprint": "70db844d91086c742b3e1cd4771701a19a5ca6a9fa0ccc0d5e419e77f29306e7",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1b2d98b29d84c512287a2bb1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Pelvis pulveriser",
+  "setter": "gabriellow",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "f916d4670b774ca294575f0765ab9613",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1201r13p1232r13p1255r15p1287r13p1354r13p1392r14p1476r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d3073ab6dd6d3d9adca6b8c49963c927d3dbdeef92bc93e81701e0bb30aae519",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ecf18c1910f01dcc5b99e617.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Never before touched",
+  "setter": "Torstein",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b24c6baa01e64cc4ab5f8492a0c6be1c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r15p1103r15p1117r12p1153r12p1218r13p1224r13p1254r15p1310r13p1361r13p1391r14p1482r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "d4f6a76257c9b5a22c9002c847266746adb5278cd4744e10b3a9a605fa1c1164",
+  "validation_errors": []
+}

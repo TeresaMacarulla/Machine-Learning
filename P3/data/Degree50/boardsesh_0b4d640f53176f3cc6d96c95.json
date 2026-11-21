@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0b4d640f53176f3cc6d96c95.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Nuclear Chemistry",
+  "setter": "channinggray",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "54222DC0BB0C49E392EE0F1E56900A48",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1163r12p1164r12p1235r13p1271r13p1319r13p1372r13p1385r14p1459r15p1533r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.9,
+  "ascensionist_count": 10,
+  "quality_average": 3.8,
+  "hold_fingerprint": "06c901e2d7fdefd8ec5df0af3b089a8003e3af78cb50ad84eafb6bb83de413e4",
+  "validation_errors": []
+}

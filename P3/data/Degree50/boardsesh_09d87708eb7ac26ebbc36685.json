@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_09d87708eb7ac26ebbc36685.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "cv1",
+  "setter": "jeremydebaere",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "E213988F968348329CC3193EE246F005",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1154r15p1179r12p1185r12p1269r13p1324r13p1334r13p1336r13p1382r14p1524r15p1530r15p1540r15p1556r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.86,
+  "ascensionist_count": 7,
+  "quality_average": 3.14,
+  "hold_fingerprint": "028d7ecee1a7cbc7163303d48d52761baabd2c1f997051ed6dfc8c1ef3ea2b35",
+  "validation_errors": []
+}

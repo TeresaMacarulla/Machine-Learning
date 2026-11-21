@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b49da14bd00d476cc07d8f55.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "REBOOT",
+  "setter": "medvis",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "713331916f114b289d540ae52e14e3ee",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1160r12p1162r12p1198r15p1214r13p1231r13p1249r15p1270r13p1303r13p1305r13p1371r13p1389r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.9,
+  "ascensionist_count": 62,
+  "quality_average": 3.39,
+  "hold_fingerprint": "0c94339543bba83f837ed1544b23df5d9b8b2e39582e10d1bf9bb65bace28d24",
+  "validation_errors": []
+}

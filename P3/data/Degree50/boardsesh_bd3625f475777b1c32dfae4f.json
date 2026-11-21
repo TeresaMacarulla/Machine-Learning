@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bd3625f475777b1c32dfae4f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "au backe",
+  "setter": "tinoxr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "776F4ACE0DBB4D7BAC4CDF6CEA811131",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1171r12p1173r12p1206r13p1221r13p1257r13p1289r13p1322r13p1354r13p1390r14p1480r15p1482r15p1515r15p1542r15p1568r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "83fb9e197d7a32aaa8ee9f1e17e8085b6f4382e71fbbdbe14a1879b5064e245d",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a2e045956cd9b8aab2d478cf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Miserere",
+  "setter": "alguiennadie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "cc18e99e256b427f9c349dde2fa4666d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1215r13p1302r13p1336r13p1391r14p1460r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "10fb6b7703eab7dd9142c2a32b9fcceb152b516fcbe0874ff9e1d20804724805",
+  "validation_errors": []
+}

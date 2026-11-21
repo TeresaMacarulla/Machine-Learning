@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f668bc40c7dac3a15ae3268c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "BV14",
+  "setter": "sondreklyve",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "311AD52DCF9B4FA7BD51D76064B891E3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1180r13p1215r13p1263r13p1298r13p1330r13p1367r13p1385r14p1460r15p1493r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "c9cddf5201f86c650e957812fed665b850b99094fdbc67682ab4db17b2c88b6b",
+  "validation_errors": []
+}

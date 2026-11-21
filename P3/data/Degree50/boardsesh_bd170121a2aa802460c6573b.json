@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bd170121a2aa802460c6573b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "eat ur veggies",
+  "setter": "vineyard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "82B80BCA3C5440A09DBB6768F2BBF5AD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1162r12p1170r15p1198r13p1236r13p1239r13p1242r13p1291r13p1339r13p1358r14p1461r15p1468r15p1499r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "94fb5493b5ff2ba15994476fea116835b05bb4dbb05a9d883157ba31d554da84",
+  "validation_errors": []
+}

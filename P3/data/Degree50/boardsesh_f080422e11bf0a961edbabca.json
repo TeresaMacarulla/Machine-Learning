@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f080422e11bf0a961edbabca.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "jump warmup",
+  "setter": "slopesloth",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "493b9f4c-fc93-4640-bf6c-2170b9fc779e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1214r12p1176r12p1262r13p1317r13p1349r13p1387r14p1501r15p1084r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.5,
+  "hold_fingerprint": "95adeb874e78c207cd6cdf57c75b469f73f37591f8dc1895bff7c45ae0f64aa9",
+  "validation_errors": []
+}

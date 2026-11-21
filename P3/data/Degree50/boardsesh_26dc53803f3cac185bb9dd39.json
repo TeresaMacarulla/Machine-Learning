@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_26dc53803f3cac185bb9dd39.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "crack a hand",
+  "setter": "Elias.w",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "edc02f65375f420ba0712632e119935e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r12p1217r12p1272r13p1301r13p1347r14p1353r13p1470r15p1476r15p1489r15p1508r15p1530r15p1551r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "0efe797ba3b3f70b083b63679f3be32bb4cc9f1979c50e8b3e54c5b8068ab619",
+  "validation_errors": []
+}

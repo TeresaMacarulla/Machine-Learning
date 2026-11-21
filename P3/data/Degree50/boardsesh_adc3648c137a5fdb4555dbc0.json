@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_adc3648c137a5fdb4555dbc0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "placeIntheSaf",
+  "setter": "arika",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "747bf2a6b5b847b6a6f1ffbb2ebf0371",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1215r12p1281r13p1320r13p1368r14p1467r15p1511r15p1531r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "59937e6cbf547c4db4f10736f6c490e9af30ad23ab94dcc8da015f53534e75e4",
+  "validation_errors": []
+}

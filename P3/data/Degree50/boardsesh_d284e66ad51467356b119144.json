@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d284e66ad51467356b119144.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Pinchies and overhangies",
+  "setter": "DetectiveKiwi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "a2a5198f9e2d4501828333a1b69ab62c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1106r15p1172r12p1186r12p1207r13p1255r13p1270r13p1291r13p1321r13p1353r14p1500r15p1506r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7454a35661d30a9df0362093c01e5a5a1d0609d812c5446d95e570366d9d1c54",
+  "validation_errors": []
+}

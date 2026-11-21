@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_10fc636ba1c5e027ed2f6e29.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Pinchtail Mania",
+  "setter": "Slabmaster8",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "352e3b44-5a2f-4857-a76c-e5860666dea6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1198r12p1129r12p1176r13p1186r13p1254r13p1526r15p1284r13p1300r13p1295r13p1332r13p1379r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "d11af270ae9513c5394727bd05036fc22ea74ece6bb4dfcd4634cc673721feec",
+  "validation_errors": []
+}

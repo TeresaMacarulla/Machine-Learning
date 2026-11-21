@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_835e2c5c08b3ef60012f9ffa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Steil No. XIII",
+  "setter": "steil_boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "0EABCDDB3B214A03B6D12A3672FB16B4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r12p1168r12p1216r13p1283r13p1320r13p1358r13p1392r14p1479r15p1481r15p1495r15p1507r15p1521r15p1548r15p1571r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.99,
+  "ascensionist_count": 79,
+  "quality_average": 3.38,
+  "hold_fingerprint": "7f43f5b6db3dcdf2299be87fda9ec4151fec43803087b1e4532617c338e19c83",
+  "validation_errors": []
+}

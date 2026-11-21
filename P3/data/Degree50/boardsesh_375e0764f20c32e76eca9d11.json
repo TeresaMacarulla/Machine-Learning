@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_375e0764f20c32e76eca9d11.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "pulling for your life",
+  "setter": "carlo.dgh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "D70E447ABC434346A03BB0C11DCB7ED3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1143r12p1193r12p1194r15p1246r13p1294r13p1299r13p1302r13p1315r13p1321r13p1324r13p1359r13p1392r14p1464r15p1485r15p1553r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.57,
+  "hold_fingerprint": "f2049ea74a54c96123f7560222135ae50e8c32e06013c9ea631cf20a14e354f4",
+  "validation_errors": []
+}

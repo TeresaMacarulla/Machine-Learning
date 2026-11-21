@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4f99392c85b081c8bd7dc919.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Honda Fit 2008",
+  "setter": "Jahad",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "10bf558e3e89419c9ff202d9b1cf6276",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1119r12p1139r15p1191r12p1206r13p1237r13p1272r13p1319r13p1387r14p1447r15p1450r15p1489r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "7dca84df5c0a294567d848b6f8f51fbe333326f92930e2e49f4fe42e40ab9d69",
+  "validation_errors": []
+}

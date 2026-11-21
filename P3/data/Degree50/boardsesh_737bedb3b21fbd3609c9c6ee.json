@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_737bedb3b21fbd3609c9c6ee.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "cam your foot",
+  "setter": "alexgomez",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "ACA31EB50F20486597F79FB7A3C51B83",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1123r12p1204r12p1236r15p1237r15p1253r15p1254r15p1257r13p1308r13p1341r13p1394r14p1551r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "868e52da83f16ced0d27ec52db3d703377901704e164f371469f6dc56d87f729",
+  "validation_errors": []
+}

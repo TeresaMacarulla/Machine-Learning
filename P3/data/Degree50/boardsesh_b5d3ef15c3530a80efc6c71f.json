@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b5d3ef15c3530a80efc6c71f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "polymekanica",
+  "setter": "PickledAlien",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "125342df-c49c-467c-ac89-5293933abae0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1306r13p1199r12p1149r12p1237r13p1478r15p1338r13p1374r14p1524r15p1517r15p1253r13p1470r15p1567r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "c8137ee55012f46fe367e5db6fea35a49fdc65e5dad3429ae2a19d7e70400c40",
+  "validation_errors": []
+}

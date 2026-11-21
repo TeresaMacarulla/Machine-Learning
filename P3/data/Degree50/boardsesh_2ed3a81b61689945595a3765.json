@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2ed3a81b61689945595a3765.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Hey Joey",
+  "setter": "POD31",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4A9CFE68C9CA47F9AE6E950277AADF3F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1227r12p1296r13p1301r13p1336r13p1339r13p1391r14p1483r15p1501r15p1511r12p1520r15p1547r15p1557r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "cdc9f30c3c8037e3d0c3d92d8a3e114e035467eb8d6d6c87f6249a0e08480589",
+  "validation_errors": []
+}

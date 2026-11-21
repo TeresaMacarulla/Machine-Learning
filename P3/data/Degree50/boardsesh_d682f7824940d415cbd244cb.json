@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d682f7824940d415cbd244cb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Power Circuit 5 Final",
+  "setter": "DrPlim",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "A842B3D2C3364D8598F122B1D7D277F2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1124r12p1163r12p1215r13p1267r13p1302r13p1385r14p1458r15p1464r15p1493r15p1506r15p1524r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.89,
+  "ascensionist_count": 19,
+  "quality_average": 3.05,
+  "hold_fingerprint": "413cdc3308158b4e1d104a3d115ddf0cf83cbee3cfdf12bfc43ac3516bf985c7",
+  "validation_errors": []
+}

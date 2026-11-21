@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_715733d368e8c4e75a5814e5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "If You Can Jump it I Can Caulk It",
+  "setter": "ewicexclamationpoint",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "967aa625696449709577a5b9b1df76a2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1148r12p1154r15p1216r13p1254r13p1285r13p1323r13p1340r13p1392r14p1452r15p1457r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 17,
+  "quality_average": 3.35,
+  "hold_fingerprint": "29363db58cab64e4aa0ea592fab5cbfdb96863683bfbbfaf8f7fc5bcb5ea2453",
+  "validation_errors": []
+}

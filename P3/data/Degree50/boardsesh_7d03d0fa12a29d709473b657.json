@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7d03d0fa12a29d709473b657.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Dino.inc",
+  "setter": "paradis",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "55727226fcf3482492c7163e64ef9de1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1175r15p1192r12p1200r15p1231r12p1280r13p1327r15p1336r13p1372r13p1375r14p1551r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.6667,
+  "ascensionist_count": 3,
+  "quality_average": 2.66667,
+  "hold_fingerprint": "61966bc57704089cd0588d7ef45904bd3788656a4066c1ddb681dcdee24f57b5",
+  "validation_errors": []
+}

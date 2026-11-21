@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_08d9911dc5fcae46deca96a8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Ritter",
+  "setter": "Tarekrobrahn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "2cfbb6c3f986498a8b14a7f3a467389e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1168r12p1187r13p1254r13p1285r13p1355r13p1391r13p1394r14p1449r15p1456r15p1479r15p1499r15p1513r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "c1dceac2187613eb7d358fa983640d434ca0937ac469e3a64b2e96aa0c1c6df8",
+  "validation_errors": []
+}

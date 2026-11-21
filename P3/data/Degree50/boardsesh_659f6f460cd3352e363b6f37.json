@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_659f6f460cd3352e363b6f37.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Tonka2",
+  "setter": "wheelbott",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "490C7C0E3F604E7FB9793B4CFA551137",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1096r15p1130r15p1147r12p1185r12p1187r13p1235r13p1255r13p1256r13p1308r13p1340r13p1394r14p1454r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "cfb90220a8f9d0a2117e4c8ac400d23ec3658426bdb8768574d94ae106b4f9be",
+  "validation_errors": []
+}

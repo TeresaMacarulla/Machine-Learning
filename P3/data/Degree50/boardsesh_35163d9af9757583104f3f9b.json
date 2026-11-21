@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_35163d9af9757583104f3f9b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Anna's arm span climb",
+  "setter": "HannahLith",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 7,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "f4839f49f6a3456e99c814ad703d44dc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1155r12p1171r15p1183r15p1200r15p1201r13p1223r13p1236r13p1275r15p1284r13p1288r13p1356r13p1371r13p1392r14p1393r14p1470r15p1524r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "421ec0097be60793d1436dedb8d60d714b3ff029a218aa67a070df3cad05f051",
+  "validation_errors": []
+}

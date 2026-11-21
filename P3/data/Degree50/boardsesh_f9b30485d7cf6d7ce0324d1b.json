@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f9b30485d7cf6d7ce0324d1b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "anders 5",
+  "setter": "arasker",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "BDEA20678094488C9F8C23E813ACAAFE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1131r15p1163r12p1178r12p1231r13p1246r13p1269r15p1299r13p1350r13p1387r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.04,
+  "ascensionist_count": 35,
+  "quality_average": 3.533714285714286,
+  "hold_fingerprint": "909df5eebcddd155d2bdb698a2a86ae6828725a7d08bd6ee79f14084d15bc704",
+  "validation_errors": []
+}

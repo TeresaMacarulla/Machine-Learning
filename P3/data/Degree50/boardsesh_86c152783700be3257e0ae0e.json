@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_86c152783700be3257e0ae0e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "dyno-saur",
+  "setter": "jskrb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 0,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "0F07749F493D47B4ADA7B96DA319AF0B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1198r12p1200r12p1300r14p1477r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "aadfee12b996ed85f27c26e61c6dbe67017c7e064818ba0cd7dab7aa599d2e2d",
+  "validation_errors": []
+}

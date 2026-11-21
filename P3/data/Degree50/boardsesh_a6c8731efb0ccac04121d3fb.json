@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a6c8731efb0ccac04121d3fb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Let go of the Light",
+  "setter": "Depresto",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "BA02E945777647D7BB155E86465D1069",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1188r13p1256r13p1272r13p1301r13p1314r13p1322r13p1335r13p1382r14p1452r15p1491r15p1536r15p1539r15p1552r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.8,
+  "ascensionist_count": 10,
+  "quality_average": 3.1,
+  "hold_fingerprint": "62d1eb38ea36a8285731c6fd9baffa1aff35df1ecc47956f16846ece5e0e4666",
+  "validation_errors": []
+}

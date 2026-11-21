@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_06b8e5afdbfb213cb4ecd001.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Muscle Up",
+  "setter": "colinclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 0,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "DF83FA88BCB44396A81D7901B2A70AD1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1267r12p1269r12p1387r14",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.97,
+  "ascensionist_count": 39,
+  "quality_average": 3.53,
+  "hold_fingerprint": "383d3e6043b15cd79020bae7534a03b70e0d088858356bae79d7f877e6daa408",
+  "validation_errors": []
+}

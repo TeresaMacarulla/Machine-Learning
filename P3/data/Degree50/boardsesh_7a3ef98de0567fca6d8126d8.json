@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7a3ef98de0567fca6d8126d8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "too weak for training #1",
+  "setter": "bauersuchrdasweite",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "e8dffcfb642b4c7dae3d88cf08f53c17",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r12p1179r13p1230r13p1260r15p1264r13p1268r13p1334r13p1365r14p1459r15p1503r15p1524r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9d1abd009e2da0cca4d515bfd24285533185e9f55c3e42143df7c11b6ed0cb49",
+  "validation_errors": []
+}

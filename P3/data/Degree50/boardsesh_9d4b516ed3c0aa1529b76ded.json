@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9d4b516ed3c0aa1529b76ded.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Feet Do Not Follow Hands #4",
+  "setter": "gsblois",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "6103B214618C413EAF23E3BDFE488C4C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1200r13p1236r13p1270r13p1306r13p1340r13p1358r13p1392r14p1457r15p1468r15p1487r15p1496r15p1514r15p1532r15p1560r15p1579r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.83,
+  "ascensionist_count": 30,
+  "quality_average": 3.43,
+  "hold_fingerprint": "68889e2fc3ce49a15d490d921feeec398380afcef0f9964b21eb06e2b5d4fe80",
+  "validation_errors": []
+}

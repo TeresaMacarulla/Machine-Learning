@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f15a86868ec6b99b17a29943.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Do you want some oatmeal raisin apple cookies",
+  "setter": "TufasBoulderLounge",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "58BB5652A93E40AAB7CE44BBFB8AE7E6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r12p1248r13p1250r13p1254r15p1268r15p1318r13p1332r13p1387r14p1595r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "bf8172e50126d7f8b51e1f5816832f1610b0225217c2dc1a9435f0534d3fe9f0",
+  "validation_errors": []
+}

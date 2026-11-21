@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a4a7771734b1b4e2e1035036.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Aluminum Foil",
+  "setter": "CodyAllenLittle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "359f0efcaee54f9b8344f7a847288d3c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r12p1169r12p1221r13p1252r13p1303r13p1317r13p1354r13p1385r14p1451r15p1470r15p1505r15p1557r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 5,
+  "quality_average": 4.0,
+  "hold_fingerprint": "10d0b1368d1cbdb9e0350565df56edc2676eef8ab047f404a195942b20b73fc7",
+  "validation_errors": []
+}

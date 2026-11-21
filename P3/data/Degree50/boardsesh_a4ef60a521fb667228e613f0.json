@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a4ef60a521fb667228e613f0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Yoinky doink",
+  "setter": "benmclayton",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9e6277b6-9277-443d-95b3-c55b282f7b00",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1452r15p1149r12p1185r12p1234r13p1117r15p1300r13p1213r15p1336r13p1385r14p1386r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.5,
+  "ascensionist_count": 3,
+  "quality_average": 2.5,
+  "hold_fingerprint": "0893ebc17ef72f9c1603f299c37b60dffd329cbb917ba263c4a8695da2bdbeca",
+  "validation_errors": []
+}

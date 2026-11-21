@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_985e68bb3e31ef2826837822.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "ribbon 6.0",
+  "setter": "Senor_Taco",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "d6193dbb3eed45d9a8ba9b64ce7afbe7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1120r15p1186r12p1225r12p1306r13p1325r13p1372r13p1387r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f403fd6d501ce767395c8d92ae7540600b391a93d9e228647c33257c328bd7ed",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8ad9b3ce0cc7a905cf0f89af.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "drop knees not bombs",
+  "setter": "00_rocketboy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "805A82EF804645B081329CEAB11822AE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1236r13p1248r13p1268r13p1279r13p1348r13p1379r14p1454r15p1488r15p1505r15p1511r15p1556r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.03,
+  "ascensionist_count": 34,
+  "quality_average": 3.53,
+  "hold_fingerprint": "3f0be3fe60d271d86383aa36195f8a925554a8cd220f20c902aa2521ca4b2105",
+  "validation_errors": []
+}

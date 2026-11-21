@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9878632b93aea446b693dbd1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Crawdad pinchers",
+  "setter": "edbrotherman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "DDB71D1305434A93A8B76C4A94A9F230",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1075r15p1173r12p1208r15p1240r13p1289r13p1344r13p1374r13p1390r14p1515r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.67,
+  "hold_fingerprint": "e0da02c210a0a41fed86266dce15e6ce2f645f1952e847db813b3077c128d7dd",
+  "validation_errors": []
+}

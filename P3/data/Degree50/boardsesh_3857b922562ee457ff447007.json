@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3857b922562ee457ff447007.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "braaap",
+  "setter": "pinkpointteam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A9660F80410D45BF9100AFAC880B5A5A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1137r12p1152r12p1201r13p1233r13p1272r13p1339r13p1374r13p1387r14p1452r15p1507r15p1534r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.56,
+  "hold_fingerprint": "df2c482ca1371256fef9f17c181dadf55bf09240f9c51aafc30b0ac2f282a1a3",
+  "validation_errors": []
+}

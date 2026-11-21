@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b0b691b314693f8064269649.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Some kind of drug",
+  "setter": "Vanwaran4",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "c4c5391091d141dea6c4a26959f96901",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1131r12p1168r12p1191r15p1235r13p1239r13p1276r13p1289r13p1342r13p1360r13p1392r14p1572r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e9c185f82200671fe62ed7bb3e5c0a8014912228f80a74f761f19c661a556d7d",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_493d10634f512bd648850a6b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "handburger",
+  "setter": "Lendemen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "86c3a4c8e18c4e73ae1e1be7ba6c8a47",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r12p1169r13p1185r13p1250r13p1304r13p1315r13p1317r13p1364r13p1379r14p1447r15p1453r15p1513r15p1547r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "fde236029b4929a84dd8f9d421e244addefa23c50da110551f0fcf6f83cea95c",
+  "validation_errors": []
+}

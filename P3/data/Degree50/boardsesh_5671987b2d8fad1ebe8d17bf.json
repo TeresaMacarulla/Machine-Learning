@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5671987b2d8fad1ebe8d17bf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Le tordu",
+  "setter": "Roch.O",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5bb4ddc071cf4b108f2e10e0702bb334",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1115r12p1129r12p1158r15p1198r13p1212r13p1245r13p1311r13p1328r13p1366r13p1385r14p1467r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "770e4e0ab7b7716f3b0b48cc381d18ff825589be9f97854408ca7376bd5a3f44",
+  "validation_errors": []
+}

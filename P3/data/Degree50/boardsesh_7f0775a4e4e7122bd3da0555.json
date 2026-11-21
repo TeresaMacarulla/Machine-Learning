@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7f0775a4e4e7122bd3da0555.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Talk like a pirate",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "9daa83dbef4047449c976de08f8f3d4c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1188r15p1218r12p1220r12p1269r13p1283r13p1314r13p1317r13p1366r13p1380r14p1504r15p1506r15p1520r15p1531r15p1556r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.17,
+  "ascensionist_count": 6,
+  "quality_average": 4.0,
+  "hold_fingerprint": "5479a760115aff4e15e6a437685a704eec7c091df7b4f8b4a03be1ab3bcb6194",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a27af3efd6d553fab3c1287a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "\ud83c\uddff\ud83c\uddfc",
+  "setter": "Hazen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "63822751c00a4168a27826f12711643e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1116r12p1127r15p1165r12p1171r13p1237r13p1305r13p1338r13p1368r14p1459r15p1469r15p1543r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.89,
+  "ascensionist_count": 19,
+  "quality_average": 3.28,
+  "hold_fingerprint": "7da0ef49af1de98946fc542a7a78296d64011592fdfb6edf1e6ff1cb06c69624",
+  "validation_errors": []
+}

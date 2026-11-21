@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2c4be080e1fe17b066a2b474.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Sloper Spazierweg",
+  "setter": "fatguy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "975022118eb24bfdba49d044947ff10a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1162r13p1180r13p1192r12p1201r13p1235r13p1271r13p1319r13p1372r13p1385r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.06,
+  "ascensionist_count": 20,
+  "quality_average": 3.28,
+  "hold_fingerprint": "fcc5b167f43098f958942470515a2e1f1542abe4dd9e3bf98a607324492765b0",
+  "validation_errors": []
+}

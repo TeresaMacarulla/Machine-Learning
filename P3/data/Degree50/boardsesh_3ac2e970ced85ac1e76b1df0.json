@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3ac2e970ced85ac1e76b1df0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "under the table",
+  "setter": "liamweed",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "005ED809A4AA42CD986B8DFDCFA10453",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1170r15p1214r12p1215r12p1263r15p1268r13p1272r13p1305r13p1373r13p1385r14p1513r15p1542r15p1544r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "b4bd54b615bbf694ca4782a22549095d4cfbcc4dd93dae4e248c1fb95d7bae80",
+  "validation_errors": []
+}

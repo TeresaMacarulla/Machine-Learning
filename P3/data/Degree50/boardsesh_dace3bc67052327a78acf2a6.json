@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dace3bc67052327a78acf2a6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "The Weckoning Stand",
+  "setter": "vjosh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "198C99F372734237A3FD8C99C515D9AE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1167r12p1179r15p1215r15p1232r13p1287r13p1301r13p1322r13p1388r14p1472r15p1524r15p1543r12",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "6b242db927c7cb08752836fe88dd698d07c773156c94f76a32c4aa883f72e6c9",
+  "validation_errors": []
+}

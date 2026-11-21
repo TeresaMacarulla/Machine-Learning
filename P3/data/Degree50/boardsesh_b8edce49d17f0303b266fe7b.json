@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b8edce49d17f0303b266fe7b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Set in Stone",
+  "setter": "danieljordan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "114BFCAA040F45528D549CEA68F0EF74",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1234r13p1266r13p1279r13p1317r13p1328r13p1330r13p1381r14p1455r15p1496r15p1519r15p1521r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.99,
+  "ascensionist_count": 275,
+  "quality_average": 3.5,
+  "hold_fingerprint": "6152f39e28abfb35fac4d90d9c31ea3129bc4d16dac4095fd728f165776f299f",
+  "validation_errors": []
+}

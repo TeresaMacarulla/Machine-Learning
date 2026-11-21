@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0ee1cfc8f001cb23e8bb96ce.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Klocktornet",
+  "setter": "pajaro",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "9d208d7771a242f8ac004072f0e5173b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r15p1177r12p1230r13p1238r13p1253r13p1292r13p1375r14p1461r15p1465r15p1485r15p1500r15p1501r15p1518r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 8,
+  "quality_average": 4.0,
+  "hold_fingerprint": "0d5f297af8de5313274192e252062659d3c724cc883defde6f54b8f945993c83",
+  "validation_errors": []
+}

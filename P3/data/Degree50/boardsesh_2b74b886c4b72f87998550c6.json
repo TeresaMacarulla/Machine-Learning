@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2b74b886c4b72f87998550c6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Magari",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "4ACC35FC400F4518986770ACEA06CF5B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1134r12p1147r12p1180r13p1202r13p1246r15p1320r13p1334r13p1382r14p1487r15p1505r15p1583r15p1594r13",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.93,
+  "ascensionist_count": 54,
+  "quality_average": 3.3,
+  "hold_fingerprint": "708a2f65ae09f960b1fc9cd26389f4451fe81288000084e427b0cb73af1d3315",
+  "validation_errors": []
+}

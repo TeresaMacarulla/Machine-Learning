@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b46b895524abcae31fc949b1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Draug",
+  "setter": "LoffePetter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ac718c1b-5741-48b3-bc34-6884f3c28fe4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1198r12p1167r12p1468r15p1079r15p1203r13p1223r13p1273r13p1325r13p1536r15p1373r13p1389r14p1387r14p1481r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.33,
+  "ascensionist_count": 10,
+  "quality_average": 3.56,
+  "hold_fingerprint": "68d37214e8a3ef428d28b6543a6b8103fe93cc108b9ed5c52e532a2f8b0c037b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6ef644ebe45c0ed6ff9c33f0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Fatlip",
+  "setter": "connordamato",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C01BA093C1154D4D998F55F7F87766E0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r15p1166r12p1250r13p1334r13p1389r14p1468r15p1470r15p1521r15p1566r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ccc4881f736a37dad36801f4cc9f0a56f2e373a95fc72d853a1f4e11fd463406",
+  "validation_errors": []
+}

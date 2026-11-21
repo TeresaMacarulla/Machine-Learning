@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_978b6ab5b51df5cb74cca363.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "normal 1.0",
+  "setter": "MartynasNav",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9C93B5755FA94C6D8C482769E637205E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r12p1169r15p1182r13p1198r13p1218r15p1269r13p1274r15p1286r13p1321r13p1354r13p1390r14p1460r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "47a295ce08753125d11c6e00998ce992f720ad8e33285c899e45535c43b6afde",
+  "validation_errors": []
+}

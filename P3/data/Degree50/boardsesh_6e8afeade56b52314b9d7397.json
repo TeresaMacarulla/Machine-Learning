@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6e8afeade56b52314b9d7397.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "toemaster 2",
+  "setter": "thijs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "61E91A2F90F8489D89FA83E35E5CB706",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r15p1155r12p1238r13p1290r13p1320r13p1389r14p1448r15p1452r15p1472r15p1534r13p1569r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "1d623276b0b06229f6598d375758c454b8631b38cb884864aa360902ac87d52a",
+  "validation_errors": []
+}

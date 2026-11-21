@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0524ad32934dedddd560259c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "10 bodies under the floorboards",
+  "setter": "nponnekanti",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7A1177443ED843D6A8E23A5A15C2FD27",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1171r15p1222r12p1238r12p1284r13p1288r13p1336r13p1384r14p1506r15p1518r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "55230921fd04c451e4c1574bde2bdee4380510e52df0f27ba445097da57255a9",
+  "validation_errors": []
+}

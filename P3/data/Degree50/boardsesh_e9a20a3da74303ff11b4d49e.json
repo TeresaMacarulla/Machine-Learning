@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e9a20a3da74303ff11b4d49e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "On fly",
+  "setter": "J8aG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "a4d20794cd504322abdd94c4d7efeef3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1161r13p1177r15p1250r13p1297r13p1313r13p1384r14p1513r12p1540r12",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "70e1f692c3812f64148a468810985b4fcc0f127e6643d9ea8f906de5e37a44a2",
+  "validation_errors": []
+}

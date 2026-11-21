@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_edec3836baec3abcaf30e70e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Trust Your Shoes",
+  "setter": "will_avelar",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "118A615C2B3F4A36892FFF2A96251EFC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1131r15p1149r12p1216r13p1236r13p1300r13p1334r13p1335r13p1372r13p1389r14p1498r15p1504r15p1540r15p1551r15p1579r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.01,
+  "ascensionist_count": 757,
+  "quality_average": 3.2900000000000005,
+  "hold_fingerprint": "0a4d460105e619b5d39820cdd67aa7a6c5a706a50c79aba3a73c66f8b4c1a2c4",
+  "validation_errors": []
+}

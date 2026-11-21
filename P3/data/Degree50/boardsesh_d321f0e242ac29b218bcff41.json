@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d321f0e242ac29b218bcff41.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Texaco Scabbies",
+  "setter": "serenwyrd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "a1ae6c6d-cb70-49a2-928a-ec0531c1c007",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r13p1216r13p1254r13p1283r13p1228r13p1345r14p1161r15p1148r13p1456r15p1495r15p1134r12p1450r15p1295r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.5,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "cf25ad88a4a3e56a4167780c94297e78c7652f4fb61af82f8891185cbe2b7271",
+  "validation_errors": []
+}

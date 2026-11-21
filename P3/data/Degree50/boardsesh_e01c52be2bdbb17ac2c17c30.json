@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e01c52be2bdbb17ac2c17c30.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "board shoulder 13 (10/25)",
+  "setter": "lilymoss922",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C1090EE6D081421A83B4FBFF11335837",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1167r12p1214r13p1218r13p1265r13p1280r13p1317r13p1366r13p1387r14p1487r15p1513r15p1528r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c6e172a0e2ded68dd311e218233040809cc9a20bcab972044c2cb93feb4568c7",
+  "validation_errors": []
+}

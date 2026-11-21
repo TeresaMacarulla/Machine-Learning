@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dc99860201e53388fb537e29.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Downclimb Indirect",
+  "setter": "J_DuBB",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 11,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "668A38D50D8147289078EA23CB0F3659",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1088r15p1099r14p1128r13p1134r14p1142r13p1147r13p1192r13p1245r13p1257r12p1277r13p1308r13p1331r13p1359r13p1384r13p1390r13p1455r15p1537r15p1553r12p1573r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "56c83f6716aa22ac41294a033f4e354a275f2284ef72c4625c03ab3bb99d8617",
+  "validation_errors": []
+}

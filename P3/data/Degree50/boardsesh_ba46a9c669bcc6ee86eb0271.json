@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ba46a9c669bcc6ee86eb0271.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "pump basic",
+  "setter": "cangrejo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 18,
+    "foot": 11
+  },
+  "source": "boardsesh",
+  "source_uuid": "2bcad40eddb94264b7fbc5104ab536b4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1142r14p1143r12p1147r13p1155r13p1168r13p1169r13p1194r13p1197r13p1207r13p1239r13p1243r13p1257r13p1297r13p1308r13p1345r13p1359r13p1374r13p1383r13p1386r13p1390r13p1447r15p1450r15p1453r15p1457r15p1461r15p1508r15p1509r15p1517r15p1570r15p1580r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "48d457844fd4521fea9e71bb341780916419ced5ca58048f12f990e9d39d745a",
+  "validation_errors": []
+}

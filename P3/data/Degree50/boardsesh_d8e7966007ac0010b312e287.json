@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d8e7966007ac0010b312e287.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Schneckentempo",
+  "setter": "selinagreff",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 12
+  },
+  "source": "boardsesh",
+  "source_uuid": "2161828D62FF4F73A8A018BB797635B7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1200r13p1236r13p1255r13p1305r13p1356r13p1383r14p1385r13p1387r13p1454r15p1455r15p1479r15p1489r15p1515r15p1524r15p1552r15p1561r15p1566r15p1567r15p1575r15p1577r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 4,
+  "quality_average": 2.0,
+  "hold_fingerprint": "daea94fe20ad1df68bb5428938ef5288edb682d276e0e9e87aac2ad753f55d96",
+  "validation_errors": []
+}

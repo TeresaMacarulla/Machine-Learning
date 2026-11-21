@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_576bfda814f40cdf92f86d89.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Paddle for shorties",
+  "setter": "Senor_Taco",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8905db441af347999a8bbf10f08c11db",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1096r15p1163r12p1178r12p1183r15p1247r13p1249r13p1353r13p1385r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c1bb372bb54f848a9e8df81e88e6493918c965c37bd92ebc19bca7ced717bb95",
+  "validation_errors": []
+}

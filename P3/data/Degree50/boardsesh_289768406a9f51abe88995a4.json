@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_289768406a9f51abe88995a4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Big problem",
+  "setter": "Hugo_Kilter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "fe564c4c-61cd-4f96-9f70-e3aded988f87",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1321r13p1236r13p1549r13p1486r15p1199r13p1142r12p1178r12p1394r14p1513r13p1233r15p1130r15p1464r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.4,
+  "ascensionist_count": 17,
+  "quality_average": 4.07,
+  "hold_fingerprint": "9b8e7b9ff26e4b3330ddb81769af3191bcff557ebbdcdf157c13cc6891ef8a35",
+  "validation_errors": []
+}

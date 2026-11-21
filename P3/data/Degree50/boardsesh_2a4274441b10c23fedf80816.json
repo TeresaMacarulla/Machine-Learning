@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2a4274441b10c23fedf80816.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "dcdg",
+  "setter": "itsnicholasang",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "0cff44dfd9dd42f6856a3f2a45c3a4f0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1140r15p1172r12p1202r13p1256r13p1320r13p1389r14p1569r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d7cc2be01c3ec646b6ceef0981c766b95f065b7cea6b79497e3a226440dc87e8",
+  "validation_errors": []
+}

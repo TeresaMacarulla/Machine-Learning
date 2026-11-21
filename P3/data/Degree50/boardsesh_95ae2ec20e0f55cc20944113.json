@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_95ae2ec20e0f55cc20944113.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Backflop",
+  "setter": "NateT1302",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "BAA16FC3F2F34EDFB3B5E59683212CE5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1161r12p1178r12p1182r13p1235r13p1290r13p1334r13p1336r13p1382r14p1459r15p1508r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "f51880e4f063b44fec05c0a33ff76747db5846d5ff98d235a3051f2b71e75257",
+  "validation_errors": []
+}

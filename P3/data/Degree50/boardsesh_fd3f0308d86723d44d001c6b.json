@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fd3f0308d86723d44d001c6b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Jugs and Jumps",
+  "setter": "Elmer301",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "59dd1294f1064f918acf71b3bd2d0588",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1192r12p1245r12p1289r15p1296r13p1331r13p1354r13p1355r13p1392r14p1502r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ae325a1ef2f06525588c31147461db83fe41a86442c0ae23277367e051157e7e",
+  "validation_errors": []
+}

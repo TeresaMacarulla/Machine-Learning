@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a6738ed34c9e6b4fcb7c586f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Bazooka",
+  "setter": "DaHro",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0FD27B99DF264DD38367E3019E816F8D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1189r12p1217r13p1254r13p1318r13p1382r14p1473r15p1488r15p1500r15p1507r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.29,
+  "hold_fingerprint": "18e6feeb0c434f489f92d5492447a99f2decb16673ad73ba47bd2c12380aec90",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d2fb5cb1e00f16466afefd20.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "The rock",
+  "setter": "MariusBronebakkTangen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "BCBC997147E6431F8B30121A91A173F0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1083r15p1166r12p1200r13p1237r13p1267r13p1300r13p1303r13p1387r14p1478r15p1522r15p1532r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f954983cf725e51f1c53879ea6b424a9e12203dbb3228dd9990fc58d79a62925",
+  "validation_errors": []
+}

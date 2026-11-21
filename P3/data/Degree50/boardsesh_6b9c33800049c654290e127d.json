@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6b9c33800049c654290e127d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Dead Stop #1",
+  "setter": "tomhwright",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1448255C79BC4B0C888165D4096F47D5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1166r12p1234r13p1288r13p1334r13p1387r14p1456r15p1516r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 13,
+  "quality_average": 3.1499999999999995,
+  "hold_fingerprint": "ae721a085d8d2ac737a74d2b67ebd7d1035f26a0f92daba2930ec3502a114a62",
+  "validation_errors": []
+}

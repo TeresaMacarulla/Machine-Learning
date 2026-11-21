@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ab7881647c1197ec40c85290.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "takingthe steps",
+  "setter": "gilb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "aba9ec80237340c89e16224af7181ce0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1146r15p1197r15p1222r13p1249r13p1265r13p1286r13p1352r13p1387r14p1453r15p1473r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 7,
+  "quality_average": 4.71,
+  "hold_fingerprint": "4e95035e41674ea74d1727b09de607d5777dc0c643ecaf326703d925aaa59458",
+  "validation_errors": []
+}

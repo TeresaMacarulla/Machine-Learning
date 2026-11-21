@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fb63c5358d5f724cde29f2ca.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "v4 50 degrees",
+  "setter": "joshuarcarter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "649A8ED833484AB49586B79A0D0C1F54",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1212r15p1248r12p1249r12p1300r13p1350r13p1386r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 16,
+  "quality_average": 3.5,
+  "hold_fingerprint": "c0ca82ed1a472b7485c9918eee6c9f099059511923fbb9c30aaff14638d565e3",
+  "validation_errors": []
+}

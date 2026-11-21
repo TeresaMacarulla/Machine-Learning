@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2e400dc9f353458f68870240.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Walk Through Inspection",
+  "setter": "KilterStudio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "99408518514A43AB9271CD1CD0A2F98B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1214r13p1252r12p1255r12p1303r13p1316r13p1369r13p1386r14p1496r15p1505r15p1507r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.93,
+  "ascensionist_count": 471,
+  "quality_average": 3.46,
+  "hold_fingerprint": "5f22ad804cd6dd237979d3bc60b7e63c0ae7ab3966052a5d581ac48fdb1ea8ba",
+  "validation_errors": []
+}

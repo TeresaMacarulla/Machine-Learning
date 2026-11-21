@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_18852c55c893d682d2b7d71b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Forbidden Angle",
+  "setter": "J8aG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "2c9f0a2e41ce4dfdb255d8283e88ce40",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r12p1235r13p1306r13p1387r14p1533r12p1543r13p1578r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "093c1b6f095abd6b63bb794622b6c456e0acc6b77c552e54c5cc91c4f36e8539",
+  "validation_errors": []
+}

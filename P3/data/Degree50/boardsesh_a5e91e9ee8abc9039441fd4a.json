@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a5e91e9ee8abc9039441fd4a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Pogo probieren",
+  "setter": "weidenspinne2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5b579a69-5196-4457-9872-8f8e60e4de3b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1227r13p1160r12p1158r12p1107r15p1467r15p1247r13p1232r13p1302r13p1336r13p1371r13p1386r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.33,
+  "ascensionist_count": 4,
+  "quality_average": 4.33,
+  "hold_fingerprint": "e2158f16189b74d81ef7bfd636937fb531b952e80a2103bdec135ccc81aec262",
+  "validation_errors": []
+}

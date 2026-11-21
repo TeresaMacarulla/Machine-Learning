@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1d0416b81470ebdb40c43439.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Drop that knee, jump that foot",
+  "setter": "jenya.k",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0653B7E9771C417289D5CF74E169A42B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1147r12p1228r13p1233r13p1280r13p1314r13p1353r14p1453r15p1488r15p1492r15p1519r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.6667,
+  "ascensionist_count": 3,
+  "quality_average": 2.66667,
+  "hold_fingerprint": "25b3b05e992a6ad893b2cb9b32744c47a1385c07d5876b59a4b5680c4b2fc438",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b1c5e8f21ece002d5e692f3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "sepento",
+  "setter": "jaydosclimbz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "C8BF8EC6EF64445298D8563665DE9670",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1140r15p1173r15p1221r12p1224r12p1259r15p1302r15p1308r13p1359r13p1387r14p1389r13p1391r13",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "f93121235cbe3e1826d013104fc9a85c4b14c11fefcb32a94314af61762ca25a",
+  "validation_errors": []
+}

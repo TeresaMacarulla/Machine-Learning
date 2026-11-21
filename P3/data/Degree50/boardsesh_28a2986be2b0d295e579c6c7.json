@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_28a2986be2b0d295e579c6c7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "umai pinch",
+  "setter": "leemiho",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "A061001B274A43D8A4BA9489ABC96355",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1131r15p1137r15p1153r12p1186r12p1187r13p1200r15p1214r15p1235r13p1236r13p1285r13p1287r13p1334r13p1337r13p1387r14p1496r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "d3573d4ca9be662c1dac052594fe4313b88cf825d935589190fc06eab43f112b",
+  "validation_errors": []
+}

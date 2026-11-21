@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_216c3e698720acae01acb0cf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "MubbleFubbles",
+  "setter": "jwilder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "B9F4C05411074D638316ACFE9FBDE3C8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1187r12p1189r12p1271r13p1301r13p1318r13p1349r13p1383r14p1473r15p1480r15p1552r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 7,
+  "quality_average": 2.0,
+  "hold_fingerprint": "ecde4b0b399a90aab26e7a7fe7b7943d072f5976057658a2dd76fe40c96914da",
+  "validation_errors": []
+}

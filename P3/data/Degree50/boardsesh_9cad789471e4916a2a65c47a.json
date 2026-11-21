@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9cad789471e4916a2a65c47a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Pinch and a Punch",
+  "setter": "mitchcrossy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "81847FAAE2334BD28F6D59D2A3EFB228",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1207r12p1256r13p1288r13p1357r13p1387r14p1482r15p1499r15p1544r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f2f8d293fd9f8a45c9d6ef08ac23b7493d304b096314bf8a5a8f49532fd02dfc",
+  "validation_errors": []
+}

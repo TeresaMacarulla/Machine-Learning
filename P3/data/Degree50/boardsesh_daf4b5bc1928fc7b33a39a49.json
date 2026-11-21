@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_daf4b5bc1928fc7b33a39a49.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Rejected takeoff",
+  "setter": "pertldani",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9E550B455EB6472C9654EE58239F473C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1145r12p1178r15p1192r12p1246r13p1295r15p1311r13p1380r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "a48ff2be0f84e9ffa95b2ddfefaa80bdd4d661fabfcc6a90c249883e9677baac",
+  "validation_errors": []
+}

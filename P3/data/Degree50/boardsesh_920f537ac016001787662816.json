@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_920f537ac016001787662816.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "soft v5 for cyrus",
+  "setter": "lariabehrens",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1DD077732440458AA90A42EB3E33B954",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r15p1148r12p1152r12p1220r13p1241r13p1290r13p1320r13p1389r14p1456r15p1518r15p1553r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "23da6a94cffd39b4339cbb7fadb37422fd07d26d08cba47af1ffdc0fdd0976e0",
+  "validation_errors": []
+}

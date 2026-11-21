@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_40482943a7e3635991990593.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "C.O.R.E.",
+  "setter": "demyanek",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 8,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "47D2AE3B2DCA46D692E28972C6B84ED7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1194r13p1227r13p1231r13p1242r15p1266r13p1270r13p1289r13p1309r13p1325r13p1391r14p1393r14p1461r15p1504r15p1519r15p1543r15p1550r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.38,
+  "ascensionist_count": 16,
+  "quality_average": 3.38,
+  "hold_fingerprint": "33a31d3c7149263deda687182102b660561d334c0f89265ca1d4e63c1334ea3f",
+  "validation_errors": []
+}

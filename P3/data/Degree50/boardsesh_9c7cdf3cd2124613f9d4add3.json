@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9c7cdf3cd2124613f9d4add3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "9dhk",
+  "setter": "cameron.tai",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "452d6d28e7b543c3b49f9b1fb3ddbd73",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r15p1167r12p1175r15p1185r12p1233r13p1246r13p1264r13p1329r13p1379r14p1454r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7c034e08cdbc37da208630e850c608bc28d45544e61684a688d2a4f45c4510bb",
+  "validation_errors": []
+}

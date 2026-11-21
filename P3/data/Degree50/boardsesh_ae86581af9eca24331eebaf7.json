@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ae86581af9eca24331eebaf7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "fronton caisson",
+  "setter": "Philippeveld",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "AF071403FDCD4083A7C69EFA9EFAF56C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1239r12p1240r12p1307r13p1321r13p1356r13p1386r14p1480r15p1506r15p1559r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "53b0a24ae4d1851cb94bb5d38178917c312b5344b488fc5e39451097c4b57ba8",
+  "validation_errors": []
+}

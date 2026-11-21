@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d6f9c1d8c427e4a598e373ee.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "vent",
+  "setter": "tmitchell",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "F7ECBA4F67BB48BEBFE63293D85F41A5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r15p1147r12p1216r12p1230r13p1301r13p1339r13p1391r14p1457r15p1484r15p1487r15p1521r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.95,
+  "ascensionist_count": 20,
+  "quality_average": 3.25,
+  "hold_fingerprint": "a124b1930f7b3e773fae334a36247a301468f230ddd434517b68f23284bcf6a4",
+  "validation_errors": []
+}

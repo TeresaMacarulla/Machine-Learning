@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0852679264c7c13b155c5d66.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "baumdeswaldes",
+  "setter": "nils.huber",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "476679dab7a84854b53c7a5dc4eedcfe",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1164r12p1269r13p1291r13p1339r13p1394r14p1456r15p1536r15p1542r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.8,
+  "hold_fingerprint": "f5e4094e64732266a9014b5a0f2bbd3a4a3a4d7fe9ffd0baf1e50b6328ef3544",
+  "validation_errors": []
+}

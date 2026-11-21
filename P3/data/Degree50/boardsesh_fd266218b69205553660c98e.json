@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fd266218b69205553660c98e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Refined Tactics",
+  "setter": "nlun",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "ecd354eaaf1b4653b1f83997eb90a60b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r12p1127r12p1195r13p1214r13p1266r13p1268r13p1321r13p1340r13p1393r14p1458r15p1464r15p1506r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "b028d2e55ef5b84333d88e4b6fff071230bf877423632cb63962087e038e1051",
+  "validation_errors": []
+}

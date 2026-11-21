@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fdd6f35d3575dc92ab7030f4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Schnapsdrossel",
+  "setter": "core.nelius",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "fccb66e6354d4caead0747a315752d0a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1222r12p1252r12p1281r13p1301r13p1349r13p1379r14p1490r15p1516r15p1551r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.95,
+  "ascensionist_count": 21,
+  "quality_average": 3.57,
+  "hold_fingerprint": "1e1aa73375a7caf33ef39c389dc9e993bb8cda5b027ae3890f9a58c49629a3f3",
+  "validation_errors": []
+}

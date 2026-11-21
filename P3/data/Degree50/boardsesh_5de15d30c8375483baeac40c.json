@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5de15d30c8375483baeac40c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "CowMilk",
+  "setter": "dpiccone8",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2EEA8456B7E547358F3B1C644963C718",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r12p1209r13p1277r13p1301r13p1339r13p1373r13p1395r14p1462r15p1521r15p1553r15p1557r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0f0023797bf57e1622fb0aecb1ddce4c28ae9a303dd6592630b5ada7b1e8af0d",
+  "validation_errors": []
+}

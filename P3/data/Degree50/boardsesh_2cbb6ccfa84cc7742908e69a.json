@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2cbb6ccfa84cc7742908e69a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Daenerys warm-born",
+  "setter": "kiel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6D9CB14D9ECC4257AC1266C8EFE25F97",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1157r12p1165r15p1219r13p1223r13p1236r13p1266r13p1300r13p1331r13p1383r14p1447r15p1538r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.01,
+  "ascensionist_count": 1500,
+  "quality_average": 3.3016010673782517,
+  "hold_fingerprint": "95a26ce79de09e268200bccc41110c74a65c517a53d01ee21564ab115e0d0394",
+  "validation_errors": []
+}

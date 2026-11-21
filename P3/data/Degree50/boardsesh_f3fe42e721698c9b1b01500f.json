@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f3fe42e721698c9b1b01500f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "begging the question",
+  "setter": "orcen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "697C9DE16A04492F86F9AA82DCBCEA75",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r12p1166r12p1218r13p1255r13p1289r13p1324r13p1373r13p1386r14p1389r13p1452r15p1459r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.86,
+  "ascensionist_count": 29,
+  "quality_average": 3.83,
+  "hold_fingerprint": "8b9168a5ac1938483950a74ce7a4ee0170743847b023af08d4e1455d446edc80",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_25b85dd0cd25cd0e7e8e32d2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Humpty Bumpty",
+  "setter": "GarrettSchwier",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "C843B0C73BA342818CAEFF39D5E03E95",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1153r12p1204r13p1256r13p1284r13p1287r13p1336r13p1385r14p1450r15p1451r15p1452r15p1453r15p1454r15p1532r15p1567r15p1575r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "25b62fac45e6d1d571fd786d1a30a4cd77e9cb258e23f9bfad7fe3082b05da70",
+  "validation_errors": []
+}

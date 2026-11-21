@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f1fe845cfe0bf7c141e7d952.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "The Bounty",
+  "setter": "StaticMax",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "1eb159267ddf4b77bfd96677ca769da2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r12p1196r12p1201r13p1235r13p1256r13p1322r13p1339r13p1363r15p1368r13p1380r14p1383r13p1485r15p1506r15p1509r15p1536r15p1554r15p1576r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.75,
+  "ascensionist_count": 9,
+  "quality_average": 4.25,
+  "hold_fingerprint": "b989431b2066380e7994a0f64ab3d2735bbf32d3d8142892cca0eef60e662620",
+  "validation_errors": []
+}

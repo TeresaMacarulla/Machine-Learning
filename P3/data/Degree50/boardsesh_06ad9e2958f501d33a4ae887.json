@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_06ad9e2958f501d33a4ae887.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "sykero",
+  "setter": "ilmo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "caa3eb5db1824b69ac4984183d1ea0ee",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1135r12p1136r12p1201r13p1251r13p1268r13p1336r13p1391r14p1451r15p1476r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.05,
+  "ascensionist_count": 21,
+  "quality_average": 3.19,
+  "hold_fingerprint": "829ccb064b479ad939460eb6e21b181cbeb2c17fd65f4da0d5ebad5cef432b01",
+  "validation_errors": []
+}

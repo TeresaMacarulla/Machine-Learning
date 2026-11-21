@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7c6ba85d98014f17ebe7ce32.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Pinsir",
+  "setter": "stubbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "220da030aaf64a26a2259862445d155b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1130r15p1142r15p1148r12p1196r13p1210r15p1216r13p1245r13p1262r15p1311r13p1315r13p1350r13p1387r14p1459r15p1519r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d878206ff43dbc2b2faca23508f9945693889637bd1d3b2f38def3f5b234f1d5",
+  "validation_errors": []
+}

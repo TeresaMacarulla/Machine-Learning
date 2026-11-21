@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d5e65e1d842feed3c28f32b6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Classic V-4",
+  "setter": "OmriRam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "55dc990f52254691ab097e30c6c8d949",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1163r12p1231r13p1280r13p1285r13p1347r13p1379r14p1458r15p1462r15p1497r15p1555r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6536c8ad96b5a413200efde86df3818c9df274fbc1b4d25124aef4052234a8f2",
+  "validation_errors": []
+}

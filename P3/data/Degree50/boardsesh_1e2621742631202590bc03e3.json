@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1e2621742631202590bc03e3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Keine Kraft im Arm",
+  "setter": "core.nelius",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "9fba6c4349f94552a430d4e9e07f217c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1202r13p1252r13p1317r13p1388r14p1452r15p1498r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.95,
+  "ascensionist_count": 1147,
+  "quality_average": 3.37,
+  "hold_fingerprint": "7305e1076a3c0857d4f353c3a9eb582906ddd4a443135243c6a25f3ff242b8e0",
+  "validation_errors": []
+}

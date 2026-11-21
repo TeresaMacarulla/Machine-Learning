@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_229104ff3feef7cdc21418b3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Samstag Abend 3",
+  "setter": "Herbert1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9B99DDAE9FE64E028DAA8DF26690A422",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r12p1139r12p1169r13p1205r13p1236r13p1266r13p1302r13p1334r13p1387r14p1447r15p1454r15p1504r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "def671dc9b3d2ae8b4973d41f9c25caaeb67c55b4844754737ed571d8a948618",
+  "validation_errors": []
+}

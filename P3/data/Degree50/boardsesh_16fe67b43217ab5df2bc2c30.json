@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_16fe67b43217ab5df2bc2c30.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "No Third Legs Bru",
+  "setter": "createcomplex1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "4ad469d2-39f8-4581-b051-19abe924b179",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1204r12p1225r12p1482r15p1291r13p1337r13p1316r13p1349r13p1379r14p1538r15p1133r15p1197r15p1507r15p1270r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.6699999999999995,
+  "hold_fingerprint": "d96d18f265d00408b2db2eb03079646771770f675583dfca8ca9254dad6cb232",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_de614fc1596311ec26c04d25.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Crescent Start-Up",
+  "setter": "ClimbingLikeSnakes",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FFCBF78993C646039741B1AC4F89684C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1176r12p1179r12p1250r13p1273r15p1287r13p1372r13p1386r14p1466r15p1495r15p1524r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c098fe3506f84f6ab13bbd3f9b173cd680e466a0a427da3b0877364dda11c309",
+  "validation_errors": []
+}

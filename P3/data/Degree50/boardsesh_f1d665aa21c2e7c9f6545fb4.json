@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f1d665aa21c2e7c9f6545fb4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Following the Flock",
+  "setter": "Bird",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "A5072CAD922E4A24ACA305C6A7C0A647",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1143r12p1197r13p1217r13p1229r13p1232r15p1271r13p1284r13p1340r13p1394r14p1487r15p1488r15p1543r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "af7fc2372fee61e19db39a0475c001ecfe0b22c7d40e387a939c0749953aabc4",
+  "validation_errors": []
+}

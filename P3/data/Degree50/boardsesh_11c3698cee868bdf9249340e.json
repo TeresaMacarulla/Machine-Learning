@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_11c3698cee868bdf9249340e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "El Antelope",
+  "setter": "alex_kilterboard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "93F827E9538F41BE977533AE43430395",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1143r12p1165r15p1192r13p1227r13p1231r13p1300r13p1353r13p1389r13p1394r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "afaab4994429b55fb4d733b364edb82dc8872d3d4adbf55a727f4c7406ee675b",
+  "validation_errors": []
+}

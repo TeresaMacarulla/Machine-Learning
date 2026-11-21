@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5b37cceb9e27f85f4debde13.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Aegis stand trainer",
+  "setter": "justin.dn.howard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "2a4f6294-bb8a-4b8a-a09f-a9fa34dc0558",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r12p1322r13p1218r12p1320r13p1369r13p1169r15p1388r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 3,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a7da3be73d38b685a8dd50c7ac5c710b424b219558c708d66ef4b38bd2f62f5c",
+  "validation_errors": []
+}

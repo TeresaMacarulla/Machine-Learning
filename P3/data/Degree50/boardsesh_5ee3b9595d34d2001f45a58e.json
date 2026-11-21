@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5ee3b9595d34d2001f45a58e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Overtaking",
+  "setter": "Michlkilter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "a5c7a20dea0b4622bda962b31f0fa1b1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1151r13p1184r13p1218r13p1265r13p1282r13p1295r13p1347r13p1386r14p1459r15p1520r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2cf505efa8718c61dd76d2cb0ac66cab71a09bede346793739b40108c8042f1d",
+  "validation_errors": []
+}

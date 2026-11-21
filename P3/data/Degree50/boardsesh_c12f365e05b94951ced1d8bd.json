@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c12f365e05b94951ced1d8bd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Alfa Romeo",
+  "setter": "BKBChicago",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "705975E6CDF545448987F48863A6253F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1114r12p1146r15p1200r13p1239r15p1267r13p1306r13p1320r13p1387r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b74d4b77da2981af2b371c76b64afcee3cbd83d18cc7e308ca62f93e3a995dd8",
+  "validation_errors": []
+}

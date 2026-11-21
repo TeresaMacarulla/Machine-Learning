@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b077c013b34868d6538615c7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "board__om",
+  "setter": "hammymac",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 7,
+    "foot": 24
+  },
+  "source": "boardsesh",
+  "source_uuid": "12A2C32D8BCD42D281D9FAE0B6F0E7D7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r15p1149r15p1150r15p1164r15p1166r15p1168r15p1182r15p1184r15p1216r14p1217r13p1218r14p1233r13p1235r13p1251r13p1268r13p1280r15p1281r15p1282r15p1285r13p1288r15p1289r15p1290r15p1296r15p1298r12p1300r15p1302r13p1304r15p1306r12p1308r15p1314r15p1315r15p1316r15p1322r15p1323r15p1324r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "015c9055bb3506f8fac5a8e78196d7e36d11c5c44272891515223a3c87f77f2c",
+  "validation_errors": []
+}

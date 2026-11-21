@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b8d856deb47562932ac72017.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Easy Boulder",
+  "setter": "lucasM",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "38a2eb19825b48d2be0dbc0d195adeca",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1163r15p1212r15p1215r13p1264r13p1265r13p1266r13p1365r13p1379r14p1469r15p1591r15p1594r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ed800715176180c9ca7039e7bcd2b4947fb07c4cae5be6ea36144f69f05408df",
+  "validation_errors": []
+}

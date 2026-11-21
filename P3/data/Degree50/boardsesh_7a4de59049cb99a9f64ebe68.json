@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7a4de59049cb99a9f64ebe68.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Rock damage",
+  "setter": "adriandas",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "6905A73C8C6B4531B2123307991467A3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1133r15p1200r12p1202r12p1204r15p1236r13p1270r13p1287r13p1302r13p1353r13p1387r14p1496r15p1497r15p1559r15p1561r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.91,
+  "ascensionist_count": 11,
+  "quality_average": 3.0899999999999994,
+  "hold_fingerprint": "6120091e2b0929cb3b43abac226eb9c570bef73d31042219964884ce3df64829",
+  "validation_errors": []
+}

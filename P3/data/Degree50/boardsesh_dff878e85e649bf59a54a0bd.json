@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dff878e85e649bf59a54a0bd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Tank Cleaned",
+  "setter": "Honder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "BB742E726D7E4C5F80D353707EBE62C2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1228r13p1234r13p1301r13p1357r13p1391r14p1467r15p1557r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.78,
+  "ascensionist_count": 25,
+  "quality_average": 3.78,
+  "hold_fingerprint": "4e0f5ad7621b70602536cbd559f7209c712b52a86332cc2eff8e0103ca1c20e9",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_515d1ddafc5966ca19b50359.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "BONNOU 108",
+  "setter": "tachikawa",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "DA01AD99D7A9431398AE8D4093F379B2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1160r15p1192r12p1214r15p1221r15p1237r15p1260r12p1281r13p1304r14p1306r14p1315r13p1340r13p1353r13",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "4ae39f2474d98de50013a0428cf58cdbe5430860bf941cbe3d024b21118c9a63",
+  "validation_errors": []
+}

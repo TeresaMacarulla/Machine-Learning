@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_21d049dc8c86d603db360455.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Leaning Doom",
+  "setter": "aWatt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "555FC51923D149248C75D442BC782037",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1195r13p1250r13p1252r13p1322r13p1368r14p1457r15p1464r15p1476r12p1483r15p1514r15p1534r15p1552r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.96,
+  "ascensionist_count": 128,
+  "quality_average": 3.42,
+  "hold_fingerprint": "2044481db4d72577e1d604905e114440eac3ca93556def1b197d9c0bce737f74",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_85b7cc8b01c3b1380fba19bc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "ped crossing",
+  "setter": "wyliecoyote1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "861BA64279F84001886394F706253961",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1162r12p1194r12p1234r13p1237r13p1256r13p1306r13p1326r13p1393r14p1468r15p1508r15p1517r15p1536r15p1540r13",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "264cdba89bdf7ff4f4a8456ea126c5a7f16a043482b7b9a5b0900699d84ebd6b",
+  "validation_errors": []
+}

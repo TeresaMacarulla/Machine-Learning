@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_20d522144af80cc4a8b2aa62.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Antidextrous",
+  "setter": "kilterjackie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "09CC401A956747D8A75006997A6BE659",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1127r15p1131r15p1140r15p1179r13p1181r13p1187r12p1189r12p1215r13p1238r13p1246r13p1295r13p1348r13p1381r14p1472r15p1519r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.2,
+  "hold_fingerprint": "ab4717ff9db59ed1bf015cb68f5dc2404b609fa5ad0e542a6d65f70dc399d011",
+  "validation_errors": []
+}

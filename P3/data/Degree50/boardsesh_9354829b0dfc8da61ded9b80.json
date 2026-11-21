@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9354829b0dfc8da61ded9b80.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Don\u2019t Trip",
+  "setter": "person876",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8cc6997a-73d0-407c-967b-b851ea34b499",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r12p1163r12p1294r13p1177r13p1486r15p1385r14p1349r13p1347r13p1465r15p1229r13p1243r13p1144r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.67,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "49331cee2cfc3792c5cd908a049294c7079024fb62222382c9b3472d5772f3b2",
+  "validation_errors": []
+}

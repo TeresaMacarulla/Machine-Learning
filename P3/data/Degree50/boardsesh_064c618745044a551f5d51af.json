@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_064c618745044a551f5d51af.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "2x4 wall",
+  "setter": "georgem",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "D197EB9FB56C4154997BBDB6720ED28C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1201r12p1205r12p1287r13p1300r13p1366r13p1379r14p1491r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "504326e9d76cea7bf4db327c2d56edcb289841e49950d8b0ba8b1eafd299f402",
+  "validation_errors": []
+}

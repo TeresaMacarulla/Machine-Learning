@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_edf87870f7d0775cd5112390.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "bust a move",
+  "setter": "heymase",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "69861EBD4AB24799B340EC9642BDBB73",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1083r15p1149r12p1168r15p1201r13p1249r13p1288r13p1306r13p1361r13p1393r14p1494r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "c5b9e78e324d713971e873485b3d1d630112fa83cd8ec324c08bca4cd211b1dd",
+  "validation_errors": []
+}

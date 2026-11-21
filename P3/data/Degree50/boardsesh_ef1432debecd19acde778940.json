@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ef1432debecd19acde778940.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "BM 50 : Walmark",
+  "setter": "Lolotte",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F8769CF2454A46AE9CF06739E80F39DE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1142r12p1143r12p1214r13p1230r13p1235r15p1282r13p1299r13p1300r13p1335r13p1384r14p1459r15p1464r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.22,
+  "hold_fingerprint": "13310d19f6663e2708a9bb153da108ea734bf581fde08cdcc671025b8593cc56",
+  "validation_errors": []
+}

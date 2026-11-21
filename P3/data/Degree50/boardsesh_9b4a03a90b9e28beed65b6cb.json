@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9b4a03a90b9e28beed65b6cb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Kickstandard",
+  "setter": "rexhavoc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "cedf180ee1014a30b88d8530052bf552",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1111r15p1143r12p1246r13p1315r13p1387r14p1519r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 25,
+  "quality_average": 3.56,
+  "hold_fingerprint": "7e4a962f4ddb39cea685dfcf34a8613704c6068d933a56e7fb73df4f26d61fb3",
+  "validation_errors": []
+}

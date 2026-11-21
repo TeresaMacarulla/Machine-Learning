@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b8a6e3c19484d67fd8fe1871.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "\u5929\u72d7\u821e",
+  "setter": "ikuto",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2959A467F96244F5BC704DE288DDF309",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r15p1147r15p1154r15p1229r13p1234r13p1260r13p1261r13p1279r13p1345r13p1382r14p1514r12p1515r12p1519r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "74421309b71758fc540350865baa808081c2b594dd548f78f7842b8e1c64732d",
+  "validation_errors": []
+}

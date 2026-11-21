@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_04e34ef49b26146523f79232.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "BLT-13",
+  "setter": "bridgeraston",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B8275B30C2B948C2B2C22A9A6E92E373",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1169r12p1170r15p1187r12p1270r13p1272r15p1323r13p1368r13p1386r14p1478r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 7,
+  "quality_average": 2.43,
+  "hold_fingerprint": "45802e9688092bcd734136063a8cb82a2a629a471409c611e92f44177cefecd6",
+  "validation_errors": []
+}

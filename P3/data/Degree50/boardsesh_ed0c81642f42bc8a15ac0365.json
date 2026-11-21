@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ed0c81642f42bc8a15ac0365.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Matterhorn",
+  "setter": "forestfox98",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2BFE0FE776D64A3E8D7498FF463E2D35",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1145r12p1213r13p1234r13p1300r13p1317r13p1364r13p1384r14p1546r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f2aba6a3f28c2d36d066f0956ea78259f8a57a7ecd0098abdb5a48c4621dc870",
+  "validation_errors": []
+}

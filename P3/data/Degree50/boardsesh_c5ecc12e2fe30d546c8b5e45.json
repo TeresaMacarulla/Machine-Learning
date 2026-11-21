@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c5ecc12e2fe30d546c8b5e45.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "ascendo",
+  "setter": "mwgea",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "BDF42EAC49FF4C56B2D5ED0B3F8A6197",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1142r15p1145r12p1182r12p1229r13p1300r13p1302r13p1322r13p1387r14p1513r15p1532r15p1543r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0b4ed3e635a19d422323a3838362c27a0095f1c05bffc4a65a07d94223b3e8dc",
+  "validation_errors": []
+}

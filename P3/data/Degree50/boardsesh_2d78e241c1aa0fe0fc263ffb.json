@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2d78e241c1aa0fe0fc263ffb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Break Yo Back",
+  "setter": "timboslice",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "4FA103E5F9F544B4A0D2991DD4E6A211",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r15p1130r12p1131r12p1163r15p1215r13p1234r13p1300r15p1302r13p1340r13p1391r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.87,
+  "ascensionist_count": 184,
+  "quality_average": 3.45,
+  "hold_fingerprint": "6e04d3f0b98a95420d2afb3461fdfc7401f1e20fc3eb9a28bd3644be5bad5631",
+  "validation_errors": []
+}

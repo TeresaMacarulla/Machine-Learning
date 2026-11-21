@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a0c6a48fe40f0a50baf96ce6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Finger Flicker",
+  "setter": "StrangeWeeb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "fc7eac43796c40b8a45aad21e492ecd9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1153r12p1157r15p1189r13p1204r13p1274r13p1276r13p1359r13p1391r14p1394r14p1447r15p1452r15p1454r15p1554r15p1587r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e670518073a5b949bf4ff4fd63de5e6c3bfadbfc1ef7a8c81c36b5f1e1ef26bb",
+  "validation_errors": []
+}

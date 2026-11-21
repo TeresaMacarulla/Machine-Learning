@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e03e787e5cf365c4e9ad7ccf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "flipped prob",
+  "setter": "royal.G",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "3523D188E47A4471AE86875EDD90A378",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r15p1149r12p1212r15p1234r13p1317r13p1319r15p1390r14p1453r15p1458r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.2,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "bcc37c4622fa82e399c72c5976daaaad4b8056f991869bb1363b4ce5a33e3b4d",
+  "validation_errors": []
+}

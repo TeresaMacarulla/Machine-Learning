@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d210aa9e8918e843b3d0590c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "numero1",
+  "setter": "Arthur.escalade",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "4da263e08c5e44f39007e5685d8a1b84",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1168r15p1173r15p1208r15p1221r12p1224r12p1252r15p1257r13p1308r13p1340r13p1394r14p1500r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "13fb90a3cda23aaf8e958fc8a971437301df23ee37b8654a47f3b521e1328e7a",
+  "validation_errors": []
+}

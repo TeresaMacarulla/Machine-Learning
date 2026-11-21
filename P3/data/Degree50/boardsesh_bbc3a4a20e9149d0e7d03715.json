@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bbc3a4a20e9149d0e7d03715.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Hydraulic Monkey",
+  "setter": "rodrigo.hanada",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "08c53105979c4a5284b9332c87bc334b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r12p1183r12p1232r13p1254r13p1318r13p1334r13p1365r13p1380r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.14,
+  "ascensionist_count": 7,
+  "quality_average": 3.86,
+  "hold_fingerprint": "ba0cbe4cfae41d0c3efb3dd49a1f576761184be76c37d09490c43128633f9cdd",
+  "validation_errors": []
+}

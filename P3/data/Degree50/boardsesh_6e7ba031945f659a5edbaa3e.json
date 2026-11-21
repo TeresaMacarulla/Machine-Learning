@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6e7ba031945f659a5edbaa3e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "4 by 4s 0.30",
+  "setter": "danutd250",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "22b53200615a4c329a733734c65eccdb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1232r13p1269r13p1301r13p1355r13p1371r13p1392r14p1476r15p1487r15p1513r15p1532r15p1559r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "3ecb101c3d6a74bdc6cd6a8c605250244b3deae9fa6318e57cd8c2085124a141",
+  "validation_errors": []
+}

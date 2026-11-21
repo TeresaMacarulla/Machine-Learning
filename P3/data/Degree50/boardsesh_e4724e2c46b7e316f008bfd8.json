@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e4724e2c46b7e316f008bfd8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "20251025n4",
+  "setter": "ebiharamasaki",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "D12B9B3B80624332A04CBD9EFEDABDAD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1148r12p1163r15p1164r12p1177r15p1234r13p1247r13p1250r13p1316r13p1317r13p1384r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "d2e819bc9e856b5fba984b099232d330eaa5a646d8e20f0b2c1fae5e57616c24",
+  "validation_errors": []
+}

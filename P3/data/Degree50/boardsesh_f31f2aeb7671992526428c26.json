@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f31f2aeb7671992526428c26.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "pinch of pepper",
+  "setter": "byanli12418",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "317f7e555a02473fa789851b12461189",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1214r12p1216r12p1218r15p1246r13p1295r13p1298r13p1332r13p1379r14p1513r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "1330086a4db584116e266646ae3a5046a2fee97f3e1f998edf42451ed184e15e",
+  "validation_errors": []
+}

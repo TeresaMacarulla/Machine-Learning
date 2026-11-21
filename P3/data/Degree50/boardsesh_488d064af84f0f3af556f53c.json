@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_488d064af84f0f3af556f53c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "swing out",
+  "setter": "theivan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "78a3da156db14f6abea658ea4bc1ea09",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1192r15p1217r12p1248r12p1267r13p1279r13p1331r13p1379r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "a159149235b767512aeb06a47a3979e8641dcc2f484c23e475ead4025696b375",
+  "validation_errors": []
+}

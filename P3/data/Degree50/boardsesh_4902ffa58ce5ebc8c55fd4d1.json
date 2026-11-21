@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4902ffa58ce5ebc8c55fd4d1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Blame the Setters",
+  "setter": "MrAnos",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "03a6e36b245a4c2c9477fdd8f62966c2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1167r12p1230r13p1250r13p1314r13p1351r13p1352r13p1390r14p1506r15p1510r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "eb6bde34c3a5c0452e1e6305ae5b6aebbc9dfaece490e2a01382c4a0a6281edc",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_035b5159a0ae624f86e7fa5e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "ET V6",
+  "setter": "leemiho",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "08E5117498EB46DDBBB0023665BA6D30",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1120r15p1140r15p1146r15p1160r15p1187r12p1215r13p1224r12p1229r13p1234r13p1239r13p1281r13p1331r13p1384r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.4,
+  "ascensionist_count": 12,
+  "quality_average": 5.0,
+  "hold_fingerprint": "95316ddc16d7326d5d3fbe84db60245246dc74839c5d3d253b2b3642f53013e1",
+  "validation_errors": []
+}

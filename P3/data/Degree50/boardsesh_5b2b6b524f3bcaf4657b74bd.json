@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5b2b6b524f3bcaf4657b74bd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "From start to hard",
+  "setter": "charlychecker",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "93BC5648937A4E5EACBFF19A56DA1617",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1106r15p1189r12p1225r12p1274r13p1286r13p1332r13p1337r13p1380r14p1383r14p1506r15p1527r15p1530r15p1540r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "88c4261f52e9e4b46b81e75fd6f1e25acffc9a5f6c41ce7fd4247ad86db7c305",
+  "validation_errors": []
+}

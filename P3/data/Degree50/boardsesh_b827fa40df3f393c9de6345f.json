@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b827fa40df3f393c9de6345f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "find the foot",
+  "setter": "hepha",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6056af2b4a614c3cac261710eb41fdbf",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1121r12p1191r12p1221r13p1292r13p1304r13p1357r13p1369r14p1383r14p1447r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "912e760d57896e867c0a9444856cfbaf2f1f20b43908d932045b02335f95b657",
+  "validation_errors": []
+}

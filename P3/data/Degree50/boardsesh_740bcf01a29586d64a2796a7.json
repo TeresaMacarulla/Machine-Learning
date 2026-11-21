@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_740bcf01a29586d64a2796a7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "El perchos",
+  "setter": "Auperchoir",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "276f53a241ad416c947406d4f6c2d607",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1162r12p1163r12p1230r13p1267r13p1283r13p1304r13p1373r13p1394r14p1484r15p1521r15p1532r15p1534r15p1570r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.8,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "2c361d93955a2831ad35690060777d34651764412f8264dada573262c5a7b834",
+  "validation_errors": []
+}

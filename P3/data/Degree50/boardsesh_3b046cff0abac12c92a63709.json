@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3b046cff0abac12c92a63709.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "La feria",
+  "setter": "AlvaroP",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "d9115a1f63094b098704cfeec5c94d59",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r15p1145r15p1178r12p1266r13p1334r13p1387r14p1502r12p1547r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "39b4e92c4a11e3dfe87b7239ad8492a4847012db258e5cfc5cc53f6f96c7067b",
+  "validation_errors": []
+}

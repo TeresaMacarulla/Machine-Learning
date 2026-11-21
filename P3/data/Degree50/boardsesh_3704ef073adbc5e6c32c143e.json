@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3704ef073adbc5e6c32c143e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "T-Bone Souffle",
+  "setter": "grockim",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "9502DCEA93A440D0977CE312CCC9754C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r15p1146r15p1153r12p1169r12p1199r13p1219r13p1231r13p1300r13p1302r13p1385r14p1450r15p1456r15p1583r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.33,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "1db592fbcaad9182b80dd942fbb2476cc84acfdc61bbbaa65a4076837245dfa3",
+  "validation_errors": []
+}

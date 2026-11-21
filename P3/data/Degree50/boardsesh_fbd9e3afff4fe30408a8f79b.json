@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fbd9e3afff4fe30408a8f79b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Rebranding",
+  "setter": "seatheq",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "78DDD722CCEE4B67A6E5B64FD8657DC8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1167r13p1181r13p1182r13p1219r13p1222r13p1287r13p1301r13p1387r14p1455r15p1471r15p1480r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "cd40b2fce3f34364beb5fcb1a98be0827e6ac6109dae55f43722b4d2b37bc679",
+  "validation_errors": []
+}

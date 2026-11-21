@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8d34abdbd1823f97e1b8e182.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "LUCA",
+  "setter": "iiratzberr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "1BDC8F48D40F47A2AA1C2E99414DFEC5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1237r13p1286r13p1304r13p1354r13p1391r14p1454r15p1457r15p1489r15p1496r15p1544r15p1580r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.25,
+  "hold_fingerprint": "b11a45d27cdd825d541535af009ee3116657d54786e8bbdac59a35173a627e57",
+  "validation_errors": []
+}

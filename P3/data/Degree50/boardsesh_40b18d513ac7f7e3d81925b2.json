@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_40b18d513ac7f7e3d81925b2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "firefight",
+  "setter": "SaxonCasi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0276b6cdb2ce407b8800dbfb18c9a4ab",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1187r12p1218r12p1264r13p1268r13p1289r13p1317r13p1333r13p1379r14p1506r15p1521r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.97,
+  "ascensionist_count": 257,
+  "quality_average": 3.356420233463035,
+  "hold_fingerprint": "d7606b960bf5c885e1046d2da5cd19fd1674f0fe06aa864ed23d7f2a9d440512",
+  "validation_errors": []
+}

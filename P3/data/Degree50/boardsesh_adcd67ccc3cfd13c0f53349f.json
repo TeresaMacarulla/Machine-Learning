@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_adcd67ccc3cfd13c0f53349f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "BD KILTERKILLER #003",
+  "setter": "filipski",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "AB58DE9C79074CDDB0925BD32F85D854",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1162r15p1199r13p1212r15p1215r13p1234r12p1257r15p1283r13p1303r13p1323r13p1390r14p1505r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.3333,
+  "ascensionist_count": 6,
+  "quality_average": 2.33333,
+  "hold_fingerprint": "d05951a46ee5a0b7a2091ffe91ee40ea157e6f83b37c41a59a13792466b1baf7",
+  "validation_errors": []
+}

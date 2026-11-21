@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ae178c6f0679f8bd578cd6e8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "ultra instinct",
+  "setter": "evanravenel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "f484cd52fc4b485080331d47cb83baaf",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1178r12p1179r12p1248r13p1249r13p1319r13p1323r13p1391r14p1467r15p1495r15p1541r15p1543r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "417a1d3cea282a02a72ae0c1870d31506a5a58292e59d9a843de974b481af4ee",
+  "validation_errors": []
+}

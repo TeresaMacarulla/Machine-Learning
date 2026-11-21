@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8e48bd136ce8d14590792848.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "this has 2 start holds",
+  "setter": "RIPlogbook",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "f991c735-fdd1-4d47-8aa1-9b1cb474803e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1134r12p1456r15p1454r15p1234r13p1301r13p1389r14p1355r13p1531r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "491fc15a29dc1bc11b95f33a5d98ca9e19024fade5213cab7274a1999eb9e3e9",
+  "validation_errors": []
+}

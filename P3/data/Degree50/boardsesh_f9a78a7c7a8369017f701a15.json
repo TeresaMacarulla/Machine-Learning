@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f9a78a7c7a8369017f701a15.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Brain of Peasant",
+  "setter": "climbcentral",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "E980B0473A89451CB5BC3479398B3F8F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1234r13p1300r13p1348r13p1350r13p1380r14p1455r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "89ceba2f882f0ea9cb4d4618190f47d55f12832b942f1946a67155d5e9ee8e34",
+  "validation_errors": []
+}

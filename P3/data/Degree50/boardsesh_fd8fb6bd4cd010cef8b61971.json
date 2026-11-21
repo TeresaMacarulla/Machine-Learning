@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fd8fb6bd4cd010cef8b61971.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Tossing Bones",
+  "setter": "davisbrad20",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "DBC39570FE99415FBC14F8E3113727A3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1214r13p1248r13p1269r13p1303r13p1324r13p1355r13p1394r14p1461r15p1464r15p1474r15p1487r15p1513r15p1516r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.92,
+  "ascensionist_count": 12,
+  "quality_average": 3.5,
+  "hold_fingerprint": "5ab1a02efa0f4078900681c8568365bfa7a078507455aed5407970124bc347e0",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_271c4789f60011fed5a6243d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Klepoch",
+  "setter": "p.tang",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "056dd4c4953347208bd349941dfa634c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1164r12p1194r15p1234r12p1282r13p1284r13p1296r13p1350r13p1351r13p1371r13p1389r13p1393r14p1537r15p1547r15p1570r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.8,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "2e0aa87044efccb56ad6e7a07d6ac433587370927f4b3c984ad6c79b93318038",
+  "validation_errors": []
+}

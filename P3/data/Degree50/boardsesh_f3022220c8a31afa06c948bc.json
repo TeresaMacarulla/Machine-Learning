@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f3022220c8a31afa06c948bc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "toe fi",
+  "setter": "kiel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "CB4F3EB891FB44EF9D6EC95E7C8210E8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1198r12p1200r12p1252r13p1284r13p1303r13p1317r13p1354r13p1385r14p1387r14p1531r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 85,
+  "quality_average": 3.41,
+  "hold_fingerprint": "fd19a6992f9f6ff4b33ff881448a4f2c7db916fa1d5e3e9f247d284e0b1c5e30",
+  "validation_errors": []
+}

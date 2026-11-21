@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_98c6b4bc42014d56e292c0b2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "7 at most",
+  "setter": "BlakeMaxwell",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "CB7A1562D4AD436795E39A5A8003D41E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1244r15p1267r13p1332r13p1387r14p1455r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "8d5822b069e0a24125db99e0405ab9257e1713c8354914e472eb14ea718baebf",
+  "validation_errors": []
+}

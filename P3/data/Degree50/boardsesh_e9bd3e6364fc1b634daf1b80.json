@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e9bd3e6364fc1b634daf1b80.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "j\u2019\u00e9tais pas l\u00e0",
+  "setter": "EverettDurand",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "FC798F3D72CF412FAB014F294AFC1A8D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1121r12p1122r12p1221r13p1234r13p1306r13p1353r13p1379r14p1380r14p1384r13p1448r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "68a1d516a5a6e238951547db8ed5e23f9e66d246af231932930125119161ca46",
+  "validation_errors": []
+}

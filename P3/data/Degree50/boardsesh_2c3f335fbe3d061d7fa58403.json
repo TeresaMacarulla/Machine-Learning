@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2c3f335fbe3d061d7fa58403.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "a weasels dream",
+  "setter": "JakeSully",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1504d55c015a4c939cc91b319dbe4896",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1201r12p1202r12p1256r13p1274r13p1276r13p1343r13p1391r14p1471r15p1490r15p1518r15p1544r15p1560r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "2bc5fe486161a953eb6d936024bdb9a0ebd5b4c18a6f4d112fc9d9d215ba8c16",
+  "validation_errors": []
+}

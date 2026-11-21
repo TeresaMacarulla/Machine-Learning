@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_87e8b1c4c1070b91f7b016cd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Hinderer",
+  "setter": "jacobosullivan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "C1F551E460784F14BDA08D01FEF4B97F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r15p1200r12p1269r13p1285r13p1301r13p1315r13p1380r14p1381r14p1531r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.6666666666666665,
+  "hold_fingerprint": "4f9e65bba35103e44ee5c4240a499f146dd25cca18832a5576ca96dab412b9f2",
+  "validation_errors": []
+}

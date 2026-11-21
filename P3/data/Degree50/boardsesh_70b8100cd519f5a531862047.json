@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_70b8100cd519f5a531862047.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "silence of the lamb",
+  "setter": "E.2.d.2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "744CF368059F42A1A9F8B7BE13719943",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1163r12p1231r13p1300r13p1334r13p1387r14p1458r15p1461r15p1477r15p1532r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.98,
+  "ascensionist_count": 593,
+  "quality_average": 3.4,
+  "hold_fingerprint": "ac9c00d727b9fafc44258d2c5b2113717a49ef4b093ee804a015bbffd32ba329",
+  "validation_errors": []
+}

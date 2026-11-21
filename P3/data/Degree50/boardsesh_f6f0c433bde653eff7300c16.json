@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f6f0c433bde653eff7300c16.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "coral",
+  "setter": "mksp33dy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "800A1982F3ED4A9F8A7CD6D64040EE0C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1117r15p1128r12p1142r12p1182r13p1195r13p1202r13p1231r13p1252r13p1256r13p1306r13p1359r14p1461r15p1464r15p1490r15p1506r15p1509r15p1545r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "415039ad913341641d19b0babf8cb912c63cd981e4084350537e68ba996eee74",
+  "validation_errors": []
+}

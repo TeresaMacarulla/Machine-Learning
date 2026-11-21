@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_86ac03cd3741562d0ea95a49.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "boffler",
+  "setter": "JonasRoth",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "c214e2a7224942f4ad054c3da79bee76",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1119r12p1172r12p1235r13p1290r13p1320r13p1388r14p1447r15p1454r15p1472r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ff189dc69ef034b0fdd762b5eb2b74e0b12286f309b3962231cedeadc32d1141",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bd825358eefa703e490e2466.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Cellular Roadkill direct",
+  "setter": "tjarkmaass",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7B83FB7A03E6412B8DBC99C194E8B6D1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1197r15p1213r13p1269r13p1338r13p1393r14p1457r15p1460r15p1485r12p1515r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.87,
+  "ascensionist_count": 15,
+  "quality_average": 3.67,
+  "hold_fingerprint": "c6b6c2128309ebc7c059f9e1651c2e8ca39be70386249ba8120f8b4c6f57a9a5",
+  "validation_errors": []
+}

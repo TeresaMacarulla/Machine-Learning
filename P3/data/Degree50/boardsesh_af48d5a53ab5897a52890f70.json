@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_af48d5a53ab5897a52890f70.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Ganba ganja",
+  "setter": "ethan.mathewson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0381509d05b147919e50d85af381264e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1146r12p1218r13p1222r13p1235r13p1304r13p1307r13p1321r13p1352r13p1386r14p1499r15p1527r15p1558r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "a30926237f4256e928f823f87f94cf5bd56f2c41dd76d7074c3af3072777bf08",
+  "validation_errors": []
+}

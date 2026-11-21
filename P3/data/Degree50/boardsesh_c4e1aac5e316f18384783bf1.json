@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c4e1aac5e316f18384783bf1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Lassen wir die Leistenkacke mal weg",
+  "setter": "tjarkmaass",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "754A31E2C2304B2CA3D2B57042CE3080",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1198r12p1236r13p1302r13p1389r14p1460r15p1475r15p1516r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.38,
+  "ascensionist_count": 8,
+  "quality_average": 3.75,
+  "hold_fingerprint": "e9f0bc1b817a5e519de184d1cc4a0e3300666a3d14ee4b016a11b670c7fb7b4a",
+  "validation_errors": []
+}

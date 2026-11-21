@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3cf3355489cbda9547fe39ec.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "training for FB",
+  "setter": "maleuh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "e3c05325ece74c8db90492dbe025feb5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1114r12p1137r15p1230r13p1234r13p1283r13p1297r13p1350r13p1389r14p1453r15p1486r15p1514r15p1521r15p1598r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "1c1cce960fb04f732de9ad2a7f9776cbbe5d18d498eaeeeaf4cb88d6abb0a254",
+  "validation_errors": []
+}

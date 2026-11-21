@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0accc0dca3a2eb22c019c554.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Some Limits",
+  "setter": "eivindsbeats",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6094bec4-6f73-4088-a6ce-aba46d313d06",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1161r12p1213r13p1235r13p1286r13p1324r13p1468r15p1464r15p1460r15p1391r14p1525r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.7,
+  "ascensionist_count": 17,
+  "quality_average": 3.4,
+  "hold_fingerprint": "ffa4e2f6f10970ae13a05095d960bc6db6faa90022d5d1b342ea94310c267f28",
+  "validation_errors": []
+}

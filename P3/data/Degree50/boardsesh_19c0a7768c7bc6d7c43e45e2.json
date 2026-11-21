@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_19c0a7768c7bc6d7c43e45e2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Not so EZ",
+  "setter": "Zi Yi1234",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "a680171b-a402-4169-adc7-1d2c00d06ac8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1269r13p1074r15p1270r13p1197r15p1283r13p1352r13p1383r14p1239r13p1182r15p1231r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a910085a7d30174326eaabbcee0485afb7e1830e3afcab34f44b4925882f166a",
+  "validation_errors": []
+}

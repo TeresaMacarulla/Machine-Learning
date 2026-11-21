@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3459b0168cb60d516cd70cae.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Organically",
+  "setter": "Hazen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "f83c8709c1f14be4942d4f7a9be2582f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1187r13p1214r15p1235r13p1255r13p1320r13p1366r14p1371r13p1455r15p1456r15p1472r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "6eb5bda48a8b90a9cda326e77c831e9625826afce089265a2a9d132080dc5d6b",
+  "validation_errors": []
+}

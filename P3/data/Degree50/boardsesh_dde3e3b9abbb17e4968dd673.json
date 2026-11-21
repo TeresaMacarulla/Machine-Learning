@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dde3e3b9abbb17e4968dd673.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "VH - Jump",
+  "setter": "PJP",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9655BAB550ED488EA7E6B3D6CAE1E08E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1215r12p1234r13p1236r12p1247r13p1300r13p1315r13p1387r14p1468r15p1479r15p1506r15p1511r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "994cb9336039396dcbf370dc0b72cc6f6ea365d0799e535255fb61668ff9e364",
+  "validation_errors": []
+}

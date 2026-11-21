@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1bf689abdb0415b1ce2973c4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Vector Launch Failed",
+  "setter": "hangar18longbeach",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "9360547833384D4D9FF376F539FEA276",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1137r15p1149r12p1198r13p1236r13p1246r15p1284r13p1289r15p1319r13p1387r14p1454r15p1457r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "14d06a12bc6a143d90b0cac3f78327ac8cd2ea3167960f89b5be30f67a4a165b",
+  "validation_errors": []
+}

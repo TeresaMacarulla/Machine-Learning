@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d400b7f6a8e8c8070ee13eb2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "popol",
+  "setter": "MURUSAKI",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "ef36fd21-8fdf-48ee-9ac6-3b844f2a09a9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1448r15p1450r15p1257r13p1340r13p1306r13p1353r13p1387r14p1137r15p1532r15p1527r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 4,
+  "quality_average": 5.0,
+  "hold_fingerprint": "862f7ee49f70000f9b653158b14014a2e6fcf781f6ec4403622d4b5a2a2984ad",
+  "validation_errors": []
+}

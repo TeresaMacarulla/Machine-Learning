@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_28f1494f4ad323673862b533.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Pinch Joker",
+  "setter": "martin74",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "CCF56C9A84444B44AA77A3D86E6F44BD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1191r15p1204r15p1254r13p1261r12p1267r13p1270r15p1291r13p1297r12p1318r13p1374r13p1390r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "524d0c64c3365b355ee46e823bbc33f3b9117b52868a3fe55e0e6ed6ccd193c2",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cfb3f9becda26f1fbde1a4f3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Flute Solo",
+  "setter": "crunch2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "4121c1dcf2b442acbb646e2d9bc89668",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1095r15p1147r12p1164r12p1201r13p1239r13p1274r13p1326r13p1361r14p1489r15p1494r15p1517r15p1554r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "dc641d6d933171421994ff9f1f12e484e9e60ca0f0886c41a447139cb7ae8b01",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d65d00a00699440e04f7c545.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "50 degree challenge elim",
+  "setter": "peytonf1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "a02168b27f5f4512b5f2c2469cb201ed",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1144r15p1163r12p1195r12p1218r15p1231r13p1247r13p1302r13p1353r13p1387r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "614f8ac24522c14dff4d9d9514a98af03339983d83e541b2012de98f1d886115",
+  "validation_errors": []
+}

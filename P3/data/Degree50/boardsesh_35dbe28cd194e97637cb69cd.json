@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_35dbe28cd194e97637cb69cd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "wappa",
+  "setter": "Stanish",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A068F6B876F046E1A042C9CB40C33350",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1190r12p1271r13p1295r13p1318r13p1357r13p1368r13p1379r14p1447r15p1482r15p1528r15p1554r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "28c684174a998f1e78d634194471e69cca3a2302687749e5899226143181aab3",
+  "validation_errors": []
+}

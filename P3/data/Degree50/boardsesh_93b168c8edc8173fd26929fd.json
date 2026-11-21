@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_93b168c8edc8173fd26929fd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Outer limits",
+  "setter": "Lucas",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "623E7980F9B44AAC811CCD440C698762",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1131r12p1149r12p1204r15p1215r13p1220r15p1267r13p1272r13p1301r13p1340r13p1391r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.99,
+  "ascensionist_count": 87,
+  "quality_average": 3.32,
+  "hold_fingerprint": "613fee80cd38caec4148811bcba455ae766aed71fceb83707906f366f708dc7d",
+  "validation_errors": []
+}

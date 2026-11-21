@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f8ac981f9a6cd1dff7dbe466.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "injury induced pulley thickening",
+  "setter": "boddha",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5073545901F24A2880466EC02A3F93E3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r15p1212r15p1214r12p1215r12p1248r13p1270r15p1285r13p1332r13p1348r14p1583r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "02b73a9f9b34491b947067345abe1b2ab5d1cf0533f981b792a5ffd178ee7cf3",
+  "validation_errors": []
+}

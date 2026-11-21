@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1588656c40609b0a85ac82cd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "ViveB-PUMP",
+  "setter": "Maxio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "fbae67b1-9eed-4bc3-8d34-b418cbef4538",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1239r13p1157r12p1273r13p1272r13p1320r13p1450r15p1389r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "372b14da33bc9fa2970968985be8e51c7c3eee119930f044c96b8f4bb1ac0b45",
+  "validation_errors": []
+}

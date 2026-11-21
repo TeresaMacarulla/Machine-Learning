@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f6d2b650d3a08edad4ce497e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Flocka",
+  "setter": "bustinbinker",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "a56def39c6694467ac842709a60dd8d6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r15p1126r12p1143r12p1244r13p1300r13p1301r13p1304r13p1391r14p1501r15p1532r15p1533r15p1534r15p1541r15p1542r15p1543r15p1547r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "86aa4420ddf61f982b60d347501ef7778690e2d517978a4a418da238569902c6",
+  "validation_errors": []
+}

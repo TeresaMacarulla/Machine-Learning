@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c4d7fc9124ff7c1d898fb492.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Walk It Like You Talk It",
+  "setter": "dbarks",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "487C02984876472EA314AD5D57C9EF83",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1206r12p1257r13p1310r13p1340r13p1371r13p1383r14p1451r15p1488r15p1524r15p1567r15p1577r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "de6b991815c86867a82a8ce3575783e7746c2d3f967aeff3b5fec16fec1d036e",
+  "validation_errors": []
+}

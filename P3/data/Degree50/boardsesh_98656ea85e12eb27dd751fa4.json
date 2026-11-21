@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_98656ea85e12eb27dd751fa4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "\u270b droite direct!",
+  "setter": "mdo03",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "cfc0b447b0ef45f0a37daafda01b9e4d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r12p1126r12p1177r13p1199r13p1233r13p1237r13p1321r13p1386r14p1464r15p1477r15p1490r15p1506r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.33,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "9836a8db4287959a49db53ad24ef6368d8821cb2c007c8d310e55a532412cb8e",
+  "validation_errors": []
+}

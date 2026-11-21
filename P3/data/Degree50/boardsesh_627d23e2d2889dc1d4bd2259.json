@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_627d23e2d2889dc1d4bd2259.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Day of V4",
+  "setter": "leemiho2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "9f93a5b7-63a9-4c2d-925f-2b3f8e0c03fe",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r12p1198r12p1150r15p1267r13p1304r13p1353r13p1386r14p1543r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.91,
+  "ascensionist_count": 36,
+  "quality_average": 4.09,
+  "hold_fingerprint": "6de772f4ab2f374e3338a49d55b78aebb108d667c2ce6ac45ad54b693d5d6736",
+  "validation_errors": []
+}

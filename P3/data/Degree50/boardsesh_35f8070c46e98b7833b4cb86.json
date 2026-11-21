@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_35f8070c46e98b7833b4cb86.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Find a Way",
+  "setter": "vukyle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "e8eb858a480548a0bd4579d51d6ef3e0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1187r12p1205r12p1231r15p1270r13p1273r13p1303r13p1334r13p1351r13p1368r13p1389r13p1391r14p1470r15p1472r15p1525r15p1542r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.98,
+  "ascensionist_count": 2182,
+  "quality_average": 3.29,
+  "hold_fingerprint": "0ee8cc2050821ab739212f79888e6bfd72c78666b7958a24804c41a0dac99564",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ac30f2f7d30e3b2ab753c0d2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Keep Not Falling",
+  "setter": "rexhavoc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "b74bad5b347840f38782c7ff27f17ae9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1184r12p1254r13p1320r13p1391r14p1472r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4dcff9bdb2485df31d44d919862f23a4ae02b538f682c94ca90d00e375aef0ba",
+  "validation_errors": []
+}

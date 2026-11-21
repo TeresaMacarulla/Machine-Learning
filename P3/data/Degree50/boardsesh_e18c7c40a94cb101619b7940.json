@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e18c7c40a94cb101619b7940.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Pogo fiend",
+  "setter": "cpousson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "DB269E4DD7F14DBEAEDBA84956D30C57",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1174r12p1239r12p1308r13p1353r13p1387r14p1472r15p1509r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.4,
+  "ascensionist_count": 5,
+  "quality_average": 4.4,
+  "hold_fingerprint": "a9231141201ebfbded8c2b03d8440ca1979bc638baeaef5b18b0a4fcd204534b",
+  "validation_errors": []
+}

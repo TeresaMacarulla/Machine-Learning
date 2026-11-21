@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c1f24e908ec7946cabe66ce0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Pumpy dumpy",
+  "setter": "7usten",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "33A3461AE97A4294A8F6DFAF9F232994",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1126r12p1143r12p1212r13p1231r13p1244r13p1296r13p1300r13p1315r13p1385r14p1464r15p1477r15p1493r15p1519r15p1532r15p1537r15p1557r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "003ae170f500578f8bd1ff221f91cff95938c3aebbfd27104bbf26fd878367fd",
+  "validation_errors": []
+}

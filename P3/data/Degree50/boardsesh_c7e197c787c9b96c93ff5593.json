@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c7e197c787c9b96c93ff5593.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "FanDangle",
+  "setter": "calmather",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "955e2290c1df49f1919bd80fbcdf0db4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1173r12p1185r13p1254r13p1264r13p1381r14p1452r15p1478r15p1495r15p1520r15p1584r13",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "89ba3332659ff8634a79698f94ebe7ea394c80bce42f927937a09088b862c1e8",
+  "validation_errors": []
+}

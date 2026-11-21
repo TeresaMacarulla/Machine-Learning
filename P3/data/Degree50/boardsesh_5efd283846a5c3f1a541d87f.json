@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5efd283846a5c3f1a541d87f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "bayceps",
+  "setter": "johann.bjrd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "2BD25C3104EA4595A251D7190637A778",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1077r15p1139r12p1174r12p1186r13p1189r13p1235r13p1250r13p1265r13p1268r13p1354r13p1391r14p1472r15p1486r15p1494r15p1514r15p1550r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "00fb616ad894385f05a26855d6ab33d1817d379ce8a95bd46e9f02fd44c6cc3c",
+  "validation_errors": []
+}

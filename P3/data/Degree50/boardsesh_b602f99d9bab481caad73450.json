@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b602f99d9bab481caad73450.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "is 1hand enough",
+  "setter": "mateclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "c87236a0-20e3-42fb-8090-fcbebc564fd4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1320r13p1317r13p1270r13p1182r15p1190r12p1447r15p1273r13p1541r15p1387r14p1074r12p1204r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.38,
+  "ascensionist_count": 11,
+  "quality_average": 3.5,
+  "hold_fingerprint": "e5fe14b65ffb3289bc1b279f47e61c6e412add0ae56bcfe2f1beb0a058abbb3b",
+  "validation_errors": []
+}

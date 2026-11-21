@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0fa254f412262bf7c65b2c7e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Blammo",
+  "setter": "Turkomon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "e3ba7744-abbf-433d-afd5-d05ab5232f28",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1177r12p1214r13p1231r13p1302r13p1385r14p1566r15p1093r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.67,
+  "ascensionist_count": 5,
+  "quality_average": 2.67,
+  "hold_fingerprint": "d54bfb3067b0066f2cda8eb821d1d637555ffa57a0d294e50f66a9dd7503963b",
+  "validation_errors": []
+}

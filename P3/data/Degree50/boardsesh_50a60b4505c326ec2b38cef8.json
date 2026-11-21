@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_50a60b4505c326ec2b38cef8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "no muda",
+  "setter": "k.villamor",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2A0ECFC6890B40479CCFC42222BD260D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1143r12p1194r13p1215r13p1267r13p1272r13p1307r13p1327r13p1374r13p1390r14p1493r15p1517r15p1543r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "9daf937d44f2a58986362801d22d73b4321cc15bc230e9f11d7c6c128b6c663b",
+  "validation_errors": []
+}

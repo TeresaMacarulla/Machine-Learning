@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b416d1894fdcab13c895912.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Hike a right",
+  "setter": "s_mitty",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "BFFD2FD9ED4045BA919DB08E652AF4E1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1098r15p1144r12p1163r12p1199r13p1221r13p1239r13p1304r13p1307r13p1315r13p1339r13p1383r14p1488r15p1490r15p1531r15p1576r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f77096433234d387ef750d96f57c7d1f9287396065267c743532d123d88fe827",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a91b88ae9f4bb37a0781ba48.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "driving miss daisy",
+  "setter": "benconner",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 11,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "E3797939D3514042B25FF43D761C1B1F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1143r12p1144r15p1160r15p1163r12p1192r13p1210r13p1246r13p1257r15p1260r13p1264r13p1272r15p1281r13p1289r15p1300r13p1340r13p1353r13p1356r13p1359r13p1395r14p1460r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.13,
+  "ascensionist_count": 12,
+  "quality_average": 3.5,
+  "hold_fingerprint": "1fc3cd7c67a7c53ac7e51b353ba5f85c33061eb7df03b41168d29048e4f6465d",
+  "validation_errors": []
+}

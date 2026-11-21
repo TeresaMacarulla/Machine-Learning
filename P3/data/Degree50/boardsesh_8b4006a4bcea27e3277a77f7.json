@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8b4006a4bcea27e3277a77f7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Walker Talker",
+  "setter": "SeventhLLama",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "c3150ce8a7874054a34655094218382d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1155r12p1189r13p1219r13p1234r13p1266r13p1319r13p1336r13p1373r13p1390r14p1447r15p1452r15p1486r15p1503r15p1514r15p1561r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "173db360c1c7dbdace94ea2eb13eb6e619932775db381e39fd0dda517746a19c",
+  "validation_errors": []
+}

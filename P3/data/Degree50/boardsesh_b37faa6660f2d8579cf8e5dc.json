@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b37faa6660f2d8579cf8e5dc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Croissant Swing",
+  "setter": "bongrita",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F3BF5C6BA56D499D8015F64EFC43E3DA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1156r15p1163r15p1220r13p1234r13p1302r13p1315r13p1385r13p1389r14p1449r15p1453r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.91,
+  "ascensionist_count": 11,
+  "quality_average": 3.0899999999999994,
+  "hold_fingerprint": "c5133dcb23436538421feaa0a0746222f33c663a870795e501b2faf8bb0ef1b6",
+  "validation_errors": []
+}

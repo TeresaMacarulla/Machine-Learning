@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1d559b72db25cd442132a453.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Spend",
+  "setter": "J",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "C444490C142C4DB0BCE2F9A2A65290E0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1201r12p1204r15p1236r12p1267r13p1300r13p1317r13p1337r13p1385r14p1389r14p1391r13p1480r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "6b92fe8c7fab52cbcb79471dea77af6e5cc0d392f7a07346c3a9f290c5434d21",
+  "validation_errors": []
+}

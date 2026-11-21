@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_320db50bbc7f22db11de3852.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Bouldergarten",
+  "setter": "dominikbann",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "02ae581b269e4436a7e661465ac6bb2a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1235r13p1236r13p1289r13p1292r13p1394r14p1452r15p1488r15p1507r12p1526r15p1545r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.33,
+  "ascensionist_count": 6,
+  "quality_average": 4.0,
+  "hold_fingerprint": "8eff0422a56a9c56f50a5f8bd469bdf20c3fb296279e3ce7b236f43d4b9adfb6",
+  "validation_errors": []
+}

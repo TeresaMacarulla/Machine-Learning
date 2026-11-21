@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cb3d10aec2c67e84d10a2f8b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Jamp",
+  "setter": "Sk3ppy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "419a200da6d94ebea6aa85a64fa88f20",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1116r12p1187r12p1221r13p1236r13p1267r13p1353r13p1367r13p1381r14p1449r15p1454r15p1491r15p1496r15p1504r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "65a6ce216fa961468354c9e778435416d535c83f301351ae3369a40aa67aa5b2",
+  "validation_errors": []
+}

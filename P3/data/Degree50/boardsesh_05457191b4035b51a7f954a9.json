@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_05457191b4035b51a7f954a9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Solar powered tandem recumbent",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "afd3f562db9e48dbb6c59ccdf287b33c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1091r15p1099r15p1169r15p1178r12p1182r13p1202r15p1215r13p1236r15p1269r13p1303r13p1307r13p1374r13p1394r14p1476r15p1527r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.91,
+  "ascensionist_count": 22,
+  "quality_average": 3.45,
+  "hold_fingerprint": "52d67feb4ac5e8b3ca2b7c4ca82ab9ee4bdae6375977e476a4028a66444e3960",
+  "validation_errors": []
+}

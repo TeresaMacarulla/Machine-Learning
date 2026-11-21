@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bf328eb88ff0b6c075c7b13a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "kevex2",
+  "setter": "kevex",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b62584bff65f4d94913c6a09afea806f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1115r12p1130r12p1166r13p1181r13p1214r13p1227r13p1282r13p1299r13p1317r13p1385r14p1456r15p1458r15p1501r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "97d808a3079f46a41fe73d77ecd9fd12682b92e6a1610ebcfe7a1799e0ed884d",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f39d99e67408ee2724c88dd6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Break Elevator Door",
+  "setter": "jobbabjimin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "C961B09046574B318FEA218C188DE54E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1208r15p1242r15p1254r12p1293r12p1325r13p1350r13p1353r13p1375r13p1382r14p1543r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2869797e58b46da0a0b640c542f640ed20edcdf8c9f5483a154246a24d597a59",
+  "validation_errors": []
+}

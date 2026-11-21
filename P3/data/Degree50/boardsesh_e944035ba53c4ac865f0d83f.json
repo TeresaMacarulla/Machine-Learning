@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e944035ba53c4ac865f0d83f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "excrem",
+  "setter": "max_rav",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "ef7a2bfba4754b5db682b202123fcb11",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1166r12p1218r13p1255r13p1305r13p1359r13p1374r13p1388r14p1389r14p1476r15p1478r15p1553r15p1561r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "910b686ce52f87b671ecfafad18ededeea46676a8640fa6a15fe643aa1ca98cf",
+  "validation_errors": []
+}

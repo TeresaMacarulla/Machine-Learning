@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_508e08b3463a9c77b4075cc5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Crash Out",
+  "setter": "boardlord",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "4B1B20DFD96E4EE28231EB427F14C99A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1148r15p1152r12p1153r12p1219r13p1243r14p1294r13p1303r13p1304r13p1347r13p1379r13p1385r13p1521r15p1539r15p1559r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "eb1818bfd4284cfbdbeb8917f683958d07dd52c0aa9d811070a4f9113ff87461",
+  "validation_errors": []
+}

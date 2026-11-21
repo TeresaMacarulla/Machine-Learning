@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3e52440f6d41115c3eadd904.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "gemini",
+  "setter": "Philbothegeek",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "49cbcd7f-0351-42c0-bdee-69a5898705f4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1124r12p1464r15p1162r13p1502r15p1195r13p1233r13p1248r13p1303r13p1336r13p1390r14p1531r15p1560r15p1127r12",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.4,
+  "ascensionist_count": 16,
+  "quality_average": 4.4,
+  "hold_fingerprint": "b2818ac9b7f352c14e29fe4a657f6605a1811c9bbd9fa39432dc9a517e89eacf",
+  "validation_errors": []
+}

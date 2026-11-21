@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d207c4cd4eda382cab831f08.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "a Pincher's problem 4",
+  "setter": "daxxta",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "375b8c54ef964c02b3242383baf458bd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1123r12p1153r12p1191r13p1241r13p1242r15p1254r13p1344r13p1357r13p1390r14p1447r15p1499r15p1508r15p1515r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2b05e7a95af6d52523417e3741120062716a0d10c669f2238b43416abd5d65e4",
+  "validation_errors": []
+}

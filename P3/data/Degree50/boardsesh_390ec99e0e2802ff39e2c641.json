@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_390ec99e0e2802ff39e2c641.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Weak Fingers Redux",
+  "setter": "kilterjackie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "2B8E0ABBF03840CF848366A2F47B03CA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1125r12p1158r12p1197r13p1231r13p1267r13p1299r13p1318r13p1351r13p1384r14p1457r15p1464r15p1487r15p1503r13p1532r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.02,
+  "ascensionist_count": 48,
+  "quality_average": 3.28,
+  "hold_fingerprint": "e78ce69dccc877605f16ffdadbcfd3b9bb0526a4966472cc8314515531996ec5",
+  "validation_errors": []
+}

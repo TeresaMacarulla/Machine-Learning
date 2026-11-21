@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f050cea5f3e5993abcb806b3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Ouch! My Elbow",
+  "setter": "tomschofield00",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "C7BBE587ED9747E6BDDAEE3A87C5B062",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1132r13p1163r13p1249r13p1261r13p1332r13p1345r13p1379r14p1487r15p1531r15p1558r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6ec5a0f8d7dbc34dd8040ccb4ecf0e2f03ac8769a5beece28bcd695cb12a6a6d",
+  "validation_errors": []
+}

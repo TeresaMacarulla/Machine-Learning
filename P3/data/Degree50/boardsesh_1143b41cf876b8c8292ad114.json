@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1143b41cf876b8c8292ad114.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "poisson",
+  "setter": "william",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "F84B9BF77042471C9B5001A3D105D3D1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1161r15p1165r15p1178r12p1198r12p1200r15p1229r13p1249r13p1282r13p1297r13p1333r13p1383r14p1467r15p1468r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.92,
+  "ascensionist_count": 12,
+  "quality_average": 3.33,
+  "hold_fingerprint": "3246343f8d0ce5a2a363afb7bed808b059a013bc6d22685687339b2a3d23da88",
+  "validation_errors": []
+}

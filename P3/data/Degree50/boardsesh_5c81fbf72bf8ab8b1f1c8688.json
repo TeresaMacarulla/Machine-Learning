@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5c81fbf72bf8ab8b1f1c8688.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Doctor Strange",
+  "setter": "noeclimber",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "CE9CB5ECA5D6423484C0C46F668B90D9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1128r12p1228r13p1271r13p1285r13p1344r13p1393r14p1462r15p1475r15p1527r15p1534r15p1536r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "780c300e76bd8445f72a13acd3dd1c8b82240a30d99d0eab6a1c7d82f6a175c2",
+  "validation_errors": []
+}

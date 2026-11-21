@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_476cf003551357877fd32253.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Saucissonnage",
+  "setter": "AdrnLmr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "100b9b3d-1754-44c0-a19d-e388c4eb0e59",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1233r13p1271r13p1254r13p1180r13p1339r13p1352r13p1384r14p1143r12p1484r15p1466r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "440e295a51908c4ee211779e721500e2b5d9c2ef356093f13caf5e7b4adebfb6",
+  "validation_errors": []
+}

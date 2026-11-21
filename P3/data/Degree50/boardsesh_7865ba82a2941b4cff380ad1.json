@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7865ba82a2941b4cff380ad1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "kawaboonga",
+  "setter": "GauthierCoulombie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "e3a0cee1b65c4038b757113731a29b6c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1075r15p1146r15p1152r12p1186r12p1215r13p1254r13p1285r13p1331r13p1387r14p1452r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "db528cf0c43252bcf768d60bfa929308fa0374ecd1b57012b210ae8b5fb69e66",
+  "validation_errors": []
+}

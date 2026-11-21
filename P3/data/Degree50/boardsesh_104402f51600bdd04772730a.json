@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_104402f51600bdd04772730a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Tensiol",
+  "setter": "gabriellow",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4eb11f35babe40029ba9b0fc8df08d54",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1127r12p1133r15p1148r12p1204r15p1216r13p1249r13p1285r13p1318r13p1338r13p1385r14p1552r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "59e67d13e0fcf2c54409f3a6c4141df569f1ae973a44b63c32a52d696de76d85",
+  "validation_errors": []
+}

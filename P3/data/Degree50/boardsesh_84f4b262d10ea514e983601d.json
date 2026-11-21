@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_84f4b262d10ea514e983601d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "1 - 5 - 8",
+  "setter": "gsmith.00",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "9E20053AAB544241A75D4342E6EEA95B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1170r12p1237r13p1324r13p1390r14p1481r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "94ccc66402f053e10ed5aab42ea249217c57fa23866244c6b137d57a82729919",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e5340d13fcb37a15207c0bcd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "BSR10",
+  "setter": "Thomas17",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "d4c8680de8224ae8864b62319e623fa8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1156r15p1187r12p1219r15p1241r12p1271r13p1300r13p1383r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "c307481d9b196b8ab23d6d70c7814b8c3067a40ae299e77fb27009fb2d655a49",
+  "validation_errors": []
+}

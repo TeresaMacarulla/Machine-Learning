@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4e16a51eacd62a51e5372b1b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "50 Deg Red Circuit 1.",
+  "setter": "3P",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9A27B6506AEE45799E63578F05D03696",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1094r15p1143r12p1159r12p1227r13p1265r13p1296r13p1345r13p1379r14p1465r15p1519r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7538f9287b1e6f23c51a66ae283e1224f104a531c41e7da3fdadef6b35fa7247",
+  "validation_errors": []
+}

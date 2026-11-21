@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f83a8dd7dd17e47a763683ea.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "choss",
+  "setter": "lebron",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "50cb171b-7e60-491c-b317-a60e9a6d6173",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1455r15p1456r15p1231r13p1130r15p1216r13p1263r13p1210r15p1315r13p1387r14p1219r13p1300r13p1305r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.44,
+  "ascensionist_count": 14,
+  "quality_average": 3.11,
+  "hold_fingerprint": "23e9775efbd62d3834d46ba564de60b041b3070b42533e81ddaea942e8ef80fe",
+  "validation_errors": []
+}

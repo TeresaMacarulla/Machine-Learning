@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_08f1b8fe8634fa9a366d21a5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "billbra",
+  "setter": "simobillma",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "993E56C776134919ADC34849302B7E6E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r15p1144r15p1149r12p1198r13p1231r13p1245r13p1294r13p1347r13p1382r14p1454r15p1458r15p1520r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "3adb5acf16f1499ae13e8daf2092a72ea95c0a32698ba6bfd9406ccd445c0a1e",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_521eec2574d6b89d205bde5c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Absolutely cannot pinch",
+  "setter": "BryceMcCulloch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "6DA0DDBB74D44C66AEB08AAA096DDEA6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1148r12p1186r12p1254r13p1285r13p1357r13p1387r14p1469r15p1506r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.44,
+  "hold_fingerprint": "edddfa4afd4e7ef9b6e87be33aae9fbd260b12aec1456894f1e8c01c2b1587da",
+  "validation_errors": []
+}

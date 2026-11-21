@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d701aacf9090c57d384a30e3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Bait or Low IQ",
+  "setter": "pALT",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5c4200be-3c17-4b28-872c-155e6bbd1859",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1211r12p1520r15p1484r15p1266r13p1314r13p1352r13p1304r13p1288r13p1220r15p1392r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "fe1ca98af5747adbbce1bc8fc834f708fbd7800a6540b00168db306823174c33",
+  "validation_errors": []
+}

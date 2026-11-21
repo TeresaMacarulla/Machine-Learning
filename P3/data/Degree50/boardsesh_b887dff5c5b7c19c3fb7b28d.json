@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b887dff5c5b7c19c3fb7b28d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "test.44",
+  "setter": "gabriel.ferreira23",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "006B3FE405AA48F2BACE0BB1CF7328FA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1134r12p1183r15p1198r12p1219r15p1235r13p1236r13p1288r13p1320r13p1373r13p1390r14p1487r15p1489r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "f18c976b4639157d4b62859d0b4f6e085cb146783c2e4bb19d54649aaadbec9f",
+  "validation_errors": []
+}

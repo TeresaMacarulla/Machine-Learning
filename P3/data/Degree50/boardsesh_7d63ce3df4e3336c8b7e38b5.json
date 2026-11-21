@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7d63ce3df4e3336c8b7e38b5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "One Arm Pull Up Campus",
+  "setter": "bradtrann",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "41B61711A2C14E83855DBC00930D566F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1302r12p1352r13p1389r14p1514r12",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "88bf700c574c1eaad26ad6c479427ebfdfef8784c7242369e11a6f7991bdec48",
+  "validation_errors": []
+}

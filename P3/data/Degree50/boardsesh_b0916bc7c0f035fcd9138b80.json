@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b0916bc7c0f035fcd9138b80.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Poop a Tuna",
+  "setter": "shmitch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "48031ea6bb3347c286450fd5f21e7f73",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r15p1166r12p1201r13p1235r13p1256r13p1289r13p1306r13p1337r13p1355r13p1387r14p1457r15p1508r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 113,
+  "quality_average": 3.27,
+  "hold_fingerprint": "dd8507c2e77aa68c53e96f2c64699662791f4110f1ba30e617af2e099125a0f1",
+  "validation_errors": []
+}

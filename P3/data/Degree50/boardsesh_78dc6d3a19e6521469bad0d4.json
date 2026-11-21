@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_78dc6d3a19e6521469bad0d4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Hilbert Space",
+  "setter": "hail.ey",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "AD1C3E9D84E64543846296C87E6E4295",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1106r15p1107r15p1110r15p1131r15p1133r15p1155r12p1157r12p1192r14p1200r13p1206r13p1212r13p1221r13p1231r13p1234r13",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c916a9a13b6ffbffd0cd94c19e4d3b7e63dcd2e6752cf5124d35f75f1eff8cdb",
+  "validation_errors": []
+}

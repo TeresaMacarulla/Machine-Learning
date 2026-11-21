@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7ca7f6d340b1d98acacde538.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "scraper",
+  "setter": "michaeltran",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "F4AA5BCD00B24657A41669F4B2495B23",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r15p1166r12p1197r13p1214r13p1263r13p1269r13p1284r13p1304r13p1388r14p1493r15p1532r15p1541r15p1543r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.92,
+  "ascensionist_count": 25,
+  "quality_average": 3.29,
+  "hold_fingerprint": "19bd80ca2b9e88d44f508f7c0365aa4142826969d9c1ec65072638ac0c70a991",
+  "validation_errors": []
+}

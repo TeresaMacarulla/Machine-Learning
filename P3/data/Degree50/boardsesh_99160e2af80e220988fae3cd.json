@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_99160e2af80e220988fae3cd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "campus CF1",
+  "setter": "cfow",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "1022D5E5D2FE42E09D85F1D535BDA0C0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r12p1220r12p1231r13p1234r13p1300r13p1331r13p1382r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "682403a0cfa2c46778cef95d565dfaa677401fe58cad86170432df36f58d6d78",
+  "validation_errors": []
+}

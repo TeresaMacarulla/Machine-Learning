@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a7e74864e4a7460f5d76256e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "ASAP",
+  "setter": "p.tang",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "38710e65d0124d7da836fd5462f3c49b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1153r12p1204r13p1241r13p1272r13p1276r13p1321r13p1339r13p1354r13p1387r14p1451r15p1482r15p1499r15p1509r15p1541r15p1552r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7e8f75e0cb85e8e7af9d23ac39d6826b39e6bada1713a46928865b4f1d94be16",
+  "validation_errors": []
+}

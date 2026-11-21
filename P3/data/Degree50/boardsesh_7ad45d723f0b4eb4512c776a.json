@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7ad45d723f0b4eb4512c776a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "ice pack",
+  "setter": "brady.rasnow",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "FB91FC6C9C4541228F52FA65AC22A52D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1145r15p1163r12p1179r12p1234r13p1302r13p1356r13p1387r14p1460r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.33,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "3808e3c5b7e14b3a14496bcdf7237c46ce54efa087d1fb79b56b19712baa9e73",
+  "validation_errors": []
+}

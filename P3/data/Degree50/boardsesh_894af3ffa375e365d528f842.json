@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_894af3ffa375e365d528f842.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Gap ou pas Cap",
+  "setter": "lp_corbeil",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "dc7e843897084bdb849e9332550c6cd0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r12p1126r12p1196r13p1211r13p1281r13p1311r13p1383r14p1462r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "36c0f85db26b2a6d11f79bff78d9abc9d5034fd384f754729dd8f62157cb09bc",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4b9ca32c1cd01392ac860a0f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "wheeeee",
+  "setter": "hannahterpning",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "06F321347E6D422E9D4C0F447ED4CEE9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1200r12p1215r12p1219r15p1302r13p1387r14p1485r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6ea36c33b12b84f4f82038a918bee3fbff22d4a8bd571345cf2aae774e31efba",
+  "validation_errors": []
+}

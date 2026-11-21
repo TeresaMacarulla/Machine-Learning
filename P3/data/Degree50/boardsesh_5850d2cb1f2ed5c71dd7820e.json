@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5850d2cb1f2ed5c71dd7820e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Biped III",
+  "setter": "PJP",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A2DEF4D0D40D4EC9A06BA060465E3873",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1185r12p1198r12p1230r13p1234r13p1263r13p1267r13p1300r13p1317r13p1353r14p1456r15p1493r15p1506r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "e82eb91d671ebad643686934a621d7a04154eb41a3769a131de137475fbcb379",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_206fa785b8efc6135c54664e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Never Let U go",
+  "setter": "ksmd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "7c031529087648869f672431d49fc55a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1083r15p1113r15p1142r15p1165r12p1168r12p1194r15p1215r13p1231r13p1251r15p1279r13p1333r13p1351r13p1388r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.1,
+  "ascensionist_count": 10,
+  "quality_average": 3.7,
+  "hold_fingerprint": "579cb1f2b8c8b621508d03be5c7e9cf055f33fbe6ab6708f51c3fe3e19651016",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2d2fa67251b88ba15228cc20.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "goblin \ud83d\udc79",
+  "setter": "jakemcneely",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "85B930B7166345BFB9ECCD38675F49E9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1148r12p1197r13p1227r13p1279r13p1345r13p1383r14p1455r15p1469r15p1483r15p1501r15p1510r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "9eaf58c9aefd1385cf14f42d85ff728d95e494b26245ed4d8443b3edd1c7587b",
+  "validation_errors": []
+}

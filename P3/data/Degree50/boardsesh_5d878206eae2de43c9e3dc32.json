@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5d878206eae2de43c9e3dc32.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Fuzzy in a Corner",
+  "setter": "Cuckovich",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "3D9DA431B6244419826F31139321733F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1146r12p1185r13p1198r13p1236r13p1273r13p1340r13p1394r14p1458r15p1478r15p1499r15p1542r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.2,
+  "ascensionist_count": 6,
+  "quality_average": 4.2,
+  "hold_fingerprint": "6c2f8dfe6c5efd19fa09d06a1f3f4842f09fe4fb94e1e66ac0d4e2c2ee37bb39",
+  "validation_errors": []
+}

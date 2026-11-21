@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a3e9fd30f3ed59765aa06905.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "rail car",
+  "setter": "Inochi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "bd46e75569724f12b0980a370159e229",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1167r12p1215r13p1287r13p1305r13p1359r13p1388r14p1468r15p1525r15p1534r15p1544r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b437ca2c8e30cf58f6fd1601a85f68e3823e4054d082cbba917d2d92206098fe",
+  "validation_errors": []
+}

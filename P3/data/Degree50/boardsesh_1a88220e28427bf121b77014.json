@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1a88220e28427bf121b77014.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Rastamon",
+  "setter": "connor.kainalu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "2F6656E5AC5547EA8851B22F22D805A0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1173r12p1220r13p1287r13p1334r13p1349r13p1382r14p1447r15p1451r15p1499r15p1529r15p1549r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.85,
+  "ascensionist_count": 13,
+  "quality_average": 2.31,
+  "hold_fingerprint": "60a7cfe3fa4150be37d336788561d0154b3553d5c0e07afdd92f4757c73b5f29",
+  "validation_errors": []
+}

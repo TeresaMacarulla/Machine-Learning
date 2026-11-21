@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7359cd3091b253056cb370ea.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Undery (?)",
+  "setter": "ClimbWorld",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "039d5632def2428aa582db2b65595d96",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1191r12p1257r13p1304r13p1357r13p1388r14p1480r15p1482r15p1525r15p1560r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "70f423798844f8a4e7fd283cc202376e856ae6ef2954c344d43da56bc5ba9030",
+  "validation_errors": []
+}

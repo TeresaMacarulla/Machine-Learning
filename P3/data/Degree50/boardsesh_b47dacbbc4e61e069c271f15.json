@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b47dacbbc4e61e069c271f15.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Falling Down the Chimney",
+  "setter": "El.Mom",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "22af2361902d4639bbf34c87e2753e83",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1144r12p1163r12p1214r13p1233r13p1266r13p1270r15p1318r13p1349r13p1386r14p1461r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "9602378152e92b5347f09f7ea17268bd0849235f3746bbb73471c841e96544bf",
+  "validation_errors": []
+}

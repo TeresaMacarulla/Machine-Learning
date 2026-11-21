@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0b4c6bff420984a83b945516.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Les pieds plus gros que les mains.",
+  "setter": "nicoboss",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "bde5b4ddaa5645aeaa49ee7f4bdf7c28",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1146r15p1149r12p1152r15p1187r12p1198r15p1201r15p1215r15p1234r13p1235r15p1247r15p1251r13p1300r13p1316r13p1347r13p1379r14p1456r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ac85aa5de55823f67288c13db15077f67fafd26c25fe4498270b7d33f86215bb",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0c08677028ed071ffd194b80.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Gaston\u2019s Sloppy Seconds",
+  "setter": "Sp1cy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "EBABD9983C3B4E0FB52660EEC00520E6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r15p1172r12p1188r15p1220r12p1255r15p1272r13p1286r13p1304r13p1335r13p1369r13p1382r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "2a6e3b037fff41f939e4753eb84b53ac5ff3de7b324ce178ef18e0a942ed724d",
+  "validation_errors": []
+}

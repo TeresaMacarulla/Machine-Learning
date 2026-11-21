@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9781fc1582feecba5907d314.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "SpringTiger1",
+  "setter": "A19test",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "453efc41aac248458c805f0fd737ec41",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r15p1190r12p1200r15p1255r15p1258r13p1270r13p1321r13p1335r13p1387r14p1482r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b13b327032a08bab1fed8ed21ee0ac5219d4c9f1481982eb84a45165324f2650",
+  "validation_errors": []
+}

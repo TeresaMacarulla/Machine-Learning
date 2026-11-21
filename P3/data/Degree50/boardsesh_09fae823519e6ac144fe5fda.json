@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_09fae823519e6ac144fe5fda.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Not Botslayer Simulator",
+  "setter": "brianharrington",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2349A0B355AF4873B2A91987E4028AE8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r15p1185r12p1202r12p1250r13p1299r13p1386r14p1497r15p1511r15p1547r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "c462463d378fa975c9bdf401ab790284ceadbec99cdb9986b198a585152625f3",
+  "validation_errors": []
+}

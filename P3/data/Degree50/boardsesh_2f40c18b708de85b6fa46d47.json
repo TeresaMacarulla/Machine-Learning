@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2f40c18b708de85b6fa46d47.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Temple ",
+  "setter": "AlvaroPaez",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "dfb2643a-83a6-4fe8-99a9-3d65b31ad7bd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1197r12p1503r12p1265r13p1303r13p1372r13p1393r14p1487r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.7,
+  "ascensionist_count": 14,
+  "quality_average": 5.0,
+  "hold_fingerprint": "8aa95a8cf599ae47cda0f6363f036513dea05e2f15b9cd2b8575d763300b9bf7",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3e7efdfe005a6f706f140846.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "makita trainer",
+  "setter": "delra96",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "489A65754E874B0A821260FFE3519384",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1145r15p1152r12p1167r12p1178r15p1235r13p1247r13p1317r13p1382r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "348e67e8e9e3e99aa217b45181e0335e2f73a2b57f38eb6a254788255ebf59d5",
+  "validation_errors": []
+}

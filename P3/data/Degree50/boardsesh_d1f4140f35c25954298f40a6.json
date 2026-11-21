@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d1f4140f35c25954298f40a6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Lima",
+  "setter": "FloW95",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "65cb5c3239b44838bdfd8e5f1378a6ce",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1156r15p1168r12p1170r12p1272r13p1283r13p1285r13p1332r13p1383r14p1522r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "26e3cc390514fae3be0377a233f039704732c39aa4c821a7774050bf2309e9b2",
+  "validation_errors": []
+}

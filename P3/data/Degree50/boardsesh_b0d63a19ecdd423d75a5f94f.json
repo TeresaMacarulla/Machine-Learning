@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b0d63a19ecdd423d75a5f94f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "goldfish ride",
+  "setter": "dayflashin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "13f233e1-bf03-4f20-bb43-1af76517bfd1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1206r12p1157r12p1185r15p1241r13p1255r13p1272r13p1289r13p1286r13p1356r14p1184r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "26ca8318894ad2d27a7b7a3731b1aac81433cad1a354d9afe70f8d5c9556d9dc",
+  "validation_errors": []
+}

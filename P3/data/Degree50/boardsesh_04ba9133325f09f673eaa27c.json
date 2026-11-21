@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_04ba9133325f09f673eaa27c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Hangar Hut",
+  "setter": "adamraczek",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E4B76083D8774C17B4EBEC808227E2E4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r15p1173r12p1188r12p1242r15p1259r13p1275r13p1281r15p1308r13p1356r13p1383r14p1385r13p1389r13p1450r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.67,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "bf54840cd51236e5e89ce6a5f7b0299d67a2161993c4a31e31d39b2dfa5724e1",
+  "validation_errors": []
+}

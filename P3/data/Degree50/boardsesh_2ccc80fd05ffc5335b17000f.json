@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2ccc80fd05ffc5335b17000f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Fall lafel",
+  "setter": "gravity",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0b135fa3-497d-4a07-9f16-7e2db63f67bd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1270r13p1290r13p1177r12p1248r13p1227r12p1483r15p1516r15p1508r15p1374r13p1395r14",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d5ad752f8ab8909545fe64e8869620afbac1afa55c1b948942091ea0767d5b0a",
+  "validation_errors": []
+}

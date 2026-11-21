@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9ad96f0ceb713988b917e045.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Check won't cash",
+  "setter": "hadenhuffman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "D41D9B4FDF0741FEA263530BDEC83AAA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1116r12p1133r12p1169r13p1187r13p1223r13p1254r13p1269r13p1302r13p1339r13p1389r14p1455r15p1491r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.33,
+  "hold_fingerprint": "44088dc76c32c08e04342369e278819d790e6ac7240f6fa6a2ec43de17e190d3",
+  "validation_errors": []
+}

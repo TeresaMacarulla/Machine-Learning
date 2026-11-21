@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bf4f657d8e9b6093cc416c59.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "RG sloper game",
+  "setter": "SebastianG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "d7e2c955f2274065aca2c4860bda3f15",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r12p1132r12p1184r13p1202r13p1217r13p1271r13p1305r13p1359r13p1394r14p1457r15p1487r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.86,
+  "ascensionist_count": 7,
+  "quality_average": 3.29,
+  "hold_fingerprint": "868dd68904c70fc9e5ef679c96afd438050f81915dbe80f412c2d0ff7b019a98",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a5e0c271486391a1051ad8fb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "hip dislocator",
+  "setter": "jchongsends",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "7BEB21036D9144B290CC2111FCE31F0B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1198r13p1246r13p1248r13p1313r13p1382r14p1468r15p1520r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "812981defaf893c06e8c4b18d964cd036fd32d8872cffa2ad266da69c76780ad",
+  "validation_errors": []
+}

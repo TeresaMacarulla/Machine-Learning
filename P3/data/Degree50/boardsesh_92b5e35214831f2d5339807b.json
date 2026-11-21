@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_92b5e35214831f2d5339807b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "duzzonku",
+  "setter": "leemiho",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "50053CA2BAAC451BBBEA22CBC7ED7131",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r12p1163r12p1219r15p1231r13p1252r13p1283r13p1304r13p1354r13p1389r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.3,
+  "ascensionist_count": 16,
+  "quality_average": 3.5,
+  "hold_fingerprint": "642749dafcaafddbd376fe506bd12aed128c146427651ed29d3b37e75b648f4c",
+  "validation_errors": []
+}

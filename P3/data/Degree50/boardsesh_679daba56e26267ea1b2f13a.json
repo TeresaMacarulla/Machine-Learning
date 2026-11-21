@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_679daba56e26267ea1b2f13a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Soft and Wet",
+  "setter": "blakeVTswim",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "43AE90C95DDF429080EBF3FEF46BEC3D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1155r12p1161r15p1197r15p1233r15p1240r13p1266r13p1288r13p1289r13p1316r13p1330r13p1382r14p1482r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "5ecf566de616c19cb7d0289e4ffe48edcb775f177e52944d741d4f9bb8d3c727",
+  "validation_errors": []
+}

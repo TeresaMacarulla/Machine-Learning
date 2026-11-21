@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_afff1810c6b0ec8993f1297b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Megaball",
+  "setter": "J8aG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "32ab916ae74c41538203982b808780c1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r12p1184r13p1188r13p1270r13p1271r13p1358r13p1391r14p1453r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9afc2fcac1bb48519054ba00f19c569d655ab23eb0964b5503c16970519abbde",
+  "validation_errors": []
+}

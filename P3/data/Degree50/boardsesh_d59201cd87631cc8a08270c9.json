@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d59201cd87631cc8a08270c9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "DO NOT CLIMB",
+  "setter": "3P",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "5EF5F30A09A241ACB0A14CC7923238A8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1116r12p1200r12p1236r13p1284r13p1306r13p1340r13p1394r14p1494r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "34cbf169733e042584e529ec18d8d9cb91f08caaa6e644821b1c346aebe90b1a",
+  "validation_errors": []
+}

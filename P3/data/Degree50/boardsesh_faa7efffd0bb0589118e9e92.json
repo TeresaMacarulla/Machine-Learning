@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_faa7efffd0bb0589118e9e92.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "pig paf 2",
+  "setter": "jepppernne",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "57300f35-45d1-4e5f-a07c-aeae4575b884",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1074r15p1225r13p1254r13p1326r13p1357r13p1368r13p1382r14",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "17d03da6807517af96353300743d228e420146807d99a0fd2a989ed24a8f8d56",
+  "validation_errors": []
+}

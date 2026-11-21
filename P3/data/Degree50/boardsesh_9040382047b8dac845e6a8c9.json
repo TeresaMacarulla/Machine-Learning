@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9040382047b8dac845e6a8c9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "siqo mode+",
+  "setter": "jchongsend",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "01119e0a-0854-4fa6-bfcf-3aef571cc4da",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r12p1153r12p1249r13p1318r13p1387r14p1389r14p1531r15p1077r15p1113r15p1199r13p1280r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.25,
+  "ascensionist_count": 11,
+  "quality_average": 5.0,
+  "hold_fingerprint": "899e74f41b4f0ef113f2908846f8a62bbd173aa806931a2167684e90c0b63d60",
+  "validation_errors": []
+}

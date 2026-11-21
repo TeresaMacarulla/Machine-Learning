@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1d4f908a13a9be008b4d8c65.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "no tres 2",
+  "setter": "cliff_shredder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6B086DBE8314424A8364D1667E3B4B49",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1137r15p1162r15p1179r12p1180r12p1203r13p1256r13p1319r13p1390r14p1506r15p1525r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 17,
+  "quality_average": 3.24,
+  "hold_fingerprint": "2d5133dd3bde537ff18d2179a931dd4f1bc991a7ebd567f9e2454e7a7fbb28c0",
+  "validation_errors": []
+}

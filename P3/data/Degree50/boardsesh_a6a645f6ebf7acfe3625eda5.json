@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a6a645f6ebf7acfe3625eda5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Miner illusion",
+  "setter": "Jumpyardare",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "FDEE2B12C6284316A0065499A3B5958C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1202r12p1253r13p1272r13p1301r13p1355r13p1356r13p1394r14p1472r15p1508r15p1517r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.57,
+  "hold_fingerprint": "03a288c6d50735f2efbdc4e883968223c9ed9106269f34978669a25ed84b8e33",
+  "validation_errors": []
+}

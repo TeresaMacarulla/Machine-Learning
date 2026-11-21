@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7648d17dbbcfdfc30981ef95.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Pillbug persistence",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "52e1cbd1725e4c1da10f12521059f059",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r15p1158r15p1230r12p1245r12p1252r15p1299r13p1315r13p1336r13p1369r13p1390r14p1528r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.67,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "5983180977459edb32444dc1df003c6d4e39c753b0ba0eb8729b70d1996c03a5",
+  "validation_errors": []
+}

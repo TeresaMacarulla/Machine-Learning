@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0a10e40c971e4d58fcdc40c2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "hardshift",
+  "setter": "FloW95",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6bcbec3ebaa44c0788bbe6bed97a684c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1187r12p1218r12p1231r15p1339r13p1394r14p1508r15p1559r13p1561r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 22,
+  "quality_average": 3.36,
+  "hold_fingerprint": "8584a7d7f6f898be38f72fcac92ac68f85d05d2a1842a60ae38f75f27f65ddc3",
+  "validation_errors": []
+}

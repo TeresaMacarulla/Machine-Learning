@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_acfd988b2ed058409a0ba22d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Gooner extension V10",
+  "setter": "jchongsends",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "BEBCE18F5EC646AC9474B510488B77B5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1112r12p1126r12p1149r13p1198r13p1254r13p1285r13p1353r13p1362r14p1366r13p1385r13p1460r15p1516r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.38,
+  "hold_fingerprint": "4d9989d1b9113ff3829d776b3b91fe419cebdd163166c75400d62f0006884f24",
+  "validation_errors": []
+}

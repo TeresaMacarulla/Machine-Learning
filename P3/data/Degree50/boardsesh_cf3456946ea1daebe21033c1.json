@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cf3456946ea1daebe21033c1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Bumbershoot",
+  "setter": "Riptile",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "5CEF24E5C9D64CC6B32BE045E638B239",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1215r13p1267r13p1284r13p1306r13p1340r13p1357r13p1391r14p1457r15p1468r15p1493r15p1513r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "e6b4fc00b58b3fff0a775c14143dab3e769a38afe1aaa51dd6329700e4970183",
+  "validation_errors": []
+}

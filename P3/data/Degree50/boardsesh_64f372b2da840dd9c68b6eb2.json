@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_64f372b2da840dd9c68b6eb2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "hogwarts express",
+  "setter": "kchavez909",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "0C098BC3D7D64F9AA26397956DE8FAF0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1082r15p1149r12p1166r15p1170r15p1214r15p1236r13p1266r13p1268r13p1289r15p1301r13p1338r13p1389r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.94,
+  "ascensionist_count": 35,
+  "quality_average": 3.47,
+  "hold_fingerprint": "1138daee64ce56836e66b02576306e22818acc18dc279dbe60032cbe2f1db5fc",
+  "validation_errors": []
+}

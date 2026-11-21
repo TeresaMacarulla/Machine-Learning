@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dd7dfe9ad6d87ee3ccd5ce5c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "use your leverage",
+  "setter": "entity_climbing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 10
+  },
+  "source": "boardsesh",
+  "source_uuid": "38D32E683A81482DA37851C18AB8C95F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1096r15p1117r15p1131r15p1154r15p1163r12p1170r15p1185r13p1188r15p1195r12p1214r13p1215r13p1242r15p1252r13p1256r13p1305r13p1324r13p1371r13p1389r14p1506r15p1543r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1bf37a3c274ccf64a044650038c803a34c39a71473e2fa4d5b8a043a15e0417b",
+  "validation_errors": []
+}

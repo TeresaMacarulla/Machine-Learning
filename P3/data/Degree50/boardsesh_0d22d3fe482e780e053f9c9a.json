@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0d22d3fe482e780e053f9c9a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Barrier to Entry",
+  "setter": "Chater",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "d0007c0cda934d049586df8a4ea4fe2e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1149r12p1218r13p1220r13p1257r15p1272r13p1304r13p1316r13p1384r14p1578r13",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2317697a3a2e6ea70950c1c326074c8dcc12fdc367e96952bf7e57f6fae6f15c",
+  "validation_errors": []
+}

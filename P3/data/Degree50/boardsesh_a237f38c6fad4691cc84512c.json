@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a237f38c6fad4691cc84512c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "octave/quentin1",
+  "setter": "QAGs08",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "D36D7C6F5A264ED39417742494CEA3DF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r15p1203r15p1257r12p1259r12p1302r13p1306r13p1353r13p1385r14p1531r15p1558r15p1583r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "69eaa5a089f099b8279a9094e337dd44efdfb13aebec576cf65cea31c4e27503",
+  "validation_errors": []
+}

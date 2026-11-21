@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5ef8a061bfdead3af3153c2c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Family Tension",
+  "setter": "Zaywop",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "70d3353f8d97443b9662cbbecf1f966c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1144r12p1163r12p1214r13p1229r13p1300r13p1315r13p1387r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.03,
+  "ascensionist_count": 77,
+  "quality_average": 3.401038961038961,
+  "hold_fingerprint": "548b86146c469db9e1bb770a170b27dba13fe4b6939805998a4f10ddc3669740",
+  "validation_errors": []
+}

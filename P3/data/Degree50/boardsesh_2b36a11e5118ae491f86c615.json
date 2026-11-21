@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2b36a11e5118ae491f86c615.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "minst 7a+",
+  "setter": "ECMay",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "0df07f2349784aac8a491c96fd954478",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1097r15p1166r12p1203r15p1218r13p1250r13p1269r13p1320r13p1323r13p1356r13p1390r14p1513r15p1543r15p1578r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.98,
+  "ascensionist_count": 1084,
+  "quality_average": 3.37,
+  "hold_fingerprint": "377ceb491c516af13a2b2d84d7c60b0389bd1bb252994ca5eef1cc7c9f327647",
+  "validation_errors": []
+}

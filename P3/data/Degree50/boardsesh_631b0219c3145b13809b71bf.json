@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_631b0219c3145b13809b71bf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Absentee",
+  "setter": "trendyrendy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "16D522113CA543CFB39CF3B681C483D9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1154r15p1182r12p1198r12p1236r13p1237r13p1289r13p1340r13p1357r13p1371r13p1387r14p1476r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.29,
+  "hold_fingerprint": "bf1bd5e33ec4e61eccef03f7b2a208eb2ca43140a0186e39e2f1f39ee10146b4",
+  "validation_errors": []
+}

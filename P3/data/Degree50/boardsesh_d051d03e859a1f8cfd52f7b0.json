@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d051d03e859a1f8cfd52f7b0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Hotty",
+  "setter": "POD31",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "68569A3CAE0743ACA67E30DC112D6EE7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1214r12p1232r13p1263r13p1331r13p1367r13p1386r14p1513r12p1521r15p1537r15p1576r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "5e0fe62f83a2191be61b96ded0ab273915a782ee3d8a48193d4546533e607af9",
+  "validation_errors": []
+}

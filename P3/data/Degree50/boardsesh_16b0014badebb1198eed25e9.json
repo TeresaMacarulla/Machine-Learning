@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_16b0014badebb1198eed25e9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "FD hangover",
+  "setter": "Trojey",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5DA2192F572845F1A886FC01F6503BB9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1196r13p1278r13p1295r13p1383r14p1458r15p1462r15p1510r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "2b5398700ccb94af94d6747e6e9a58f878e62126a6d59b5a4c820a065e054b45",
+  "validation_errors": []
+}

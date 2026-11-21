@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ced1a8bf6869b8346639d395.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "train 1",
+  "setter": "Pedro_Z_Hammer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 9,
+    "foot": 11
+  },
+  "source": "boardsesh",
+  "source_uuid": "00079a6f946b4c26ba25123f77f41ea8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1094r15p1141r12p1179r13p1209r13p1216r13p1228r13p1248r13p1272r13p1285r13p1301r13p1324r13p1394r14p1464r15p1467r15p1477r15p1493r15p1503r15p1506r15p1515r15p1527r15p1539r15p1563r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.96,
+  "ascensionist_count": 203,
+  "quality_average": 3.46,
+  "hold_fingerprint": "cb00fad943e36c82496c2de9939f912baca611ff0cb920c2745cd8743f7a2b75",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_38e0c5e69290d5c38fb573cd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "wake up shoulders",
+  "setter": "leemiho2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "18d2ec05-337b-4da3-b256-43d0121e35ac",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1234r12p1254r13p1302r13p1335r13p1366r13p1382r14p1379r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.57,
+  "ascensionist_count": 14,
+  "quality_average": 2.71,
+  "hold_fingerprint": "917092c85e20c17cc6127a9c462700a60f9ee4c6d47d328dd2f86520a3fd94e4",
+  "validation_errors": []
+}

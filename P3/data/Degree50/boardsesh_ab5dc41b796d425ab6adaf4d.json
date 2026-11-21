@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ab5dc41b796d425ab6adaf4d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Crutch",
+  "setter": "Wayward",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "199C16352DEA406FAC5BCA0112358465",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1126r12p1163r12p1196r13p1234r13p1283r13p1304r13p1354r14p1355r14p1458r15p1477r15p1496r15p1533r15p1552r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 4.0,
+  "hold_fingerprint": "f3e1687a9ebf4c77584209f9cb1bdb65c5094e8f39a98fb21bd4f3dd8140983e",
+  "validation_errors": []
+}

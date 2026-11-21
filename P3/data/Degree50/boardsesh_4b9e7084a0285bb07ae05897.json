@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4b9e7084a0285bb07ae05897.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Sicilian struggle",
+  "setter": "skagosian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "33DCB6B6438D4ED5AD82018ED7C35866",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1221r13p1236r13p1269r13p1282r13p1300r13p1347r13p1380r14p1449r15p1452r15p1508r15p1516r15p1542r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.73,
+  "hold_fingerprint": "c22e7451e63d7c90e7562680f127601ee44609adb658df53d2dc2cfde924e730",
+  "validation_errors": []
+}

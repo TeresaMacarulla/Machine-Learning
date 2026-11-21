@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3ac7b964dcc90046387e7d72.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "Jellyfish",
+  "setter": "bennwheeler",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "EC78CE664ECF4DDF95A8BBDD1954F2BC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1248r13p1351r13p1389r14p1464r15p1511r12p1519r12",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4283b206fe38fb9dd14842aaaad0f2bb6e2861d23ada2723458aa0521177e5f3",
+  "validation_errors": []
+}

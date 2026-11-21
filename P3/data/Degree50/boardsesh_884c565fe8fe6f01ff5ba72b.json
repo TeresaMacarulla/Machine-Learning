@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_884c565fe8fe6f01ff5ba72b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Optimize",
+  "setter": "AlexL25",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "b9ed91a9-87eb-4120-99d4-a44783608c3b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1250r13p1268r13p1470r15p1507r15p1181r12p1497r15p1496r12p1316r13p1583r13p1380r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "e69fa6531e2045e1a0b8d2104e21ddea07120078162a4ea96fe9b14416accf50",
+  "validation_errors": []
+}

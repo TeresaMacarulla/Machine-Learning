@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1bbb5f6280fb77210a6a028c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Einen Drink in der Hand",
+  "setter": "Arne",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0c71a0b4c3a14e8c9a4a8395e3e92d6d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1133r12p1150r15p1200r13p1203r15p1220r15p1234r13p1239r13p1289r13p1306r13p1340r13p1356r13p1387r14p1457r15p1468r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.01,
+  "ascensionist_count": 491,
+  "quality_average": 3.29,
+  "hold_fingerprint": "bbd248bd996975c26b90bef156a52a2fee47af24123a1743a48b1ecf2e4abd8b",
+  "validation_errors": []
+}

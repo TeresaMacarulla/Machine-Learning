@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0f9d9ee22b36ddf74ae95ebd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Max power#4",
+  "setter": "kooylars",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "964AE821260A40EFAAC81FE70A4706CB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1250r12p1252r12p1299r13p1351r13p1382r14p1479r15p1504r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "87a94743b4e5dcdb326e50fa68a9d536bb0783a127cf40a9e55a01490d54e228",
+  "validation_errors": []
+}

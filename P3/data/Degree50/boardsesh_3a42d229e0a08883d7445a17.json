@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3a42d229e0a08883d7445a17.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "jugging",
+  "setter": "davidgulla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "87c27f2cabc1449d8f38e6d16825e071",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1157r15p1214r15p1257r13p1268r13p1353r13p1382r14p1449r15p1506r15p1566r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e74f33d9858a69ce4e8d836d47ab4689640b64fa3ce1b97df5a59146585526fa",
+  "validation_errors": []
+}

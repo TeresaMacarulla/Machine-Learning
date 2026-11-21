@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4f3a8968a4f85693c0c3bd9b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Campy",
+  "setter": "ClimbingHoss",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "e36828e96554458c95f1a6b1d26dda38",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r15p1263r12p1265r12p1268r13p1353r13p1356r13p1359r13p1395r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "f9c0c488cc63ed043ba35f2d9d65681dff0475f9fdce3a17412dd50023969523",
+  "validation_errors": []
+}

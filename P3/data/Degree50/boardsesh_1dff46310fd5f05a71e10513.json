@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1dff46310fd5f05a71e10513.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Everbody Knows Your Name",
+  "setter": "jwilder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "FCB83EB323234D399F578C71723B6EF5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1150r15p1179r12p1180r12p1183r15p1233r13p1250r13p1270r13p1319r13p1353r13p1384r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.95,
+  "ascensionist_count": 115,
+  "quality_average": 3.24,
+  "hold_fingerprint": "26726a74974939f24cae6cf9e240f47e863970a004f87e535e5e1be00b8645cc",
+  "validation_errors": []
+}

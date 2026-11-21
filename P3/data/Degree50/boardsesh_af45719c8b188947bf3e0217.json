@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_af45719c8b188947bf3e0217.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "shy chameleon",
+  "setter": "JonathanBusch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "b1847cf96eda4192acc599815fe89516",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1156r12p1206r13p1269r13p1271r13p1300r13p1369r13p1388r14p1453r15p1482r15p1505r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "fe1324b5c983227d4f352a9f5dcdd8315f64218a033a70247a6255a83d504259",
+  "validation_errors": []
+}

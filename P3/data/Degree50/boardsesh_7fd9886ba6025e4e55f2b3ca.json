@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7fd9886ba6025e4e55f2b3ca.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Pop Lock Roll",
+  "setter": "Honder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FF44B3E8A5024B2C8357D28426CB765C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1189r12p1191r15p1264r13p1271r12p1282r13p1287r13p1351r13p1371r13p1391r14p1503r15p1504r15p1520r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.98,
+  "ascensionist_count": 54,
+  "quality_average": 3.5100000000000002,
+  "hold_fingerprint": "baab182bc19f21120135a8bb8a72b2d59a23e7b9add71c6aebd08730b286cb25",
+  "validation_errors": []
+}

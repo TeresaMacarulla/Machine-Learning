@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c968c6baf8d70d9fcc4b7bba.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Somebody ordered jugs",
+  "setter": "FelixUnverzagt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "86bad8b5171844b3964c56cb76bbf9e1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1145r15p1177r12p1219r15p1243r12p1281r13p1300r13p1302r13p1371r13p1392r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "ed5fe304b2ad87e0e56b824baab340a051e538e2954023abe0eed1e5b11b5bba",
+  "validation_errors": []
+}

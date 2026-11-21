@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d917076ae2279c886c17f418.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "forced beta",
+  "setter": "hazuqt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "6d89f4e1-4af6-475c-8456-b884f0e80ee7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1294r13p1345r15p1347r13p1335r13p1315r15p1246r12p1211r12p1245r13p1199r15p1387r13p1391r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.25,
+  "ascensionist_count": 5,
+  "quality_average": 4.0,
+  "hold_fingerprint": "9e7260f6993e8a524726c70c34db175e5411078e7380c2a8c1817263d7b997f3",
+  "validation_errors": []
+}

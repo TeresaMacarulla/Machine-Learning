@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d12c4b21b418e928eeae9a99.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "four piece",
+  "setter": "s_mitty",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "A37D43B38E4247BC945C3060943C2A12",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1137r15p1166r12p1204r13p1239r13p1273r13p1288r13p1304r13p1334r13p1387r14p1456r15p1551r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c990b60f41469bb456dea9a96bdd97085e4dbe4c0384fba311338e9a48d3d527",
+  "validation_errors": []
+}

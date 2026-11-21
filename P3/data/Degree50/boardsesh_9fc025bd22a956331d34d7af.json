@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9fc025bd22a956331d34d7af.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "fl\u00e9chette",
+  "setter": "V_thva",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "01932EBCA1C04CC5A7A0895194A0EC37",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1218r12p1258r13p1270r13p1353r13p1382r14p1503r15p1509r15p1512r12p1524r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d1ce20788da6a0d450a41eee6f3caa87d2228c2c180dcbdbbf8b6d52c8ab123b",
+  "validation_errors": []
+}

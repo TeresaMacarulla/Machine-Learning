@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fcb1bd86f946655562a160bd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Death trap",
+  "setter": "MaxClimbsRock",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "e58ddad5-a148-4246-a88d-442cd9e5d1b8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1112r15p1217r13p1231r13p1220r13p1387r14p1161r15p1319r13p1284r13p1488r12",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": null,
+  "hold_fingerprint": "55b3c28323b027be5a1dc8336a862736bf1cc52db5f1a07ce1f7c2ff79e5b630",
+  "validation_errors": []
+}

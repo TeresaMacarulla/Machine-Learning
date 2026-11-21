@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4ba39b9fa44471bf6fba6b49.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Free falling",
+  "setter": "Boardforth",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "071E79F092ED476CB3EF76964100F936",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r12p1169r13p1289r13p1353r13p1382r14p1451r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "60d2c4a3136ba565af7c2cc682e2796bc86e35900d2767412d91f7a623bbe052",
+  "validation_errors": []
+}

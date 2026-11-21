@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d30a6cc2113ab1155c5f089a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Jumpy n' Scrunchy",
+  "setter": "Jacob.Ward",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8cc7bfeee7e940d287cdcc6832edb3f6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1110r15p1168r12p1169r12p1199r13p1201r13p1246r13p1247r13p1311r13p1330r13p1382r14p1485r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "da7b88d63dd277630ee495c33db9fe18dc83b4a750afbf825628a5ebcc1d45d8",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f3b23ead78b00ae03f3d81fc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Get the Bread",
+  "setter": "adriankask",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "6b8a89a2a32349478411b6084d5ee3f3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1163r12p1179r12p1246r13p1278r13p1316r13p1317r13p1387r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 12,
+  "quality_average": 4.75,
+  "hold_fingerprint": "2b9c7340c43e56474b2a166428b2b843f865ab556460035acd8d63b61d5c6606",
+  "validation_errors": []
+}

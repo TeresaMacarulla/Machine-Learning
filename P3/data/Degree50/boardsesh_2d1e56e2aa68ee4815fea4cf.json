@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2d1e56e2aa68ee4815fea4cf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Curtains Cast",
+  "setter": "ranulph_c",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "B7FC1B386A6F4FA0B3F6AE59300C8081",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1187r12p1208r12p1272r13p1283r13p1288r13p1355r13p1394r14p1480r15p1499r15p1566r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.93,
+  "ascensionist_count": 15,
+  "quality_average": 3.53,
+  "hold_fingerprint": "eeb6e7466a93aa9e8e5a724406c54665b0f8a1932334a52c405dd18d79044e16",
+  "validation_errors": []
+}

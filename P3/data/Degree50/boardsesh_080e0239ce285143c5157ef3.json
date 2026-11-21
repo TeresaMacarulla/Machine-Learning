@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_080e0239ce285143c5157ef3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "sad side pull",
+  "setter": "cambrunner",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "CD74E8813B8142EA97F73D6FA198F52C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1147r12p1183r12p1214r13p1249r13p1264r13p1315r13p1329r13p1380r14p1496r15p1503r15p1506r15p1511r15p1513r15p1528r15p1555r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "46d1da9ed6289ee7f71860bda785bc0f45cc18b150be87a14d0b9e4033d181a0",
+  "validation_errors": []
+}

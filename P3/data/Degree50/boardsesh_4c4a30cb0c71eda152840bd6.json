@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4c4a30cb0c71eda152840bd6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Question For You",
+  "setter": "Riptile",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "BBEB61C2C97741C5A9D24544A804A742",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1149r12p1215r13p1239r15p1269r13p1303r13p1357r13p1391r14p1457r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "11eb811d982181c9c7a610a464a4be75337d4d2cd6ef488fb4a3e4fb891598d0",
+  "validation_errors": []
+}

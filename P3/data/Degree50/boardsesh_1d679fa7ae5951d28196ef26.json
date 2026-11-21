@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1d679fa7ae5951d28196ef26.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "oopsie",
+  "setter": "squiggs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "be4a4d16-3b1a-40c1-affd-78058069fe19",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1172r12p1254r13p1283r13p1285r13p1331r13p1383r14p1100r15p1105r15p1154r15p1497r15p1163r15p1546r15p1186r12p1236r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 5,
+  "quality_average": 4.5,
+  "hold_fingerprint": "3afb292ae96b5c573411133df56609cad065a8524b5d53056fdb6cc77bfce876",
+  "validation_errors": []
+}

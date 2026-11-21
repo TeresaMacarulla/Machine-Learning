@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4c27d6de3143baf1e7f0077f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Metallic Gold Direct",
+  "setter": "GusCarter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "ED0EE297C0B14864A76A15D4B55CE2EA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1155r12p1163r15p1164r15p1189r12p1235r13p1281r15p1302r13p1390r14p1531r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b235db5dd5f7ec2e5f3cb2f4eb604efa2179daa908ce2e955e1f627515727935",
+  "validation_errors": []
+}

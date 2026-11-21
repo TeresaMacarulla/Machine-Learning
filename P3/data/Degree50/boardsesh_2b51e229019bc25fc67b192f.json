@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2b51e229019bc25fc67b192f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Wraithlike",
+  "setter": "eciVehT",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "278e21ef-b711-48c6-914e-f32f934d8b74",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1233r13p1179r13p1281r13p1456r15p1454r15p1487r15p1477r15p1467r15p1311r13p1379r14p1537r15p1497r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.67,
+  "ascensionist_count": 4,
+  "quality_average": 4.67,
+  "hold_fingerprint": "9ac4b91125109f79f61c8db17eaaf4e3895b6df47560be93bf3bfddd3947bc76",
+  "validation_errors": []
+}

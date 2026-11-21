@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_85aa95fd0f478dcfcab15157.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "RealShoulderWork",
+  "setter": "LJP",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "64BE5FAC0BF04B1EA727AC8CBF65D9A1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1194r12p1197r12p1246r15p1265r13p1281r13p1320r13p1370r13p1391r14p1468r15p1514r15p1594r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "446d62bd32accc90d21ed8e3ee1678ccb5f11dae9134302d6c8e445f393fd56c",
+  "validation_errors": []
+}

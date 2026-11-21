@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3c2287e89bce2a0e88614d76.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "line of light",
+  "setter": "jcoup",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8D64D2D651304DAAACB9EFD254F94CCD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r12p1153r12p1202r13p1219r13p1270r13p1304r13p1334r13p1388r14p1449r15p1496r15p1499r15p1557r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 22,
+  "quality_average": 3.36,
+  "hold_fingerprint": "8207e63832ed010d70292caa633a3800739ef91482407306d81897cad0c69acf",
+  "validation_errors": []
+}

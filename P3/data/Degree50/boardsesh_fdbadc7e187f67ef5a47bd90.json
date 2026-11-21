@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fdbadc7e187f67ef5a47bd90.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Do you guys have any ideas",
+  "setter": "Wors",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "b5804064aa1846f894ad5c3f97d2d88f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r15p1149r12p1200r13p1213r15p1246r15p1252r13p1266r13p1317r13p1384r14p1455r15p1468r15p1503r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "f423342e8fe4c7ac79d656e7b6c69d4d9bd7a6477d631fe5e97a196a0d13c004",
+  "validation_errors": []
+}

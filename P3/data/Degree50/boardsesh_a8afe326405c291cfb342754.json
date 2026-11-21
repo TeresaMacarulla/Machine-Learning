@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a8afe326405c291cfb342754.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "VEIGHT",
+  "setter": "parker00x",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "60befd3b-6af7-4017-bb71-d41e1cffc2ef",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1180r12p1179r12p1141r15p1250r13p1145r15p1263r13p1336r13p1388r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "95f7fc51b16058df80ddcbffb19551c9342b9b69621d9365845271d793c744bc",
+  "validation_errors": []
+}

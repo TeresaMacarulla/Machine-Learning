@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d3ca86134ec64dde8ee9e98d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Pinch Lockoff",
+  "setter": "Mscho98",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "D28558074DDF4CA08BDE947ADA011488",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1160r12p1177r12p1232r13p1283r13p1322r13p1370r13p1392r14p1465r15p1534r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 2.0,
+  "hold_fingerprint": "702d9558be643de35d0ebeaa4a9d883c016c09a81436049f32fecc002bdd3013",
+  "validation_errors": []
+}

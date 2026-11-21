@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d02d2ca134f60fa148967a95.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Accessible Steep Problem",
+  "setter": "TheColonial",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "fd9cb071baff4641b3ea62016b091803",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1161r15p1166r15p1177r12p1212r15p1235r15p1245r12p1264r13p1265r13p1300r13p1351r13p1387r14p1501r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.75,
+  "ascensionist_count": 4,
+  "quality_average": 2.25,
+  "hold_fingerprint": "c7751fb6c254fccc442553d614fef770daa11c6791a87ac69a2d648aa5336288",
+  "validation_errors": []
+}

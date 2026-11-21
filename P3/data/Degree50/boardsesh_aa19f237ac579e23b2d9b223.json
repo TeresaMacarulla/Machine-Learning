@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aa19f237ac579e23b2d9b223.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "junction2",
+  "setter": "IngusPlingus",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B13ED5D56CA947D0A33FECA54BEFCE29",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1185r13p1201r13p1238r13p1269r13p1303r13p1334r13p1386r14p1454r15p1497r15p1499r15p1505r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "03d20081168023a4a6605b739c0cf97195847a0fa1803d2192bc30ba0bbf7365",
+  "validation_errors": []
+}

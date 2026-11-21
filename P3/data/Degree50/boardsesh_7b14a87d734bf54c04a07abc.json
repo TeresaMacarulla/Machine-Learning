@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b14a87d734bf54c04a07abc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "De Luxe",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "8617f6744ba14d07893342e8f5f1335c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1110r15p1147r12p1166r12p1214r15p1215r13p1263r15p1269r13p1301r13p1336r13p1349r13p1381r14p1384r14p1469r15p1532r15p1549r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "f31d23eeb63eece7293ba10e3cba47fcfdd35922232bac3d7013f6b7392bbb1b",
+  "validation_errors": []
+}

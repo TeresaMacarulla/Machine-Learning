@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_25d8927d8d7876f4e2d5c8ae.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Power shower",
+  "setter": "mgardnerbrown",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "516A9BF7D0F945269A0B9284F79958EC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1218r12p1220r12p1269r13p1336r13p1390r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8471b29803d432d55ffb273dce4aaaca7465da4d4d62c98cac1575daf4a0ec50",
+  "validation_errors": []
+}

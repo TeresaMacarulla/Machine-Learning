@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4117e02703fc0147687cf3e1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "roll",
+  "setter": "bkbskilterboard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "44CFFDD4EED849F8BFE2F8A757DDCBE4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1133r15p1180r12p1183r12p1215r13p1234r13p1247r13p1280r13p1281r13p1331r13p1384r14p1459r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 20,
+  "quality_average": 3.4,
+  "hold_fingerprint": "ee15773c107e0b1f7344edeeef34a4a0eb97ab20b2b8447819423de324e7a904",
+  "validation_errors": []
+}

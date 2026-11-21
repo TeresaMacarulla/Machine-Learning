@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dd881a80438b1d95c07e9a6b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Portside Bench",
+  "setter": "nlun",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "CEEF4189710045B99BDFC237868F8931",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1121r12p1187r13p1205r13p1252r13p1267r13p1300r13p1315r13p1330r13p1362r13p1379r14p1447r15p1481r12",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "e97e53e9de1704df5bc5894e448d5a50fa12ad9337f3fb924fcbe2674bf85b19",
+  "validation_errors": []
+}

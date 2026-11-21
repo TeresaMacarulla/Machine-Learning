@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a9caa20d74e905b0fd213a6e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Colossaloscopy",
+  "setter": "vunamese",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "4654C5C8B45B4DC695D6643689F2865D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1143r12p1246r13p1247r13p1268r13p1320r13p1323r13p1358r13p1391r14p1504r15p1553r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "83edf7f001f0098f8eaef42ceab1b9f7dd3a64420b3b0eed3e5ae1da28a085ed",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ddc15acbe98d783206c748d5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Mighty Jazz",
+  "setter": "joe1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "63e418b8da944874880cf89ca5198543",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r12p1155r12p1170r15p1224r13p1256r13p1305r13p1335r13p1386r14p1449r15p1541r15p1543r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.25,
+  "hold_fingerprint": "edbde0c5d1e2c5fa29350fca4e111af65c3def2f970e77d496589d1924e42aae",
+  "validation_errors": []
+}

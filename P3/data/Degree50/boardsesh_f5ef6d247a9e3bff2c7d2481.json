@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f5ef6d247a9e3bff2c7d2481.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "swing swang",
+  "setter": "lbowcorbin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "C0569F1D56F349AAAF11101F7B0FE21D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1192r12p1200r15p1246r12p1294r13p1300r13p1353r14p1501r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "27bb21cd74fe1a55a4c2713c5df4a23e8c7c439eba8ee21c38139c1c1c3961de",
+  "validation_errors": []
+}

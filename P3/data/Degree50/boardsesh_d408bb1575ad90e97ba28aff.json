@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d408bb1575ad90e97ba28aff.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Quallenfischen \ud83e\udebc",
+  "setter": "markusleebV",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "94905FA18B9D46F79E9CBA29A4F926AC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1149r12p1252r13p1265r15p1324r13p1369r13p1371r13p1383r14p1455r15p1536r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.1429,
+  "ascensionist_count": 11,
+  "quality_average": 3.0,
+  "hold_fingerprint": "89a3a0ef65aea9e644ae9ccca7b0ed31b2cd0ed7358ac08c001fe006b0e7b6fb",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c9c26d84cdd3a394e28a0fdb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Disconnect",
+  "setter": "Hamiter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "62c848b72ea341c3a4dc77ce9b400766",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1197r15p1219r12p1237r12p1301r13p1351r13p1383r14p1549r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.97,
+  "ascensionist_count": 551,
+  "quality_average": 3.412885662431942,
+  "hold_fingerprint": "e33e9de14642bbfc443861e967d247710b45c08c0b4662b4e2bc3bc44c6b4d44",
+  "validation_errors": []
+}

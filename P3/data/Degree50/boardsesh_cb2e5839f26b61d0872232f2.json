@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cb2e5839f26b61d0872232f2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "flyleaf",
+  "setter": "joha_kilter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "98f09733-729c-461f-ab05-95fdc4ffe167",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1353r13p1215r13p1252r13p1145r12p1125r12p1395r14p1356r13p1340r13p1461r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "ce600d371a4d9acb3276a0b0eca23c750c68b99af8cc5511b8c3d6fac14e3537",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e706be1a8aec8d7211eae988.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "hardd",
+  "setter": "marcowright",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 1,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "BF5298A16AF9421BA815EF54795C20F7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1267r12p1352r13p1372r14p1504r15p1532r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "8a5329dae4824cf00db6ca2c29eed43f982d9d239ee55e7477042e274f2adb05",
+  "validation_errors": []
+}

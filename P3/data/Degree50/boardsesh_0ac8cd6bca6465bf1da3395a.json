@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0ac8cd6bca6465bf1da3395a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "clean the spank",
+  "setter": "bistango",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5563b1ff-b2ca-498f-bc2b-8d933a3dfd6f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1203r12p1185r12p1508r15p1471r15p1254r13p1250r13p1285r13p1315r13p1546r15p1352r13p1387r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.33,
+  "ascensionist_count": 7,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e235217bc462c24dfaa5474b32dffdbbecf8e4c5907044f25107a0bb85d69210",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_309af3bbc6580ef3980fd47b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Keep it like a biscuit",
+  "setter": "Toupie4",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "21069EDEDEEB4E3CA1E328A6C450DC67",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1139r12p1189r13p1190r15p1201r13p1238r13p1302r13p1331r13p1383r14p1447r15p1470r15p1534r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d92ce6c9ce7d817904672e6ee402caccaf0282aac2d69e0bd9ac32f21913a495",
+  "validation_errors": []
+}

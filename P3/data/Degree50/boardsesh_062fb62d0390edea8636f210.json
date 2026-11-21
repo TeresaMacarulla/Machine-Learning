@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_062fb62d0390edea8636f210.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "secrets",
+  "setter": "samhammond",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "efdedb9c679f4002abe905282f23fda5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1213r13p1214r13p1284r13p1320r13p1389r14p1391r14p1459r15p1467r15p1548r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "5d23c5a780fc72c11c4239dd137886234c510af3d0dac638dcdf386259a3edc3",
+  "validation_errors": []
+}

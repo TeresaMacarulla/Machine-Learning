@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5f330ab76733b236568b755a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Qwop",
+  "setter": "kilterGAN",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "a927751eafda45e3a233cf396d9c1621",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1128r12p1163r13p1215r13p1239r15p1302r13p1306r13p1340r13p1359r13p1392r14p1459r15p1461r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "fb50b95a01a1bf3e310e70daa642eeff752ba740daa34f88a773264b8185f497",
+  "validation_errors": []
+}

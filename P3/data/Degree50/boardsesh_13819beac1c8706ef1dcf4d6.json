@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_13819beac1c8706ef1dcf4d6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Curl it",
+  "setter": "Chris.Schweiger",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "064B66E80F7B4831993288A48E558E22",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1191r12p1217r13p1282r13p1288r13p1295r13p1379r14p1449r15p1495r15p1510r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "21439f473675098ad3b342d4fe5da1d52eb26493259dfad4faa6a10b2272bc96",
+  "validation_errors": []
+}

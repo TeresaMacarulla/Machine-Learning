@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6e9d7ccfd9e19d25d8fc090a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Crystalline Tremor",
+  "setter": "markusleebV",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "CBA381354DA14A76B04052627ED0A627",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r12p1218r13p1307r13p1392r14p1462r15p1477r15p1517r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.0,
+  "hold_fingerprint": "4665ca874a2140e3ae65f006317a22db3b5453c8e67c6cd29602594fd651e0b0",
+  "validation_errors": []
+}

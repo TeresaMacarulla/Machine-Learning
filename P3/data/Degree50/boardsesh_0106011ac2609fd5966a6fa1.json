@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0106011ac2609fd5966a6fa1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Halbmond in steil",
+  "setter": "EHS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "D530992A382645CC8EF4199DD1FD46B8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1137r12p1169r13p1237r13p1250r13p1303r13p1307r13p1390r14p1454r15p1456r15p1514r15p1521r15p1526r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f1ff073d1c0c352a2b56405b9abde59a52fb7b7dc8633722ab8e4e1a06df6f11",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_77afd53b162c29dc62e28c58.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Nibelungen",
+  "setter": "Eli_Climbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "559B2E159BB04C5FBBE288951279D7F8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1188r12p1235r13p1300r13p1320r13p1375r13p1393r14p1451r15p1470r15p1489r15p1532r15p1548r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "bac40852911285132a8b6e9d14d5a07930bc11e7b29541c82a2fb3c967e06f3b",
+  "validation_errors": []
+}

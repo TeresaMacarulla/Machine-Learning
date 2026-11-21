@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e68435521a12c5c4e79abc25.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "walkie talkie",
+  "setter": "mgboy09",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "4cf34d074d8641f894391dd233af7348",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1082r15p1101r15p1149r12p1154r15p1186r13p1200r15p1234r13p1240r13p1271r13p1291r13p1339r13p1359r13p1395r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "486d5e89c80cde40c0ae0e04b127897587e72dfc7ddfa364d6553fa613ccc1dd",
+  "validation_errors": []
+}

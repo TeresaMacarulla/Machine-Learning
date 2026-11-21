@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_31b96a3d6df27e9a46c96569.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "power endurance problem",
+  "setter": "boulderperson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 14,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "cbe58d03ecc84b94bac2c07667ad4b2a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1151r15p1157r12p1171r12p1183r15p1206r13p1221r13p1234r13p1236r13p1246r15p1277r15p1282r15p1284r13p1287r13p1297r15p1321r13p1336r13p1353r13p1369r13p1379r14p1380r13p1381r13p1384r13p1385r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "9ff3c1b8ed92c5239a99b454231032dc500e67c92e21b9f9692a86649fb98cee",
+  "validation_errors": []
+}

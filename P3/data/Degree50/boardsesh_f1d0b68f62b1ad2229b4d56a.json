@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f1d0b68f62b1ad2229b4d56a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Cupidon",
+  "setter": "AdrnLmr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7358c4ee-644c-4227-aff8-0db42cc37b28",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1116r12p1079r15p1164r13p1230r13p1282r13p1318r13p1551r15p1338r13p1391r14p1460r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b9230b5b5795cf8f349b6f79c701874b5df14af29c57cf00634e2b7cb98e81b9",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_16386128b57d5b623a601937.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "heel pop!",
+  "setter": "slmrojo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "89658fbf5cf84685a124a5d4bd5bce61",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1164r12p1182r15p1202r15p1235r12p1269r13p1274r13p1309r13p1361r13p1385r14p1387r13p1391r13p1457r15p1476r15p1494r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bd8b416d06c357cee739cc7657b54dad62026ec37fa7c78faa0998b19cd2a9eb",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ec11001ffcd3aa580de3287d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Thrust those hips",
+  "setter": "micahgreenlee",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "BAF54798771645A9889FA30B2D372413",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r13p1162r15p1181r12p1200r13p1203r15p1235r13p1289r13p1337r13p1370r13p1384r14p1456r15p1459r15p1511r12p1526r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "cd6ba44c48cb5202865209c9eb500ecff161b3e265578531ed3b4f4e45fbb59c",
+  "validation_errors": []
+}

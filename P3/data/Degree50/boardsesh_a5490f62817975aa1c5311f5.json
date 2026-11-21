@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a5490f62817975aa1c5311f5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "bedwmes",
+  "setter": "yogg",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "DDE5B719451F49FBAC2B7594F69B7FA0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1124r12p1129r12p1161r15p1178r13p1234r13p1239r15p1303r13p1370r13p1382r14p1464r15p1466r15p1506r15p1569r15p1587r13p1591r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.88,
+  "ascensionist_count": 8,
+  "quality_average": 2.88,
+  "hold_fingerprint": "2450bf87e707efb233863c08e9e2cf504cf4829329cc823465788c2d1ce9a1c4",
+  "validation_errors": []
+}

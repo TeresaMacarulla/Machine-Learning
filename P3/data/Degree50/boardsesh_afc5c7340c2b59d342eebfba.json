@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_afc5c7340c2b59d342eebfba.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Eliminate at 32 mph",
+  "setter": "LazyLychee",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9bda49da-38b1-44e6-b7a1-b32418f1f910",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1198r13p1185r13p1096r15p1257r13p1274r13p1088r15p1544r15p1186r13p1339r13p1392r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ff1c374dbe205e3dc26d740530be5d02fe89806b4f456fe191687e5d365928a3",
+  "validation_errors": []
+}

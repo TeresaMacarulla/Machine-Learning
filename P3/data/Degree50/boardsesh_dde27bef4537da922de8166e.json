@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dde27bef4537da922de8166e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "emu lite #1",
+  "setter": "gianluca_le",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "594a89f0-ad68-452b-9495-94bc76f96d82",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1230r13p1250r13p1282r13p1212r15p1537r15p1300r15p1383r14p1458r15p1514r15p1128r12p1161r13p1181r13p1478r15p1328r13p1313r13p1316r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": null,
+  "hold_fingerprint": "52a988a5fe813de6d87ae3edaf66c2a25cdef97cde5d258d71d27d5372200331",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3f9860cf5e6fbb5f3326946f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Mini Two",
+  "setter": "wills",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "A4962B28822D4B6C853DAD75A8CA854E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1202r12p1250r12p1321r13p1387r14p1469r15p1497r15p1507r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "e63f6c7776d87cbc1bc2716b5c69c907cc06462cbcd9da8d6f4b15a2ddfc432c",
+  "validation_errors": []
+}

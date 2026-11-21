@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_68c0af627eba4b9991e33a90.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "L\u2019appel de ta m\u00e8re",
+  "setter": "sprintmachine",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1701E32E15A347B9AE1F55021B277526",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1128r12p1215r13p1235r13p1284r13p1320r13p1369r13p1371r13p1382r14p1460r15p1503r15p1504r15p1557r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e3072ecda8fc96322d32659438a1d960e1a019dd238ab330ea96801a40aceb3a",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_77b82186982bf3fa7921fb04.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "two for one",
+  "setter": "latrokles",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "CE902B7EB3F149BBB05023C8A2F816C4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1202r12p1215r12p1302r13p1387r14p1469r15p1476r15p1532r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9d860d715a217ff5f2dded396f4bbc2d04fee088859d99f5a0f98990ddcbdc71",
+  "validation_errors": []
+}

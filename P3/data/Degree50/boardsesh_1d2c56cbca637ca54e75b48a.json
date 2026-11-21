@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1d2c56cbca637ca54e75b48a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "dumpy",
+  "setter": "jameshurst",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "68A48BEC312947618232CC73DAEDF0C3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1181r15p1254r12p1270r12p1335r13p1339r13p1369r13p1382r14p1544r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.5,
+  "hold_fingerprint": "5aa9caec33c620fda4c242b68d91b36c3d8220d4da4fade02081152b0bc26089",
+  "validation_errors": []
+}

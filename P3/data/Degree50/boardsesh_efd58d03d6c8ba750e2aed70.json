@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_efd58d03d6c8ba750e2aed70.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "dyno feels good",
+  "setter": "climberlongboi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0AE2D49D1AE04BE3A4B6E200C71096BC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r12p1174r12p1257r13p1308r13p1353r13p1383r14p1447r15p1526r15p1550r15p1596r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.0,
+  "hold_fingerprint": "a689938c8b6e5d62b713fda64bfa25d4d21b0e3e795f0e20104ae79b4ce2e7b3",
+  "validation_errors": []
+}

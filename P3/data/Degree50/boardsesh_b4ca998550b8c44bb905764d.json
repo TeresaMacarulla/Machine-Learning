@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b4ca998550b8c44bb905764d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Vague 2",
+  "setter": "thort",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "c44e7003b812428e865276c3a25b412f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1150r12p1185r13p1199r13p1270r13p1339r13p1388r14p1455r15p1472r15p1550r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.5,
+  "hold_fingerprint": "00438112fe6f0ccf87f67ef738329476f09b9b7e7493da7034dd6ac861d719cd",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_62cda4b00fe885d9f4b9436f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "crimp ladder 2",
+  "setter": "canyonbryson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "46f09721479541ada33c68e4ef5fe261",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1150r12p1181r12p1218r13p1248r13p1269r13p1336r13p1387r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "25c1368ac935b59f1fa518bae701d6baeb3e4acbcd22a00945cd864f6335a8c7",
+  "validation_errors": []
+}

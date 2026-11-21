@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eda3c51c403f014469c69135.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Moto",
+  "setter": "Groupert",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "908d59ea17f84a6c91f19fd773aec70d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1205r15p1215r13p1287r13p1334r13p1390r14p1462r15p1484r15p1502r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "5a5e71d507cef9e5cdc8ce66e0e55ab597ac10a547e56b59b0984bb26839cb62",
+  "validation_errors": []
+}

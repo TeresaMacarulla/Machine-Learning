@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8767e08e33f7d9cbe22b4d77.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Floppa",
+  "setter": "ariapana_serra",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "e141891390d1414ca7e9054a6c6bd215",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1155r12p1224r13p1225r13p1291r13p1320r13p1387r14p1500r15p1533r15p1536r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "41475e6fe4b254600e182bfe5f4d137c3ce79f124cefa1bd8a7eaa9b67843e36",
+  "validation_errors": []
+}

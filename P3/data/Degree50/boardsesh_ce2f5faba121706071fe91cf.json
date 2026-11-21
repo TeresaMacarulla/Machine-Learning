@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ce2f5faba121706071fe91cf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Lemon squeeze",
+  "setter": "JohannesFinnstein",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "4a4f557181704e0eba620bf5e20027bd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1099r15p1147r12p1149r12p1228r13p1233r13p1245r13p1279r13p1317r13p1385r14p1501r15p1519r15p1547r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 4.0,
+  "hold_fingerprint": "3085d779f340a6796c69c6407af8b114b829ee6b9bd20f8b2f22ec4d258818dd",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8cd2b53243d42b51d10f9c4e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "FTP",
+  "setter": "AntoineBletton",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "b98774f3362a4b3ebd29f616eb1991ce",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1149r12p1157r15p1201r13p1254r13p1256r13p1292r13p1342r13p1375r13p1389r14p1456r15p1457r15p1518r15p1536r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "fd30781b209594398758bd7cadb4a0f9e5629836f8da55537ec21746a7f40617",
+  "validation_errors": []
+}

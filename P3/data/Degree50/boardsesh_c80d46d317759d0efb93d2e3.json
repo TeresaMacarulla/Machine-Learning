@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c80d46d317759d0efb93d2e3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "vivrecard",
+  "setter": "FloW95",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "6119b21b3a6f449bbfa612301f2f8c37",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1313r13p1316r13p1339r12p1352r13p1379r14p1559r12",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "1cd4a95dfb19ee2da65f06fc833c4192cadf2862e7599fa722896d48618ab59e",
+  "validation_errors": []
+}

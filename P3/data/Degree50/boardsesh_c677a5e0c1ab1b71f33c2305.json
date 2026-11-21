@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c677a5e0c1ab1b71f33c2305.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "board shoulder 4 (08/25)",
+  "setter": "lilymoss922",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "910D7C8176BC4A278617B6B51632DF10",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1153r12p1169r12p1188r15p1239r13p1271r13p1324r13p1356r13p1393r14p1499r15p1553r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d5af829aed3e785c81efbfa17d99dbd8d0de76189afc6d44d172c40369e0f245",
+  "validation_errors": []
+}

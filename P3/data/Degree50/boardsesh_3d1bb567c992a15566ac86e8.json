@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3d1bb567c992a15566ac86e8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "RetroNetor",
+  "setter": "varopnf",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "CE20DC12DBFB45818197CA886E9E971B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r12p1199r12p1267r13p1314r13p1332r13p1379r14p1454r15p1519r15p1524r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e9f39dcd0e211fc649866f4fc8d91cb0f2a6ee43fec0de0f1d1d172c3f1ecf42",
+  "validation_errors": []
+}

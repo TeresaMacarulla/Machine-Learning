@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ec05ad40aa0ee3e42ce9b0d5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "obsession 10",
+  "setter": "damesaap",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "fe16d15a-9cc0-45ac-bb6f-a519639a0f4f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r15p1181r12p1199r12p1231r13p1267r13p1268r13p1392r14p1358r13p1355r13p1321r13",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.5,
+  "ascensionist_count": 8,
+  "quality_average": 2.75,
+  "hold_fingerprint": "e66e5fb8c7ff701b82b36a6e2f645e3bab1e577bc535c7c8591a71e1d5e9ab27",
+  "validation_errors": []
+}

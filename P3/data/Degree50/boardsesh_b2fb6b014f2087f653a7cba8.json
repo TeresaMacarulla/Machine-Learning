@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b2fb6b014f2087f653a7cba8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "NoAirbagsForArmin",
+  "setter": "45er",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "A000E7CABA7A4D3A98B936C941AA1A7C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r12p1216r13p1250r13p1272r13p1336r13p1383r14p1385r14p1457r15p1506r15p1535r15p1578r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "51fe710a92f41649675bbdc4b6c640791e6cad24d1d9494831b3398a508518ee",
+  "validation_errors": []
+}

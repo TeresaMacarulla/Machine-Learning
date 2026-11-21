@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_388d23c62a95e8c078c2997c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "easy 50\u00b0",
+  "setter": "zpatins",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "0f8177ca1c424e4d8fc636ff308bd513",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1133r15p1137r15p1164r12p1166r15p1170r15p1234r13p1236r12p1272r13p1302r13p1304r13p1353r13p1387r14p1389r14p1470r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.95,
+  "ascensionist_count": 68,
+  "quality_average": 3.41,
+  "hold_fingerprint": "50e3dc00536dbc4c75a8688dacd248a5371352ad20dd28f4a868c2265f48a4bd",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b13fd96a33cda040d6a55f41.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Country of Zed",
+  "setter": "Somorjai_Zeno",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "30f6bb8d-b601-4949-962b-8c2cc9e21e44",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1269r13p1252r13p1355r13p1371r13p1384r14p1230r13p1516r15p1163r12p1144r12p1107r15p1307r13",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.7,
+  "ascensionist_count": 14,
+  "quality_average": 2.7,
+  "hold_fingerprint": "055a217882fffa510a3aa03591a254f1115c3e9a0bf26b96d4e261835c011097",
+  "validation_errors": []
+}

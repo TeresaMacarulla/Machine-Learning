@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b83e9d5e595e0cf6889724f4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Hold my Breath",
+  "setter": "B4Rich",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "92c3126d7eac413f96fd82af7cd53a68",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1124r15p1127r12p1146r15p1193r12p1203r15p1215r13p1236r13p1320r13p1391r14p1560r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "c4c54a243ff852b3b66eb0751b6ecac41b7c3316de4e014949d3c4d71212103e",
+  "validation_errors": []
+}

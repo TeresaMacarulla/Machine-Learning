@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2f94b1725927a43f7c608d82.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "CLUTCH",
+  "setter": "nuggopps",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C298DB32BEE54598A35A228F9F245106",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1187r12p1189r12p1270r13p1283r13p1389r14p1478r15p1491r15p1521r15p1570r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.29,
+  "hold_fingerprint": "79f69dedb965610ed893b25ca18295a9b5b51ad24f468958fafa9c1c4cf4c185",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4cf50f063344d70b188f9412.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "V4 Maybe?",
+  "setter": "tomheslam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3F7FB7922CC4477FB50BEB7B2F4D2BF3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1153r12p1234r13p1266r13p1333r13p1350r13p1387r14p1455r15p1504r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e9602b5b900574fb906c53a0b2a1a3d0563e0a8924bec15d98784cba49d0711b",
+  "validation_errors": []
+}

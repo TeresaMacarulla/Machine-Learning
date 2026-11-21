@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_10f520519bcd430b919eaeaf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Endgame",
+  "setter": "importedbean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "E1885FE130514633A4CF4C172E70E352",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1167r13p1178r15p1187r12p1189r12p1216r13p1231r13p1253r13p1282r13p1313r13p1381r14p1482r15p1499r15p1516r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 16,
+  "quality_average": 3.5,
+  "hold_fingerprint": "8dc3f1c364fb326a03171a2afb64e92eaf85e9b42125eb3426300e7809835d47",
+  "validation_errors": []
+}

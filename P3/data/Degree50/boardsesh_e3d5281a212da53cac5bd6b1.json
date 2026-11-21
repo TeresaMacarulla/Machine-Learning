@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e3d5281a212da53cac5bd6b1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "singe",
+  "setter": "lilian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "4822f304-ca59-4efe-8d38-40b4c94f39fa",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1244r12p1243r12p1296r13p1300r13p1302r13p1321r13p1371r13p1390r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.25,
+  "ascensionist_count": 5,
+  "quality_average": 1.5,
+  "hold_fingerprint": "49eca2980b5bd68cc8aa848e4b9f7d075cb3bc9b10855e69d97c826842b68118",
+  "validation_errors": []
+}

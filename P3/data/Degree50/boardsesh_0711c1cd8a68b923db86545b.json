@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0711c1cd8a68b923db86545b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Mega tsunami 1.0",
+  "setter": "HugoChan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "552de7349d9c490aa4bcfcd4569a8b17",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1229r12p1282r13p1301r13p1339r13p1372r13p1386r14p1468r15p1504r15p1520r15p1523r15p1531r12",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.02,
+  "ascensionist_count": 53,
+  "quality_average": 3.35,
+  "hold_fingerprint": "15dc441b7c9a28c832698a446499de669063ffa75fcea47f8fd0830e7da85e36",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cc1821e20a4f9bc7a5faa3bc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "javelin",
+  "setter": "SaxonCasi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "30cd80a28f89482195a505d2dad8ae59",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1180r12p1219r13p1268r13p1333r13p1387r13p1391r13p1395r14p1457r15p1461r15p1489r15p1513r15p1530r15p1563r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.03,
+  "ascensionist_count": 151,
+  "quality_average": 3.31,
+  "hold_fingerprint": "67843f7ac06280c802eb6dafb38f305bfacfe4d7623fa9e2c9c1e1bd3a335ff9",
+  "validation_errors": []
+}

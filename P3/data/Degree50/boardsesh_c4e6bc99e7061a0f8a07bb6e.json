@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c4e6bc99e7061a0f8a07bb6e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "360 Jampus",
+  "setter": "petewhittaker",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1D4B112BDBB6490F88158C466BDC0EA7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1175r12p1246r13p1247r13p1251r13p1268r13p1306r13p1357r13p1394r14p1465r15p1483r12p1550r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "fb34f9b5c09ab498c51ad6ba51893a35a4eb0abcd62dd1353725c24e4a913886",
+  "validation_errors": []
+}

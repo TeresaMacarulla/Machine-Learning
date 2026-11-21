@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6aabae7b0c519401e8f64e3f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "ankle sprain (without right foot)",
+  "setter": "shaikerem",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 9,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "d1a3bb9315214c02a0f678bd92ef3348",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1161r12p1221r15p1228r13p1248r13p1256r13p1283r13p1289r13p1303r13p1344r13p1375r13p1376r13p1388r14p1483r15p1513r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f49b0ec1334802d7d98f33a25efb7138be2403cb6fef879f68a8ea9d040f1282",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ca83b2dd6894592e180eccf1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Alex 1 (big moves)",
+  "setter": "alex8128",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "21275ced176d400aaa44a9f887da8353",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r15p1136r12p1148r12p1221r13p1241r13p1308r13p1340r13p1394r14p1452r15p1536r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.8,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "b51feb7cc4170e82df8bba428d14fca59a4922e2bb2ba7d098d4028f1ff0cdb6",
+  "validation_errors": []
+}

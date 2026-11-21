@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b2fb0b9a03bad365b7a9d70c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Det e noe me da",
+  "setter": "aleksanderoritsland",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "70233DABA0454D3B974E0CAA18413E1E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1156r12p1199r13p1203r13p1238r13p1267r13p1301r13p1314r13p1383r14p1452r15p1528r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.0,
+  "hold_fingerprint": "af2b12a5f08172bb6a30c9e1488d3a4a90f9c426f8c36289080540139fcc3d34",
+  "validation_errors": []
+}

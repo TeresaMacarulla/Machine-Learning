@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_58ab2c992d54370a08698d01.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "la canne",
+  "setter": "johann.bjrd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B9F6194A507C4A1BA88284AA5F1A1E32",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1138r12p1153r12p1203r13p1269r13p1270r13p1301r13p1389r14p1450r15p1506r15p1524r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9d9a5b4161a8f5dec2c57e067e0a7f4407f7f3d5170885606136519d4f66b2a2",
+  "validation_errors": []
+}

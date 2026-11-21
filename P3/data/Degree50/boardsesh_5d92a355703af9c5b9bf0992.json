@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5d92a355703af9c5b9bf0992.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "pas hallel rectange",
+  "setter": "clembon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "d2ffad8801684c41a2b20e708ddca7ba",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1113r15p1149r12p1201r15p1214r15p1234r13p1268r13p1300r15p1305r13p1306r13p1376r14p1393r14p1454r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "67af2f287aea7408fba17823296d560fd2375750b81bb8be28b6a887db2b9222",
+  "validation_errors": []
+}

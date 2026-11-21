@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bd9b813891809db26ce98a1a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Butterfly Away",
+  "setter": "bobogram",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F3780B8DACA341CFB7D0313F739CDE8A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1144r15p1166r12p1198r13p1227r13p1231r13p1261r13p1281r13p1331r13p1369r13p1387r14p1454r15p1501r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "2d803d8cc4b331f2611b6e28e63798ac65d920da322e1eae715ba0d79e1e5273",
+  "validation_errors": []
+}

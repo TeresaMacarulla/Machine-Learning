@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0046b5e98b3faa78bfbc03cb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Finn's life begins at 6c+",
+  "setter": "niklasdr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "61d6a2d46a1143a7a28ff8ae87765a50",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1126r12p1147r12p1179r13p1214r13p1234r15p1263r13p1300r13p1336r13p1352r13p1384r14p1464r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9f126cf80812b72940873a9725368267edc14f7877edaeb0606ac14f22cc5bab",
+  "validation_errors": []
+}

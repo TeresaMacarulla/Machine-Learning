@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a6460d48027121e0aec3d922.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "aespa",
+  "setter": "leemiho",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "70CA7688092B450B9A3610DD4951B2D7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1150r15p1167r12p1200r13p1221r13p1271r13p1307r13p1356r13p1392r14p1455r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "cbb0f0bca57e8c3a1814497d8f7053e68f112f4657313829af594ac1f9870455",
+  "validation_errors": []
+}

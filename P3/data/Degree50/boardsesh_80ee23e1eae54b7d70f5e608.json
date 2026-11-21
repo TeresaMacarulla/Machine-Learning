@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_80ee23e1eae54b7d70f5e608.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "campus 1",
+  "setter": "Puckcharlie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "90366152-e8d3-4826-bf7c-c54b5d867731",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1218r12p1220r12p1288r13p1302r13p1370r13p1386r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.2,
+  "ascensionist_count": 9,
+  "quality_average": 1.4,
+  "hold_fingerprint": "32b4d777785ee29d68f324ea22287b0422488516393c601f50b6f036980cd722",
+  "validation_errors": []
+}

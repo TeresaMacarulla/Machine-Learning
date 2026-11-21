@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5c926408d016aff93ce53096.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Carnivore",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6E1B3E0ADF1F4BEC884E67F73866D5F4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1144r15p1164r12p1232r13p1265r13p1286r13p1336r13p1390r14p1457r15p1496r15p1521r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.02,
+  "ascensionist_count": 220,
+  "quality_average": 3.33,
+  "hold_fingerprint": "bc340dd76699fbac5d048fac4ebd4ab514a382bf1a679333a24ea38ff7ec5016",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6d07461ab4f714cdc53633b9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "turn on feet",
+  "setter": "JPlieu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "CA478E645ACA419CB76CF06784278668",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r15p1182r12p1204r13p1215r12p1221r13p1240r13p1308r13p1373r13p1389r14p1468r15p1471r15p1553r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0eafff3d7db735e2172e09ca524ab377b22edb4efab461a0930e2802159686a5",
+  "validation_errors": []
+}

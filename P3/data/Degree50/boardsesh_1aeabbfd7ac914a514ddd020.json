@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1aeabbfd7ac914a514ddd020.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "lock then fly",
+  "setter": "BenFayloga",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8CE1DDDADDEE4BA1B6451A576BBCC937",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1144r15p1244r13p1300r13p1353r13p1392r14p1461r15p1520r15p1539r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5485e19c486c55c8cbda548bfa770dae8d3c2819be7a2ee51520b5df241a56cd",
+  "validation_errors": []
+}

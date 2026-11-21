@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6ac648e08590cedd61e8cffd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "bimouv",
+  "setter": "Alex.M",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "8d4909e3-be4a-4a79-9e5a-950199523682",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1216r12p1228r12p1131r15p1302r13p1568r13p1386r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "a6f847ae886ab8d0588fd3d54b8a299eff7e3b4103fe2cb8f11f0b0fdd49c112",
+  "validation_errors": []
+}

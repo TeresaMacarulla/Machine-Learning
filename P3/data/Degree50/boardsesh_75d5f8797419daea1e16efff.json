@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_75d5f8797419daea1e16efff.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Two The Moon",
+  "setter": "Dash",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0A76B9A2C2E64729933FEC238EE2C883",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1127r12p1145r15p1163r12p1176r15p1247r13p1318r13p1322r13p1340r14p1353r13p1394r14p1548r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "2ddeb7aaaec0a626e5e36042873097f19e2de27beabc5a93dfee5ce16b636326",
+  "validation_errors": []
+}

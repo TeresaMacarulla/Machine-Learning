@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b5a753f0700b715788946fad.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "cereal with soup",
+  "setter": "mgco3.xin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "57053dd6839f479da9ab577b3f3510ed",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1113r15p1133r15p1168r15p1185r12p1198r12p1203r15p1234r13p1255r15p1284r13p1303r13p1304r13p1356r13p1387r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.01,
+  "ascensionist_count": 741,
+  "quality_average": 3.33,
+  "hold_fingerprint": "d4ad2178d0a5719997b9324fc82752c76ae618dafbccbaa36a5ec39bc15a5b1d",
+  "validation_errors": []
+}

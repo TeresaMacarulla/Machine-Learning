@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a08aa13dc358b0a31e536307.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Reverse Gaston",
+  "setter": "aidenbgunn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 9,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "44B78B403ED64076BB139222CD390B08",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1160r15p1163r12p1200r15p1212r13p1234r15p1246r13p1274r15p1280r13p1316r13p1331r13p1334r13p1335r13p1338r13p1371r13p1390r14p1454r15p1519r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "3489d85bd4e3bd797b51c91a44794603322788137297f1f904a15e5cc73cb39c",
+  "validation_errors": []
+}

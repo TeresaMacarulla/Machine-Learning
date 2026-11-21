@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0c7c4c526af2071712f9c61d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "pda",
+  "setter": "alexquintal",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "FF233834C8DA4D789AC7929A5382E473",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1132r15p1164r15p1168r12p1169r12p1235r13p1271r13p1280r13p1281r13p1284r13p1348r13p1386r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5284df3fac0c6c12e068e9b099489ed95efb61b2985a33c2ad4f8226720d0051",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_57a6fe8724f4bc6d56ea4cad.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "See all crimps",
+  "setter": "Matthew_C",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1F7E5EA9442A48C993E770937B737F3C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1136r12p1150r15p1206r12p1214r15p1352r13p1390r14p1542r13p1543r13p1559r13p1578r13p1596r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "763ba5dfcdbcb886e39d5faddf5db528e7611f7bca7be7106a7e5f9c4fe736a8",
+  "validation_errors": []
+}

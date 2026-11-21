@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c9500a1d018f42d76e5390ce.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "No feet, No Mach",
+  "setter": "TyraS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "486680A4844E4CB3A77362C9B92D8489",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1294r12p1297r12p1347r13p1353r13p1356r13p1359r13p1366r13p1395r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7679c56f81178f83ce33f54d033b0d7c530af0ba0b69e0077f4d907c08979055",
+  "validation_errors": []
+}

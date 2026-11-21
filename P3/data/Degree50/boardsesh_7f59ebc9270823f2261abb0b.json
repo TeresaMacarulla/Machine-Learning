@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7f59ebc9270823f2261abb0b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Alfredo Sauce",
+  "setter": "Gabewest",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0688251F89B1421A8EFAE94FD519D8B9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1170r15p1200r15p1217r12p1234r12p1263r15p1268r13p1300r13p1337r13p1350r13p1379r14p1383r13p1385r13",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.71,
+  "ascensionist_count": 7,
+  "quality_average": 2.86,
+  "hold_fingerprint": "42df8be4c78f7184ae781e69bf59521daff9886fbe5cfd0a8e0e4b912c8dab45",
+  "validation_errors": []
+}

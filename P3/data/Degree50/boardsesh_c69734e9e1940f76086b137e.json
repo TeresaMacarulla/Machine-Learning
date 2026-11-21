@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c69734e9e1940f76086b137e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Corgi Roll",
+  "setter": "tling90",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "c73ef0f55ab045fb8e3ea7749deb2922",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1116r12p1136r12p1203r13p1255r13p1306r13p1339r13p1369r13p1379r14p1384r13p1451r15p1481r15p1506r15p1584r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "61168b84e76ff80249b6b8d4829a88cca992c3117c65392168e1e8c7563f85d1",
+  "validation_errors": []
+}

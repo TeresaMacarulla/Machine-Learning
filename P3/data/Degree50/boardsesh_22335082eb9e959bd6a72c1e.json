@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_22335082eb9e959bd6a72c1e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Kaleidoscope Man",
+  "setter": "Chris.Schweiger",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "0081D6AD244F4575BC6A0459A80EE92E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1180r12p1186r12p1288r13p1372r13p1384r14p1451r15p1452r15p1453r15p1454r15p1455r15p1456r15p1506r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "35f8f6a480fdf7f2a15efef06f992c2882fb0a43a30ebbb471e6246385df97b2",
+  "validation_errors": []
+}

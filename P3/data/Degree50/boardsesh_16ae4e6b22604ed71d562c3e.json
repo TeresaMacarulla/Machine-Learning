@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_16ae4e6b22604ed71d562c3e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "kilter comp warmup",
+  "setter": "eggywlrd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6C2A588D3C1D4122A2C9B158D16A2992",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1188r12p1199r13p1216r13p1227r13p1315r13p1332r13p1385r14p1456r15p1472r15p1485r15p1525r12p1538r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.6,
+  "ascensionist_count": 10,
+  "quality_average": 3.7,
+  "hold_fingerprint": "7c0f74596246df735a24c3bbf438a1ad97e5cc95dcddae489e85c15b00856113",
+  "validation_errors": []
+}

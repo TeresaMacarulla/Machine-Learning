@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c1530e6eab61892835d6df86.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "50 is best",
+  "setter": "turkanen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "8cf5108374b143d195389e78a70b9d5b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1152r12p1169r12p1179r15p1235r13p1270r13p1281r15p1320r13p1372r13p1379r14p1383r13p1385r13p1522r15p1548r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "48123d574a4346967ecc43c6be9efeca04525848a1f515a5fff0ec50cd67d64c",
+  "validation_errors": []
+}

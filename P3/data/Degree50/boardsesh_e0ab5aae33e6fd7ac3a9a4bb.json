@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e0ab5aae33e6fd7ac3a9a4bb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "This is just a ladder with weird rungs.",
+  "setter": "kpeloquinri",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9B0857136FAA43A6B6C607540783B055",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1137r15p1149r12p1150r12p1219r13p1232r13p1287r13p1317r13p1354r13p1385r14p1452r15p1457r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "76250803cd40d97c06394241d522a807156760f2ada6602b3adb4757584945b5",
+  "validation_errors": []
+}

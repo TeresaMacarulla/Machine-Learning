@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_80964722a93fc3a110281c37.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "blood borne",
+  "setter": "E.2.d.2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "71EBBD41683F42F7B1B37ADBA667F6AF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r15p1157r12p1187r13p1239r15p1271r13p1319r13p1372r14p1452r15p1560r13",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9875cc2334d94024c0fee529c4beaee090570d8b6248d276111963df6500edb0",
+  "validation_errors": []
+}

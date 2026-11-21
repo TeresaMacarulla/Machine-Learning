@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fc919c6818fc6ab1e58b6e4a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Out of Gas",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8190493E355F4AE8B39BE97CDEA527AD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1179r12p1233r13p1253r13p1268r15p1273r13p1339r13p1349r13p1372r13p1382r14",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "eacb6bc1ff2e1a7deb7fec78ce72c9f6787ad409d47e3a591f92e3667a23f838",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_02fb8867408e3d7e68e05fde.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Tilt",
+  "setter": "wills",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "8178A48D33FD46D990E6C36F1E3D77AE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1101r12p1153r12p1201r13p1256r13p1306r13p1342r13p1390r14p1449r15p1452r15p1471r15p1480r15p1499r15p1527r15p1535r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d4b4696d19b213c536dc333fb22e06d9584cbbd92fe243a9d3de31a28fc18969",
+  "validation_errors": []
+}

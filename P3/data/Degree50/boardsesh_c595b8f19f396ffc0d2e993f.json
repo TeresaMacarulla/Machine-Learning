@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c595b8f19f396ffc0d2e993f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Fuqnut part 3",
+  "setter": "DaVinci02",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "4EE78AAD46A946A388234E13B19CB1C3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1175r12p1262r13p1283r13p1350r13p1388r14p1464r15p1483r15p1520r15p1523r15p1559r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4e17afa1ff83c1a654e3059dd914e421e82560de0416caf3bfe807456aa8285b",
+  "validation_errors": []
+}

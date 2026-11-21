@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e84f62220a995a3e74aeb7fb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "DaNo2",
+  "setter": "Bubbele",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "275065B5641D472AAC9224A87F951A75",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1145r12p1233r13p1283r13p1320r13p1338r13p1342r13p1393r14p1459r15p1462r15p1529r15p1567r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "6fef90126aad6f6f69623681b15d63f306b3e62bded8bdb509cb09474effa62d",
+  "validation_errors": []
+}

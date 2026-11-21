@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dc6352ae5a2bf2bcf60eee52.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "SickSequenceish",
+  "setter": "fynn_climbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "2057b48812f74f578407a38f9ce2b6a5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r12p1146r12p1233r13p1244r13p1281r13p1345r13p1383r14p1385r14p1479r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "82255ff9e20754d554aba11f713ff33ae9e0cb44a6e6754a6a9a3ba78f85bb13",
+  "validation_errors": []
+}

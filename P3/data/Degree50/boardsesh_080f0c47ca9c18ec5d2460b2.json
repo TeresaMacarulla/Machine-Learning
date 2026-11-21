@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_080f0c47ca9c18ec5d2460b2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Schutzkreis",
+  "setter": "SamplesJ21",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "CDE87DF5BF0D4550B4F6F49C9703029D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1204r12p1256r13p1258r12p1269r13p1304r13p1351r13p1353r13p1382r14p1500r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "9a701bb454491a6a26b1b4af8f9e8afe22bd96e8f0b0478e4f375ed50e6399a8",
+  "validation_errors": []
+}

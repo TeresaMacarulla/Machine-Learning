@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_07b70cd55524250972e86e68.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "first control",
+  "setter": "peterhayssen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "D3DAC1648EE74EF8B8D19C0A181EE103",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1180r12p1253r13p1298r13p1318r13p1384r14p1458r15p1461r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.95,
+  "ascensionist_count": 43,
+  "quality_average": 3.28,
+  "hold_fingerprint": "e7e7e57654750972ee2de4b02c888915881d57011b6700eca2026e8564af6bee",
+  "validation_errors": []
+}

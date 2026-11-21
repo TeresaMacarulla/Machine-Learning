@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_97e3a10f4af1e5c50707a3aa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "David 5",
+  "setter": "2010David",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "25153c65-c325-455c-953a-743f17d8a11f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1272r13p1218r13p1449r15p1453r15p1155r12p1156r15p1491r12p1188r13p1323r13p1206r15p1359r13p1395r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.33,
+  "ascensionist_count": 8,
+  "quality_average": 4.67,
+  "hold_fingerprint": "b06b67171a9741e962cbae93d2b42281cc7abeb0135be736762ebbe8d467b4d4",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8260e8808c2980056a4c895e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Pinto Bean",
+  "setter": "Nick_Casto",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5F0FF5E264D64589BF86F773A35D988E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1144r12p1197r13p1249r13p1270r13p1305r13p1341r13p1392r14p1462r15p1496r15p1523r15p1545r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "763d87462d63d29ecd156cf59630b7aa3ede0458da7ee39882f89f5fbe3de930",
+  "validation_errors": []
+}

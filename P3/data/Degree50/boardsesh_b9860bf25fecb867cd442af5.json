@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b9860bf25fecb867cd442af5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Atmospheric river",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "14579309e90348b7b89398c10dc56464",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1154r12p1205r13p1240r13p1289r13p1356r13p1387r14p1447r15p1451r15p1482r15p1514r15p1534r15p1559r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.88,
+  "ascensionist_count": 8,
+  "quality_average": 4.0,
+  "hold_fingerprint": "42997288281cd056c59366b43d43824ea174452407430d9ad24aae1663458ee8",
+  "validation_errors": []
+}

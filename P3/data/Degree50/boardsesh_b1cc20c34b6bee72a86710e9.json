@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b1cc20c34b6bee72a86710e9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Easy Campus 3",
+  "setter": "wrc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "cbc2196201f34a8fa3c46bccf515c0a1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r12p1236r12p1303r13p1355r13p1387r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 7,
+  "quality_average": 2.43,
+  "hold_fingerprint": "c8a21ef61cff496c9f2da68fec89e443b28bb14114fb50395699682e0ee218e8",
+  "validation_errors": []
+}

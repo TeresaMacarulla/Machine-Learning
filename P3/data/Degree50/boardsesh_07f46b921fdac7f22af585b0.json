@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_07f46b921fdac7f22af585b0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "A Muerte",
+  "setter": "thomaslindinger",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7478C8BF680F4F079E9082136146ADA6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1124r15p1125r12p1155r15p1196r12p1217r13p1228r13p1233r13p1241r13p1254r13p1271r13p1326r13p1393r14p1506r15p1535r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "161633d2dd89fc2cd2ba240c112e944b07fd4ba6ebbf4fa9035a9b1302cd87af",
+  "validation_errors": []
+}

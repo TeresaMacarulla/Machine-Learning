@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7e6d94c91f71904dbc699a3d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "best v1 evr",
+  "setter": "1bird",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "87054DD50ED84955B6CA1C2090DD0CA6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1142r12p1144r15p1192r12p1210r13p1260r13p1281r13p1296r13p1347r13p1380r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "33bb4f3e6e9a0c5b987290be667f902e2efc5c838c0ad3715d2774c8fc0f94d0",
+  "validation_errors": []
+}

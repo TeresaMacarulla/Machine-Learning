@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4b9beafdf83fd3eabf7612cf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Louisiana cooking",
+  "setter": "SELain",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5feb2dd7-72bf-4b2f-a01e-efc799ef8f20",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1257r12p1259r12p1174r15p1308r13p1356r13p1390r14p1204r15p1271r15p1253r15p1340r13p1302r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.75,
+  "ascensionist_count": 20,
+  "quality_average": 2.88,
+  "hold_fingerprint": "029f6958be283a1db3c021af0bb294ed60022f19c511f0d8863ce2fd569c5676",
+  "validation_errors": []
+}

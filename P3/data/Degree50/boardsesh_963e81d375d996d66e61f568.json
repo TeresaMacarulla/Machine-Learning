@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_963e81d375d996d66e61f568.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "control Dyno",
+  "setter": "rivdog37",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "0055998AAD7B4CA890D9F58D4ED182E5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1083r15p1131r15p1133r15p1166r12p1170r15p1234r13p1287r13p1353r13p1389r14p1523r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 3,
+  "quality_average": 4.0,
+  "hold_fingerprint": "1af6aeb9c671e6c567eac54982fdfa1de851ca3100296cfdb6b4a70e4dd5499a",
+  "validation_errors": []
+}

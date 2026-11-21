@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_137951b34dde007a7f0cb5b3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "akathesia",
+  "setter": "tlandman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "C6EA9AD6764F4A30874A8A06847EF756",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r15p1169r12p1218r13p1286r13p1319r13p1359r13p1395r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6b57f27b7cd327cdc72f04b55fab9f5843d935cb7b949d4c89fe0cbdb8c49e05",
+  "validation_errors": []
+}

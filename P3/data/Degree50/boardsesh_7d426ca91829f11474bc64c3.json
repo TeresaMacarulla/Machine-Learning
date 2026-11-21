@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7d426ca91829f11474bc64c3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Arrival Fallacy",
+  "setter": "chicksnchalk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "73242a189e344a44adedc154f2e4bc1c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1187r12p1223r12p1250r13p1254r13p1319r13p1331r13p1364r14p1470r15p1491r15p1497r15p1504r15p1541r13p1546r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "ba4c0d26cf0033652987a014aa234e9ddcafa9a0f7be1f413c63174cab681982",
+  "validation_errors": []
+}

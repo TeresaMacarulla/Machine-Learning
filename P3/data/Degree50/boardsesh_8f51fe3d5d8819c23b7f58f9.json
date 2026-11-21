@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8f51fe3d5d8819c23b7f58f9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Toyota Tacoma",
+  "setter": "nambam07",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1EC7FC2B88134066B566C4A0FBEDF40E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1160r12p1215r13p1274r15p1283r13p1321r13p1339r13p1358r13p1393r14p1462r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3b86aeb4a88ea994c29bcbfc9bac86df65b119046f40644d3b16843bf4db9298",
+  "validation_errors": []
+}

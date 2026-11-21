@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3ca4bb5555e47cac084dc30d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "shrub navigator",
+  "setter": "finnpacheco",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "356276687001425C96CB012225A29F78",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1219r12p1237r12p1302r13p1304r13p1387r14p1489r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.88,
+  "ascensionist_count": 24,
+  "quality_average": 3.25,
+  "hold_fingerprint": "82b486e36d7d2ee2c8e11ab6aa52eaba64110724ce287e2155dcb602313cbe8d",
+  "validation_errors": []
+}

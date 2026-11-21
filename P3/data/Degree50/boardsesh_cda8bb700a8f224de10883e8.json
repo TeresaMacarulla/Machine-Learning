@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cda8bb700a8f224de10883e8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "left right left cut",
+  "setter": "wax5105",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "67286FE31B8F429A852D17B268EB0DF6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1089r15p1143r12p1144r15p1192r13p1201r15p1231r13p1246r13p1247r13p1289r15p1302r13p1335r13p1387r14p1460r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.22,
+  "hold_fingerprint": "7e950a58bd478a58628b046f6bab03f6e7706b0b581fb3ecca72dd23ef22bbb2",
+  "validation_errors": []
+}

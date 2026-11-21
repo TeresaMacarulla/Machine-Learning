@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fa90cbf7c90d63ce3bebbe58.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "The Tweezer",
+  "setter": "TSD setters",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1ed418e8-b12d-4fcc-84c5-1230ab6c1a2d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1147r12p1098r15p1232r13p1115r15p1254r13p1488r15p1285r13p1290r13p1526r15p1375r13p1387r14p1340r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.33,
+  "ascensionist_count": 5,
+  "quality_average": 5.0,
+  "hold_fingerprint": "178009e31a2b30d2f523a24f7a90e519b753c32562d8770fc0c6aaf4f12cd7d4",
+  "validation_errors": []
+}

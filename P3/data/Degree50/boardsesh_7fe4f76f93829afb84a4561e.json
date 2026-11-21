@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7fe4f76f93829afb84a4561e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "mothman",
+  "setter": "shadereal",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "991CAF6B1ACD48EA9E977B6C0C330122",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1168r12p1201r15p1239r13p1286r13p1318r13p1320r13p1331r13p1352r13p1362r14",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "40e6578ede2029a26ba5c4318c60cf4d62b87cb044d2ac6b99b4718316de01d4",
+  "validation_errors": []
+}

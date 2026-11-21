@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ce08cff61882b9d3194be899.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Weight Wait",
+  "setter": "Ivangreene",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "ecf9715d50c74948ad15f756d9966d7b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1171r12p1182r15p1190r12p1236r13p1271r13p1305r13p1325r13p1391r14p1447r15p1482r15p1499r15p1535r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.6699999999999995,
+  "hold_fingerprint": "3e3c43332812a074a7249fb08546134a4e00cb6e36e4e1a8d8ec468e9d3b58ee",
+  "validation_errors": []
+}

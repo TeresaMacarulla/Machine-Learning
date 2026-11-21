@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_014c9998b95128e80eaac77f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "White Crane",
+  "setter": "importedbean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "5FFEFFE1ADE14B69A6781303A1D5310C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1199r13p1215r13p1264r13p1351r13p1385r14p1454r15p1457r15p1459r15p1495r15p1503r15p1548r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 16,
+  "quality_average": 3.38,
+  "hold_fingerprint": "513fdb92dc2f0c81e7113128af80d5a15607dcd9b88171bd900a371a8acc7f6a",
+  "validation_errors": []
+}

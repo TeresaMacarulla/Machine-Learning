@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ae30f72452ec21f533d56e98.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Noble Pig",
+  "setter": "griffinwhiteside",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8efd5b2b06c14992b9f1a1be031d91a4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1233r13p1285r13p1287r13p1290r13p1372r13p1384r14p1452r15p1507r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 126,
+  "quality_average": 3.23,
+  "hold_fingerprint": "1207d2268893cdf03ab5ef4d52e93aeffd729225eaa6b1a9ba6011e5940e8c5e",
+  "validation_errors": []
+}

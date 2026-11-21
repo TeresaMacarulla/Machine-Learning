@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_49d8a0a33fdfda706b872784.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "lft1",
+  "setter": "mgboy09",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "f71f3d56642c4f038568365f531f4ff3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1099r12p1113r15p1117r12p1151r13p1166r13p1198r13p1234r13p1283r13p1303r13p1353r14p1456r15p1551r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "144a48e30e005fe7f1273c80c64ffc43b9f9d8ee93aff8b1b723330d0e7cbe90",
+  "validation_errors": []
+}

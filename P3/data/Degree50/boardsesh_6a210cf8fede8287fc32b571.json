@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6a210cf8fede8287fc32b571.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "albertarus",
+  "setter": "TheGravityWell",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "5bfa131e6bb14f3aa77c7773125e2560",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r15p1168r15p1181r15p1221r15p1257r12p1270r13p1278r15p1306r13p1311r14p1353r13p1364r13p1537r15p1587r13",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e653a55b5a56071964e9253f9d969e17ec965a1c969a9cdede76d1394ce10a7f",
+  "validation_errors": []
+}

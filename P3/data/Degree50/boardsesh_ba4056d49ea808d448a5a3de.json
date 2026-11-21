@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ba4056d49ea808d448a5a3de.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Energy 1",
+  "setter": "Pedro_Z_Hammer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 14,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "c998d8e0da6c4d848f33e96ed1a9adba",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1156r12p1175r14p1206r12p1210r14p1246r13p1258r13p1273r13p1296r13p1309r13p1329r13p1339r13p1348r13p1366r13p1369r13p1373r13p1375r13p1386r13p1390r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7aa8c1e5e1d7d5ce8b536cdac63a1ce799735869326ae14da39c48491a52307d",
+  "validation_errors": []
+}

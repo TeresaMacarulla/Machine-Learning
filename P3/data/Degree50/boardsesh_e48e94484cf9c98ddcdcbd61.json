@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e48e94484cf9c98ddcdcbd61.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "MALE OPEN 2",
+  "setter": "Coach_Nick_Orange",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "e8d47618-edeb-4f09-b2fa-a9795c8490e6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1478r15p1100r15p1550r13p1543r13p1324r13p1339r13p1368r13p1383r14",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "e374fe622756a893f6cfcefc02c43a5733868bf14e25800a0e8a4cc67829a720",
+  "validation_errors": []
+}

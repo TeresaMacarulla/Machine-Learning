@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9a34f69ff0d84150dbdb9823.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "train 4 gain",
+  "setter": "rikischwark",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "31d2abd0d0f4408789e79d7cb15a8efe",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1191r12p1204r12p1250r15p1254r13p1293r13p1344r13p1358r13p1369r13p1370r13p1375r13p1383r14p1471r15p1554r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c2be5c573124ced1800a6fbb75bdeedcc4db3d84c6c076a1968dfd974ae508a4",
+  "validation_errors": []
+}

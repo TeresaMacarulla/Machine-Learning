@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0d5f864569c1bd031bd0704c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Train rapide",
+  "setter": "steil_boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0CA9C67BA0CB4186ACE6E1612D58C571",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1144r15p1153r12p1180r13p1201r13p1283r13p1314r13p1318r13p1365r13p1379r14p1451r15p1457r15p1529r15p1555r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.97,
+  "ascensionist_count": 59,
+  "quality_average": 3.38,
+  "hold_fingerprint": "a09f28607bb6d08fa33f2506da7299d074586537cbb0e4e9d982233a16f23454",
+  "validation_errors": []
+}

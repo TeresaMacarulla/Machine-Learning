@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b0c4cc6c7974f22126f17e8e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "One arm inator",
+  "setter": "Daps",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "d62bd49171314a46b6151a80fbf55bf4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1127r12p1142r12p1196r13p1227r13p1280r13p1353r13p1356r13p1392r14p1461r15p1519r15p1572r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "b4d057615f4cc4464fde85d965c5e9a2614fc6d503e93d4507cbf72891afcfd6",
+  "validation_errors": []
+}

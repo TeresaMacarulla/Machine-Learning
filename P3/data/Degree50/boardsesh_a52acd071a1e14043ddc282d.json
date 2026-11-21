@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a52acd071a1e14043ddc282d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "flapper city",
+  "setter": "Nloan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "164C05CB0FA548D6A38EB4858A8EFAEE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1278r12p1294r12p1301r13p1302r13p1360r14p1361r14p1387r13p1390r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "558bf33c6d7ae7608d716d83eb420feb74cc6856471bf6c130f4c0c0616b4374",
+  "validation_errors": []
+}

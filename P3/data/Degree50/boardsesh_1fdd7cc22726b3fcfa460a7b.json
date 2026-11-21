@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1fdd7cc22726b3fcfa460a7b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Trump Hand",
+  "setter": "Burger_King",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0b5c70af86b34d4e8c207f7d07d70636",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1133r15p1169r15p1204r15p1234r12p1268r13p1304r13p1334r13p1354r13p1387r14p1513r12",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.85,
+  "ascensionist_count": 21,
+  "quality_average": 3.25,
+  "hold_fingerprint": "44c59768c2cbd0fbf8d953dd2e64dcc49dfab08090b364776bb9730b26958866",
+  "validation_errors": []
+}

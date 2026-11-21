@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e50ceb5d4dc544315ba83c1e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Birdcage",
+  "setter": "SaxonCasi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "a5a19d6896b24f42b87362e42761fe49",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1096r15p1125r12p1147r12p1169r15p1214r13p1248r13p1270r13p1304r13p1325r13p1395r14p1504r15p1534r15p1535r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.94,
+  "ascensionist_count": 54,
+  "quality_average": 3.5,
+  "hold_fingerprint": "8b2f43a6ac5db81ef2fb9d3df194b5614df2138091a2b584efec1913937df8fb",
+  "validation_errors": []
+}

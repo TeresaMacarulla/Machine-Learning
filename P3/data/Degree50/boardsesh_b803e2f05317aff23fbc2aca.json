@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b803e2f05317aff23fbc2aca.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "badaboom",
+  "setter": "abenede22116",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "D87F47BEC9F543D9AFB69D7AFC8ECFB1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r15p1107r15p1141r15p1142r12p1143r12p1175r13p1192r15p1195r15p1210r13p1226r13p1260r13p1266r15p1278r13p1311r13p1348r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "328eb6fcc09be9db711b67807893fee241078ce6a50c902089681adef2cc7b12",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_80e9aecafe7566059fd3f990.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "farkasbloc",
+  "setter": "sebaBRAVO",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "55f525d5f4914724b02233d9fec51622",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1168r13p1199r13p1216r13p1228r13p1265r13p1283r13p1322r13p1339r13p1393r14p1457r15p1467r15p1502r15p1543r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.83,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "98b80b5ea459f7b0820ecf13d51fc92825c52234ba2929616559aab1fb7e2a0a",
+  "validation_errors": []
+}

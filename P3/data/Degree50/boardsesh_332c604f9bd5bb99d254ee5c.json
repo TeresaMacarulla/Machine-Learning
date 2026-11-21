@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_332c604f9bd5bb99d254ee5c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "purity test",
+  "setter": "dewaranch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "58a9336b1cdd401788d4a8aa56e4f115",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r15p1186r12p1199r12p1238r13p1281r13p1286r13p1333r14p1470r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7e4a7dc7ae2748ce1d063acc262f70eb5a2d93a064f91499f56d9e39ce14756b",
+  "validation_errors": []
+}

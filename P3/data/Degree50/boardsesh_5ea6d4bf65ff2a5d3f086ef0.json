@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5ea6d4bf65ff2a5d3f086ef0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "nothing without anything",
+  "setter": "jules_marchaland",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "B3F409F6C4474F4BB2E33CD73033FA66",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1161r15p1164r13p1180r13p1282r13p1381r14p1457r15p1489r12",
+  "display_difficulty": 30.0,
+  "difficulty_average": 29.87,
+  "ascensionist_count": 31,
+  "quality_average": 3.23,
+  "hold_fingerprint": "5b5d290be025504d684080bac559cc5368f79b8abe2ac09b116badd868ecd6e7",
+  "validation_errors": []
+}

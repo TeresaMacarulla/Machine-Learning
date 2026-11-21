@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_297c205ab87a202189126d3c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Static Monkey",
+  "setter": "santobekking",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "E14251A97F114033A3E13E9CF99D7D97",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1142r12p1194r13p1247r13p1280r13p1300r13p1353r14p1460r15p1464r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "339bc96b4e607e6d970b30406af6daf4930a90f0661ca7dc00ed0451b2b635a8",
+  "validation_errors": []
+}

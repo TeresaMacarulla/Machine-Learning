@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_78203d1f65dde654dd60d67a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Who's that Pokemon?",
+  "setter": "El.B",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ef6256eb4ed04053b0a4a9b6268e9045",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1155r12p1157r12p1207r13p1221r13p1256r13p1305r13p1319r15p1359r13p1391r14p1448r15p1517r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.67,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "8ba23ec94ffd62e18fafb73a70572be89fe3e436fc202a8b24da8ee998ce79d2",
+  "validation_errors": []
+}

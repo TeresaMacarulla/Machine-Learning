@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_19b2d259bd6414469ffa2f1d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Campus 3 training",
+  "setter": "RaitPrs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "B03FD056ADA2447C93BFE1DAA5D3C0F1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r12p1236r12p1302r13p1353r13p1390r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "44eb1b8d4e38dd15f2c8fc695307e9c93d0485a9dbe18f5dec24dc35e4c4109f",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8ecb1c25beb863fd13c667a3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "vitriol",
+  "setter": "lucaboretto",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "80CD5635520B4985A655CF0E196C2211",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r15p1230r12p1251r12p1263r13p1317r13p1336r13p1356r13p1390r14p1502r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "defc1b945a72c2244dc5973b6c8dd7c6131ab7265146be49218c9d3c9ebf325a",
+  "validation_errors": []
+}

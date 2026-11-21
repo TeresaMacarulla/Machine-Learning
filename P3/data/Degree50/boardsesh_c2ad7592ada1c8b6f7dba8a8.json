@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c2ad7592ada1c8b6f7dba8a8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Unicorn Stumble",
+  "setter": "BlakeMaxwell",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "C472F038616947B09ED5AEC4CB37026E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1131r15p1145r12p1148r12p1149r15p1193r13p1249r13p1267r13p1321r13p1373r13p1394r14p1531r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d821007733b044154247b63305e8b6e37053ddb0aa61099d17f00cfe4882ef78",
+  "validation_errors": []
+}

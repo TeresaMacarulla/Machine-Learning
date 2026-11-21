@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1de02009ba987bd45b87cb72.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Akku Leer",
+  "setter": "Florinator",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "a678d53370614a20a2b564d06e667127",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1169r12p1199r13p1285r13p1313r13p1381r14p1469r15p1524r15p1529r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "000e00c7fa0dbb63de0db4b322083b56b61c26e30e14a6d4a2f51508361ca6c2",
+  "validation_errors": []
+}

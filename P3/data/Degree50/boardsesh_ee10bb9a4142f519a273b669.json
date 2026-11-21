@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ee10bb9a4142f519a273b669.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "stay forever",
+  "setter": "marco1988",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "D89710EE7AD243F4B9F68201F1394F5F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r15p1136r12p1237r13p1273r13p1289r13p1308r13p1324r13p1359r14p1452r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "338764b2d0333c0a9005193e8744f29cfd83f74c4aec610c75b4de39dbd1db32",
+  "validation_errors": []
+}

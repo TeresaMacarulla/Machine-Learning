@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_736748ff6d08cb867efc3b38.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "healing toes",
+  "setter": "jelliHenkins",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "f520718f-8524-497d-90d1-b047ea40077b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1137r15p1155r15p1185r13p1451r15p1216r13p1272r13p1339r13p1357r13p1386r14p1223r15p1241r15p1563r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "ffddc755ed78cff3205078e73a7fd76b3839c669a9bf40dcdc8a64a77c201f48",
+  "validation_errors": []
+}

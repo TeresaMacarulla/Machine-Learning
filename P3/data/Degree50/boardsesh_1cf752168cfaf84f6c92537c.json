@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1cf752168cfaf84f6c92537c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Beholden",
+  "setter": "JaviPNorton",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "A2B5EC7EDD834A76B55BC6044881C41B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1075r15p1121r12p1151r15p1204r13p1243r15p1269r13p1287r13p1345r14p1351r13p1447r15p1451r15p1509r12",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "feea46faafcd4598f44b08679c8b8aae24c69889e6c779da0c1368093b2a62f0",
+  "validation_errors": []
+}

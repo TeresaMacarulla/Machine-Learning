@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c88bd68fcc5733cbbc598c5b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "PK mod 2 @50 degrees",
+  "setter": "peterkamitses",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "6DF78E576D56490D975DDD6B48566D82",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1147r12p1213r13p1249r13p1250r13p1287r13p1337r13p1357r13p1392r14p1461r15p1487r15p1507r15p1514r15p1534r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.08,
+  "ascensionist_count": 12,
+  "quality_average": 3.25,
+  "hold_fingerprint": "abbb86c242054b6d798ea5f9768971dec60b4ef2737ac74d874b767497673400",
+  "validation_errors": []
+}

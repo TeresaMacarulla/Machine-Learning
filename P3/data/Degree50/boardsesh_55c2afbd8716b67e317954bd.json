@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_55c2afbd8716b67e317954bd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "biggy ol throw",
+  "setter": "abcd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "18255ef9-5391-480c-9540-6b03ea06fc2f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1456r15p1203r13p1286r13p1351r13p1381r14p1507r15",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "99c95a1978149053a8bd383392068e3c9b0ed060ad9356bc185dc7c584fa7c74",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f1cf9792e5f1e79976aec24c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Fly high",
+  "setter": "Benny9595",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "c1b3d85720b147e18aace57bda73bcec",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1187r12p1234r13p1301r13p1385r14p1450r15p1455r15p1480r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.93,
+  "ascensionist_count": 202,
+  "quality_average": 3.31,
+  "hold_fingerprint": "b4a138a8ffe14b955e22b045abc632e945d85fb97bf123952ba104d0dd28ecc6",
+  "validation_errors": []
+}

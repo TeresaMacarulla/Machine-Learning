@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b3af3718a98b3cdec58a1297.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "easy peasy (6a+)",
+  "setter": "carlo.dgh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "696E174EF03045AB990511922E15D1D8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1081r15p1166r12p1168r12p1219r13p1234r13p1269r13p1317r13p1335r13p1384r14p1550r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "e35d3c589a6b676eaaa4736285917844b892d3ab7cd79dfaf84358cefc82b9c0",
+  "validation_errors": []
+}

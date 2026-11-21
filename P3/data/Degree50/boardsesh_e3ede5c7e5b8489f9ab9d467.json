@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e3ede5c7e5b8489f9ab9d467.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "MMG",
+  "setter": "Sabo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "0DC883DE202C4B848572A0CE40942AA3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r15p1162r12p1177r12p1232r13p1288r13p1359r14p1569r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.98,
+  "ascensionist_count": 118,
+  "quality_average": 3.41,
+  "hold_fingerprint": "826df6f43fd88bfe6593d53abb618ccb9ac2dad68ac7e17cd66c17cd62766338",
+  "validation_errors": []
+}

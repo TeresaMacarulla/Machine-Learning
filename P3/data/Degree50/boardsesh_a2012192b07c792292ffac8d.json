@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a2012192b07c792292ffac8d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "motocross5",
+  "setter": "olmio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 9,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "da396e63f76e479783859449cb48c1a7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1174r12p1248r13p1253r13p1257r13p1258r13p1270r13p1300r13p1333r13p1370r13p1371r13p1392r14p1447r15p1452r15p1496r15p1503r15p1532r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9fdc9d39a55b5176e5133abf74d5c69d673eb6f84ac7163f0a3f9a255a46e0e8",
+  "validation_errors": []
+}

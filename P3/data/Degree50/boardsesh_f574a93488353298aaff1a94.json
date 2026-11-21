@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f574a93488353298aaff1a94.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "bwms crossyroad",
+  "setter": "66Luki",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "73b26e67314944ed84f3f6d4bbfc1b9b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1205r12p1208r12p1257r13p1300r13p1302r13p1308r13p1315r13p1349r13p1382r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "357f7c2d3b52c17631ca3f2bbf66ba148b9200e4d8f502834074068393dec914",
+  "validation_errors": []
+}

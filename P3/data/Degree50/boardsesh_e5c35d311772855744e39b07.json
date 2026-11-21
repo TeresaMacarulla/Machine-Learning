@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e5c35d311772855744e39b07.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "standing lion",
+  "setter": "adubsron",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "08B97FD4C3664EA0BA1E3A4604189064",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1178r12p1232r13p1234r13p1264r13p1296r13p1318r13p1347r13p1379r14p1459r15p1474r15p1504r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "edf4e4fc1850362e7d4bbe7f14581105f5ab257062e39c9eca0d05a3ef27cd95",
+  "validation_errors": []
+}

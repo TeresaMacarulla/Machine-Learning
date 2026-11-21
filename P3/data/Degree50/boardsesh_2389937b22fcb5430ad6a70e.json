@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2389937b22fcb5430ad6a70e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Time Wizard",
+  "setter": "TomKems",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "4046f4f296f24ca6bdb3eeb6edda526d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1181r12p1220r13p1252r13p1289r13p1320r13p1336r13p1390r14p1456r15p1479r15p1506r12",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "f20de6926ad043c96b0e5c21e6da6c143ffa472d2eaf6610cb0dbbfb546aacb3",
+  "validation_errors": []
+}

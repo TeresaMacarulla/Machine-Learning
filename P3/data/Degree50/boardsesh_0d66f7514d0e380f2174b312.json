@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0d66f7514d0e380f2174b312.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "hopping tracks",
+  "setter": "trackandy89",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "9F9EDCC8BB6C4CA6835916C06EBEE7DF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1082r15p1149r12p1216r13p1270r13p1287r13p1305r13p1369r13p1384r14p1454r15p1457r15p1534r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.94,
+  "ascensionist_count": 112,
+  "quality_average": 3.44,
+  "hold_fingerprint": "71db31b406e8a0b86e4c12c67a3ecbe29c8723b4159f2ffaf22819f9fe3c4e9c",
+  "validation_errors": []
+}

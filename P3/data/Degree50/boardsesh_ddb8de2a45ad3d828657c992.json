@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ddb8de2a45ad3d828657c992.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "Pirps",
+  "setter": "Ronnyesc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "A625C330664C455D9C30731F2F922753",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1187r12p1191r12p1216r13p1233r13p1265r13p1277r13p1381r14p1473r15p1491r15p1516r15",
+  "display_difficulty": 30.0,
+  "difficulty_average": 29.5,
+  "ascensionist_count": 4,
+  "quality_average": 3.75,
+  "hold_fingerprint": "8a168f6c6961299a6746fa156619560abbd16bb79a46ba6e5b78af8145af2c0c",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6d5434400ecc6170d1d80dc6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "afterparty",
+  "setter": "snador",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "92ba533162bb425f806eda699e8d5a7f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1076r15p1153r12p1214r13p1218r13p1283r13p1285r13p1333r13p1383r14p1507r12",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e92282148f6b494659b6b5979693753cb9414f66dfd13bee8a7c1db484cf9ba1",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bfce61b594e79ed8dab3a033.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "can you fit?",
+  "setter": "maxcaudle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "6006C5C2906C495AA3081F409172346F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1184r15p1197r12p1203r12p1213r13p1261r13p1315r13p1334r13p1373r13p1391r14p1497r15p1519r15p1571r15p1587r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "63901f6bba4e4a239b7f2ef7117065f031a11224600ea7b8a975835bdd3c904d",
+  "validation_errors": []
+}

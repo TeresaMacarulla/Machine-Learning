@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_26a70d1cc0fe3d02691e8aff.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "roro v4.1",
+  "setter": "XSroms38",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2e005cc2f1334eee88f6b7587361a941",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1145r15p1149r12p1250r13p1264r13p1304r13p1319r13p1325r13p1376r14p1525r15p1554r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "3ecdff7a39b2559547f59b1e7f6a41a6106b897724d80fde1200e4157a3eeae8",
+  "validation_errors": []
+}

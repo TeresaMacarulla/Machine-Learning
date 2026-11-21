@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_05dd07eb1d87182302c1b24f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "kneskade",
+  "setter": "malin.thyholdt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2D2745E8C7E2405BB5C36AFB4BE144DF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1131r15p1144r12p1199r13p1214r13p1268r13p1306r13p1340r13p1394r14p1526r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "1e3218db660b5c743de7d9a49c49ae11ecd0ef7f34c40741b13e7086886c3e65",
+  "validation_errors": []
+}

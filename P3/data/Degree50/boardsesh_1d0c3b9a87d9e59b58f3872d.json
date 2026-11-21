@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1d0c3b9a87d9e59b58f3872d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "squeeze the moment",
+  "setter": "uhhmeal",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "E6EE5C604A934D09AF91E081633FC05D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1167r12p1189r12p1258r13p1269r13p1274r13p1339r13p1388r14p1482r15p1499r15p1500r15p1525r15p1536r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "1072c5cb00ce74982439a726d6081c59fd45ce6ffeb7de862d7790c74efd05d2",
+  "validation_errors": []
+}

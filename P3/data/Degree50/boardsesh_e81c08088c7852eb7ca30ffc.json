@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e81c08088c7852eb7ca30ffc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Kilter Competition 10 new",
+  "setter": "Steil-Boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "93cf8871-54f7-498b-bf86-12b748e5b9e5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1123r12p1152r12p1447r15p1191r15p1241r13p1272r13p1533r15p1342r13p1354r13p1386r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.67,
+  "hold_fingerprint": "7e88a4616a693c50a1513cb521250ece428beee4597cbe65698b4f962c0316f9",
+  "validation_errors": []
+}

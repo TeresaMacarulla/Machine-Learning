@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dbbfa808ec98ec1974036c26.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "last move",
+  "setter": "tom.brewer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "36D73BEB00094CC982A3F23D850C4823",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1168r12p1218r13p1248r13p1315r13p1381r14p1453r15p1456r15p1503r15p1514r12p1521r15p1559r13p1577r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b62bbbda52b05ecc7d376d9b55faa81c2ef9e8d5b6643d12e04266a1afb80b59",
+  "validation_errors": []
+}

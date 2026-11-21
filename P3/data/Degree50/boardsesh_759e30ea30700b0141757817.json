@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_759e30ea30700b0141757817.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Leap of Faith",
+  "setter": "KilterStudio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "06BCBF3D7C6A4FAF842BAC14688D8659",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1169r12p1237r13p1264r13p1268r13p1333r13p1381r14p1472r15p1505r15p1511r15p1513r15p1514r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 4,
+  "quality_average": 5.0,
+  "hold_fingerprint": "7b79785fa62ba7d963f69bd57e76d87f9678d47949ecc2d725a7b60c23fd1925",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_764187428a5ec3f08bae2882.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "DDW v2",
+  "setter": "climbmaxxer67",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "d335cd56-112f-4952-a219-ed05ac78dd00",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1162r12p1227r12p1294r13p1328r15p1331r13p1353r13p1304r13p1255r15p1357r14p1395r15p1562r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "b0ea047a8fbb79772b0568e74c6b4cc83ff2856d591c12491d58605020cfd2e1",
+  "validation_errors": []
+}

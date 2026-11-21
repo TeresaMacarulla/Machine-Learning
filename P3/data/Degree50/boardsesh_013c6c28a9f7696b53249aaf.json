@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_013c6c28a9f7696b53249aaf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "latch and grab",
+  "setter": "KilterStudio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "0E01F2745D8243E39D12DDC397F18AC2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1195r13p1233r13p1272r13p1284r13p1306r13p1361r13p1393r14p1457r15p1461r15p1494r15p1503r15p1515r15p1554r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.08,
+  "ascensionist_count": 13,
+  "quality_average": 2.54,
+  "hold_fingerprint": "3dac343858e5e3ab250bbeabdd9e7239dcc21a3103b0c28db97aea3f1d4ad53a",
+  "validation_errors": []
+}

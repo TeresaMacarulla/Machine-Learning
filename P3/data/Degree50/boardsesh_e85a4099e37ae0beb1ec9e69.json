@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e85a4099e37ae0beb1ec9e69.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "bascu2",
+  "setter": "juanjovalenzuela29",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "6d67bdc2cdc44479ae7f4513413aa3d6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1146r15p1153r12p1166r15p1201r12p1235r13p1262r15p1266r13p1317r13p1334r13p1389r14p1511r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3fdbc15ecbda1c1fa519c585f3f144f0cf077e4da9d85071526555ba18ae28be",
+  "validation_errors": []
+}

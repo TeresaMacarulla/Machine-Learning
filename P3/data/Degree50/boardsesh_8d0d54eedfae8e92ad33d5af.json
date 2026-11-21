@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8d0d54eedfae8e92ad33d5af.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "The Anti Thrutch",
+  "setter": "CoastalClimbing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3FB329540FCB4E9C8DD58C30A222F99C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1136r12p1230r13p1264r13p1352r13p1381r14p1451r15p1511r15p1523r13p1542r13p1558r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "79c53ce5d3cb20e6ed86ef9c3850822d644267abf42f28ad919c073ba0bfb59b",
+  "validation_errors": []
+}

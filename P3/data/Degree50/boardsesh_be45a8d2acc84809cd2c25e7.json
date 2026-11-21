@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_be45a8d2acc84809cd2c25e7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Lick the Bean",
+  "setter": "importedbean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "266687B581D9437792214F60489378F7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1144r15p1147r12p1201r13p1217r13p1230r13p1299r13p1336r13p1383r14p1459r15p1487r15p1530r15p1551r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 5,
+  "quality_average": 2.8,
+  "hold_fingerprint": "7700fb97d7031cec89c60b4ed6a8787590e2270b4ae025b1aeba31a113fcf284",
+  "validation_errors": []
+}

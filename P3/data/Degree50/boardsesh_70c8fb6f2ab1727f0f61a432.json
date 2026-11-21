@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_70c8fb6f2ab1727f0f61a432.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Flight Simulator Stand",
+  "setter": "climb513",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 0,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "6B1C37FF5F314DC985C9968D7C2F877E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1256r12p1321r12p1385r14p1387r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "36aad415a4d02af6ec10385c774c5c7445a1838cd57db3590d44252475b615ba",
+  "validation_errors": []
+}

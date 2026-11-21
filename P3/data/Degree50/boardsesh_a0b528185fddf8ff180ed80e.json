@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a0b528185fddf8ff180ed80e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "BLUEPRINT",
+  "setter": "medvis",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 8,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "4836286cd263438da37a192b8da49e0a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1128r15p1154r15p1180r12p1182r12p1202r13p1205r15p1218r13p1240r13p1255r13p1289r15p1305r13p1321r13p1336r13p1366r14p1369r13p1383r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7625116ecea1ef06516c46d017e2adf5e787501da2265aae423689ba373ab29d",
+  "validation_errors": []
+}

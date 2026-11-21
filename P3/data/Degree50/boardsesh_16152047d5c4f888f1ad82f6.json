@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_16152047d5c4f888f1ad82f6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "eaton",
+  "setter": "nolan6619",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0EC71C8DFAF44E6EBF7DF396CD1DB32D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1139r12p1140r15p1172r12p1206r15p1221r13p1225r13p1250r15p1272r13p1301r13p1355r13p1385r14p1447r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 31,
+  "quality_average": 3.29,
+  "hold_fingerprint": "b94857eefc5e42974e82ce49c186789574652ae35a58ccb54c911f896d248007",
+  "validation_errors": []
+}

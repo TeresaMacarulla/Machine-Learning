@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1ac0fdf5b9aed030f68305e5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "climb climb",
+  "setter": "kipper kipper kipper",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "20f1ffb2-fd31-406b-90ee-24b557b0b603",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1394r14p1308r13p1536r15p1269r13p1266r12p1215r12p1494r15p1511r15p1289r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "a3e64ad57b857932d539e75064efc5948aa9b240ebb064963d21da359ac58994",
+  "validation_errors": []
+}

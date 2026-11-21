@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d1cb486470b5d9d1dc8f78f0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Theft Sandwich - 60 deg",
+  "setter": "wstkdm",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "3B5213EBE9094AA58253C02330842E29",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1181r12p1219r12p1252r13p1308r13p1341r13p1395r14p1543r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "2ddcd8c64c4439653968165db2f6289bb28ee21edc3042629b879ecb28725e11",
+  "validation_errors": []
+}

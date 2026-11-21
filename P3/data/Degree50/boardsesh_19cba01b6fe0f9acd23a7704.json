@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_19cba01b6fe0f9acd23a7704.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Speed bumps",
+  "setter": "ananassankark",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "9a77eca8cb4c45d0a5ce48d34517e666",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r12p1122r15p1184r12p1216r13p1222r13p1253r13p1302r13p1380r14p1384r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.67,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "c05e31734b038f357ab28d79552381536e9e8324ba1324ebf751dbbd03488d69",
+  "validation_errors": []
+}

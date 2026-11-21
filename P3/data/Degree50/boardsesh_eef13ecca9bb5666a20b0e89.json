@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eef13ecca9bb5666a20b0e89.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "3.47",
+  "setter": "kurt_",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "dfc141a5a50b4f6b9a185294a181e774",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1082r15p1166r12p1267r13p1269r13p1352r13p1383r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "217520f38b91a4c8db2fef6fc33d9183a8ec73e2526c8c1df3bd36c88cc58250",
+  "validation_errors": []
+}

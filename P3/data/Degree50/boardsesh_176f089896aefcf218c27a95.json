@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_176f089896aefcf218c27a95.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Parkour j2",
+  "setter": "Kaffeepause",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "f07a632e5e1d4fb492eaa610829a9bc7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1100r15p1156r12p1169r12p1236r13p1239r13p1302r13p1336r13p1355r13p1390r14p1516r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.2,
+  "hold_fingerprint": "ca98d5d35c89817d25a3e1daed984d271d211e1f096269183da790712ae9af73",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_56b2a19ac3e556a88f3bd031.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Finger crossed",
+  "setter": "JorisPcn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "05c60d9b6ddc4f82a2afd4b10e39929a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1179r12p1180r12p1266r13p1283r13p1305r13p1323r13p1361r13p1395r14p1477r15p1492r15p1503r15p1531r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4eda59e5f9ff29e5155cd9bc9931a6bb4559ab3281ccf7e04df62f2b0fb0937f",
+  "validation_errors": []
+}

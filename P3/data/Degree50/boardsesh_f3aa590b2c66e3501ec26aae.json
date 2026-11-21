@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f3aa590b2c66e3501ec26aae.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Press Du Sau!",
+  "setter": "Arne",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ee18f34a24ac43e5a114fc20bd2f61e7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1165r12p1168r12p1250r13p1262r13p1298r13p1332r13p1349r13p1386r14p1454r15p1477r15p1522r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.28,
+  "ascensionist_count": 47,
+  "quality_average": 3.45,
+  "hold_fingerprint": "4d19186cc3e5cc4414d7ef42e7b541f0ae3b9b8b90a6f67b55cafb12ab310577",
+  "validation_errors": []
+}

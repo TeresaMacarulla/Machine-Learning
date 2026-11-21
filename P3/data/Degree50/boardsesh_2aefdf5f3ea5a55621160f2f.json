@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2aefdf5f3ea5a55621160f2f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Call 911",
+  "setter": "Arthur548",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "b568819422ee47edae0b54d92cba239f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r15p1185r13p1214r12p1215r12p1257r13p1258r13p1327r13p1340r13p1386r14p1388r14p1486r15p1542r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "86e1504f248b9bb8452713d3efe9b4e060a2bfbd88f27755f8d0465ef23287a6",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5b29a894c6f806f7e28461a1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "A Young guns 1",
+  "setter": "Jeff",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "340f9741387941fd8be355c85e673eaa",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1164r13p1196r13p1201r13p1252r13p1274r13p1291r13p1344r13p1395r14p1464r15p1467r15p1476r15p1533r15p1536r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.4,
+  "hold_fingerprint": "651c3b74ae7edb4debe8ad0e1de165683154f63d820d364b2aa3305313a51eb4",
+  "validation_errors": []
+}

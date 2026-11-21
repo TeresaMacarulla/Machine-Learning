@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_81a3b1c289c20e2a263ddf79.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Flat hold effect",
+  "setter": "Vadim_Delakian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "7dd359fc-ffe6-4d7d-b6a0-8d367b4544ba",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1265r13p1249r13p1319r13p1130r12p1085r15p1196r13p1352r13p1372r14",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "783f69710e8f33295853ade694f20ff2c33e4bcaf6b65ad57a87bde63cdd2df8",
+  "validation_errors": []
+}

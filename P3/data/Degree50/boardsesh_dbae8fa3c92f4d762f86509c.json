@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dbae8fa3c92f4d762f86509c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Soldering Skin",
+  "setter": "indigang",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "7F678F0A1E9B49CAB2D403ABA2912E29",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1121r12p1172r12p1202r13p1273r13p1339r13p1394r14p1536r15p1561r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.03,
+  "ascensionist_count": 64,
+  "quality_average": 3.49,
+  "hold_fingerprint": "ed99cc1adc431e432aaeb3611de9524e18a543b6f5893130256cc31454820785",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6825d16fd443f7057633c37a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Tech Bro",
+  "setter": "scro",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "EEC78AC2009044568B7F26F1022AD123",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r15p1110r15p1147r12p1158r15p1163r12p1229r13p1245r13p1280r13p1350r13p1386r13p1390r14p1520r15p1564r15p1579r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8e125ef349c21d96b1a06148bdc3efda859085c035b66c70ccb85807b861aaa3",
+  "validation_errors": []
+}

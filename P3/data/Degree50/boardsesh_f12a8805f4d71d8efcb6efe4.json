@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f12a8805f4d71d8efcb6efe4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Openhandable",
+  "setter": "fe1ix",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "612BC934958A46D2AF2E5A7CEC5293E7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r12p1149r12p1252r13p1263r15p1336r13p1390r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.97,
+  "ascensionist_count": 413,
+  "quality_average": 3.3599999999999994,
+  "hold_fingerprint": "ce0d76611914dcea15427810fb0eedcc237e9970ece9427dd4423f320cf25493",
+  "validation_errors": []
+}

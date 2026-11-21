@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_062d734b2de2cca0e6723ca0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "body shuffle 8x12",
+  "setter": "Hen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9e64a0c6-e0c9-4540-a282-811694e02d03",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1152r12p1182r13p1250r13p1264r13p1349r13p1369r13p1391r14p1280r15p1578r15p1103r15p1512r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 2,
+  "quality_average": null,
+  "hold_fingerprint": "ffb8c0292887ff017fbccccc7426e6b9475f3d53dd4af1283c99a3849d24aaaa",
+  "validation_errors": []
+}

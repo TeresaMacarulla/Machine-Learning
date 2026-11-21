@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6e7e4c9dceaadeb4075e22cb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "malobra",
+  "setter": "bobo8a",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 10
+  },
+  "source": "boardsesh",
+  "source_uuid": "35FC0E66FDE14F5F8F0DB18C78A625DE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1104r15p1106r15p1156r15p1168r15p1169r12p1170r12p1173r15p1200r15p1205r13p1221r13p1233r15p1256r13p1257r13p1270r13p1323r13p1340r14p1452r15p1453r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "195c3802389607b5f72260fff385403af68b93f20f216cb63cc2c848b52f7290",
+  "validation_errors": []
+}

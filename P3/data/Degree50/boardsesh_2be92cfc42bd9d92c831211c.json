@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2be92cfc42bd9d92c831211c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Exit Right",
+  "setter": "Hankering_for_boards",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "d38d29a0-8984-44c9-b1be-cf54cce3c03b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1198r13p1160r12p1161r12p1220r13p1289r13p1326r13p1360r13p1395r14p1483r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "bce63bb31b37facdc35429ca7fe08f4e28b75fa5111f67b349b0bfa43eb6692b",
+  "validation_errors": []
+}

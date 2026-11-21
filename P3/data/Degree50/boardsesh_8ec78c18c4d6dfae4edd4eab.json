@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8ec78c18c4d6dfae4edd4eab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "the end of boulder \u2661",
+  "setter": "max_rav2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1fbea4adae9e4872ad31d95b9c837e0b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1187r12p1235r13p1269r13p1283r13p1335r13p1352r13p1372r14p1449r15p1472r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "e46b6179b9826be78a83e7e6c4c868bbe91674858e25006b42d65049d22d25d9",
+  "validation_errors": []
+}

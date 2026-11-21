@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d9eb1cd3ebddd4d945854ade.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "10 gigabytes",
+  "setter": "Daspiffyman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "421ce720-a18a-4dd0-8b5d-781af9bf66d2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1259r12p1257r12p1308r13p1356r13p1373r13p1385r13p1383r14p1380r14p1313r15p1535r15p1566r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 5,
+  "quality_average": 5.0,
+  "hold_fingerprint": "db2f57d3e941f51d45f567797103df520358de0673e3a1599f561038ec1e8684",
+  "validation_errors": []
+}

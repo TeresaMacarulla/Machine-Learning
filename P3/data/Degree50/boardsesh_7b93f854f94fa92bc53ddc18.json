@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b93f854f94fa92bc53ddc18.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "sepulchre",
+  "setter": "kieran_himself",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "bad9b8751b7d4b72a699d93ec5e3526d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r15p1126r12p1169r15p1180r12p1214r13p1239r15p1252r13p1270r13p1289r13p1336r13p1390r14p1457r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "677811f6042fed8551f9aa37192999ed62abc5d8b4bacde81acd14cdc354dabd",
+  "validation_errors": []
+}

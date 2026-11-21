@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ca54fac40d2ffd169b117d28.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "bloczclimb",
+  "setter": "Surya007",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "088729A97EA84D3AB19C476085E0EFE2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1167r12p1218r13p1265r15p1271r13p1320r13p1373r13p1385r14p1453r15p1455r15p1496r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9d08a72f6565f875315f15207316bd92a6e41719cd1bde308f972170d2045a83",
+  "validation_errors": []
+}

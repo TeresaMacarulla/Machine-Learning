@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8a570da1e06a59d02cd0a7ae.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "fug dis ship",
+  "setter": "kingclimbing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "DE3E205AF724426583927875003F4FB4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1155r12p1157r15p1189r13p1203r13p1271r13p1275r13p1309r13p1361r13p1395r14p1451r15p1526r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0ade81043b4ba2af37b8b8619945b7e67d7fcebbbed7615487946d152c7cf9da",
+  "validation_errors": []
+}

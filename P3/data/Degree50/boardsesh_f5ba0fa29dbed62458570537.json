@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f5ba0fa29dbed62458570537.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Air Compressor",
+  "setter": "garrettlewis",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1eca75f6-617d-49b9-aeb8-fc32867a402c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r12p1162r12p1461r15p1457r15p1209r13p1468r15p1246r13p1280r13p1301r13p1355r13p1580r15p1393r14p1392r14p1389r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 4,
+  "quality_average": 5.0,
+  "hold_fingerprint": "56fc62bf60a6171d2baf0bec28ead5cf5c519242d7367314f900732bad423671",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9e86da9dbb94c9adbc38eb84.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "bring cargo!",
+  "setter": "elias3stn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "0E672AEE5E4049E7AED4E588406A8409",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1131r12p1135r12p1149r13p1160r15p1200r13p1231r13p1281r13p1294r13p1346r13p1379r14p1456r15p1471r15p1539r15p1558r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "89548d3f1c86e5f487c6a3161e03f6bb3cbe9e0c91356bd968deac4c8be5e771",
+  "validation_errors": []
+}

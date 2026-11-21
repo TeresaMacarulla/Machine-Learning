@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_06bcd7bbf6aac977c19a61fc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "tension master",
+  "setter": "kadenkang",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "C48235AC022F45AFBFC7E071BADEF7E3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1098r12p1153r12p1201r13p1236r13p1266r13p1302r13p1304r13p1387r14p1449r15p1451r15p1504r15p1505r15p1523r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.8,
+  "ascensionist_count": 10,
+  "quality_average": 3.2,
+  "hold_fingerprint": "c717fe414eb954ce8971d36cd7ae0117e58e2095c192fa3f62568c780e0cec7c",
+  "validation_errors": []
+}

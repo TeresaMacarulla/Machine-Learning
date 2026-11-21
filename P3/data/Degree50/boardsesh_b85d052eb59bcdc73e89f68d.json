@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b85d052eb59bcdc73e89f68d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Descrimination2",
+  "setter": "sinkalot",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "f2f96526516a477ab9d2878512359fd8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1233r13p1268r13p1322r13p1390r14p1479r15p1503r12p1520r12p1539r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6da3ab510e549182e05df6d3e5f9883cc295d218d8b0090d619fbe216f6b9116",
+  "validation_errors": []
+}

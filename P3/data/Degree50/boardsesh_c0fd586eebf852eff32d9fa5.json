@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c0fd586eebf852eff32d9fa5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Lenatschinki",
+  "setter": "marvman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "B2EB3A38F9614E98A0C9775BC2196C12",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r15p1153r12p1166r12p1203r13p1250r13p1272r13p1320r13p1357r13p1390r14p1453r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "86b916f94b8b294c802f5cbb9241c511ef71faa52834f2b15f57621c910bf232",
+  "validation_errors": []
+}

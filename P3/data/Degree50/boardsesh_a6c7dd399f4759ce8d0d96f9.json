@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a6c7dd399f4759ce8d0d96f9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Faggin Aggin",
+  "setter": "HendrikHuebinger",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "644e1d68bf0b48f2a9ac944b4839cab8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r15p1141r12p1210r13p1228r13p1250r13p1299r13p1370r13p1371r13p1392r14p1504r15p1571r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "4d915ec92c8bbcc3ce83acae20140c3ec070da7635f1e409002b58e0b685997a",
+  "validation_errors": []
+}

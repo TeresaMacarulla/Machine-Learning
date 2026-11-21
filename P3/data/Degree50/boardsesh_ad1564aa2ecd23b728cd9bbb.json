@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ad1564aa2ecd23b728cd9bbb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "442",
+  "setter": "PJP",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "4BFE81091B02436AA191C57DA3DD2733",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1198r12p1236r12p1266r13p1300r13p1331r13p1384r14p1489r15p1506r15p1531r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.2,
+  "ascensionist_count": 6,
+  "quality_average": 4.2,
+  "hold_fingerprint": "1a2b9e1134120c7b10ee57b889cee064f205025dbce3013c66049fde38770fd5",
+  "validation_errors": []
+}

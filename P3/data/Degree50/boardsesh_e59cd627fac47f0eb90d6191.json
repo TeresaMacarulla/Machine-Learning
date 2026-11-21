@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e59cd627fac47f0eb90d6191.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "snake town direct",
+  "setter": "denzclimb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "94745cde61f440f9b143d57a46eabfc6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1190r12p1273r13p1324r13p1339r13p1388r14p1447r15p1482r15p1500r15p1542r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.0,
+  "hold_fingerprint": "eb3412dcd29c1a2c183a60b943d5cd5bce4655e27ad118ed5fbb3d234be89b40",
+  "validation_errors": []
+}

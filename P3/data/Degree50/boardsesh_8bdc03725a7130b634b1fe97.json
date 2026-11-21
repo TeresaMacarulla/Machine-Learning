@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8bdc03725a7130b634b1fe97.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "endless pinches",
+  "setter": "hagaraschy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "a54cf82669e64bf0b0a09aa752aefa03",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1102r12p1148r12p1186r13p1216r13p1254r13p1283r13p1285r13p1295r13p1332r13p1345r14p1453r15p1456r15p1459r15p1498r15p1502r15p1504r15p1520r15p1523r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d072329ebb799d9175b60085fd125b701fb4d7865668085d1fb512b3481bb3cd",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3b3af4e71fbae7abc99f54ed.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "ted",
+  "setter": "oliver_040809",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "56fdecda-10d5-4699-8a21-594b267f21a1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1385r14p1389r14p1234r13p1353r13p1231r15p1168r12p1166r12p1081r15p1455r15p1300r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 1.5,
+  "hold_fingerprint": "06b6f3879e8e6d982e6acf0aa48b164768f6637f6cd02387f83d897949ee12b9",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_43baec550ade0ae92c5fa9a6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "my first backstep",
+  "setter": "lando",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "b5a608a3759040a182e47c03a5b9a713",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r12p1142r15p1163r12p1215r13p1248r13p1279r13p1317r13p1368r13p1389r14p1501r15p1551r15p1560r15p1570r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "078f1e87f62ce1c45307eb14ba59306248742daa04b1e3b9aecd636800349203",
+  "validation_errors": []
+}

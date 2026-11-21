@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bfec6d7be409dd02614dff64.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "goon sesh",
+  "setter": "nathaniel_zhang",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "6DE2961CB3BB4E8BA2504AEC3638D758",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1212r12p1231r12p1297r13p1300r13p1302r13p1372r13p1393r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "6e45797e2209208d3362840a38421c9e0f19584aaf76bf50161c7d68a0b47d9f",
+  "validation_errors": []
+}

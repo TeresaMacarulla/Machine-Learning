@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a5bc84624f9722f4c3f3a470.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Dream Teamwork",
+  "setter": "christoph.braeuer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8DDE8C641B72468C8C13918FCEA291B2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1177r12p1193r12p1248r13p1286r13p1320r13p1325r13p1394r14p1483r15p1511r15p1540r13p1553r15p1563r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.97,
+  "ascensionist_count": 35,
+  "quality_average": 3.49,
+  "hold_fingerprint": "178d9ba0e02e74f35441972ac08061c12b5b97e0682a9d64d4f469150b0f5300",
+  "validation_errors": []
+}

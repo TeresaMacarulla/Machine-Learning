@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6cb61630c96333947b184523.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Mental Tension",
+  "setter": "wills",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "E38E1E4D33274CF7BFADD06C37111C08",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1151r12p1184r13p1188r12p1256r13p1288r13p1357r13p1391r14p1480r15p1542r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.85,
+  "ascensionist_count": 48,
+  "quality_average": 3.33,
+  "hold_fingerprint": "e66a73ab7ab8531fa6865bb677aade7afb77a2d9a3f2a524c56b9f0292c696a9",
+  "validation_errors": []
+}

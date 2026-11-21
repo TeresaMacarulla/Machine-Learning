@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b4184249bd634c0c63123b12.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "High DDK",
+  "setter": "SirSploob",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "E4F6B037C6774D8CB30BE48D1E2D5C46",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1115r12p1145r12p1152r15p1205r15p1231r13p1249r13p1303r13p1304r13p1356r13p1386r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "2852be18a698f60ea3597c33b8a7b40650694c4c71a27babf21514f9d0a7d022",
+  "validation_errors": []
+}

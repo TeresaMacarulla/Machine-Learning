@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_52d50378f916a49de865c07c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Metronome",
+  "setter": "TofuClimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b587a781-a6f6-4465-9980-940dc1f187b7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1215r12p1232r12p1269r13p1289r13p1511r15p1494r15p1504r15p1305r13p1359r13p1590r15p1389r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 5,
+  "quality_average": 2.25,
+  "hold_fingerprint": "9b56560ff18eea78442a6b6b6af6595fce9f8bc255deea6ea3bcf43c1a36eb37",
+  "validation_errors": []
+}

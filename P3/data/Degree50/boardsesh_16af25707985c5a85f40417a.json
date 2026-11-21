@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_16af25707985c5a85f40417a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Crimp Simpin (injured left knee)",
+  "setter": "aidanfrancis",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0E625F9EDCEC4DC9983CFE787A1C30ED",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1166r12p1237r13p1273r13p1321r13p1339r13p1388r14p1453r15p1457r15p1514r15p1532r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.67,
+  "ascensionist_count": 3,
+  "quality_average": 4.33,
+  "hold_fingerprint": "da788ce522a7fd0b9521f5df9ef52952f342fe86f4ad0ba9f96d5ef8573a3a36",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_379cec1ba48fc8f7b294f36c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "PinnaclePursuit",
+  "setter": "bouldersgallery",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "8567BF0AE76A4208B129E42DE89CEC07",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1131r15p1162r12p1163r12p1203r15p1215r13p1234r13p1237r15p1271r15p1302r13p1354r13p1387r14p1457r15p1459r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "bf5cd2c007b53361da3fd1cf518edfd7876715b2d3812b8e617fd813e6805019",
+  "validation_errors": []
+}

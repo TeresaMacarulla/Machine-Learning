@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_354b4fba7047fde9cffffb25.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "CR - Not small, strong",
+  "setter": "SwaggyDawg69",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "44cd6dec-80f8-4d11-afbc-3f6c31d201f0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1156r12p1207r13p1255r13p1106r15p1272r13p1507r15p1284r13p1213r15p1301r13p1386r14p1331r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.5,
+  "ascensionist_count": 5,
+  "quality_average": 2.5,
+  "hold_fingerprint": "2c09abe7969061edcc88feacb01e34fce6607b00e76100468d3d690b586820a0",
+  "validation_errors": []
+}

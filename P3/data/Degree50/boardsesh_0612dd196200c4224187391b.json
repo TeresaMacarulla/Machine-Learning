@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0612dd196200c4224187391b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Fedtegreve",
+  "setter": "dgot",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1B71EC7B34C8446FB7772ED3AFA9EA74",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1165r12p1198r13p1235r13p1284r13p1300r13p1331r13p1383r14p1456r15p1461r15p1503r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "d9edfd7aa4fae8ea19cca2035e1b265bf1b44e80e6fc50d80e3f0a45d7b8ef7a",
+  "validation_errors": []
+}

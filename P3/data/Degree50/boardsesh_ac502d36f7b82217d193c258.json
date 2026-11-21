@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ac502d36f7b82217d193c258.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Pueblo replica",
+  "setter": "Kwarkus",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "F75C9888653D43DCB4E6AF1E2BA83901",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1176r15p1198r13p1215r13p1267r13p1289r15p1299r13p1303r13p1353r14p1457r15p1468r15p1487r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.81,
+  "ascensionist_count": 54,
+  "quality_average": 3.46,
+  "hold_fingerprint": "c60c06b8818c43ee42d23e1f3efc2d5a695a921d7c640407a517699cf5f94ad5",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_05fdd4a2a6597f8d798318d2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Drop the biscuit",
+  "setter": "Saltho03",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3B090D02013D42B9A340EF2E31AC3681",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r12p1250r13p1269r13p1351r13p1380r14p1460r15p1484r15p1495r15p1497r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.67,
+  "hold_fingerprint": "49b708e17e4198ec01d545b580adcbcf030852bf7b8d25cd780f41c09ad94ca1",
+  "validation_errors": []
+}

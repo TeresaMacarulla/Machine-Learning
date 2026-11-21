@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c9fa9d5b937d3a3782b78575.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "glenohumeral",
+  "setter": "n8dawg",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "44AAFF0965D6486C95693EF10708F2B9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1083r15p1130r15p1149r12p1233r13p1246r13p1284r13p1317r13p1353r13p1390r14p1493r15p1520r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1d54a7fbebd375e85854df974a4e4221b83acbac8b3bebeeff00ed09c3ccd12e",
+  "validation_errors": []
+}

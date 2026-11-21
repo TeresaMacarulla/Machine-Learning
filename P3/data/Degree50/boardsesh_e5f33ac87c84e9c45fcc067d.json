@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e5f33ac87c84e9c45fcc067d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Rus Rus Hand Jam",
+  "setter": "Vanopp",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "48AB7B0872D040ECB31B6F9CFE0F358C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1200r12p1217r13p1236r12p1268r13p1306r13p1340r13p1359r13p1390r14p1478r15p1507r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5fe57bcde0414467115a7e4520197e92e98b75ca6fd085fa0434375e1e42e03f",
+  "validation_errors": []
+}

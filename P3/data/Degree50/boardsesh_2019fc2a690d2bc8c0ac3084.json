@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2019fc2a690d2bc8c0ac3084.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Skoda Octavia",
+  "setter": "midsh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "DA87D5816D4E415DAA654FAAEA8534E4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1145r15p1196r13p1216r13p1283r13p1288r13p1336r13p1391r14p1458r15p1461r15p1559r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bd122495232505317345419264b91f10ce11bfb2ef6d3cf9820f1864672efdae",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5dc22f0554caecba78271336.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Fink's Pinchy Playground",
+  "setter": "agaidus",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "db4ed49d9bbf4db6a5f850588b808432",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1075r15p1137r15p1186r12p1191r12p1206r15p1241r13p1254r13p1286r13p1291r13p1320r13p1322r13p1353r13p1388r14p1560r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "2a2d49e0dcc9db63dd97943ce233885be02903277e37bd413aaeda4f562c7b4e",
+  "validation_errors": []
+}

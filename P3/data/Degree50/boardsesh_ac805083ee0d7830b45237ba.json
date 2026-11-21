@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ac805083ee0d7830b45237ba.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "test climb 4",
+  "setter": "bscorpiio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "129a1de0-2d6f-4906-9498-3db85c06b2c7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1237r13p1272r13p1339r13p1386r14p1083r15p1080r15p1508r15p1535r15p1566r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.83,
+  "ascensionist_count": 6,
+  "quality_average": 4.5,
+  "hold_fingerprint": "a6372451b691228a26874f3477b4c663e0ae9dd10ccb897c0f0d4ca1fc78a870",
+  "validation_errors": []
+}

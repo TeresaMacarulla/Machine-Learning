@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f7e5683ae1eb8d1171ab4f86.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "autozone chicken tenders",
+  "setter": "faucets",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "6d9418d5-bf68-443c-8269-6bd304e9d75c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r12p1136r15p1128r15p1180r12p1267r13p1289r13p1307r13p1525r15p1361r13p1393r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "2ef7d68fb4d4c5ecb39f34106d518d78ffdc198bfcaaeafdc25554edc8fd6e28",
+  "validation_errors": []
+}

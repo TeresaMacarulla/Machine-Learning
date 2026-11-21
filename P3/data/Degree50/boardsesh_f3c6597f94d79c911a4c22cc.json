@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f3c6597f94d79c911a4c22cc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "insist",
+  "setter": "songjoo2012",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ef45d3c0-dd4e-4462-aa39-8335ace4e9bb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1449r15p1239r13p1236r13p1250r13p1497r15p1247r13p1335r13p1161r15p1287r15p1382r14p1349r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.67,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "c718bae53319aea487190d2158eb248c29e4f28df6c266620501c45c349022ae",
+  "validation_errors": []
+}

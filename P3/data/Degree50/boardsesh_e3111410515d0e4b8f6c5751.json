@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e3111410515d0e4b8f6c5751.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Sauna",
+  "setter": "McStfs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "a49c0820-6162-4888-b0a1-b8ac0e206788",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1455r15p1201r13p1206r13p1256r13p1500r15p1273r13p1507r15p1305r13p1338r13p1541r15p1369r13p1386r14p1532r15p1166r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 2.0,
+  "hold_fingerprint": "390fc3f8931cd6438902293cbd238c252e70d964c123545f7e404d2f62e394a1",
+  "validation_errors": []
+}

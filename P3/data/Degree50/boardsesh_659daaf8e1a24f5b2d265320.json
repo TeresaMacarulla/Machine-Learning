@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_659daaf8e1a24f5b2d265320.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "coriandolo",
+  "setter": "JacoVos12",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1c4c3688-4396-4e88-96ca-7482d50542f5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1187r13p1201r13p1269r13p1283r13p1353r13p1449r15p1470r15p1486r15p1504r15p1365r13p1556r15p1347r13p1379r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.67,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "19673c845aa5ce3f06679d75d181d0376a5d0228f804ef35e4ee76d9dd3699f2",
+  "validation_errors": []
+}

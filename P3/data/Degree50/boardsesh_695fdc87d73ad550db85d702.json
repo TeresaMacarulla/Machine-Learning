@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_695fdc87d73ad550db85d702.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Camera was off, had to sent twice",
+  "setter": "amiad1128",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "539672b5566a408e8aea61fb1f24b935",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1209r12p1210r12p1231r13p1283r13p1306r13p1372r13p1394r14p1530r15p1534r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "147a0b11afa8f6b235532772c11809196de0671da4ee11b4f9fdc569ed89fd46",
+  "validation_errors": []
+}

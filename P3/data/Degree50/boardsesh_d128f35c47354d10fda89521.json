@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d128f35c47354d10fda89521.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "puck ton",
+  "setter": "tsoddn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "63B44176AFB9413DBFDA9890ACCBE081",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1104r15p1187r12p1201r12p1256r13p1286r13p1339r13p1373r14p1496r15p1508r15p1544r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "15637b1c94426944cbd2487028848095561dbe12d38e384a586e3a52d05d36a1",
+  "validation_errors": []
+}

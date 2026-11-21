@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fd6dfd8035d6eaddcd986887.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "extra paper",
+  "setter": "Bootstraps",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "169E697775B740479038A95F245552C8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r15p1149r12p1196r13p1216r13p1246r13p1247r13p1296r13p1351r13p1385r14p1387r14p1454r15p1458r15p1519r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ea8da1b93a904e9196e3e59264beca6f686249ec2b39521f57f14655cb0aab55",
+  "validation_errors": []
+}

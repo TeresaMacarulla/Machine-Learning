@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_70398d5a8be841e8aa6aed4f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Can You Ghost Match?",
+  "setter": "sdpearce",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "B7A9903B6E2C4FEDBD9975E6198900D5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1207r12p1239r12p1308r13p1339r13p1340r13p1353r13p1385r14p1490r15p1532r15p1583r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 14,
+  "quality_average": 3.14,
+  "hold_fingerprint": "5f3501854bb8cbcccd896ce22565cfa908cd11be24f3c911457d799004c01208",
+  "validation_errors": []
+}

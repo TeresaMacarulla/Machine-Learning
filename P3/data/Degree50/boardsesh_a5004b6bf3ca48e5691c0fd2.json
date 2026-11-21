@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a5004b6bf3ca48e5691c0fd2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Pauli X Gate",
+  "setter": "Maximilius314",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "78faddaf736c4bb89e3565e66b68045c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r12p1267r13p1338r13p1385r14p1470r15p1514r12p1516r15p1543r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.83,
+  "ascensionist_count": 6,
+  "quality_average": 2.33,
+  "hold_fingerprint": "90d762ac713532868b7fba3fff7358ed536df294eecbb99e163db43a926384dc",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b9ae1b7e66d315c8122b7c12.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Kunarak",
+  "setter": "nitemoves",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "e32a2732bed44f94aff0537646492fc1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1126r12p1183r15p1214r12p1265r13p1270r13p1287r13p1359r13p1389r14p1535r15p1572r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8e93fe195af3e3d12dba4afeae74d238f0410643998581d4de9780f75adc142f",
+  "validation_errors": []
+}

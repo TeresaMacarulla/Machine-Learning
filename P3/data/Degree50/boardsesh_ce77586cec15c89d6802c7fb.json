@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ce77586cec15c89d6802c7fb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "AC-130",
+  "setter": "MichaelHafner",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "284596C5A9054228938628B182E0299C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1179r13p1246r13p1285r13p1350r13p1354r13p1388r13p1393r14p1462r15p1477r15p1506r15p1534r15p1549r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f0a90645bfbf3b0916c12d98b18ef4d8465f041f1fd29aa0c6ee93e46e024229",
+  "validation_errors": []
+}

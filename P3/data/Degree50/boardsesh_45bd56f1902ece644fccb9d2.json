@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_45bd56f1902ece644fccb9d2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "One Step Two Step Red Step Blue Step",
+  "setter": "bkbskilterboard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2EB4D38EB6244CFAB877C805FDB286A6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1146r15p1149r12p1169r12p1199r13p1219r13p1251r13p1288r13p1302r13p1356r13p1387r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.98,
+  "ascensionist_count": 857,
+  "quality_average": 3.3,
+  "hold_fingerprint": "b29d74dd3b5b56801088602c170b502ca6ab19a3314d8e83a14cf14021839665",
+  "validation_errors": []
+}

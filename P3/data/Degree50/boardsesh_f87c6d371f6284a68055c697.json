@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f87c6d371f6284a68055c697.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Eye of the Spider",
+  "setter": "LJP",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "63ED7D6638B8471998DA60B4C5BDBB3C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1189r12p1253r12p1255r15p1305r13p1335r13p1370r13p1383r14p1518r15p1523r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.3300000000000005,
+  "hold_fingerprint": "c25d0a0322207e8cc904a9194733c340106d8f93fedbd153535ea4d2173454db",
+  "validation_errors": []
+}

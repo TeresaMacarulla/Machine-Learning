@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c5919964701888c7b8d3f82b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Phase Two.5",
+  "setter": "RCamera",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 9,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "F9F62557388442DEA83FD408F0720053",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1128r12p1161r15p1168r15p1181r15p1199r13p1204r15p1230r13p1250r13p1257r15p1269r13p1282r13p1286r13p1322r13p1339r13p1375r13p1394r14p1460r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "14b13b58da9bdcc4256631ced48345058fd706f89fb3f5395e3e58311ffc3da1",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a310f331833edd4b85dc83c6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Longdonkey",
+  "setter": "stefhansolo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "EDCA18FE6AE548628A7D289EB5752F2F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1157r15p1169r12p1188r12p1212r15p1215r13p1253r13p1300r13p1330r13p1381r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "da612b6a751e1e6ef47b3b7d5a126fedffc1420e0c502aee5b4363192430d91c",
+  "validation_errors": []
+}

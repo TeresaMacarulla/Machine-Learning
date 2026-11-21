@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_27a4d443eece355bc4ead3d1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "puncher",
+  "setter": "forestfox98",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "54E1A7942E42458A830CA75F9D7FAC65",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1137r15p1145r15p1149r12p1214r12p1234r13p1239r13p1255r13p1324r13p1336r13p1356r13p1387r14p1509r15p1515r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "fab225b8e2f12ffd9fe3909560e1e98086a3c4ddc4c093b9ba141e3fe334572a",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_36afacbb491fee175128e112.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Bloctopus#m50",
+  "setter": "samuel.faulstich",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "D95A0149C15647148D956E41C692B3FA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1119r12p1157r12p1248r13p1250r13p1252r13p1257r13p1272r15p1292r15p1334r13p1387r14p1451r15p1521r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.79,
+  "ascensionist_count": 140,
+  "quality_average": 3.71,
+  "hold_fingerprint": "c9c30c14056a240b5c6fadb0b756e10d76c8008aa8bf94719ebd35b03f406fd5",
+  "validation_errors": []
+}

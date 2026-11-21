@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_96e07dd2f2dac8372c3a154b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Footless 4",
+  "setter": "Fichteltobi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "58c426420f144be99bce0e8fe7c74f0c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1198r12p1236r12p1284r13p1303r13p1353r13p1356r13p1388r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e66c634f2c5b9920b25763776c5c592e25a7f1aa1fa5f469e31ce0c0ef357843",
+  "validation_errors": []
+}

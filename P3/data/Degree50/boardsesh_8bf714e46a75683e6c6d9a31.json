@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8bf714e46a75683e6c6d9a31.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Square fans",
+  "setter": "indeblo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "dbd7d7c403804a28bed411ed2d8129b5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1178r12p1183r15p1212r15p1233r12p1262r13p1300r13p1365r13p1386r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "20b69834126fc8732833c19edd7905fb711e7fdf9b85fb70a0a5458c372231c1",
+  "validation_errors": []
+}

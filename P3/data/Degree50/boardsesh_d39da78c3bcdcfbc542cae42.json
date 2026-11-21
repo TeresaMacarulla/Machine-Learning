@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d39da78c3bcdcfbc542cae42.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "high feet & small box",
+  "setter": "jchongsend",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "93c32328-4067-436e-9bc9-0365b9d0f9f0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1253r13p1300r13p1317r13p1346r13p1379r14p1201r13p1189r12p1136r12p1471r15p1166r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.67,
+  "hold_fingerprint": "b82dfab8c23f8aab1c4ff790607667d1ab388a94bbe6ad0b13dd205df7ea8f03",
+  "validation_errors": []
+}

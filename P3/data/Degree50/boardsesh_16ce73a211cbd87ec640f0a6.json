@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_16ce73a211cbd87ec640f0a6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "pico",
+  "setter": "yoti",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "94025720-3946-462c-b616-ddd505fa8b4f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1133r12p1203r13p1250r13p1287r13p1299r13p1387r14p1081r15p1084r15p1130r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.75,
+  "ascensionist_count": 5,
+  "quality_average": 4.75,
+  "hold_fingerprint": "a80d6c94aaa2e4e9581e7f9f00904ee29c9648cd2494a127ece4a41f5b9ce8bd",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0389da8ff83025b2669aff3a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Match start",
+  "setter": "Jesus1327",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "a748832a2a764f7986722e1fa1a3ac34",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1171r12p1220r13p1236r13p1267r13p1304r13p1336r13p1389r14p1598r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "d4a10e4d06d742dd95bc18e80c2ae9c4d090b3709299a8ab768987971c54fd3b",
+  "validation_errors": []
+}

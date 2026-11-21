@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a7f0aae41662e0e74290a57c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Gooba Gaba(tap start)",
+  "setter": "V8climber",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "a6c972a4-b010-48a4-a25c-5351a43b1d9f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1163r12p1231r13p1284r13p1315r13p1465r12p1521r15p1352r13p1371r13p1312r15p1567r15p1390r13p1395r14p1572r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 5,
+  "quality_average": 4.5,
+  "hold_fingerprint": "7d570856a5752a09de818cf981c9c016ca9b3db3cd45ec5bb6d0d9b5b6a44398",
+  "validation_errors": []
+}

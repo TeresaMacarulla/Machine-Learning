@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4c1a1102ea10100cf3bb9653.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Spectervision",
+  "setter": "Cullenbrown92",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "ccf441200b7d499ea785554f0981db1c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1083r15p1131r15p1149r12p1200r15p1203r13p1206r13p1257r13p1273r13p1305r13p1390r14p1478r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "d8d6f6c2690ac9ee08657ac65d078c58f17617389c4395042bbdff9781e910ad",
+  "validation_errors": []
+}

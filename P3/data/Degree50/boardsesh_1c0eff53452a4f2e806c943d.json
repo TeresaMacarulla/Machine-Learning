@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1c0eff53452a4f2e806c943d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Cockwork",
+  "setter": "blou1805",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "70d49a8f5c924fa0a99868a1ff95b68d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r12p1163r12p1214r13p1234r13p1268r13p1283r13p1336r13p1356r13p1391r14p1455r15p1568r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "67b7215c52bd2656264ebf1c4de9d599ddd81bdc42618ad92252798cf9aacf49",
+  "validation_errors": []
+}

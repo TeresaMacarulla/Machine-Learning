@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8af8380e64b49390d7bc7286.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "cleaner tank",
+  "setter": "fletchgrantham",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "dff1397d863e489b9947b0b7fce6bd85",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r12p1203r12p1250r13p1285r13p1315r13p1386r14p1471r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 14,
+  "quality_average": 3.21,
+  "hold_fingerprint": "7d6166bd53e0bd809747cd6010b7cadd8b3cd077df45f8ecc9f5ab43de716731",
+  "validation_errors": []
+}

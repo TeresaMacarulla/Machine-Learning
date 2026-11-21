@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4f3b9cc7c450d2413285be8a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Draino",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "38DB8B56FD6245C79F7E31C99E65AFB0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1161r12p1167r13p1232r13p1238r13p1318r13p1368r13p1390r14p1454r15p1458r15p1506r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.91,
+  "ascensionist_count": 47,
+  "quality_average": 3.22,
+  "hold_fingerprint": "fe10a0254aa3cac565fd713639a5fba03b2b7c87f0ff1d8774552b949c9456d6",
+  "validation_errors": []
+}

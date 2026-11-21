@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_27f09f716b9c5253d1fb4708.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "post sesh pintsching",
+  "setter": "brene",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "bd120914746c40daa6656303097edbfe",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1228r13p1233r15p1282r13p1295r13p1332r13p1379r14p1460r15p1465r12p1504r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "15e4817cebe1f231a6ca6c82dba9518cbf20f311c9c2aba5e3dc3462de54fe3c",
+  "validation_errors": []
+}

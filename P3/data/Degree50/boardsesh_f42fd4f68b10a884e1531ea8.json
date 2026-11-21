@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f42fd4f68b10a884e1531ea8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "A Death in the Afternoon",
+  "setter": "yevyevquest",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "74562FFCA99F465EAAD7BC8C9630F3C4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1163r12p1177r12p1245r15p1246r13p1296r13p1351r13p1368r13p1389r14p1528r15p1537r15p1588r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.5,
+  "hold_fingerprint": "640d602a215294ac04d558d787459dcd2cfb1d00ab34eff9167a07fb6f620a64",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6e75bb47c0d8b63abfbd5c99.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Lukas\u2019 6B",
+  "setter": "Phips",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "20B63CD3DE474EDBB9DF4DD4E230FC59",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r12p1216r13p1249r13p1271r13p1287r13p1291r13p1359r14p1470r15p1488r15p1507r15p1525r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "57715b7047e036d5b6d8ec15576d14a3efd60bbdfea4d7dfcf6a623f857df27f",
+  "validation_errors": []
+}

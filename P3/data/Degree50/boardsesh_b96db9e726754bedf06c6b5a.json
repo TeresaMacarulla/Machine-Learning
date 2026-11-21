@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b96db9e726754bedf06c6b5a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Padanostra",
+  "setter": "serialz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "08882eefad0142418e321c452fce4d24",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1140r15p1141r15p1143r12p1169r15p1223r13p1247r13p1252r13p1267r13p1308r13p1377r13p1387r14p1391r13p1464r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.0,
+  "hold_fingerprint": "848696449747cbe275a21b413c9978dac31fda43a6bdd205fd618c41358e08d7",
+  "validation_errors": []
+}

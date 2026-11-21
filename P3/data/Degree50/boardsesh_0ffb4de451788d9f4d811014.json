@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0ffb4de451788d9f4d811014.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Rattlesnake road",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F157E6B877FE478BA7830A5F23EC3CA4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1163r15p1169r12p1265r13p1271r13p1286r13p1333r13p1382r14p1478r15p1521r15p1551r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.01,
+  "ascensionist_count": 473,
+  "quality_average": 3.2599999999999993,
+  "hold_fingerprint": "b25c3e4b0a0d09e57dd9060dd410a8f0916f038805a128a87b9913ad95349cd1",
+  "validation_errors": []
+}

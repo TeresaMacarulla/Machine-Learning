@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b886d5e7f89217816f0d5b2b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "glouglouter",
+  "setter": "MURUSAKI",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b6cb0e55-5a84-4852-a0ef-ebef4ab0217c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1448r15p1450r15p1252r13p1222r13p1214r15p1215r13p1511r15p1263r13p1349r13p1379r14p1540r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.5,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "8607399425797a8a72b1a7b97fe362581a59aa5fb367b770b4057125441d9bf8",
+  "validation_errors": []
+}

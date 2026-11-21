@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4e7d8922efc49e0027b190f8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "The Fun Show",
+  "setter": "Saltydogbouldering",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3c5af0e3e80c4cf398fa4227be129ab4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r12p1157r12p1163r15p1205r13p1235r13p1269r13p1299r13p1351r13p1382r14p1448r15p1482r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "5f84797f13a028d52889b6598fa7123186e5a960addf8833a8f180e97f0a88fd",
+  "validation_errors": []
+}

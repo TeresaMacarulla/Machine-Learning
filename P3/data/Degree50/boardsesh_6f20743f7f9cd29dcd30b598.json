@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6f20743f7f9cd29dcd30b598.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Log Jammer",
+  "setter": "scro",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "E585C5A7061945B98D9B05FA40A26385",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1135r12p1153r12p1221r13p1238r13p1263r15p1270r13p1284r13p1355r13p1368r13p1379r14p1383r13p1481r15p1498r15p1504r15p1507r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "2b9b647eb8842e3422ab9d0ff9e3b4e2fc9b6f4aae904bcefa3deb35ed53669f",
+  "validation_errors": []
+}

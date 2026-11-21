@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6f1432bf4f943bfda2b6590d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "carlius",
+  "setter": "Nico225",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "bee22330887c493d866fdfb53b4efbb7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1217r13p1234r13p1270r13p1290r13p1341r13p1394r14p1455r15p1469r15p1496r15p1513r15p1515r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "a9107edf4662a7a4b3f435d3b9c7a3d29ddcf529b389ab13d22c4560e68bf9ee",
+  "validation_errors": []
+}

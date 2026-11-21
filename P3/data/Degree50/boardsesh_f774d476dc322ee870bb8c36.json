@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f774d476dc322ee870bb8c36.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "syatay",
+  "setter": "climbcentral",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "11763D78CCDA4190880AC8221700504F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1145r12p1200r13p1248r13p1302r13p1371r13p1393r14p1460r15p1462r15p1590r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.07,
+  "ascensionist_count": 15,
+  "quality_average": 3.53,
+  "hold_fingerprint": "976732337364fd4a1faeb86c5cae5b73f531e08172bf9aacbe665d01b4db434e",
+  "validation_errors": []
+}

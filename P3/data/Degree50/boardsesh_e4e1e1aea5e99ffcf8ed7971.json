@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e4e1e1aea5e99ffcf8ed7971.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "shoulda warming",
+  "setter": "vmarciano",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0FD23FCAA34043898EC732DA6CE3EBCC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1149r12p1167r12p1204r15p1213r15p1233r13p1284r13p1353r13p1392r14p1561r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4a0b72a5264520d3fab0f827d7ca18fa9c5d43028e3e58f73c03c7b30a36762e",
+  "validation_errors": []
+}

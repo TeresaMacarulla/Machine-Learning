@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e94d67f748794b776c0dde0d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "actual v4...",
+  "setter": "rbailey",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "21d96741-a25d-4407-8f36-5729e869741d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1143r12p1229r13p1233r13p1279r13p1347r13p1379r14p1465r15p1510r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 4,
+  "quality_average": 2.5,
+  "hold_fingerprint": "082790251b679b29a690b2ed4a714cff5468bffb96c10d6115844f611699631a",
+  "validation_errors": []
+}

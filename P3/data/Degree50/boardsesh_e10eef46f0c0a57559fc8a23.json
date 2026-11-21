@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e10eef46f0c0a57559fc8a23.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "platonic_morphospace",
+  "setter": "hammymac",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "BEFAA22EA3DC4ABAB2F741F18DEA84AE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1177r12p1182r12p1264r13p1268r13p1273r13p1279r13p1379r14p1503r15",
+  "display_difficulty": 30.0,
+  "difficulty_average": 29.96,
+  "ascensionist_count": 29,
+  "quality_average": 3.7,
+  "hold_fingerprint": "a8d9e1d48c6674b93278f5daf95ede1b976f4d0a704b550c79ec057e3536f7e6",
+  "validation_errors": []
+}

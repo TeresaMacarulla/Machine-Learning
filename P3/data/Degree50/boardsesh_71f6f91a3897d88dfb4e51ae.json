@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_71f6f91a3897d88dfb4e51ae.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "spanny",
+  "setter": "GregBP",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "69F57DD391414A159153E014147ED11E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1154r15p1155r12p1156r12p1212r15p1221r13p1244r15p1252r13p1302r13p1331r13p1387r14p1448r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 20,
+  "quality_average": 3.4200000000000004,
+  "hold_fingerprint": "54df1b1f60f296780777702dca51573a220103717dce423da535a63470597c8f",
+  "validation_errors": []
+}

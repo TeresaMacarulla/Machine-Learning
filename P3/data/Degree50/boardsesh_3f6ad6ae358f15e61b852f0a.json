@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3f6ad6ae358f15e61b852f0a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "fist bump",
+  "setter": "bobby1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "028A187290404A0FB56C697EAAA1F98B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1146r12p1151r15p1161r12p1182r15p1216r13p1237r15p1250r13p1271r13p1319r13p1357r13p1375r13p1392r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 3,
+  "quality_average": 4.5,
+  "hold_fingerprint": "a211a67cfbe9c890dbdc01193f9c5721822091cf5aff915e672dcad2ed235831",
+  "validation_errors": []
+}

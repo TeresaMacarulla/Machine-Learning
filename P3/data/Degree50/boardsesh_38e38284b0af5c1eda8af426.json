@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_38e38284b0af5c1eda8af426.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "handtorch alt alt",
+  "setter": "cdoe1450",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1C42D0142E8D4711936A4062AB490DED",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1150r12p1183r12p1184r13p1238r13p1286r13p1320r13p1351r13p1386r14p1548r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "2655bc88a00149b3c6fd5f27c6a0f7d13607c650d120ec6d19afa20746589d2c",
+  "validation_errors": []
+}

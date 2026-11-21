@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_adc0f2d5fc9802bda916bdb2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Spiral of Death",
+  "setter": "Pjottr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2bbee521a9b945b7abee675b006f07c5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1217r13p1218r13p1253r13p1304r13p1321r13p1352r13p1364r13p1379r14p1495r15p1497r15p1511r12p1544r15p1546r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b76f5321e257d78f6406b6afdd011b22838b1a39c3e4f683119ec7a9aea60152",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_32a13e9d7cc0715749a27044.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "trone 3.6",
+  "setter": "im.nobody",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "17D89527D69F47A9BA90ECF626AB40F6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1134r12p1180r13p1235r13p1253r13p1276r13p1343r13p1360r13p1371r13p1386r14p1517r15p1554r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a6d5a8594cce41a2a77d2f192cf2e40a083b34864970a647ab71800e8fad46da",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8c0dad5163b4feba437e6beb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "hopp into zigzag",
+  "setter": "Flipspeter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "69E2614BCF1F4E2F99E9686427C31547",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r12p1166r12p1201r13p1254r13p1284r13p1335r13p1383r14p1499r15p1551r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 13,
+  "quality_average": 3.62,
+  "hold_fingerprint": "688498da32df9821dc32ffabc952e9e79a73bf94fdfdffcd25a97fc93389ca27",
+  "validation_errors": []
+}

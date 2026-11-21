@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_03a65cff0a854d7b9afb9580.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "culebrilla",
+  "setter": "ilegalalien",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "4e268803abaf4b1f90d62bfe38dac8b0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1144r12p1195r13p1247r13p1249r13p1274r15p1302r13p1304r13p1389r14p1464r15p1466r15p1501r15p1521r15p1533r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "032436828feb511f46022fcfd6e4133d66d90c53f4acec9a78cb9ae263ead360",
+  "validation_errors": []
+}

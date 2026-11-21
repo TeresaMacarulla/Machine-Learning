@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_60eff8f004be1fd132196167.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "full send it",
+  "setter": "bubblo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "B57268E0C1D34C2E814BE419D711DB45",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1163r12p1200r15p1215r13p1234r13p1302r13p1350r13p1386r14p1455r15p1458r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.97,
+  "ascensionist_count": 3714,
+  "quality_average": 3.290113177041229,
+  "hold_fingerprint": "b404296dfe877748a1e01c7504a22b589bd8f6c32fc28911c61027f58e363d2e",
+  "validation_errors": []
+}

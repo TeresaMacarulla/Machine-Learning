@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cc061a3fc1d4932a81cae081.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "hausens house",
+  "setter": "tofu22111",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1dc9f373bf234c299da7f1b358a37ca2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1082r15p1131r12p1133r12p1183r13p1198r13p1234r13p1268r13p1335r13p1387r14p1495r15p1551r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9e50b3ae30a3247979eb59473483cf98cbbafb7c9259b1cdfb9cf0e14b7d7f63",
+  "validation_errors": []
+}

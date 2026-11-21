@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4e0fa885a8e1c3f82d1e1263.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "flaunsight",
+  "setter": "adamcweaver39",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "32E21F94713E4B598FBCD3812C82CF30",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r12p1168r12p1206r13p1239r13p1304r13p1307r13p1370r13p1383r14p1451r15p1455r15p1524r15p1532r15p1568r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "eb117ac420bed08e9036e632f1cf92258bf2207008893217493621c7e85021b8",
+  "validation_errors": []
+}

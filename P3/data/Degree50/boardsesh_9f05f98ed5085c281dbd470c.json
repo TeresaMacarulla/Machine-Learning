@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9f05f98ed5085c281dbd470c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "4Eth",
+  "setter": "StraightDanglin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "F1945F3AF3B84C5E9395108D191EB38E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1089r15p1143r12p1192r13p1247r13p1295r13p1318r13p1350r13p1390r14p1485r15p1501r15p1532r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1a869fc1a40ad1dd0d4961f0cb27435aa2079a41377233751db8e2cece9d8e0c",
+  "validation_errors": []
+}

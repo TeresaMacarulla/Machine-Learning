@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a7f931b46fdbaf446f61d7ca.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Playbot Resurgence",
+  "setter": "StevenStruggles",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "d6f54f6b9dda43f1953472da2452dc79",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1215r12p1252r13p1321r13p1359r14p1476r15p1533r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "d2550edab2cd48194bfde90ccbfe75162b9f014cbd4ba425768cea8799f0ff56",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_071426477d1eadccebddf117.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "wheel your schoulder",
+  "setter": "Rens",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0bfcad37-fba4-4761-b260-cbc7b818c19c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1129r12p1463r15p1460r15p1181r13p1228r13p1501r15p1318r13p1264r13p1391r14p1372r13p1248r13p1351r13p1551r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "abdc84cc45f5fbe639b1efcb6f20847c07fd7ca046b504691ea1305ac728055c",
+  "validation_errors": []
+}

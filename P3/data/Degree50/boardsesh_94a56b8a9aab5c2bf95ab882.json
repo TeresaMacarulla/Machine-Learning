@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_94a56b8a9aab5c2bf95ab882.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "wEdge",
+  "setter": "dchang",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8052860FF33E4CF1BB847AF46443808D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1138r12p1204r13p1233r13p1316r13p1339r13p1392r14p1447r15p1500r15p1508r15p1596r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "0a5f3bf5d21bf30b2051e7e334fd396c3d55b8935fb15d482d600477b9365bc0",
+  "validation_errors": []
+}

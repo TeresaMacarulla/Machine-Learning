@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f45d6a78707175d030629fbe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "dollex",
+  "setter": "nils.frey",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "2e94a5c62c014002bf5f1208f7114017",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1205r12p1272r13p1319r13p1387r14p1500r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "94f4f4c89d5eadb58021a70a50948380e7471664be6c8c443107c267ca04f2e2",
+  "validation_errors": []
+}

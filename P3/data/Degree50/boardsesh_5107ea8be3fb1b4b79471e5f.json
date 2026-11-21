@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5107ea8be3fb1b4b79471e5f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Dokoe",
+  "setter": "jakemcneely",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "8145B2A82EA64863966FB7594627F642",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r12p1188r12p1222r13p1235r13p1300r13p1382r14p1498r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a262a62876418537562b2e2655154540ae05e8b5089e7b3a4fba97d8a784edfe",
+  "validation_errors": []
+}

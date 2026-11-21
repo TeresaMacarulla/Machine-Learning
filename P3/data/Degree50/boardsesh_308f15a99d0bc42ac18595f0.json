@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_308f15a99d0bc42ac18595f0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "small-box",
+  "setter": "Phips",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7330F8E4DD41476DB80FFCBEDD637003",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1182r13p1200r13p1212r13p1264r13p1265r13p1314r13p1345r13p1379r14p1456r15p1486r15p1537r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3bc6f43530ece0bd11525c911d6f2eb059653cbddb48b5239ef881e658e87527",
+  "validation_errors": []
+}

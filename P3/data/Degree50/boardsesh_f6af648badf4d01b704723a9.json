@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f6af648badf4d01b704723a9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "[t\u00f6l] Other Hand",
+  "setter": "Maxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "3284B08B11184F2EBC6FCD133D06784C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1128r12p1150r15p1193r13p1215r13p1231r13p1253r13p1301r13p1315r13p1366r13p1379r14p1457r15p1460r15p1466r15p1494r15p1529r15p1538r15p1555r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.96,
+  "ascensionist_count": 54,
+  "quality_average": 3.59,
+  "hold_fingerprint": "17fbad753eab0ff410f3ce71d9a2ac1b0ad5d033c256e7b552ac9bb8adf57c69",
+  "validation_errors": []
+}

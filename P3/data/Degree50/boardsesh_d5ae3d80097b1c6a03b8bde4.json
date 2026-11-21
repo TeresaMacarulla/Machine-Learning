@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d5ae3d80097b1c6a03b8bde4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Button Clickin'",
+  "setter": "ozarkclimbing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "ccfb62e2c60f469abb3fef4d789c3cf5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1249r13p1265r13p1279r13p1328r13p1329r13p1379r14p1466r15p1485r15p1502r15p1504r15p1556r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "25cc0e6bee202737e37f725bfd5f7c607c410eb82e430350144637386b5f44ad",
+  "validation_errors": []
+}

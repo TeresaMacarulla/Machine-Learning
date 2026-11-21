@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_036c0c71e419252b99b0cd3b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "sugus",
+  "setter": "gianiclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "a5676ac680334861b2ae2135be1dd6b0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1142r12p1214r13p1215r13p1254r13p1284r13p1327r15p1374r13p1389r13p1395r14p1462r15p1506r15p1516r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f906bd189acb203046cdca2be5f9e971d123ebb331b2ff6dcfb3efc4abfd6624",
+  "validation_errors": []
+}

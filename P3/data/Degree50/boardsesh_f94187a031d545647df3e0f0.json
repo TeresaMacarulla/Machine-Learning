@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f94187a031d545647df3e0f0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "For Ahnsight",
+  "setter": "rocketnessa",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5344604555884E219D833F6E184E0EC7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1131r15p1214r13p1215r13p1269r13p1287r13p1301r13p1335r13p1384r14p1458r15p1461r15p1513r15p1551r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 485,
+  "quality_average": 3.36,
+  "hold_fingerprint": "6903f3f80328bd41bf2eba49b421509f9d1ca2cee0af69eed47a01fe46ce29f1",
+  "validation_errors": []
+}

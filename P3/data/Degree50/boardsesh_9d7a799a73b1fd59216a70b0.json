@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9d7a799a73b1fd59216a70b0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Magische Zahlen",
+  "setter": "Daoud",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "98e048f4539b465b89b5ff1aa3147f15",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1127r15p1150r12p1198r12p1212r13p1233r13p1280r13p1297r13p1345r13p1379r14p1495r15p1556r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.86,
+  "hold_fingerprint": "9c6a15eef9cc96caab6a607493b0d8c0be1ab39337a271a1e19efdaea3c32688",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b823eea74367c121441bb61.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Pato ladeado",
+  "setter": "Miguelo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "decf1026bcb0461fbbe1ee9df583396d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1180r13p1214r13p1218r13p1239r15p1285r13p1295r13p1301r13p1347r13p1379r14p1461r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "918c199484ecc793ef957c8a084dafa718905d1a962390db0871f62f43331caf",
+  "validation_errors": []
+}

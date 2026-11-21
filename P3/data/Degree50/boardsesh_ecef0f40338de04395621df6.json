@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ecef0f40338de04395621df6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "koz ez 3",
+  "setter": "kozrum",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "6a88509558de4bd8b50493ecfccccb13",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1161r12p1200r12p1248r13p1286r13p1319r13p1321r15p1356r14p1391r14p1468r15p1544r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.36,
+  "hold_fingerprint": "ed208a8ac43305355d570bc2ede79b1fd6a7051758f37b2e0def4306de17d24e",
+  "validation_errors": []
+}

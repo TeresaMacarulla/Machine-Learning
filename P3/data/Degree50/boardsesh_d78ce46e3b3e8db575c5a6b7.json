@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d78ce46e3b3e8db575c5a6b7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Stop the Ego",
+  "setter": "RavioliTriceps",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0EC4CDE01244494CB53F18A0DE2062C2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1120r15p1147r12p1153r12p1215r13p1238r13p1256r13p1266r13p1320r13p1326r13p1342r13p1395r14p1495r15p1513r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "15486b05b0cf15b1bb50648562464b9c05a1b81fd589107fd30d70970b8b4881",
+  "validation_errors": []
+}

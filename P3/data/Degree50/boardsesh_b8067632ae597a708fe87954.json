@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b8067632ae597a708fe87954.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Violation of Confidence",
+  "setter": "colton913",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 10
+  },
+  "source": "boardsesh",
+  "source_uuid": "32DBD2512EC842639CED4837F884173E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1081r15p1082r15p1149r12p1202r13p1234r13p1253r13p1302r13p1386r14p1388r14p1456r15p1469r15p1489r15p1505r15p1516r15p1540r15p1550r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2d4b8ea22ae82bea2adc26f5d17e2693e3df9c16ef6b77f0116389346f2608a5",
+  "validation_errors": []
+}

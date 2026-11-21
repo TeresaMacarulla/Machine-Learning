@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eaa80c5c9b91d98c0c016416.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "polaroid",
+  "setter": "Eunhochoisigma",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "c2aaa6f7-c259-4ac6-864b-40d2d1d7843c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1454r15p1458r15p1214r13p1267r13p1514r15p1302r13p1304r13p1221r15p1372r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "831589b08349ab84a7af8f4b74974f6d53ad7c66bfeab790af5744733116b61e",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a18097bdb7f6d04a98c2bee1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "aeropressure",
+  "setter": "zj07",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "75E25BA975B14B44B86F2A1CD9FEEF8F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1168r15p1199r15p1202r12p1215r12p1264r13p1267r13p1317r13p1347r13p1384r14p1487r15p1495r15p1502r15p1533r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "890cb4f20c81db179206b497e45903a5feee1339d28081e1e6148e7418fe0445",
+  "validation_errors": []
+}

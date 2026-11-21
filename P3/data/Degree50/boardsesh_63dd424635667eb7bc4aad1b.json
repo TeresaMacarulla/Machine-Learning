@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_63dd424635667eb7bc4aad1b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "instability direct",
+  "setter": "luukspaargaren",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4A4687AF50C44E9FA7771D3E0B43D7D1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1165r12p1187r13p1232r15p1270r13p1307r13p1392r14p1456r15p1471r15p1516r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "6a51872df52cdeae252d27156df11d74f40b9f75dd133b1323102e10321033d8",
+  "validation_errors": []
+}

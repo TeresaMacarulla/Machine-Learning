@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b4c0e36fcc4cba77d4b1f77a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Bang on",
+  "setter": "E.2.d.2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "812F50BB42984A3283032DE7BE842811",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1163r15p1210r13p1217r13p1227r13p1247r13p1281r13p1302r13p1308r15p1356r13p1392r14p1461r15p1465r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2cc61cfd6656e38763d86c9b8ba5cfd5cea7ae4bf3b63203a4706493165f6ff1",
+  "validation_errors": []
+}

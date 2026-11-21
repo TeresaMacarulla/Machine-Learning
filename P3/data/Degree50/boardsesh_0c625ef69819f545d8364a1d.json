@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0c625ef69819f545d8364a1d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Dualistics",
+  "setter": "sambayers",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "41A82C6341774EA8B221EDFCECC13602",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1140r15p1156r12p1185r13p1202r13p1269r13p1299r13p1334r13p1381r14p1450r15p1499r15p1546r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.86,
+  "ascensionist_count": 45,
+  "quality_average": 3.45,
+  "hold_fingerprint": "90976c726ba76233e5ce99a35ef9ebcd1ba51b518937af5d3761a3c061704779",
+  "validation_errors": []
+}

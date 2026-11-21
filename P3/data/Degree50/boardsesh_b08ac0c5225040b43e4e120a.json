@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b08ac0c5225040b43e4e120a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Sofa Set",
+  "setter": "Paka",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1657CC13B84A46CCA2B1F5B5E03BFD42",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1197r12p1212r15p1214r15p1235r13p1270r13p1315r13p1320r13p1383r14p1494r15p1505r15p1512r12p1576r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "56d277953572ab3fddee38334a3257025a061795e6861c04f93d0136adfa772a",
+  "validation_errors": []
+}

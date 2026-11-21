@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f949ffd3a5b1c21d6dd383db.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Burnin Up",
+  "setter": "BlakeMaclure",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "4F949F0D89944B008BA3FB762BAAF3E3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1082r15p1149r12p1182r15p1220r13p1254r13p1291r13p1344r13p1390r14p1488r15p1515r15p1527r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "199ff30b66c162fbfbac328b622be915ee6234b912fe691d03a34779b9b4910a",
+  "validation_errors": []
+}

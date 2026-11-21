@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ee894df2e955baa24d8d2fd9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Tarifs on Elon",
+  "setter": "Synkretismus",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "97ABAF904870470D94C9DE37BBAB181C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1199r13p1249r13p1265r13p1303r13p1339r13p1357r13p1388r14p1459r15p1468r15p1506r15p1534r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.93,
+  "ascensionist_count": 14,
+  "quality_average": 3.29,
+  "hold_fingerprint": "efe2bc7bc437f0fc3972a23a9efe2d6f2c14df428923e0bb41c614c684cf3bac",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6d623b71f07ee3fc8e56c848.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Anchor Up ",
+  "setter": "Tburri",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "6cd58705-fec9-4191-9acc-fe807e8e3c5d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1147r12p1457r15p1234r13p1152r15p1266r13p1163r15p1204r15p1268r13p1315r13p1530r15p1353r13p1389r14p1308r15p1271r15p1370r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.43,
+  "ascensionist_count": 9,
+  "quality_average": 4.0,
+  "hold_fingerprint": "5407d7997b1e9dd662210503976f2677af68264c0bc66c12a92c3a3492805b34",
+  "validation_errors": []
+}

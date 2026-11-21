@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0cb422b2c7a7a82c194fba97.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Kirisakura_10",
+  "setter": "milesfreak",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5696a3e0-471a-42b5-8716-fe070ad9ddd8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1228r12p1211r12p1266r13p1250r13p1304r13p1368r13p1501r15p1520r15p1534r15p1281r13p1389r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.33,
+  "ascensionist_count": 4,
+  "quality_average": 4.67,
+  "hold_fingerprint": "fc35e81bd82de907f40c456e2b2d655b03b6bed51dca2ea202450cb343e0dea4",
+  "validation_errors": []
+}

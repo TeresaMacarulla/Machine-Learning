@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ae0f9543a3eb23fae0dd7dec.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Show Me A",
+  "setter": "shiguchi1215",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "55FAC467AF4345068CBCE4AD72A7976D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r15p1151r15p1155r12p1207r13p1236r13p1271r13p1284r13p1353r14p1447r15p1482r15p1505r15p1517r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2183,
+  "quality_average": 3.25,
+  "hold_fingerprint": "9880d977a6d4c8c12b5605297a791307b7f2c450ff67e366ba254237af7e1c08",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f44a961f056bad5a3c339ad6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "La potenza",
+  "setter": "Acaste",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "26F6010651364A968DA0EC57ABD10A93",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1133r12p1144r15p1147r12p1151r15p1180r13p1200r13p1231r13p1280r13p1328r13p1331r13p1379r14p1381r14p1457r15p1510r15p1512r15p1546r15p1575r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.4,
+  "hold_fingerprint": "838c97cceeab00e9822da40e62c71e23a7bc0230361f2d8199855cd7bdf9a51b",
+  "validation_errors": []
+}

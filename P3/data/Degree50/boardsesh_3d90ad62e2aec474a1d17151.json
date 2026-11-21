@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3d90ad62e2aec474a1d17151.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Escape button",
+  "setter": "Xerat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "25b7702b7b61451f894e6747818e896f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1160r15p1235r15p1245r12p1300r13p1302r13p1340r13p1390r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5f6a2d49d7e308b825db18934adf7bb03c786b3a6980605642ca3154491ffdd4",
+  "validation_errors": []
+}

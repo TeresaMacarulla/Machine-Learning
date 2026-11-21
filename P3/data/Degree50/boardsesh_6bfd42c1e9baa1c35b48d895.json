@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6bfd42c1e9baa1c35b48d895.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Set Mensam",
+  "setter": "JohBier",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3b651019-1d26-4370-8e13-567c81c1ac58",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1155r12p1449r15p1187r13p1236r13p1266r13p1490r15p1265r13p1297r13p1161r15p1351r13p1382r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.75,
+  "ascensionist_count": 5,
+  "quality_average": 4.0,
+  "hold_fingerprint": "acc2cbc230197072e2928e408c354527a820b2dd56907ec80837dcbda545be84",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_089b5d01f6d1f6ef2e19a155.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Tough Cookie",
+  "setter": "shahar.aki",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b0b8e46a30ce4c65b7be475619a9ed66",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1095r12p1127r12p1141r15p1148r15p1198r13p1227r13p1228r13p1281r13p1330r13p1385r14p1459r15p1531r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "aff1d55890a9566a4efe850acc6b54e0b903038af18126f895ce131cba28bfd0",
+  "validation_errors": []
+}

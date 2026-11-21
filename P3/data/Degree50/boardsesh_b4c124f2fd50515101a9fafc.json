@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b4c124f2fd50515101a9fafc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "chicken burger",
+  "setter": "bordingregalias",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "afb2d238-0775-4927-8644-d25d7484df5d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1180r13p1493r15p1215r13p1302r13p1540r13p1321r13p1390r14p1533r15p1088r15p1459r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "d447a5322a7cbe41497bda37ee258ce86f0c568dbed8accc633b2b9be8cf6147",
+  "validation_errors": []
+}

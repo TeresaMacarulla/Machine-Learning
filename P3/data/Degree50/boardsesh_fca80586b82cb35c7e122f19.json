@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fca80586b82cb35c7e122f19.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "campust #3",
+  "setter": "thijs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "71D49C157C254521B36ADA07EEB3E79A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1254r12p1285r13p1291r13p1341r13p1344r13p1378r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.88,
+  "ascensionist_count": 8,
+  "quality_average": 3.5,
+  "hold_fingerprint": "2ebf8e60a6b7c0aa9e13cae9278ccacf6364707fd5051f5663d8994d02ece949",
+  "validation_errors": []
+}

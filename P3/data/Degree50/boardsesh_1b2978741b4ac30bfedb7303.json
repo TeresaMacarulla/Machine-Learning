@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1b2978741b4ac30bfedb7303.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "guarantee knee break",
+  "setter": "leon_gardner",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9c3f2145e7b646b0b4fef9b80ea02167",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1227r12p1230r12p1294r13p1331r15p1347r15p1349r13p1366r15p1371r13p1376r14p1391r13p1501r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "820d4e3f2b5b5f03c9967dfe0ec8be6762a1ac66e343213c958796d9e0be6d15",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_483d4c7466e2322d91299740.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "evie",
+  "setter": "orcen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "99E2CB43873F43C8B6BF52C0336A9262",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1149r12p1161r12p1198r13p1200r15p1219r13p1250r13p1268r13p1270r13p1301r13p1349r13p1384r14p1452r15p1457r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.13,
+  "hold_fingerprint": "bcfe4fe418d0b93b66d2d09fc523c4372af5eccaa0526e4642af1b4fc663998f",
+  "validation_errors": []
+}

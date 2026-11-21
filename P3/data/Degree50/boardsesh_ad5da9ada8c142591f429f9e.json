@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ad5da9ada8c142591f429f9e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Latdeltimus Dorsi",
+  "setter": "Crimp_king",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "bfd0897f93004207ac24b9c5fab2fcc2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1168r12p1194r15p1198r13p1267r13p1296r13p1347r13p1379r14p1457r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "47b6e146e4324b99581f467cbceca61bba0cbe4c2840df4168da9e74cadf6f25",
+  "validation_errors": []
+}

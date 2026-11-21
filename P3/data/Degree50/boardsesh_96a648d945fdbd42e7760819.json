@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_96a648d945fdbd42e7760819.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "golden shower",
+  "setter": "t.dizzle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "14256421-70d3-47e5-95b4-979a369fb8ce",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1236r13p1199r13p1168r12p1113r12p1452r15p1457r15p1302r13p1304r13p1355r13p1525r15p1390r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "961df81c407ed382317247ec4c579f042fb64c37068af8d5721f487f4af40e3f",
+  "validation_errors": []
+}

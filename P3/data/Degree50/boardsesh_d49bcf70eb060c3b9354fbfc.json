@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d49bcf70eb060c3b9354fbfc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "jug wizard",
+  "setter": "jakemcneely",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0EBD502A71094AB1A073027D42FE078C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1180r12p1199r12p1266r13p1288r13p1289r13p1357r13p1368r13p1384r14p1511r15p1557r15p1562r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "22ae3a29d04ee10e119f0b418042c7a8f8451f7b995366857b05013b9c303d8c",
+  "validation_errors": []
+}

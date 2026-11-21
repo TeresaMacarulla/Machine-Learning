@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a37dc351dcb626b0d9255c59.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Bluck Off",
+  "setter": "benij_1708",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "EC8123033B0D4F5BB5BBCADD9FC168D4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1143r12p1228r13p1249r13p1300r13p1337r13p1385r14p1461r15p1464r15p1514r15p1533r15p1558r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.17,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "46d65be7e34560d0cec6cbac10b6221d0f2198dcfc304e9e748171505a2e2472",
+  "validation_errors": []
+}

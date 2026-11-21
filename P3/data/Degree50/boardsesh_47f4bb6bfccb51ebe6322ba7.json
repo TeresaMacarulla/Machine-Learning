@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_47f4bb6bfccb51ebe6322ba7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Light Rider",
+  "setter": "notavan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "ffc8b7576cfa42d1ad934c173dfc465a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r15p1131r15p1186r15p1215r12p1228r12p1249r13p1268r13p1353r13p1380r14p1383r14p1513r15p1566r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "7e8027da14f1cfca331810a591eccecb4c80bfe5a93527635e22ee6a5f8dcf95",
+  "validation_errors": []
+}

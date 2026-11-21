@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7dcd419403a39245785f845a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "leroy",
+  "setter": "stubbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "8667f7ebb2444361919ce4d7f917c63e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r15p1165r15p1195r12p1200r15p1213r15p1216r12p1217r15p1233r13p1263r13p1301r13p1315r13p1367r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.29,
+  "ascensionist_count": 7,
+  "quality_average": 3.57,
+  "hold_fingerprint": "403e69f381eca07f4eb2a4c7fabcfc3d950bdbd282e7a1f082f90103aed54001",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fd2bd07ac7e8affcb2aac4a8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Game of Thrones Season 8",
+  "setter": "ewic",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "d880e270d76441fb978ea03b36bbdc5b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1161r12p1163r12p1229r13p1249r13p1283r13p1287r13p1353r13p1389r14p1457r15p1460r15p1467r15p1523r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.01,
+  "ascensionist_count": 147,
+  "quality_average": 3.38,
+  "hold_fingerprint": "2b8bc41b5ebd7ae7078909662dc357465afe5e714830bfd75daa4e5c5eee971d",
+  "validation_errors": []
+}

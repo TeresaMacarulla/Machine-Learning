@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0f0f127195e28d41392ddb1b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "something that seems to be everywhere",
+  "setter": "liam_megos17",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "61bbc608-a8f7-436d-928f-338de13f2423",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1167r12p1151r12p1203r13p1080r15p1471r15p1250r13p1287r13p1506r15p1370r13p1375r13p1395r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e422cb713996b2ec6f6c23b3559a4c1d4db6e2b84ab79539d76a93bb40100973",
+  "validation_errors": []
+}

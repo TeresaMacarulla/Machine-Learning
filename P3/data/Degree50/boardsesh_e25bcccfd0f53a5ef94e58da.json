@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e25bcccfd0f53a5ef94e58da.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Dungeon master",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "4488b9e71ede40d1a4e0fffb45ce259e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1155r12p1169r13p1181r15p1213r15p1220r13p1252r13p1269r13p1299r13p1351r13p1382r14p1449r15p1471r15p1478r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.8,
+  "ascensionist_count": 10,
+  "quality_average": 3.6,
+  "hold_fingerprint": "781091e6d4c7f1c796d3a48906920dfb53e4584f9ebba6c68e3403f8b8571b32",
+  "validation_errors": []
+}

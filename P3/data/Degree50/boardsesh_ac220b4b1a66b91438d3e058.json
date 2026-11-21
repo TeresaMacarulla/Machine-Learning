@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ac220b4b1a66b91438d3e058.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Unge med extra energi",
+  "setter": "jokobsen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "346E4BB6F9C14C2DA738DF83CF7DDAFA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1149r12p1168r12p1169r15p1183r15p1200r13p1234r13p1236r13p1269r13p1302r13p1350r14p1354r13p1387r14p1454r15p1456r15p1478r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 10,
+  "quality_average": 2.3,
+  "hold_fingerprint": "ed4f15a6314502568d2d0f0fd4ceafcd66ae234fec4e364f7d7872e1868c3e45",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ccb45584bb8086bb77247be2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Off to Camber Sands",
+  "setter": "scurville",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "DA16700EDA8E464DB132E0D7888E6561",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1145r12p1159r12p1213r13p1233r13p1283r13p1304r13p1370r13p1391r14p1458r15p1525r15p1552r15p1570r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "50955b9fab50059db4f2ca3c4a4b1ad4efc63ecace76e45d69dd1bc3d243d8d8",
+  "validation_errors": []
+}

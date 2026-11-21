@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dad63d9e3479a9600f5f2c9f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Turkish Mud Prison",
+  "setter": "demyanek",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "D785AA5B3CA8468091C1660F6C47B9EB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1171r15p1198r13p1233r13p1235r13p1271r13p1306r13p1340r13p1372r14p1460r15p1486r15p1494r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 12,
+  "quality_average": 3.36,
+  "hold_fingerprint": "e7e6a0ac2c3849646e19b456b1689aa3bd110e91f3be5bd357f735af3cacc69e",
+  "validation_errors": []
+}

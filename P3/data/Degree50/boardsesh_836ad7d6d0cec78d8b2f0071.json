@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_836ad7d6d0cec78d8b2f0071.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Reach monster",
+  "setter": "millermiloj",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "37C192F423694C5189499E82DB7E7589",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1168r15p1186r12p1257r12p1340r13p1389r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a34ae9b3f27b3a3a8812b39461f61b9d46fc32646271bb04a2468fd8d63a3438",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_512f3817370c60ac7c641691.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Hotel Iris: A novel",
+  "setter": "Laisv",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1145f5fc-33f0-4015-8079-b60a734acf08",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r13p1266r13p1302r13p1334r13p1367r13p1382r14p1470r15p1495r15p1530r15p1166r12p1468r15p1456r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "9e3c978373ab3edc0c437796f4b5eb5b4929ececc71cb23dc121708df49683ad",
+  "validation_errors": []
+}

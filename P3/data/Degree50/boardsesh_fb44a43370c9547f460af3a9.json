@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fb44a43370c9547f460af3a9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "burden of bristol not manchester",
+  "setter": "HJG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1c6fc12a-2c80-4cf5-8f22-1054a09a6211",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1157r12p1223r13p1257r13p1292r13p1450r15p1447r15p1206r15p1219r15p1340r13p1390r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 3,
+  "quality_average": null,
+  "hold_fingerprint": "4cca40eb29025028f2ce20e2375220f4ce1117b2ae9ba818aeb8d7b17bd940b6",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b785e6707d9994a8927f269d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Corner2Corner",
+  "setter": "MerlinItachi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "1f36a74284ec4e33a3a1aaf84deda295",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r12p1181r15p1223r13p1252r13p1257r13p1302r13p1331r13p1379r14p1447r12p1575r13",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "849578cc76b533b8e0c41517af4182d10320c720c7dc5762641ab618342cdae7",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bc5068701be230c0d9d39163.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Lat Rat",
+  "setter": "lillben",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b543ee7070a54e5fbd383ae5845a496a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1138r12p1139r12p1241r13p1270r13p1320r13p1351r13p1368r13p1380r14p1447r15p1472r15p1506r15p1548r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.95,
+  "ascensionist_count": 392,
+  "quality_average": 3.71,
+  "hold_fingerprint": "55a3b209cf4f0a2ae0a2f25a9008cf64e21602ac6bb3132667cf72d8f3f2fd59",
+  "validation_errors": []
+}

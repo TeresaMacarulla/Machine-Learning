@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b3abe368c6060bfb7c9b51be.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "rhino repair",
+  "setter": "sirbingbong",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "4AF4E0921563482AB19BE68E6F381D0E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1113r15p1175r12p1214r13p1234r15p1247r13p1268r13p1320r13p1336r13p1355r13p1374r13p1394r14p1464r15p1504r15p1506r15p1511r12p1552r15p1572r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e74a513dd30a499f83ca63fd924b2bad4b1a7c98144d8525df1f8c0677ce706a",
+  "validation_errors": []
+}

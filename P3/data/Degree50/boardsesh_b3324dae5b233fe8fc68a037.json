@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b3324dae5b233fe8fc68a037.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "pulley friendly",
+  "setter": "trissemisse",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "40df79a34f67494681dfbb93bf4ceb1c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1151r15p1234r13p1239r12p1304r13p1329r13p1334r13p1351r13p1379r14p1547r15p1555r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "861aa37ebf2316495a1a87e92a0465b0ef051c3943a02583617db6ea264734e2",
+  "validation_errors": []
+}

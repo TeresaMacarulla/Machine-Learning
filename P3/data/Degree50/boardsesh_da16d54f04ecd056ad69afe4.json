@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_da16d54f04ecd056ad69afe4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Done in a pinch",
+  "setter": "JorikSonneveld",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "dbd8d769f7a8450498335d56e8f91704",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1078r15p1140r15p1186r12p1191r12p1241r13p1254r13p1291r13p1340r13p1344r13p1393r14p1489r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "a313927f35a41e3a44b28610e8c571a1ad2f527384aea074c7bff48a2ee6327c",
+  "validation_errors": []
+}

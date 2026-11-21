@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fcb1bd6cd434cdc08962fbe3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "stacatto",
+  "setter": "Errew",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "E325E79D4E314811B12D7D16EC2DFAC1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1189r12p1217r13p1221r13p1265r13p1266r13p1332r13p1387r14p1447r15p1479r15p1486r15p1493r15p1520r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.77,
+  "ascensionist_count": 93,
+  "quality_average": 4.24,
+  "hold_fingerprint": "82724acd514a5e3225459efccca0a9c3a948138e0b68c4bb33b0c41b08e7b145",
+  "validation_errors": []
+}

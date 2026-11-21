@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a4e17c7fe439fbca7ee58501.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "hoppy ending",
+  "setter": "ianjchurch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "9577EB295E6C4893852390F345D96C67",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r12p1163r13p1216r13p1234r15p1264r13p1317r13p1387r14p1452r15p1476r12p1477r15p1511r15p1530r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5015a65de9559731769e6eb43c0d32569235cd8d056c57371a096256e5feb5f7",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1afd9ada0c83073d96eed186.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Coasting Crane",
+  "setter": "KrisBoulder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8181FED7C516461BB5B733CE8DE14A14",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1210r15p1234r13p1242r15p1256r13p1257r12p1260r14p1281r13p1283r13p1298r13p1304r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "10d0ffa09f571c99a74ae2053f80af7d5770b9f824a68002a0d22a965f53b6db",
+  "validation_errors": []
+}

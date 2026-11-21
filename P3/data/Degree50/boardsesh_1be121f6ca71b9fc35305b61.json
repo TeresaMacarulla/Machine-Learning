@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1be121f6ca71b9fc35305b61.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "PMA",
+  "setter": "NattyTrue",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "82DB73A95F904CF99738DD52A50AD965",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1212r12p1214r15p1267r13p1319r13p1391r14p1467r15p1492r15p1514r15p1521r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "2934134998d1fddc445703b9ac18363ad8f51947c35d5f2f2adf6b8064abeab6",
+  "validation_errors": []
+}

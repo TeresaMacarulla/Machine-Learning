@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_84991397124b5ba095d1a4bb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Ketmo2",
+  "setter": "keti",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 9,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "a330ec7e41db43b1beb4fd3bcd340749",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r15p1155r12p1186r13p1241r13p1254r13p1264r13p1283r13p1285r13p1291r13p1332r13p1345r13p1379r14p1473r15p1511r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.2,
+  "ascensionist_count": 11,
+  "quality_average": 3.6,
+  "hold_fingerprint": "741a9f3885c05e29f956c5b2f35e496162374954126c81f16e85377e03207602",
+  "validation_errors": []
+}

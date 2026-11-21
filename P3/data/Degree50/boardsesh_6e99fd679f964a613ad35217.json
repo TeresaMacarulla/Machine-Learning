@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6e99fd679f964a613ad35217.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Board Dynamic",
+  "setter": "ayaan.climbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "450463DB5964438A80D0DBF8BAF0EDF0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1257r12p1302r13p1309r12p1331r13p1365r13p1379r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "33ba29e1def24715cc7eb686e1cc32c968625d7168f76c3d51d58ad2a552dc4c",
+  "validation_errors": []
+}

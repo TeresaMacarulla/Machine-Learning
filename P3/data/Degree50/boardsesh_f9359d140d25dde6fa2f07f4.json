@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f9359d140d25dde6fa2f07f4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Momentus",
+  "setter": "SaxonCasi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "40c891fc8c9048759e75877389130fde",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r12p1257r12p1302r13p1308r13p1347r13p1379r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 4,
+  "quality_average": 2.0,
+  "hold_fingerprint": "d6a4c523232351df35e60a2c63236cd42fef7e3f8a8737d016b0d1a9a6a88179",
+  "validation_errors": []
+}

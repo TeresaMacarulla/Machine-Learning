@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_39d6614b95048889e12e4cac.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Bernstoff slot",
+  "setter": "brunegnu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "512AF7FF19EB46198EE094CAF253D955",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1166r12p1185r13p1269r13p1281r13p1284r13p1336r13p1383r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "b4e605fbfc5e84171bd0d943a455a457501c07b92f2669d26c63d8fa24ff818a",
+  "validation_errors": []
+}

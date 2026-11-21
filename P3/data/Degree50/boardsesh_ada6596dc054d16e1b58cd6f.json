@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ada6596dc054d16e1b58cd6f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Spindmill",
+  "setter": "Senor_Taco",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "39663f4fe980428eab1b7190c574090d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1136r12p1204r13p1256r13p1306r13p1320r13p1323r13p1353r13p1384r14p1490r15p1509r15p1567r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8cdc5c6fe1effeae62b64f8c800f937da98f7951ba2fb6b9e507f2c5789d2fd9",
+  "validation_errors": []
+}

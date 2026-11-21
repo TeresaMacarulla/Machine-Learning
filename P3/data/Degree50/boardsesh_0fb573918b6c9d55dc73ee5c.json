@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0fb573918b6c9d55dc73ee5c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "NU",
+  "setter": "FloW95",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1bc9bd10feba426ab23918260b11c39d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1159r12p1230r13p1248r13p1286r13p1325r13p1339r13p1394r14p1465r15p1530r15p1553r15p1554r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "d41063874f2d6d8673748f51aa0df85282536b6d5a101b719c66d2592a3bad11",
+  "validation_errors": []
+}

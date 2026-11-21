@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f4ad367455875410970737ad.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "fun Dyno",
+  "setter": "kitkatporty",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5CB3EEA3ED544AABA884789C716E11C5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1165r15p1232r12p1247r12p1300r13p1331r13p1380r14p1541r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.67,
+  "hold_fingerprint": "25372fbce444e5bbf1381857f0e01c0d646802cd1fd2059fbb64b3485ff182d8",
+  "validation_errors": []
+}

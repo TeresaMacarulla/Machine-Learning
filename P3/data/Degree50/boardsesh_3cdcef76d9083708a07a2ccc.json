@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3cdcef76d9083708a07a2ccc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "N E V E R",
+  "setter": "CRANK",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1070A68553F14F8FB68019CF9882076B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r12p1132r12p1187r13p1250r13p1339r13p1372r13p1392r14p1451r15p1457r15p1481r15p1486r15p1498r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 26,
+  "quality_average": 3.24,
+  "hold_fingerprint": "70fd274db4bb49f13a1b5379bdb3336387f72f359e7e65dbcebdf9c3128d36a6",
+  "validation_errors": []
+}

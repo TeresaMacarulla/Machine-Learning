@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6f6097f7c3fd8d32f859c8e4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "OAP Throw",
+  "setter": "noahwheels",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "96FC7FDF12B34F56A3FE6EAA8AE5A678",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1243r12p1260r12p1302r13p1352r13p1390r14",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.1,
+  "ascensionist_count": 10,
+  "quality_average": 3.8,
+  "hold_fingerprint": "19a7f93ffd93fa81f219f81fd3d7e73b52261ac388d81b4ee75545479c704798",
+  "validation_errors": []
+}

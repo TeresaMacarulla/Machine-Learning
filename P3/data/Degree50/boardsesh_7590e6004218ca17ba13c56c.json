@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7590e6004218ca17ba13c56c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "mechanical error",
+  "setter": "xiMaarten",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8FFF169306264ED685B4AAC36EC07DD8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1194r12p1197r12p1233r13p1282r13p1318r13p1334r13p1385r14p1465r15p1496r15p1559r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ca7144daeb961ffe357bfcd496c9afb593af11bb9d3452a922e51098cef792e0",
+  "validation_errors": []
+}

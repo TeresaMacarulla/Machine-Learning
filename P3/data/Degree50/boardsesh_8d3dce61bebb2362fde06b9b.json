@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8d3dce61bebb2362fde06b9b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Even More Scrunch",
+  "setter": "bloop",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3cd81dcf1f7a4b809f4b713ef193edb3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1123r12p1186r12p1235r13p1245r13p1285r13p1298r13p1345r14p1487r15p1516r13p1523r15p1547r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.88,
+  "ascensionist_count": 8,
+  "quality_average": 5.0,
+  "hold_fingerprint": "4452993f3d1261d0ab8f7994b615a3f6a16839615ee21a72d9ae699bea8fc119",
+  "validation_errors": []
+}

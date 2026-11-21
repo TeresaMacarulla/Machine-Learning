@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eeffe44f9632c3e75a063909.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Stop, Drop, and Roll",
+  "setter": "tonystallone",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "20AEF53AF17040A78AD2088C0026DBA4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1170r12p1202r13p1233r13p1287r13p1301r13p1386r14p1453r15p1481r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.29,
+  "hold_fingerprint": "533ad8c01f0ffa9f0a27d586b31649206ddaed1a8a0c83f9744bd892450d2061",
+  "validation_errors": []
+}

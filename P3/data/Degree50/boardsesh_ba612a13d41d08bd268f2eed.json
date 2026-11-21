@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ba612a13d41d08bd268f2eed.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "freddy crabs",
+  "setter": "nino_smets",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "dcf98b8535bd452db7904415d48a1076",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1111r15p1143r12p1177r12p1235r15p1262r13p1265r13p1318r13p1335r13p1387r14p1462r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a7582b1b6340e454eb258e02cbffa7dbfaf4098f84968ebb7cb0e732421115ed",
+  "validation_errors": []
+}

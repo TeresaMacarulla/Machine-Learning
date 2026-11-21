@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cd7e3ff74b663bec5bdd0a58.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Trueganometry",
+  "setter": "chenjy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "204e7d87-3076-41fd-9a60-5423d294396e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1101r12p1190r12p1447r15p1219r13p1182r13p1082r15p1490r15p1266r13p1318r13p1379r14p1555r15p1348r13p1349r13p1155r13p1452r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "854d94b132032bc7ec80d293c51e18f0811f85c048a3188a56d34c3072224f10",
+  "validation_errors": []
+}

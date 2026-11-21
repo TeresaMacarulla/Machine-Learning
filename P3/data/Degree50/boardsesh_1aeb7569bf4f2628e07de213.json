@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1aeb7569bf4f2628e07de213.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Rats on Novocaine",
+  "setter": "tridan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "1130573ADDA046C3AB80D8A9DCA752CB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1190r12p1199r13p1219r12p1283r13p1339r13p1390r14p1503r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.6,
+  "ascensionist_count": 5,
+  "quality_average": 3.2,
+  "hold_fingerprint": "5998c5c8a776ae3240822fc2cbecf67c0bc829f15dd67619d3748089247f5b8c",
+  "validation_errors": []
+}

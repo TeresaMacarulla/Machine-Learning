@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4382f4342857eb7faf30dad0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "cap fin",
+  "setter": "EstebanKB",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "39D81D3463A24181B8F82134CBE9EA70",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1106r15p1190r12p1239r12p1308r13p1340r13p1387r14p1391r13p1489r15p1515r15p1533r15p1541r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "1c66d36093991bcf7810835f775c2e3291152b855c1aacbba22e374ed60b33a1",
+  "validation_errors": []
+}

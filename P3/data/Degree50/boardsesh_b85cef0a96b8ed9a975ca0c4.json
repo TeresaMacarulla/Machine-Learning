@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b85cef0a96b8ed9a975ca0c4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Certainly",
+  "setter": "GirthQuake",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B247F810FFB74138BF6A7210F9B6CA41",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1198r12p1219r12p1284r13p1337r13p1387r14p1471r15p1487r15p1504r15p1514r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5550cff79c95a287406a6dd50329f710f27980c6f43c610cc9115f6d73a14b1d",
+  "validation_errors": []
+}

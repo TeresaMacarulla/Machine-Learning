@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f6b16dd3d4a8b8bccc86734a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Power Trainer",
+  "setter": "Cadsmar",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "e3cca9c379c14e8c943ba12a6cd6c25d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1155r12p1239r12p1291r13p1320r13p1357r13p1387r14p1509r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ae2e98eadbb605e72fa1928481524f20a0341154079325d34e834803d67c7381",
+  "validation_errors": []
+}

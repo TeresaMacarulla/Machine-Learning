@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aa066c0f3c7961c66854eec2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "He is the Messiah",
+  "setter": "kothari1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "67044d1e-e558-4f74-9409-1e0baf9a5884",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1210r13p1264r13p1462r15p1485r15p1266r13p1495r15p1254r13p1355r13p1386r14p1540r15p1127r12p1108r12",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 7,
+  "quality_average": 4.25,
+  "hold_fingerprint": "988b392ac1890490e78770aabb40f33c4909e348a9bd503efa30e30cd5e06f9c",
+  "validation_errors": []
+}

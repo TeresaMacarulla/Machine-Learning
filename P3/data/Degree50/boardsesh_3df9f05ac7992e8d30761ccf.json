@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3df9f05ac7992e8d30761ccf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Mini Tail",
+  "setter": "LeWaf",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "85e78813-bf39-450d-8421-39e21d78c0ea",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1187r12p1152r12p1218r13p1254r13p1077r15p1267r13p1197r15p1301r13p1386r14p1351r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.94,
+  "ascensionist_count": 25,
+  "quality_average": 4.0848,
+  "hold_fingerprint": "117ef15f452ae292b4588f2f1768be30c449e850b0879addb4f39c9eb35452e1",
+  "validation_errors": []
+}

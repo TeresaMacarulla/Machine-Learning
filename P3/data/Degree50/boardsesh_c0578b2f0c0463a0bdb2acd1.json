@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c0578b2f0c0463a0bdb2acd1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "shelter",
+  "setter": "lplatter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "220A9E491FEC42E991AD00E084239BE0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1203r12p1273r13p1287r13p1358r13p1391r14p1451r15p1514r15p1516r12",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "12677cdde966d97be0a64725f2a10bbfa7c3ee75bc77c75683a11a8820e0816d",
+  "validation_errors": []
+}

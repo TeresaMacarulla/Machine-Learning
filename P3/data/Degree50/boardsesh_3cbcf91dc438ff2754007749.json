@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3cbcf91dc438ff2754007749.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "mini monster",
+  "setter": "sharmaclimbingmadrid",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "795C96D3D0D641CF8B205FC0041486B7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1148r12p1204r15p1214r12p1252r13p1267r13p1272r13p1338r13p1357r13p1386r14p1535r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 26,
+  "quality_average": 3.58,
+  "hold_fingerprint": "088abf535da4d8b5ba248f9caf31c99bb4533ba8f71dfebaaa68be89f7d828e6",
+  "validation_errors": []
+}

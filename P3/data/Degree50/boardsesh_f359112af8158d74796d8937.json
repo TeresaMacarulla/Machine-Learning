@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f359112af8158d74796d8937.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Spray",
+  "setter": "wills",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C0CF5D81035841D7B5B37E8E34B86896",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1164r12p1167r12p1216r13p1263r13p1318r13p1385r14p1488r15p1493r15p1521r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "93e2e2cdb3621ad3ab55eda636bddfe475913aa0d0fb9c6137486d7f521c407e",
+  "validation_errors": []
+}

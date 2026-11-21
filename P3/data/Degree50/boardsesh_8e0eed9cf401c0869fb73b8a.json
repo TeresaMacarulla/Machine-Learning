@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8e0eed9cf401c0869fb73b8a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Raw fish",
+  "setter": "Timm1312",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "09d00dd9-cc6e-446f-9d73-fa4db23fd9da",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1219r12p1203r12p1284r13p1285r13p1299r13p1350r13p1363r14",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.67,
+  "ascensionist_count": 3,
+  "quality_average": 3.33,
+  "hold_fingerprint": "8cb3cebdd909d29e022ccacf4190fc15ea478e9d485737a39887e9deb1a5c271",
+  "validation_errors": []
+}

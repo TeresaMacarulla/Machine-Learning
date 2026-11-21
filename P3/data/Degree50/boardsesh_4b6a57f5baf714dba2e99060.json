@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4b6a57f5baf714dba2e99060.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Elly pi sa date",
+  "setter": "AntoineBern",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "08A5F3F605A44383987C097A2830B1E1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1140r15p1203r12p1204r12p1258r13p1270r13p1304r13p1338r13p1376r13p1393r14p1506r15p1553r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 2.67,
+  "hold_fingerprint": "cdcf3b97fd4d1410aa0088e3eb6652f57ea976ad8a44a0e138aa36eb712156a0",
+  "validation_errors": []
+}

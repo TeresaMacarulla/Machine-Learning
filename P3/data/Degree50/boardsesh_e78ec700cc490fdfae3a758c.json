@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e78ec700cc490fdfae3a758c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "No Crimps Allowed",
+  "setter": "ScottE",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "6efbd560c6324d2f91bc0d439ea87da2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r15p1182r15p1184r12p1204r12p1233r15p1235r13p1271r13p1306r13p1341r13p1372r13p1389r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.96,
+  "ascensionist_count": 5028,
+  "quality_average": 3.2406524766262184,
+  "hold_fingerprint": "aec83c0676a1c34c81b01df28c0ac9b535844fc5a2953a4105cf83bf4672bd74",
+  "validation_errors": []
+}

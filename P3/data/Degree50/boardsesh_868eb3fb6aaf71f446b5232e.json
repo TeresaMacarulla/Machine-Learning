@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_868eb3fb6aaf71f446b5232e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Density",
+  "setter": "Chater",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "47864d15141a4e9fb9e029df7aa24cfb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1177r12p1230r13p1246r13p1301r13p1339r13p1371r13p1392r14p1461r15p1483r15p1495r15p1511r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.2,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "7b9e7325eca50b37b869b848a320240eff68a33f9b4d8cb80d5085316b9f900e",
+  "validation_errors": []
+}

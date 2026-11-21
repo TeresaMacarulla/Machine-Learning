@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9a013eee5ab182cd5596fbd4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "shoulder serpent",
+  "setter": "macca_climbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "65de3a47-ef38-4f39-9990-7c3e72994502",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1268r13p1264r12p1245r12p1158r15p1163r15p1361r14p1168r15p1272r13p1308r13p1152r15p1220r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "00ea16016a02f8b324d01c5e73fd9e6fd53c7d82d769055d5b4688b6b3d8c705",
+  "validation_errors": []
+}

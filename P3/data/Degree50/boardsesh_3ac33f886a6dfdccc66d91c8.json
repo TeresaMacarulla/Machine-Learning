@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3ac33f886a6dfdccc66d91c8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Sucker Punch",
+  "setter": "Sesto",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "56FE4441DDFA41CC8F79C1B704A611B9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1088r15p1127r12p1170r15p1176r12p1182r13p1231r13p1236r13p1237r13p1258r13p1292r13p1360r13p1387r14p1391r13p1518r15p1536r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "34bb4554fc0bcc8aa6b64cd9e612783632de9fd663e3ff92f1ad4183362b6b9b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a6537853c6d2e6a28b1c3d6a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "zigger",
+  "setter": "chazhart",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7DE8FFF46A3C4FD0B938F28AE2A0739E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1128r12p1183r13p1201r13p1256r13p1286r13p1299r13p1303r13p1367r14p1460r15p1498r15p1529r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ee116258cdad80439a759de76ab80a468b7db5e57cf793b838d5ce10bff5217f",
+  "validation_errors": []
+}

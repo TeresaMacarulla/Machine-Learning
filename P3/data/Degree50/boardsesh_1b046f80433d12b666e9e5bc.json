@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1b046f80433d12b666e9e5bc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "circus trick simulator",
+  "setter": "dawggggg",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 0,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "23219AF3013C42E8BE1C6E8FF236EA93",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1252r12p1284r12p1353r14p1522r15p1524r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d6673cb4ae32fb36f60d85ad52d031224dc04aa618861edff48745df36c2fb89",
+  "validation_errors": []
+}

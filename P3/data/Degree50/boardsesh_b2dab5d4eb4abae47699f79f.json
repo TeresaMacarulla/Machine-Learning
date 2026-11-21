@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b2dab5d4eb4abae47699f79f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Countertorque",
+  "setter": "goggjust",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "81B3B12B1A0E46E3AB2738E5CB5BE54B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1156r12p1188r13p1219r13p1272r13p1306r15p1320r13p1373r13p1385r14p1447r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 13,
+  "quality_average": 3.31,
+  "hold_fingerprint": "7a88a5a0812abcaae4314bc102fcd75069fbd86a913c6ee2982fb41cb049a779",
+  "validation_errors": []
+}

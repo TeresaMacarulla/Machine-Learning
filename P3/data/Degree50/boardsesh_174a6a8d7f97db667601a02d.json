@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_174a6a8d7f97db667601a02d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "crimp+",
+  "setter": "StijnvU",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A597BEAB75AF4315B82AED25D870CD28",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1209r13p1213r13p1220r15p1263r13p1289r15p1302r13p1369r13p1390r14p1461r15p1464r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.97,
+  "ascensionist_count": 5135,
+  "quality_average": 3.390551764476506,
+  "hold_fingerprint": "9cb702a5aa856a5a9c2fd05f01200e74f133a268416c2442de5d4bc44079b8c6",
+  "validation_errors": []
+}

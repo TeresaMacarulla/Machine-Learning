@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8bf2997d94327eb5a9885ce2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "ux2",
+  "setter": "pbonamici",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "9D054A4D357A4AC09B28C80246F440FB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r13p1149r12p1250r13p1264r13p1349r13p1379r14p1522r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "8622d50f8d38796caa02bc23d6adcd76bd610cb7ebe1670a5f4c78731769fda9",
+  "validation_errors": []
+}

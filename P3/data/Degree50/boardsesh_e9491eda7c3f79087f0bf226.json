@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e9491eda7c3f79087f0bf226.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Testpilot",
+  "setter": "kany77",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "3757C757E2F348239F1912524E21C85D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1168r12p1183r12p1220r13p1256r13p1270r13p1306r13p1320r13p1356r13p1389r14p1452r15p1455r15p1480r15p1490r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.03,
+  "ascensionist_count": 257,
+  "quality_average": 3.37,
+  "hold_fingerprint": "81c45802bb93ab83641642277e7fee75cd7aa1764ee95376a916b679ded34fe4",
+  "validation_errors": []
+}

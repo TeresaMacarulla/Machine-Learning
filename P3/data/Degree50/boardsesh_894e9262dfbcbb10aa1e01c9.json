@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_894e9262dfbcbb10aa1e01c9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "3 Steps Ahead",
+  "setter": "Hazen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "98ecb9c23672482fa2303ba06d07b460",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1128r12p1166r12p1269r13p1274r13p1323r13p1372r13p1384r14p1554r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "b7a6c21a864679dd9c77d5101236ffd027ef4aa9559185dc90ad76c2252ede89",
+  "validation_errors": []
+}

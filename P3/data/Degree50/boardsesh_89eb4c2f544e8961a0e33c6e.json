@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_89eb4c2f544e8961a0e33c6e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "point sensible",
+  "setter": "pauldelal",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "CB5507F1FBFE404A96C2A1F52A416603",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1152r12p1169r12p1271r13p1272r13p1283r13p1299r13p1329r13p1379r14p1456r15p1503r15p1505r15p1520r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "4d7d95453ab35c83ebecb0237a0ff4bb15f826356b856e349f0ad11c8428e92d",
+  "validation_errors": []
+}

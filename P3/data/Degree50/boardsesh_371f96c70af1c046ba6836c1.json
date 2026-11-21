@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_371f96c70af1c046ba6836c1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Leuke dyno",
+  "setter": "JaspervanGelder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "5131969ea1c44ba28c4778434a4b0d9b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r15p1202r12p1234r12p1302r13p1315r13p1382r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.2,
+  "ascensionist_count": 10,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b96dd33920a2fdf5a90bd87a88203cf03bfc112ca628dc4264eb54771dd45c24",
+  "validation_errors": []
+}

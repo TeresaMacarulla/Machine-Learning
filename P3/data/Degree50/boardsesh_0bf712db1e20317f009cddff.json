@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0bf712db1e20317f009cddff.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Ca:8.8-10.1mg/dl",
+  "setter": "KENtyobi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8024421C49CA4A4C8E980EBC2CD0675C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r15p1130r15p1185r12p1187r12p1210r15p1235r13p1248r13p1249r13p1280r13p1314r13p1329r13p1382r14p1537r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "85935c7770b96352e2649d80e2eb1bdef224d9dfada0b011ef5c1f9b8daa55f2",
+  "validation_errors": []
+}

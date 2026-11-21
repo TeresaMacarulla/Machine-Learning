@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0a16f8b80e8a97475135b2ce.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "DAITAI 70",
+  "setter": "KENtyobi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "150D78217F76408BA24E5F5CFF42A2BB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1164r12p1185r12p1235r13p1257r13p1307r13p1321r13p1389r14p1468r15p1478r15p1489r15p1536r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 8,
+  "quality_average": 4.13,
+  "hold_fingerprint": "56fa2355afcda1ba6a4a8a719366d7d98421e94dff4c57672cf3009e46c15bbe",
+  "validation_errors": []
+}

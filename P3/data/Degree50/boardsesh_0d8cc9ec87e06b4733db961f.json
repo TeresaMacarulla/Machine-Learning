@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0d8cc9ec87e06b4733db961f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Off the Wheelbarrow",
+  "setter": "cirrities",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B21D634F550B4BE7AFA2551465DF3CD8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1161r12p1178r12p1231r13p1248r13p1302r13p1321r13p1324r13p1392r14p1461r15p1493r15p1568r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.98,
+  "ascensionist_count": 611,
+  "quality_average": 3.38,
+  "hold_fingerprint": "8c2976af93a1a1a0a458e4792173424058681a3c190d4a0abf2059da6d93ced2",
+  "validation_errors": []
+}

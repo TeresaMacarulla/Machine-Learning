@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8e5c5ff1c19fdf6b84f02a3e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "So Free",
+  "setter": "kamatovic",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "82BEF5257B2A4355B19F7B5BB9D1C8D2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1152r12p1188r12p1200r13p1234r13p1247r13p1300r13p1331r13p1384r14p1450r15p1456r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.5,
+  "hold_fingerprint": "6868b81a1c49b0d6386ef728bfb5bdaa7ae7578f81e2171386c8845e3390e160",
+  "validation_errors": []
+}

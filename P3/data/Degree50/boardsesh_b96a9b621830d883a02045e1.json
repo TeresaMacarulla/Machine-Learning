@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b96a9b621830d883a02045e1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Sleepy Gary",
+  "setter": "jwilder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "996ACB6840B84A56B3EF5FF69D5DDCAD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1105r15p1191r12p1220r15p1225r12p1255r13p1256r13p1286r13p1304r13p1371r13p1392r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.0,
+  "hold_fingerprint": "959f03f895a8e2d11f07ae150f77e1a09afafeb4ce332922b81231d48abd604f",
+  "validation_errors": []
+}

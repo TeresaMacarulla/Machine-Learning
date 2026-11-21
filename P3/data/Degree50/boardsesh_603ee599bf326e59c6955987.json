@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_603ee599bf326e59c6955987.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "long crimps",
+  "setter": "climbingmarc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "8dc48881ed7843ceaddef5766898df7c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1141r12p1194r13p1244r13p1281r13p1313r13p1351r13p1385r14p1464r15p1513r15p1541r15p1547r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.54,
+  "ascensionist_count": 25,
+  "quality_average": 3.25,
+  "hold_fingerprint": "24fa8c706b8fa2753919396769f89dfba7aace7cebc7bcb9efe7a359564eae3b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_510b46deb31e59a53f12b8d9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Pincheur",
+  "setter": "joost",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "757d65e05be14720ad178683f175c65c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1086r15p1128r12p1130r15p1133r15p1183r15p1196r13p1215r15p1216r13p1220r15p1270r15p1283r13p1285r13p1332r13p1335r13p1387r14p1529r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.86,
+  "ascensionist_count": 108,
+  "quality_average": 3.3700000000000006,
+  "hold_fingerprint": "9a1a3a2a89c750290d03f325c9c46344048dc30cc322389f7db6831d13ff4392",
+  "validation_errors": []
+}

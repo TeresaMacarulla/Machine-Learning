@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_245edc9676f2c3aece86b123.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "koha training",
+  "setter": "riquality",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1E1973692859482AA4D97EDE7731320A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1224r12p1255r13p1268r13p1270r13p1299r13p1369r13p1382r14p1491r15p1498r15p1500r15p1513r15p1529r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "c8d47a89655049fbd6564cbffee8f5211b52a8f7596ba3924fd42e61f7e92599",
+  "validation_errors": []
+}

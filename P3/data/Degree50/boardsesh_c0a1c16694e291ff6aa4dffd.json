@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c0a1c16694e291ff6aa4dffd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "The Aftermath",
+  "setter": "carsonclimbs_",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "AC9D1A9230D045ACA145ED8DE73773BE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1189r12p1239r12p1310r13p1340r13p1354r13p1358r13p1387r14p1480r15p1515r15p1527r15p1543r15p1554r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0d154ac0b9c14417755924e84bd08280c88fa2c3e0a6037b37bc8699788d7ba5",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d1e12af360f2809d88ccb59b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "a proper warmup 3",
+  "setter": "ND_climbing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9ae6588ced7f414b9e191b5a871132ad",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1155r12p1204r15p1208r15p1223r13p1240r13p1286r15p1291r13p1340r13p1391r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 7,
+  "quality_average": 4.14,
+  "hold_fingerprint": "44d29bd92713a9a7b96d72591526f275562d31692f621b9414ae986e51bd878b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b58858d42584171073b9845.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "The real jump",
+  "setter": "Martinsomolinos",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "4ad76fea72c1431fb76d4e2c669c4e90",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1192r15p1195r13p1247r13p1302r13p1353r13p1383r14p1385r14p1464r15p1501r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.25,
+  "ascensionist_count": 6,
+  "quality_average": 4.458333333333333,
+  "hold_fingerprint": "fa45797692c6b04c8ffa855da53bb0857c43e71cb16a2be65756c3d4687ff8ac",
+  "validation_errors": []
+}

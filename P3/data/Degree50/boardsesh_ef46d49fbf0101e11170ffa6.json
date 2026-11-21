@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ef46d49fbf0101e11170ffa6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Drop those Feet",
+  "setter": "FluffytheCat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5E0D88CD9F754A3A9C68533569DAA4E1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r15p1178r12p1181r12p1200r13p1217r13p1246r15p1269r13p1315r13p1317r13p1347r14p1459r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.75,
+  "hold_fingerprint": "b7327c352bd903e0482ae1906fff9b25ac277539f28299e4ed3ac00ab53de919",
+  "validation_errors": []
+}

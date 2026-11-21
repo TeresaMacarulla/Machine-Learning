@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8e27e3ba692ac944147a0ad2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "always start somewhere ",
+  "setter": "Phoenix",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "74764d3a-be41-4c34-95a8-4e3a12f09031",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1289r13p1284r13p1300r13p1331r13p1379r14p1223r13p1239r13p1186r12p1172r12",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.75,
+  "ascensionist_count": 4,
+  "quality_average": 3.25,
+  "hold_fingerprint": "de7c4d56972a3a92c948b2b1e8a3116fd9d6d210c883aa3d4c90a9d187a8c79e",
+  "validation_errors": []
+}

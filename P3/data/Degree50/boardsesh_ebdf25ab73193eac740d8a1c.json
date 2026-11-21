@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ebdf25ab73193eac740d8a1c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Osteotomy bondsman",
+  "setter": "eliot.mrs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8F736E0980EB46DBB3452A815A21FB2B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1183r15p1201r12p1239r12p1270r13p1272r13p1301r13p1334r13p1351r13p1355r13p1382r14p1471r15p1557r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 14,
+  "quality_average": 3.29,
+  "hold_fingerprint": "1f399de6c78fc781fd9431dd419b3df15256c647aed0c563d05c1ba08fadc744",
+  "validation_errors": []
+}

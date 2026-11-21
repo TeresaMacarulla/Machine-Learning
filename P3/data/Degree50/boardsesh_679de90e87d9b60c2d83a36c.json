@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_679de90e87d9b60c2d83a36c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Tension Tension 7x10 edit",
+  "setter": "hwilly",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "58f51f6414264530ac8f6b68fe0ee0ae",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r15p1178r15p1181r15p1198r12p1236r12p1246r15p1284r13p1300r13p1331r13p1384r14p1531r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 12,
+  "quality_average": 3.5,
+  "hold_fingerprint": "f0206d2344be814162facbd4300dc942c502725adea4c211e2ccdf51c1186ab2",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e3ecce2d24d7922ccf0a2578.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "flick the bean",
+  "setter": "Tobi Matthews",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "528e6b57-ad38-40b1-995f-3c49cbb8775b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1192r12p1141r15p1163r12p1279r13p1556r13p1349r13p1338r13p1320r13p1326r13p1255r15p1544r15p1395r14p1087r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 20,
+  "quality_average": 4.29,
+  "hold_fingerprint": "8a7a0055d6a7405250e619b1cdedf895d198630b2fdf902b0ec1fae0eac11f4f",
+  "validation_errors": []
+}

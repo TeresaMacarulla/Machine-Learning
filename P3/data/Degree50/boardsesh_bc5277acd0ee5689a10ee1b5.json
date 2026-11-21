@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bc5277acd0ee5689a10ee1b5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "parallax",
+  "setter": "MJ20",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "AE1CA753A04E44199348466E2B2E7669",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1081r15p1120r15p1140r15p1164r12p1185r12p1189r13p1235r13p1255r13p1285r15p1291r13p1340r13p1391r14p1509r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 23,
+  "quality_average": 3.57,
+  "hold_fingerprint": "19bed951a6278a26148bfa13054e8049032bf83ef3eb7a3893b6f83d0738abc7",
+  "validation_errors": []
+}

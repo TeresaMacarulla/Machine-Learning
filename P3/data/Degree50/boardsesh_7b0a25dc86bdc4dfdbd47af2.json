@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b0a25dc86bdc4dfdbd47af2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Kneed to drop",
+  "setter": "marijnp",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "EF414D873DD140079A346A411B21FD30",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1149r12p1163r15p1206r15p1234r13p1267r13p1270r13p1289r13p1340r13p1393r14p1454r15p1457r15p1514r15p1553r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "3aaef9ec1c7883e39d53316ef418ba26a90b8c047be6a406f398fba8b52dad8b",
+  "validation_errors": []
+}

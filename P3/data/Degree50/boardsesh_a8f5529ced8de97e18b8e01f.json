@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a8f5529ced8de97e18b8e01f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "bravas",
+  "setter": "juanitoo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0952F7AD7EC94E8A9BA657D6218D658E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r15p1187r12p1202r12p1239r13p1259r13p1327r13p1344r13p1360r14p1478r15p1518r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "355632ec438991cda7f67dbf955de680b7c77beb89a682d9aa179b002a0ce038",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dfd7c5773bbc4b8cc0b21837.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Down to the waist",
+  "setter": "joejoonkim",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3c28e8de6e0747eea9bde0d07556d16b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1163r12p1214r13p1264r13p1334r13p1385r14p1456r15p1470r15p1477r15p1520r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.96,
+  "ascensionist_count": 269,
+  "quality_average": 3.36,
+  "hold_fingerprint": "176499e8dbea50ea35bc9d3d69ba04f66f8339260cbd3120c5068d6909b6cdd7",
+  "validation_errors": []
+}

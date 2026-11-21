@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b5ee8ef1535d4727b8493bdb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Blahblah",
+  "setter": "s_mitty",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "6EA8EF1222E6468180713447809F4E2B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r15p1128r15p1151r12p1198r12p1253r13p1270r13p1305r13p1334r13p1368r13p1383r14p1516r15p1531r15p1547r15p1558r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b0500a3d7f8ef1725837838ee17ba4cceeb9b0bf5e63d01fee3e7bd32842e02c",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b80ac649e18d55beb2cf499e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "three peaters",
+  "setter": "CalumWignall",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0e9c4f2a59b146a799ac41c2b22055c4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1240r13p1270r13p1304r13p1317r13p1379r14p1383r13p1448r15p1513r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.86,
+  "hold_fingerprint": "0653db202b093310bd0effcb34a008d4ab2f1fd00eaa8b024d8ff7a190fd2bf9",
+  "validation_errors": []
+}

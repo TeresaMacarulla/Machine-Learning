@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_898db52b846e495fa29d6e5f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Controlled Rampage",
+  "setter": "whitehawk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C7234D6268EE457692167B380E6D8AB8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r15p1144r15p1164r13p1165r12p1178r12p1179r15p1235r13p1255r13p1272r13p1320r13p1353r13p1382r14p1459r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "697b1674e208b250fc2ae7c5806b6a9838069954fb96fa6ba4051da711852bc4",
+  "validation_errors": []
+}

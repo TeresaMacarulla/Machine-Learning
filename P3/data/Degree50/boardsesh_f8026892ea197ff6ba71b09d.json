@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f8026892ea197ff6ba71b09d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Hard dyno",
+  "setter": "MaxCreed",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 0,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "03564F76A3404F24B22FBD61780513F1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1198r12p1200r12p1319r14p1486r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "516e10b11df2fd27348387113464e5aef4e0358e843823986f41749f5ba0a5e7",
+  "validation_errors": []
+}

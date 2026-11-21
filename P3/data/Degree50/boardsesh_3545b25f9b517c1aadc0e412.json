@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3545b25f9b517c1aadc0e412.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "the stuck place",
+  "setter": "trackandy89",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "EA754B8D48E842B099FB5B84A7F94EA0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1134r12p1147r12p1202r13p1270r13p1307r13p1324r13p1394r14p1455r15p1487r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "98aa6eb4704eb34f2ab1378eabc8db9e44e9a6e1d21835fc2b3905b4866f8032",
+  "validation_errors": []
+}

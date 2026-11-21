@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_081b45d719ac8abddf6acc20.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Claustrophobia",
+  "setter": "3P",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "BE038D7CDBD2493F9576544AD0332E97",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1095r12p1159r12p1177r13p1198r13p1217r13p1248r13p1284r13p1306r13p1324r13p1394r14p1462r15p1465r15p1503r15p1535r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "aaa62bd4e90b962cca3e307e2421b94e538a04ff44845b9d35a5a6602b05c1ab",
+  "validation_errors": []
+}

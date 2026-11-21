@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1c0f52a7a6b5264cf01d33a2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "gnome worries",
+  "setter": "GnomeZone",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 8,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "57ce771aec8f4016893873093f129154",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1156r12p1203r15p1205r13p1231r15p1239r13p1246r15p1257r13p1289r13p1302r13p1306r13p1332r13p1336r13p1383r14p1384r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "3a577dc2a990d195a73db48b1556d9b67e33cc47853fce2a3e0b21bcc73bb7a4",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_167c74c9de7ddf05662adbd1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "proj pinch 0.1",
+  "setter": "letarte",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "333aeed16df54cbe994ca07381c94f57",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1169r15p1198r12p1216r12p1229r13p1285r13p1332r13p1384r14p1504r15p1541r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.75,
+  "ascensionist_count": 4,
+  "quality_average": 2.25,
+  "hold_fingerprint": "57d1bc95ef8d99eb4a14796f79acdbb011d37893c4747426c312f093b9dd34aa",
+  "validation_errors": []
+}

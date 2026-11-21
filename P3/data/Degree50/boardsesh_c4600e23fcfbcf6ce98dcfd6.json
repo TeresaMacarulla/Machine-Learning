@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c4600e23fcfbcf6ce98dcfd6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "over and under",
+  "setter": "RiverTulloss",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "4B0559799E5945269F4B440BD6278D69",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1144r15p1155r12p1174r12p1215r13p1239r13p1252r13p1264r13p1316r13p1346r13p1380r14p1487r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.1,
+  "ascensionist_count": 53,
+  "quality_average": 3.4699999999999998,
+  "hold_fingerprint": "1815b3e3fa1ee90b72d97d8738f646fe6aff30b6f136e327eb0d14fd04f6c28b",
+  "validation_errors": []
+}

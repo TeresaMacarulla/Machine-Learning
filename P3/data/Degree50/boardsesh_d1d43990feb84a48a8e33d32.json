@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d1d43990feb84a48a8e33d32.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "take me home",
+  "setter": "lachlan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2B65BCBCCBCA4AD7B63B9E832303F58E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1144r12p1162r12p1230r13p1235r13p1286r13p1305r13p1337r13p1338r13p1384r14p1461r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "9cf5fc53c51a0fe43101d078f2154f096d177a0d32ced117a47684e4d7f49220",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a170e39aa388cf0d71b25394.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Lily with one L",
+  "setter": "EwanB",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "3A126585E6854772859C9A011A515C9F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1097r15p1145r15p1146r15p1148r12p1163r15p1181r15p1199r12p1270r13p1307r13p1310r15p1321r13p1389r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.96,
+  "ascensionist_count": 169,
+  "quality_average": 3.48,
+  "hold_fingerprint": "ada34f9a895154930b6dae1befb05294f2f8d2ade579f752c589694a3d3e0ed5",
+  "validation_errors": []
+}

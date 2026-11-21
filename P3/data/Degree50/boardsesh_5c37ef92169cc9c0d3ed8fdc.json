@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5c37ef92169cc9c0d3ed8fdc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "BurjasHot",
+  "setter": "ArquantSiel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "CA3EB18E01E94A2CA3DB36C027D9F99D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1201r12p1222r12p1269r13p1287r13p1315r13p1386r14p1506r15p1529r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "fb855b24fafe9aded7261bd3ee30a8d88eadb4dad8bebf3300bafd1787646b67",
+  "validation_errors": []
+}

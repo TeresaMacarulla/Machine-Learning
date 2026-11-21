@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_32ce2c52ef7e06c0628fefda.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "nisei3",
+  "setter": "taisei0920",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "2BE5DA3B96AA4A81BA38E30A83F46F31",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1143r12p1144r15p1168r15p1183r15p1192r12p1214r13p1234r13p1254r13p1342r15p1353r13p1389r14p1391r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "82faf52100be497432af6c6ad3ff27d6c618a456aa584f0fec5dc96ab37009c2",
+  "validation_errors": []
+}

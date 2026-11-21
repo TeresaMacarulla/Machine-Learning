@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_55fba1c9800736ca00d115d0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Bikes!",
+  "setter": "Cuckovich",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8233B789E4B044E5A5D76739B1BA8639",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1162r12p1216r13p1264r13p1301r13p1305r13p1321r13p1358r13p1391r14p1457r15p1494r15p1523r15p1553r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.02,
+  "ascensionist_count": 53,
+  "quality_average": 3.29,
+  "hold_fingerprint": "9489f787a9d2c4c87273dc99facf097a12ff0c80e6553de89808c270247bbffb",
+  "validation_errors": []
+}

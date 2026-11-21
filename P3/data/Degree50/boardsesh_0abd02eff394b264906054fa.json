@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0abd02eff394b264906054fa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Breakfast Time V0-V1",
+  "setter": "pjferr14",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "E66BB495CA8F403A93A9E3CCA443774C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1150r12p1185r13p1198r13p1267r13p1281r13p1335r13p1384r14p1386r14p1453r15p1457r15p1469r15p1485r15p1514r15p1522r15p1541r15p1557r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.1,
+  "ascensionist_count": 10,
+  "quality_average": 3.6,
+  "hold_fingerprint": "2cb2416ded517394191063060e083357dd2c79101caf3de98df6062fd7ce94d8",
+  "validation_errors": []
+}

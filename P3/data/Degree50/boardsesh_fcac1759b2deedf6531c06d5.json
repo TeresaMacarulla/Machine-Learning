@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fcac1759b2deedf6531c06d5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "mekonium",
+  "setter": "Faustberg",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "68fa8895-8264-40fe-9dd4-6bf3fdf97079",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1095r12p1197r13p1249r13p1269r13p1320r13p1390r14p1497r15p1506r15p1457r15p1458r15p1339r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.25,
+  "ascensionist_count": 4,
+  "quality_average": 3.75,
+  "hold_fingerprint": "bec5f174609e2583c59c23ebc2051f4f39bfe875f91985ce01419827e6682d2b",
+  "validation_errors": []
+}

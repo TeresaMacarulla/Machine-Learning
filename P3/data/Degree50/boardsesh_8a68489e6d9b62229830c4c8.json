@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8a68489e6d9b62229830c4c8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Pick Up The Pace",
+  "setter": "blocshopnic",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "39AB6013FCB548878A12D5716C49EAE0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1094r12p1113r12p1167r13p1180r13p1232r13p1272r13p1287r13p1326r13p1375r13p1388r14p1479r15p1507r15p1516r15p1536r15p1550r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "528b5381fb71455da54291206c9747dcb3f5d9b18ddcc2f5ad40403c77fc131b",
+  "validation_errors": []
+}

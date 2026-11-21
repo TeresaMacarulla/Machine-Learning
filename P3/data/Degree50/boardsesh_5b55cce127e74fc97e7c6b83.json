@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5b55cce127e74fc97e7c6b83.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "nsnp",
+  "setter": "balekrymasz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "a4100b83-13ed-45a4-a479-604cf45ad4f3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1271r12p1184r12p1309r13p1509r15p1373r13p1388r14",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.67,
+  "ascensionist_count": 3,
+  "quality_average": 4.33,
+  "hold_fingerprint": "af1fffa5110f666592ab5233a62a9490eb016685bc3100701d70a708426cd0a4",
+  "validation_errors": []
+}

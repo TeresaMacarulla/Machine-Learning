@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3ebacf8d4c103abef4603c9a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "slope healing 2",
+  "setter": "bjhestet",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2EEC558C59DC4A9DA915ED668440FE9D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1171r12p1200r13p1271r13p1319r13p1335r13p1382r14p1454r15p1480r15p1505r15p1540r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.86,
+  "ascensionist_count": 58,
+  "quality_average": 3.3099999999999996,
+  "hold_fingerprint": "cdcc2d3fa42180d4775bdc45d947c00f6d6330bc839f3e440fa7a610db2668a9",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ff97d9cabdd2f7cf4337d3e7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "pin(ch) point accuracy**",
+  "setter": "Thatsprettybrad",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2E7B1CD20CF74897A01EA64EB7C5B0EE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1179r12p1200r13p1222r13p1235r13p1286r13p1290r13p1357r13p1391r14p1460r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "35a85368c58e3f998a405334674103e74b9ffa04fcc58401a222fab03fdee801",
+  "validation_errors": []
+}

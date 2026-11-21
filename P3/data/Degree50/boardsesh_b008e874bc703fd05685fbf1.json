@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b008e874bc703fd05685fbf1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Scope Creep",
+  "setter": "tristanroleff",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "16d1d6e7-38c2-40a5-a9b9-3cc13f5e2aee",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1247r13p1090r15p1192r12p1162r12p1214r13p1284r13p1234r13p1322r13p1353r13p1389r14p1391r14p1227r13p1159r15p1184r15p1286r15p1113r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "3be99a37b0661aed2b4d79b0fcf8ccd54fd1adac62acb89fa8f011fcca0470bc",
+  "validation_errors": []
+}

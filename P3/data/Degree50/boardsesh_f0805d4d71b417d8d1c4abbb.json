@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f0805d4d71b417d8d1c4abbb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "sphongle",
+  "setter": "patinaeater",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "47FB6E0498E0401D9910C7CE05DEEFA3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1154r15p1168r12p1250r13p1272r13p1283r13p1339r13p1389r14p1391r14p1455r15p1544r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.4,
+  "hold_fingerprint": "6ccd58a483e6bc3b29d43dc723e9b3ae780497d577c2a43e59a51a89d3230e86",
+  "validation_errors": []
+}

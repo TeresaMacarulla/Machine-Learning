@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f00ec6fcaa2e8438541c4e78.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Running shoes",
+  "setter": "scro",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6296B3C7986843F885108B6E6724B650",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1117r12p1152r12p1197r13p1201r13p1215r13p1218r13p1246r13p1266r15p1297r13p1312r13p1379r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "aab75e72bcc4e1f189171e3a8eaf9a79faed4091cf9c230aaf106457d63ad685",
+  "validation_errors": []
+}

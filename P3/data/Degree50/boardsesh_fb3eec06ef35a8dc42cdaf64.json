@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fb3eec06ef35a8dc42cdaf64.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "nebula",
+  "setter": "orcen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "59D0EF1829CC4B909CA4C28CE4C8345C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1154r12p1156r15p1169r12p1205r13p1219r13p1272r13p1320r13p1357r13p1387r14p1566r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6d601e4414cb501d77d8d20b0ba1a31703f8b7e5d008b7c7926ef32121eecb85",
+  "validation_errors": []
+}

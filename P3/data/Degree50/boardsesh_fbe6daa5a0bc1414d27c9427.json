@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fbe6daa5a0bc1414d27c9427.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Boredworks",
+  "setter": "wwinham",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9ff6dfb3dd204813aa45833ded21d13b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1149r12p1220r13p1234r13p1268r13p1331r13p1336r13p1347r13p1379r14p1489r15p1505r15p1558r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "80225a8a0af2a022ac5a79f9e7113fb00dbbfb29630f1f6c07f49c0d1868deaa",
+  "validation_errors": []
+}

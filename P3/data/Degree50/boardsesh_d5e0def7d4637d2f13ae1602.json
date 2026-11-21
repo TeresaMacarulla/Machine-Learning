@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d5e0def7d4637d2f13ae1602.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Vanguard",
+  "setter": "EthanHunt125",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "31b750a7157b4e67bbbade4317aa7ded",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r15p1216r13p1263r15p1283r13p1320r13p1372r14p1526r12p1542r12",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.75,
+  "ascensionist_count": 12,
+  "quality_average": 3.5,
+  "hold_fingerprint": "bc1cc0d0dcc87aebe10ac6212b837c6bd28d279dcb71d4a5c50bef4b21fd0c2c",
+  "validation_errors": []
+}

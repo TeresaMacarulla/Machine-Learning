@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_694f3f851aeacbeeff85072a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Rotonde",
+  "setter": "jorx",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "e1df8bb08307409abe26ebec4e0559d1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1149r15p1155r12p1225r13p1270r13p1286r13p1339r13p1394r14p1471r15p1489r15p1522r15p1526r15p1550r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "fe7ac8b4ae415bdbbf8889eab8564e99b75eb96d177e0437e7b7dbdef39ab8ad",
+  "validation_errors": []
+}

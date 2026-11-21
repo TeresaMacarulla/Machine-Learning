@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3081ad8a38b7c536cc84cb70.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "count to three or it doesn't count",
+  "setter": "brianclanton",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "ef7bdbb0351c42ec8236786fbac41b3b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1198r12p1202r12p1257r15p1268r13p1304r13p1372r14p1488r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "0f68fa60809fd1ab98c8e9041be9a6e7811e93ffc88adbf6d41e3e3d155550ec",
+  "validation_errors": []
+}

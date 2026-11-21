@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cc065b5a6dce27cbdb3a1970.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Kidney Stone",
+  "setter": "slopers_pinches",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "B26E4D8A79FB4970B47A663C8C62AED6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1127r12p1133r15p1163r12p1200r15p1214r13p1251r13p1268r13p1319r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 26,
+  "quality_average": 3.2800000000000002,
+  "hold_fingerprint": "591b6b23c6173ea29761f323c536759d0e033b4ab8fb144e4e13f0e9a8a4d2a1",
+  "validation_errors": []
+}

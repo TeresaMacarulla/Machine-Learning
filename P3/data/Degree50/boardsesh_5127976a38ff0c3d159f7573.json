@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5127976a38ff0c3d159f7573.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "rollover of rock",
+  "setter": "jellyfingers",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "d6249eed-7a6d-4e53-af1b-0a1984736181",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r12p1198r13p1087r15p1458r15p1236r13p1498r15p1269r13p1289r13p1339r13p1389r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 6,
+  "quality_average": 2.75,
+  "hold_fingerprint": "7ac9b07ee1c95d4b07d3ea9d1cf979a92689ec2e3034aebe4c352e7a64f314d5",
+  "validation_errors": []
+}

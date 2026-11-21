@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cd6dc60f01a108bca2b8ce4f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Vanilla",
+  "setter": "MattDog245",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "79163195-3fb0-44f8-817f-7e4222a10fa3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r12p1198r12p1457r15p1476r15p1251r13p1266r13p1319r13p1387r14p1333r13p1496r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "0a2cf9045a7b0e121d4135c45bee7315fb6f59f14a7d73dd7875c8a2514d5a88",
+  "validation_errors": []
+}

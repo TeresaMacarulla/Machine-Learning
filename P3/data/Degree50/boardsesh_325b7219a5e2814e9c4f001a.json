@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_325b7219a5e2814e9c4f001a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "shoulder gang",
+  "setter": "strongpear",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "7863FA9BE82E4218980073DCA93721EB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1179r12p1265r13p1286r13p1320r13p1325r13p1395r14p1474r15p1484r15p1515r15p1521r15p1533r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 4,
+  "quality_average": 5.0,
+  "hold_fingerprint": "1b07f5589da0c93f4ef14978c4cb0d4b2590be043a76053b18f7162d30fe3543",
+  "validation_errors": []
+}

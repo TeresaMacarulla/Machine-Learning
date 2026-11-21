@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0bdc2f57ad5c82c80bc47b38.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Tumble Dry",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "D156A227194C409990584E7D07CDC496",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1102r15p1132r12p1187r12p1269r13p1272r15p1284r13p1334r13p1368r14p1534r15p1570r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 12,
+  "quality_average": 3.5,
+  "hold_fingerprint": "892695a5b6d39146bd4e7ad3d48a420bcf5e0df7f5c3185792e17e10fc2660c5",
+  "validation_errors": []
+}

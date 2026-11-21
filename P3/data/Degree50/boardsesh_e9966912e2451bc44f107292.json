@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e9966912e2451bc44f107292.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "GOKU",
+  "setter": "Aitor131",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "81a2f371d277426b9f89414a5362eca0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1149r12p1166r12p1170r13p1204r13p1239r13p1288r13p1340r13p1353r13p1385r14p1478r15p1532r15p1565r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "c2199ac7c239a9afcfef9a317ac9ca6bc8135714197238cd4e7e923f26824ce3",
+  "validation_errors": []
+}

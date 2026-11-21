@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ac059884870d8fada353c558.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "ike",
+  "setter": "leemiho",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9AABABCBFA954FE2B9CECB0FA49F892E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1180r12p1234r13p1283r13p1304r13p1354r13p1391r14p1459r15p1504r15p1561r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.13,
+  "ascensionist_count": 11,
+  "quality_average": 4.13,
+  "hold_fingerprint": "be871eadf23d4803c2bb09b87448e7d623fb07a2beb57f6d2f4737509af759d2",
+  "validation_errors": []
+}

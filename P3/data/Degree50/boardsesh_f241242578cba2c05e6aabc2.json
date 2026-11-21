@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f241242578cba2c05e6aabc2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "apee lead circuit #2.1",
+  "setter": "ashergavin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "C29BE67E65DC4548968D428311E55314",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1143r12p1229r13p1268r13p1323r13p1339r13p1371r13p1384r14p1464r15p1504r15p1506r15p1541r15p1553r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.2,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "7c4ec4b6e38edbf25616ae5b5facfa1e7dc027f40b85bcf7a15f5cce89e10f3d",
+  "validation_errors": []
+}

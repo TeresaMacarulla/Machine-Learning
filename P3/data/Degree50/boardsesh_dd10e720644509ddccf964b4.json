@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dd10e720644509ddccf964b4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Lovely Alaska",
+  "setter": "Hazen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ecf8b21ed5684c00ac9946ec7cdb3cdf",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1142r12p1192r13p1257r15p1259r15p1260r13p1304r13p1315r13p1341r14p1347r13p1353r13p1458r15p1464r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "e18e48eccd4651596ebc802a00c3968ef0f530053e05907bbf4f518d95d9c226",
+  "validation_errors": []
+}

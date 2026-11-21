@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_540f82d491b6c2f61bbfc50b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "les jetants",
+  "setter": "magallongrasernest",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "c6a2edb5796241159c7f2162ce25b860",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1204r12p1207r12p1220r15p1308r13p1353r13p1354r13p1383r14p1481r15p1490r15p1536r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3df2eb4b3ec70d77980147aa559cdb3b049fbc30ec2285206bdcb940762c8c53",
+  "validation_errors": []
+}

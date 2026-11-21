@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8fea238a5dbd1549009a0caf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Tung",
+  "setter": "macoju",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "85BB6804B7994076AC9BC81BE5D39FB8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1168r15p1171r12p1239r13p1242r15p1291r13p1321r13p1355r13p1385r14p1451r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "30529ac0e1320c9d5f5d67b7b5004ae3b43e21fd5137c3fb5f3dd2e1aaa0a315",
+  "validation_errors": []
+}

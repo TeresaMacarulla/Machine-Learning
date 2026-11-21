@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_10c943eef8b31c75b6045b7f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Sushi Crux Simulator",
+  "setter": "maijapapaya",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "de866593-1ff6-463a-830d-7b6fd5260688",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r12p1467r15p1470r15p1469r15p1216r13p1179r13p1186r15p1267r13p1313r14p1300r13p1468r15p1235r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c01b7237682426c0f7f27d734cd7236af8ff39ed70ef21e70cc824038bed2a51",
+  "validation_errors": []
+}

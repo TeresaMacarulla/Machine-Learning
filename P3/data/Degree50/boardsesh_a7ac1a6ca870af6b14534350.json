@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a7ac1a6ca870af6b14534350.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "crosswalk",
+  "setter": "przxmvs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "92c2205363274110bd26b50d708bda66",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1154r15p1179r12p1222r13p1233r13p1235r13p1271r13p1323r13p1391r14p1460r15p1535r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ae418e542014131c93bb484c646d93c755999a4859735aa6161135b6ed04afd1",
+  "validation_errors": []
+}

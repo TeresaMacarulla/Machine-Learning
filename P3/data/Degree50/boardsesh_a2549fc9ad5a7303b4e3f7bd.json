@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a2549fc9ad5a7303b4e3f7bd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "extensor carpi radialis longus",
+  "setter": "ElCash",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "01E57439E976453595827D0D24E95677",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1151r12p1184r13p1222r13p1285r13p1339r13p1351r13p1383r14p1385r14p1571r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5b4f444b37270df875a83d04783f74638a69a4995306c0a6beec6b502993651f",
+  "validation_errors": []
+}

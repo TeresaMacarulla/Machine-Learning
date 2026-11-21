@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e08197343a7dfbb30eddddb9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "BKc01",
+  "setter": "BurgerKing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "9152e4552e984e02be44067667bf75f3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1077r15p1155r12p1157r12p1205r13p1219r13p1252r13p1300r13p1354r13p1371r13p1374r13p1375r13p1394r14p1470r15p1490r15p1495r15p1504r15p1532r15p1563r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.04,
+  "ascensionist_count": 49,
+  "quality_average": 3.47,
+  "hold_fingerprint": "52e6fe867bf2fedf381f2f4f6656e7c2eb7bf9a2c76af398ff4218039ef9628e",
+  "validation_errors": []
+}

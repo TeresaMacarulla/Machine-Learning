@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a599290d9257b0362f9e315b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "top floor barn door",
+  "setter": "ianjchurch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "CA7D33CBA9F248F9A680C51F2822B163",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r15p1128r12p1137r15p1166r12p1202r13p1218r13p1253r13p1272r13p1340r13p1389r14p1461r15p1507r15p1580r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3eb54fb94540b28c6873219107148e3998c8c71c92b41a4705352fe222328cb0",
+  "validation_errors": []
+}

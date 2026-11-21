@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4258ddf83a621d29cd6a4e7d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Rocket Boost",
+  "setter": "Hiro10",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "de23788a3cfb4b21a7ef3049646e0bb2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1115r15p1218r12p1239r12p1299r13p1302r13p1347r14p1480r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 16,
+  "quality_average": 3.27,
+  "hold_fingerprint": "40fdc753e1a948eaf56bec8b795b4986054b83fdb80b7235b8ff34228d89e135",
+  "validation_errors": []
+}

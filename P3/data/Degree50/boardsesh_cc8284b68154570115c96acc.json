@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cc8284b68154570115c96acc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "A bumby bump",
+  "setter": "Grenouillette",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "472e156205304621b8e75569bd95f248",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1187r13p1269r13p1271r13p1299r13p1384r14p1451r15p1491r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "73fb0a6c6d1315bea3049ea7a3ec6b87fd897e113e6c908258be9dec49067ba6",
+  "validation_errors": []
+}

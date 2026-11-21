@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d8356d2986fc8b7d1dfc2430.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "undertow",
+  "setter": "javigoldstein",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "B2F520112D884192966BA76A29F57D45",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1164r12p1203r13p1250r13p1305r13p1352r13p1386r14p1457r15p1468r15p1498r15p1508r15p1523r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.97,
+  "ascensionist_count": 707,
+  "quality_average": 3.37,
+  "hold_fingerprint": "695ac28d0bed5f62c5b3df1d4c8ea2d0c8fc8f517255665820b9bc7f0c548a0a",
+  "validation_errors": []
+}

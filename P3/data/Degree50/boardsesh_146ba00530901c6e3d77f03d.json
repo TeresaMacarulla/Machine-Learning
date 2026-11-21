@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_146ba00530901c6e3d77f03d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Camp Friendly Music",
+  "setter": "GirthQuake",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F1F4A52509704721837FF30FFAD8FFD5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1220r15p1231r12p1233r12p1269r13p1284r13p1304r13p1353r13p1388r14p1390r14p1504r15p1506r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.96,
+  "ascensionist_count": 25,
+  "quality_average": 3.52,
+  "hold_fingerprint": "8e8ffe1cffe03f4ddacf4cb50f9d96db2997dd7994cab8f79619ed142f2fb6c0",
+  "validation_errors": []
+}

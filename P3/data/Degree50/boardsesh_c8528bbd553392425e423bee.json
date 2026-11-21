@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c8528bbd553392425e423bee.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "The Pinch",
+  "setter": "wramser",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "108B510FDE764C3E89A150AAECBABF6D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1135r12p1216r13p1228r13p1285r13p1332r13p1387r14p1459r15p1460r15p1492r15p1506r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.86,
+  "hold_fingerprint": "5a120f94e6f5b97e30b92da528aa52889f5a8327c310b27fc53cc3b758bc0998",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8742e72a90d3875d0ffea55b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Gooner V5",
+  "setter": "jchongsends",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3C704B974F3F41F8AB61F0868C8570CC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1152r15p1198r13p1254r13p1285r13p1353r13p1385r14p1457r15p1506r15p1565r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "416b31ff32b736d58bfaceb184462dcda655b29a291dff6005f67c35fc60a632",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a1d9d9649f3fc3d0fcd54f00.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "double D",
+  "setter": "climb_cleveland",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "08CAF76697FF4F0599531739F89803BF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r15p1137r15p1149r12p1200r13p1204r15p1236r13p1284r13p1287r13p1350r13p1353r13p1386r14p1452r15p1454r15p1456r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.33,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "74752ccd316054a269b721a6e8bb1bb32bccda2c175f93a1d70fa938c5a6625c",
+  "validation_errors": []
+}

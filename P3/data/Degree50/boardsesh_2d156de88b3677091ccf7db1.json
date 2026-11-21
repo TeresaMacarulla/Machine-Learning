@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2d156de88b3677091ccf7db1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "master swing",
+  "setter": "sebastianNord",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8A73B01338A04D09AB1E49290CA756F4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1163r12p1215r13p1234r13p1302r13p1354r13p1387r14p1458r15p1462r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.66,
+  "ascensionist_count": 60,
+  "quality_average": 3.7935000000000003,
+  "hold_fingerprint": "3b1aefec22e987754483aa7c0e37a6580dc965f8bd708a2519053ca18eeeee14",
+  "validation_errors": []
+}

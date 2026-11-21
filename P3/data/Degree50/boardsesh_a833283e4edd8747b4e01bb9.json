@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a833283e4edd8747b4e01bb9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Rhythm Nation",
+  "setter": "SeaOfCzars",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "EEDEB71B5D1845CEB172E05E2845EA22",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r15p1178r12p1219r15p1228r13p1261r13p1277r13p1300r13p1352r13p1388r14p1483r15p1501r15p1519r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "388d56e3adaf57b2a0194bd80f4c1b01e186fba9730ff44cf3a78753b2b4cf9d",
+  "validation_errors": []
+}

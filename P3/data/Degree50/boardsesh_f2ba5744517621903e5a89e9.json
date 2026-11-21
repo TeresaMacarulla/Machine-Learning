@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f2ba5744517621903e5a89e9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Osch",
+  "setter": "susmann",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "CFE30CF7C210434E819BA69DF3350E2F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1165r12p1182r12p1250r13p1289r13p1301r13p1387r14p1457r15p1476r15p1525r15p1533r15p1552r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "022a8d10e4a2c4a5bded9568d368337d14add6da817e937fd3018f7061a3ae47",
+  "validation_errors": []
+}

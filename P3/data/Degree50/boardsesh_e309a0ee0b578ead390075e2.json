@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e309a0ee0b578ead390075e2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Soft Spoken",
+  "setter": "endz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "F0905AE8E65B448280A06DBF5071EFAE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1161r12p1162r12p1188r15p1214r13p1235r13p1270r13p1307r13p1338r13p1354r13p1384r14p1544r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.01,
+  "ascensionist_count": 3761,
+  "quality_average": 3.250930603562882,
+  "hold_fingerprint": "0648cf5358706bf6b2b353238720840c8186a5ebd6cc1e371bba3455e6014250",
+  "validation_errors": []
+}

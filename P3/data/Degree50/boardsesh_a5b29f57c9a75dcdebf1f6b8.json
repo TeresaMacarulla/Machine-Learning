@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a5b29f57c9a75dcdebf1f6b8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "thenoand",
+  "setter": "bkbskilterboard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "36E92949BF474A049D524A570D0282D9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1084r15p1182r12p1213r13p1261r13p1283r13p1330r13p1385r14p1485r12p1504r15p1506r15p1532r15p1549r15p1594r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.92,
+  "ascensionist_count": 24,
+  "quality_average": 3.3800000000000003,
+  "hold_fingerprint": "0d839dac08beb7d16e5320599b19f149c2f3779530fb2159e276f2c9996141a3",
+  "validation_errors": []
+}

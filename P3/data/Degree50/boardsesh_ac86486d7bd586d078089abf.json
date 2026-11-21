@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ac86486d7bd586d078089abf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "resurrection",
+  "setter": "zealot",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9D2A6FE39F2E4B0E80E1C7D8031C1C6B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1138r12p1139r12p1202r13p1203r13p1283r13p1287r13p1335r13p1385r14p1447r15p1499r15p1531r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7a68d86adef4c16a69802ffa527520767105263b55254c7a3ecedf65b9221fa2",
+  "validation_errors": []
+}

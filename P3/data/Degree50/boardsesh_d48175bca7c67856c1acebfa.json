@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d48175bca7c67856c1acebfa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Nasty on the tendons",
+  "setter": "BrandOh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "e2266e2fc7894f5a821aaabb264d79bc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1131r15p1144r12p1163r12p1214r15p1234r15p1248r13p1302r13p1355r13p1390r14p1462r15p1550r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.85,
+  "ascensionist_count": 61,
+  "quality_average": 3.45,
+  "hold_fingerprint": "a1414cf842cd02761f5f9dfb3e9f446f3b3d943145e2adbc1202df19ff9ce8f3",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d09ef4ea9f6bdd1336a33d03.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Becoming Human",
+  "setter": "bloop",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8f8ca5ed937843ae8af00f25b2fc0ffe",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1112r12p1176r12p1199r13p1265r13p1286r13p1304r13p1391r14p1462r15p1465r15p1495r15p1525r15p1539r13",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.75,
+  "ascensionist_count": 4,
+  "quality_average": 5.0,
+  "hold_fingerprint": "537e021ac1cd20e6594a3c70485f30fc80145d909c02cbec99cd1e008419f9a3",
+  "validation_errors": []
+}

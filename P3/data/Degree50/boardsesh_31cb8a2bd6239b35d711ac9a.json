@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_31cb8a2bd6239b35d711ac9a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "old skool",
+  "setter": "roman1981",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "2b8a0443edaf4a1b85385955e1ac38d6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1131r12p1157r15p1203r15p1340r14p1452r15p1453r15p1459r15p1514r13p1525r13p1543r13p1552r13p1563r13",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.0,
+  "hold_fingerprint": "097e2e76206340854bd40b6d517e4705acb899e0bfbb9dd8d52314d7d42bebfe",
+  "validation_errors": []
+}

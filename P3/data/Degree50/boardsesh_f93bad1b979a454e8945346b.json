@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f93bad1b979a454e8945346b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "B02",
+  "setter": "ltemake",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 9,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "bd398f5afd6a44bda1ea69db785c7687",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1165r12p1166r12p1200r13p1234r13p1236r13p1254r13p1286r13p1306r13p1340r13p1341r13p1359r13p1393r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "25f65c41657236358d2486d9bb2555577b38acae643a1d694d5726413e1607ba",
+  "validation_errors": []
+}

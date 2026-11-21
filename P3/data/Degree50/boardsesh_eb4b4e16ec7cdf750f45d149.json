@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eb4b4e16ec7cdf750f45d149.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "male version 10.11",
+  "setter": "45er",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "35763942A76B4908A5B6FC6129DD96B1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1221r12p1223r12p1271r13p1302r13p1370r13p1383r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "2db6df6f5a4cfa2029368d43994ad055abfcbbcfab8e12a57066527b56c90ae8",
+  "validation_errors": []
+}

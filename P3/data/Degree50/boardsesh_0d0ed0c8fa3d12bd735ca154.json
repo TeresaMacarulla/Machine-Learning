@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0d0ed0c8fa3d12bd735ca154.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "One Move Dyno #1",
+  "setter": "Tazah",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 0,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2b3c33b36a4c4423950d055c7ce3ecce",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1215r15p1269r12p1284r12p1353r14p1513r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "352bd21f6d680fa01c1411a43a06fac9a5a1b52b55aabb282112e42d42d84d10",
+  "validation_errors": []
+}

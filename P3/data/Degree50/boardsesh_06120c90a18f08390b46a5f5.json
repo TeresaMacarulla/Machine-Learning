@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_06120c90a18f08390b46a5f5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "pinch scrunchie",
+  "setter": "cammileon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "76857F82BC2746DF9EF8BE2DB04AA5CB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1108r12p1127r12p1147r15p1176r13p1196r13p1244r13p1298r13p1329r13p1380r14p1464r15p1501r15p1549r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.9,
+  "ascensionist_count": 10,
+  "quality_average": 2.9,
+  "hold_fingerprint": "ac6e72f6e7d0e3819f5ce65f946a4406b50747780724ac9381665baba4a59e96",
+  "validation_errors": []
+}

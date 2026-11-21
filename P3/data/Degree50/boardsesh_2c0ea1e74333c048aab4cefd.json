@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2c0ea1e74333c048aab4cefd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "lappen",
+  "setter": "Fetti",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "EBAF6340CB124533857DD77F85D95193",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1114r12p1166r12p1198r13p1234r13p1299r13p1353r14p1485r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "742c1fa5c1a0183d04333cc661d8767550ca6b044e1e3c6a5944ca87a0bc01b3",
+  "validation_errors": []
+}

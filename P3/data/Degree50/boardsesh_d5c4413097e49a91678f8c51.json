@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d5c4413097e49a91678f8c51.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Unluck",
+  "setter": "steven97",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C9109F92448C47A68B238102B694F190",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1142r12p1150r15p1193r13p1214r13p1231r13p1252r13p1303r13p1324r13p1342r13p1395r14p1461r15p1464r15p1544r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.2,
+  "ascensionist_count": 81,
+  "quality_average": 4.17825,
+  "hold_fingerprint": "553d01881f0f771f6d543fa12f606b638599b7a60369318bfffe810eefec4435",
+  "validation_errors": []
+}

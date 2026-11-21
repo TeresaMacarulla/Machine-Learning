@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f8bcd8553a6d5aaedcdd066f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "forced sickuence",
+  "setter": "BlakeOnKrack",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "3C659B70DEE243B48C7D608DC9C56AFE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1147r12p1179r13p1216r15p1244r15p1266r13p1298r13p1321r13p1359r14p1468r12p1484r15p1511r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ed4a2e8d82aaf85b462b61df575b5fd126d178248a9e945d7bb5620a8e712352",
+  "validation_errors": []
+}

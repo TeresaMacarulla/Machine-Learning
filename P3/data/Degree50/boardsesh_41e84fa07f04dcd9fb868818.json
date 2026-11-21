@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_41e84fa07f04dcd9fb868818.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Patrick's 1ste poging",
+  "setter": "PatrickGorp",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "e370fbebb4e54097b6f0b2659477f5de",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r15p1142r15p1143r12p1163r12p1212r13p1227r13p1265r13p1300r13p1317r13p1387r14p1459r15p1463r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "3327482dd712266a26c150aaa07aa559a3a4be7426a0cb6ea2fa9f04dd3c80db",
+  "validation_errors": []
+}

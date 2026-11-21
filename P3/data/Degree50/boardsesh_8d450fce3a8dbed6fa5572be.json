@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8d450fce3a8dbed6fa5572be.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "m30",
+  "setter": "asconagt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5b9a9844eeb44c11b3a14dbf5b99fcbc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1181r13p1198r13p1236r13p1270r13p1308r13p1340r13p1393r14p1458r15p1461r15p1544r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.4,
+  "hold_fingerprint": "205571b06e6daad0d07621a87a5237a83d55f99a6b72f4b3cca0be2e8ab02db1",
+  "validation_errors": []
+}

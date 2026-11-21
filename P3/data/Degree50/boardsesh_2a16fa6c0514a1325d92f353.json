@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2a16fa6c0514a1325d92f353.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "ob-V1-kenobi",
+  "setter": "shing1984",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "D28912DBEE594DCE95D84CEF6E0FC379",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1092r15p1141r15p1142r12p1144r15p1192r12p1212r15p1260r13p1262r13p1294r13p1312r13p1379r14p1381r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.5,
+  "ascensionist_count": 8,
+  "quality_average": 1.5,
+  "hold_fingerprint": "b2fceda4f1753e6dea15a02445b02ad0f682a7f43088ca50b090bc430e65c8c0",
+  "validation_errors": []
+}

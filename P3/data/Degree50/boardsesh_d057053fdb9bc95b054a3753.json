@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d057053fdb9bc95b054a3753.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "boombacross",
+  "setter": "rbailey",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "c2a3cc66-67f1-4065-99b3-d31e1cc4de9a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1209r12p1265r13p1266r13p1550r13p1322r13p1334r13p1384r14p1485r15p1514r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "3bd42ea1657eaa12af778a3434002ff53415fb5fdabfca2babfbd15ee5135e00",
+  "validation_errors": []
+}

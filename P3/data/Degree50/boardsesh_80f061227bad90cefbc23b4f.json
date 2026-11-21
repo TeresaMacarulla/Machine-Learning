@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_80f061227bad90cefbc23b4f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Checkliste",
+  "setter": "Tarekrobrahn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "9a329eb3764a471da94d8847bd45121d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1121r12p1153r12p1258r13p1273r13p1323r13p1370r13p1379r14p1382r13p1385r13p1447r15p1545r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.6,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "baf907d9a32f68d71fd491b039c231e1383b28443141096800541f82a54d5d12",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_65a2be730926dd2f3e81a0c0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "45 KoK 10.0",
+  "setter": "megjo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1e8f52f1c3464156ba8415b3e940f1cb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1187r12p1234r12p1319r13p1334r13p1383r14p1479r15p1557r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5f615496ea166583792e2063c465b865776eff55aab3b31de3e4384e396b4efa",
+  "validation_errors": []
+}

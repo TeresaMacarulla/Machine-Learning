@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_73b492139c3505a25fa0d24e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Tension",
+  "setter": "craftedsam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "B26A83BC9DAA4E3FB08F7C92475871BE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1153r12p1241r13p1253r13p1283r13p1322r13p1386r14p1453r15p1517r15p1524r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 52,
+  "quality_average": 3.3500000000000005,
+  "hold_fingerprint": "8e40615595c24ac68248c223efc39deeaa3e5543de1486bbdccae9a6b32e7067",
+  "validation_errors": []
+}

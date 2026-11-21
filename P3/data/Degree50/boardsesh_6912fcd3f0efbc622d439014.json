@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6912fcd3f0efbc622d439014.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "dojojump",
+  "setter": "thijs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "926CFB195859419A9AEF8F3D7CD059CE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1189r12p1191r12p1334r13p1351r13p1362r14p1482r15p1533r13p1535r15p1543r13p1559r13p1578r13",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "61e0ddbc093fe9a8b865449133a2890e8d2b76341a87b111570a7cb4eaeb99b3",
+  "validation_errors": []
+}

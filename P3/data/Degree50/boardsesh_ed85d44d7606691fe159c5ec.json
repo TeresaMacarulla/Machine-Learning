@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ed85d44d7606691fe159c5ec.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Five Cows Approaching",
+  "setter": "Patch42",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "844f6f6aad734f7084730dc00df6d7d8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r12p1157r15p1201r12p1223r15p1256r13p1274r13p1276r13p1289r15p1361r13p1378r13p1391r14p1471r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2c5e908394e5e43e76a4c3d3253377c907a9fc8c91d96cd5e4689add2d0450c5",
+  "validation_errors": []
+}

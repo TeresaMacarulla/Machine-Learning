@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eed508b4517b7a93a551f105.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Coretartar",
+  "setter": "pazee",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0c51e5c674024283bfb4fb7568e1d755",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1197r12p1198r12p1269r13p1320r13p1358r13p1392r14p1532r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "cd29047efd8922a5beb5b9803a1df949e9a552c36252782bcfa6b68a666dc85c",
+  "validation_errors": []
+}

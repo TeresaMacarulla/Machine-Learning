@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4c9a84fb0eb72bdd48abd10c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Campus Boulder 1",
+  "setter": "benfromearth",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "411D7EB827BB485E8C674352545B0047",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1192r12p1210r12p1260r13p1281r13p1297r13p1300r13p1353r13p1389r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "0b402f81db564abb8969947e3e3f4b6de1f5acb366a0cd8945e0e5c32ad53ffa",
+  "validation_errors": []
+}

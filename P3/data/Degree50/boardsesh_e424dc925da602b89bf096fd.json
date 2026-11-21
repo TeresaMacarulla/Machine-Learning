@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e424dc925da602b89bf096fd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "circuit B_2025_25_50\u00b0",
+  "setter": "crocsg",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "F3CAE7AC248942C286B35ED6A560B64E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1114r15p1148r12p1165r15p1199r12p1233r13p1250r13p1284r13p1335r13p1386r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "467f9ad13831e18ce96f941cbfcca33052e8157e5ecb60d5071ea9de2b0d44d1",
+  "validation_errors": []
+}

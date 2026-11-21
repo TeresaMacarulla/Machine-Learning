@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_202daebfea3d4e0e5bf9afd2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "pr23",
+  "setter": "paulrobinson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "56CB00BA19FF48EDBCC8B13753ED4D3B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1182r13p1248r13p1301r13p1338r13p1355r13p1392r14p1463r15p1464r15p1570r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.95,
+  "ascensionist_count": 23,
+  "quality_average": 3.41,
+  "hold_fingerprint": "7ed492a9e40493b34aecede759d27ff7ab70e3914ef8b6d69abc8e8cd68fe0ce",
+  "validation_errors": []
+}

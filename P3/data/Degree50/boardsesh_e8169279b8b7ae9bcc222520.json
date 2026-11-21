@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e8169279b8b7ae9bcc222520.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "PinchMeIMustBeDreaming",
+  "setter": "davlam1n",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5F0A35630BD741FE8070693DF8CE0945",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1124r12p1141r15p1162r12p1176r13p1192r15p1228r13p1265r13p1295r13p1347r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.6699999999999995,
+  "hold_fingerprint": "c95426ddd2a40b524305b07e22e4894d2d4d1413f58f929fe342db7da7c7953f",
+  "validation_errors": []
+}

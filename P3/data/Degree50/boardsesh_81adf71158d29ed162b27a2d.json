@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_81adf71158d29ed162b27a2d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Bases de C4",
+  "setter": "estopii_",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "01c067b8-e2da-4f4b-bd37-1bf5659600b3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1227r12p1179r12p1266r13p1520r15p1299r13p1304r13p1322r13p1359r14p1483r15p1501r15p1534r15p1503r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 5,
+  "quality_average": 2.5,
+  "hold_fingerprint": "ae437c7366bc84ccfb290de468fefa07a98757f0b8ee874745500e2618b1175f",
+  "validation_errors": []
+}

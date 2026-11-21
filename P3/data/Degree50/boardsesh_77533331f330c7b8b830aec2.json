@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_77533331f330c7b8b830aec2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Dr. No",
+  "setter": "SebastianG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "e458d3d6e5cf4332a185953a74f56e26",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1111r12p1127r12p1165r13p1200r13p1269r13p1285r13p1304r13p1357r13p1388r14p1455r15p1458r15p1461r15p1486r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1dc6567a40de0f5f62536a4071a4c3efc433f29dbedc31decabfc166c7390dab",
+  "validation_errors": []
+}

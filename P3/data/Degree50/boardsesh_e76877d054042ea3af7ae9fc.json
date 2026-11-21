@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e76877d054042ea3af7ae9fc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "halfmoon",
+  "setter": "brianharrington",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1EF7F18FE1844797BDEDC60D16BA1208",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1156r12p1202r13p1222r13p1235r13p1290r13p1320r13p1325r13p1394r14p1451r15p1527r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.98,
+  "ascensionist_count": 64,
+  "quality_average": 3.36,
+  "hold_fingerprint": "ae52f9f6e65b9cc6a37df58425b75c87a8043223f2afd2df627e9467d123f74b",
+  "validation_errors": []
+}

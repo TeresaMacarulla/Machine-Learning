@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5707d30b747656cee8f407f6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "TIA",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8D347F7CEEC54CB5BBE57C875F3ABE32",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r15p1167r12p1217r13p1222r12p1248r13p1269r13p1370r13p1382r14p1383r14p1490r15p1497r15p1505r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6373fd12e855536e091a41697ba12e01c7d4268b97d4b7f30820802a0a862b28",
+  "validation_errors": []
+}

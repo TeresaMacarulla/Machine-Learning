@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1beca52a2aece558f10ba196.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Que trop dur",
+  "setter": "Chef bandit",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 9,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "859c39f0-1d69-4342-8138-8de735eff571",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1191r12p1186r12p1187r13p1452r15p1271r13p1254r13p1249r13p1316r13p1345r13p1279r13p1555r15p1354r13p1372r13p1376r14p1169r15p1204r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.2,
+  "ascensionist_count": 5,
+  "quality_average": 5.0,
+  "hold_fingerprint": "da974c72747335313c62e8fd0ae295148c2afff263c949fad83208d2c1876fe1",
+  "validation_errors": []
+}

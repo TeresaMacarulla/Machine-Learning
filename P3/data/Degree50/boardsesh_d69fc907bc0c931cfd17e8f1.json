@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d69fc907bc0c931cfd17e8f1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Pei\u00dfenberg-Style",
+  "setter": "kmamma95",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "D51DFE8511094ED08EE797D0449A4664",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1138r12p1151r12p1183r13p1213r13p1230r13p1282r13p1287r13p1371r13p1394r14p1449r15p1492r15p1572r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.14,
+  "ascensionist_count": 122,
+  "quality_average": 3.47,
+  "hold_fingerprint": "947c2991d199bb5c92f0414c8eb81eb9f421988480178205b0173b4445e602bd",
+  "validation_errors": []
+}

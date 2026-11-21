@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f602433cf85c8920c04228f4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "50 degrees warmer",
+  "setter": "sillywilly",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5B792A1DEFF74CBFA2CEE408DC580609",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1166r13p1198r13p1236r13p1270r13p1308r13p1394r14p1457r15p1476r15p1526r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.8,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "8ef87d0df63cc11cdf529fe85f200545666884621a31da1a1ae4ae99dfb0b800",
+  "validation_errors": []
+}

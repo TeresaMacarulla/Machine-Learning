@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3ba21b292faa71196a205b14.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "through stepper 2",
+  "setter": "jcoup",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "D08110ECBD164BC0A781F78CD008FAAD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1124r15p1129r12p1178r12p1217r15p1230r13p1261r13p1283r13p1314r13p1335r13p1385r14p1492r15p1520r15p1568r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "180a77ea5d10bc00d90cad4428b79fd4e97f05cef9d36e8db46c853c858d7481",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bdc0745a54fe2a26d41d875e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "50 1.2",
+  "setter": "FreestyIer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3CA8A45FD2054711A7FD1B0A4F49E41F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1173r15p1181r15p1256r13p1268r13p1271r12p1276r12p1298r13p1319r13p1331r13p1383r14p1507r15p1531r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "cefbd03f1fa985fa51f18061dc930f582877119c819241a298abbbc3f8e5c6d2",
+  "validation_errors": []
+}

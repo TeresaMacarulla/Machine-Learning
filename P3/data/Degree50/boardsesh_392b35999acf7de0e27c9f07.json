@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_392b35999acf7de0e27c9f07.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Fontainerouge",
+  "setter": "jack.ward",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "A9659C29A1DF437BB7123A7FC15E925B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1149r12p1152r15p1185r15p1198r13p1205r15p1214r15p1236r13p1284r13p1304r13p1353r13p1386r14p1455r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "eb398f5521dea5bdfbbc022477ffd405a430f667a1d99d9a259a6a00577bc2b3",
+  "validation_errors": []
+}

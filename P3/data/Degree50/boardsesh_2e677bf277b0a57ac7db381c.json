@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2e677bf277b0a57ac7db381c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "SYS.INI",
+  "setter": "skippypdc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 9,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "835094ab77704b0fa75f649c6230aee5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1201r13p1232r13p1234r13p1247r13p1280r13p1314r13p1318r13p1353r13p1389r13p1392r14p1476r15p1507r12p1511r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "64059e1f75b5878e0bdf10ef90cd9ac96eb07fe4693e0b2278e5ef8cd8c73378",
+  "validation_errors": []
+}

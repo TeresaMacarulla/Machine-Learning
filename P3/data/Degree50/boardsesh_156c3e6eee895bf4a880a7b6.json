@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_156c3e6eee895bf4a880a7b6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Short-Guy Beta",
+  "setter": "rosskloetzel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "000EAC33EFCE498BA706F8463CD41CC4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r12p1120r12p1170r13p1235r13p1273r13p1304r13p1317r13p1386r14p1456r15p1523r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 12,
+  "quality_average": 3.67,
+  "hold_fingerprint": "b00a3fd71147668c4a3e45661a51d75e944738c13925f766f87b29cef10e1e3b",
+  "validation_errors": []
+}

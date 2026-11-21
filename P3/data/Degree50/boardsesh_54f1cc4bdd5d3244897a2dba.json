@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_54f1cc4bdd5d3244897a2dba.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Crank Sinatra",
+  "setter": "kilterjackie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "BECDFCF856034F3190DE69A707D6C31B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1133r12p1164r13p1181r13p1249r13p1263r13p1272r15p1289r15p1351r13p1352r13p1372r14p1455r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.29,
+  "ascensionist_count": 7,
+  "quality_average": 3.57,
+  "hold_fingerprint": "539c67b05dfb76e69a2dbf0314bb75289d176b26b6712ca188184d094d5d3121",
+  "validation_errors": []
+}

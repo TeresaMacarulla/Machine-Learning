@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a554107e2ae9953b73260277.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Power Jill",
+  "setter": "johnconnell",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "AC47C61CB62C4A07A6F053E41A93E72E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1096r15p1150r12p1166r12p1218r13p1231r13p1300r13p1333r13p1369r13p1384r14p1452r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.92,
+  "ascensionist_count": 51,
+  "quality_average": 3.45,
+  "hold_fingerprint": "4e32023ea668ae3b647e727f9429c2228cd33bd23cb1d1fb9c9221e18f9a0edb",
+  "validation_errors": []
+}

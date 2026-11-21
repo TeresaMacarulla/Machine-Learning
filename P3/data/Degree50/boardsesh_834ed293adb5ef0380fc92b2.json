@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_834ed293adb5ef0380fc92b2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Voodoo style",
+  "setter": "POD31",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "AF7D8ADBBD2D41F8B94E9BE38EA07B7C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1288r13p1302r13p1352r13p1385r14p1491r15p1514r15p1543r12p1544r12p1561r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "314eb8a53cbaa98c9f58d200a2bf2febb0a3de5477231cd0bbf9716a02b4130f",
+  "validation_errors": []
+}

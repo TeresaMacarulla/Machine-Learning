@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_99f00ba1decce1c44c07963d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Step to rhythm",
+  "setter": "Fac.hri",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1b3db0ee-3be2-4be7-945a-58aa4cd7d7de",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1232r12p1266r13p1304r13p1314r13p1318r13p1372r13p1391r14p1511r15p1521r15p1552r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "d7fb8111500a46edf8ed1160b0f7d1a7d3661f44000c29de73951135e1c02f58",
+  "validation_errors": []
+}

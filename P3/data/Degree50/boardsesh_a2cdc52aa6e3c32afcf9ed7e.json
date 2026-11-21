@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a2cdc52aa6e3c32afcf9ed7e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "say your name",
+  "setter": "adamfogarasi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A18071A77EC542A588D90F4A67C617D0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1133r12p1220r13p1273r13p1303r13p1304r13p1333r13p1334r13p1382r14p1459r15p1516r15p1530r15p1549r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "77db9984c88f4a819d2b6e7f46ca3fe349e0bdbaf0091349b9dff77019e12717",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_30514a422c4394f2fe8e837c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "no foot 3 (El cap)",
+  "setter": "martin.guilmi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "71BBAA83908649649DB76ABDC606D3C1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1176r12p1213r12p1262r13p1300r13p1349r13p1387r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bbaed39501263cd81464460cec915a4d608f3177a3a81d8c223143e183601e6e",
+  "validation_errors": []
+}

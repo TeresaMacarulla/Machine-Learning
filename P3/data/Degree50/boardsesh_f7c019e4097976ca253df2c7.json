@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f7c019e4097976ca253df2c7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Gunpowder",
+  "setter": "AarondeWolff",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "24e3e6a151ab4bdbb789d420987aeaea",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1124r12p1160r12p1178r13p1218r13p1286r13p1307r13p1393r14p1460r15p1468r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 47,
+  "quality_average": 3.32,
+  "hold_fingerprint": "86101053b921b8bfd6dfe5638e5ea9c8bf7235b45f4162b1cf9c3a5739c9b70a",
+  "validation_errors": []
+}

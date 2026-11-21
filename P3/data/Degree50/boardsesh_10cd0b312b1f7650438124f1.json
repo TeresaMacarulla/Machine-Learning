@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_10cd0b312b1f7650438124f1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "domain expansion",
+  "setter": "Philbothegeek",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "061d5342-32cc-4582-91c6-909b2be9b13f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1188r12p1134r12p1104r15p1219r13p1238r13p1499r15p1302r13p1387r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 8,
+  "quality_average": 4.4,
+  "hold_fingerprint": "c56c563deabd6b9de17194135864af2783255cec7204a5fb8427fe694405b359",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7ebab91a926ca4f32b904f8d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Falhalla",
+  "setter": "JamieBarendrecht",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "93afa80de680434d8631b2f5267a80e8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1149r12p1202r13p1265r15p1269r13p1339r13p1352r13p1385r14p1457r15p1498r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.94,
+  "ascensionist_count": 217,
+  "quality_average": 3.43,
+  "hold_fingerprint": "3f8687c7f1c1e738c2c3ea6ec8a0c6f1f241168a9b159d3c338db2651759bdc8",
+  "validation_errors": []
+}

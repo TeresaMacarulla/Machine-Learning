@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7be7e8c18fe485e0bc9ca973.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Do Die",
+  "setter": "noahsends",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "a1a0c07bc6184dccabfdcac9b6c70463",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r12p1152r12p1189r13p1199r13p1222r13p1254r13p1266r13p1347r13p1379r14p1473r15p1500r15p1512r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "73b4c05531cf131db38d74bfe1a76da1b899eed1ff26aec278462380cf6b147a",
+  "validation_errors": []
+}

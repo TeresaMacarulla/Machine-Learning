@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cf7bc11fde548f40c4b7d2a6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "VW Benchy \ud83d\udcaa",
+  "setter": "terb_board",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3946FB40F35F4766BC4D2674DF079CE1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1136r12p1188r13p1235r13p1302r13p1382r14p1499r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "eda578b57676642410c08f8b0e6bcd00cc6a5d285139bf0eda63aa877c12a7fd",
+  "validation_errors": []
+}

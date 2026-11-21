@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c8ba81c1aeee52102b549067.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "sum42",
+  "setter": "tiflo2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "a5a1144c-ec9f-44b5-abf4-a7047eef5299",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1233r13p1455r15p1080r15p1186r15p1281r13p1318r13p1387r14p1478r15p1385r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "9d10b218b1bcb216900d75f9e1632cda08b5d10f26110d9c99c1b69c055cc5c1",
+  "validation_errors": []
+}

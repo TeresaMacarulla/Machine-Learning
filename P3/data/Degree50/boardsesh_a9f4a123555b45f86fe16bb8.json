@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a9f4a123555b45f86fe16bb8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "mini pinch ",
+  "setter": "tommzd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "bba3ea88-97d5-4520-8c68-3d2444f25083",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1241r12p1186r12p1500r15p1287r13p1291r13p1357r13p1388r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "7f48667e2df93eb596baca7528b2ffb3128c1c60592f09ce7cf5f617dba6e19d",
+  "validation_errors": []
+}

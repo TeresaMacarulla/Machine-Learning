@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bc1a8ed5ce08930cb7ae0462.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "TWO DYNOS \ud83d\ude0d",
+  "setter": "SharpishSword",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "C0496DDE451A4352A398412BB6970C3E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1157r12p1171r12p1206r13p1239r13p1308r13p1324r13p1394r14p1447r15p1450r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.57,
+  "ascensionist_count": 12,
+  "quality_average": 3.2900000000000005,
+  "hold_fingerprint": "44a5fb67624d08f213ef8e0924b350279a432656202698cab009c9914539a350",
+  "validation_errors": []
+}

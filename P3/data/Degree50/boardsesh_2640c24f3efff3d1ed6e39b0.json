@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2640c24f3efff3d1ed6e39b0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Slurp EZ",
+  "setter": "adamtsmith",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "2A2846FFC07D41A2A154588760FB360A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1097r15p1146r15p1198r12p1200r12p1252r13p1266r13p1302r13p1334r13p1354r13p1385r14p1504r15p1561r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.17,
+  "ascensionist_count": 6,
+  "quality_average": 4.0,
+  "hold_fingerprint": "ab4b609b2d5c5ca4bb374a04ad88722c83c6a294f7dd4aa28b9d2f85c50e4be7",
+  "validation_errors": []
+}

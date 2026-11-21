@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e8a12b077bc9c4fa59129fe7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Order of Ecclesia",
+  "setter": "NGS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "F820A5DFC1644E84930C637A4A0F855F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1160r15p1215r12p1218r12p1280r13p1313r13p1386r14p1468r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "01d1999a15807a53fd5edcdf083421e3ea61683c16d7a45e5f53cdc03268e731",
+  "validation_errors": []
+}

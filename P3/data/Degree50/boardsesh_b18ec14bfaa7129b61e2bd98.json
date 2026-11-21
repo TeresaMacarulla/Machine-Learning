@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b18ec14bfaa7129b61e2bd98.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Gear 5th",
+  "setter": "jakeh106",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6E2FC7BD81C44551ACB0A0CF3776418B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1163r12p1214r13p1218r13p1268r13p1313r13p1315r13p1379r14p1460r15p1468r15p1497r15p1537r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.83,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "ae64c7fb781fb877088b2862ddbc677a4dfeaf440c4ef628dd43cce74c812478",
+  "validation_errors": []
+}

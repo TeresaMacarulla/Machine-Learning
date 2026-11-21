@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6abd7408a63cc27d39b6d1b5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Rear View Mirror",
+  "setter": "jordanclimbsv0",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "C42DF5C33F9749C9B5014F935188CD46",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1167r12p1230r13p1233r13p1264r13p1318r13p1335r13p1338r13p1391r14p1520r15p1551r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "a3eb57c6537034bd99824a98867e50f09abd1baa86add1f8622fdcc6b3a7b6ec",
+  "validation_errors": []
+}

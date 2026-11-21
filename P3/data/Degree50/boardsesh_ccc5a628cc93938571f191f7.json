@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ccc5a628cc93938571f191f7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Stay Crimpin",
+  "setter": "colin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8B497E5B3F8C4DFFA44587567D42A823",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r12p1153r12p1203r13p1240r13p1274r13p1325r13p1375r13p1391r14p1447r15p1491r15p1518r15p1568r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.01,
+  "ascensionist_count": 95,
+  "quality_average": 3.3469473684210524,
+  "hold_fingerprint": "501e43cff29bafcf2fb451de2caf357d5faf1a34eb15cbaa3df142d69b457f27",
+  "validation_errors": []
+}

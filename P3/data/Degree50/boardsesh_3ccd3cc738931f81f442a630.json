@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3ccd3cc738931f81f442a630.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Kiel training 2:5",
+  "setter": "KilterStudio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "C763DAE206A842FC84F0F9905DD00FDA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1142r15p1182r13p1230r13p1269r13p1336r13p1390r14p1459r15p1487r15p1506r15p1512r15p1533r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 30,
+  "quality_average": 3.38,
+  "hold_fingerprint": "7031cdab96d90bfd9b0835689f1f14eda6cec2d3afc523ec2718cfb49a3dbc42",
+  "validation_errors": []
+}

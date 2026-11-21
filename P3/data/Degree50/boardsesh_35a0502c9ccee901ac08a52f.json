@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_35a0502c9ccee901ac08a52f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "slumf",
+  "setter": "sisbsi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "466ED16029274B1994460880CE0DD83E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1198r12p1239r15p1267r13p1303r13p1323r13p1393r13p1395r14p1460r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "994f56af47ba55c732d13c94a20c53415e68b8b6804a1c44e2baee3df56a4e63",
+  "validation_errors": []
+}

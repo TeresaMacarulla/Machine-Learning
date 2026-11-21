@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1c6a78205d70a64a20f0cf55.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Morphing",
+  "setter": "Jonas_E",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "d32703b2b0c745318b6cf56fbde3ce45",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1231r13p1235r13p1270r13p1286r13p1336r13p1380r14p1384r13p1460r15p1464r15p1503r15p1510r12",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.94,
+  "ascensionist_count": 17,
+  "quality_average": 3.9400000000000004,
+  "hold_fingerprint": "3145a849391a0937738649df7b5041ab697cfdfb09697dda8fb0f922dda63d88",
+  "validation_errors": []
+}

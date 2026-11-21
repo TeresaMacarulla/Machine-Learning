@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a2037b5b9081099b2143785c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "PeukkuManifesti",
+  "setter": "Pamu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "85A8AA36A4B94079A38CFDD5034CA956",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r15p1165r12p1182r12p1214r13p1232r13p1263r13p1283r13p1331r13p1383r14p1485r15p1487r15p1512r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "5411e5f6cb7645de825c88a8e2def30285d119ee87f2b069b738418801f669ff",
+  "validation_errors": []
+}

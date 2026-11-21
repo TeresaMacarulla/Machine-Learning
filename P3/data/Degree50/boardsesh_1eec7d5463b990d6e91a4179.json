@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1eec7d5463b990d6e91a4179.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Sloper lock off",
+  "setter": "Seppie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B9E92D3852AA48F3BDBAC4C45AAC6CEB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1155r12p1201r13p1222r13p1271r13p1301r13p1357r13p1373r13p1395r14p1480r15p1513r15p1542r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "21db989b424837c3480ce6ddafc9b04ef0ee7efeb441a2d9c37a18d72c1af3ad",
+  "validation_errors": []
+}

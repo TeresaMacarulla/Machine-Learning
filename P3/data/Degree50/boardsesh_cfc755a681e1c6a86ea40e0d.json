@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cfc755a681e1c6a86ea40e0d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "kick on",
+  "setter": "Robbo45",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "0828279B3E0B411183D09F4BFB7950E9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1168r12p1205r12p1253r13p1303r13p1352r13p1388r14p1451r15p1488r15p1491r15p1506r15p1530r15p1542r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "9cb3a9ef3065a63ffcd077225986e772f1dd4824203d0a2b325a4488de4e2513",
+  "validation_errors": []
+}

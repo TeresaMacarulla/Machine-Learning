@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b2e230a839a3fe886d4f3e2d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Sarah's lowball 3",
+  "setter": "JeanPhilippeLev",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "101647577ceb4085a76f491215ffa485",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1107r15p1113r15p1150r15p1175r12p1193r12p1228r13p1249r13p1250r13p1269r13p1319r14p1516r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "732c1388fddfae43ea103e87f4b132dde071f7fdb7390ca6b62826f0063ce62f",
+  "validation_errors": []
+}

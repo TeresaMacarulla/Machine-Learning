@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ae6706ffc9eba718c98d59ed.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "flagged for misconduct",
+  "setter": "c.keinick",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "E6568684C2B64035B663A28A5FC9F38A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1237r12p1240r12p1267r14p1291r13p1305r13p1320r13p1341r13p1356r13p1369r13p1387r14p1499r15p1517r15p1579r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 2.0,
+  "hold_fingerprint": "df8082062c7745196384b10b9d9a7714d1680e1c74e39b8f1dabd360f5e160c4",
+  "validation_errors": []
+}

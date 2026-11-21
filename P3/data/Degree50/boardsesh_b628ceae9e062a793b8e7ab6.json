@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b628ceae9e062a793b8e7ab6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "warm 1",
+  "setter": "krimdogbillionaire",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "AC891F35616346AB98865B953244A69C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1143r12p1192r13p1210r13p1260r13p1281r13p1331r13p1353r13p1371r13p1390r14p1462r15p1466r15p1561r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.56,
+  "ascensionist_count": 2027,
+  "quality_average": 3.78,
+  "hold_fingerprint": "c377d063c6e1255bc9185c746d75bcb21d7b06604dec70802f007d48f46e07ac",
+  "validation_errors": []
+}

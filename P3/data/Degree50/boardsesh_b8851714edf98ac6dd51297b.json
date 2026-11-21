@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b8851714edf98ac6dd51297b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "simplicitee",
+  "setter": "riellyreil",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0B31DB1D15594C0BBCF4EB819D213CA2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1133r15p1169r12p1191r15p1205r12p1221r13p1257r13p1268r15p1289r13p1308r13p1340r13p1356r13p1390r14p1453r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 4,
+  "quality_average": 2.0,
+  "hold_fingerprint": "34445372b9c579f2dcbe235f58412aaad389f771f9209acdf23f5efbeea8dd48",
+  "validation_errors": []
+}

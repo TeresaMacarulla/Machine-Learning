@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3e2c994463ea6f45cb519734.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Le bac",
+  "setter": "ZD",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "ae3c9d90-233b-4e40-a986-cfe6e940347d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1094r15p1096r15p1178r13p1234r13p1162r15p1247r13p1317r13p1316r13p1354r13p1391r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": null,
+  "hold_fingerprint": "cebab4e2643db27e0f554e501798e56385d06405999a46909927ed7ac5a35820",
+  "validation_errors": []
+}

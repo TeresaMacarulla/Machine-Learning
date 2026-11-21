@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_12156ede2d22af5b5aa859c1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "gripped",
+  "setter": "stefan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1DD5B840D3794B86ABD5F3D0D5330256",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1086r15p1179r12p1231r13p1236r13p1270r13p1324r13p1393r14p1477r15p1496r15p1506r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "0dd0fca6a3dd3c27902e2a4a37f64cfc785d2d90177e721a6f27bc7f7d6dd036",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_062b3a04f547226846ef3a97.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "wer check harder",
+  "setter": "ttpusher7",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "a1eadd1e-b6a7-46eb-ae06-919361f26e80",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1500r15p1134r12p1148r12p1456r15p1186r13p1241r13p1291r13p1320r13p1219r15p1385r13p1383r13p1345r14",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 0,
+  "quality_average": null,
+  "hold_fingerprint": "865861b57f88ef5e49fa648d597ae992e4b029b0ae8f5db8eb7f8d944c67920a",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f5e45c9c896b865a4709f2af.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Because",
+  "setter": "RavioliTriceps",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "EE0C3E0938E0418BBE38501C53824C8C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1210r15p1230r12p1250r12p1314r13p1369r13p1370r13p1390r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.17,
+  "hold_fingerprint": "43a27d2014813b796ca9604b9cdd3b918444d3015e623ad1745892abbe549b3d",
+  "validation_errors": []
+}

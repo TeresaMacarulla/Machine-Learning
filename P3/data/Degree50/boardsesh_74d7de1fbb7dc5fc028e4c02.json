@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_74d7de1fbb7dc5fc028e4c02.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Jump Swing",
+  "setter": "OmriRam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "35404e3dceae415eaa5c1e8f89f235a1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1191r15p1222r13p1270r13p1309r13p1353r14p1450r15p1453r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1bff89e990e77f91673a4c14e9d0d73b7d6242767058ff29f73600cf8d5a1db8",
+  "validation_errors": []
+}

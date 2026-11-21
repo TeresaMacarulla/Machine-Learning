@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_24ac43a5c14613ec92d6358b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "project for zed XL",
+  "setter": "smithy1992",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "4c9bf8dc6ff64b058e1ac0c37ed7a744",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1105r12p1139r12p1203r13p1293r13p1325r13p1390r14p1447r15p1500r15p1525r13p1543r13p1552r13p1588r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 4,
+  "quality_average": 2.25,
+  "hold_fingerprint": "63ba7c6f9a2fcf7e222a101b69428048e7cd2dc52f061ac89fec871fed934089",
+  "validation_errors": []
+}

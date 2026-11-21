@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b194e05fb138d3b94ab9a647.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Big Righty",
+  "setter": "GirthQuake",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6DA1506D3A604A0CAC8C88991C1E7FAF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r15p1166r12p1190r15p1253r13p1271r13p1274r13p1291r13p1344r13p1394r14p1515r15p1535r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "8e61867447569f4efe47fa8ce4e8de5ef214cd26f99b3b7c3d64d4db000c85bf",
+  "validation_errors": []
+}

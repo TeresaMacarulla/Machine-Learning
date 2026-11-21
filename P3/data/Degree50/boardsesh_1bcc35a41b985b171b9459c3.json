@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1bcc35a41b985b171b9459c3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "off grid",
+  "setter": "Nick_L",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "8CF6FC6E219C4CD987DB27B928DDC7CF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r12p1205r13p1272r13p1290r13p1338r13p1369r13p1384r14p1451r15p1489r15p1500r15p1518r15p1545r15p1570r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.17,
+  "hold_fingerprint": "63c9eee0a1048aa3a3d26c4dbfead115b633b5c5672cd9be8b51519650628e7f",
+  "validation_errors": []
+}

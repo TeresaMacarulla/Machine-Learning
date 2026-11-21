@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0a16b493d25e47de14dc4f22.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Walk in the Park",
+  "setter": "vincentdohna",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1763037f1d954b829a02e6d75abdbc33",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1149r12p1200r13p1221r13p1236r13p1257r13p1308r13p1343r13p1359r13p1395r14p1455r15p1458r15p1471r15p1481r15p1509r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.25,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "01c830975fe729295470ef7445d97b8b3f7ba893d1006a12c0ac716748ac9165",
+  "validation_errors": []
+}

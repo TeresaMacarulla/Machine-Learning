@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_02b2ac9fcc54d26511d8397c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Molt Soft",
+  "setter": "dgineblasco",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "bb3ecdc0a86e40cd94d8868cd901765c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1153r12p1184r12p1251r13p1300r13p1339r13p1340r13p1394r14p1452r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "b10de4d1a0d8886e27678e55045e74b83bedd8c04e3df249ceac1068e9c1933f",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_22d593ad7ed3c93e75d51392.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "SickSetter",
+  "setter": "ordinary",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "e13a002330b0446383a945c65424dbaa",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1217r13p1228r13p1250r13p1288r13p1353r13p1392r14p1477r15p1488r15p1498r15p1514r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "cfef11f84e8c0fd09bdfd78c63f4ca5c3cfb4ea2449ab8cfa05d78f0b4f0a097",
+  "validation_errors": []
+}

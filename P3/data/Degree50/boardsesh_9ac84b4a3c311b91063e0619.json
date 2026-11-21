@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9ac84b4a3c311b91063e0619.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Housebroken",
+  "setter": "alookatommorow",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "DE82C32E2549485B941D9217DFBFA81D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r12p1220r13p1252r13p1286r13p1336r13p1357r13p1391r14p1452r15p1504r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "47bbd7511e64a2b824c62305fadbae11bcb584a39d48d0d2870e58e94f716887",
+  "validation_errors": []
+}

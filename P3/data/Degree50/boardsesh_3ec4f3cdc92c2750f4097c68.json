@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3ec4f3cdc92c2750f4097c68.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "AK36",
+  "setter": "akolos",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "6b9d77b9e781419fb3e3806d2e089082",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r12p1131r15p1144r12p1166r15p1197r13p1215r13p1234r13p1284r13p1297r14p1317r13p1455r15p1457r15p1459r15p1503r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "b155b0b009d3ba2a8dea3af4d5b1e40f9c22b1a3569b79ce62e8e1a70dc924af",
+  "validation_errors": []
+}

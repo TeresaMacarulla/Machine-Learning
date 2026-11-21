@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ee08168eb4c9c4dc3fca21f4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Muster Point",
+  "setter": "cbuss",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2c9575cf08864b21aef3293a21b32897",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1199r12p1220r15p1236r12p1247r13p1301r13p1333r13p1386r14p1470r15p1498r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "250a2bb60ee0abfdce8679e1489afad5cac488b03707ee758518914d28ea4d17",
+  "validation_errors": []
+}

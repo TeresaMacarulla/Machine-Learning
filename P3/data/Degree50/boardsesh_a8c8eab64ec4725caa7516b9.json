@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a8c8eab64ec4725caa7516b9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Energize",
+  "setter": "Saltho03",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "A6330C5BE2ED4B6485918D4ADB793C13",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1197r13p1249r13p1254r13p1322r13p1326r13p1395r14p1462r15p1535r15p1536r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.83,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "90d3e93051358787e3fa77635a25b765b162962dda2b6e1c4212eeb36a034dc0",
+  "validation_errors": []
+}

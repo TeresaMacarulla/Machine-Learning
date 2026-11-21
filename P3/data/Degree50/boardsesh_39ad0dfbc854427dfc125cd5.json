@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_39ad0dfbc854427dfc125cd5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "close to far",
+  "setter": "rogue344t",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "033fb301d4434884b88db662e8cd696d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1186r12p1191r12p1203r13p1250r13p1264r13p1285r13p1332r13p1345r13p1379r14p1521r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.5,
+  "hold_fingerprint": "d10f1b2e621e2187abd621e269bb90ffa3f5119c041be026d24d3c30594f0a4d",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f378c8e10869bed7a296c929.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Gummy Bear",
+  "setter": "spotteam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "641D4C9106B84A7E99922112EABAEBC8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1086r15p1127r15p1130r15p1161r12p1163r12p1214r13p1266r13p1301r13p1314r13p1333r13p1384r14p1529r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "5b7f2c0d835c35cc95a53bbabe9fd9085281577bd3c9a3e461be8be5d404ef57",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5beea6a45e15872867351a8e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "campus-probrem1",
+  "setter": "teregen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "E5C1CCC515A646F3B2FEF3EF50F06E86",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1219r12p1250r13p1269r13p1317r13p1370r13p1384r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "52ca16426736af1d0468723418bcffe3a29badfc1a08287c42aa26dfd256cb29",
+  "validation_errors": []
+}

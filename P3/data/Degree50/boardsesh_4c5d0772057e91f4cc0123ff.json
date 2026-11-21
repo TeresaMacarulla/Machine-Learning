@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4c5d0772057e91f4cc0123ff.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "36 grad",
+  "setter": "derwelt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "4dd2746cfc71453a9b6eb12b35f22cc8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1163r12p1253r13p1322r13p1325r13p1395r14p1460r15p1526r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "cbac8b218045ca38d1779d76dd7dbe12545d3e0215a256d938c0dcd3516567ba",
+  "validation_errors": []
+}

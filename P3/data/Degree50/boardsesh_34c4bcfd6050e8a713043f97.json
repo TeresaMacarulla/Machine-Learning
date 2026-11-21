@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_34c4bcfd6050e8a713043f97.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Lift Leaning",
+  "setter": "milkman_photos",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "61EA7973E93B4A8792722E6D954DB19E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1202r13p1236r13p1287r13p1335r13p1352r13p1383r14p1452r15p1455r15p1471r15p1507r15p1551r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 2.0,
+  "hold_fingerprint": "bb9ea3ec450c4f6c73b0e24c1f2a305e32d0764dca082f3f697a8de24240ac4d",
+  "validation_errors": []
+}

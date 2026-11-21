@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f589bbadc000b5c36f9cd2bd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Condor St.",
+  "setter": "lacro042",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "97DCC5EC0C2F40A79E96DD7DAD8FFD03",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1165r12p1201r12p1232r13p1287r13p1299r13p1335r13p1383r14p1485r15p1487r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.92,
+  "ascensionist_count": 28,
+  "quality_average": 3.73,
+  "hold_fingerprint": "0115af0b697e4fb4ceaee99a4a1c48d3f97d8c1b742163dbb58b6962a8664462",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_32cdda1426b990b372cd8fbf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Propensity for Intensity",
+  "setter": "Tobinator",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "38a07619-b9f3-4d15-9ed1-27fea0293b20",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1184r12p1253r13p1264r13p1280r13p1296r13p1349r13p1205r12p1387r14p1480r15p1489r15p1497r15p1502r15p1503r15p1519r15p1521r15p1269r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "f7fb75895543bb60253999a4c664ff0b2615240daf737dd4fdaa96887726736d",
+  "validation_errors": []
+}

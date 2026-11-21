@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d6ed9e87b4b972230a3bc8d8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "The Fridge",
+  "setter": "GirthQuake",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "6B630872ACF1483A998FBF17A6A2D39F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1163r15p1180r12p1202r12p1230r13p1254r13p1289r15p1299r13p1322r13p1334r13p1357r13p1385r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.6,
+  "hold_fingerprint": "50c56a09470de7984de8e605e6850179686ef0b03671d5c535dca95a8b2561c8",
+  "validation_errors": []
+}

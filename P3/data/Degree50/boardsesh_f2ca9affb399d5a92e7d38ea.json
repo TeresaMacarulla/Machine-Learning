@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f2ca9affb399d5a92e7d38ea.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Prendre ses pieds ( End feet match )",
+  "setter": "vanessamonana",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "EE3415CAE2CD41DAB58EEF6DBA11065C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r15p1149r12p1167r12p1170r15p1234r13p1237r15p1268r13p1274r15p1302r13p1304r13p1353r13p1391r14p1454r15p1457r15p1513r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 2.0,
+  "hold_fingerprint": "268417ab6c0e481b94e51340c7ca2dcc5c10af14dc8926140d049f12e42f1c68",
+  "validation_errors": []
+}

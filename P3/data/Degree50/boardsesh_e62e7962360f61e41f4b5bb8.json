@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e62e7962360f61e41f4b5bb8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Longhorn Press",
+  "setter": "ojared",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "f8c3b4f8f7294e2cbb944f6b05c85d8f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1085r15p1197r12p1213r12p1251r13p1283r13p1299r13p1335r15p1353r13p1391r14p1496r15p1529r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.75,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "31d4975d6da99f7aa584a879f73c5c1a4bc923e89a2bc5298a4f1ea19f352362",
+  "validation_errors": []
+}

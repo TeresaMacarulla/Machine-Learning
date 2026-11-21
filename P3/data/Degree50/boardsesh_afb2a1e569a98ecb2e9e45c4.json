@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_afb2a1e569a98ecb2e9e45c4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "i thought this was a tension board",
+  "setter": "sanjr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "888cd0f95b6a40589d65c1c6aaaf75ef",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1143r12p1190r15p1195r13p1251r13p1269r13p1290r13p1337r13p1392r14p1465r15p1520r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.38,
+  "ascensionist_count": 26,
+  "quality_average": 4.54,
+  "hold_fingerprint": "e26f641e5582ddc698a7ac417a693c657f62b6867d27c4875ea286c59977f1aa",
+  "validation_errors": []
+}

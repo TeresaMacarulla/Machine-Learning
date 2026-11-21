@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2ae04ca8380f2fd7bbb2bccd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "mazza7",
+  "setter": "tlandman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "416B6180DFC147C1B5CA8715B5A16C4D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1149r12p1167r12p1235r13p1305r13p1373r13p1394r14p1532r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "4218fd2164610c37fbb90b1c6bc69757b0593f7b739735147d49367b33240fbc",
+  "validation_errors": []
+}

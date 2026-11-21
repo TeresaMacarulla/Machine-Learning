@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cea76cc24f135abe2b5adf3e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "mogged",
+  "setter": "luke.climbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "146FB2F8F8F744A7879E9E24B2651AC5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1203r15p1230r13p1270r13p1272r13p1284r13p1392r14p1461r15p1485r15p1559r13",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.91,
+  "ascensionist_count": 33,
+  "quality_average": 3.03,
+  "hold_fingerprint": "c73201e26d70c14ac2572db038c0408da2268109001e830c263fb772370b0f20",
+  "validation_errors": []
+}

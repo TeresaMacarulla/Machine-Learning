@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cde009cd9cff2c0fcb3d6077.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Underclong",
+  "setter": "Alocin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "16b9a1b623224064826ebf6efec6debb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1119r12p1121r12p1187r13p1216r13p1272r13p1274r13p1325r13p1393r14p1447r15p1452r15p1489r15p1518r15p1525r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "a206de898d26a156f94874113e5180f18deac6a930b4901a5fd1f847de086609",
+  "validation_errors": []
+}

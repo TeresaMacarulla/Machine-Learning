@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_134c6b554d0f3bba60e77564.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "hitchhiking",
+  "setter": "zj07",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "860D18BF3D1741D5B480386F2E823B2F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r15p1220r12p1234r12p1302r13p1315r13p1387r14p1479r15p1521r15p1530r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "10ab8e6166b8c60868941a3d44a892220db15a080d0a73d74d39741d7e5da2d1",
+  "validation_errors": []
+}

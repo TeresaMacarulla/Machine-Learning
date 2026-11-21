@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1f5119d29e07dba51851660a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Trainieren",
+  "setter": "Tarekrobrahn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "dedc47cb173542b79f37db660fa1d761",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1124r12p1129r12p1180r13p1236r13p1286r13p1341r13p1394r14p1395r14p1459r15p1464r15p1516r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bfc038d69c417bd6f22bc0deea8378a6f7618efd88fc9e45a41de1807b150a72",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9fbef035c7e7b3a476bb3120.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Serpents Path",
+  "setter": "reslemm",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B3BC006987B44B73BE8D24C531FAAA13",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1120r15p1149r12p1179r15p1202r13p1215r13p1270r13p1302r13p1334r13p1347r13p1383r14p1494r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5da24ce514b33a59236d23cdbdc0e5ef0417eef44740dc90fecbd80c6e8e952c",
+  "validation_errors": []
+}

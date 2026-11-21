@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bed12a3dec5d396f95070ddb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Core-bachev",
+  "setter": "Paka",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "59A1B87B91F64FA1911A615E6C9A386E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1160r12p1180r12p1230r13p1261r13p1296r13p1314r13p1342r13p1352r13p1355r13p1370r13p1395r14p1483r15p1541r15p1543r15p1555r15p1561r15p1568r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ecf1606912ea2af1483bd6a17e8a2f1854a1bbf921674969e9e4b91acb7ddc9a",
+  "validation_errors": []
+}

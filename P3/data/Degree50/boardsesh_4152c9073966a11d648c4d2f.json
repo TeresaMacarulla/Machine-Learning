@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4152c9073966a11d648c4d2f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Network Drive",
+  "setter": "jkassay",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "fbfce52938a0427bb564c23c7b5298af",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1147r12p1165r12p1197r13p1247r13p1278r13p1314r13p1331r13p1385r14p1470r15p1487r15p1537r15p1546r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.82,
+  "ascensionist_count": 22,
+  "quality_average": 3.64,
+  "hold_fingerprint": "aaaf6e8df9f02b3b26162a6d17bce17977001b665a7af859c83fdffcef3834bc",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f1e1a45009e4218b36307b96.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "terrassen",
+  "setter": "marcusns",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "6DEBB600F73645BE9ACF852C8FC67913",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1106r15p1121r12p1142r15p1173r12p1179r13p1186r13p1196r13p1201r13p1230r13p1261r13p1298r13p1363r14p1453r15p1454r15p1521r15p1549r15p1582r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "da2043db7c32e500a424043775afd348e47dcdbd1226a2e735660b4c538fc7e1",
+  "validation_errors": []
+}

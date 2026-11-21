@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c2e2ef56c877ab57bd1ac9f5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Pharao",
+  "setter": "DaHro",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1BEB49203EC6495E8CBA786F2400B147",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r12p1148r12p1222r13p1286r13p1375r13p1388r14p1453r15p1459r15p1553r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "49ef6bd2d50e6fc49c65ae345f952db0d5f66092b3a07270c3467945fc697a44",
+  "validation_errors": []
+}

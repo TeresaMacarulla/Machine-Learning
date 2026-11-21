@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1dcb4ee0b652c70c493d9681.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "Context Free",
+  "setter": "EthanHunt125",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "a8a41ae086624a428e235714d13a4f82",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1191r12p1241r12p1250r13p1280r13p1288r13p1332r13p1345r14p1518r15p1521r15",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "ba5165353e79afa0594dfb9181fdd2cb069b59f1836bf9da21fd205985e79c68",
+  "validation_errors": []
+}

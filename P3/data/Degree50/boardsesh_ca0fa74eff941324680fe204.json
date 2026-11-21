@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ca0fa74eff941324680fe204.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "gurgle",
+  "setter": "snemchuk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "681c98ef-b5e9-46bf-aead-5ed6b8323a73",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1126r12p1199r13p1167r13p1238r13p1509r15p1490r15p1292r13p1536r15p1394r14p1493r15p1086r15p1222r13p1518r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "051cd179b5454797f8393691895c0bfd47b8b468cb39299df1bfc87a9721466c",
+  "validation_errors": []
+}

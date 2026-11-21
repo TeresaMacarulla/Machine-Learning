@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_90f84df3e8acc7c15f2dd5d8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Doors Open",
+  "setter": "mapstone01",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "F87B44DA636F494A97B270BE2422730E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1218r12p1240r13p1274r13p1342r13p1354r13p1367r13p1373r13p1380r14p1456r15p1506r15p1542r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0662002e83bfc58683d7f7b227fe7c919ac73698feeada5bab0e56a5bb2ae391",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_61aa6bf01125764aaef54f7a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Jump Starter",
+  "setter": "Hiro10",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "bdda62147d77411399e42299a39bc2e7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1197r15p1220r12p1284r12p1287r13p1336r13p1371r13p1383r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 38,
+  "quality_average": 3.43,
+  "hold_fingerprint": "5f1654099e6f2bbd287f8419be03bf96c95f0f54c8cfe79a962268101013dfd6",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ed2d48c01ffe6a2746f4d0f1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "3:10 to Yuma",
+  "setter": "hiboulder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "C1DBC10AF598421E9DF067A68504C8F7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1230r13p1248r13p1321r13p1391r14p1461r15p1485r15p1510r15p1540r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.07,
+  "ascensionist_count": 14,
+  "quality_average": 3.43,
+  "hold_fingerprint": "be599a8ec9cf0d745f888cea4f584ab91c6c5945cd5f9de0fbee8bf960d0e253",
+  "validation_errors": []
+}

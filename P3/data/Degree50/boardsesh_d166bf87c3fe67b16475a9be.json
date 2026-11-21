@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d166bf87c3fe67b16475a9be.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "backpack red bull",
+  "setter": "joiner01",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "E605622B0ED8446899B7A2FFA594A7A2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1144r12p1163r12p1231r13p1267r13p1271r15p1317r13p1353r13p1371r13p1392r14p1514r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 37,
+  "quality_average": 3.4600000000000004,
+  "hold_fingerprint": "8823153a99d6705cd7c6041713e7bdbcd0dd08c8f7a4df28a9f2e7e221d9cf38",
+  "validation_errors": []
+}

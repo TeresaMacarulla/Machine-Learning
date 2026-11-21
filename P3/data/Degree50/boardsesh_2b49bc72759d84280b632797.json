@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2b49bc72759d84280b632797.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "dynamite punch",
+  "setter": "zacfr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "946ecb22-e598-406f-93c9-2f556c7ebec1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1216r13p1177r12p1162r12p1467r15p1487r15p1263r13p1285r13p1290r13p1254r13p1390r14p1516r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.73,
+  "ascensionist_count": 14,
+  "quality_average": 4.36,
+  "hold_fingerprint": "7abc7cc1a81b032c139f27efd2f3452ad052685e2bd65bfff7221c823bdf4e3c",
+  "validation_errors": []
+}

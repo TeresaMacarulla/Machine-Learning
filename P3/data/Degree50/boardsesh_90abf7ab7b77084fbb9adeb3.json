@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_90abf7ab7b77084fbb9adeb3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "skipbedoo",
+  "setter": "osheehy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7317D11583A04E80800BD2E68A7D371B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r15p1166r12p1239r15p1250r13p1287r13p1304r13p1352r13p1387r14p1454r15p1456r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "361b6485400731351976ff550e6338bf53e1b74d9ede5b4e759f45c839180ee7",
+  "validation_errors": []
+}

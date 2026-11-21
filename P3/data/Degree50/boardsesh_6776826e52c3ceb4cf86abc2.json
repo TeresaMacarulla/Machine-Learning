@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6776826e52c3ceb4cf86abc2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Tictac Bricabrac",
+  "setter": "CCDog76",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1908f0fdf2194262b9972e63c7c6011c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r15p1179r12p1181r12p1248r13p1263r13p1285r13p1303r13p1353r13p1390r14p1522r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 4,
+  "quality_average": 2.75,
+  "hold_fingerprint": "6f71b9f8cc7bc3f6a992451be482d3da05c96156fbcca99b72725be39af73c7d",
+  "validation_errors": []
+}

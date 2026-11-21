@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c61f4c7041dd8b144ee289bb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Hunca Munca",
+  "setter": "kilterjackie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "12A7BEB4C93D44898238D33E82EE0E79",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r15p1166r12p1205r15p1220r13p1252r13p1286r13p1319r13p1356r13p1373r13p1391r14p1568r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.88,
+  "ascensionist_count": 1626,
+  "quality_average": 3.51,
+  "hold_fingerprint": "61e006579fac0ac9bf290b15c0618cec65c538727d465b65f5eb3a9dc084a26d",
+  "validation_errors": []
+}

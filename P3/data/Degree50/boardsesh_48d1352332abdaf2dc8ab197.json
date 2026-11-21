@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_48d1352332abdaf2dc8ab197.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Prodigy",
+  "setter": "DiegoArevaloB92",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "BB2E87D3FD294EE88CE67E9D121978EA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1165r13p1183r13p1203r13p1235r13p1290r13p1320r13p1338r13p1384r14p1455r15p1459r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "bca801d87d87653f666a2faf775585a50e57ba1df6866e242d6b8b15560c2073",
+  "validation_errors": []
+}

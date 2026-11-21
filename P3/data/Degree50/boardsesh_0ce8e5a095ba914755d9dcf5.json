@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0ce8e5a095ba914755d9dcf5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Deep Back",
+  "setter": "KilterStudio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "735EDF7E531A4E0BAC5E091CD596F3B0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1198r13p1236r13p1284r13p1338r13p1388r13p1391r14p1455r15p1468r15p1497r15p1505r15p1544r15p1561r15p1567r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.8,
+  "ascensionist_count": 10,
+  "quality_average": 3.6,
+  "hold_fingerprint": "67cd0d8df311d4437e4c7191c200110e557c68cd65aeb1e5f346b650e140e118",
+  "validation_errors": []
+}

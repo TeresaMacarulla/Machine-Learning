@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_721f9a85bc02d223537c1a1d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Alone on the board",
+  "setter": "Mscho98",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "D946CC0CC4234A7FB25466888C2CD30F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r12p1147r12p1199r13p1210r13p1244r15p1249r13p1283r13p1352r13p1364r13p1379r14p1457r15p1466r15p1477r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 2.0,
+  "hold_fingerprint": "d8fb02e2739a767d10a49178d7659e2cf9a348a13bef3cd31441a8255dcfbaec",
+  "validation_errors": []
+}

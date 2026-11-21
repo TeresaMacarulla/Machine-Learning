@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_91c9e7ff7ab64311b05d2cf8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "big moves, good holds, body tension",
+  "setter": "ninamaunuaho",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "defa0e937377445994fda2ead99687b7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1184r15p1218r12p1231r12p1267r13p1315r13p1354r14p1365r14p1468r15p1470r15p1504r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.92,
+  "ascensionist_count": 12,
+  "quality_average": 3.33,
+  "hold_fingerprint": "2f522576f39889cd9465ac63dbba42476b1405942b9355b56c18dca670dc434f",
+  "validation_errors": []
+}

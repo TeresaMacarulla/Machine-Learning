@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c8d3beae031e8e03f12b98b8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "lockoff?",
+  "setter": "dylanfricke",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "01dcdf97-1725-4981-a445-8bc4565d52e4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1464r15p1459r15p1214r13p1540r15p1503r15p1248r13p1484r15p1252r13p1506r15p1317r13p1355r13p1386r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "f6319648c943db08d4ffc95bd89356e7681b90a37f3c36cab04292b6f544ad31",
+  "validation_errors": []
+}

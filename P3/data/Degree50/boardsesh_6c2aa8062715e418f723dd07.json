@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6c2aa8062715e418f723dd07.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "bolt hole",
+  "setter": "jakedotclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "68DB634C2E384C39A3E4468A716D2650",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1127r12p1183r12p1252r13p1339r13p1388r14p1526r15p1561r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.99,
+  "ascensionist_count": 853,
+  "quality_average": 3.22,
+  "hold_fingerprint": "5c0b75557c53c6e85c9f0f830a90e07ec321c90b13a47b257a87d17bef5d7fa1",
+  "validation_errors": []
+}

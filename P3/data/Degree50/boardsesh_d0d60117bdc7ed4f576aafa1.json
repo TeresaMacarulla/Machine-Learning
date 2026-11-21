@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d0d60117bdc7ed4f576aafa1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "bike pump",
+  "setter": "matt_hinckley",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "07EAAF6FF3E74F0FA92CBE4F32C7C1E5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1169r12p1205r12p1289r13p1302r13p1384r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "60ad69bbec0d20ce54f19650d17544a1d6b67449243f977cb5160e694923c4a0",
+  "validation_errors": []
+}

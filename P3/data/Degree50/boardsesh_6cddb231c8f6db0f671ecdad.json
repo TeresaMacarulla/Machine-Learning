@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6cddb231c8f6db0f671ecdad.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "k-hole troll",
+  "setter": "CRANK",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "A1EA6FB0F65547EE85CB55163AEFD65C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1281r13p1288r13p1332r13p1379r14p1480r15p1523r12p1525r12p1568r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.13,
+  "ascensionist_count": 8,
+  "quality_average": 3.25,
+  "hold_fingerprint": "b4f0f03aac119619732849b93d45e6f47cdcaf98a0c5746f7c44e41c8b4cb3cf",
+  "validation_errors": []
+}

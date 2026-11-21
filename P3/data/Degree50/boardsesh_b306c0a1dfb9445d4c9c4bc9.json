@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b306c0a1dfb9445d4c9c4bc9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "flip-flop",
+  "setter": "RYAN.7",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "DE4CF8469A1146C2B21D77B5A4E6D33F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1146r15p1149r12p1201r13p1212r15p1264r13p1266r13p1330r13p1385r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1bd8b227d19c8f9a579fe8700878bc044e962dfdba8d934f86c37ae549aa7eab",
+  "validation_errors": []
+}

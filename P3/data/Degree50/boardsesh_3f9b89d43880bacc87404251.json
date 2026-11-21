@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3f9b89d43880bacc87404251.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Face It",
+  "setter": "christoph.braeuer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "4C61640A9CD54F778C37625762E669E6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1182r12p1184r12p1227r13p1249r13p1250r13p1312r13p1329r13p1351r13p1386r14p1455r15p1456r15p1468r15p1484r15p1537r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "435e63f90003bcd81fed085ae984f6b67c88a59f65c3350aaec41a4ee87605d3",
+  "validation_errors": []
+}

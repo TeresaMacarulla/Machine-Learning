@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_170d5460d3abc1846dcc60bd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "La spalla",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3ADCC72890034D1CADA8CD46B7619185",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r15p1144r15p1150r12p1217r13p1281r13p1363r14p1543r13",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 26,
+  "quality_average": 3.56,
+  "hold_fingerprint": "6856459f427dce47a6a64988eeca1340b6ee4df91eaa62a6fd62c7e22b7e941a",
+  "validation_errors": []
+}

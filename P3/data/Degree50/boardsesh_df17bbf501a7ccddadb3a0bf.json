@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_df17bbf501a7ccddadb3a0bf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Vegas strip",
+  "setter": "climbcentral",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8621606F520C476095872D945B9E0CD7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1148r12p1228r13p1232r13p1254r13p1283r13p1320r13p1375r13p1394r14p1458r15p1504r15p1563r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "352ba0501bdb4f8514e273731fff92af802f013e827640a04d1e3f6818cd5860",
+  "validation_errors": []
+}

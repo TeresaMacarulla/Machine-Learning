@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_df6250694da3cabb251453fe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Cross Crimp",
+  "setter": "nlun",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "cec2094d2edd4b6d876be9ebc2db7515",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1158r12p1214r13p1248r13p1303r13p1321r13p1324r13p1392r14p1459r15p1477r15p1503r12p1506r15p1535r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "8151c0bada435512f4f2259d3c47c7d84ed2b878a72e8637cd6074ea1feb3dc4",
+  "validation_errors": []
+}

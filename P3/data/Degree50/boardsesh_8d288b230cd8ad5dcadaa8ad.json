@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8d288b230cd8ad5dcadaa8ad.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Espresso Macchiato",
+  "setter": "BadMonday",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "132525dc8ef34c3e8140f38605188ffe",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1110r15p1179r12p1193r12p1201r15p1231r13p1302r13p1336r13p1391r14p1462r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "791aa663a7d34a7340ecf1ca974f9a93ab304d569442ffa00a357f51407d69d1",
+  "validation_errors": []
+}

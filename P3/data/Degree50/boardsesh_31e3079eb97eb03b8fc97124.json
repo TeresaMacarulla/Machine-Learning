@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_31e3079eb97eb03b8fc97124.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Get my left side",
+  "setter": "tortesla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "7AD58ABE55D44663A527A03BD914CF5F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1241r13p1275r13p1293r13p1395r14p1447r15p1498r12p1535r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3dc140323aed6da05bc77bac7196fcac8410ed674ae6fb12f2b73c36fab531ab",
+  "validation_errors": []
+}

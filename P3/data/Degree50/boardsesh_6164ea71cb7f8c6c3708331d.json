@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6164ea71cb7f8c6c3708331d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "splitsaway",
+  "setter": "bendelamotte",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "CEAC995FA67F4ABDB0C466A69988DA6B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1141r15p1151r15p1199r13p1213r13p1259r15p1267r15p1300r13p1321r13p1324r13p1392r14p1452r15p1461r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "982b17cddf9d2cfe708fbbf2e3121145539bbaa0191560c5b102f3193a4430c6",
+  "validation_errors": []
+}

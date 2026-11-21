@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a7c186f08b72076c59d93997.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "poisson",
+  "setter": "julian789",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "fe5e2b5d-0c1c-439e-89d3-a7f90d5383ac",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1265r13p1213r13p1165r12p1184r12p1316r13p1318r13p1370r13p1371r13p1392r14p1487r15p1110r15p1219r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 7,
+  "quality_average": 4.25,
+  "hold_fingerprint": "3b095d2aa3b96e71c87c37d1d65678d450cb5c086471dc5aff3196d0c1cef98a",
+  "validation_errors": []
+}

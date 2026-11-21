@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5d19e60faafe8e127a393373.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Funky Bunch",
+  "setter": "dpb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "ec046da0-9650-42d1-a059-b7f2b8694336",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1265r13p1264r13p1179r12p1475r15p1318r13p1354r13p1391r14p1532r15p1521r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 4.5,
+  "hold_fingerprint": "4f9a93f4ada9bd124fffda292985f00323ff6609b7bff4580d7911d1abc1f0ac",
+  "validation_errors": []
+}

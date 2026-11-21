@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9d82970393cf05ae77f9169b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Compression with a twist",
+  "setter": "vm9727",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "F6CC05EEB90543C1BDF1D98D30E31345",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1152r15p1166r15p1204r15p1215r12p1220r15p1236r12p1249r15p1269r15p1283r13p1304r13p1334r13p1354r13p1389r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.88,
+  "ascensionist_count": 25,
+  "quality_average": 3.38,
+  "hold_fingerprint": "8811e755e7f45e748faf440349a0ef5c66fe2a49e1f1d0c32fcbb8dad658e771",
+  "validation_errors": []
+}

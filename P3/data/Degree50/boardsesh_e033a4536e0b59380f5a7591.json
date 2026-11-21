@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e033a4536e0b59380f5a7591.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Lux Aeterna",
+  "setter": "markusleeb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "80D4ED31D61843AB92DF5BE7200C734B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1198r13p1267r13p1289r15p1338r13p1385r14p1466r15p1575r15p1583r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "8b913ef16560e61541c41b9e302a19920ee433e2b68533d6f0ddf15685e495ef",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c0d0e3160d369391da2eb41a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "JUFLO 2",
+  "setter": "tiflo2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "203e400e-5ddf-43ea-8353-7bc2585a17c1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1225r12p1189r12p1293r13p1272r13p1355r13p1385r14p1482r15p1499r15p1536r15p1544r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.5,
+  "hold_fingerprint": "3aa0b8f4f971e4205531aeb0a4c5a740022f25181c49e9f9bd1b854374ecef92",
+  "validation_errors": []
+}

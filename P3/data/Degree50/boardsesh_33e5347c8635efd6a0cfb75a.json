@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_33e5347c8635efd6a0cfb75a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "HDGDL",
+  "setter": "Lewin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "C6A4F3AA80F143BF8370B6286E20D3F8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1186r12p1249r13p1250r13p1281r13p1334r13p1385r13p1391r14p1470r15p1532r15p1564r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1384e10ceee9110843ede41544e09549519fbecc3dc55649298747c2ad70fc05",
+  "validation_errors": []
+}

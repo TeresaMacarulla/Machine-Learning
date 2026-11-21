@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f83b404e36e1b3b9dcfe6152.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "stick em up",
+  "setter": "Constant_Classics",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "052E65CDBC2541EDB76718F898B8E694",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1166r12p1234r13p1299r13p1300r13p1386r14p1454r15p1457r15p1479r15p1511r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2e67a11983859d3d4b5c7a314ce2446f9523d8a9b23f8391f7e9ca94f0f3d588",
+  "validation_errors": []
+}

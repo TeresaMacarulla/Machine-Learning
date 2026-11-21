@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0201a608fe1769dc2a933686.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "Murderous",
+  "setter": "SG_Climbing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "513db6cac795456eb5fb87c5adc8d285",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1081r15p1082r15p1287r13p1389r14p1469r15p1470r15p1505r12p1506r12p1532r13p1533r13p1569r13p1597r13",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7edbb07c1db9976406d3bfb1dd0abd31d1d3ebcec7339a30517c7ab509b5a8c8",
+  "validation_errors": []
+}

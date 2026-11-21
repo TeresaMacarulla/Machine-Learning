@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bb9316bfb132ec6fcfa178ac.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "YJPE 3 (45 degrees)",
+  "setter": "yeeyunjie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8A8FC68FC94345CFAD04AE34E6F1054E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1184r12p1203r12p1235r13p1271r13p1290r13p1320r13p1338r13p1368r13p1389r14p1489r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.95,
+  "ascensionist_count": 42,
+  "quality_average": 3.44,
+  "hold_fingerprint": "bf7c7a1e97a83d7fed95e6a9e39d95baf3489d7e4f6652ca3a3010888e2086fb",
+  "validation_errors": []
+}

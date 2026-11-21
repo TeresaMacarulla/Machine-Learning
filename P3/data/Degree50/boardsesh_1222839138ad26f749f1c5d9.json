@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1222839138ad26f749f1c5d9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "easy holdz,big movez",
+  "setter": "agutteridge",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "017D882671624990BB03C69550C536E2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1201r12p1205r15p1236r12p1247r13p1300r13p1353r13p1391r14p1505r15p1511r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.99,
+  "ascensionist_count": 249,
+  "quality_average": 3.36,
+  "hold_fingerprint": "045073c9cdb0969ca5563fc6cc23b0feff5ce55672f5760dd52f69eac84237b8",
+  "validation_errors": []
+}

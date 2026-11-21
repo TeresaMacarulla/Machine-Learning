@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9b7d50294afac19e48b64139.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "hotdog",
+  "setter": "pkman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "474bd15de5ca4c21befcde3d32a812ff",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1203r13p1269r13p1322r13p1369r13p1384r14p1452r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.01,
+  "ascensionist_count": 141,
+  "quality_average": 3.37,
+  "hold_fingerprint": "5dda5b175ee661f0bcfdbc1d46377a488e51abf5a6e00ec752891885142f5f77",
+  "validation_errors": []
+}

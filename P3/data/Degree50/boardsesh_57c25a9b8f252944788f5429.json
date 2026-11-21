@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_57c25a9b8f252944788f5429.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Window licking",
+  "setter": "thosearentholds",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "C982C6FA3344415DA3CE053056292993",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1138r12p1140r15p1186r12p1213r15p1216r13p1245r15p1254r13p1283r13p1330r13p1332r13p1338r13p1345r14p1449r15p1555r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": null,
+  "hold_fingerprint": "6c2c5597f9e7aefbc8e981093253333ed63ec30a345de1bf7262d4ff892edc00",
+  "validation_errors": []
+}

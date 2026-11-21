@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_883f5dbed6e67ba5fdd673ef.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "dalton test",
+  "setter": "1murphy11",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "EF322DD14DA245CD9693777ED757E55D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1084r15p1115r12p1129r12p1164r13p1231r13p1278r13p1330r13p1382r14p1469r15p1476r15p1530r15p1558r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a710d63a50288a7a0225df8590dd42f2a8ee878cbc270ca6dce13418f0b03346",
+  "validation_errors": []
+}

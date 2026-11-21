@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_df2aeb965babf928b2cccb98.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "BCM",
+  "setter": "RavioliTriceps",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C7FB45BB2C2D48C0BD4171265A38AA89",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1143r12p1212r13p1231r13p1272r13p1280r13p1284r13p1302r13p1340r13p1391r14p1460r15p1516r15p1519r15p1537r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.23,
+  "ascensionist_count": 15,
+  "quality_average": 3.23,
+  "hold_fingerprint": "310fa34015164e773c204a0ba8c2a68b6ccf6c1a7a5ad86d2cfcf7aa2bc46e32",
+  "validation_errors": []
+}

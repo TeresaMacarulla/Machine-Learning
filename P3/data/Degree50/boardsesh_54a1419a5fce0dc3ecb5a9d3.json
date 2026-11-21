@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_54a1419a5fce0dc3ecb5a9d3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Climbing Tigah",
+  "setter": "CryingTigah",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "D1402739C56A44F9B9065F636483A0C5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r12p1165r12p1168r13p1201r13p1237r13p1273r13p1305r13p1336r13p1339r13p1370r13p1384r14p1454r15p1456r15p1550r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.8,
+  "hold_fingerprint": "c2cdfc51fd4cb4377bed7318f555a9bd9c1bec18844d16974ec904897dbd565e",
+  "validation_errors": []
+}

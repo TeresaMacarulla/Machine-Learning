@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4dc05ccec4f241af4205bbe2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "floopy",
+  "setter": "bpogrady",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "BB67DB61310F478BB7B5D943B4C01A32",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1144r15p1149r12p1164r12p1166r15p1215r13p1219r15p1234r13p1249r15p1263r13p1271r15p1301r13p1352r13p1371r13p1387r14p1454r15p1459r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8d46c599a7dd25f00d130ba57afc9c3209e87e61dec58ff346c6f3bb103cdb3c",
+  "validation_errors": []
+}

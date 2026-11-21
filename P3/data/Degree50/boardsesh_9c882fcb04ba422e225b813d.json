@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9c882fcb04ba422e225b813d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Pico de Gallo easier",
+  "setter": "simondevries",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "E62607D017C84862B48CD5FA6CBA1F1A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1086r15p1113r15p1133r12p1147r12p1161r15p1181r15p1203r13p1232r13p1287r13p1299r13p1387r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.0,
+  "hold_fingerprint": "f07fbf35a8b8755ebfde5de66beefe2ae4a083fa21f0dc060873918c6d26c359",
+  "validation_errors": []
+}

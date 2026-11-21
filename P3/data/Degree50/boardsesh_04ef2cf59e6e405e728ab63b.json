@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_04ef2cf59e6e405e728ab63b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "2-Story house",
+  "setter": "Roeret",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "589917E9B41645BB916CE49585C6E76F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r12p1136r12p1234r13p1254r13p1291r13p1320r13p1358r13p1372r14p1450r15p1453r15p1456r15p1495r15p1508r15p1562r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "fd457b37ac424a89554104fb76bd361b815d092fd4210485e9e2cc9013625b1e",
+  "validation_errors": []
+}

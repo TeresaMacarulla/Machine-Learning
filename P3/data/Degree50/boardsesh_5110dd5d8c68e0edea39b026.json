@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5110dd5d8c68e0edea39b026.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Flight Assist Off",
+  "setter": "Dave_Lin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "d5f2cbe2c7104fa3b837b550c9eac6e0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r12p1184r12p1240r13p1302r13p1333r13p1380r14p1592r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4e08064f34da1ec03ea98deda4b985f01f6f519b6e8861c26555ec967317cdbd",
+  "validation_errors": []
+}

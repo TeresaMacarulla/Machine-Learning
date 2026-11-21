@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e9f23696bd8c110bd137c618.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Nudeln mit Pesto",
+  "setter": "Monni",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F50ED358DCE441F2AF30A90533CBF8E5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1121r12p1170r13p1203r13p1252r13p1285r13p1299r13p1349r13p1381r14p1447r15p1452r15p1473r15p1521r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.86,
+  "hold_fingerprint": "a2398b0cf20d9db3fa96b8a86ed6ca5f28b607e63770d338ebba762d57ec381f",
+  "validation_errors": []
+}

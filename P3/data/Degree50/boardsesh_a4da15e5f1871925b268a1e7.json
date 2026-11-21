@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a4da15e5f1871925b268a1e7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "anti tall",
+  "setter": "rootfinlay",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "65DF5058C5284417A2FE41EF330F19D0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r15p1163r15p1200r15p1202r12p1203r12p1215r13p1250r13p1281r13p1298r13p1318r13p1367r14p1469r15p1539r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "0065d7ead142d946ccae8b522bd3226bd545c08abeaf7128aa2fda9102f16b91",
+  "validation_errors": []
+}

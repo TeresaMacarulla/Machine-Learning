@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_62a187b8071a6041ad2ff78a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Flight of the Ostritchichich",
+  "setter": "scro",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A8B31EE47A754117A85E1DA7B818FCA4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1152r12p1171r12p1236r13p1248r13p1285r13p1349r13p1382r14p1505r15p1515r15p1556r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2d6e5ae0438d2e7cee3a37f995c1ccf1979e8d5b24785a86952525c288172f2a",
+  "validation_errors": []
+}

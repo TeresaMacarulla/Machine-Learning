@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2892f9fb2889fc68bbbfa8be.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "badman",
+  "setter": "andrew.harb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "c91129f4-3146-40f9-99a0-0a5016f216dc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1164r12p1467r15p1469r15p1269r13p1235r13p1298r13p1506r15p1318r13p1387r14p1367r13p1081r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 6,
+  "quality_average": 5.0,
+  "hold_fingerprint": "176a4078784bfeffeabfd95590304d2d225bd7839a0b0933ce51cb741824cdd8",
+  "validation_errors": []
+}

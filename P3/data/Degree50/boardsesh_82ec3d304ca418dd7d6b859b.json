@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_82ec3d304ca418dd7d6b859b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Chunin",
+  "setter": "kr.klimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "a83379e4-c71f-4319-a687-f70a1d0f2f52",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1181r12p1182r12p1249r13p1250r13p1204r15p1303r13p1337r13p1392r14p1479r15p1469r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.33,
+  "ascensionist_count": 5,
+  "quality_average": 4.33,
+  "hold_fingerprint": "edd2b0b5dc38f8f73726152eb27b9b5d751852818bf0c3f836fc9209c9c42c48",
+  "validation_errors": []
+}

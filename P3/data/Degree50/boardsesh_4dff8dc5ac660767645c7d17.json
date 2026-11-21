@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4dff8dc5ac660767645c7d17.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "More Powerful Game",
+  "setter": "bloop",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 8,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "13470ef7f3f046c997c7a7ad1b5f1f9e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r12p1178r13p1216r13p1267r13p1288r13p1308r13p1374r13p1379r14p1382r14p1385r13p1389r13p1464r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 9,
+  "quality_average": 5.0,
+  "hold_fingerprint": "7c10fc8ab5d573a8a3532800fe66d2dcb00625a4c3673d0c51429c14402db8f5",
+  "validation_errors": []
+}

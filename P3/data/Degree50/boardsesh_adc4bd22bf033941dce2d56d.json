@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_adc4bd22bf033941dce2d56d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "burden of Ts v8",
+  "setter": "jhwang91",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "76BF9D438D9642C3AC24B1E7CFA7840C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r15p1142r12p1154r15p1173r15p1180r13p1198r13p1236r13p1254r13p1274r13p1341r13p1393r14p1464r15p1468r15p1515r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.33,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "e4c1c12e1b1c07435c4b3bd5f02632692d6906fd54cbe83dbd9bed9a89d55983",
+  "validation_errors": []
+}

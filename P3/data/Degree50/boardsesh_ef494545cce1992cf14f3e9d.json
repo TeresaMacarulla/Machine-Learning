@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ef494545cce1992cf14f3e9d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Serrer Croiser",
+  "setter": "nequewo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "c22d3667d95e48f9ad962d5e0a9a66b3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1150r15p1155r12p1234r13p1236r13p1241r13p1268r13p1336r13p1367r14p1496r15p1547r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "e1be0cbb1461138c352477f564d734c4007e5078bec3a9a9d12e74e54146ac4c",
+  "validation_errors": []
+}

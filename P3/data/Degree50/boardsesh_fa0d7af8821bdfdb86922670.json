@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fa0d7af8821bdfdb86922670.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Dende campus",
+  "setter": "boulder.lab",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "0a15412666a643e1b676657f19336fcf",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1171r12p1206r12p1220r13p1232r13p1269r13p1315r13p1318r13p1380r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "15d2d921fa75def1962465f65f48ac59b571296311ec9e458eb265a221df5ab9",
+  "validation_errors": []
+}

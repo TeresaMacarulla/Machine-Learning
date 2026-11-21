@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_158cde225c601dfadb66c1c5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Its cold in here",
+  "setter": "djsedlack",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "6EDF8FE778344930AA901DB165FC32D1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1103r15p1140r15p1169r12p1190r12p1240r13p1255r13p1288r13p1320r13p1338r13p1387r14p1480r15p1506r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "4dd7578565172cb53e06cff1115b579cdb8318c359f9cd23d6d51a43072d2cae",
+  "validation_errors": []
+}

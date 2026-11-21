@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bf72978e11732044c6888ec6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Domino",
+  "setter": "Nik75",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "815558534FC5441385401BD70935A652",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r15p1149r12p1215r13p1220r15p1269r13p1299r13p1337r13p1385r14p1389r14p1454r15p1457r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.6,
+  "hold_fingerprint": "878b83490af4c507cb192c4443d2fd5b713fa3de3336f4fc56e1837705016f75",
+  "validation_errors": []
+}

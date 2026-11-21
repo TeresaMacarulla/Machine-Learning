@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8ccc004ab600db6dc7b14a49.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "1285 Marina Bay",
+  "setter": "d.yzzy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "98bb10adbfb9458695fffb4e8e7e9993",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1145r12p1183r13p1232r13p1269r13p1303r13p1323r13p1390r14p1468r15p1495r15p1534r15p1562r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 17,
+  "quality_average": 3.24,
+  "hold_fingerprint": "6d957210bffe7f05353619395496a26ca0c6e19c4c4b4b39298fee4eef4384d4",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_18b79e2aeb4b5006d193addb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Tension and Sitting",
+  "setter": "Cuckovich",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F1A39B0789C24DCBAB357E2A88477ADB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1218r15p1224r13p1242r13p1288r13p1334r13p1385r14p1448r15p1491r15p1527r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 4,
+  "quality_average": 2.75,
+  "hold_fingerprint": "1405b3a5915e15558ae4ab6b6ff2ab0af4cb7377dea1260de24dd649f2243e24",
+  "validation_errors": []
+}

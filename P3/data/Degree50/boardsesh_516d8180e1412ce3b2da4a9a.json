@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_516d8180e1412ce3b2da4a9a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "OAP campus",
+  "setter": "zenscha",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "B856B14628AF49B6A327797410725F86",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1244r12p1278r12p1302r13p1352r13p1390r14",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 14,
+  "quality_average": 3.25,
+  "hold_fingerprint": "ffd97bce09c598b31343f186092c9d845b30fe7f890790a21cb59b7321378d61",
+  "validation_errors": []
+}

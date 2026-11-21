@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_38817c493a925f9e23871410.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "go-up monke",
+  "setter": "Climb for the legacy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "47181616-3300-4d11-b100-e0aa15857474",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1147r13p1215r13p1097r15p1455r12p1261r13p1502r15p1315r13p1369r13p1557r15p1371r13p1392r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c2e99a96d0af880ed0ae5c661d0ab6d5ed7ded6f7f17c36542e0e57d23147646",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0c72dba5a72ae3966ac6659b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "the whip.",
+  "setter": "txxmxm",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B676F134B9594B20AEB7822028EA3AD3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1155r12p1223r13p1235r13p1254r13p1302r13p1331r13p1379r14p1383r13p1448r15p1500r15p1530r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "b5265583190387356b1c646e2b1bb0c462d691b5170b00c67fac395a62a99877",
+  "validation_errors": []
+}

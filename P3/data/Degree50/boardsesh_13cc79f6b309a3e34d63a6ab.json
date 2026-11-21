@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_13cc79f6b309a3e34d63a6ab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "MN82 Warm up 2",
+  "setter": "MN82",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "E9BF30413E304776A018E2D6DB3CE3A1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1229r12p1231r12p1262r13p1300r13p1333r13p1354r13p1388r14p1502r15p1513r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.67,
+  "ascensionist_count": 4,
+  "quality_average": 3.67,
+  "hold_fingerprint": "f9dc2bbf6e5a32244df81fb4b77db58f53ad47381e1aa3756e3bb588370a8d80",
+  "validation_errors": []
+}

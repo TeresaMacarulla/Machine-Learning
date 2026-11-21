@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d679b4127c48014626fc5f3c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Number 1!",
+  "setter": "sending.sora",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "72158c45-f295-47ea-9b6e-5e7b00a73386",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1462r15p1458r15p1097r15p1198r13p1183r13p1203r13p1137r15p1517r15p1234r13p1270r13p1257r13p1340r14p1344r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.33,
+  "ascensionist_count": 10,
+  "quality_average": 4.33,
+  "hold_fingerprint": "b0d75d90ba18d0fb70ce8f536a8d9c3be2a90610eaaac67b58b7b68e8b30bbb6",
+  "validation_errors": []
+}

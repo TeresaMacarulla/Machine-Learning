@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e7a606ba6744eb339a9e9da4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Sharp Edges",
+  "setter": "ConorDobson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C23B069F7F7A435BB7BE21BED029D3FD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r12p1147r12p1200r13p1250r13p1253r13p1270r13p1273r13p1325r13p1339r13p1391r14p1394r14p1457r15p1459r15p1488r15p1508r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "cf02d63c82cad2b1969b03446b5f83244aa2344fe3595b32158220c5caeaf03f",
+  "validation_errors": []
+}

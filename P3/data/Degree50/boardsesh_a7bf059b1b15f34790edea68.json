@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a7bf059b1b15f34790edea68.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "gast",
+  "setter": "thijs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "33188732CDE54A7DA81417B27FC96277",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1186r13p1222r13p1261r13p1265r13p1271r13p1283r13p1365r13p1381r14p1482r15p1500r15p1531r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "114e36c82ca21d15d3c6b066088d46b3d4a7691a84679f4ab1444874d7e61249",
+  "validation_errors": []
+}

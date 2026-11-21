@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_62b06b3eb02a272381312000.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Kravleg\u00e5rd",
+  "setter": "grep",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "33f3cc19-0ec2-4e6b-83b3-b8b4f6cb2de9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1471r15p1300r13p1354r13p1371r13p1392r14p1236r13p1201r12p1506r15p1497r15p1187r12p1334r13p1267r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.67,
+  "ascensionist_count": 12,
+  "quality_average": 2.56,
+  "hold_fingerprint": "e602721ef8c0f74beb0d3f75cfc1dbd2ecf5d9027d66d5beb413d2f3ca72f205",
+  "validation_errors": []
+}

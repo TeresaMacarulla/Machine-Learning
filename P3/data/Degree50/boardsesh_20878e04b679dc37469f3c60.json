@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_20878e04b679dc37469f3c60.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Eggman",
+  "setter": "fatguy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "07c2b4773acd410cae03b3701285528e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r15p1131r12p1178r13p1231r13p1288r13p1299r13p1304r13p1326r13p1394r14p1535r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.98,
+  "ascensionist_count": 195,
+  "quality_average": 3.32,
+  "hold_fingerprint": "6a1086acf9f6f315328962772a4f6bee341a3db1bf6a5545d698fc84263b1a2c",
+  "validation_errors": []
+}

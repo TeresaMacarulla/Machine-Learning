@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f3d0cef959aea8f03df6ed58.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "deadlift",
+  "setter": "kdrgst",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "D243486F6CBA4661B94E8188123BAE8E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1167r13p1178r12p1216r13p1254r13p1271r13p1325r13p1395r14p1457r15p1462r15p1480r15p1527r15p1535r15p1597r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.67,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "d01e47556cbb4392f763758cda639af44ab1715df851868d69ed44f11afe77f0",
+  "validation_errors": []
+}

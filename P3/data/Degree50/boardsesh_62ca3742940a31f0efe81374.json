@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_62ca3742940a31f0efe81374.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "ogata style",
+  "setter": "ZadDLongLegs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "800E5505D04B4A36B74B013260E72B11",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r15p1155r12p1225r12p1248r13p1253r13p1272r13p1334r13p1345r14p1494r15p1509r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.0,
+  "hold_fingerprint": "7ba42cc6f7d87820c8d047227dcf578ed297040dd72fa0ceb271d45cceac7cf0",
+  "validation_errors": []
+}

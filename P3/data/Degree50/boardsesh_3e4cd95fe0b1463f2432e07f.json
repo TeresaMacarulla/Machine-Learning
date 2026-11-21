@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3e4cd95fe0b1463f2432e07f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Hochdruck-Steiniger",
+  "setter": "tjarkmaass",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "433d2a72-9d85-421a-b720-5b0d21d7c4c7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1370r13p1314r13p1279r13p1537r15p1362r14p1519r15p1291r13p1208r12p1320r13p1482r15p1500r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5afe00cd0ce96d425c6126c1199c6173203b8fd2796c8f141d24ce70638c3318",
+  "validation_errors": []
+}

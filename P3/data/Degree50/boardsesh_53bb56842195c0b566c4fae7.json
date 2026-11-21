@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_53bb56842195c0b566c4fae7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Belette de compet'",
+  "setter": "P.H",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "d062d21c4d8a47399e140b9bf27267db",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1160r12p1163r12p1199r13p1201r13p1236r13p1239r15p1252r13p1304r13p1351r13p1389r14p1459r15p1460r15p1570r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3ba6d6cff03322510736822b99dde9208955c50feda301cbf962e9ffdee3f03c",
+  "validation_errors": []
+}

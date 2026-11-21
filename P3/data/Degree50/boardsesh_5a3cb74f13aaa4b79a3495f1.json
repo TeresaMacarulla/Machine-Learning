@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5a3cb74f13aaa4b79a3495f1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "la paix ",
+  "setter": "Ar100",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "d61ba10d-ed1f-4b56-9ea5-33f809338c79",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1100r12p1187r13p1271r13p1254r13p1248r13p1333r13p1379r14p1457r15p1517r15p1511r15p1540r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "312b6ef707716a6014ae82ec8f9a046aeb9cd596f9aa9ad2ff2aac1d69423cb8",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ee08a31671ab26036a61c5ab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "big ben",
+  "setter": "Hazen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 15,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6960c51b4a4a4a31a30aba079d1dda04",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1093r15p1109r12p1119r14p1141r12p1173r14p1195r13p1204r13p1223r13p1229r13p1247r13p1257r13p1275r13p1281r13p1306r13p1315r13p1351r13p1359r13p1374r13p1385r13p1389r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "3a0d9586d318510b56b9c5b4eb91e99f873972029d66ff19552c7b782087e4f8",
+  "validation_errors": []
+}

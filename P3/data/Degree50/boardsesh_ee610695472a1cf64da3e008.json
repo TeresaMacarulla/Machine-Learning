@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ee610695472a1cf64da3e008.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "ongingbonging",
+  "setter": "Karnage_McCloud",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "20574864bae5409aa5baf1ad8040e487",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1131r15p1162r12p1166r15p1178r12p1214r15p1231r13p1282r13p1303r13p1334r13p1371r14p1389r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "e5d02aa198710fca77d2d66e49e53d37e3d0aab1adaab8b61f09afa5b9314afe",
+  "validation_errors": []
+}

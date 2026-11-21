@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_21209910ca5d734e6c94ac2f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Pinch the Cheeks",
+  "setter": "stone.gardens",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2477B1F5C442412DB1E8D56EDF9ECD83",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1216r12p1254r12p1291r13p1357r13p1385r14p1515r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.85,
+  "ascensionist_count": 13,
+  "quality_average": 3.0,
+  "hold_fingerprint": "d1012382ccd644307df3cea01e95bf96182850791be7a3b4a99ad5f4aac9d667",
+  "validation_errors": []
+}

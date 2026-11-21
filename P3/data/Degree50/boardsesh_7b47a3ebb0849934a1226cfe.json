@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b47a3ebb0849934a1226cfe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Jake Silly",
+  "setter": "JakeSully",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "cb787e04338a442589c871437c563e58",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1161r15p1226r12p1246r12p1281r13p1289r13p1302r13p1303r13p1305r13p1308r13p1342r13p1376r13p1391r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "87d2e611b5126713b1c2ffa6e5cff81a4fa9e320671603f98f35661028bf9b2b",
+  "validation_errors": []
+}

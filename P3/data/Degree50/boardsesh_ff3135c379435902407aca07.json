@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ff3135c379435902407aca07.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "before triangle",
+  "setter": "im.nobody",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1878758DD0FE4C4EAD36192E35FC8FEF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1167r12p1222r13p1290r13p1343r15p1372r13p1385r14p1469r15p1500r15p1536r15p1554r15p1581r13",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "176541fd6093f265aa39f17586c62b545687e067ad6d63bc82811f7f31411ad6",
+  "validation_errors": []
+}

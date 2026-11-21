@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cdf625bdc9679dc8a6637281.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Blue 4 ",
+  "setter": "JackBean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "db7601b2-6e65-461c-9196-26ee9e864112",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1147r12p1166r13p1198r13p1234r13p1306r13p1340r13p1375r13p1390r14p1236r13p1270r13p1551r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.5,
+  "ascensionist_count": 4,
+  "quality_average": 1.5,
+  "hold_fingerprint": "2d7090f4a777ce1e854d58e84d31dcfd9fc4a63f7406077509a490e2b16146ff",
+  "validation_errors": []
+}

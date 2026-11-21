@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fc0a38b9a5635ac16f884c30.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "go up\ud83e\ude9c",
+  "setter": "bugstable",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6B2A6EDCDC7342AAAFA660C7AA64D204",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1254r12p1306r13p1308r12p1340r13p1389r14p1390r14p1543r15p1568r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 1,
+  "quality_average": 2.0,
+  "hold_fingerprint": "d4d3ed2eac1548d324a5ae8c054af8eddad4aa273f08733159c9ea1a09ff378e",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a48e87acd34d07f25041d3a3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Stor Baby",
+  "setter": "Climbing_Stuff",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "37ae76683d42413b9707f216b24d0aba",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1081r15p1156r15p1186r12p1188r15p1201r12p1257r13p1259r13p1271r15p1387r14p1393r13p1394r13p1518r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "80500ecc3e6c35c2d718a066e447844a1b76cbc6d13c96caef3edf11bb7fe537",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c2e2bdc9d73ff98c0ce3b2d8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "All on the Corner",
+  "setter": "urbanclimbingireland",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "8948576302834E7EAD783C20725C01DC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r12p1120r12p1203r13p1273r13p1339r13p1394r14p1449r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.81,
+  "ascensionist_count": 38,
+  "quality_average": 3.76,
+  "hold_fingerprint": "9fd41528e7271f0093bb7070b94eb3d2f9fff2fff42d52cebe5599ea1e05d17b",
+  "validation_errors": []
+}

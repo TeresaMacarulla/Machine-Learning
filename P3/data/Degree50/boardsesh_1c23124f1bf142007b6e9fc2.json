@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1c23124f1bf142007b6e9fc2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "soldier",
+  "setter": "Darkboss",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "edf7db9f9a2a4f35b82cce032add2b6e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1101r12p1134r12p1184r13p1236r13p1268r13p1353r14p1456r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "60b5ad6e51c5cad5e512dc2963e9f41c8765a36112a2fb42e26a76c58c67c05d",
+  "validation_errors": []
+}

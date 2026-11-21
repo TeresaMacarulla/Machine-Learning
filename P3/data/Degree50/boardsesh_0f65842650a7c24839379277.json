@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0f65842650a7c24839379277.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "dynamically perfect",
+  "setter": "royal.G",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9B37A06B75D744EBB8C7E0D658A3F2A1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r15p1144r12p1177r12p1233r13p1247r13p1353r13p1371r13p1391r14p1393r14p1462r15p1464r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.67,
+  "ascensionist_count": 3,
+  "quality_average": 3.33,
+  "hold_fingerprint": "1c3f183bb94d9e7ae0fc6f9b18084c6e3600af09ed67f29fe6a68c0ad30fbb02",
+  "validation_errors": []
+}

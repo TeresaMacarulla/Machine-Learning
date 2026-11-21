@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e098d1f7322ce337baa8e737.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Hmpf",
+  "setter": "Florinator",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "d71279bf94e3463cb75cb5be0d67a61e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1201r13p1286r13p1325r13p1392r14p1456r15p1459r15p1513r15p1532r13p1535r15p1545r15p1554r15p1570r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "8d78d740e7d06c078cbd236401ef8a8bc5ea332fbbe2ccf981bc2ac7456adea2",
+  "validation_errors": []
+}

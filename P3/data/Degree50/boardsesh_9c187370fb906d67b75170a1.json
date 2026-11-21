@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9c187370fb906d67b75170a1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Loaded Knee",
+  "setter": "mbaldwin32",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "22582F8D87444582A6E6E400ACB89DB7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1096r15p1162r12p1163r12p1204r15p1215r13p1254r13p1283r13p1316r13p1328r13p1379r14p1459r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "463b2b983ec2b459fdfdb7e2cf1ac4961e201aad7d44eac0ce87e81b364bbec3",
+  "validation_errors": []
+}

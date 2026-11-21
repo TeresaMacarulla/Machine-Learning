@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_328e6ff101132602dd48c6bb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Hocus Schmocus",
+  "setter": "Flashikovksi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "277f90076701402fae0a4662e173f110",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1183r15p1200r12p1217r13p1239r15p1248r13p1303r13p1304r13p1336r13p1373r13p1393r14p1532r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.87,
+  "ascensionist_count": 83,
+  "quality_average": 3.2800000000000002,
+  "hold_fingerprint": "a52ce5513f3982076c12d165f5328cee428401fae33c05c81765a5b025c7ea03",
+  "validation_errors": []
+}

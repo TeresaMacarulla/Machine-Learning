@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4ea59de3b539ce08b9e688ee.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "wildcard",
+  "setter": "rockclimbthis",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "9C12F4FABBFD42A5B3C0BB7031706F27",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1105r15p1140r12p1171r12p1182r15p1216r13p1238r13p1283r13p1353r13p1384r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.08,
+  "ascensionist_count": 26,
+  "quality_average": 3.31,
+  "hold_fingerprint": "6267a5a44c9ee1994d142496d0332f153cccd14628f352ed4284e437a73faa33",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e848d7e68d5a3f33090e25f7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "floor 13",
+  "setter": "bogbean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "89c88c150f8d4ba49374d654d628b43a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1161r15p1232r12p1248r12p1299r13p1304r13p1317r13p1373r13p1394r14p1487r15p1521r15p1533r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "c366e2f8b60bc44dc59361759cfddb6ad8d605a16f5aacc162b34e7ae371b768",
+  "validation_errors": []
+}

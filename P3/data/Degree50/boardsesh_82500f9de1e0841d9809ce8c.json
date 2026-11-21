@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_82500f9de1e0841d9809ce8c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "bilboquet",
+  "setter": "CamilleMichel26",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "96db666550a140af8ff47ddd6a1e03f4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r15p1189r12p1220r12p1240r13p1242r13p1308r13p1356r13p1357r13p1388r14p1481r15p1499r15p1570r13",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6b694eed129fa8c836aacd41ddc3a489145cf24b53ea0fdf7662a5f18e220d48",
+  "validation_errors": []
+}

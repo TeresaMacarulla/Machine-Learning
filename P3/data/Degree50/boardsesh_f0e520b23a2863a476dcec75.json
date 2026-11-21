@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f0e520b23a2863a476dcec75.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Small, Smaller, Smalst",
+  "setter": "KianJager",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C06F41C920AC4F13A1FDFD96C25B49D3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1184r12p1185r12p1236r13p1270r13p1304r13p1371r14p1373r14p1470r15p1508r15p1533r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6564129e6b57f54225baa733303599032a59961d2e218e9ed819ab7b60f719a6",
+  "validation_errors": []
+}

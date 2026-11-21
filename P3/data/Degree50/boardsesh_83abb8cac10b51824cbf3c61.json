@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_83abb8cac10b51824cbf3c61.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "locker room",
+  "setter": "bkbskilterboard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2B7026E14EA94B1F87F09530B078ECEA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1215r13p1236r13p1283r13p1301r13p1314r13p1383r14p1456r15p1479r15p1504r15p1529r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a0ee6f9aefc5f03a782503d8573f7a5df2ea079e8e927e0ba7a5460dbc103d45",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_be74522d748f822085d608a8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Double Left",
+  "setter": "endz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E5FDEEE8675942C092C0C8584BE27F38",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1146r12p1149r12p1199r13p1203r13p1216r15p1270r13p1290r13p1324r13p1370r14p1542r15p1551r15p1596r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "3edb1e7de73e25977039b357ffccc71a87f01d85befbfa2082707b4f5245a676",
+  "validation_errors": []
+}

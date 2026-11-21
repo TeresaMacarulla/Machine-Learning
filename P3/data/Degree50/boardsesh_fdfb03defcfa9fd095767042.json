@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fdfb03defcfa9fd095767042.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "hatsa",
+  "setter": "thijs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "7B49F58FD05A48319884F39763344D5D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1102r12p1129r12p1176r13p1233r13p1295r13p1332r13p1350r13p1389r14p1519r15",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "3101c8315179a2c72205371d74d65f671df37cc97dea82c8a7c869f3b7694d90",
+  "validation_errors": []
+}

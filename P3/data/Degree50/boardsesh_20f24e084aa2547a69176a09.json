@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_20f24e084aa2547a69176a09.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "jeterminator",
+  "setter": "max_rav",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ee7df745a8f14c0fb9d9ca510c610f90",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1166r12p1215r13p1236r13p1302r13p1373r13p1391r13p1394r14p1470r15p1477r15p1506r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.86,
+  "ascensionist_count": 8,
+  "quality_average": 4.14,
+  "hold_fingerprint": "4e1e6e0624230f4c957a6216a545b77121f14403f88e549f2cd13ff725b719ac",
+  "validation_errors": []
+}

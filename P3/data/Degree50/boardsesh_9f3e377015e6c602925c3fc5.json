@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9f3e377015e6c602925c3fc5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Getting Paid to Stand",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "f7839388fe7544a5a5aa1c693cd8e246",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1161r15p1201r15p1205r15p1248r12p1249r12p1257r15p1299r13p1304r13p1371r13p1374r13p1376r13p1394r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "6170fd9a28d579f1777ca9ecbb656f8f966551429e9ea6cb774c9b9b13f6086d",
+  "validation_errors": []
+}

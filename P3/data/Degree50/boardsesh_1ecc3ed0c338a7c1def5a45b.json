@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1ecc3ed0c338a7c1def5a45b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Taylor time",
+  "setter": "Quadricorn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5178C4951EF445118676CE89B26DFED6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1081r15p1149r12p1166r15p1231r15p1234r13p1263r15p1299r13p1302r13p1351r13p1382r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.89,
+  "ascensionist_count": 62,
+  "quality_average": 3.36,
+  "hold_fingerprint": "fbe0a02728f1e6c1f3e3e627c53b37f853fa5526e613bc906e3a892744be8a29",
+  "validation_errors": []
+}

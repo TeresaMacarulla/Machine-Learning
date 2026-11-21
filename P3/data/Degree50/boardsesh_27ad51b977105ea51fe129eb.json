@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_27ad51b977105ea51fe129eb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Pumped shoulder set",
+  "setter": "von_z",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "872d269141e0433788ea4f5eed41a352",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1119r15p1169r12p1222r13p1258r13p1320r13p1323r13p1325r13p1383r14p1387r13p1478r15p1481r15p1518r15p1536r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "94e39b58ed0728522d673471c01cc2277bf8915600ac06f8990dcff508e985be",
+  "validation_errors": []
+}

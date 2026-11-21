@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3b1588a4e8c9384b42543ff3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Tie Me To The Rack!",
+  "setter": "theunaphotobomber",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0b41d95a9fa3445d96e80bdedf39e6dc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r15p1195r12p1197r12p1218r13p1230r13p1253r13p1274r13p1339r13p1394r14p1492r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "cbc1a51121e9565f30e03afbac9ca53a59f3594f6bdfce2fa8f496c5571394b8",
+  "validation_errors": []
+}

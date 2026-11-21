@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_651b4b3866c0b10790917cd5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Standard Matt Climb",
+  "setter": "svertm",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8175a78fb59748afb3ab46641f22502e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r12p1118r12p1130r13p1182r13p1194r13p1263r13p1311r13p1381r14p1449r15p1453r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5806b70fe9aa91e3e030c5377ff7d30176a7f60aef1ce28f052061ff8676c3f5",
+  "validation_errors": []
+}

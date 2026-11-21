@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_452cb8bdf73c4808fa4b9c95.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Summation",
+  "setter": "samk223",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "733ced357e3d49a5913aeb64e857eb10",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1179r12p1203r15p1248r13p1286r13p1302r13p1323r13p1391r14p1492r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "2ff9d8f0155c8d06e004d6e0b2d1504d9e9239695bcb09ca2b8ae3f4a2b877c2",
+  "validation_errors": []
+}

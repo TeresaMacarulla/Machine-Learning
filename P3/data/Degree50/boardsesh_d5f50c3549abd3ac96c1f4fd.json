@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d5f50c3549abd3ac96c1f4fd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Sports!",
+  "setter": "shmitch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2ec5c4b2a1ac47e0a153244a8890ae4a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1163r12p1197r12p1234r13p1268r13p1304r13p1355r13p1391r14p1525r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.03,
+  "ascensionist_count": 161,
+  "quality_average": 3.35,
+  "hold_fingerprint": "4e3cfb5b4599a90a66b36a367f38b0171d2e336e61e423d20a41def4d3fc8a31",
+  "validation_errors": []
+}

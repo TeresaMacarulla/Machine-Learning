@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d8f2790b4e3765901ea31ca9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Skinwalker",
+  "setter": "Goule",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "d892e4971164488490d3d5ac1ca83304",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r15p1141r15p1186r12p1198r12p1216r13p1228r13p1263r13p1277r13p1332r13p1364r14p1488r15p1520r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5353da9aa23b6d5f605e50ca2476c37db45bbda542f6e7f95bff62e4ba2abbeb",
+  "validation_errors": []
+}

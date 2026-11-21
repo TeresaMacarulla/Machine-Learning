@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f811b9b006e17eed20aaa028.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Show Me Something",
+  "setter": "Hankerings",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "089822ca-2052-457c-bf6c-aa4a461acf65",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1175r12p1109r12p1464r15p1246r13p1247r13p1286r13p1337r13p1374r13p1391r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.27,
+  "ascensionist_count": 35,
+  "quality_average": 4.2,
+  "hold_fingerprint": "872327dc989f789ba0ca1f1e13e837f6b8ddcd53c562e012fbdfcaec416e71d1",
+  "validation_errors": []
+}

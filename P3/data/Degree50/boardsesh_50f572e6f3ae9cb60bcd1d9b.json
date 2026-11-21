@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_50f572e6f3ae9cb60bcd1d9b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Indeknoop",
+  "setter": "thijs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "8081EFA25D7F40D4B6A463C283677A04",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1095r12p1125r12p1180r13p1249r13p1253r13p1279r13p1352r13p1357r13p1368r13p1374r13p1395r14p1459r15p1466r15p1489r15p1519r15p1521r15p1554r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 6,
+  "quality_average": 2.5,
+  "hold_fingerprint": "ae4e528b26f5ca6d38590e072e9fc6eeca108e09131c88664f9e784c55143f6d",
+  "validation_errors": []
+}

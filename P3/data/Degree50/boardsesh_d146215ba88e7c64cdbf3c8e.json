@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d146215ba88e7c64cdbf3c8e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "huh variance",
+  "setter": "boddha",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "73736EE902094B1ABA341366E00CDC52",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1133r15p1152r15p1166r12p1218r13p1239r13p1257r13p1267r15p1321r13p1354r13p1391r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3ae6e3a1235bd2f3c914cb6f5b7fac2322b05cf8f850317316cc271f3ec6fb50",
+  "validation_errors": []
+}

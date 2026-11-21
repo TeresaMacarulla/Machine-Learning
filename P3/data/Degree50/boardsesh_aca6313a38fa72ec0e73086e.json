@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aca6313a38fa72ec0e73086e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "bed toe",
+  "setter": "serrgiio4v",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "eb714e8b-f683-4ba1-a74a-40eb1e3a8246",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r12p1447r15p1223r13p1120r15p1289r13p1340r13p1353r13p1384r13p1379r14",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.75,
+  "ascensionist_count": 4,
+  "quality_average": 4.5,
+  "hold_fingerprint": "ceeeed4bb79c08364249148e9e2b1363883a4926ed1e87970cafabffcfe5f9be",
+  "validation_errors": []
+}

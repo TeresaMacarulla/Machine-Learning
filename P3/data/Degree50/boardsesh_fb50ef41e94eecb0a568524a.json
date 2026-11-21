@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fb50ef41e94eecb0a568524a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "fly-day",
+  "setter": "Daniel_Brzozowski",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "75613CE805374E448FA71246A931DCE9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r12p1126r12p1164r13p1248r13p1302r13p1389r14p1458r15p1462r15p1463r15p1504r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.88,
+  "ascensionist_count": 8,
+  "quality_average": 4.25,
+  "hold_fingerprint": "dc5746d7a0be5e89ab55796795d4a63c59407ca814156320ea2485d1c3c5774a",
+  "validation_errors": []
+}

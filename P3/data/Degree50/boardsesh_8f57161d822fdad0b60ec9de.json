@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8f57161d822fdad0b60ec9de.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Griptonique",
+  "setter": "lucadamico",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "243C6398BCA34CCDA0F822CE6759DC74",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r15p1155r12p1223r12p1270r13p1286r13p1294r15p1300r13p1314r13p1365r13p1386r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "38300b2221e4b39b3598e0f6540f4d197f3ba59e85a518fe83b17a5258e235a0",
+  "validation_errors": []
+}

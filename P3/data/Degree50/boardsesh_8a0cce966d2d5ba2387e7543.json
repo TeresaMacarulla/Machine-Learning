@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8a0cce966d2d5ba2387e7543.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "eliminate the left (foot)",
+  "setter": "Austin_explores",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "de1a49d8-62e4-402c-a3b9-7b7e71bc7df6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1144r12p1198r13p1236r13p1257r13p1242r13p1327r13p1391r13p1388r14p1383r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "3865e17061193c556d2441cda0b31d6683547fd3e064495c74a7068573f7e637",
+  "validation_errors": []
+}

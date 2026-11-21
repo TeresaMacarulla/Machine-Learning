@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c7ef2d492670b091d7a91375.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "soft (no match)",
+  "setter": "quentin_comi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "ead6e3eefacc4b5596e56f0ef9d829e8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1185r12p1235r13p1272r13p1340r13p1344r13p1367r14p1389r13p1455r15p1496r15p1498r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "81a811aee7dcd985fef9445627f9179c1beba9a84507a3adc6c6c68fe5c5cb47",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_525e097dca98e8b7313753b9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Sharknado!",
+  "setter": "jwilder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "FDF2A139B7344FC7B93BE16AD40F351C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1162r15p1164r12p1182r12p1235r13p1269r13p1274r15p1305r13p1314r13p1335r13p1382r14p1468r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 21,
+  "quality_average": 3.380952380952381,
+  "hold_fingerprint": "5ec7a58d12f3236e832d64e787788e09210cfbfd3a6b534407c6130a5515923e",
+  "validation_errors": []
+}

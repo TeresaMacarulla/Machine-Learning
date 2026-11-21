@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a438738dce7323b775b46605.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Flight-Proven",
+  "setter": "petercrane",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "D846A993EBBC444689B2AD93C5E80632",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r15p1116r12p1183r12p1196r15p1198r13p1253r13p1270r13p1323r13p1371r13p1384r14p1386r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.22,
+  "ascensionist_count": 9,
+  "quality_average": 3.44,
+  "hold_fingerprint": "122010e9ab0d304166ea378bd553d179e3dcf58751ca9bb8b3349458f56ee0d6",
+  "validation_errors": []
+}

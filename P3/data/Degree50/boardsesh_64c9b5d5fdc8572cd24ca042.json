@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_64c9b5d5fdc8572cd24ca042.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Slopers Ain\u2019t Easy",
+  "setter": "mind.body.climb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "BEB88C540B104B9A88D2E88F793EF983",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1129r12p1133r15p1185r12p1200r13p1235r13p1271r13p1284r13p1319r13p1354r13p1372r13p1386r14p1452r15p1457r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "109472728a5e7539546887153dcd906a77f64da43c7f1eb5368315ddda67f545",
+  "validation_errors": []
+}

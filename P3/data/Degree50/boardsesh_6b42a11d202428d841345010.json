@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6b42a11d202428d841345010.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Et\u00e4ty\u00f6 4",
+  "setter": "olmio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "f97390e9787b461f93f17f173a674989",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1116r12p1132r12p1183r13p1231r13p1268r13p1320r13p1369r13p1370r13p1383r14p1454r15p1456r15p1505r15p1541r15p1548r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.07,
+  "ascensionist_count": 43,
+  "quality_average": 3.28,
+  "hold_fingerprint": "662b918ee739cf20ac1da331c36671a8140788025c40863831cfc34ae183e569",
+  "validation_errors": []
+}

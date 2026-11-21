@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1abccaaa03a3045f23a2641c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "robuste optimierung",
+  "setter": "derwelt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "f4b5651c4d934554a4c7594aa686752b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1163r12p1267r13p1304r13p1391r14p1458r15p1466r15p1524r15p1540r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.98,
+  "ascensionist_count": 105,
+  "quality_average": 3.46,
+  "hold_fingerprint": "649dd0fb0ce407a9b31d0e5ba770226d6ec768677fb615be22b0bcd271ed8dc0",
+  "validation_errors": []
+}

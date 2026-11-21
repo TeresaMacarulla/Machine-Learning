@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_272669f0ff56a619b9195858.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "static or dyno idc sit",
+  "setter": "Riptile",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FFD0ADA4E7EC4040A69373E22FC617CF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r12p1152r12p1187r13p1234r13p1302r13p1315r13p1347r13p1379r14p1449r15p1470r15p1521r15p1533r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.79,
+  "ascensionist_count": 52,
+  "quality_average": 3.52,
+  "hold_fingerprint": "52324ab6f14198f217ec463f9e8136b740f967cbe6e5ee403c011f8e9105a826",
+  "validation_errors": []
+}

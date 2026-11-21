@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_988ada4a35396b358a4bd7c7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Project (BW)",
+  "setter": "ben.wilko",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "9b6fb2755dc44d5c99c82d29d6515d45",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1165r15p1197r13p1230r13p1250r13p1280r13p1331r13p1335r13p1385r14p1459r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "9e5a88380c911824a855e01dd8fe6d6152b36637a687b330c5bb5cc46b44fbf1",
+  "validation_errors": []
+}

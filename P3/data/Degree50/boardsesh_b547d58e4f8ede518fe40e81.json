@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b547d58e4f8ede518fe40e81.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "The Undercrimper",
+  "setter": "pklap",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "54e38376238d4c4e9564cd1461878699",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r12p1171r12p1224r13p1273r13p1304r13p1309r13p1339r13p1387r14p1447r15p1518r15p1533r15p1535r13p1542r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3431410bdf3578a3c0f6753986391e4948359af5534a010177046bc390a0a19f",
+  "validation_errors": []
+}

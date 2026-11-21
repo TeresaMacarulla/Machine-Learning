@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ca8a7645c571815430bef6e2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "DynoSaur Top",
+  "setter": "Kcrump6",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "40f0ee534e4243b28dab0cb4d557e31c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r12p1165r15p1214r13p1249r13p1287r13p1319r13p1386r14p1460r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "51d90ab2f6546fcd4ec71bd9e8947fbff70eaa4d0ff8fbc4caaf52569ba1ad7f",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_02264e41009d264de1485c2b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "bump^2",
+  "setter": "zacfr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ee71a96e-9d87-4d12-82cc-44d30a695c88",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1187r12p1140r15p1190r13p1271r13p1076r15p1251r13p1580r13p1343r13p1505r15p1535r15p1391r13p1388r14p1544r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "56cf23a8eed1ed6c052e22ef58643acae6dbd5480ce03432c18e1e3823c3dc0b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dc0da94b3c92cad1f01181ed.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Flo ist schief",
+  "setter": "fjk918",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "D24CB266822146C0823A9F056A06EC49",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1132r12p1202r13p1216r13p1271r13p1310r13p1342r13p1374r13p1386r14p1468r15p1496r15p1543r15p1554r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6716de563f906b9a9fd6e23ac7cc8d899f18062519237e41dcb16944b927ab4a",
+  "validation_errors": []
+}

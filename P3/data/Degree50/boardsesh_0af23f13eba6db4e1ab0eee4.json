@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0af23f13eba6db4e1ab0eee4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Hollow Tree",
+  "setter": "JakeSully",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5eba5712332e42eda156f388666fa214",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r13p1237r12p1267r13p1280r13p1297r13p1311r13p1348r13p1365r13p1386r14p1480r15p1487r15p1495r15p1521r15p1539r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "a3a1b0346278c82c64860afb52cadc8aa6e2b3adbf5cf85b723b8472dfa4b96d",
+  "validation_errors": []
+}

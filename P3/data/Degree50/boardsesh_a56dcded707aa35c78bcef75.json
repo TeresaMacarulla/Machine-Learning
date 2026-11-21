@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a56dcded707aa35c78bcef75.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "sun chips",
+  "setter": "jchongsends",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "85B6615E1D5745C8925D35F570F6C093",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r12p1169r12p1234r13p1298r13p1303r13p1318r13p1331r14p1453r15p1534r15p1548r15p1569r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "bd0c20928fa51696f46126f403765e492184ca246f81a61e9c2de8711d12635b",
+  "validation_errors": []
+}

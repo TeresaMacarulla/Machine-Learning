@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_de12ee3ae18b720be1826c22.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Big Steppa",
+  "setter": "safetydan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2C92A8EBEEB64B49B63199D103A74B03",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1213r13p1248r13p1269r13p1304r13p1372r13p1391r14p1461r15p1506r15p1544r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.94,
+  "ascensionist_count": 51,
+  "quality_average": 3.42,
+  "hold_fingerprint": "d51c417ec19b8e54df3a6be018a2f0f0ad43854e2646e148e76b1e2f8a0c94cf",
+  "validation_errors": []
+}

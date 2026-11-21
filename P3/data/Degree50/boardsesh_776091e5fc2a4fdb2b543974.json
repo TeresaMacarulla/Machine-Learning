@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_776091e5fc2a4fdb2b543974.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "J Train Pinch",
+  "setter": "jiawei",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "D0672CC59ED0434E9025BCFBCF709609",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1186r12p1191r12p1235r13p1241r13p1285r13p1291r13p1320r13p1357r13p1387r14p1489r15p1507r15p1525r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.99,
+  "ascensionist_count": 87,
+  "quality_average": 3.36,
+  "hold_fingerprint": "ee023576f6505ad26cd267d545e8c18ed5b5c1541c6eb35cca4002c084faa077",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d2b60fa68c186860ac27133d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "No Flex Zone",
+  "setter": "yung_dunc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "374C6540C7454812976E2B26995FC92A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1208r12p1258r13p1270r13p1271r13p1301r13p1352r13p1386r14p1481r15p1482r15p1505r15p1506r15p1521r15p1539r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.17,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "bac4a0dca96febdee1b2932c1b8417353e37b0c6227cb816f3b910e974b014a3",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f1aa2e11ff51bafcb291e6b8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Mega Scuff",
+  "setter": "stubbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "af03b1bc932343de8355e70e0fccd105",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r12p1188r12p1253r13p1286r13p1317r13p1387r14p1447r15p1449r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 5,
+  "quality_average": 2.6,
+  "hold_fingerprint": "6fdf1d14c4c9ef3a70e8b49bb55d8308bb380bfcf0a27578c9c07f43eacff2b2",
+  "validation_errors": []
+}

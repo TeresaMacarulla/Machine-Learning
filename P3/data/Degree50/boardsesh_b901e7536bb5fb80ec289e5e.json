@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b901e7536bb5fb80ec289e5e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "no turn on red",
+  "setter": "CorbinSage",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C1C46C7A87FF448990D2EA340CFE6865",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1116r12p1118r12p1168r13p1184r13p1236r13p1272r13p1321r13p1391r14p1452r15p1456r15p1516r15p1578r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "afef6ce2efe6f98d31a016a083aaa6882d45601b1cbeffc9ca984f9dd60fe25e",
+  "validation_errors": []
+}

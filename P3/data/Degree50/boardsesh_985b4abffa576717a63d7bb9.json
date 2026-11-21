@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_985b4abffa576717a63d7bb9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Unc style",
+  "setter": "frootloops",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "69CDEE66EAAF4B548781B8514BA08160",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1198r12p1199r12p1237r13p1293r13p1332r13p1341r13p1355r13p1382r14p1493r15p1533r15p1548r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6a4264a37a9140b93b524a7df611bd99efb3ae46f6336fb4f309b1a0b799c19d",
+  "validation_errors": []
+}

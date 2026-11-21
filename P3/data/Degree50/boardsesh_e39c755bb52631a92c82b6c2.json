@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e39c755bb52631a92c82b6c2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Scorpeon",
+  "setter": "purplexpurple",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0CBA091A02E14FFA8C125FA8A5034227",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1117r15p1143r12p1163r12p1168r15p1215r13p1219r13p1268r13p1274r15p1304r13p1338r13p1370r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3acf253bc748b2eb45982a137b2850da7f6835cf865d1252f2d9f18f863e24d4",
+  "validation_errors": []
+}

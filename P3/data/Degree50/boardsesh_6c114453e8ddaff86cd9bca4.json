@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6c114453e8ddaff86cd9bca4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "La scala di Cammelloni",
+  "setter": "antizio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "71400fb6-c1ca-4452-bcb5-3fc77e4ee852",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1459r15p1143r12p1160r12p1231r13p1268r13p1336r13p1182r15p1390r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.67,
+  "ascensionist_count": 3,
+  "quality_average": 4.67,
+  "hold_fingerprint": "0ae83dd5250c6004dddd09197a09ff3c5831682b928c45b321a4b826b9e6d93f",
+  "validation_errors": []
+}

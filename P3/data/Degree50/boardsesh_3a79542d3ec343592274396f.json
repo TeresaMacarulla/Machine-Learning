@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3a79542d3ec343592274396f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Bell of the Wall SDS",
+  "setter": "Riptile",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "D179987F85B141148C1063CBA60E8F1E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1153r12p1169r12p1183r15p1204r13p1234r13p1236r13p1268r13p1284r13p1317r13p1353r13p1387r14p1451r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 8,
+  "quality_average": 4.0,
+  "hold_fingerprint": "b73e31e4dcccc93d5330c55555c2e16f12425eed7cd7b55179cc2bd1758789d4",
+  "validation_errors": []
+}

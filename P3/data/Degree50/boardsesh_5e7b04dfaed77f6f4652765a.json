@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5e7b04dfaed77f6f4652765a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "over exposed",
+  "setter": "lillben",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "60ee6a7de363457c8b0159518184a82b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r15p1188r12p1191r15p1208r15p1225r12p1256r13p1323r13p1336r13p1370r13p1384r14p1552r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.88,
+  "ascensionist_count": 8,
+  "quality_average": 3.75,
+  "hold_fingerprint": "dd85d5be7dfe8555bfffb3434adf5a2ed15e6d7381b9a8b0622fabab9d45f1b8",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_37c0cc971ffc8d4091cbb5bd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "head shoulder heel and toe",
+  "setter": "Pheylan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "A7031E177ED44BF4886872C30C8D3491",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1162r12p1163r12p1228r13p1249r13p1279r13p1317r13p1349r13p1385r14p1460r15p1466r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 2.0,
+  "hold_fingerprint": "cef22b8e4019c4d718db9ac9c93c7619fc30d17c8fa3b3b975bcb82bf1743759",
+  "validation_errors": []
+}

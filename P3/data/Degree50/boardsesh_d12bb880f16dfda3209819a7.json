@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d12bb880f16dfda3209819a7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Clingon",
+  "setter": "dran06",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1da295a35f85403a9234aa52e315cd6d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1219r15p1268r12p1271r15p1304r13p1353r13p1389r14p1506r15p1513r15p1543r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.5,
+  "ascensionist_count": 6,
+  "quality_average": 2.5,
+  "hold_fingerprint": "d204651d9a06d30f971042813206faa2501880ba6e04eb2c0775794d3946765c",
+  "validation_errors": []
+}

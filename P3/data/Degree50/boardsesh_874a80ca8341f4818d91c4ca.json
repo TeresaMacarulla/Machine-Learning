@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_874a80ca8341f4818d91c4ca.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "CloverSoft",
+  "setter": "ksmd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "346ed96552544a3eb835c3aece111992",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1216r12p1254r13p1270r13p1291r13p1306r13p1344r13p1394r14p1480r15p1536r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "0172c6f3610a5482773ed237fcbd77dc0dd3325d5759d8e9049347d3c960e278",
+  "validation_errors": []
+}

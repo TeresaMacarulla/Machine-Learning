@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1f34c62b86a7776263811cce.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "crimp training after injury",
+  "setter": "foukbass",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "40e98cef3e4544ec88fb9bbc1490f9ec",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1140r15p1168r15p1188r12p1203r12p1218r15p1240r13p1273r13p1307r13p1339r13p1375r13p1390r14p1447r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.13,
+  "ascensionist_count": 15,
+  "quality_average": 3.53,
+  "hold_fingerprint": "a24fff2696584056ce12856c7f4d08187af3ca9f1a43e5336e22abdc6fc9f681",
+  "validation_errors": []
+}

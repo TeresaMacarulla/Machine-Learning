@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c8ba8d9e39e50f19e0f62b29.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "pinch for pinch",
+  "setter": "tomovski",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "a77ee902-783b-4e57-a9c7-100efa7ff67a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1189r12p1508r15p1254r13p1156r15p1216r13p1285r13p1531r15p1283r13p1521r15p1332r13p1387r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "81fe6ea6524336c24a6e56f1977159731a39ae7a57d2c6935048a0238da7b39a",
+  "validation_errors": []
+}

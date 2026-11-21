@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3f44e0b038abaf40856ff2f9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Trifecta",
+  "setter": "susu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "d5d2ecc5-99a3-49a9-98b4-3d0886a42b20",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1236r13p1198r13p1144r15p1229r13p1284r13p1480r15p1387r14p1241r12p1507r12p1314r13p1210r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "1510721d501f67ca0b2720073eaa0b0b1ab5c255bbac660cf4e146a2e92495f2",
+  "validation_errors": []
+}

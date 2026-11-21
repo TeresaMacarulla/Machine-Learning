@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2360ee567cb0ca43a7e5206b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "feel the flow",
+  "setter": "gagecoleman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "B7FF9C479F144AA2B1208E0FBA7029E4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r12p1169r12p1181r13p1185r13p1233r13p1263r13p1315r13p1328r13p1362r13p1379r14p1449r15p1454r15p1519r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.67,
+  "ascensionist_count": 4,
+  "quality_average": 4.33,
+  "hold_fingerprint": "150632444ca4594daf4aacfd7bfbca18632bc67a0f2ac0da0724892a072b3a09",
+  "validation_errors": []
+}

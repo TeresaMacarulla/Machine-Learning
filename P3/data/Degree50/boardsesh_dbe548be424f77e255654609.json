@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dbe548be424f77e255654609.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Bouma boulder 2",
+  "setter": "baqiwaqi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "24602dac-6cc1-4dc4-861f-c3041d1eab87",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1462r15p1127r12p1148r12p1196r13p1233r13p1228r13p1295r13p1281r13p1345r13p1362r14p1512r15p1477r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": null,
+  "hold_fingerprint": "9116a40202072fa7712b817cd65b0ad4c21ae6bf01848b6736c312a8970929e7",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0f9cb509bf3280e4cc9d1bc2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "SUPER QUIET",
+  "setter": "thepeelp50",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3D3DAD629D7C4100B19CCFB3C6D85AB5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1118r12p1132r12p1134r13p1203r13p1206r13p1289r13p1322r13p1393r14p1481r15p1482r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bba08e304d3494f150fcab1917fb1c2c5a6c9e95719c568c09d116f89c37d4ea",
+  "validation_errors": []
+}

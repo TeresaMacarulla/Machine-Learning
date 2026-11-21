@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d6587e9422b688212955d107.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "squad power 1",
+  "setter": "joeylizard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C0EFEB24156B4D7E86D14CC38591E3D8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1192r15p1193r12p1229r15p1246r12p1294r13p1379r14p1485r15p1504r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "838b5a76ae16b59d8182bc030194ac72e772425a68b7460e866fc92daa975306",
+  "validation_errors": []
+}

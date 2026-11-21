@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5f923b16ffdd712d0aecace5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Ride the slopes Campus",
+  "setter": "Vadim_Delakian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "c01b35ed-b834-41cd-869f-39f7a3ccba72",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1235r13p1271r13p1320r13p1341r13p1392r14p1148r12",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 4.5,
+  "hold_fingerprint": "f0604ae0ca2320e139fdb0f1d19d0461a7ada784628ec258a7c398cc90dc38e2",
+  "validation_errors": []
+}

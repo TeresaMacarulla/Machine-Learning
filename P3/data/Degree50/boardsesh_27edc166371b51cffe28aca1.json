@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_27edc166371b51cffe28aca1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Campus mode",
+  "setter": "LorenzG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "d502bfbf77bc4392ad2b9bb18ad36baa",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1272r12p1302r12p1315r13p1347r13p1379r14p1380r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.08,
+  "ascensionist_count": 67,
+  "quality_average": 3.65,
+  "hold_fingerprint": "46b3dc4bd71e85d68ac07d8c679cb3ddbd1f4fe455ad599ecc7cce69111c178c",
+  "validation_errors": []
+}

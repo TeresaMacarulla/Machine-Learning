@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_406d3b76aa9b0a29a81e0f86.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "campus 1.",
+  "setter": "beny_boardclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "66a9ad84-57c4-4732-8b30-117bf7f7ae84",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1239r12p1241r12p1288r13p1301r13p1351r13p1382r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.76,
+  "ascensionist_count": 28,
+  "quality_average": 4.18,
+  "hold_fingerprint": "0e0351f007238203cac956f617235a8227c037e45bece1e951dc2e9d12540830",
+  "validation_errors": []
+}

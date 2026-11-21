@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f16f27d49585d93e413c43f3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Generic kilter board climb",
+  "setter": "quintin_b",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9a26114b90c0488c93ceb28534a2f743",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1239r13p1293r13p1337r13p1339r13p1341r13p1387r14p1451r15p1499r15p1559r15p1571r13",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "77ef23ce5b680e35ca6a7f223adbbe987e5ce8b1d586e9cf0000f296d5b56515",
+  "validation_errors": []
+}

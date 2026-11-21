@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c579871340e21f0d7ce1c95b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "D-Rose",
+  "setter": "bscorpiio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0ED714B2FDAC49D9A4CD7B66CAFD0FE2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1204r15p1213r12p1231r12p1235r15p1267r13p1322r13p1374r13p1395r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b432e9c5f058385c7d9cf54389acfbed5436ddde756c2c27840377d88ca51eca",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f3eb2ff67fdf598ff223d31f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "mat & Mart",
+  "setter": "NeSsOnes",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4E8DF6D69D9F4FF5A81A9713653F3C04",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1133r15p1152r12p1170r12p1234r13p1235r13p1283r13p1302r13p1385r14p1386r14p1513r15p1539r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f9a67f13623b1a60a04018dff1376076cab093ad23cc41756b27b6171ddf7341",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1175aa0b769d48cc34dc5248.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "square up",
+  "setter": "crunch2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "26b880f10c8e4262a3074a4382ec8140",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1132r12p1169r12p1185r13p1198r13p1215r13p1254r13p1287r13p1299r13p1317r13p1363r13p1379r14p1469r15p1555r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.65,
+  "ascensionist_count": 19,
+  "quality_average": 3.82,
+  "hold_fingerprint": "547ffc1e56245721380fa7b1f0641d67fb4c47b45fd76e5290207d5c4ca26d5b",
+  "validation_errors": []
+}

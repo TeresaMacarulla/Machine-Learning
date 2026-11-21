@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_72ad7da8588b6332e05f56e1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Portrait of Ruin",
+  "setter": "NGS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2163258A64DB49878680864B7D90B82F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1116r12p1142r15p1203r12p1215r13p1245r13p1311r13p1346r13p1384r14p1452r15p1540r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.66,
+  "ascensionist_count": 93,
+  "quality_average": 4.373763440860215,
+  "hold_fingerprint": "47fb87735e74a1af45b624dace0e9729deff2ae2b7bbcc91e3b9dcb998558ac6",
+  "validation_errors": []
+}

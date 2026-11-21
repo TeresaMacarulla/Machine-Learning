@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c2731f6762889206a9355a0b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "marshmallow 2",
+  "setter": "grainycurd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "581A4A9E73A0421A9B339C97A32DD67C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1218r15p1246r15p1250r15p1257r12p1315r15p1321r13p1324r13p1331r13p1335r13p1336r13p1380r14p1518r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.0,
+  "hold_fingerprint": "bf13390758b2142065caa622a79184dca41c3ad87f5667bbaf9596ff4081085f",
+  "validation_errors": []
+}

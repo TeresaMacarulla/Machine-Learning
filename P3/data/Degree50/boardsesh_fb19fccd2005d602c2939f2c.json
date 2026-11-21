@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fb19fccd2005d602c2939f2c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Big reach for small",
+  "setter": "corierickson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "DD3708C363A541CA9C4B53B2D8666C06",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1131r15p1146r12p1161r12p1204r15p1214r13p1252r13p1301r13p1303r13p1368r13p1387r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bdb7a872f06598f43c570acdaf32a033a69b1bd68515760b49610456ae0a5d90",
+  "validation_errors": []
+}

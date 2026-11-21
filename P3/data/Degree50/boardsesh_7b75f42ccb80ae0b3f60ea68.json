@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b75f42ccb80ae0b3f60ea68.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "campus ##6",
+  "setter": "ErickKopff",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "8b85d9502f654fc188bf00df9143bc7c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1195r12p1250r13p1252r13p1256r13p1305r13p1356r13p1386r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.89,
+  "ascensionist_count": 21,
+  "quality_average": 3.3699999999999997,
+  "hold_fingerprint": "a63e2154e805b631299aa70e58bf3c7ca3a0c264563669e650282b368cefbf40",
+  "validation_errors": []
+}

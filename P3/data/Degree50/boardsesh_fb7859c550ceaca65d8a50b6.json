@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fb7859c550ceaca65d8a50b6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "pile",
+  "setter": "pjschoelkopf",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "D38D032604D742CC8108B6A91D64E583",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1107r15p1143r12p1214r13p1269r13p1283r13p1338r13p1371r13p1390r14p1464r15p1496r15p1542r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "922b0737fd62fa26a8b3a797583cac79a9844d12c41de5a15bbe963a0a0fb5f8",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a737d28720bbf0cdd3980383.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Climbing is hard",
+  "setter": "immanoob",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "19afd2930ffd43c2ab67285145248f02",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1187r12p1188r15p1222r12p1252r13p1299r13p1351r13p1380r14p1472r15p1491r15p1547r15p1549r13",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.25,
+  "hold_fingerprint": "d24f20641e29616ecfec01db0305051d122ec92b9a6cd710df1e8c7a1be9ca2c",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b71a0e4b6e81af284e4510e3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Rainbow Swing",
+  "setter": "importedbean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "547000E0D658435F83B1BE8226A6BFF2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1133r12p1147r12p1163r15p1219r13p1231r13p1239r15p1251r15p1266r13p1304r13p1334r13p1388r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.98,
+  "ascensionist_count": 380,
+  "quality_average": 3.2699999999999996,
+  "hold_fingerprint": "f14a40c59320cee8b440d24d1cafaa20ee8aed747576047936b79e0b3fe819b9",
+  "validation_errors": []
+}

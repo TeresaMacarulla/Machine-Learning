@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2f7e89c232aaaa4dc5f41305.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "softness crossness",
+  "setter": "vmarciano",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9A1800CD68C74DD5960036BBDBC68457",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1136r12p1206r13p1288r13p1355r13p1366r13p1369r13p1379r14p1489r15p1544r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b8d0e846cc27ac2cbe916db08ec5b318c386eea99eed80de6940f59aa96d9672",
+  "validation_errors": []
+}

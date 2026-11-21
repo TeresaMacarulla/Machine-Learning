@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_af1256f29bf40072a554f4b3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Positive Space",
+  "setter": "tortesla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "F73060C98BB0433DB5061F333CE5AE32",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r12p1178r12p1209r13p1212r13p1228r13p1328r13p1334r13p1370r13p1375r13p1393r14p1484r15p1512r15p1556r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bf8d97efe9cdd49b4e3c7c5249a0b10e4119711e5ed6cbfced843a1ea121c068",
+  "validation_errors": []
+}

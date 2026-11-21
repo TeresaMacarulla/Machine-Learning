@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2091b7a633469f0832363374.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Steil\u2018s First",
+  "setter": "steil_boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "46FDE3AE750B476797D0DA3145224DD1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1095r12p1125r12p1197r13p1249r13p1286r13p1320r13p1360r13p1391r14p1458r15p1462r15p1506r15p1557r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.94,
+  "ascensionist_count": 73,
+  "quality_average": 3.41,
+  "hold_fingerprint": "03a33b5fdbdc00bd5510e2ab30d225c5ef734541c93e4fec179f4dd2dbe17add",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e383dd007be747e164f03e22.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "bend n\u2019 snap",
+  "setter": "libbyclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C4D2E1BCEC39494BB8E1A87D2D02D8B7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1147r12p1184r13p1214r13p1253r13p1301r13p1353r14p1455r15p1460r15p1507r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "20cf05771cb82978cc74c71bb0295c7621d71d79319d493ce3f7efe2a72efd37",
+  "validation_errors": []
+}

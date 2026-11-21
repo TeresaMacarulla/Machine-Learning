@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7207542cbf20ab8e8e93306f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "long.arm",
+  "setter": "pinda3",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "396549020305445CAC77356F17862244",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1161r15p1200r15p1245r12p1271r15p1300r12p1308r15p1331r13p1353r13p1387r13p1390r14p1547r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6bc216d9d376c7e60c66f5067e16949cf20c6e84cdffd21fcb36bc01878cbfc6",
+  "validation_errors": []
+}

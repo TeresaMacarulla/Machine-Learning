@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_41fc1900aa6c6497b2688a0f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "I don\u2019t know what I\u2019m doing (V5)",
+  "setter": "BKBChicago",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A01DBC6B5AC64A54AFC3AB601231BBE6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1087r15p1113r15p1141r12p1163r12p1228r13p1250r15p1281r13p1331r13p1351r13p1370r13p1388r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.25,
+  "hold_fingerprint": "b8f12f116bcf2447fc8fe552478fcddc09134252fb225c6354bfbb933e01adff",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_797ca551ae06809d281233c8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Mauroo's Madness",
+  "setter": "reseth",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b634402b20ef425ab85d78119ded3bed",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1109r12p1130r15p1142r12p1162r13p1194r13p1214r13p1262r13p1300r13p1302r13p1355r14p1463r15p1514r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b8c5c989e570f877a9c3b34a1f1ffe301c49a4592aaabe954680942d26f3dbcd",
+  "validation_errors": []
+}

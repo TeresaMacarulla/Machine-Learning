@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_28c9af48face65563ff40bbf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "burden ( easy )",
+  "setter": "ed1234737",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "FC7C746E19E148C4950B0E6339A39BA2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1096r15p1146r12p1161r12p1220r15p1249r13p1265r13p1301r13p1318r13p1388r14p1497r15p1542r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 3,
+  "quality_average": 4.33,
+  "hold_fingerprint": "f28cc3253a78d25515419e6b83e6fdae2c0824b2ee55e2a205c486b523b164cc",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5d57dced7287ce089eee08e4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "hop scotch1",
+  "setter": "wetwilly",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FE9E44F13F4F4E0B98C72CD0DFFEB988",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1178r15p1179r12p1181r12p1267r13p1315r13p1387r14p1467r15p1485r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.96,
+  "ascensionist_count": 46,
+  "quality_average": 3.47,
+  "hold_fingerprint": "ddf62374187022307bf8ee2cd93b88d8baa1893961f0864f706bc9e4e6372487",
+  "validation_errors": []
+}

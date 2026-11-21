@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0c89358e8929cce5f3430cfa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "tenga",
+  "setter": "nakany",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "D1A900699C1B423D865278D667E3702B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1164r12p1214r13p1252r13p1253r13p1272r13p1323r13p1371r14p1457r15p1460r15p1516r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b5fb424ffa823c29eff0f362c211b6ec76f0fb6e457aa9111313fd8b6b0d7940",
+  "validation_errors": []
+}

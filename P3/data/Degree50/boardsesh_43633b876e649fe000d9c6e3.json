@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_43633b876e649fe000d9c6e3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "yolo000",
+  "setter": "jackycc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A0203D1F66BA47BDA80B4D8B1F52991F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r15p1177r12p1204r15p1227r12p1247r13p1288r13p1300r13p1302r13p1308r13p1357r13p1394r14p1483r15p1501r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7abe8f1b3470c5b9f2361ffef2114f20da89348451e3ba9ab710483d189aa85e",
+  "validation_errors": []
+}

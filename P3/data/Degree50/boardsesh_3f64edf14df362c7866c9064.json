@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3f64edf14df362c7866c9064.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Sawmill",
+  "setter": "joshPW",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "d9f9fb90-6130-43ee-aa35-b829100c4cd5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1233r13p1453r15p1186r12p1467r15p1228r13p1483r15p1282r13p1314r13p1520r15p1318r13p1352r13p1383r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "6419afbf8cbe5c402198fcdea3eea9113c1fd8306ee8f020f8d9af022b41d3d4",
+  "validation_errors": []
+}

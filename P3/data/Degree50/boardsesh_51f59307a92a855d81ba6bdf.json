@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_51f59307a92a855d81ba6bdf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Crash Course",
+  "setter": "Riptile",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "70216573007940C48B4D15557C4685A6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1239r13p1274r13p1305r13p1324r13p1374r13p1394r14p1451r15p1472r15p1506r15p1515r15p1550r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "7f2f4920f35f20437510ac715cfdc420a7f5f329d63b1b437b544f456949b565",
+  "validation_errors": []
+}

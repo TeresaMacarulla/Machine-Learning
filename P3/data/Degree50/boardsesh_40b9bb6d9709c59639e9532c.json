@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_40b9bb6d9709c59639e9532c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Hyperman Kid",
+  "setter": "vince13500",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "4f2ecd3317084ab28c9be22d8e0612f5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1171r13p1207r13p1239r13p1291r13p1306r13p1325r14p1450r15p1453r15p1500r15p1525r15p1527r15p1554r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "274451d95b679da4e8ed083e9adb2211d243b0aa4759c178aa4fd57bc238a38d",
+  "validation_errors": []
+}

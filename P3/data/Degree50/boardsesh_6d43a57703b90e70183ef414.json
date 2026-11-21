@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6d43a57703b90e70183ef414.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "BoD Kilter Replica",
+  "setter": "GboardClimb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "609b0aed73924747845d32ca5af096e5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1151r12p1180r12p1252r13p1286r13p1301r13p1388r14p1470r15p1526r15p1543r15p1550r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.89,
+  "ascensionist_count": 9,
+  "quality_average": 2.33,
+  "hold_fingerprint": "3e7f3d5a384b18275e04dca3a948f5ccc665a54b69b6399fae07695bb25514d7",
+  "validation_errors": []
+}

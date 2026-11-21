@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cbb065ab9c139f1eaf60a914.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "spinnin whisk",
+  "setter": "marcusuarez",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "4bd344ca-f9ae-420d-a918-8ccca7b01ea4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r13p1137r12p1452r15p1201r13p1097r15p1216r13p1214r13p1477r15p1265r13p1335r13p1331r13p1381r14",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 2,
+  "quality_average": 1.0,
+  "hold_fingerprint": "076e5618ca0643cdd3f87ed7ce1acdcf524a021aea0bc4033ba17fa67185acad",
+  "validation_errors": []
+}

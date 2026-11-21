@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_310e9085001f7c30c6697258.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Bam",
+  "setter": "IstMirEgal",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "ada31043-6573-4d93-bb76-dcc8673d2629",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1198r12p1113r15p1144r15p1269r13p1166r15p1203r15p1299r13p1382r14p1351r13p1200r15p1212r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.8,
+  "ascensionist_count": 8,
+  "quality_average": 3.6,
+  "hold_fingerprint": "238b35dc35d8dd8a6576e7260d1683e978bb7ed4cb3c9423bbd9274764eaa62c",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9ce91fc08ef3fb2e0ec2a623.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Lord of The Rings",
+  "setter": "zed_oj",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "2F7563709A9A46B1A1754B38EBC32522",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1137r15p1145r12p1160r12p1202r13p1231r13p1286r13p1324r13p1339r13p1393r14p1462r15p1489r15p1536r15p1572r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "6a1631456e4c3710a013a2efa6520c416eee595047a3858c5763ffd4239ab0cd",
+  "validation_errors": []
+}

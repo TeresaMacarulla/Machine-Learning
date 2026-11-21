@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e6b14e62ff3e594494e083f3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Jump to hell",
+  "setter": "Frantik15",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "EE328B254D6D455FA201EC2AB5E3ABC0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1136r12p1288r13p1289r13p1389r14p1391r14p1454r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "036215d6076f4f0d50f73cc2682ab8476cc1a15c51ff82d757794d95621c490a",
+  "validation_errors": []
+}

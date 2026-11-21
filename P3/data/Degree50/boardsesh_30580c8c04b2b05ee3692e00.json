@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_30580c8c04b2b05ee3692e00.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Self centred control",
+  "setter": "ZiYi1234",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "604B26A7BB704A8D807085185B0B9637",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1245r12p1270r15p1316r13p1317r13p1387r14p1502r15p1542r15p1551r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "eb408163c2d6a25884e62f71197b05110b24de7e36d7973e025e3345d9d4d8d8",
+  "validation_errors": []
+}

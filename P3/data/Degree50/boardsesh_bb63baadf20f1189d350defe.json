@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bb63baadf20f1189d350defe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Arm and Hammer",
+  "setter": "mikemeyerdirk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "BFA1D53754B4423AB11353D580C3A4E9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1155r12p1156r15p1170r15p1201r13p1204r15p1233r15p1240r12p1270r13p1272r13p1305r13p1320r13p1335r13p1371r13p1387r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "66462d905d00fd68737d9b2ca6ab275bc062f07dac8970e008002c0972a85897",
+  "validation_errors": []
+}

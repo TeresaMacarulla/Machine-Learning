@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_90a8b23b431dc10a9ff4cac7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Julie",
+  "setter": "TofuClimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0efb264f-fb17-4c76-ae05-0e03b9be1097",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1232r12p1215r12p1269r13p1511r15p1308r13p1536r15p1289r13p1394r14p1494r15p1344r13",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.83,
+  "ascensionist_count": 6,
+  "quality_average": 3.5,
+  "hold_fingerprint": "0e59bbf0b27b5d5e6bffd37a40d2c604c0df461e5d54f6477a60aff2c7a869ad",
+  "validation_errors": []
+}

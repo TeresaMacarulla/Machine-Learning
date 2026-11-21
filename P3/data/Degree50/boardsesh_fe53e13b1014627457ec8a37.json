@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fe53e13b1014627457ec8a37.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "pinch plateau",
+  "setter": "tiosz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "76E4DAD9A11D4F06BF101E442CCA0B10",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r12p1136r12p1200r15p1204r13p1257r13p1302r13p1305r13p1315r13p1383r14p1448r15p1500r15p1547r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "4851378d80974c2c1fcb3cf0e520c84be1fd4ae474c9ddd7667a50d870ea171c",
+  "validation_errors": []
+}

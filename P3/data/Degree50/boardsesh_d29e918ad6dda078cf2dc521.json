@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d29e918ad6dda078cf2dc521.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Ballroom Bandit",
+  "setter": "AlexTango",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1e0a434510ad4fd18b8e1735a1315c12",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1171r15p1185r12p1210r15p1252r12p1264r13p1303r13p1315r13p1367r13p1389r14p1470r15p1513r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2a757a8426b6914da22720b49ca4e2fd306bf288484249b6e8165248d6e2808b",
+  "validation_errors": []
+}

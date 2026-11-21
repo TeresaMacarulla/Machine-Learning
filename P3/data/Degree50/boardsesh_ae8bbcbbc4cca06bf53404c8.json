@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ae8bbcbbc4cca06bf53404c8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Wuhan moves",
+  "setter": "copalo34",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "5897E98A34C5412F83A0BD5789393AC0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1121r12p1182r13p1203r13p1233r13p1265r13p1295r13p1346r13p1379r14p1448r15p1453r15p1470r15p1487r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7f54f1389380b8ce391e625c8c2521edcb10af95d1c66472ea797785c4b533f6",
+  "validation_errors": []
+}

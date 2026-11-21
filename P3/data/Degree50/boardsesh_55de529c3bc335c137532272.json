@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_55de529c3bc335c137532272.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Every end",
+  "setter": "Domas",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "78fe5895-95b4-452a-b947-669cf894408c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1111r12p1142r13p1197r13p1456r15p1230r13p1081r15p1098r15p1250r13p1284r13p1289r13p1340r13p1389r14p1385r14p1242r15p1200r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "6bf5b264724c4c96ec9aa295fdf31d05287e00ddcb74a426688a1a3831c40b46",
+  "validation_errors": []
+}

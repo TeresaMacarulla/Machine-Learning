@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_10ca4eaa4a5003498d51b825.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "j1",
+  "setter": "Juanetine",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "82c0776c-3e68-428a-b051-bd7ae7d910df",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1162r12p1229r13p1250r13p1299r13p1337r13p1387r14p1089r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": null,
+  "hold_fingerprint": "b51ab49beb539070fbc0c16da186b9b40eacd770cc97d1c60aa816bcba5a0242",
+  "validation_errors": []
+}

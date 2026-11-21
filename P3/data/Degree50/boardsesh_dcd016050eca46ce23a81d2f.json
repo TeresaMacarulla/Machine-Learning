@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dcd016050eca46ce23a81d2f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Goat Lane",
+  "setter": "harringtonkristian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "67A3FC08E7F8468397484837083C7AE6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r12p1147r12p1234r13p1303r13p1304r13p1352r13p1390r14p1455r15p1479r15p1494r15p1541r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "08a9805d0ea3a1e78383f2d17b518b6ce7b88dbed9b0bd2dea3c5b7504ece342",
+  "validation_errors": []
+}

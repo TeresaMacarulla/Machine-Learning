@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2cd99bb66c4918b6e25df8e6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Worlds Bicker",
+  "setter": "KilterStudio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "C4A9FC1159244F9B898D7B1EF63926CB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1098r15p1100r15p1146r15p1149r12p1166r12p1234r13p1246r13p1300r13p1334r13p1354r13p1389r13p1391r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.02,
+  "ascensionist_count": 247,
+  "quality_average": 3.34,
+  "hold_fingerprint": "59351c65e89981039e782a0edef79fe6a8785e21442b11e156a368a247b88a2d",
+  "validation_errors": []
+}

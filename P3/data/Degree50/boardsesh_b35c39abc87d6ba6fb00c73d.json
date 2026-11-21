@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b35c39abc87d6ba6fb00c73d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "kippbrett movie",
+  "setter": "00_rocketboy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "DE69DA5699C5473AACC6CD8FEA07042A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1169r15p1178r12p1233r13p1236r13p1289r13p1325r13p1361r13p1392r14p1456r15p1536r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 21,
+  "quality_average": 3.74,
+  "hold_fingerprint": "608917baa26e83166f90e02f335f3b6161af3415c1c90df003e5705c80ced6ce",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0f0eabc559b99756f0518ef8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Beebo go sideways",
+  "setter": "zasiegel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B84BD2039AB243D78F1CAFF229E92566",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1157r15p1168r12p1234r13p1236r13p1239r15p1257r15p1304r13p1334r13p1387r14p1389r14p1449r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.96,
+  "ascensionist_count": 24,
+  "quality_average": 3.65,
+  "hold_fingerprint": "32a285e366eefd9dcae3037fa74a48552b7378cf6d400190d67c3f0d6ef73553",
+  "validation_errors": []
+}

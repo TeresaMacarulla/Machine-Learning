@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f7a849e8f6fecc3d08060a65.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "tec dec",
+  "setter": "Joegott",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "305D1EF33C274C4B9EE7BBAD55C5E16F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1089r15p1212r12p1249r13p1315r13p1336r13p1388r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "526bef23b09825fe522ac596050ba5b477203780897040dcd7ad4f446b788c29",
+  "validation_errors": []
+}

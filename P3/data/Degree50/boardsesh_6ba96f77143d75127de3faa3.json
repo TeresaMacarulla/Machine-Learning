@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6ba96f77143d75127de3faa3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "grapefruit tech",
+  "setter": "boodnik",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "a536f76f-da24-45e6-b177-944719bfa295",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1214r13p1577r13p1319r13p1283r13p1194r15p1486r15p1539r13p1357r13p1391r14p1143r12p1084r15p1461r15p1484r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "316d3485091af721c6cb12b60089d77f5bc01cc1ea4d9f5ace90406d3a3cc124",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7f0cfd9336c1ad2f74543163.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "kackboulder 35",
+  "setter": "tomtoell",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "C9E8E5930A1D44A1B89E1DF943BA5A46",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1173r15p1202r12p1248r13p1254r13p1265r13p1281r13p1328r13p1379r14p1506r15p1531r15p1533r12",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "07c2e452d7840cd46bf658ba78b27e1305228e6d0bc5c1acb42d735c96f182af",
+  "validation_errors": []
+}

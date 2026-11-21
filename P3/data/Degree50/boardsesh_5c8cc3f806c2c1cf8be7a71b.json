@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5c8cc3f806c2c1cf8be7a71b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Mellow walk",
+  "setter": "okla_boulder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3D53677B2DEB43CEB67D0EAFFB02AE0D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r15p1231r12p1234r12p1289r13p1302r13p1330r15p1355r13p1385r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "3957bee52fd8bf6b2c8e134f792379fbeb7c6142633161f0692660630d541b28",
+  "validation_errors": []
+}

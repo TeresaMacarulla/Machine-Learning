@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d9513d9850c2a6927a29d182.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Centurion Prime",
+  "setter": "danjasaur",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "c5f7f307d2454256a24491483ce9ba78",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1108r15p1142r12p1146r15p1175r15p1180r15p1192r12p1226r15p1246r13p1294r13p1347r13p1380r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "f1039f16dd7ce480c35aa801a6038abad7ff5508facc8c0aa44cd914c2567f40",
+  "validation_errors": []
+}

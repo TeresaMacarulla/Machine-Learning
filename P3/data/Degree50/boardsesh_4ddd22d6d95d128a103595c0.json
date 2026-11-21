@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4ddd22d6d95d128a103595c0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "equilibrium",
+  "setter": "Aensen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6265EFED85DA43888A8240F66EC1CF06",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1214r13p1268r13p1320r13p1342r13p1393r14p1459r15p1513r15p1532r15p1568r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "433583d3e7dae579bf42e4bb30ee6547afc2c482bd0e7af05fb211566340b335",
+  "validation_errors": []
+}

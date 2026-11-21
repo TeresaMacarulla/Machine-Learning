@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3cf10e212ecdc7ebb00b9b5e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Ikke sjube",
+  "setter": "brnesk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8C4F7FDD3CFC4D1789F7EE2E028FDBFE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r12p1209r12p1278r13p1334r13p1346r13p1368r13p1390r14p1467r15p1512r15p1521r15p1564r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.88,
+  "ascensionist_count": 8,
+  "quality_average": 2.63,
+  "hold_fingerprint": "3840965ff6ec81de58ecf809230dca1b1fd9b3ef5ecbdbe46637225e93a8668d",
+  "validation_errors": []
+}

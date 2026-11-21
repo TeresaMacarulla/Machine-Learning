@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_40664fe4d141e5adeb1a8ce9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "lapwing",
+  "setter": "binbouldern",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "35d2e9ce870c47ed93809b4469725621",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1143r12p1144r15p1197r13p1212r15p1228r13p1229r13p1233r13p1300r13p1332r14p1351r14p1460r15p1464r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "77053c0927a00edc5900fa8c2e7e10df0c6aefa341c8b681c449575cc7486ed4",
+  "validation_errors": []
+}

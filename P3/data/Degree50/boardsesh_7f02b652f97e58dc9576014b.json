@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7f02b652f97e58dc9576014b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Moving",
+  "setter": "antoniosalte",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 9,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "1453D1E2424747B7863210759EB0EE37",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1213r13p1243r12p1247r13p1250r13p1260r12p1267r13p1270r13p1271r13p1306r13p1354r13p1355r13p1386r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f3055dcf91842ffe9f4778f393bf0332560f77478c8936c3c3bed98fb7aa40a9",
+  "validation_errors": []
+}

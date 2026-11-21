@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_09ad30ca74ea86a8696f0b4b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Autonomous Collective",
+  "setter": "gainward",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1293769e97b44f58b26ed9d82cc0445f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1156r15p1189r12p1220r12p1232r13p1269r13p1278r15p1315r13p1352r13p1387r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.93,
+  "ascensionist_count": 30,
+  "quality_average": 3.362,
+  "hold_fingerprint": "ab5e656949e5f8bd1fa4f108c876f7095a796d9d1458329133210bf9c7d9fce5",
+  "validation_errors": []
+}

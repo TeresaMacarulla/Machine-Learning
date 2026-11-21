@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_61a16dac55684414cad0740f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Knock Kneed",
+  "setter": "badidas",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "fe63a703ea9642f1a2de8da65a585494",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1163r12p1175r12p1247r13p1285r13p1336r13p1352r13p1390r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "de44faa19eb8e28f497a02843c76087c97b7b606e2ca3f0f0738b877c0a1ad9c",
+  "validation_errors": []
+}

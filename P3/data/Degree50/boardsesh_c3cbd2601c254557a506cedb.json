@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c3cbd2601c254557a506cedb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Left arm pull up (campus)",
+  "setter": "Reclusx",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "F1FAF0687CFA41099F0B7330B2A0D8C6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1302r12p1355r13p1384r14p1514r12",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 15,
+  "quality_average": 4.0,
+  "hold_fingerprint": "a8103ba77de452b57a76b437143702662c11a31941a142875ae71531a0b169ea",
+  "validation_errors": []
+}

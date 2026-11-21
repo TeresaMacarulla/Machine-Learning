@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dfb76c82d55723753559023c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "bumpington",
+  "setter": "Nathan_Moseley",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "60932F7A5B7A4E60833F5128BE154BB1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1148r12p1162r12p1231r13p1267r13p1314r13p1350r13p1387r14p1457r15p1505r15p1520r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "351c3d599cf91ef9258dad8733dea31672b1cc739ce20328d721c42e956bb2b8",
+  "validation_errors": []
+}

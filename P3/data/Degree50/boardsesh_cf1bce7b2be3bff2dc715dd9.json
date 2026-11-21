@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cf1bce7b2be3bff2dc715dd9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "warmup power",
+  "setter": "sammyd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "7ef703fa8e674e179e3052bdb0f0fded",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r12p1166r13p1198r13p1234r13p1266r13p1300r13p1331r13p1384r14p1452r15p1456r15p1459r15p1485r15p1486r15p1497r15p1505r15p1529r15p1547r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.83,
+  "ascensionist_count": 6,
+  "quality_average": 2.5,
+  "hold_fingerprint": "16dc288433c2962218dd6cb990947bd334d71f3868fcaa0dca3a2074b12ef1ea",
+  "validation_errors": []
+}

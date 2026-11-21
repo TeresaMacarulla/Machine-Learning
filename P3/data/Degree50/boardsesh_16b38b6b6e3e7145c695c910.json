@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_16b38b6b6e3e7145c695c910.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "campus top",
+  "setter": "jbbkbbb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "f1ca03fe-8fbb-4db1-b367-fa3d8b69b148",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1225r13p1077r15p1481r15p1306r13p1309r13p1153r12p1284r13p1317r13p1348r13p1387r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.5,
+  "ascensionist_count": 2,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d74b489e9ac036b3008cfe8f9f2b7a8377b772a167e1f03e52fd2510a34af741",
+  "validation_errors": []
+}

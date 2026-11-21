@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d473e6cc34b1f738294f106b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Armwrestler",
+  "setter": "sognekraft",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "66897AEFC22E441CBB5C77D9A56A41CD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1116r12p1132r12p1235r13p1264r13p1332r13p1380r14p1454r15p1486r15p1494r15p1511r15p1539r15p1592r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "c656a018d9b16aa62b8e7aea309bf9e0fde776c27bfa0440542e897bc3f7b6ff",
+  "validation_errors": []
+}

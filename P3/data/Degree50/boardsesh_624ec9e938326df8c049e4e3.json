@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_624ec9e938326df8c049e4e3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Laplace approximations",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "87f5ab09a4ec42308f203267b256622b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1201r12p1203r12p1248r13p1252r13p1317r13p1349r13p1387r14p1487r15p1503r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.67,
+  "ascensionist_count": 3,
+  "quality_average": 4.67,
+  "hold_fingerprint": "9f5143acb53df5e86161560d635bacfea576bd6d2f3c47ad2f2e599ba37770fc",
+  "validation_errors": []
+}

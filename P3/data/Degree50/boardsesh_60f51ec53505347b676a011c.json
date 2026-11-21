@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_60f51ec53505347b676a011c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Lever Advantage",
+  "setter": "rizoman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "F9A2DCF664464AADB7F2561FD48F934E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1250r12p1269r13p1350r13p1384r14p1486r15p1488r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c17352e7259964d646d2c9a29194d56f180b3c663ae96d42ef2db807703749a9",
+  "validation_errors": []
+}

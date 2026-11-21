@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8f038ef094b36a9c2f34300e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Juggernaut",
+  "setter": "imanbanerji",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 7,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "8986CB9ABC0F45F7A58733509AF517B2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1128r12p1144r15p1163r12p1212r13p1231r13p1247r13p1249r13p1300r13p1331r13p1366r13p1381r14p1383r14p1458r15p1460r15p1513r15p1531r15p1557r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 5,
+  "quality_average": 2.0,
+  "hold_fingerprint": "aa945a7470bf28f8fd08bfe695a5b1cc5a0e2c440cd03813fde1b6424b79e214",
+  "validation_errors": []
+}

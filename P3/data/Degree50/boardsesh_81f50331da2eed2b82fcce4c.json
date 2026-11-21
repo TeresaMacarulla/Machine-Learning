@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_81f50331da2eed2b82fcce4c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Sottotono",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "B02116E1776A43BC9FF64C78C5094C23",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r15p1179r15p1232r12p1320r13p1351r13p1366r13p1379r14p1542r12",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.99,
+  "ascensionist_count": 266,
+  "quality_average": 3.25,
+  "hold_fingerprint": "db3a1b6d8c13e0343e138fce69d7e12d64cead0e05eb768327c4e0f6b3f666c3",
+  "validation_errors": []
+}

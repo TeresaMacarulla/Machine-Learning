@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dc8b99c5ca16329fa4ed9fad.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "boulder fedde1",
+  "setter": "fedde",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "5262b3b4d04140bc9145b0c255fe0a11",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1173r15p1223r15p1251r15p1257r12p1259r12p1265r15p1308r13p1355r13p1359r13p1368r13p1382r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "14e0827ec624cc45a8589cc5ae9b8a2baf5b26aa769b4341ee6914c9d14b65a8",
+  "validation_errors": []
+}

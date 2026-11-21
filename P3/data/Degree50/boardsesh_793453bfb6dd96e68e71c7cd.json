@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_793453bfb6dd96e68e71c7cd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "austrian-norwegian connection",
+  "setter": "Romanvoit",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8CAB9DA0C9294680A42F067F2DA80148",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1111r12p1113r15p1147r12p1200r13p1235r13p1287r13p1337r13p1390r14p1459r15p1534r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6d447b8d16dca5e19a456361279b0222fe458095c47c5bb8bff43d784b971e6e",
+  "validation_errors": []
+}

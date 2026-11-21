@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ceaaba7d7b1a4a3ab819bfaa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "up down, warm up",
+  "setter": "taniacrl3",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "E6EF5FAF9B24419AB8A3D740CB407DDD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1144r12p1192r13p1243r13p1294r13p1330r13p1347r13p1383r14p1464r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "2cc67fcfcee6813a11f6576a76f039d09aa2da132aa41b651aada64eb2650a5b",
+  "validation_errors": []
+}

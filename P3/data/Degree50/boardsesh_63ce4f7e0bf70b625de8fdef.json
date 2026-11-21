@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_63ce4f7e0bf70b625de8fdef.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "broken lights",
+  "setter": "braeden.f",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "A491CA1E1D12482BA2077F43768DFA3C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1188r12p1235r13p1269r13p1316r13p1386r14p1480r15p1497r12",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 15,
+  "quality_average": 3.13,
+  "hold_fingerprint": "130a73b3d652eb39cd64e0a8036b9db1bbb08a24521b5867948d3991402724e3",
+  "validation_errors": []
+}

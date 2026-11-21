@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_54040c0b1aa3e7ef543e411b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Barrel roll",
+  "setter": "Mathematymh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "04938e6a1987417ba339edaa6dcbee15",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1156r12p1218r13p1223r13p1302r13p1370r13p1392r14p1450r15p1566r15p1581r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b6dfccecafcc11c6ac8d66a553259ec3d73cbe8f07f420dd818859df63efb780",
+  "validation_errors": []
+}

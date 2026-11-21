@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_060e5327b1a787e757371f44.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Witch Craft",
+  "setter": "ghost_jku",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "28BEB5EB6D054ADEBCDC888467EFF5FF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1149r12p1202r13p1234r13p1254r13p1302r13p1303r13p1336r13p1386r14p1455r15p1478r15p1489r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "276510254a9c765b37f5a21544072d55c7fbf870197bc0b2b1d9e47a56cd6e84",
+  "validation_errors": []
+}

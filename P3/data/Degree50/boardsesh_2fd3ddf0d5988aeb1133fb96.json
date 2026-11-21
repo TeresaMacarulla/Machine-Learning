@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2fd3ddf0d5988aeb1133fb96.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "ZiriZ",
+  "setter": "Zima_gram",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "00ac4e43-d010-4ea6-86e0-47b5648a3c57",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1163r12p1215r13p1268r13p1169r15p1332r13p1547r15p1386r14p1462r15p1202r13p1300r13p1479r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.5,
+  "ascensionist_count": 4,
+  "quality_average": 2.5,
+  "hold_fingerprint": "49ed5c7b77e0885d4d37fe48b7536518284ac36fc75a966cfae5165416017a60",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_63e1f89f6d50c50cda47a835.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "7B Ploos",
+  "setter": "Carson_climbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "211f8304-fd33-4a07-bbdd-9391b6f805a1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1204r15p1199r12p1201r12p1486r15p1253r13p1323r13p1270r13p1552r15p1338r13p1372r13p1385r14p1583r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "b35cbbd00e3e1a085c4d56860ec160c00083f4638ade0c8dd7707e149111066b",
+  "validation_errors": []
+}

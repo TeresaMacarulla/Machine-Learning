@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6c7b9106d1157c4344cef954.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "No Whining",
+  "setter": "Riptile",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1AF626EB93FE4FDE8769FD57A799A4EA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r12p1155r12p1166r15p1219r13p1236r13p1240r13p1302r13p1356r13p1388r14p1447r15p1450r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.25,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "48478b2e5a344e5f608d43569dac7605bf88ccc6585d96c9d580663c42cfa4aa",
+  "validation_errors": []
+}

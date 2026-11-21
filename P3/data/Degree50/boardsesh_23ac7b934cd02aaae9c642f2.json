@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_23ac7b934cd02aaae9c642f2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "depth of flow",
+  "setter": "tytaft",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "755613A8AF714ACF8E188EB6A84BDC6F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1210r13p1280r13p1314r13p1351r13p1356r13p1374r13p1395r14p1461r15p1501r15p1531r15p1570r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "56be46ffe5835a96d17d5920b5976a575c91ba2043dc45d143522a27c31bbc5d",
+  "validation_errors": []
+}

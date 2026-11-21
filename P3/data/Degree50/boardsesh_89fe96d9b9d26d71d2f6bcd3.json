@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_89fe96d9b9d26d71d2f6bcd3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "a crimping finish",
+  "setter": "shawn_spiker",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "EE7AE043557C49A2B5C5E6F92DC477BA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1192r15p1228r12p1250r13p1268r13p1299r13p1339r14p1375r14p1483r15p1506r15p1514r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9f972d1e8dd88889e6d9e99a64cbe228dba0fd378ca1d3a58cb7a33855c7e1d1",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_79a674dc5938516f876ffd36.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Opica",
+  "setter": "pajd0xx",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6146cda49c1941019ad66ab5e825d5aa",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r12p1207r13p1237r13p1291r13p1323r13p1324r13p1336r13p1371r13p1384r14p1448r15p1536r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "73908d14bb8a1da06cac5ccf19cc45dbafbcc6dd24a2bc0fc41449e104549a91",
+  "validation_errors": []
+}

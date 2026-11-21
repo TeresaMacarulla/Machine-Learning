@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c5e34ba84a295222005c9aee.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Big Ben 1",
+  "setter": "bradrichard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C6B3D5F9C26149439E76E49675CFE08A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1088r15p1125r12p1214r13p1230r13p1250r13p1317r13p1352r13p1388r14p1464r15p1485r12p1504r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.14,
+  "ascensionist_count": 25,
+  "quality_average": 3.5,
+  "hold_fingerprint": "2567c5161b39c268fff812ceb3deac9bad93977eac42de60fd5c80b9f89f4dd5",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a84e1f84740dc187b5a9d0ed.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Hi-Lo",
+  "setter": "Orion_",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "f4727835bb5c41708291a903e92c7d67",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r15p1106r12p1169r12p1197r15p1223r13p1242r15p1252r13p1274r15p1281r15p1307r13p1336r13p1388r14p1500r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "fec93cbbd71dd397bd41fce66d97a57fd76ccf7e8c1a04482d3c983aab5a8cd7",
+  "validation_errors": []
+}

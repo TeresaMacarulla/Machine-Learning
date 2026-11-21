@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1d0a4f9bc98e2dc5d77995c6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Crow Ate a Spider",
+  "setter": "nico_does_training",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "ABA67CE5010B4EB5918FC54FCD08DC15",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r12p1168r12p1185r13p1232r13p1272r13p1320r13p1392r14p1449r15p1453r15p1478r15p1486r15p1533r15p1572r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "cb6e238188a62eafc8783445d8c4910cc29e3a33c10fa3d870f4214b151b3d00",
+  "validation_errors": []
+}

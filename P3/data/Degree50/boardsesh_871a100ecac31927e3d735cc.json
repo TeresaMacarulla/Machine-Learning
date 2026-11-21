@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_871a100ecac31927e3d735cc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "staticly",
+  "setter": "jonathandebes",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 10
+  },
+  "source": "boardsesh",
+  "source_uuid": "97117FE523BC493CB8716080F49A6513",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1079r15p1080r15p1081r15p1082r15p1083r15p1084r15p1181r12p1201r12p1269r13p1307r13p1355r13p1387r14p1479r15p1489r15p1532r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "42230a31afb0ece200a0cc45d75bc7c0fe1582b725fcc681b69ac14ac09736a6",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1842bbf7367028b0efb32d4a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "karajo lite",
+  "setter": "eggywlrd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2536A02B09574EFBAB8EC6324688ED61",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1158r12p1174r15p1180r13p1186r13p1221r13p1291r13p1322r13p1354r13p1384r14p1464r15p1465r15p1523r13p1557r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "639621aec8c58ab0ae40a420fd0046378449f4e89012db7a9bce75ded5442695",
+  "validation_errors": []
+}

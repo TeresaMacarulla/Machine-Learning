@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dc46fc8677e5b25ea3eca22f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "jump starr",
+  "setter": "jakemcneely",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "F773B139D5D24D64A12F8F6270734963",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1154r15p1249r13p1286r13p1321r13p1392r14p1456r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "71834049411eb499c465672a7cc5b9a55f712ef8fd55e5abc6a1f44387cf4787",
+  "validation_errors": []
+}

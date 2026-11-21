@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2452d21da3fa753617cb9093.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "butt$",
+  "setter": "markmark",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "0665b4de3eee4722a2f093487a489cff",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1143r12p1247r13p1272r13p1302r13p1320r13p1374r13p1395r14p1462r15p1465r15p1484r15p1524r15p1526r15p1539r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b7d1a4e35dc6bfe8086b56ac5dd8b86d2952973ac358c6c44948ffdb37779d95",
+  "validation_errors": []
+}

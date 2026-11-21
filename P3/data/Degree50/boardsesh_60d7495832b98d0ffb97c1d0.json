@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_60d7495832b98d0ffb97c1d0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Snowglobe",
+  "setter": "yluc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1E042232B2D84AA19AEE647CBA37DAE2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1123r12p1136r12p1205r13p1235r13p1287r13p1317r13p1388r14p1453r15p1470r15p1539r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "f67dcfeb3a5ffcb54fe77f449aa20303a62f285bb86f399bd3ffd69c591a6d0b",
+  "validation_errors": []
+}

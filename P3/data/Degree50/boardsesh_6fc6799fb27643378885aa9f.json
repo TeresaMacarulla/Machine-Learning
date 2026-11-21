@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6fc6799fb27643378885aa9f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Shoulder Doctor",
+  "setter": "Chater",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "2ce399438cf74ce3b506692f9064e19c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1166r12p1203r12p1270r13p1319r13p1373r13p1374r13p1395r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3e7206397bf48aee090f28985fd23f34f06aeb22e854bbe56cd084a2184ad919",
+  "validation_errors": []
+}

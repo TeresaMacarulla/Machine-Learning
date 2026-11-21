@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b19a8ea966845728e55b1e9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "springer spaniel",
+  "setter": "Pepsi Elliot",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "82577633-6e13-4742-83f2-6a0a7b15c53d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1320r13p1353r13p1387r14p1234r12p1268r13p1181r15p1246r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.42,
+  "ascensionist_count": 18,
+  "quality_average": 2.25,
+  "hold_fingerprint": "07d8c5ce26bb14adb4f2638ff35f3eb0014b0ee68a853e17cd1b9024e448372f",
+  "validation_errors": []
+}

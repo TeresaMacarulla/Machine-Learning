@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a6978ee0bfed425e6fe2ac3a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Bird Law",
+  "setter": "Dr. Wyrm",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "095db101-db39-4ace-9b8a-e83a97e85f1a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1144r12p1198r13p1236r13p1268r13p1356r13p1391r14p1086r15p1083r15p1166r15p1506r15p1578r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.25,
+  "ascensionist_count": 8,
+  "quality_average": 4.0,
+  "hold_fingerprint": "e71eeb8d902e1a88ff4e3012227840e09dd3de355a38bfdae3bb937bbaa27d17",
+  "validation_errors": []
+}

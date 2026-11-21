@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e92eee93acf1a9b4f6983211.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "pizzaB",
+  "setter": "pizzabeast",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "3185035f4757487ba5d789b76631b2d1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1076r15p1155r12p1223r13p1239r13p1288r13p1291r13p1320r13p1322r13p1388r14p1390r14p1500r15p1533r15p1559r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "c1b47f5f2d07642b06821a53845df5e5c1d5b2eb8a4732e7f6ab74e75fc7dbec",
+  "validation_errors": []
+}

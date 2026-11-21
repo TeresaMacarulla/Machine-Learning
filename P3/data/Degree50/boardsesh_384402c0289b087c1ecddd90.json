@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_384402c0289b087c1ecddd90.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Gargoyle 1|2|3",
+  "setter": "SaxonCasi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "19b19fc681024cdcb451d793deace982",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r12p1133r12p1234r13p1250r13p1339r13p1347r13p1352r13p1363r14p1370r13p1379r14p1457r15p1531r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.0,
+  "hold_fingerprint": "efa306e0013c2df6a6318d5c558d0cd24dafd62014bfda86e98f85f3e72f59b1",
+  "validation_errors": []
+}

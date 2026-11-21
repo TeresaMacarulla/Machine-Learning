@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_22db1c176d30e049dae927ba.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "short people only",
+  "setter": "E.2.d.2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "3C626FE1BC0745E6B4D9083BF2B3F34B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1195r13p1231r13p1280r13p1316r13p1350r13p1387r14p1465r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.91,
+  "ascensionist_count": 11,
+  "quality_average": 3.36,
+  "hold_fingerprint": "fa5fa8abed440883700712ffaed0343044c050c770b58ea160b090b6cd3ecdc1",
+  "validation_errors": []
+}

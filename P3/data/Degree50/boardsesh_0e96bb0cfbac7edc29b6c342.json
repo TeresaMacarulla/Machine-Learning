@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0e96bb0cfbac7edc29b6c342.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Springy-thingy",
+  "setter": "Oakdale",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "bd475a4e420e482e8919025896eac0db",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1143r12p1226r13p1266r13p1272r13p1281r13p1304r13p1340r13p1394r14p1458r15p1485r15p1504r15p1506r15p1521r15p1535r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.5,
+  "hold_fingerprint": "e9dcf390cfd357b2a52474631ca690874c578b9ceaf33ddb15c649ee39d8174d",
+  "validation_errors": []
+}

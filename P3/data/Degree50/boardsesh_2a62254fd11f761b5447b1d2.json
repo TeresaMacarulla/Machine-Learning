@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2a62254fd11f761b5447b1d2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "long 2",
+  "setter": "teregen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 14,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "685FE04CF8AD4C54A54C67B1E8FBEBC7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1125r12p1127r12p1149r13p1153r13p1157r15p1161r13p1203r13p1207r13p1274r13p1281r15p1284r15p1292r13p1293r13p1358r13p1367r13p1370r13p1374r13p1377r13p1380r14p1387r13p1452r15p1457r15p1464r15p1536r15p1572r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1d3ac95d6f67ac51e3f304fce058007600807c2c15fa80c4ff28616d411178ff",
+  "validation_errors": []
+}

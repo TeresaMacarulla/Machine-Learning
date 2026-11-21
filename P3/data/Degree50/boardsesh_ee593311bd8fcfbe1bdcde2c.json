@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ee593311bd8fcfbe1bdcde2c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Fancy Free",
+  "setter": "Cuckovich",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "CEB5C5AECE194E48BD073AE7D6F7C96A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1158r12p1228r13p1249r13p1272r13p1284r13p1306r13p1375r13p1392r14p1464r15p1526r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.14,
+  "ascensionist_count": 8,
+  "quality_average": 4.43,
+  "hold_fingerprint": "6b5e5727bee58c1a541efa2ccbc8e1ef3928119735e320683452dc9ed4a4c430",
+  "validation_errors": []
+}

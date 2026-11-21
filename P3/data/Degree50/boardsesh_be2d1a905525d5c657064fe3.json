@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_be2d1a905525d5c657064fe3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "dandelion",
+  "setter": "skeluh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7F95554A89D84C569F615EB2A0C4868B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1179r12p1227r13p1231r13p1279r13p1332r13p1345r13p1379r14p1459r15p1460r15p1501r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 12,
+  "quality_average": 3.5,
+  "hold_fingerprint": "cdccb996eb631ce73a2fffb23327c7081684477a323460133d88c37830f9a803",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_26d150f79d460dae1fe075bc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "RG Juggygeddon",
+  "setter": "SebastianG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "5248243f2bce424f8742c6289c95e31e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r12p1167r12p1232r13p1235r13p1285r13p1353r14p1455r15p1504r15p1505r15p1506r15p1521r15p1525r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6e9d75a9aa883310cd30c66d26de9da4c2cea11e6bd4ca3543ae59e68eec1082",
+  "validation_errors": []
+}

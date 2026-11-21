@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b361e81a6197336553a0346b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Salhalla",
+  "setter": "JamieBarendrecht",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "6dccda79ea694b55b4c3e2d7c5c0dcc4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1202r12p1215r12p1303r13p1304r13p1372r13p1386r14p1477r15p1514r15p1534r15p1541r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "e3abb868d3452dda514481f2ab1cc003f87f8686c95be97137737795a835a906",
+  "validation_errors": []
+}

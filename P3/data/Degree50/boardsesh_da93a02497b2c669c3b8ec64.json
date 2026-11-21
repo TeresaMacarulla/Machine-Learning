@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_da93a02497b2c669c3b8ec64.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "turning right round",
+  "setter": "beru",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "b85fefc420f545b99fa09d5d17d60bbb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1133r12p1149r12p1236r13p1302r13p1317r13p1385r14p1542r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.89,
+  "ascensionist_count": 278,
+  "quality_average": 3.6697101449275364,
+  "hold_fingerprint": "8a0f211b40d494d209d09156519d17d2dd8758d10446e4b4927e4134c868563c",
+  "validation_errors": []
+}

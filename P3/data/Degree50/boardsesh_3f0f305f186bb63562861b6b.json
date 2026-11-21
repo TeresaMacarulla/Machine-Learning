@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3f0f305f186bb63562861b6b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Anteater",
+  "setter": "tyler_gregston",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "8DB37227927042B0B3D9CBD357F1F9CD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1143r12p1175r12p1210r15p1245r13p1280r13p1281r15p1284r13p1305r13p1317r13p1340r13p1378r14p1395r14p1544r15p1547r15p1550r15p1572r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "0da9fb79e1ac0bcd0ee553f223d2433ad77d33529549c75d1bde9cdcdca8b7b4",
+  "validation_errors": []
+}

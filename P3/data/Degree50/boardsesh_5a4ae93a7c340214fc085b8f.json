@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5a4ae93a7c340214fc085b8f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Stop the barn door dyno",
+  "setter": "ggutierrez",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "934395f99d7f43a1878d40586c0af03e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1087r15p1179r12p1247r13p1300r13p1353r13p1390r13p1391r14p1512r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.85,
+  "ascensionist_count": 14,
+  "quality_average": 3.15,
+  "hold_fingerprint": "d3d229f25aa96cc0b2e0e0ff3396dd0fe2e2bde4716594d18e2288a692832cb3",
+  "validation_errors": []
+}

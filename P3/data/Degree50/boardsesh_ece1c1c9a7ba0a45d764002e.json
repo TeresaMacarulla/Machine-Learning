@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ece1c1c9a7ba0a45d764002e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "gaels pinch  ladder",
+  "setter": "Mexiforniagg",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8FFCC7B65EE74313B009ECEB44567CB8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r15p1148r12p1203r13p1216r13p1285r13p1355r13p1358r13p1393r14p1455r15p1477r12p1571r15p1577r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "844f3b721b016b6f8371c407ad01009762af25fd58e3236d36b1446a95f08647",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cb3ee860bb7b2cb42994626d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "OpenAId",
+  "setter": "FrederikS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "4e88d1a2d1c04bc998feb812e935b946",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1138r12p1184r12p1254r13p1279r13p1283r13p1299r13p1387r14p1499r15p1503r15p1511r15p1520r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.25,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "6996430dc6121f8552cb52707796a8eef0f7a517914aa4c6d786fe03a18d9e29",
+  "validation_errors": []
+}

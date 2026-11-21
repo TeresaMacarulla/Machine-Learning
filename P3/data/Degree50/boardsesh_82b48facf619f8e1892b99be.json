@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_82b48facf619f8e1892b99be.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "KBL Qualif : B2",
+  "setter": "KBL_Qualifs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3B57744F860C4085AC44F83279E833E6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1108r15p1144r15p1163r12p1194r12p1198r15p1243r13p1246r13p1297r13p1331r13p1333r13p1384r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.33,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "2b39bec08271ba6d9cd51e5d28b6b99e949b5ae301031ffa2faf9a1f11ff16cf",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6b3b5587d887fae9c530d23f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "jumpy jugs",
+  "setter": "LorenzG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "c5e7258022fe4de587fed53145dccf49",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1139r12p1150r15p1155r12p1239r13p1243r15p1270r13p1302r13p1331r13p1383r14p1385r14p1447r15p1451r15p1559r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.97,
+  "ascensionist_count": 215,
+  "quality_average": 3.5199999999999996,
+  "hold_fingerprint": "30eed04f8a28ae02323527b919680100f4bcd91c8d9de71ea507a06a69784c4a",
+  "validation_errors": []
+}

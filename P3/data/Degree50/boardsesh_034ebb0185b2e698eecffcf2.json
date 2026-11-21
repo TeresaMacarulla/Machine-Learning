@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_034ebb0185b2e698eecffcf2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Permis de conduire ",
+  "setter": "BOSS LADY",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 9,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "53398edf-c654-4f4b-9d9c-c4bcc860a9fa",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1147r12p1214r13p1227r13p1300r13p1280r13p1369r13p1375r13p1395r14p1141r15p1315r13p1391r13p1371r13p1291r15p1289r15p1234r15p1455r15p1459r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.4,
+  "ascensionist_count": 8,
+  "quality_average": 4.0,
+  "hold_fingerprint": "f16419bede653f3fd123ce707cee87bdb4b1a76454ba8b4929a20f268c521383",
+  "validation_errors": []
+}

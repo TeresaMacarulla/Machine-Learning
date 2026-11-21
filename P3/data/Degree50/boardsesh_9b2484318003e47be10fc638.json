@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9b2484318003e47be10fc638.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Tofurkey",
+  "setter": "meeboo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "7AB96AF2853C4EC69EDB04528F962A8A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1113r15p1162r12p1194r12p1231r13p1247r13p1301r13p1315r13p1347r13p1379r14p1459r15p1495r15p1537r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.5,
+  "ascensionist_count": 3,
+  "quality_average": 4.0,
+  "hold_fingerprint": "9d742857bb0f9c29a13bd3925604c345049d6f0c5956edd9d771262e0dff3e8a",
+  "validation_errors": []
+}

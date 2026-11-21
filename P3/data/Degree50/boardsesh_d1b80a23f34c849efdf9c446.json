@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d1b80a23f34c849efdf9c446.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Sunken Citadel",
+  "setter": "mr_van_tastic",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "e1add8a31aae4c91a7bbd7097b1d5e18",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r15p1199r12p1201r12p1281r13p1286r13p1334r13p1351r13p1388r14p1544r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.92,
+  "ascensionist_count": 27,
+  "quality_average": 3.31,
+  "hold_fingerprint": "1e4df889253c9df2ce4fa8bf6598b6bdcccbb37c0be7687b37d0ae8d77b49c08",
+  "validation_errors": []
+}

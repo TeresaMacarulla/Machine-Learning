@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ae8f7d88675c032c24153b97.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "4th of Kilter",
+  "setter": "Lewin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3D6BDEC0A61944DC9104B7F0812C4CA8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1182r12p1230r12p1235r13p1273r13p1286r13p1368r13p1370r13p1375r13p1381r14p1520r15p1535r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "16cb55c891d6aaf7571c26de078286a6bf80121e427666fcdb611c7e0669a2b1",
+  "validation_errors": []
+}

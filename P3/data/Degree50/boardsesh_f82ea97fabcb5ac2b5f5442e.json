@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f82ea97fabcb5ac2b5f5442e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "low gravity",
+  "setter": "hermineforbregd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "F218D447F49B455EAC036C3DAF9C35EC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1114r15p1123r12p1152r12p1153r13p1186r13p1197r13p1199r13p1215r13p1228r14p1447r15p1451r15p1468r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6153b708c96cf43326bf3ec500ba0b2c30fa8c20e775cc2855a2331692fc8c96",
+  "validation_errors": []
+}

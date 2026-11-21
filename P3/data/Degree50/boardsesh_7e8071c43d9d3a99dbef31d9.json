@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7e8071c43d9d3a99dbef31d9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Rachels Lock Off",
+  "setter": "racheron",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "6349bb8c82c541f1a64b93ee5c97ea34",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1177r12p1197r12p1247r13p1268r13p1319r13p1355r13p1387r14p1467r15p1477r15p1503r15p1514r15p1558r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 18,
+  "quality_average": 3.22,
+  "hold_fingerprint": "f906daa314903012c931dfec79a6105dea2041cfac8f350c63a9cb2017f67d64",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aa309f566b9531f3c28c8792.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "swooped+",
+  "setter": "jchongsend",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "a5ed6da6-f8d5-4135-9f4d-b55043f508d8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r12p1131r12p1202r13p1164r13p1250r13p1262r13p1331r13p1351r13p1390r14p1080r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.5,
+  "ascensionist_count": 7,
+  "quality_average": 2.6699999999999995,
+  "hold_fingerprint": "e5c03535bb5fcbd5211dc10fc313ff90cf5aaef7f701d4fe186eb202814a0768",
+  "validation_errors": []
+}

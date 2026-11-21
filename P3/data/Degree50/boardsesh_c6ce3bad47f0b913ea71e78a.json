@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c6ce3bad47f0b913ea71e78a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "THE ESCAPE ROOM",
+  "setter": "rockandwall",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4222941968a34abb9fe7282be949e9c8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1117r13p1152r12p1154r12p1200r13p1249r13p1255r13p1316r13p1340r13p1389r14p1451r15p1470r15p1530r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "82c4d2328ba096acc2dff8dd945d19f162c7cbf89f00e845ba182b8d53fce9e8",
+  "validation_errors": []
+}

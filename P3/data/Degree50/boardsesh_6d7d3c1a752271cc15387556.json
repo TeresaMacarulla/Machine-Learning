@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6d7d3c1a752271cc15387556.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Dog Module",
+  "setter": "krimdogbillionaire",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "DF1001C82175432FB1BE20676B490A1C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1126r15p1158r15p1195r12p1197r12p1267r13p1321r13p1385r14p1486r15p1506r15p1574r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.57,
+  "hold_fingerprint": "e7bf39fd6410b7ed8863e807fd610927f4a686787325dba975b838cddd3548c5",
+  "validation_errors": []
+}

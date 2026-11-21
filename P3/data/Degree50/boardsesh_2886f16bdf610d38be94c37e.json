@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2886f16bdf610d38be94c37e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Hold On - D\u00e9fi 1",
+  "setter": "samuelwyler",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ad63e1b18ae245b086b7d57c5b1f5026",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1096r15p1133r15p1183r15p1185r12p1198r12p1234r13p1268r13p1269r13p1337r13p1353r13p1387r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.96,
+  "ascensionist_count": 53,
+  "quality_average": 3.25,
+  "hold_fingerprint": "5d313a6db7c4738ef5b47b79a296eac75a6f65053f07b1c5eca69f14343eae56",
+  "validation_errors": []
+}

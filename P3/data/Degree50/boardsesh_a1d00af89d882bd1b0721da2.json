@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a1d00af89d882bd1b0721da2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "cabinet battle",
+  "setter": "JakeSully",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "aa2a66dba7424ee5800e25e69e56c561",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1110r15p1163r12p1177r12p1211r15p1249r13p1264r13p1333r13p1334r13p1355r13p1373r13p1394r14p1570r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "ba8056a2bfe70c847b73e28d1b7190f10649ab2fd95dc36ae5e843023195a291",
+  "validation_errors": []
+}

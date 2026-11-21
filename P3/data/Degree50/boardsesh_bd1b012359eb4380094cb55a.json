@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bd1b012359eb4380094cb55a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Frost Bitten",
+  "setter": "SeventhLLama",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "efe7c02f8a78464d8cdf2510c142c17d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1236r12p1239r12p1288r13p1302r13p1306r15p1334r13p1337r13p1385r14p1498r15p1516r15p1531r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 170,
+  "quality_average": 3.2899999999999996,
+  "hold_fingerprint": "ac759223eac808128fa4e13478aa6fc25d1f7917b82c44b1ab461bf05821193f",
+  "validation_errors": []
+}

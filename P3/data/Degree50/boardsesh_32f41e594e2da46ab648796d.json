@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_32f41e594e2da46ab648796d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Toss & Cross",
+  "setter": "skarn0523",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "f45ec7dfab594ef8ba13f24b38f47759",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r15p1131r15p1145r12p1163r12p1231r13p1302r13p1355r13p1392r14p1458r15p1505r15p1550r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.01,
+  "ascensionist_count": 823,
+  "quality_average": 3.38,
+  "hold_fingerprint": "8faefa0ffc9fdce8b06b6c0d201074157feacdc7347082d2bbe2331e15cc1921",
+  "validation_errors": []
+}

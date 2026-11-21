@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1b306b5cd9351f01bf3de72f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "snek",
+  "setter": "jhada",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "FD538A0D6FDC4CE2A9867A9C98EC051D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r12p1182r13p1199r13p1202r13p1255r13p1289r13p1337r13p1386r14p1479r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.03,
+  "ascensionist_count": 93,
+  "quality_average": 3.3599999999999994,
+  "hold_fingerprint": "bb9bb62841ea3c52c5e186dd0b9d0583ab74a8979faf7cea226632887cfbdeb6",
+  "validation_errors": []
+}

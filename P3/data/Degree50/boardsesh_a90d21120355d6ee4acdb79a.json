@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a90d21120355d6ee4acdb79a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "pd2",
+  "setter": "paulrobinson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "DDB433501417460A8A801A1EA4B4C033",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1126r12p1143r12p1230r13p1233r13p1284r13p1290r13p1357r13p1392r14p1493r15p1548r15p1553r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.06,
+  "ascensionist_count": 34,
+  "quality_average": 3.25,
+  "hold_fingerprint": "b0633e89656563ae74883b7054f9a8d7529e6829dccdc79994cc898219a51a81",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bc6c700f2567d8510c6b5838.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Parallax",
+  "setter": "stefan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "12E165F38A6C42C2B1D489ED825BBDB5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1203r12p1271r13p1283r13p1318r13p1384r14p1491r15p1532r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e955db5b2441ef8c3322000abfdc928c7e9cad4713e485505951b90b15ba0748",
+  "validation_errors": []
+}

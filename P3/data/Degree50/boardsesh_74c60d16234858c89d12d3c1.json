@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_74c60d16234858c89d12d3c1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Telecommuting",
+  "setter": "alookatommorow",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "28312307584A4D5294DD63041DDF6DED",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1205r13p1218r13p1236r13p1303r13p1319r13p1349r13p1384r14p1447r15p1471r15p1480r15p1564r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "ded5de0f8874903ac2f90af4cc9ecbf799567a2bb737265116e1c0217a5c31e7",
+  "validation_errors": []
+}

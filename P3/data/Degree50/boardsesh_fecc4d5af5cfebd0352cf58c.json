@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fecc4d5af5cfebd0352cf58c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "last layer ",
+  "setter": "guigui",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "7ba8b4d8-0d96-4e7a-befb-f89c9e11e265",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1172r12p1140r15p1447r15p1220r13p1386r14p1320r13p1372r13p1290r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4a42bd77a466b9a01402ff428a7236f3df532f6b2fde958c54ace361363f9a91",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c7a4ef524dcd81f86be38e7d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Ventilator",
+  "setter": "nadnod",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "734fa80ff60d405d88e644d9e95b060b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1155r12p1207r12p1233r15p1255r13p1273r13p1305r13p1317r13p1322r13p1386r14p1473r15p1490r15p1534r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.04,
+  "ascensionist_count": 48,
+  "quality_average": 3.5400000000000005,
+  "hold_fingerprint": "679bd4253de0b1295644a2e7d76ab9bf7d3fce56ed95872576d12714fabb01fb",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fe31b8554b03ca03b751f9a7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Raw version",
+  "setter": "Mudhand_89",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8BCFE07F32BE4B81866E50F5AFA93D20",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1135r12p1164r12p1206r15p1253r13p1303r13p1307r13p1349r13p1383r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "a75e36c7a3a215b3cbd50182f7328ea1b9509b9073e37c1771d0ec46ba4ad0a4",
+  "validation_errors": []
+}

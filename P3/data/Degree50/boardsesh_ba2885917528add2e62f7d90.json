@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ba2885917528add2e62f7d90.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Upsy-Downsies",
+  "setter": "maxcaudle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "F7F9F0AF2D1C4057A36346A4DE91A8FE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1229r12p1253r13p1267r13p1274r15p1287r15p1289r13p1339r13p1375r13p1388r14p1501r12",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "20521c9e5150be0b92420832db46252de94b44be58d30c94134ea0d65baa6a9e",
+  "validation_errors": []
+}

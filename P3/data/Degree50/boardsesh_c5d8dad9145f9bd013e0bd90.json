@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c5d8dad9145f9bd013e0bd90.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "pinch trainer 1000",
+  "setter": "Jeff",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "f12953aed9bc4ed89ca343595c8e723d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1124r12p1127r12p1196r13p1228r13p1295r13p1298r13p1332r13p1345r13p1379r14p1464r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "5ead5fdf325c2f36392e501978fbff1e04f278e7996818bc497e5675f265f5bf",
+  "validation_errors": []
+}

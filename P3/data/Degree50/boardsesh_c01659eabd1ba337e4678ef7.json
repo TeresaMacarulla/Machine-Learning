@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c01659eabd1ba337e4678ef7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "shaker me awake (direct)",
+  "setter": "jameshurst",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 0,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8C11F378DA254637A356C9AED5C663B4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r15p1267r12p1270r12p1387r14p1389r14p1514r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "dd85489ed3290c16bfabf8d39ecf80d79691fae9c04357ada7444578313fe7db",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_12fa8cb455a227ba956fb910.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Tumble Weed (1)",
+  "setter": "climbfig2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "79AFFBF77E6346C5B5AD6E10F632738C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1113r15p1161r15p1198r12p1200r12p1214r15p1247r13p1251r15p1267r13p1297r13p1335r13p1384r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bf9e3e2c45cd80892acab399439ec978fcb4fd12cd1f5590655d41ec3fa588d2",
+  "validation_errors": []
+}

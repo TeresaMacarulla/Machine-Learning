@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aa4056d0f6337280b658f79f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "KuDaCa",
+  "setter": "Kubi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "580EE4FC544545A085926BF8C23CB74A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1155r12p1221r12p1308r13p1320r13p1354r13p1382r14p1449r15p1531r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ab99fd129e3f31248b47096c74e5bb432595daf9879c51a32b9a7266d508af4c",
+  "validation_errors": []
+}

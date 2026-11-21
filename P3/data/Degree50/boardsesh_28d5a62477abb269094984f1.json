@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_28d5a62477abb269094984f1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "El Cap #1",
+  "setter": "Dimilahaye",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b2187de2af05444eaea3a453e85676ef",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1128r12p1176r13p1196r13p1229r13p1248r13p1257r15p1303r13p1305r13p1326r13p1394r14p1483r15p1485r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1b6f0ac4c811dc2c32bd3f61d94fe63f64b768048c99824d8b95729369a651e8",
+  "validation_errors": []
+}

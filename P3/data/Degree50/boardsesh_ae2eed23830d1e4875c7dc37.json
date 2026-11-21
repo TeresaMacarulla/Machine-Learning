@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ae2eed23830d1e4875c7dc37.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Boris shoulders",
+  "setter": "bvsed",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "CF8DB550CCB44CCD8930F9B5561D12B0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1191r12p1204r12p1291r13p1301r13p1340r13p1348r13p1354r13p1380r14p1541r15p1545r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "bc67e4104e4077fd254da83c15a5b23008b26510dbeb05213623a6bd04ded3b6",
+  "validation_errors": []
+}

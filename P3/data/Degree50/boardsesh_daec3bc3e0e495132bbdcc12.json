@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_daec3bc3e0e495132bbdcc12.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Spatzi",
+  "setter": "tomturbo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "ad3467f8797042edb246da7f6bb8f3b6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r13p1189r12p1207r12p1209r13p1247r13p1250r13p1273r13p1312r13p1347r14p1482r15p1500r15p1519r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.44,
+  "hold_fingerprint": "b8b289fe60874fc2d27ac57a37be749436b11429c06277ac8e2c00daf2bd7fb5",
+  "validation_errors": []
+}

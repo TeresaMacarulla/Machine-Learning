@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9f8be584542cb841893291b4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Caterpillar du sud",
+  "setter": "jaub5",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7be34b8f30624bbd873f558dc971b764",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r12p1160r12p1228r13p1250r13p1283r13p1321r13p1373r13p1393r14p1464r15p1505r15p1525r15p1553r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.6700000000000004,
+  "hold_fingerprint": "df2629937c66c31a2382f1a5191853eb1ff1ec1e77a3a7c0b68570240d76fcaa",
+  "validation_errors": []
+}

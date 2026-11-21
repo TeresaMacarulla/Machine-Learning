@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8b3c51a8702ae75ce48a360f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Hug Lyfe",
+  "setter": "GirthQuake",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8AB2D3ADE7AD4B36AB8C0D3788C6ECE6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1180r12p1182r12p1250r13p1288r13p1289r13p1342r13p1391r14p1524r15p1542r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 4,
+  "quality_average": 5.0,
+  "hold_fingerprint": "f16c95dc997c8eb88844a6009f2a870c8afae4aa5493c5d3d47bbb7368cc8327",
+  "validation_errors": []
+}

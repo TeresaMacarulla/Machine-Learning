@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e756ab5ae8a0fbb24d3b0a77.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Kilter Board Koncussion",
+  "setter": "nickwedge",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0539B401A79145CFA759F220957B2AA4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1181r12p1199r12p1253r13p1265r15p1286r13p1322r13p1340r13p1390r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.99,
+  "ascensionist_count": 9574,
+  "quality_average": 3.2008357709987463,
+  "hold_fingerprint": "aa7c293c6655ed401c5e88b3b9c9db0036512ab4e8cb9e0fd59d307dd919be62",
+  "validation_errors": []
+}

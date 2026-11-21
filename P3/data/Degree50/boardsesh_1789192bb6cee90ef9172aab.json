@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1789192bb6cee90ef9172aab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "No Bets Allowed",
+  "setter": "Rpmcgui",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5144f1b4-0c1f-48b8-ac0a-b3ea6c2d470e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1208r12p1255r13p1256r13p1137r15p1305r13p1359r13p1391r14p1515r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "bff24fa1c8e032774c8303a62737ed2c668060b5208b9c24544748cd6baf0b8a",
+  "validation_errors": []
+}

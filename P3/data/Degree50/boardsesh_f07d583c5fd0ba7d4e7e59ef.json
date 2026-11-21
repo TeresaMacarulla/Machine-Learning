@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f07d583c5fd0ba7d4e7e59ef.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "go up or go home",
+  "setter": "Bouwstof",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "BE9CA9AF8DDF4A9C9355E23E73D02997",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r15p1168r15p1231r15p1234r12p1236r13p1302r13p1317r13p1351r13p1385r14p1387r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 16,
+  "quality_average": 2.06,
+  "hold_fingerprint": "2b1e9ed3021689399b334ab403790e029aee4e09e7269a9e493ec7092b8e6c2d",
+  "validation_errors": []
+}

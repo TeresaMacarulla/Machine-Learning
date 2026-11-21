@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f2eed69504fc8f59c3aa4bb1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "mandarin",
+  "setter": "E.2.d.2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F5DD4E9A4C45452CBB11A93A3A7DCB65",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1177r12p1212r13p1280r13p1321r15p1333r13p1351r13p1388r14p1462r15p1483r15p1493r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "26164b8744da147d2dd6b69c2870ec336bb95a63f1de66f224853bbe5308cc1f",
+  "validation_errors": []
+}

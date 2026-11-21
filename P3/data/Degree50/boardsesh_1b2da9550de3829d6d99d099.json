@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1b2da9550de3829d6d99d099.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "tieso",
+  "setter": "juliancr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "92aad167dd544407ba767a6075aa2664",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1271r12p1285r13p1302r13p1314r13p1384r14p1499r15p1526r15p1551r12",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.92,
+  "ascensionist_count": 26,
+  "quality_average": 3.36,
+  "hold_fingerprint": "0455a271933c701a4bf81e3708445b021a24da324e0607731f929ac340c0598d",
+  "validation_errors": []
+}

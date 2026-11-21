@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f1277578e9f165c325186d12.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Bolt Hole On?",
+  "setter": "goatybeef",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7CC81C76945E4DC0ACE8629D05034E23",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1224r13p1289r13p1304r13p1388r14p1451r15p1481r15p1525r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3d7936da23e202040b8aafbdc76d6cfd3ddfeaeffb9689b0f1482e572fb2c1e7",
+  "validation_errors": []
+}

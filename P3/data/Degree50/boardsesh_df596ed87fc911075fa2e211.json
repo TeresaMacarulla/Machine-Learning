@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_df596ed87fc911075fa2e211.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "couloir en Z",
+  "setter": "odei",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5a96eb969c754b0281347692c0675255",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1136r12p1156r15p1187r13p1189r13p1253r13p1269r13p1307r13p1342r13p1395r14p1449r15p1516r15p1533r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d65dacaa1797443fbd3a250305094b6d20921a268494382753855d91571fd73a",
+  "validation_errors": []
+}

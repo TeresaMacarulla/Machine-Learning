@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bddf6b8b1d92e0bfe6353f2a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Project too many degrees",
+  "setter": "Esteban_Le",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b956f4e0-3092-4be2-b899-074e8d703c1a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1222r12p1543r12p1517r15p1518r15p1499r15p1253r13p1269r13p1286r13p1540r15p1333r13p1576r13p1383r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "61abfff56e83fe152d6abaa35c1f788c66e40d3c93cf2756a0d9998fab998c48",
+  "validation_errors": []
+}

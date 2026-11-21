@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3c5b931efa361ec5d08aa45e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Thumbs On",
+  "setter": "rocprof",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "73ba608a-921b-45ee-9423-180e8456b9ea",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1126r12p1199r12p1456r15p1148r13p1254r13p1320r13p1375r13p1393r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "36bd6d4ee2c98b3268672fd93d25b6db865630b0edc816a7d71dd18a4dbc90cc",
+  "validation_errors": []
+}

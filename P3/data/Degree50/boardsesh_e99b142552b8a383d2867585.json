@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e99b142552b8a383d2867585.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Too Tall",
+  "setter": "root",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1344c416-7419-42ce-afc9-24031fc99175",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1461r15p1128r12p1246r13p1131r15p1144r15p1279r13p1300r13p1353r14p1092r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "54c6f0889d27f7e802fda915ff1ed2aadf8a50c4b83f2aa4957d6c9720db65af",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8b81381bf8b8d2749d653d0c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "entsafter\ud83e\uddc3",
+  "setter": "00_rocketboy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B250C4C77D0748909EFEABBEFFFBB257",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1176r15p1180r12p1242r15p1248r12p1254r13p1285r13p1291r13p1357r13p1385r14p1513r15p1593r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 15,
+  "quality_average": 3.13,
+  "hold_fingerprint": "a623072e35ba8a1670afbb3a20ebda0aa7bc111e85a55e5800f22fcd3b4d236c",
+  "validation_errors": []
+}

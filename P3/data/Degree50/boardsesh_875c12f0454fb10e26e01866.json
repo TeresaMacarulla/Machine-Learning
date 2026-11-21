@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_875c12f0454fb10e26e01866.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Tornado Jump",
+  "setter": "Senor_Taco",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "c4e27d18543c4a7bb7c84e99e329f4dc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1189r12p1270r12p1334r13p1338r13p1383r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 21,
+  "quality_average": 3.3800000000000003,
+  "hold_fingerprint": "70e7701689ce3d859d600138519da70bd67490767ec7d74013d208727c2869e9",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e8f79243430c7d06b50ae959.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Pincement",
+  "setter": "r.depoys",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "bfa7fa3b-9658-4793-b2e2-c4c193f8b238",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1191r12p1186r12p1478r15p1254r13p1216r13p1285r13p1332r13p1529r15p1388r14p1494r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.5,
+  "ascensionist_count": 7,
+  "quality_average": 4.33,
+  "hold_fingerprint": "373ed56ab02af48e71e3956e8747d70138c06411ba00311d0dd299c9262eaef1",
+  "validation_errors": []
+}

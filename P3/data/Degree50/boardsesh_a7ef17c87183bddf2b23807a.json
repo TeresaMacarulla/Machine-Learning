@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a7ef17c87183bddf2b23807a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Wagon left",
+  "setter": "mario2222",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "404d34dfab2a41deb73eff8cb5f917db",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1155r12p1157r15p1220r13p1256r13p1302r13p1313r13p1316r13p1380r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.97,
+  "ascensionist_count": 98,
+  "quality_average": 3.44,
+  "hold_fingerprint": "b273fb57bd45813ef628149e63888f2c8ef438aa6bf1e29911c769ea29b31034",
+  "validation_errors": []
+}

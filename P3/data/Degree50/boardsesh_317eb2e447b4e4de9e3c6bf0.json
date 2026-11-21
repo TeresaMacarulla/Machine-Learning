@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_317eb2e447b4e4de9e3c6bf0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "mamario",
+  "setter": "Sputnik",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "BC055C912B224DFF873A22BBACB14606",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1154r12p1219r13p1221r13p1234r15p1270r13p1271r13p1272r13p1305r13p1340r13p1374r13p1392r14p1450r15p1452r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3df387e128fed332d0704104b92a6b088ae5a084ef1e82dbff084dbdec06d639",
+  "validation_errors": []
+}

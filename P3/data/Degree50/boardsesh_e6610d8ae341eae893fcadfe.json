@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e6610d8ae341eae893fcadfe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "SV 3: 50 degree",
+  "setter": "philodope",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "0ed3649770d54766ae83619b353419ce",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1144r15p1149r12p1183r15p1200r12p1215r13p1236r13p1239r15p1266r13p1304r13p1353r13p1389r14p1454r15p1455r15p1456r15p1457r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.55,
+  "hold_fingerprint": "72c5aed371f68c45197e9082a62075c6c63826e4577323809a2d06cfa57aac09",
+  "validation_errors": []
+}

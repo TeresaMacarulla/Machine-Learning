@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1ee9d64694d19c91fa121eb8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "barney",
+  "setter": "frazam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "916138fb-66cb-4951-88b6-04767aa3dfd9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1235r13p1302r13p1187r12p1154r15p1132r12p1078r15p1335r13p1389r14p1579r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "c609e7080d7f10956980e4e728b27cbe720bffda4855c990ea0e9305429b03e3",
+  "validation_errors": []
+}

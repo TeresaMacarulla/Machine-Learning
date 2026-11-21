@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_250b06f7c5e6663a7b66fb12.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "two broken shoulders",
+  "setter": "harrison1124",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "4FE74A2725CC498A8E73489D99EF3B4A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1168r15p1170r15p1241r13p1268r13p1289r13p1302r13p1331r13p1367r14p1449r15p1480r15p1521r15p1523r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "ba2643644f28afe0e51b1a4140934620d53bd65899cc707f4178107824b478be",
+  "validation_errors": []
+}

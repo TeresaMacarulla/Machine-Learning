@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a64f7d5cc1821c50814829c5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "4 hard moves",
+  "setter": "shani1953",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "E665425B66CF4677B1E3673BCA5966B9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1185r12p1215r12p1302r13p1315r13p1331r13p1379r14p1476r15p1537r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e916617419f118660687e9d3b8e9e34ac526f01b0bbe977c5c8ea63478e229d3",
+  "validation_errors": []
+}

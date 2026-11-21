@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d1e5b88a04d48077ccced258.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Double It",
+  "setter": "jfong310",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "E8D298673B154AAD9D609F480E17E672",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1257r12p1259r12p1300r13p1302r13p1306r13p1308r13p1385r14p1389r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ebdf6737b9aa49b629af4a1a919504834f222ceb492f46d29edc1a7c1be509cf",
+  "validation_errors": []
+}

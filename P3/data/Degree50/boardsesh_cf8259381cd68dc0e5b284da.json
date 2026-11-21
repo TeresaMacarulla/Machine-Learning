@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cf8259381cd68dc0e5b284da.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "MD Campus 1",
+  "setter": "marcoderrien",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "fa2b529e-d92e-4d4b-a8c9-3042bc4317e6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1206r12p1219r12p1382r14p1271r13p1302r13p1336r13p1350r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9d0b8d83c8ecf7d94664eaea1c008825c61eb94a0ef00a43cd91bff20e8aba09",
+  "validation_errors": []
+}

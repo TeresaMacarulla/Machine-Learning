@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a13a869abcb10a5800289fc5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Risky business",
+  "setter": "Jackson_Meadow",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "F40D66C83550427BA687FE90CB5B0A91",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1151r15p1179r12p1214r12p1237r13p1249r13p1288r13p1305r13p1336r13p1373r13p1389r14p1531r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "58a324c27b3a6f7fad27938307a9c6268d6d5cf0f0f4049b06e9c86099f58f75",
+  "validation_errors": []
+}

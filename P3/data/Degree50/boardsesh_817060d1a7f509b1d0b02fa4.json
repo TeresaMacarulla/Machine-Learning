@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_817060d1a7f509b1d0b02fa4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "twisted up",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "69AE2EE4229B46EA9282F4313699A2FE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1095r12p1101r15p1178r12p1182r13p1184r13p1188r13p1272r13p1320r13p1390r14p1460r15p1463r15p1479r15p1550r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.14,
+  "ascensionist_count": 15,
+  "quality_average": 3.07,
+  "hold_fingerprint": "a99aef5150e24177f199f4cc9f2839ea1bb04cc44116766dc1d774991865a60e",
+  "validation_errors": []
+}

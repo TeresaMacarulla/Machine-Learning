@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_63e2d54137993f072de76a6c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "professa dyno",
+  "setter": "banksysend",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "b14d45b8-f20b-44b9-bd6e-c525d7fcbf30",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1190r12p1303r13p1205r12p1105r15p1480r15p1387r13p1565r15p1384r14p1308r13",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": null,
+  "hold_fingerprint": "99576b8d73101515c6270ccf4404059b9a40d05f1588d230a6bbcd263140e730",
+  "validation_errors": []
+}

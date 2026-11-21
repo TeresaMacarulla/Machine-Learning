@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_826faf35fa0fac45b5b9df2d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Marorin",
+  "setter": "Shinji.Kohsaka",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "EE3468424993499CA3F064CE9143100A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1144r12p1163r12p1234r13p1238r13p1246r13p1302r13p1315r13p1384r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.67,
+  "hold_fingerprint": "ba15f73873e4419300dce005f7c378ca435d43d415ef07b4c866a8140f061b83",
+  "validation_errors": []
+}

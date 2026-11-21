@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d7fcee19998aeddb77d71da6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Octpus",
+  "setter": "Bicky0108",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FE33CDCAC54A44A6B7A40D2CCCA4F2F7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1143r12p1245r13p1330r13p1350r13p1368r13p1389r14p1461r15p1519r13p1522r15p1555r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3caebec8ec45739cfc8e1725b49b4a237f4de0ac8c007d71bcaaa949b5cd292b",
+  "validation_errors": []
+}

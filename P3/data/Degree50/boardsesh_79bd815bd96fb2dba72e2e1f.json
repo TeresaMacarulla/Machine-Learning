@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_79bd815bd96fb2dba72e2e1f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "pogo2",
+  "setter": "kieranlee",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "7C1CBFF5567846CA931E50019D89C7F5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r12p1192r12p1214r13p1263r13p1301r13p1302r13p1356r13p1385r14p1461r15p1533r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "252d157de29a9f158932d58a222bf66160661fe73c52b226631e9d6c61ad7bbe",
+  "validation_errors": []
+}

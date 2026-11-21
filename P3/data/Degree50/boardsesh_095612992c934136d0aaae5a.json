@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_095612992c934136d0aaae5a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "premiere mission",
+  "setter": "ericdevence",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "662a5364a9df47b5b67a88b1873ca58e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1151r15p1166r15p1181r15p1194r15p1234r12p1236r12p1267r13p1268r13p1280r13p1282r15p1336r13p1384r14p1386r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "3cf5d8fcd4c032c96f54fbac4aca5d49a995ca6f97a8525b392a4bccb231f9e7",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fa86af66352268de1ffcfe0b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "JDG002",
+  "setter": "ThickYosh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "768c705718784af8af02e8373f4d26c2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1075r15p1154r13p1157r12p1205r13p1271r13p1309r13p1340r13p1373r13p1387r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.85,
+  "ascensionist_count": 13,
+  "quality_average": 3.62,
+  "hold_fingerprint": "863e6c23f7774a89538e6d98f2257704d25c1e6158abfd106598d4efa056c600",
+  "validation_errors": []
+}

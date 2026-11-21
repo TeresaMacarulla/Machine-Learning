@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ec2a57dc41bf63a09f0b8738.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Altonative direct",
+  "setter": "KilterStudio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "03B17084398C40DA93031A33CC135740",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1126r12p1194r13p1211r13p1277r13p1364r13p1381r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bb3b1d940c478ec7ee5d5e5043ddaf33a77ff43825993bce51681cafeaab9816",
+  "validation_errors": []
+}

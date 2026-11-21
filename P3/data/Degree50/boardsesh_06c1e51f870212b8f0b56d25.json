@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_06c1e51f870212b8f0b56d25.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "illlusion",
+  "setter": "guillaumemrle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "05ab16feac5b4ff0a70b32b5d81ef4ed",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1145r12p1147r12p1199r13p1201r13p1217r13p1267r13p1317r13p1348r13p1384r14p1456r15p1539r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.75,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "b123ca8644d29bebb21d5cf07adcc95e6f84c2ce98fcdfea12884ca33d1d1e3c",
+  "validation_errors": []
+}

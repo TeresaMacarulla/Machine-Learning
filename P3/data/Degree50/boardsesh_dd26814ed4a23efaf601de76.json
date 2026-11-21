@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dd26814ed4a23efaf601de76.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "R93",
+  "setter": "HugoChan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "46bea58032c94b3a9a1aa0256c767006",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1119r12p1131r13p1135r13p1136r12p1234r13p1273r13p1289r13p1320r13p1325r13p1392r14p1451r15p1452r15p1454r15p1455r15p1456r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "d85bad4785e1aa556ca0ee64de44fe6c948e6ddf9298beee76a722ca92fbb208",
+  "validation_errors": []
+}

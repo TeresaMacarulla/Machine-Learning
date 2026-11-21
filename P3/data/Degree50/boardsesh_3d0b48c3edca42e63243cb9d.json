@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3d0b48c3edca42e63243cb9d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Pajama jon",
+  "setter": "RonnyBird",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1fb05b0925544fcea455805c23793fc9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1088r15p1160r12p1163r12p1199r13p1220r13p1286r13p1291r13p1340r13p1389r14p1480r15p1508r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.91,
+  "ascensionist_count": 82,
+  "quality_average": 3.64,
+  "hold_fingerprint": "231d7bf52489cb3e5d9940567020eecaa13f9aa8c1680cb2dd8d11865011c43b",
+  "validation_errors": []
+}

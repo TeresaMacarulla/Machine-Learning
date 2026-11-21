@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eea9d69d7792843c9bd46219.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Long Drive",
+  "setter": "kilter70",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2CF0E2825A2A463492C0D5B021C5A66B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r15p1149r12p1250r12p1271r13p1336r13p1382r14p1508r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "377416757d9ab71df4723b58813546f540ea5161032ce3916e62b863f761780d",
+  "validation_errors": []
+}

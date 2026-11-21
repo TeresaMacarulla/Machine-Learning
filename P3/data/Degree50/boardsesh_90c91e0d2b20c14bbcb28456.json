@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_90c91e0d2b20c14bbcb28456.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Pingouin \ud83d\udc27",
+  "setter": "VadimDelakian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6242EAD8CE634B8BAC0CFE2A4C46B2E3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1115r12p1127r13p1164r13p1233r13p1271r13p1320r13p1372r13p1383r14p1479r15p1531r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 40,
+  "quality_average": 3.05,
+  "hold_fingerprint": "44c3f65a7d6ad2c7311829f2e08dad43396de7082717822f32d1b12485746194",
+  "validation_errors": []
+}

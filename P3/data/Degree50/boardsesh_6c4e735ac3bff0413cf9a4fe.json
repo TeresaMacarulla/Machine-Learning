@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6c4e735ac3bff0413cf9a4fe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Trojan Magnum",
+  "setter": "holdsmasher69",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "f41155a6b7b044e9ac4b672b50e078b6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1145r12p1160r12p1197r13p1230r13p1282r13p1314r13p1349r13p1381r14p1462r15p1520r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c759a91d5c955c29fad1a61d708aaf89043d8f1dd863c33a071cfc1663af7372",
+  "validation_errors": []
+}

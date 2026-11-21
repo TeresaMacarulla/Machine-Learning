@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a469dffe7625ee5364cce72e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "project light",
+  "setter": "alexkhazanov1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "1ce91b7ccc3c478a85d9c304b82fee7e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1171r12p1273r13p1322r13p1372r14p1455r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.07,
+  "ascensionist_count": 14,
+  "quality_average": 3.29,
+  "hold_fingerprint": "e8d82f245c99687242dadcdb58dae1efd75a81b9c318003b302644c080e3982b",
+  "validation_errors": []
+}

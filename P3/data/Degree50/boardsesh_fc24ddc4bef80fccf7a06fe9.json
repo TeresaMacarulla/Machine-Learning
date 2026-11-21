@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fc24ddc4bef80fccf7a06fe9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "right foot only #2",
+  "setter": "meggiematts",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "E3CFE12B217E4766BFDA2EF8F3AC5254",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1145r12p1213r13p1214r13p1248r14p1250r14p1462r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "fa4dd2eed47d94b89fc5a15375f018ff1143279f6840cae12308460d9815dfb6",
+  "validation_errors": []
+}

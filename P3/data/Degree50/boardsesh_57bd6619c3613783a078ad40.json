@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_57bd6619c3613783a078ad40.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Palingenesis",
+  "setter": "nicholashayes",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A7C4E960D153411F8CDB5DE5BEDFB727",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1197r12p1206r15p1230r13p1254r13p1269r13p1273r13p1339r13p1386r14p1461r15p1474r15p1534r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.12,
+  "ascensionist_count": 25,
+  "quality_average": 3.64,
+  "hold_fingerprint": "f5e0aa7aaf1b97d63187f158fa7a4e03446630459ab2adb90beaae0e3254be2e",
+  "validation_errors": []
+}

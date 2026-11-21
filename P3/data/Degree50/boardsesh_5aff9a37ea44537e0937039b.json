@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5aff9a37ea44537e0937039b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Flipping the Coin",
+  "setter": "bennykuttler",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6A77E25203E14731A8A64D3B0FE46F3B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1156r12p1157r12p1216r13p1222r13p1287r13p1316r13p1362r14p1366r13p1535r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.93,
+  "ascensionist_count": 15,
+  "quality_average": 3.67,
+  "hold_fingerprint": "dd5feadaeebc28b48297c771e9ce1bff0c6f37522ba2867db3fb627e87bc02a1",
+  "validation_errors": []
+}

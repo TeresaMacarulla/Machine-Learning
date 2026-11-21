@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e98216e8fae4824f8e3ed0ee.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Burden of Gravity",
+  "setter": "Glooben",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0760af22-96ba-4454-995f-f4253d304274",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1127r12p1091r15p1231r13p1287r13p1304r13p1353r13p1383r15p1331r14p1345r15p1555r15p1150r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.33,
+  "ascensionist_count": 4,
+  "quality_average": null,
+  "hold_fingerprint": "894849d8bb070bb70214a4eb927c658ff497626a657a9ad9aca9444ada6a72b3",
+  "validation_errors": []
+}

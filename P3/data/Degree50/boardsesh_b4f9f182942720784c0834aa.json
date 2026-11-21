@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b4f9f182942720784c0834aa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "dont jump at me",
+  "setter": "gym_rat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2B56F19264C14EC2B9B99345DEBAE7D7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1154r12p1187r13p1235r13p1280r13p1302r13p1379r14p1381r14p1447r15p1521r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "83e9207232a781e11f7bd39024080b5e0da3cb2a9359133decaef385c3428ac4",
+  "validation_errors": []
+}

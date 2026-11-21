@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6eeb81c30b8811e938284ee4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Dorian",
+  "setter": "BrandonShafer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A2EB41D885514AEC836BD2EDD328AEB2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1161r12p1216r13p1243r15p1248r13p1301r13p1314r13p1349r13p1381r14p1457r15p1467r15p1487r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "30f27df2de1761712b7201c7e1ba59fa6918bf4f88943c1fe27968ab2aaa2787",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_da51fe0750044f0818c430e8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Los bloqueros no andan",
+  "setter": "NachoHernandez",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "695d32ba301a4fe5a7229c5a579707e4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r12p1154r12p1174r13p1216r15p1237r13p1256r13p1303r13p1304r13p1352r13p1390r14p1453r15p1508r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "cbf5ca8f9cc90e7f279b7147ad1d4d509b6e653982eb2db3cefe1d4387c1a473",
+  "validation_errors": []
+}

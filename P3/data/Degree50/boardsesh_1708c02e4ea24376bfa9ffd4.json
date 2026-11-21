@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1708c02e4ea24376bfa9ffd4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "dirtyzims v250000000",
+  "setter": "beachesrockgym",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "9e3c0bdbefea47f598ab6ecc4d3a567f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1204r12p1220r15p1223r12p1289r13p1308r13p1341r13p1355r13p1390r14p1489r15p1500r15p1545r15p1560r15p1562r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.33,
+  "hold_fingerprint": "7610c1af10670823b221ae8524c6a5104acd4adb670f191bdc62285a2dec3d86",
+  "validation_errors": []
+}

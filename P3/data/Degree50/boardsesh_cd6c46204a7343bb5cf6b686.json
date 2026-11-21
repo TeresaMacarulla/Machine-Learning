@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cd6c46204a7343bb5cf6b686.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Villain Arc",
+  "setter": "markusleebV",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "5DC82FDA16EE4074AD5B02C0E6D4BB7B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1104r15p1272r13p1292r13p1392r14p1500r15p1506r12p1527r15p1544r12",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "02ca7b962972ef8df85a40ce8ba220c892336b90de91ec1482b8e2bf717ee144",
+  "validation_errors": []
+}

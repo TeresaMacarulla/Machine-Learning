@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bc44f298372b2b32cccd90d8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Dalhalla",
+  "setter": "JamieBarendrecht",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "842fc14b60f6489dbdc06279b0b768b7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1193r13p1230r13p1280r13p1302r13p1303r13p1323r13p1375r13p1395r14p1464r15p1465r15p1537r15p1544r15p1553r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 26,
+  "quality_average": 3.3999999999999995,
+  "hold_fingerprint": "7dd9838f2ddeee205eeea3c96d84f81ba8984343d7acbcbe855b3328fe4e4d14",
+  "validation_errors": []
+}

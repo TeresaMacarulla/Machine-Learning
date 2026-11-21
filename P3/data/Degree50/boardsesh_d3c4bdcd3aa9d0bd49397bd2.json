@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d3c4bdcd3aa9d0bd49397bd2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "pincherie",
+  "setter": "axolotow",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "b556d348-82c6-412f-8c16-84b5f865a419",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r12p1186r12p1216r13p1254r13p1283r13p1318r13p1332r13p1382r14p1472r15p1521r15p1523r15p1533r15p1538r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "79d5621938ff70036cadefc5f24063022306a37e816af9e9b7f21db34891b6d5",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f49b9f5052b1278d366e1978.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Stankyleg",
+  "setter": "Halvorbb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "CAB83CE793A4459CA60F9E9051AD7913",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1160r12p1193r12p1262r13p1268r13p1340r13p1366r13p1369r13p1372r13p1379r14p1483r15p1514r15p1541r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2108b9fd6a1a442839d08e9934e068e356fc43ad169deeea62477e7afcce444f",
+  "validation_errors": []
+}

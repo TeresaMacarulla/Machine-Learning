@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5eeeff4508118604a667b481.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Low-Sens Slap",
+  "setter": "Frosla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "bf8664868c5941b793e439137f8b8522",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1143r12p1192r13p1231r13p1237r15p1247r13p1319r13p1349r13p1350r13p1379r14p1460r15p1483r15p1556r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "f55067d306ad2c584257fc5836b209a6f4d816e4251e745fbc64c6dbc6d265fd",
+  "validation_errors": []
+}

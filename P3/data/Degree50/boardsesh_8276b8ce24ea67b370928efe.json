@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8276b8ce24ea67b370928efe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "minimal damage",
+  "setter": "JJE",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "4C326685ADD5439B983D2C114919A3D4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1254r12p1267r12p1336r13p1349r13p1381r14p1487r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "7ba3d001c1310fdb73a1209cbb5938a6dce39e55f146ba28e127f743d48ea54c",
+  "validation_errors": []
+}

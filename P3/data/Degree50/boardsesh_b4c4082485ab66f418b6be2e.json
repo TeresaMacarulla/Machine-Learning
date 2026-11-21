@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b4c4082485ab66f418b6be2e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Carry The Boats",
+  "setter": "grep",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b6d3c37e-6edb-4d64-911b-4830b333149f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1204r12p1172r12p1479r15p1471r15p1269r13p1307r13p1187r13p1073r15p1218r13p1504r15p1253r13p1340r13p1389r14p1387r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.8,
+  "ascensionist_count": 22,
+  "quality_average": 3.47,
+  "hold_fingerprint": "75cd7d6e1e1b4f141866c31201b02d33e7099763bb7c6e252ace51ee6cba7d98",
+  "validation_errors": []
+}

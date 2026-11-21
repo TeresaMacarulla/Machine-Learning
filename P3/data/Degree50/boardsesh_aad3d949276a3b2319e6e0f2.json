@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aad3d949276a3b2319e6e0f2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "top 11",
+  "setter": "theivan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "881c943b59ec4e729c99b3f1eb5e101b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1142r12p1143r12p1150r15p1206r15p1231r13p1268r13p1269r13p1289r13p1290r13p1359r13p1393r14p1461r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "5fd5105e553e16ac2105fbb6e74f9dc75092bfebeeedbddeb3e3bed3c4ee85de",
+  "validation_errors": []
+}

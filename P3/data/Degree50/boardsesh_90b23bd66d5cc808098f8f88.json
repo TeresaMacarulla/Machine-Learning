@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_90b23bd66d5cc808098f8f88.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "lil one training 20w 50deg",
+  "setter": "marijnp",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "43E99AED183646649E9938E51299F914",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r12p1150r15p1190r12p1221r13p1255r13p1269r13p1304r13p1319r13p1354r13p1387r14p1447r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "13bfe458920fdc9b6f59ce825e257a6c0f679a544f06d3a2b2df08f6dad35377",
+  "validation_errors": []
+}

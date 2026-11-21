@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a86f150644320e4f1345cab1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Kras",
+  "setter": "thijs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "466A911E6FCE435B865F48ED8D01B621",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1177r12p1233r12p1320r13p1323r13p1394r14p1468r15p1475r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c87c897afb66fc960da03e2a10a1a610765cef28d4303fb074b0d3ab4b613360",
+  "validation_errors": []
+}

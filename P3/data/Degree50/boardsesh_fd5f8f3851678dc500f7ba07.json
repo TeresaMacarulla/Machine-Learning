@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fd5f8f3851678dc500f7ba07.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Surely",
+  "setter": "PJP",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "A4D42D48767A413298C7636CEE01CBFE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1199r12p1234r13p1266r13p1302r13p1350r13p1387r14p1456r15p1485r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.9,
+  "hold_fingerprint": "d01180f20e3f34f1c39a29471e86cfcb7659e37c87fc0286da000effac90de9a",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7a9621dfc438e7a4f397f409.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "expelliarmus",
+  "setter": "yarden.pilpel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b78c69ffb82545dd89406fe4868669f4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1187r12p1191r15p1238r12p1283r13p1314r13p1318r13p1379r14p1380r14p1507r15p1578r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "caa7c6c5c0d459f37c0961525d37326eba497705bc3833b1c4ebc83544e0b6dc",
+  "validation_errors": []
+}

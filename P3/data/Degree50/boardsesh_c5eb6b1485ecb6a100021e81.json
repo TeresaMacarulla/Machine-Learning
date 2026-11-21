@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c5eb6b1485ecb6a100021e81.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Bird\u2019s Box",
+  "setter": "Bird",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "26BE5AFFE19C4BFFB9E3B6019F8054D4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1128r12p1196r13p1233r13p1250r13p1270r13p1303r13p1357r13p1391r14p1506r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d61ec8b48b93b1ef3b2ca37c01f68220e621efa8faaf44dd637f515a55bbc62a",
+  "validation_errors": []
+}

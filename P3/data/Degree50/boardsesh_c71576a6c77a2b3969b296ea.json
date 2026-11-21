@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c71576a6c77a2b3969b296ea.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "50 degrees of warm-up",
+  "setter": "Wangbang",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "efcb587be34d45478fa7f5cbbd2daf07",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1189r12p1201r12p1269r13p1282r13p1334r13p1385r14p1534r15p1547r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "8e3735484f5e3043888e82b552d4ee6db50116cbc1dace5cc5e131b946386a7d",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_63f7f1b39adb3fd3f0a84e31.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Conservative Snowflake",
+  "setter": "kfyoung",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B936EE861918460D8C2B49D53A70979C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1180r12p1197r12p1235r13p1281r15p1286r13p1320r13p1358r13p1391r14p1494r15p1497r15p1503r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "e37808944205bb889523c0482cdd170d34167b2ffb66743678c777d7b2a9a6fa",
+  "validation_errors": []
+}

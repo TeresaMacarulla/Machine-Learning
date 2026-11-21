@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a690321f31583064c7e7053c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "OLMIO",
+  "setter": "olmio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "789ee539be654101933303faaf545f0d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1187r13p1222r13p1273r13p1304r13p1339r13p1370r13p1383r14p1451r15p1454r15p1500r15p1506r15p1526r15p1532r15p1568r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.98,
+  "ascensionist_count": 2950,
+  "quality_average": 3.27,
+  "hold_fingerprint": "435fc648fbe3cfd7e20d3709fbd5ba179285000537ddae8723b840b4f009d451",
+  "validation_errors": []
+}

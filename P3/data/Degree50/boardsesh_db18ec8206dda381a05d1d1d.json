@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_db18ec8206dda381a05d1d1d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "12-Fingerdarm",
+  "setter": "Florinator",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8a6c78c4a7e7477fa2124a7567eb9f6b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1189r12p1225r12p1289r13p1320r13p1371r13p1383r14p1481r15p1482r15p1518r15p1566r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.92,
+  "ascensionist_count": 12,
+  "quality_average": 3.5,
+  "hold_fingerprint": "b4638c290354bc8d83339c205693057e50168eccfb09be5e52074edaffaefb8a",
+  "validation_errors": []
+}

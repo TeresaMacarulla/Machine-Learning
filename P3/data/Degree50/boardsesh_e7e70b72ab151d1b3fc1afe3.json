@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e7e70b72ab151d1b3fc1afe3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "left float your boat",
+  "setter": "jadeautumn02",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "D72420E5F21B40D4883D08E5275006DE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1150r15p1154r15p1188r15p1200r15p1202r12p1234r12p1272r13p1302r13p1353r13p1385r14p1387r14p1540r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "7b70bd32f5f6bfc62d725f0619cf198b89eaa1332caf00edfe05fc36c90938b3",
+  "validation_errors": []
+}

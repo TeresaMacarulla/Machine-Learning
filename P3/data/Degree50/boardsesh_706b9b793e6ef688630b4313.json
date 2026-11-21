@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_706b9b793e6ef688630b4313.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Gelbes Auto",
+  "setter": "Linus_Elze",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "d2bbea1555ca476bbac344c43bad1d59",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1201r15p1246r13p1263r13p1285r13p1349r13p1387r14p1460r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ea3675d5c448ff792a811390785e5b6596f4b3a93a984f2c36a1cfa4d156bb4e",
+  "validation_errors": []
+}

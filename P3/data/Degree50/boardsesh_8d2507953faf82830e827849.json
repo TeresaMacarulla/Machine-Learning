@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8d2507953faf82830e827849.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Twist Knot",
+  "setter": "endz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "428B0C285DBB4EB4A013B64DBCAA6CE5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1131r12p1133r12p1200r13p1234r13p1264r13p1267r13p1280r13p1349r13p1370r13p1388r14p1456r15p1511r15p1512r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.21,
+  "ascensionist_count": 14,
+  "quality_average": 3.43,
+  "hold_fingerprint": "1cd343b216ee47b0fc6c5bc8d559e9c893cfb54c601106042ea88ac780164813",
+  "validation_errors": []
+}

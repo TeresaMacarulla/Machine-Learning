@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c9ecf212c1d6b9b8d12d3d71.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "hagrid",
+  "setter": "elgainage",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "44366a488a064966ad10a0b721ba662e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1161r12p1163r12p1230r13p1249r13p1298r13p1335r13p1388r14p1532r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d958b329c8d969c02d2cc2d3a05ee8abd794e18c677f26eb6db6ed6a6d92f6f6",
+  "validation_errors": []
+}

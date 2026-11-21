@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3819991d1642949a0bf58946.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "40kg Benchpress",
+  "setter": "eliasarriagada",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "AA30B4A2B5454CF6806F151EB1BCB781",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r12p1204r13p1253r13p1265r13p1279r13p1318r13p1385r14p1389r14p1451r15p1528r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.96,
+  "ascensionist_count": 50,
+  "quality_average": 3.36,
+  "hold_fingerprint": "d4ddeef02d3a904e09015835eb976cafd91d10a5ecf40e63ddff9a6bd7782ccf",
+  "validation_errors": []
+}

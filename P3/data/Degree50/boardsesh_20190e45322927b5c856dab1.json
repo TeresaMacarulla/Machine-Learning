@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_20190e45322927b5c856dab1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Lord Board",
+  "setter": "steil_boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "454E1F72AAE04EE7820CDA12BB639438",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1167r12p1217r13p1283r13p1298r13p1352r13p1382r14p1452r15p1456r15p1479r15p1486r15p1494r15p1511r15p1543r13p1547r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.92,
+  "ascensionist_count": 25,
+  "quality_average": 3.76,
+  "hold_fingerprint": "9e2e76db3955aa392f6335499fe04512574b43c0cc4c56b61ca314d86706dc5f",
+  "validation_errors": []
+}

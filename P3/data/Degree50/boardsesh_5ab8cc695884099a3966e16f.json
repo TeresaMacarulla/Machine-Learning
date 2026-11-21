@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5ab8cc695884099a3966e16f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "VISION",
+  "setter": "charlie46",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8D14B0831BCD424A84E379A096250CB2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1217r13p1228r12p1266r13p1358r13p1395r14p1488r15p1520r15p1560r15p1561r13p1569r13",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f46a8c98c890657a3cc0a1525ecaae5398ca5304e608d524e0f1cd1c23a28eac",
+  "validation_errors": []
+}

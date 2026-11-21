@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0eb72c217119ff6ef1fbd539.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "the JC drop knee right",
+  "setter": "jcoup",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "792F33356B5B451C87C95DF5BD452C75",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r12p1148r15p1153r12p1204r13p1232r15p1273r13p1287r13p1339r13p1373r13p1395r14p1451r15p1473r15p1536r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e07276a7af91785309599bf86abe2fe76578f80f584e3df10189ae319420d1fa",
+  "validation_errors": []
+}

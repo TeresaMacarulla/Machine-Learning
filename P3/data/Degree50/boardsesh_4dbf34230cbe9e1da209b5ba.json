@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4dbf34230cbe9e1da209b5ba.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Dislocate",
+  "setter": "SaxonCasi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "a8fc5805c9084b59bdb35a134cadd82f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1193r12p1249r13p1270r13p1289r13p1296r13p1304r13p1308r13p1353r13p1394r14p1463r15p1465r15p1515r15p1519r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.96,
+  "ascensionist_count": 382,
+  "quality_average": 3.41,
+  "hold_fingerprint": "14309682e8cc0f8e860beb93a035d2e154bd629b7498089bb46e27fc66323658",
+  "validation_errors": []
+}

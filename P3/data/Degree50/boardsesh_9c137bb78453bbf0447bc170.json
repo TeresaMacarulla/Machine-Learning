@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9c137bb78453bbf0447bc170.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "kilter gremlin",
+  "setter": "Wilf_h3",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1EEFE4FC4C3B4798A9C77B2FDDD5450A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1145r12p1160r15p1179r12p1248r13p1270r15p1336r13p1366r13p1380r14p1460r15p1461r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c6806cdfce9d13cd47826c05f56a38afa4c60ba9dee4b646dec32adc8d64966e",
+  "validation_errors": []
+}

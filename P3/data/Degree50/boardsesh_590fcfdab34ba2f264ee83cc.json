@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_590fcfdab34ba2f264ee83cc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Peak  OG",
+  "setter": "ryan_OG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "9195F5B8320647948E2F98D6A5B42701",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1132r12p1155r15p1200r15p1218r13p1222r13p1291r13p1320r13p1385r14p1389r14p1452r15p1456r15p1509r15p1569r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "ffecd944b728e81c512d2677c72781088ac044958475dd4c480e403183b24bf6",
+  "validation_errors": []
+}

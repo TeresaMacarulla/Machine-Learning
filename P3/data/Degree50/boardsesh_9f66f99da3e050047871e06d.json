@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9f66f99da3e050047871e06d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "MGChino 01",
+  "setter": "MGChino",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "11248e39d8634db5a3617621b7fcd17e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r15p1204r12p1239r12p1264r13p1268r13p1270r13p1294r15p1350r13p1383r14p1513r15p1520r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "fdff790f9d7f0b2529b09e773487186329e13fe2366da998f6544a5ea382a4e2",
+  "validation_errors": []
+}

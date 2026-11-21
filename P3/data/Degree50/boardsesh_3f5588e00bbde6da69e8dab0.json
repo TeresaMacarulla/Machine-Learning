@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3f5588e00bbde6da69e8dab0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Hit it.",
+  "setter": "darkwuerstchen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0134FF65393F42B39E3E7B0DE1119CC0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r15p1211r12p1243r12p1271r15p1316r13p1351r13p1372r13p1391r14p1393r14p1483r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3ee879e57cbb7dff941dc5f6c981aaa34b26dbd9188d99e5f9290b45239bbeca",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3f4a2af60a080abcaa6b1e16.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "chill guy",
+  "setter": "josh_chung",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "2D73C82CF4BD4424A0EAE96828DFC73D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1177r12p1215r13p1268r13p1283r13p1352r13p1372r13p1391r14p1476r15p1484r15p1513r15p1514r15p1579r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "da00e205d4c8e0793b92acc595a6493ada213cfe51276527ea3afccdf256cd24",
+  "validation_errors": []
+}

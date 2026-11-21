@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_410cb2b85c6cb2898ecc2599.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "geschwindigkeit",
+  "setter": "derwelt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "d7db88e4cd324ad99a0123f3db8ba591",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1138r12p1222r15p1254r13p1272r13p1283r13p1372r13p1394r14p1514r12",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.6,
+  "hold_fingerprint": "e81be0d48854d0aa404f2076a5dbd17c0202cf18298ef9ad6f82ccd44c0e752c",
+  "validation_errors": []
+}

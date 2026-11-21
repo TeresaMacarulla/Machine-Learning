@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_78a5797275afdb77531b3269.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "JW 1",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "4F5C8D97ADA44018B296AAF8CCF0BBDA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1177r12p1186r13p1216r13p1254r13p1290r13p1358r13p1389r14p1451r15p1460r15p1490r15p1499r15p1536r15",
+  "display_difficulty": 30.0,
+  "difficulty_average": 29.88,
+  "ascensionist_count": 133,
+  "quality_average": 3.29,
+  "hold_fingerprint": "4f84abb8467fa3ce64790d9a8026b997e59cbd18ad7033f0e089dd866a1b37dd",
+  "validation_errors": []
+}

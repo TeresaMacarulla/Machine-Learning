@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_93572f6dc4238a66ae7cfa4d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Pinch R1",
+  "setter": "addD3333",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "D69D530DFE48481C9754D0867A706704",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1131r12p1184r13p1186r13p1197r15p1210r15p1254r13p1266r13p1279r13p1285r13p1332r13p1380r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "5762d1bceacdd6f4e85c008626ec50ecff1eaa9a8bb2cfa2610bcef212e0d899",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_126026e6a7a7b47ea0708576.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Horn OK Please",
+  "setter": "knob",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "a0ff5451-1841-4943-97a4-c9f250e3cd10",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1252r13p1149r12p1270r13p1306r13p1079r15p1459r15p1274r15p1196r12p1336r13p1386r14p1372r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 2,
+  "quality_average": 3.5,
+  "hold_fingerprint": "8243382aca06e0a9305373fadfcc938d68fddd07ef2f9e80e85b5de00866224d",
+  "validation_errors": []
+}

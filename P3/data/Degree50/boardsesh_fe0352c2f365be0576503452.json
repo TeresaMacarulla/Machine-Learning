@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fe0352c2f365be0576503452.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Bumpi",
+  "setter": "SaschaNesch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "4a4bfb46021d406c8a1c2d452c46fb98",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1158r15p1161r12p1181r12p1229r13p1248r13p1279r13p1316r13p1364r14p1510r15p1520r15p1530r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 15,
+  "quality_average": 3.43,
+  "hold_fingerprint": "b92441301eb3731d64f7b32b283ddb350c0a075524050bf53e2574dadb54990f",
+  "validation_errors": []
+}

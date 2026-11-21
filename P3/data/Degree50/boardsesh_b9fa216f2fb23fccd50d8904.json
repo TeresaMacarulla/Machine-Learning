@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b9fa216f2fb23fccd50d8904.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "the project",
+  "setter": "basilou",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "e255c122-921c-4922-ab19-d304d922a1e6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r12p1152r12p1489r15p1172r13p1204r13p1241r13p1255r15p1287r13p1319r13p1352r13p1383r14p1447r15p1208r15p1234r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": null,
+  "hold_fingerprint": "52c779ba592381f94f08e4e2e3fedb166a6772faef34f915733845bf1e969260",
+  "validation_errors": []
+}

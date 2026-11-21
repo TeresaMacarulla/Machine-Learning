@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c21d5922c46af62452e94a24.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Variety boarding",
+  "setter": "Jonas_E",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "42c0cedf221e449f811b64a0f6351007",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1157r12p1162r15p1190r12p1210r15p1220r13p1253r13p1262r13p1264r13p1284r13p1331r13p1387r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.4,
+  "hold_fingerprint": "b8dbaf9ca5d780cb2f1622ceaa7ec508c774f0dbe949601d77edc546d8247ac6",
+  "validation_errors": []
+}

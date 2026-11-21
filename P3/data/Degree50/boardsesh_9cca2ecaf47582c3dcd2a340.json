@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9cca2ecaf47582c3dcd2a340.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Flotation device ",
+  "setter": "ronny.esc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "f7f389a1-d49a-4987-9a57-2cc70aacf92b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1249r13p1296r13p1353r13p1289r13p1308r13p1394r14p1177r12p1164r12p1092r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "0ba41a90fc7891ad6637022284063b57f0ff5c89327d4584e46a3d54f12129bb",
+  "validation_errors": []
+}

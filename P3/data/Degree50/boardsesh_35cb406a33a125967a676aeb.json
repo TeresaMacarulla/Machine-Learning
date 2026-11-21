@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_35cb406a33a125967a676aeb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "hate hold",
+  "setter": "leemiho",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "E224EA8F5D2143C69070191D8EBDFC77",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r15p1233r12p1235r12p1269r13p1301r13p1305r13p1355r13p1392r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 6,
+  "quality_average": 2.75,
+  "hold_fingerprint": "f60725531fbff6fc7a0d155b568d47eecfc67271af1547e52cb7182187c59695",
+  "validation_errors": []
+}

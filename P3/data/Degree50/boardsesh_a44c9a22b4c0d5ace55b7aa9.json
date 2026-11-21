@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a44c9a22b4c0d5ace55b7aa9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "undercorn",
+  "setter": "coverdalien",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "a9446e33-e90e-4a10-8536-7c9481c407dd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1231r12p1166r15p1182r12p1201r15p1268r13p1287r13p1305r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": null,
+  "hold_fingerprint": "146aa8dd1487ec0edea2d1668a8e6dcc8a086a93ff44fe5986143c2f6baf818e",
+  "validation_errors": []
+}

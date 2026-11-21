@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8fb2f08a5904dac5e00e597d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "system pinch training",
+  "setter": "ryanyeo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "f9728a2b94cf4eda9dff531196527d41",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1148r12p1150r15p1186r12p1216r13p1254r13p1285r13p1314r13p1332r13p1345r13p1379r14p1564r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.97,
+  "ascensionist_count": 208,
+  "quality_average": 3.33,
+  "hold_fingerprint": "10fd0b514ca852fc16bd41479711231c99ee3fd8def748ff65b6893774b71a05",
+  "validation_errors": []
+}

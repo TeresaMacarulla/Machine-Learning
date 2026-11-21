@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_512dec9bdc254e9acc85e4ba.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "funny boy",
+  "setter": "Iloveclimbing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "94e2d2208c904e0282ee88518a1dbeaa",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1151r15p1218r13p1221r12p1239r12p1269r13p1288r13p1339r13p1390r14p1490r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "fe427343d084a578f82dd1a2897dd914db2d07f796b0121731356e2f2ca51f43",
+  "validation_errors": []
+}

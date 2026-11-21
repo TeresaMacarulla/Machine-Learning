@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_521ddd1968ce58bf525b0ea7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Shoulders1",
+  "setter": "Drissuss",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "314b0fa954734e6ca53c11557e4694ce",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r15p1144r12p1148r12p1248r13p1279r13p1347r13p1362r14p1458r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.33,
+  "ascensionist_count": 4,
+  "quality_average": 3.67,
+  "hold_fingerprint": "1d55d826ab63aa261aff25f015a59fc522287ef4d551785a18d4a5f7b52d837d",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_23f6c1e2e8af67713b2e71bb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "kaleb cross trainer",
+  "setter": "kalebThomas",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "861A161C5C894E40BBAA65C5AED1FFAD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1138r12p1168r12p1180r13p1218r13p1286r13p1304r13p1334r13p1351r13p1381r14p1481r15p1503r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3f6de4c7b77e2456ae6d3744643c42503ca2b60b8dd1a0b15cdc780401d3557c",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1fb1bc950d2786797291da56.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Fast Twitch Training",
+  "setter": "coleman428",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "f841244a-3f8d-4128-a0a9-f73f9f33c823",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1171r12p1174r12p1257r13p1359r14p1288r13p1447r15p1451r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.25,
+  "ascensionist_count": 16,
+  "quality_average": 3.63,
+  "hold_fingerprint": "64dc3cbc76368084785de18d7efdc2f942ef9594b8f652047f5615ef1b533a29",
+  "validation_errors": []
+}

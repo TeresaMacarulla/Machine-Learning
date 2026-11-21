@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cabc44851ac34cab0154b217.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Khaby Lame",
+  "setter": "steil_boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9E551A816A794CF9B6D76910EDAABD4D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1209r12p1210r12p1216r13p1254r13p1265r13p1285r13p1357r13p1387r14p1494r15p1506r15p1507r15p1532r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "7d76e93c77571d35dc59d8f7f289d56fc1b1e5add42104375a5b7687bb806748",
+  "validation_errors": []
+}

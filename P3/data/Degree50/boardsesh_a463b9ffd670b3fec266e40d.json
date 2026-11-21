@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a463b9ffd670b3fec266e40d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "HYPERBOLIC 1",
+  "setter": "_max_climbs_",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "719aadbd-3cb8-4f6a-b8fd-72937a5327e7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1361r13p1157r15p1276r12p1186r12p1395r13p1385r13p1347r13p1245r14p1161r15p1390r13p1192r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "384343de87620b9ac4ce21bbacd8eed80d5b97592e94f55a66418a146bfad675",
+  "validation_errors": []
+}

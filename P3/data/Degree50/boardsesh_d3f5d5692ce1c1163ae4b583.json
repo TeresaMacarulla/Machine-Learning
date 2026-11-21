@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d3f5d5692ce1c1163ae4b583.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "eviscerate",
+  "setter": "VoidAllyn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "9412b2340f68407485a5a711e29ead18",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1103r15p1167r12p1187r12p1231r13p1237r13p1267r13p1286r13p1315r13p1384r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 6,
+  "quality_average": 2.25,
+  "hold_fingerprint": "de955c5026fe1ee0c41c9c35b5698b44362b1045c348a018bcdb8f8a3a0a6baa",
+  "validation_errors": []
+}

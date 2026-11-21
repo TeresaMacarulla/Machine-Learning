@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dc54dae42ab3986fb8d33b1c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "enduro 3",
+  "setter": "olmio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "72f6f212602a4901bf4481c8f028711d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1143r12p1175r12p1197r13p1230r13p1250r13p1301r13p1333r13p1386r14p1461r15p1485r15p1503r15p1506r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "9937980a91ca784a4cb364aac33568559867919e01a651b305908d3b6b24d756",
+  "validation_errors": []
+}

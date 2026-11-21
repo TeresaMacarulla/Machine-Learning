@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9784e2e3cbcb97cbd754621b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "CRUSHtable",
+  "setter": "eboone08",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6BC7F80A1B3546749E867829E5E10AF9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1163r12p1184r15p1195r13p1204r15p1214r13p1247r13p1255r15p1268r13p1281r15p1319r13p1353r13p1390r14p1391r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "7171a125edb5c5c4b48fb424c6e490583f0b0d2dce28307946c851fa9e70ba42",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f525a6dbe5fa3eab481fb82e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Off The Wagon Remake Easy",
+  "setter": "Milankuurie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1d77405e1d0143baa01728773090f068",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1194r12p1230r13p1247r13p1302r13p1306r13p1308r13p1359r14p1378r14p1466r15p1483r15p1494r12",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6e95b9eb1a2cc810943f97c02c2759a0307a4855b78b957f0d61f716da8676eb",
+  "validation_errors": []
+}

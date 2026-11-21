@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b607157154b6cbec4e3318e9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Room for terror",
+  "setter": "steil_boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "0AC2DD193D994ADF8CB6C9BFF2923731",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1160r12p1176r12p1216r13p1217r13p1254r13p1290r13p1298r13p1325r13p1394r14p1460r15p1486r15p1488r15p1494r15p1498r15p1515r15p1526r15p1536r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.92,
+  "ascensionist_count": 13,
+  "quality_average": 3.62,
+  "hold_fingerprint": "8d71af0fa3ccfd469fd1959f275aba7d32867f16b34e6b410f0b0a5dba9b75b8",
+  "validation_errors": []
+}

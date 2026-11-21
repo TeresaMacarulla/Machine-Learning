@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6110879d076ff533426ba496.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "REEACH!!",
+  "setter": "v_chan4",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "EF59658B0C0E4F1CAFA29E9826DAF89A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1148r12p1163r12p1194r13p1246r13p1304r13p1315r13p1371r13p1391r14p1483r15p1543r15p1551r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "aaf8ebde40bb9acc09f828ab1c0b9f49caca15f6204582521b54ab532c324de0",
+  "validation_errors": []
+}

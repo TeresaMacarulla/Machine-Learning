@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4d89ac6d659c740acea3210b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "juniper ish",
+  "setter": "lillben",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "f902ab34aedd4629aeb24a11c7a727fd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1117r15p1149r12p1165r15p1254r13p1285r13p1357r13p1390r14p1524r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "6f416bad81cf16491800a6e64cc0593f4c020d11b3001d462f3e3b446162652b",
+  "validation_errors": []
+}

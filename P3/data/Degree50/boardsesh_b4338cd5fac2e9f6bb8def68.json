@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b4338cd5fac2e9f6bb8def68.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Access",
+  "setter": "yudai_slaber",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "139CE72B527E4F0EBEBD5389F1BE1774",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r12p1130r12p1179r13p1249r13p1283r13p1353r13p1383r14p1464r15p1495r15p1529r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.8,
+  "ascensionist_count": 11,
+  "quality_average": 2.3,
+  "hold_fingerprint": "4472509d285bff2aaaf1a8bd2be5f4fe4843e9bff018c64f9821ba245f8a7c78",
+  "validation_errors": []
+}

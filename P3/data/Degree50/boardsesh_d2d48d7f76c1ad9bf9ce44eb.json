@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d2d48d7f76c1ad9bf9ce44eb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "45 @ 60",
+  "setter": "ethan.mathewson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "f90a4ec2af864bcb9981bd65eb19340a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1126r12p1148r12p1197r13p1228r13p1266r13p1282r13p1287r13p1337r13p1392r14p1460r15p1476r15p1484r15p1525r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.11,
+  "hold_fingerprint": "fa00f1dce5a63e2fc19b474dc4bb5899ace1d24069048493824f6bd1c19ac074",
+  "validation_errors": []
+}

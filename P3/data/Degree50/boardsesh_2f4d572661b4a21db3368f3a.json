@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2f4d572661b4a21db3368f3a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Indoor Moody Snow",
+  "setter": "arki_ian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1eb020c6-004d-413f-8b8c-8c8c76496f43",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1188r12p1205r12p1257r13p1259r15p1103r15p1544r13p1286r13p1525r15p1306r13p1336r13p1390r14p1509r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 9,
+  "quality_average": 2.0,
+  "hold_fingerprint": "466205bbebca65d7ada7ea0c6512caba7e9dcf08ca11b62dca622d3d3a248002",
+  "validation_errors": []
+}

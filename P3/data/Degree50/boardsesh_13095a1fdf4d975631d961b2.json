@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_13095a1fdf4d975631d961b2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Eat Steak",
+  "setter": "AlexKilterBoard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "88B19FFF43BA41FCB04A5E82C6FE3B2E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1163r12p1229r12p1300r13p1302r13p1304r13p1373r13p1393r14p1525r15p1552r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "84ea3cf0cac1bb9dff5a415999ca741720893b1344754a993dc26c1b53031ba3",
+  "validation_errors": []
+}

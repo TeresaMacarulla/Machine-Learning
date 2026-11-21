@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_332ca450c09980a08e31b85d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "The swobbler wobbler",
+  "setter": "RaySvart",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3BAA0E27B35449539D052A0C79532DE6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1163r13p1215r13p1268r13p1302r15p1336r13p1357r13p1392r14p1394r14p1464r15p1476r12p1514r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "c188779d24d3a3c9ed25a5d11abb3314c3c7bf37349ac2b45111544c6d88d138",
+  "validation_errors": []
+}

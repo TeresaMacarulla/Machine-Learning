@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ccf2a607456ec633e098bff8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Ground Control to Major Nick",
+  "setter": "greenmile",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8013493A09364BEAA4CAE4391314E5EC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1134r12p1149r13p1217r13p1231r13p1301r13p1333r13p1345r13p1380r14p1456r15p1506r15p1532r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ed2218d3c1997de34ad0a0c8832e90e9fa3db16183613d84cfe9a82e9af61715",
+  "validation_errors": []
+}

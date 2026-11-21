@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_43d737fcd845118097977950.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Shoulder dysplasia",
+  "setter": "JeroenDonders",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2277DF5DC29845D688087A1325744B7F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1158r12p1230r13p1261r13p1301r13p1351r13p1388r14p1474r15p1503r12p1520r13p1548r13p1551r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "1ee7c52bca52118be527cb112bd12386b674e3fd821744778e7db44aa72c641c",
+  "validation_errors": []
+}

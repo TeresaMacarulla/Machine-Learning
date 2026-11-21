@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_77816665545482025a6a1e27.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "andrew-0",
+  "setter": "GW_Kilter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "77628142CECA4856B41182F3625B54CC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1089r15p1163r13p1192r12p1198r13p1236r13p1289r13p1308r13p1340r13p1389r14p1497r15p1508r15p1536r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.29,
+  "hold_fingerprint": "d10d8a58e1cf4939690b13b94aa1ca02582d4a0cff328b28bfbba5c27b8116a4",
+  "validation_errors": []
+}

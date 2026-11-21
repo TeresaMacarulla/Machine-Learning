@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ef32f4583a2892047bd272f9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Pinching Elbows",
+  "setter": "stubbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "b54ebfd9e3a84d1aa7eaabb309079cf4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1147r12p1230r13p1265r13p1299r13p1338r14p1354r14p1486r15p1496r15p1513r12p1570r15p1589r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.94,
+  "ascensionist_count": 55,
+  "quality_average": 3.5,
+  "hold_fingerprint": "ccc54a3dbb2e6c02f58f818b6db8785dff5c00afb1e10e4cd6b9b5071ff652d8",
+  "validation_errors": []
+}

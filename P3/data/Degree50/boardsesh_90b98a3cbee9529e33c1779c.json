@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_90b98a3cbee9529e33c1779c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "better have long arms",
+  "setter": "annema.daoust",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F7D0CD7FADA44DA7B4ABC2967FC0E4CD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1126r12p1165r13p1199r13p1237r13p1306r13p1339r13p1393r14p1461r15p1464r15p1488r15p1525r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c074b0b87d7983d980a992af3a49ebbd148d9d00d110e40a9fea8f41fb7c99bb",
+  "validation_errors": []
+}

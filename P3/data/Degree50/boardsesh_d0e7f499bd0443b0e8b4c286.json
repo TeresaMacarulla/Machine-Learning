@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d0e7f499bd0443b0e8b4c286.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Rock climb this?",
+  "setter": "brookeullery",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "03071916030542A0B88134025AE9E66A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1092r15p1128r12p1202r13p1213r13p1240r13p1253r13p1308r13p1376r13p1391r14p1461r15p1470r15p1517r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6f929659f564e79706f91d8de1f23788273dbfdf3805651bb70e46dd23e84dc6",
+  "validation_errors": []
+}

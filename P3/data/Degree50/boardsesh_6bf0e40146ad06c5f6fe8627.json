@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6bf0e40146ad06c5f6fe8627.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Pressure washer ",
+  "setter": "timpahor",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "a68a360e-db6f-42f7-a7e6-5d2d7f56728f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1268r13p1289r13p1308r13p1357r13p1358r13p1387r14p1162r12p1520r12p1248r13p1552r15p1091r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "67f87f76cc236e3ac7d3b56b0aefbc2ae6038151cb55b48713a88670f4c8d142",
+  "validation_errors": []
+}

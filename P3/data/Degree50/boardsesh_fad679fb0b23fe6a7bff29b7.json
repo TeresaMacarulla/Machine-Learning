@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fad679fb0b23fe6a7bff29b7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Gaston move",
+  "setter": "huer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "91C47D84AE7844989DD3E861845E8F82",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1127r12p1141r15p1160r15p1175r12p1215r13p1219r15p1249r13p1283r13p1287r13p1315r13p1347r13p1379r14p1463r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b016ffe42a3b46c2a1fbcfcbad6e8ccfd23321ea8b4f35b733482038af3d6cdf",
+  "validation_errors": []
+}

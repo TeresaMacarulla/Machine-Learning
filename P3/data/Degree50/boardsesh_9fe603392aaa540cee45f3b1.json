@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9fe603392aaa540cee45f3b1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "na/k channel",
+  "setter": "jcbarr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "604ED4583CB84128A78D73FD90A8F8D2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r15p1149r12p1200r13p1245r13p1247r13p1312r13p1314r13p1351r13p1387r14p1454r15p1456r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "7a7e7560a15bf0b0d1d159208c2ee08cf2376c93ba9f18d2959cd19461f53c6f",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b19b6cd86e7dab2fc6bcaad3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Compax",
+  "setter": "tortesla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 9,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3C68DAC467234EF8880D201A683030EC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1128r12p1133r15p1197r13p1201r13p1214r13p1235r13p1270r13p1286r13p1305r13p1371r13p1384r14p1388r13",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.86,
+  "ascensionist_count": 7,
+  "quality_average": 3.29,
+  "hold_fingerprint": "68f39a80eab1dbfc9d3c6fdd9f30473e3873260f29c47a48883220f3bfbba440",
+  "validation_errors": []
+}

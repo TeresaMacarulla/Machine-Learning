@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4263d567fa85f7ea6a945b6b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "brush thy pinch",
+  "setter": "taniacrl3",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8E35ABBBF2A141D8BC067544AF7C4AB6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1139r12p1201r13p1222r13p1252r13p1283r13p1337r13p1385r14p1447r15p1453r15p1489r15p1521r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "c2bde43ba82fb144e69a68fa2c04ab520335b560f669c8af743fa6c613f2faae",
+  "validation_errors": []
+}

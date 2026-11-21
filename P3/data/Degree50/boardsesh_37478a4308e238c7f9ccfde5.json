@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_37478a4308e238c7f9ccfde5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "crustaceanship",
+  "setter": "sonny",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "84F3652553F14C20A25F551F60871E0E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r15p1207r12p1223r12p1270r13p1317r13p1321r13p1347r13p1351r13p1379r14p1496r15p1514r15p1523r15p1539r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e6a0d31ac6ec8a510bb07dbac80686a45045760ca22574bfeff3a57f12f111c9",
+  "validation_errors": []
+}

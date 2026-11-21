@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5a6008ba8d21d91d52fe1139.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "RusRos Yuki",
+  "setter": "thefactoryboulder1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "816F1EAF5255498BAA13410919D00DB6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1161r12p1163r12p1213r13p1219r15p1234r13p1284r13p1321r13p1353r13p1390r14p1459r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "ec2a25c2d1161a4769e11aaa1a8ad68f5920f856cbb4225e82cef73d9e811537",
+  "validation_errors": []
+}

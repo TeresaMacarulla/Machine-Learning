@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1cf2ccc2fe4fed0cce884d88.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Salzstangen",
+  "setter": "jan.ktp",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B95F6B3A740D4AEE95E2B8CD8F012A1C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1201r12p1232r13p1249r13p1281r13p1335r13p1387r14p1504r12p1506r15p1531r15p1551r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "c0af3ada2d6739bb97f434e0263cfaad3aa359c981dd8c5fd4c0ac415fbcdae5",
+  "validation_errors": []
+}

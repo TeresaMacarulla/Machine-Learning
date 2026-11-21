@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7e83c927df4da54d98209666.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Barista Pump",
+  "setter": "Kilian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "DCE5108C99F44DCB9E48C35A2B158761",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1085r15p1127r12p1133r15p1163r12p1214r13p1217r13p1283r13p1304r13p1372r13p1391r14p1534r15p1578r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.3,
+  "hold_fingerprint": "3c0ef2c9a2626f61cf8b7c29046c700b0f50d5ad94578e132aaec67e9eab751c",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b057760b36fac5816e2aa6a2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "where are your socks",
+  "setter": "n2theoosh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "38c3da6ae4dd4dbcb8c4715c114bc010",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1131r15p1149r12p1201r13p1221r13p1268r13p1269r13p1300r13p1353r14p1454r15p1457r15p1489r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8edd909b764ebb675dd77d61ac61e5a0c53daefc450086b6c635ac67d798dbf7",
+  "validation_errors": []
+}

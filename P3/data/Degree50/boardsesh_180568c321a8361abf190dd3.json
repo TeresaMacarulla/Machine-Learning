@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_180568c321a8361abf190dd3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Biomass Burner",
+  "setter": "mitchcrossy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "fc7d7012228c4c74b6dbdba688c988d6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r13p1169r12p1170r12p1264r13p1266r13p1270r13p1295r13p1380r14p1502r13p1504r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "0990300bf59dfe94d5e914a976cf2a136c263b3d718d645031f56b782d067458",
+  "validation_errors": []
+}

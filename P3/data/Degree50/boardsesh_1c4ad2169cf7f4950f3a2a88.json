@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1c4ad2169cf7f4950f3a2a88.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Fast Motion",
+  "setter": "Carsonclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "c27702a1c1a34fdeb630e40af3545be6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1203r12p1271r13p1285r13p1320r13p1352r13p1383r14p1385r13p1525r12p1548r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b8a8fe1d0df067335100a92cefa941bda6f1e939869a02482eb183b70c17f536",
+  "validation_errors": []
+}

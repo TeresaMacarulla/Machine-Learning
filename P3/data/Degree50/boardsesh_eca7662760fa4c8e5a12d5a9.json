@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eca7662760fa4c8e5a12d5a9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Rumms die Geige",
+  "setter": "jost",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8F7525B1928C4C11BBC422AA41FBF059",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1170r12p1190r12p1258r13p1276r13p1342r13p1375r13p1388r14p1447r15p1453r15p1536r15p1543r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.22,
+  "hold_fingerprint": "fcd37bf18aaa4e837ec1726a52a1f9b5b5820f6a2234538dd03af1e39f343123",
+  "validation_errors": []
+}

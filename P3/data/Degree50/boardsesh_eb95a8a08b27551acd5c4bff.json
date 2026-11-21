@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eb95a8a08b27551acd5c4bff.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Cave Syndrom",
+  "setter": "steil_boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "98CE2146BF4A41348FFAB454416AC38A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1173r12p1237r13p1283r13p1314r13p1345r13p1352r13p1379r14p1447r15p1451r15p1487r15p1531r15p1537r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "939a6676432d54b6bb42e7e73174a1f93577beee8429db463a55d71b02a33be1",
+  "validation_errors": []
+}

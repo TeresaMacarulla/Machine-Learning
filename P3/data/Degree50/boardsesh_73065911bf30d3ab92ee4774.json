@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_73065911bf30d3ab92ee4774.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "PAC MAN",
+  "setter": "tesshi7",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "8F198696C5D0410F86E736A005EA152D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1149r12p1169r15p1200r13p1217r13p1231r13p1284r13p1321r13p1353r13p1369r13p1383r14p1469r15p1487r15p1551r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2adf0a96f00ca4b0be244fabbd86945901077f3a9bd05ce8d25d3dbe544bed8e",
+  "validation_errors": []
+}

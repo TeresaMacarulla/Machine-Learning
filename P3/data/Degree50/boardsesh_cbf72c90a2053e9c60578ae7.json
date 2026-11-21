@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cbf72c90a2053e9c60578ae7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Foxtrot",
+  "setter": "cmarples",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "457A1DD695B244CDA47D0AD703035DEE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1093r15p1131r12p1144r12p1204r15p1219r15p1231r13p1281r13p1303r13p1320r13p1324r13p1391r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4307797ff4ce3c5a035a9bd3f06aef288a36e86978691f957370ee188ca4b772",
+  "validation_errors": []
+}

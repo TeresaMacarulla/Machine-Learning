@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1ff844da14739365a64fb12b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Big Boi Bumpin",
+  "setter": "j_star",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0559EE3D09BC4ABE849D69BE4C269199",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1133r15p1149r12p1186r13p1254r13p1283r13p1304r13p1390r14p1454r15p1524r15p1542r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.03,
+  "ascensionist_count": 31,
+  "quality_average": 3.26,
+  "hold_fingerprint": "342e60f1eb3fca17669fb0a0cbc67c61c7ee4f071685f2d55a702e62ec3b02fc",
+  "validation_errors": []
+}

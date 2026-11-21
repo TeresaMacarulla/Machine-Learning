@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e39d9ba97e888226d366c4f4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Gieriger Kobold",
+  "setter": "ChiaraErler",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "A25891435CB44479A2DD789363D25DD4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r15p1190r12p1205r12p1208r15p1240r13p1269r15p1274r13p1292r13p1340r13p1371r13p1374r13p1387r14p1499r15p1515r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.57,
+  "hold_fingerprint": "2f5d90fad9ce4fdc1f523a5599bca1c5a14855778ddf003855216f37b95237c7",
+  "validation_errors": []
+}

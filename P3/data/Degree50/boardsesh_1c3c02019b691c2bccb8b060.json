@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1c3c02019b691c2bccb8b060.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Hold up",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "B9AFBD4732D14CC5B6AD105E214DA91C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1222r13p1264r13p1269r13p1271r13p1347r13p1379r14p1452r15p1491r15p1505r15p1511r15p1513r15p1558r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.08,
+  "ascensionist_count": 12,
+  "quality_average": 3.17,
+  "hold_fingerprint": "b3094e8829247731531aa8182a607861f4aaa68c6d5a893c62c59c3d09c3620e",
+  "validation_errors": []
+}

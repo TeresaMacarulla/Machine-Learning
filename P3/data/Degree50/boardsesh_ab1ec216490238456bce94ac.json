@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ab1ec216490238456bce94ac.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Big Summer Blowout",
+  "setter": "kakeru_nx",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "600DAD59B17F40B4B63019F17DF0EF46",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1161r12p1178r12p1233r13p1264r13p1283r13p1332r13p1368r13p1370r13p1372r13p1392r14p1561r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.33,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "b89da80505ecc5d59b59fc4895b192545c412d5ed99db4d26031280d94947f6c",
+  "validation_errors": []
+}

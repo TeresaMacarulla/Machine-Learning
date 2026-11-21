@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_270a58d3ff8917297095e433.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "easy gymrat",
+  "setter": "BraveSirRobin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "8c5327b4842e4840ba0098408bcfb038",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1079r15p1136r12p1154r15p1188r13p1218r13p1250r13p1263r13p1349r13p1381r14p1496r15p1503r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b4931e4a1b9444ee3b2509f76ad66b8dce58d4bbcf0aecedb047e49c0572763b",
+  "validation_errors": []
+}

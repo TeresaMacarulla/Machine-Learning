@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b28686a0242e88d5fa7308f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Interpretations",
+  "setter": "ratclaw",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2633e828b1af445ca34718832155a9b7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r15p1186r15p1202r12p1203r15p1248r12p1260r15p1265r13p1296r13p1314r13p1332r13p1368r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "274e417643158a2d63cf19486f72d482b119ac00f9ad4fde64766ed2f27f9529",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1c76be1145e5d3096c8148ea.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Onyx Milan v3,5",
+  "setter": "Malino0805",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "c0b374e313e94a86af8e2bc9e325102e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1180r12p1195r12p1215r13p1247r13p1301r13p1353r13p1385r14p1389r14p1465r15p1467r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "21db35dcbab6149d467bee42764d9ac51dea3396a2ce5c18d62e060d0681d1bf",
+  "validation_errors": []
+}

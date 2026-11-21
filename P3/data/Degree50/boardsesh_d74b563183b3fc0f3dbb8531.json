@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d74b563183b3fc0f3dbb8531.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Lack of Faith mirrored",
+  "setter": "LouisBlank",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "e6e3bb35e5964f09ad904fc1a29bf731",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1152r12p1169r12p1214r15p1229r15p1237r13p1267r13p1300r13p1301r13p1315r13p1370r13p1385r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.93,
+  "ascensionist_count": 43,
+  "quality_average": 3.49,
+  "hold_fingerprint": "eca37f24e64114b83d49259c63fa3871a04663b8eec468c6b524faa22c4ba2ea",
+  "validation_errors": []
+}

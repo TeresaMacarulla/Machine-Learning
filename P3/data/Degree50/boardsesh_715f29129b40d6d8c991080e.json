@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_715f29129b40d6d8c991080e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "side burner",
+  "setter": "rbailey",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "c6d95cea-6d13-4650-bc73-cbf807e9873f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1143r12p1228r13p1266r13p1520r15p1299r13p1334r13p1547r15p1382r14p1462r15p1483r15p1179r13",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "6d12d0916e8947c4610ec9ccc7f34d2eece812676e19b4c14d82bf50f450a3d2",
+  "validation_errors": []
+}

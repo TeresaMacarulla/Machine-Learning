@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_89cf650fbad82cc3dff61288.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "underman",
+  "setter": "ryu_tnk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "8690F461708448D19B3C84472833DE96",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1149r12p1200r13p1217r13p1237r15p1268r13p1269r13p1319r13p1336r13p1388r14p1454r15p1457r15p1479r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bde0b8c1c0ad1cfdd25e0a55020c292bf7cd55ee4cf701d76ee98107d6b3d2ac",
+  "validation_errors": []
+}

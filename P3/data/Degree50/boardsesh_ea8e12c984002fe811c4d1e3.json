@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ea8e12c984002fe811c4d1e3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "On Chande",
+  "setter": "alexmh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "531BCF4F78514023B76ED82361D0ADBE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1101r15p1130r12p1201r13p1222r13p1252r13p1281r13p1312r13p1314r13p1382r14p1495r15p1532r15p1540r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c0907a9f5c668fbf9edf131ae8cffc24ff19f3a131a6fc079dd586f86e5b1c4d",
+  "validation_errors": []
+}

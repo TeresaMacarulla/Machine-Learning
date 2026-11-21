@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a5c053ccc371301b60059276.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "agchauffage05",
+  "setter": "adrienalbassier",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "801860AA48A748FF8BE0E2542B2E0EC0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1149r12p1184r12p1234r13p1263r13p1268r13p1316r13p1336r13p1387r14p1456r15p1521r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "f13ac871710789f07fc3aace592b9c3f4f67a92504cab272080f169924269a8a",
+  "validation_errors": []
+}

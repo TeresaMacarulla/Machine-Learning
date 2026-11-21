@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_10d8f6bb421b3333a55f63ce.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Power fr fr",
+  "setter": "FlorianHaus",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "af6df671ffcd4bcdb6392d154d36c668",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1152r12p1190r12p1255r13p1339r13p1392r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "cd7db7c6118419ff752cb7716b71d9e53a582ec45374406b243643365aaf2c95",
+  "validation_errors": []
+}

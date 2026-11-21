@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_28dd16041b8ea28a9913abca.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "something easier",
+  "setter": "rominous",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "47E3FA2744E04874AA7038817A551E8F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1113r15p1145r12p1228r13p1249r13p1282r13p1336r13p1368r13p1389r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6dc177d8c75305892633f542ec89933d291396be616c0b5c3d536743a25d21c4",
+  "validation_errors": []
+}

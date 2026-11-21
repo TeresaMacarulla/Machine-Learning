@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f6952ef87e7c2c39b990bd7e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "human life",
+  "setter": "akeex",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "b5b6f1b144b64000b31b054b8af5b42c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1112r14p1114r14p1145r15p1166r13p1198r13p1230r12p1233r13p1250r12p1458r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f907f0275b6f2848eeb7e201bb5009ba1bb466b307ed68cc4c12faf077d396f9",
+  "validation_errors": []
+}

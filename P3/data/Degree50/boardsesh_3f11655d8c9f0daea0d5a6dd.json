@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3f11655d8c9f0daea0d5a6dd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "alpinist",
+  "setter": "Daan_vo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "08ebddc640bd4b50b9dd1e071d4c4abc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1136r15p1156r15p1168r12p1170r15p1182r13p1252r13p1288r13p1326r13p1392r14p1452r15p1455r15p1535r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "bf9e4fef44400f209645e6793240d29f3003648ea19f8bf01bdb60a3fe8e42cc",
+  "validation_errors": []
+}

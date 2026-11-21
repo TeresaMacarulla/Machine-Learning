@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_08d2f56760b991cb41acc17f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "flowt",
+  "setter": "tlandman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "D255DFC4A6D04C5F9FC1E55430D2ECDF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1143r12p1176r12p1246r13p1298r13p1382r14p1531r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "bd2bb28fa7db1cb35c816e556a5c9f7ace44cc03434d4cae0272c6482edc664e",
+  "validation_errors": []
+}

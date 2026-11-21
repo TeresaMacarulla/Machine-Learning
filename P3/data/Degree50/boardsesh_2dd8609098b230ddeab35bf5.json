@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2dd8609098b230ddeab35bf5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "360 god",
+  "setter": "Loannmyr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "9815D3F489A94D1B8F37A53239E659DE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1262r12p1297r12p1300r13p1302r13p1305r13p1356r13p1391r14p1392r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "f334e7b5513e3df00d3540f95b3c67540e6e9e94cb474f4bc7bcab17ae4ebd90",
+  "validation_errors": []
+}

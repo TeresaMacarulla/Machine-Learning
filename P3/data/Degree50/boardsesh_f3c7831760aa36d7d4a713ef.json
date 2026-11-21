@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f3c7831760aa36d7d4a713ef.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Proseccolaune",
+  "setter": "johnnxyz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "651911d6282d4f488bd72200f807fabb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1201r13p1248r13p1287r13p1321r13p1392r14p1454r15p1459r15p1485r15p1506r15p1553r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "20a755482a0649a740199d192011ffe18af005bd1338979b71cfafa94bf2098f",
+  "validation_errors": []
+}

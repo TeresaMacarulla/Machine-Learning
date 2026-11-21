@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_72b8e3861a7128ba840adc2c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "bite the dust - eliminate",
+  "setter": "unklar",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "2E79D0AC455B429B8277C05B3B7615AE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1144r15p1154r12p1161r15p1169r12p1215r13p1220r13p1282r13p1315r13p1384r14p1451r15p1454r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ffdaff542652ee29dd9d40558d517e682f16e3977c41ff21e3337b1db7b7566a",
+  "validation_errors": []
+}

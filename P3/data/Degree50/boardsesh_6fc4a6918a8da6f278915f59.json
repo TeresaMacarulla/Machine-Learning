@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6fc4a6918a8da6f278915f59.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "carotid artery",
+  "setter": "wham_powers",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "e3d3e751-b085-4763-87c3-bc29e717d788",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1232r12p1197r15p1270r12p1288r13p1309r13p1516r15p1361r13p1395r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 5.0,
+  "hold_fingerprint": "ea73a300775e72b723e4c475880a55ba97b45858f40b6564f9c8cc464ecae0ae",
+  "validation_errors": []
+}

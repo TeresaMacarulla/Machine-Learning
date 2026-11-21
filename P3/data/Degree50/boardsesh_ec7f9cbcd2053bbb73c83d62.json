@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ec7f9cbcd2053bbb73c83d62.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Singularity control",
+  "setter": "Trumkin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "cec5069d71094762b66df7a6218f2db1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1125r12p1214r13p1230r13p1274r15p1287r13p1354r13p1392r14p1464r15p1484r15p1485r12p1506r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c555184d668637256dba5a99f5ae775f18ee4b8f736eb348d0e4cfe3d69e7700",
+  "validation_errors": []
+}

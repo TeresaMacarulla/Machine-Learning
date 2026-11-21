@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c41ad56197d58ee4dff96fda.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "bad start tbf",
+  "setter": "Matthaeus",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "13385a10-89b3-44c9-8921-20f76b266ce5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1215r13p1234r13p1165r12p1284r13p1288r13p1321r13p1535r15p1342r13p1392r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "2cd9495ef7fa22d71d3f2e2c8029541dc16cebef6fa7af9b9fda94732b77545d",
+  "validation_errors": []
+}

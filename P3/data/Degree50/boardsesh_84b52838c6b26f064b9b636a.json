@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_84b52838c6b26f064b9b636a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "stiff V1",
+  "setter": "dylanchase22",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "A72F0E406EB244C98EE60303F5D19E8C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1075r15p1154r12p1187r12p1241r13p1272r13p1289r13p1355r13p1384r14p1480r15p1491r15p1515r15p1532r15p1535r15p1575r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "790d7b55df0e84c16fc09003596d4ee360e28ec568e885ab33f39931fddc585a",
+  "validation_errors": []
+}

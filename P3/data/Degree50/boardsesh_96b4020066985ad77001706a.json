@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_96b4020066985ad77001706a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Paradoxical",
+  "setter": "paulnagy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "273C22ED0C5644A4B1C7485BBA41841E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1141r15p1179r12p1204r15p1230r13p1267r13p1269r13p1307r13p1339r13p1392r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.97,
+  "ascensionist_count": 42,
+  "quality_average": 3.4199999999999995,
+  "hold_fingerprint": "a31a5c37a3c648384c637f8183258f68a269f7c5b312a1ac88ef7b006f90c72b",
+  "validation_errors": []
+}

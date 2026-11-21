@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0def41e872ebde388533f2f8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Not walking the walk",
+  "setter": "hcorwin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "6F3002D0210248F98BBC1C234A97F1E0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1132r12p1197r13p1201r15p1216r13p1247r13p1318r13p1353r13p1391r14p1455r15p1459r15p1469r15p1493r15p1511r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "efb17b93615352828be06435cfeec7fbf0e60bca7cec7c391522e9366f762046",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d58b247dc53ed332e142bfbd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "third wheeler",
+  "setter": "biscuit",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "A33D9CE22056493B80A9763228DEDC70",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r15p1178r12p1197r12p1263r13p1282r13p1330r13p1348r13p1383r14p1530r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "94199ea31ce32c91df2f5789c2e7186e17fb243fd76a04b8e2fd0a1b0f691434",
+  "validation_errors": []
+}

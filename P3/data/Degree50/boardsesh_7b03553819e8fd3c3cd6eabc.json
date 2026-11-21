@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b03553819e8fd3c3cd6eabc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Fast",
+  "setter": "tortesla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "B66C19A10263423D8BD583D836C1E48D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1182r12p1283r13p1287r13p1388r14p1457r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "9371b12d6a3da3e37396948dc26cfa19fae1f1a4f1b69771d8bd0147eb4fd285",
+  "validation_errors": []
+}

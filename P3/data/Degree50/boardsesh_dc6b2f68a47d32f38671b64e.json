@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dc6b2f68a47d32f38671b64e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Dog in a Bin!",
+  "setter": "jwilder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FC505F22F0744B9EBCA67021D1CF655C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1208r12p1276r13p1292r13p1309r13p1340r13p1375r13p1391r14p1482r15p1500r15p1545r15p1560r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "b93ec9f23bc2b2cd3d1856e6d07ebd21610d7d24c217891fb14e59df89362c93",
+  "validation_errors": []
+}

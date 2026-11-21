@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f47ae6ff80407f5e37427c9a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "AAVF #3",
+  "setter": "Timmes",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "B796ED0ADF2846489775A28446789952",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1126r12p1146r12p1216r13p1228r13p1266r13p1274r15p1287r13p1304r13p1368r13p1372r13p1384r14p1461r15p1477r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ad5616c1e71a07235918b84711adee3c464a4e6661cad75d75e737d6e6e1142f",
+  "validation_errors": []
+}

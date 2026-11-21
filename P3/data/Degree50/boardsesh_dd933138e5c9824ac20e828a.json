@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dd933138e5c9824ac20e828a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Chirality",
+  "setter": "triistanmay",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "AB4809EA48154CDD9F867A5A2A2D2172",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r12p1163r12p1189r15p1215r13p1236r13p1284r13p1353r13p1382r14p1384r14p1460r15p1516r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "38f8f989ff72515a55406e2809e9337d9d2929a37882b0d1b15b3bc02ae72b6b",
+  "validation_errors": []
+}

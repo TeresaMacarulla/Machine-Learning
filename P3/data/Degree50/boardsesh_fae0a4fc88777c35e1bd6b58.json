@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fae0a4fc88777c35e1bd6b58.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "gas leak",
+  "setter": "crunch2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "f9cef62c28a4468dae1328a1b60b307c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1110r15p1193r12p1198r13p1201r13p1210r12p1215r13p1252r13p1272r13p1339r13p1359r14p1486r15p1489r15p1507r15p1536r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.8899999999999997,
+  "hold_fingerprint": "322df15b7627ca62ad5dbb9065dfb1cb956fa245638040b325d009a1aecd2a0f",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e52c9497f3ec7fe2a4d7e0d4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Der Krieger",
+  "setter": "christoph.braeuer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "3B0DBEFE9A614D9C9DD7294DC4921000",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1222r12p1271r13p1285r13p1325r13p1394r14p1518r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "87febb2ec31255493c24847d26d19a8c166cf8437339696508bf8ae17d6d5682",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8acf9ddcaa65eb5075ada6ba.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Han 4",
+  "setter": "deteu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5B7F6CEDCB754B3DBB506DC3207E56DA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1168r12p1183r12p1321r13p1392r14p1480r15p1532r15p1543r13p1559r13p1596r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "3a2d7206b4e6e1a890622d81ca5504d7981962a5310d7bcc6e6407255ff37f4d",
+  "validation_errors": []
+}

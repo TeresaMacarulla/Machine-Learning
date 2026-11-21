@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_50aac810c9ee714964feb87c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "paneldebatt",
+  "setter": "juuuve",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "18B738EF208D451FB64E31673525A48A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1143r12p1197r13p1215r13p1234r13p1302r13p1323r13p1340r13p1394r14p1458r15p1464r15p1496r15p1548r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "0df50d32c70ded50987e3326ff709d206b089ba58e24fdeff3b5ecb0361283c7",
+  "validation_errors": []
+}

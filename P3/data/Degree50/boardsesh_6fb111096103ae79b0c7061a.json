@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6fb111096103ae79b0c7061a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Sho Stopper",
+  "setter": "shiguchi1215",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2486F34B92B54B5EA4581C1234360881",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r15p1151r12p1180r13p1190r15p1238r13p1249r13p1250r13p1305r13p1327r13p1394r14p1455r15p1542r13",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "105553cd1ba7aa0ad2824968ace5a265b3ed06b7695ae3b3e5e1c7c2574fab87",
+  "validation_errors": []
+}

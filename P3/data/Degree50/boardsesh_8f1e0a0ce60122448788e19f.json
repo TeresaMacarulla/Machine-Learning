@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8f1e0a0ce60122448788e19f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Bombastic Line",
+  "setter": "Groupert",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "bdf1b9e35dfd4004b2bb43d65dbdd1fa",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r12p1153r13p1199r13p1203r13p1254r13p1267r13p1336r13p1384r14p1447r15p1448r15p1455r15p1456r15p1480r15p1489r15p1495r15p1532r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.05,
+  "ascensionist_count": 79,
+  "quality_average": 3.32,
+  "hold_fingerprint": "45c1ffe63cae0f9292e503510ea4ee8e655d27862893550456cd384f1a5714f4",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9a5f808165e029d997254d23.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Open the Elevator",
+  "setter": "bordboy93",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "35576EA1FDC14B4492A3805366706965",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1092r15p1104r15p1132r12p1153r12p1164r13p1212r13p1215r13p1264r13p1283r13p1350r13p1383r14p1452r15p1459r15p1475r15p1504r15p1520r15p1557r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.9,
+  "ascensionist_count": 74,
+  "quality_average": 3.3,
+  "hold_fingerprint": "304c7ed78b9fdc0d79d1f512cd47164eb141c2c80adcb3c521faf31fb1bce460",
+  "validation_errors": []
+}

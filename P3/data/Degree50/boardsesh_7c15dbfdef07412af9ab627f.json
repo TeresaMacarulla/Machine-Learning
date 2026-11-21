@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7c15dbfdef07412af9ab627f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "campus warm up 10.12",
+  "setter": "45er",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 8,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "EC63EF65C7554DCAB16B7C02ACAC1251",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1174r12p1223r13p1236r13p1271r13p1302r13p1303r13p1349r13p1362r14p1366r13p1370r13p1379r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "40e3b7aed89f5c385ee0225a0175a4c9104800f36dea9c594f494f06dc571d16",
+  "validation_errors": []
+}

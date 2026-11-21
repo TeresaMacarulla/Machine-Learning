@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e21a71749d2feb222e7a0d33.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Everyone Kneels to Something",
+  "setter": "GeorgeFoerster",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "949CB712AE24417DB7FFC48A68AA5324",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1145r12p1228r13p1265r15p1266r13p1281r13p1309r14p1321r13p1325r14p1356r13p1456r15p1466r15p1496r15p1510r15p1554r15p1559r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "a80a98ffa14fc1bf12e324e075f9ef42f1bdf599a9cca6d733f415562b8ac4e9",
+  "validation_errors": []
+}

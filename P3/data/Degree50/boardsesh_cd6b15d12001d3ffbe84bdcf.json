@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cd6b15d12001d3ffbe84bdcf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Experiment X",
+  "setter": "ThePeePeePooPooMan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "e80800c890854f41a0aaaa8224a4fc82",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1204r12p1223r12p1257r13p1308r13p1340r13p1387r14p1389r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.33,
+  "ascensionist_count": 21,
+  "quality_average": 3.29,
+  "hold_fingerprint": "215009c52ef8076075a5bc9d1b7833aa142f999c9e51b42b08592eba7f880c03",
+  "validation_errors": []
+}

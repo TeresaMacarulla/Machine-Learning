@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_810b978ef28add94ba08a432.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Ride the Tide",
+  "setter": "krai3060",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "524008E96EAC4552BE36F28EF6FC7D48",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1168r12p1202r13p1215r13p1267r13p1299r13p1354r13p1367r13p1380r14p1452r15p1456r15p1503r15p1513r15p1541r15p1547r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": 4.67,
+  "hold_fingerprint": "7c19eaeba4e14e172795eb172f59e695498c39a22ad2aa7c4d46cdbe538c481a",
+  "validation_errors": []
+}

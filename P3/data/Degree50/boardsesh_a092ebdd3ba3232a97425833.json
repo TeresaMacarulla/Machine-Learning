@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a092ebdd3ba3232a97425833.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "TCHRead#20",
+  "setter": "channcy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 1,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "A18E2328BDC34B6A84744F0BA7DE12B0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1268r12p1315r13p1383r14p1523r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.73,
+  "ascensionist_count": 15,
+  "quality_average": 3.47,
+  "hold_fingerprint": "eca3c0492190d1f812384d52a4d9d2573c7a5e9f70f6ffa2ea19bb9d747068ba",
+  "validation_errors": []
+}

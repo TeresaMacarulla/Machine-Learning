@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f5fb58e0b0d789b230e5c691.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Zak and Dan",
+  "setter": "GW_Kilter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3EEE36BA32C84DA097E4A5C7094D04E2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1180r12p1186r12p1250r13p1299r13p1312r15p1315r13p1352r13p1387r14p1485r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.04,
+  "ascensionist_count": 312,
+  "quality_average": 3.292275641025641,
+  "hold_fingerprint": "354e7da296fe7f3ffd49f7af7ea7b4821375bcf9a07a8656e4aea01f971071a5",
+  "validation_errors": []
+}

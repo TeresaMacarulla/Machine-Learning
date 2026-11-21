@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5cbdb2028bcf589fc6436f3a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Chunkey Monkey",
+  "setter": "jskemp910",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "81fbb2f0-ea6e-4dcd-aa91-945d87adccc4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1135r12p1201r13p1081r15p1451r15p1254r13p1268r13p1530r15p1337r13p1388r14p1576r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c97d3ee29b467fd5c24fed7376d799929fc2fed5935ae6b1d8b8efc738d9416c",
+  "validation_errors": []
+}

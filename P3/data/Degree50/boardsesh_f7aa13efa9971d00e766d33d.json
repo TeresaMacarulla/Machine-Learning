@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f7aa13efa9971d00e766d33d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Realm",
+  "setter": "J8aG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "e5f60e4e942242e99171d5415d7a10a7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1233r12p1235r12p1286r13p1341r13p1392r14p1543r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "bd6dd67c21c589b1642690bbc72ac9f9ff44030d62408c973e8f1e405eac8415",
+  "validation_errors": []
+}

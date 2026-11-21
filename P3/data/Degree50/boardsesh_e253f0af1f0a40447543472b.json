@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e253f0af1f0a40447543472b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Brasil Style",
+  "setter": "CadenasFeiasBR",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "541ac1e8-dcd4-4b75-ba5a-d2b2ac4969c8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r12p1184r13p1086r15p1081r15p1199r13p1485r15p1253r13p1516r15p1317r13p1540r15p1390r14",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.5,
+  "ascensionist_count": 3,
+  "quality_average": 4.0,
+  "hold_fingerprint": "ae590dbb76444ade070e17bf5ed71bdba0dfa5fe0842a15e74c46b6e185367fb",
+  "validation_errors": []
+}

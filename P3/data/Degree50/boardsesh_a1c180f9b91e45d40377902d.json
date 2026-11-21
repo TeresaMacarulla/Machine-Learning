@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a1c180f9b91e45d40377902d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "A Dyno",
+  "setter": "Nout",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "90F837FBAE7F4D59A22404F8A03B9A6E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r12p1257r13p1341r13p1390r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.25,
+  "hold_fingerprint": "bf5f78dc53e29940bd6e513299ed288e2938af532f7074e73616ae40093f8f36",
+  "validation_errors": []
+}

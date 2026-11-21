@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9f7c3b114252f2f48ddb7c50.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Dredger",
+  "setter": "crunch2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "a980272334404b39af72e196b15796df",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1128r12p1160r15p1175r12p1197r13p1212r15p1229r13p1231r15p1266r13p1317r13p1387r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "feefc5b2a37b8afd2d82c1b524307a525c13991d5c3f675fa08257a9131243f0",
+  "validation_errors": []
+}

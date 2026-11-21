@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e3a4fc1d5970023c4113b202.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Hop, Skip and Jump",
+  "setter": "tomheslam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ED7F85A6931C40FDB3AFA2FA07451BE3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1187r13p1235r13p1269r13p1282r13p1283r13p1331r13p1383r14p1450r15p1452r15p1487r15p1489r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.06,
+  "ascensionist_count": 18,
+  "quality_average": 3.22,
+  "hold_fingerprint": "a34df7bd6458e8726348f17c1f6cdeb16df0367176182c3fb0204229fd027943",
+  "validation_errors": []
+}

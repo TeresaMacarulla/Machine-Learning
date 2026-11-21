@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_87f62b4cd7878a76cb6d8f98.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Ohrwaschlrennen",
+  "setter": "AlexKnapp",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "43C16A71EDC84902A50927C13728ECC8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1136r12p1165r13p1181r13p1246r13p1301r13p1323r13p1352r13p1374r13p1395r14p1451r15p1454r15p1514r15p1541r15p1544r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "2af53cbc9e56db12b50dfacde3c02f52604c1adfc35633ecc02ef069ff01d3d5",
+  "validation_errors": []
+}

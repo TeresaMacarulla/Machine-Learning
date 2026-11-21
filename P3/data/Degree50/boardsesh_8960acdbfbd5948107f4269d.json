@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8960acdbfbd5948107f4269d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "motoparek",
+  "setter": "Bajeris",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "22960411-2a77-42c2-8929-50c7c31599f6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r12p1198r12p1302r13p1299r13p1383r14p1380r14p1468r15p1471r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.67,
+  "ascensionist_count": 4,
+  "quality_average": 4.67,
+  "hold_fingerprint": "837697f3490dc45def7d8742e7221d72fecff67b2afbe69dfb2bf3286b5fc18a",
+  "validation_errors": []
+}

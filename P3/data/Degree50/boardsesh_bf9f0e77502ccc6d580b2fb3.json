@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bf9f0e77502ccc6d580b2fb3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Specifics",
+  "setter": "jakeAfrancis",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "88C6C516D91F423E98C9BC3A42031537",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r15p1205r12p1251r13p1300r13p1349r13p1371r13p1388r13p1392r14p1450r15p1516r12p1532r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.6,
+  "ascensionist_count": 12,
+  "quality_average": 3.2999999999999994,
+  "hold_fingerprint": "e97c54c9a072f5003728fcc28eabbb6d2ad25ccd7141e383d9a2ce66bd62af63",
+  "validation_errors": []
+}

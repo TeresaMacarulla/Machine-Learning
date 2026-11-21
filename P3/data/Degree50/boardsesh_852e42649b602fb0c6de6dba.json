@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_852e42649b602fb0c6de6dba.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "SMD",
+  "setter": "cknight09",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8162DD1B52864AA785D5D3207F507832",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1127r12p1163r12p1195r13p1201r15p1249r13p1284r13p1321r13p1353r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "6f5ec55d74828b84ad16e1b19974403c76c2d061bd03a38094123fd25479fa64",
+  "validation_errors": []
+}

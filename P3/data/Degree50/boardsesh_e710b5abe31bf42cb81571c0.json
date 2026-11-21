@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e710b5abe31bf42cb81571c0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "jump n' run",
+  "setter": "allez_ale",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6105bc25fea84417a46041378d135854",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1176r12p1198r13p1200r13p1235r13p1271r13p1320r13p1389r14p1461r15p1463r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.95,
+  "ascensionist_count": 249,
+  "quality_average": 3.4,
+  "hold_fingerprint": "da474ef3c689232b1248b090da0543b47b25afb0cfe9cba6c834486c2af4e4c6",
+  "validation_errors": []
+}

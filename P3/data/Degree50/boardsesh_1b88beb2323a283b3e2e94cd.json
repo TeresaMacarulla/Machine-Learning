@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1b88beb2323a283b3e2e94cd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "climb 49276393",
+  "setter": "WyattN",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "71DFFCAC571C468CBDEB55B976C8E3DD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1182r15p1220r12p1221r12p1242r15p1289r13p1297r15p1309r13p1354r13p1358r13p1367r14p1371r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3705479c7d97497c899a03a102817399678c42a12c4afbe9d2133715a3bf5f2f",
+  "validation_errors": []
+}

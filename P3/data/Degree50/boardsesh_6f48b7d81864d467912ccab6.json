@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6f48b7d81864d467912ccab6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Al_Dente",
+  "setter": "Ymer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0CDA78850926481AABA5C38908E10D28",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1119r12p1186r13p1191r12p1240r13p1301r13p1304r13p1362r14p1369r13p1447r15p1451r15p1531r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.55,
+  "hold_fingerprint": "cf28d5c8f913ceea70395552cfe372f2488a7a97f27133d125da80de4808b2ff",
+  "validation_errors": []
+}

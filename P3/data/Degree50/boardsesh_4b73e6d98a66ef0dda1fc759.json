@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4b73e6d98a66ef0dda1fc759.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "ten minutes toughness",
+  "setter": "emililia",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "643FDBCEC22041EA9B97F79EF608B8D9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1198r13p1252r15p1264r13p1282r13p1352r13p1355r13p1394r14p1460r15p1484r12",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.8,
+  "hold_fingerprint": "02de740b2a7f22042630b6e09a770516d91d56480ab37fad6cdffb2b0dc98659",
+  "validation_errors": []
+}

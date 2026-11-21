@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fefe160aa83651832a748067.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "SmallGuysRule",
+  "setter": "MarcelRuth",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "643A35E458224A059BB9C84525DE3DE8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r15p1169r12p1237r13p1281r15p1284r13p1317r13p1380r14p1383r14p1453r15p1456r15p1527r12",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.87,
+  "ascensionist_count": 182,
+  "quality_average": 3.3192857142857144,
+  "hold_fingerprint": "8ec585693a82e5737371f1abb95ce2d01e8d8c6ffab3291d63249bd2d671ce32",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b91a09d5cc69463365c1c96e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "insane in the main nrain",
+  "setter": "gclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "60aa169d5fa7410b83d18d8561cec7e5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1124r12p1162r12p1197r13p1230r13p1270r13p1304r13p1320r13p1370r13p1383r14p1458r15p1464r15p1534r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.96,
+  "ascensionist_count": 87,
+  "quality_average": 3.52,
+  "hold_fingerprint": "b79c38c2f4c1a23c2827188f371c74809b40dad6c2780e700f34777532525e30",
+  "validation_errors": []
+}

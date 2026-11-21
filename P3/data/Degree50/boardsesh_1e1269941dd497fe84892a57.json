@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1e1269941dd497fe84892a57.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "hug simulator",
+  "setter": "ConorDobson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0968B7A2BC304258A25123607CDFFD85",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1127r12p1170r15p1198r13p1236r13p1302r13p1357r13p1387r14p1455r15p1458r15p1459r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "2f47e0864879961876ff821634040eb1e5c54f8f887384c88718d2712623f49b",
+  "validation_errors": []
+}

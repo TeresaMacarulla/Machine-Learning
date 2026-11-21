@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_078741efb5101323a238623d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Antipanic",
+  "setter": "Baptiste-R",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "53fca4eb-abd5-4805-8649-8768926f179a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1170r12p1452r15p1497r15p1218r13p1197r13p1214r13p1280r13p1467r15p1510r15p1333r13p1334r13p1579r15p1389r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "9577b2951cd2d15ee1e5ae03fcf84eaad14c5c56352476efe4ad615af5d63720",
+  "validation_errors": []
+}

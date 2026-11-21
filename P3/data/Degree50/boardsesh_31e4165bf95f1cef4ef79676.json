@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_31e4165bf95f1cef4ef79676.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Dyno without foot !",
+  "setter": "KerianPons",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "d794e9bdd18749dd9e509b161535ebd6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1255r13p1258r12p1271r13p1302r13p1387r14p1553r12",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "34543c31e35a3a981e6b85ce4f17848e1d26ffd04d2033eeb5880a45ea8e9321",
+  "validation_errors": []
+}

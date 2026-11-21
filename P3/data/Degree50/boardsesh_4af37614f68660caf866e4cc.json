@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4af37614f68660caf866e4cc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "shumthin",
+  "setter": "burnardino",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "49C62D7B43C142E98A7FAD7341C06270",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1143r12p1163r13p1214r13p1234r13p1268r13p1336r13p1349r13p1383r14p1458r15p1461r15p1506r15p1524r15p1559r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "d9d58c6410db633dda2e937fa40dd5bc2bc307124c7581baa5e916c55300f5b3",
+  "validation_errors": []
+}

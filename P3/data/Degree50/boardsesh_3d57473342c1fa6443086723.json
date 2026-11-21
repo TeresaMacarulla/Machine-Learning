@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3d57473342c1fa6443086723.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Bombarda Maxima",
+  "setter": "boulderhannes",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5CA272FFAEDD4B30956150D6A8844B74",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r12p1155r12p1237r13p1289r13p1336r13p1368r13p1382r14p1448r15p1451r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.6,
+  "hold_fingerprint": "401252da7c719094e09c47488c19024a01eb48c0d50734c178a4d6173811bdf7",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bee388d44521b34023740fac.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Schwarzkopf",
+  "setter": "uppidyuppidy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b13cb3e38cde4140a2c359fc7741ee5d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1126r15p1177r12p1216r12p1230r13p1269r13p1286r13p1323r13p1357r13p1387r14p1503r15p1544r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "dddb6c28182e2ec861b148f082d7ef6e152c356dbdbc327d1d55cbc7fcb37889",
+  "validation_errors": []
+}

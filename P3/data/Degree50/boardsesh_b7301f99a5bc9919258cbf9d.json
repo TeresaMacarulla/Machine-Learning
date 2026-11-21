@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b7301f99a5bc9919258cbf9d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Pegasus_heavy",
+  "setter": "tobygenborg",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "C21114FEDAD641F4B5D3FE897798BA4E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1137r15p1155r12p1168r15p1214r15p1219r15p1225r12p1257r13p1272r13p1301r13p1306r13p1387r14p1482r15p1517r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e8b04a235e9c5c967ec666cd100eb8aaa83d24ee1f7b33516d0fddf7968c6b56",
+  "validation_errors": []
+}

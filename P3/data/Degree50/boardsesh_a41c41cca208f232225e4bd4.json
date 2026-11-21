@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a41c41cca208f232225e4bd4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Divisive",
+  "setter": "dispositiv",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "4D63F5313F1947EAAD43C251D5F2CE30",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1143r12p1192r12p1221r15p1245r13p1246r13p1300r13p1302r13p1306r13p1340r13p1394r14p1560r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.33,
+  "ascensionist_count": 8,
+  "quality_average": 4.33,
+  "hold_fingerprint": "ca6b8f5d6da22cfe302891ecc780e8fb07981ec320df6a59745cc6736d1333fe",
+  "validation_errors": []
+}

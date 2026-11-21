@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_59b52ec58cfdd9d85c3fd847.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "momentum flow",
+  "setter": "send_aholic",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "75e6e44bb9c742e2ac036073ac0d0b5b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1164r12p1167r12p1231r13p1246r13p1281r13p1311r13p1379r14p1454r15p1458r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "0cf4dfb7dbb52f0f578e30d0d8fa0454706ad171d3b28c463685cf330b8889c4",
+  "validation_errors": []
+}

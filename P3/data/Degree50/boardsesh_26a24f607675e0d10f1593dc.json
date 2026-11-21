@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_26a24f607675e0d10f1593dc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Scapeshift",
+  "setter": "rock_tuah",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "b5ffcc25-9260-4ce2-a85e-2e7b17a5151e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1190r12p1120r12p1202r13p1201r13p1162r15p1144r15p1230r13p1248r13p1510r15p1294r13p1379r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a304b135890fae9f02179daae47c867fe3efca4efc2464c55f8bfab07971712c",
+  "validation_errors": []
+}

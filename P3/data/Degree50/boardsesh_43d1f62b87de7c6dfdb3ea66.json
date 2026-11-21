@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_43d1f62b87de7c6dfdb3ea66.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Pinch-1",
+  "setter": "Doruq",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "981b5d11-f688-490c-a5ac-65027b2a1143",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1148r12p1196r13p1216r13p1228r13p1283r13p1332r13p1387r14p1461r15p1166r15p1285r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a1ac9f131eedb89f7e82c4b8936949557dce976c6a5e90723ad03403e834891f",
+  "validation_errors": []
+}

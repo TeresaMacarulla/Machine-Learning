@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_720dd912967d98ed871d9716.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "chungking express",
+  "setter": "im.nobody",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "F9EB7D715F2E498DA6B60D5133724F7C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1094r12p1124r12p1180r13p1181r15p1228r13p1358r13p1394r14p1464r15p1559r13p1577r13",
+  "display_difficulty": 30.0,
+  "difficulty_average": 29.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "02606196f6e47616debfef33933e5f7d9ac4a10993d5c17fb4799a4b5f696ea4",
+  "validation_errors": []
+}

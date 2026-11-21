@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b14ec69394f61ccc1de71222.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Fun ride",
+  "setter": "gabnado4",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "61ab5b1548734397bbccd9704e04b71e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1147r12p1151r12p1199r13p1233r13p1247r13p1284r13p1333r13p1370r13p1385r14p1503r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 2.75,
+  "hold_fingerprint": "0d87b1a195203f2bcf7de3d0389970a9ea7d226e6de6d94a90e90ba92628f75f",
+  "validation_errors": []
+}

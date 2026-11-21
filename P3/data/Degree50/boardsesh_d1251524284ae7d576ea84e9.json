@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d1251524284ae7d576ea84e9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Hands in the Blender",
+  "setter": "santobekking",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "CABA814B453B45B080F2DC28E91DBDC9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1126r12p1163r12p1192r15p1198r13p1251r13p1264r13p1279r13p1315r13p1386r14p1455r15p1458r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b06807d69e852d70afca7b2f21a528333d20adf02323b0bb43d1ec04f9ecb556",
+  "validation_errors": []
+}

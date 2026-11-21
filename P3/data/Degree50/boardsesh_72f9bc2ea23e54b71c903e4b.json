@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_72f9bc2ea23e54b71c903e4b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "only 4 machos ",
+  "setter": "Ton",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0ed33f78-b4da-4c5c-951a-bd40468d3d3a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1216r12p1201r13p1235r15p1272r13p1254r13p1305r13p1361r13p1392r14p1170r15p1096r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.33,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "3d6d2b29ad5197264d4f1523777f65ec2c3bca77fa23fd9ad2676f09de601cc1",
+  "validation_errors": []
+}

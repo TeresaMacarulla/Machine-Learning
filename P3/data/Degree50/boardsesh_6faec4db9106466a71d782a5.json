@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6faec4db9106466a71d782a5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Lock Lock Lokomotive ",
+  "setter": "thomas_roemer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "4ee93443-f98d-4ec2-9632-f48c17729775",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1501r15p1264r13p1248r13p1351r13p1353r13p1357r13p1391r13p1394r14p1503r15p1179r12p1467r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.67,
+  "ascensionist_count": 6,
+  "quality_average": 4.33,
+  "hold_fingerprint": "c03e3388efdee61e2d66c56c56895760c33bb19dfb0c0553f9fcb33bf33d99a4",
+  "validation_errors": []
+}

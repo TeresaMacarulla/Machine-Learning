@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_880f7f45f1f8192b448132a8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Max Length No Foot Cut",
+  "setter": "seattle_gage_chavez",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 11
+  },
+  "source": "boardsesh",
+  "source_uuid": "CB822C35DBB146B5A3EB9B579C1F13B8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1159r15p1162r12p1193r12p1281r13p1329r13p1383r14p1465r15p1474r15p1485r15p1502r15p1511r15p1521r15p1530r15p1540r15p1549r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "32d9ed007dffc76708f8b565ec51bc60d1d1cf48db85e4b4e9d068595a14e5f5",
+  "validation_errors": []
+}

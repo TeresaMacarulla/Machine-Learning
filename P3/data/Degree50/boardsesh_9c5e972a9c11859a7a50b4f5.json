@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9c5e972a9c11859a7a50b4f5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Gimme s\u2019more",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "E23EE03B45404725A97CEF3AA6687BC8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1150r15p1198r12p1286r13p1306r13p1357r13p1388r14p1468r15p1476r15p1535r15p1553r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.12,
+  "ascensionist_count": 18,
+  "quality_average": 3.35,
+  "hold_fingerprint": "4222b55f5a7c68585768beb0cf764cfe66813dae06dbd3235f068283f6c8fcf0",
+  "validation_errors": []
+}

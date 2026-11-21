@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5ef6c899182bef806acfceaf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "rotieren",
+  "setter": "derHammer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "101f44d0d8d44522b0f4a0f892848d3b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1167r12p1218r13p1256r13p1323r13p1374r13p1387r14p1453r15p1517r15p1554r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "5e0a605962152d92fff17ade8038f7cde514d686544ae107d194a0ad39156392",
+  "validation_errors": []
+}

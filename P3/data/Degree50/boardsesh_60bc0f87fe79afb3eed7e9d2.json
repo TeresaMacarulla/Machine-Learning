@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_60bc0f87fe79afb3eed7e9d2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "unknown #16",
+  "setter": "spalermo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "C6DD651553824242906E72C004928059",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1098r15p1130r12p1141r15p1146r12p1182r13p1212r13p1213r13p1261r13p1296r13p1331r13p1335r13p1386r14p1501r15p1519r15p1540r15p1541r15p1566r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.09,
+  "ascensionist_count": 37,
+  "quality_average": 3.37,
+  "hold_fingerprint": "113a50bafac6e2603d7a9794b318567343923b7681782e902d08e60417645a95",
+  "validation_errors": []
+}

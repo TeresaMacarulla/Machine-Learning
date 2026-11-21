@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e7a9851d9d4b468498d065dc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Boo!",
+  "setter": "SaxonCasi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "b272b7c8cc364f408a56489d663b923c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1150r15p1217r12p1234r12p1284r13p1306r13p1353r13p1387r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.43,
+  "ascensionist_count": 7,
+  "quality_average": 2.86,
+  "hold_fingerprint": "a284ae5749fe7c050478b0f4979f500057414908903c811698977ec1d30fc814",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_56915b7bd624f6356149d8c8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "16 Inch Blunder ",
+  "setter": "pcbogan02",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "a6be6cba-cb96-4062-b56d-28f435403aa5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1116r12p1457r15p1453r15p1304r13p1234r13p1269r13p1388r13p1385r13p1383r14p1204r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.25,
+  "ascensionist_count": 4,
+  "quality_average": 3.75,
+  "hold_fingerprint": "20f7801d0d1c703fa25fdf747e08e974540b1f2c9679f2a8c9da38559527c86f",
+  "validation_errors": []
+}

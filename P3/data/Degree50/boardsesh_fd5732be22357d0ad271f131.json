@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fd5732be22357d0ad271f131.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "steifen nacken",
+  "setter": "flixi4455",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "307c8852b4ef4d7a89f963e42751945c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1180r12p1194r13p1243r13p1281r13p1331r13p1353r13p1387r14p1460r15p1465r15p1513r15p1541r15p1560r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.91,
+  "ascensionist_count": 11,
+  "quality_average": 3.18,
+  "hold_fingerprint": "a0e035ea9cab120f48f10c857500d42cae0b71790606edb1e01b089bb1f63d31",
+  "validation_errors": []
+}

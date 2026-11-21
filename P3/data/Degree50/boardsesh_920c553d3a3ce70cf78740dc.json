@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_920c553d3a3ce70cf78740dc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Noodlebowl",
+  "setter": "sakahiet",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "ba69af35141f4aab9fd3c1be9e89136a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1198r13p1234r13p1265r13p1302r13p1320r13p1356r13p1391r14p1455r15p1485r15p1506r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.09,
+  "ascensionist_count": 11,
+  "quality_average": 2.27,
+  "hold_fingerprint": "e3ac273b8de1a7e6bed13784634d2eed509f5ffd2d8665ccb8821f0003c847d0",
+  "validation_errors": []
+}

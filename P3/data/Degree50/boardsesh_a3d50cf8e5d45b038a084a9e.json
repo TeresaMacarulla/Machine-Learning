@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a3d50cf8e5d45b038a084a9e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Right Left With Some Spice",
+  "setter": "EMPA",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "8259B985044C42BE8898A4CF8B540C3A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1096r15p1133r15p1143r12p1165r15p1194r13p1203r15p1215r13p1249r13p1270r13p1286r13p1288r13p1355r13p1369r13p1385r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "cb468291a970820bd9656fb618a0099ddda0b525432819a0e1826b0c882b5c30",
+  "validation_errors": []
+}

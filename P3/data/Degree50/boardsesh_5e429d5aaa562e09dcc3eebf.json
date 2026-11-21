@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5e429d5aaa562e09dcc3eebf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "R-Bump",
+  "setter": "YorkshireGold",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "9f7c2af2428d43858ad12458ae4a30fa",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1214r15p1215r12p1228r12p1267r13p1353r13p1382r14p1484r15p1578r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "fe9987f057bb3886cef0ba60b5a2a5b331dd1160bef3448640fbf426a1c0b2cd",
+  "validation_errors": []
+}

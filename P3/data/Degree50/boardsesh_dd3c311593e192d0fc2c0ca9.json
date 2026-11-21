@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dd3c311593e192d0fc2c0ca9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Chase",
+  "setter": "DaHro",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "64352F69DDDC4BCA910C6ECB5EFE2415",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1203r12p1285r13p1339r13p1385r14p1503r15p1513r12",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.29,
+  "hold_fingerprint": "2815bba22cb09eb09d4060e14d84075b2bfa51b9e308d05fa3b40d35bfaba611",
+  "validation_errors": []
+}

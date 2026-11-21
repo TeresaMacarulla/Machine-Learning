@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2cf31d25376a99c11103de9d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Haut Taughty",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "3E9131FA22974BE29B5A53EDFFC68933",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r15p1202r12p1232r12p1285r13p1299r13p1353r14p1486r15p1496r15p1514r15p1525r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.03,
+  "ascensionist_count": 110,
+  "quality_average": 3.37,
+  "hold_fingerprint": "22afa264e8649e94812789d637da8d4d568d3281229ad355068cfb63bf6c794a",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_09100e875caf0c128a9c7304.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Kessler 1",
+  "setter": "KilterStudio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "86DA4936D38045718E48972A12E82776",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1115r15p1170r12p1219r13p1251r13p1315r13p1319r13p1330r13p1363r13p1379r14p1523r15p1530r15p1533r15p1537r15p1538r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 12,
+  "quality_average": 2.83,
+  "hold_fingerprint": "aa4926e27db26d61731270d0f417e22ddb0eb518b85dad9e5990bbeec8426828",
+  "validation_errors": []
+}

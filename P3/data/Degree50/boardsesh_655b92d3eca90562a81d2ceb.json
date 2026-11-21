@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_655b92d3eca90562a81d2ceb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "la porcherie 3",
+  "setter": "2elio3",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "390c9213965246f78bab29e9d1565b2a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1187r13p1191r12p1269r13p1271r13p1299r13p1347r13p1379r14p1451r15p1471r15p1521r15p1558r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.97,
+  "ascensionist_count": 65,
+  "quality_average": 3.26,
+  "hold_fingerprint": "44f75c58c062181f979d40e867746268bb4ef4826e8023add82120f8aed75ee5",
+  "validation_errors": []
+}

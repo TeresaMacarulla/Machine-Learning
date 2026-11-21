@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a6075107c422d44473a83d12.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "rapscallion",
+  "setter": "kschmarr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "6FDEF2691B8B44439FA3BE23E4CEAD95",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1156r12p1221r13p1234r13p1287r13p1304r13p1371r13p1387r14p1447r15p1451r15p1516r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.79,
+  "ascensionist_count": 31,
+  "quality_average": 3.52,
+  "hold_fingerprint": "88c1211d3e05f38c1d54b4d806677840a149fdeb2b157bc0b93f74d8258383d5",
+  "validation_errors": []
+}

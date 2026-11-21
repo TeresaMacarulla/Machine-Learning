@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a569ac9ebff6c667687edf0c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Big Man or Big Foot?",
+  "setter": "idrisjenkins",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "89491176-df80-4046-ac6a-aee140bcf76c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1450r15p1447r15p1221r13p1498r15p1276r13p1527r15p1339r13p1394r14p1561r15p1157r12p1137r12",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "4cc9027066315b895c7de45d13ae57083bb18b60225350cb1ef55d9603ccd602",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7f3e047e2f54818fe37b4550.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Slightly Large Pogo",
+  "setter": "Geod",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "9F17A54E04AF4106A1C31C006F5E1009",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1198r12p1200r12p1287r13p1334r13p1389r14p1598r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.88,
+  "ascensionist_count": 8,
+  "quality_average": 3.5,
+  "hold_fingerprint": "88519b396f0c158317b57a9da8f02d1eb676852987b73db62afdb89e79d9071f",
+  "validation_errors": []
+}

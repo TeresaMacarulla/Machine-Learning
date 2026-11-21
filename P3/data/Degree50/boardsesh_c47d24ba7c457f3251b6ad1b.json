@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c47d24ba7c457f3251b6ad1b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Stillborn",
+  "setter": "Hamiter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "bc40f11762ac434d870a6163ee13dd45",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1133r15p1187r12p1201r12p1270r13p1287r13p1299r13p1334r13p1385r14p1507r15p1521r15p1547r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.97,
+  "ascensionist_count": 271,
+  "quality_average": 3.41,
+  "hold_fingerprint": "705340d6be6e735848b7ebcd5fc0113734d372c1cc7c818a6447816941066e76",
+  "validation_errors": []
+}

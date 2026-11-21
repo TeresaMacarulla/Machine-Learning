@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_805ebf8e55af3b44e4dc94ab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Pinch fly",
+  "setter": "Ekiel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "57DCBE448F1E47009047542719396907",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1084r15p1130r12p1149r12p1166r15p1198r13p1236r13p1285r13p1337r13p1385r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "7ec3a7feb9fc80779aac82bb59ada65540ca883a0ac0cee99f76cab7c5d80221",
+  "validation_errors": []
+}

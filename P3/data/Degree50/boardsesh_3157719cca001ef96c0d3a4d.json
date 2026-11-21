@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3157719cca001ef96c0d3a4d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "You've got to start somewhere",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "a28daf1067d04076b573525b4f7b08dd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1183r15p1239r12p1240r12p1270r13p1273r13p1281r15p1304r13p1336r13p1354r13p1385r14p1480r15p1506r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "0db6a3c617bdbcd0e5659290a56826e2c831a7eef3843f58c343b94617e5843a",
+  "validation_errors": []
+}

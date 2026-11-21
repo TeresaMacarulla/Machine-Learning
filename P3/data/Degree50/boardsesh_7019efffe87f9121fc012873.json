@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7019efffe87f9121fc012873.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "this is what climbing should look like",
+  "setter": "eddiehills",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "CCF341B3636A49F7802D3AA1780F1CEB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1209r12p1210r15p1230r12p1261r13p1267r13p1301r13p1355r13p1372r13p1393r14p1492r15p1522r15p1544r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 14,
+  "quality_average": 3.29,
+  "hold_fingerprint": "68d6bc91316ff5657a6b6c08ef822b50f9f5b1b1f945e088bc951cda0c3e8e04",
+  "validation_errors": []
+}

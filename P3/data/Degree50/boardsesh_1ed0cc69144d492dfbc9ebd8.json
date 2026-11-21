@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1ed0cc69144d492dfbc9ebd8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Chain of Screaming",
+  "setter": "noapproachnate",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2F16D6D8BF2A49DC9632B4306AA15BB0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1146r12p1162r12p1231r13p1249r13p1254r13p1320r13p1357r13p1391r14p1495r15p1514r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.22,
+  "hold_fingerprint": "526dbdee8db8e18f948b6b9f8cf3146f5b8c89798b3317d70bbf5f6a0b3e8932",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bfe250a3fe577e778753d894.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Power Back",
+  "setter": "tortesla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "F17D4675E3B24748B45247C328589C54",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1230r12p1285r12p1386r13p1390r14p1495r15p1524r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6ef040cc98784d24bb318eadab5ef57b8b3c7421d6e1aa19687c6e0ee5dfd538",
+  "validation_errors": []
+}

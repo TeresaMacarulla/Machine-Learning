@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cdd213f3140318d35ecdb80b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "hsd",
+  "setter": "henrya",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "079b1204-3eb0-43bb-aaf5-0630b6789ab4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1073r15p1451r15p1308r13p1168r15p1157r12p1394r14p1221r15p1359r13p1536r15p1257r13",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 3,
+  "quality_average": null,
+  "hold_fingerprint": "e037580a9d40ccf9d0fd6b09157272e5f06f238bc98c79eded65553e898035f8",
+  "validation_errors": []
+}

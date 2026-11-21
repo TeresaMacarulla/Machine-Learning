@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_adc02855bf7cace57248f0e8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "What do?",
+  "setter": "Fixxe",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "f4444e00900c4df986ccc20789364895",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1202r12p1270r13p1304r13p1373r13p1379r14p1382r13p1384r13p1480r15p1505r15p1515r12p1589r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "9ed86141af9f33645d31e4614a6e44e71cefa48538fe24de1d23ef8511b73166",
+  "validation_errors": []
+}

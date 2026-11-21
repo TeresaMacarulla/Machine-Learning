@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_92ac9db02e0d51b7a2cce07f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "lava flow",
+  "setter": "hiboulder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "578BF141DD674478B9A9D2E6A8786E50",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1164r12p1229r12p1302r13p1321r13p1390r14p1492r15p1521r15p1531r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e88752a771f2dc747eaf3c4ebfd09bcd93876a25dd54853d5391dc52e9a3a948",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f00aecb9b681cce08134395f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Ka Kaa",
+  "setter": "tomhwright",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "E9B56DEFE17A499EBABA695CD9A2799E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1144r12p1163r12p1229r13p1267r13p1315r13p1354r13p1388r14p1506r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.98,
+  "ascensionist_count": 56,
+  "quality_average": 3.5800000000000005,
+  "hold_fingerprint": "eccbb604868b8c3d7bc9e03a85982b7c5c319fc65a35e3c0c2655df4251b6ee7",
+  "validation_errors": []
+}

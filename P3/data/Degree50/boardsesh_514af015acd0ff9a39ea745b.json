@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_514af015acd0ff9a39ea745b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "dingus",
+  "setter": "teddyj",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "7f862409-95f0-4fc1-982a-e556a6606b3e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1245r12p1501r15p1474r15p1333r13p1302r13p1533r15p1531r15p1357r13p1391r13p1581r15p1360r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "b6fffa9bc09e8f4ec9fa3b0f378f64143a1ef0cb70a67fd10717fa5798e5dba1",
+  "validation_errors": []
+}

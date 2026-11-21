@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b296acb20f37554f8b190876.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Armor for Sleep",
+  "setter": "clarke.ryan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3afa4e01143448bfa4f0ad85f022053d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1204r12p1206r12p1255r13p1289r13p1303r13p1354r13p1385r14p1472r15p1506r15p1509r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 12,
+  "quality_average": 3.5,
+  "hold_fingerprint": "a44f818742218922a3cf4b70338096e7ae865d3a775a1eea4939eaa704191b4b",
+  "validation_errors": []
+}

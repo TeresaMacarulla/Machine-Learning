@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0e6e776d5dbad23bf1ee4ae0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "warm up flow",
+  "setter": "leemiho2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "34be7945-a808-43b7-8a29-3ba5e9561e90",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r12p1237r12p1270r13p1305r13p1338r13p1374r13p1388r14p1168r15p1271r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.78,
+  "ascensionist_count": 19,
+  "quality_average": 1.78,
+  "hold_fingerprint": "95a2eb08d1c7f647fe4840f34e923bea5b2c7cd291caf2c49672e971d7acbccf",
+  "validation_errors": []
+}

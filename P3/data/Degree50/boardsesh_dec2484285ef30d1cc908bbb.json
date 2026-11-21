@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dec2484285ef30d1cc908bbb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "pinchy jump thing",
+  "setter": "Jasperbeetroot",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "C29E355BC068403B95B757A8BB46BFD5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r15p1185r12p1234r12p1295r13p1300r13p1382r14p1537r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 14,
+  "quality_average": 3.5,
+  "hold_fingerprint": "a00bdb86867b62f564c1a27db085f7a5e26088cfb1be5a4f78d9f37731c55ca8",
+  "validation_errors": []
+}

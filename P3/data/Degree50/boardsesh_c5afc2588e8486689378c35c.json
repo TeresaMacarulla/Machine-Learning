@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c5afc2588e8486689378c35c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Tension trainer : Medium 1",
+  "setter": "ty.steele",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "679bab0d-cf2e-4ffd-ae6e-3aab2e159cc0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1465r15p1469r15p1158r12p1212r13p1233r13p1266r13p1458r15p1504r15p1507r15p1513r15p1302r13p1353r13p1385r14p1534r15p1531r15p1557r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 4,
+  "quality_average": 1.5,
+  "hold_fingerprint": "510cde9051575265f3da4893994d5c86e3159f61459560a46920653befb77760",
+  "validation_errors": []
+}

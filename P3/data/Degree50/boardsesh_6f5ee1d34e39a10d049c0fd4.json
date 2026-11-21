@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6f5ee1d34e39a10d049c0fd4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Guri-malla",
+  "setter": "gurimelcher",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "205f21f881f04ce79f1f1f8a309f4f26",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r12p1147r12p1200r13p1234r13p1271r13p1302r13p1335r13p1385r14p1459r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "d3813889de79dea039ee4a41ed03551b447d6565aab454734bdc641c6547791e",
+  "validation_errors": []
+}

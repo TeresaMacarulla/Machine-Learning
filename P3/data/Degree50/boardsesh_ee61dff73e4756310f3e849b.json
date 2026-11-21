@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ee61dff73e4756310f3e849b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "speaking terms",
+  "setter": "samuelguerrero",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "D552F211E7634402874F44FDF705D7DA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1138r12p1152r12p1185r13p1198r13p1233r13p1247r13p1316r13p1350r13p1353r14p1453r15p1486r15p1503r15p1548r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "2ca453bf3bcdaa14fba24ccf6899a0b79c1ab671cd6e892e4743bb9ea90e8772",
+  "validation_errors": []
+}

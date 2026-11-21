@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f1c5ff96aa900b3325e96eae.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Sobers Anlymited",
+  "setter": "LowSkillClimber",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "38c40e39-6db8-4503-9e96-e1d3d690ffff",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1092r15p1231r13p1148r15p1270r13p1171r15p1272r13p1292r13p1391r14",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.91,
+  "ascensionist_count": 11,
+  "quality_average": 4.64,
+  "hold_fingerprint": "b0ffe9def161943dbf3b50dd597b36c1366244835135f77e9f4e609a9ad322f6",
+  "validation_errors": []
+}

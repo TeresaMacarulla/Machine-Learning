@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bb399e4efb66dcf6d18ba938.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Milano",
+  "setter": "Fabi1899",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ba812d01-2d46-4278-a3a2-351fed9505bc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1231r13p1462r15p1252r13p1269r13p1305r13p1354r13p1389r14p1534r15p1571r15p1107r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 6,
+  "quality_average": 3.83,
+  "hold_fingerprint": "d545e3262f2c431428d7a47c4bc6fd6b7d2546cf93adfadaa288520bd2a97026",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_34a874e9dd0fe938ef83acb6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Campus Pinch",
+  "setter": "Racingcar",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "cfed9ea77a2a46a4ad6c958493ecf29f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1186r12p1216r13p1254r13p1285r13p1321r13p1357r13p1390r14",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.6667,
+  "ascensionist_count": 1,
+  "quality_average": 2.33333,
+  "hold_fingerprint": "dd768ececd7a03cb0a70de1a5a0d61b595b03f108fe28f0671c184ac91e1f885",
+  "validation_errors": []
+}

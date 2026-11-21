@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d150b1443e97698c0bc2ea24.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "pickle rick",
+  "setter": "KilterStudio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "01477E8BB17F452193C93D1291A3EAA9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r12p1151r15p1153r12p1184r13p1198r15p1202r13p1252r13p1287r13p1301r13p1354r13p1387r14p1451r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 8539,
+  "quality_average": 3.1903573102155574,
+  "hold_fingerprint": "be020dbe77d8f2ab71464fd924278c719c8eb08b23c5b30379066d37911d8707",
+  "validation_errors": []
+}

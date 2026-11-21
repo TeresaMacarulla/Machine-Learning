@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8e1f70b4b28f5fa5b6409d38.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "TBD 69",
+  "setter": "gavschmidt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F48BF3134F4C47D4828E1898741E803B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1186r13p1251r13p1264r13p1268r13p1333r13p1381r14p1460r15p1472r15p1505r15p1566r15p1593r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "53b31851e4fa2027ecad896d027e97f699acb4cd8f14a7fd1e04ee10e8891705",
+  "validation_errors": []
+}

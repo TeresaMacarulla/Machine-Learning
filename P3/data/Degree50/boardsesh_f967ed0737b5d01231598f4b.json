@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f967ed0737b5d01231598f4b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Decipher",
+  "setter": "SaxonCasi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "52605387d0a34c0691f3e9d381ff76ab",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1172r15p1185r12p1234r13p1267r13p1308r13p1340r13p1355r13p1395r14p1506r15p1534r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "fca0b93aa5b72fd146b11964b3ff54feec9d16c5f90da9f150ef7e96a8e3c45b",
+  "validation_errors": []
+}

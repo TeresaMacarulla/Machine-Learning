@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_67a491672f997aff1eaed988.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "jump n' cross",
+  "setter": "marlon63",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "18ed20ac8f3248b2b7bc4d5421ac6587",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1190r15p1210r15p1213r15p1236r12p1238r12p1286r13p1299r13p1300r13p1314r13p1384r14p1547r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "14be5d04f037e7d929ecaefc55efa485f13afc20246f13d26c798178ff153b26",
+  "validation_errors": []
+}

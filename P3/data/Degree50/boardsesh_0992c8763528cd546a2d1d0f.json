@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0992c8763528cd546a2d1d0f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "pulk/pull revolving doors",
+  "setter": "derwelt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "83b4fa50322d4ac6ac4c15a876619f1f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1196r12p1209r12p1283r13p1298r13p1318r13p1323r13p1375r13p1395r14p1465r15p1485r15p1519r15p1524r15p1535r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "ca813ca7d4926c350cc76c8c582d0a42ae2ff20978958b9f8b6c6e6bf0a2d032",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bf882e07f4cb3994edbe7985.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "typical",
+  "setter": "zealot",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "59383BA1ED70437BB63293F2100C709E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1151r12p1184r13p1185r13p1232r13p1270r13p1307r13p1309r13p1378r13p1395r14p1459r15p1536r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "72e242609d0a09fea434c608a16764a1d1f4938074d9d7daf342ce7e5103a91d",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fc7205c3079207867b0d08b9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Three Arrows",
+  "setter": "sweats",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4f744734-c88e-4bdd-8c6c-74eaadccb970",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1197r12p1284r13p1320r13p1368r13p1169r15p1548r15p1254r13p1551r15p1383r14p1455r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f2642f2e605618c84d5cbbbf2a85ea3c51668ac7924cfe1b577cc87fc7541e7c",
+  "validation_errors": []
+}

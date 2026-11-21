@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5f744aededda963d6efd4fa8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Giulio on 50",
+  "setter": "hangar18LB",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 10
+  },
+  "source": "boardsesh",
+  "source_uuid": "70DB6159A9C84FE28F901B88A6FD1CF5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1170r12p1219r13p1254r13p1256r13p1268r13p1284r13p1337r13p1350r13p1385r14p1451r15p1453r15p1472r15p1486r15p1505r15p1512r15p1513r15p1548r15p1550r15p1575r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.8,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "3274b381dc0681d12497b38906ca1595b3138fe7771ce333fdd8555eccbd8478",
+  "validation_errors": []
+}

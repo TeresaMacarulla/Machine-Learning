@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e89aa7dd03e609be2942fac4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Pinch board",
+  "setter": "Matthew_C",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4A798ED0143B4ADBABD3825B2FDEC3EB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r12p1186r13p1241r13p1285r13p1287r13p1291r13p1298r13p1332r13p1367r13p1379r14p1473r15p1513r15p1522r15p1529r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "c28e2d61b2935b49814994d7c0783b1afc889c8c44899974c300502d8b63b0ee",
+  "validation_errors": []
+}

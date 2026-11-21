@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d68d2d6707169cb167ce85a2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "straight facts",
+  "setter": "c_Dog32",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "EBCA1CCFDC834FCBB73198D325838D38",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1170r12p1219r13p1250r15p1270r13p1271r13p1301r13p1322r13p1335r13p1349r13p1384r14p1499r15p1514r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.03,
+  "ascensionist_count": 40,
+  "quality_average": 3.4300000000000006,
+  "hold_fingerprint": "40cf76de2962b0eb98f3f6f6ac34a0fe1a550fb6e286f8d344dee74a54095545",
+  "validation_errors": []
+}

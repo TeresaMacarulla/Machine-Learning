@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6f80679a40e855e16b2f237c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Warm Up at 50 degrees",
+  "setter": "LucSiebeling",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "1D7B8360A99E43848034E415580D1329",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1117r15p1181r15p1198r12p1201r15p1220r15p1236r12p1284r13p1304r13p1334r13p1354r13p1387r14p1540r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8357995fa988326cbec64126d33502a87dc609693c205281fc51124f1adbb8a0",
+  "validation_errors": []
+}

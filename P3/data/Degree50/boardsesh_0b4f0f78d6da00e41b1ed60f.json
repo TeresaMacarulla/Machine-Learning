@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0b4f0f78d6da00e41b1ed60f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "pincher cut ",
+  "setter": "ArchieH",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "bc6d690e-cb5b-4d93-ba9f-045931599837",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1203r12p1253r13p1167r12p1307r13p1163r15p1320r13p1231r15p1206r15p1337r13p1332r13p1367r13p1380r14p1294r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "c921670c35de666a63d12eae337a90338461452d344d6bea54b280ba11cc1314",
+  "validation_errors": []
+}

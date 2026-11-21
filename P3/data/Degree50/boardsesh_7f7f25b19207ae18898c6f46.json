@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7f7f25b19207ae18898c6f46.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "the ol' flipper",
+  "setter": "klorine",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "94ca2811-a778-4472-b4a0-87e88ad083b0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1121r12p1447r15p1451r15p1123r15p1155r12p1256r13p1302r13p1500r15p1289r13p1536r15p1268r13p1367r13p1380r14p1336r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 4.5,
+  "hold_fingerprint": "fc307444416078c55d78fa51ed2d1c23523784bb78f9fb4808609fc162a938f6",
+  "validation_errors": []
+}

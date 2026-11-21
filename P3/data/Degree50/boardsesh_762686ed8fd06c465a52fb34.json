@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_762686ed8fd06c465a52fb34.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "campus",
+  "setter": "Martijn minne",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "ee528152-0907-48d6-8395-3a75bd0c186f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1219r12p1221r12p1257r13p1288r13p1308r13p1341r13p1394r14p1344r13",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "71e901f8659b808a52e5ba0293007692c816bd629260d94063081f18784f9645",
+  "validation_errors": []
+}

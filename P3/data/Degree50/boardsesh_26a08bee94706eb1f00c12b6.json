@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_26a08bee94706eb1f00c12b6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Ghost Army Light",
+  "setter": "kilterjackie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "277690826F1D4DE7BBADBDB4AF01001F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r12p1181r13p1215r13p1234r13p1266r13p1301r13p1337r13p1368r13p1385r14p1458r15p1559r15p1566r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 31,
+  "quality_average": 3.52,
+  "hold_fingerprint": "1e56a4f19ea3fb21a034a9d57090d89b1ed6cd4cf7fc13933ea6d1763446f23c",
+  "validation_errors": []
+}

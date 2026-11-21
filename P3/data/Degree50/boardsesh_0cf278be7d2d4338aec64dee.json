@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0cf278be7d2d4338aec64dee.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Airobatics",
+  "setter": "Knoedelbrot",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "96BAAB6C746B4941B4BBE43C5F1C474B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1296r12p1297r12p1315r13p1317r13p1353r13p1356r13p1359r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "43eceec30e029087b36f2e2c462364610a57281b85caaad0a269ef6a4248944b",
+  "validation_errors": []
+}

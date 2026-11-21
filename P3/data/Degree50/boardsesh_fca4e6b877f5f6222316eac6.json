@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fca4e6b877f5f6222316eac6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Baddies Only",
+  "setter": "AlexClimbs28",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "601AB280E99D4079933A10988B26065C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1149r12p1196r15p1204r15p1215r13p1252r13p1301r13p1337r13p1387r14p1457r15p1468r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "34f3c2d6ca4655eb917c6944fdad9ce0098e179bdf8cfbf157c3bf7c110e6764",
+  "validation_errors": []
+}

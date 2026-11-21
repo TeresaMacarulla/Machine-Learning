@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_feab6c8101b185c273e6883d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "upstairs loft",
+  "setter": "E.2.d.2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "90223F5C607142D5A924CEFD8846504C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1183r15p1200r12p1247r13p1316r13p1364r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d6c45abaf7d5630055d1d06085646c43775687daf52abed504b36563754418ab",
+  "validation_errors": []
+}

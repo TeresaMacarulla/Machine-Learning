@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4e73f6ac378eed8e5deb14b7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Are there feet missing?",
+  "setter": "katara123",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "FA785579B41C485C820992B7F5A7F266",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1095r12p1176r12p1215r13p1250r13p1289r13p1320r13p1392r14p1464r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.67,
+  "hold_fingerprint": "fa5b31e3f36e89cd651755f2a0228a71bf18c1e6cb03191fa475bbf351486a5c",
+  "validation_errors": []
+}

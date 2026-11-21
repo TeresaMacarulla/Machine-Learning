@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3d75d9975366d425c1969d9d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Pop N Lock",
+  "setter": "onetickpony",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "65A85C7BF0804976AEDB255B17CAFA6B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1205r13p1208r15p1256r13p1267r13p1318r13p1331r13p1380r14p1447r15p1451r15p1534r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "81ccf969d79e172884f97bad42d5732d9d29f9a99666f18b861168b7bdf8bdb1",
+  "validation_errors": []
+}

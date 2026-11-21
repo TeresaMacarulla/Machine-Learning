@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f06733487e22e3c79459ce7e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Choose Wise",
+  "setter": "christoph.braeuer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5469C03A7BE34878B075E4AA04843402",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1176r12p1228r12p1233r13p1283r13p1285r13p1322r13p1391r14p1519r15p1524r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.4,
+  "hold_fingerprint": "24ca8ccb58db4b2adc9fdb020d502fae762de47bfcd3b69412a1b7f51c87f3ae",
+  "validation_errors": []
+}

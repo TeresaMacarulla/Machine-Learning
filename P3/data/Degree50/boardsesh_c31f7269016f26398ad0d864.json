@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c31f7269016f26398ad0d864.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Telepathy",
+  "setter": "Goule",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "bd522b7f03cd45c6acc7ec0e5d1c7718",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1188r12p1203r12p1254r13p1269r13p1322r13p1337r13p1343r15p1373r14p1491r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "572cc12f739c96034ce08413ed7332408aaf5d380ce47df6bfbccd16136bbef2",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_de9ef68c64c2c7a7b454bf28.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "RF MMM sorta trainer",
+  "setter": "joshrc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "036AFD4D8E5F4C8DA6D17781226A6F3C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1135r15p1137r15p1168r12p1170r12p1187r13p1286r13p1354r13p1384r14p1569r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8dca57567568a3224a09b3199805e65fa13617f03e4285f82d115d6a79e65a86",
+  "validation_errors": []
+}

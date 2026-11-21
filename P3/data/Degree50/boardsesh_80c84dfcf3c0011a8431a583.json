@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_80c84dfcf3c0011a8431a583.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Schrute Bucks",
+  "setter": "pangtastic",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "FE8A4C7C6B234A2A8A2558266689F586",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1140r15p1169r12p1189r12p1255r13p1267r13p1269r13p1331r13p1334r13p1382r14p1539r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.8,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "08b7f5f287f2f7dd29fe7c720399d9678ade80aabc70da9f3056e344efa740fd",
+  "validation_errors": []
+}

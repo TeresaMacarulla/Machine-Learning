@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4fdd64002a978546bf5017e4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Get Warm #2",
+  "setter": "GirthQuake",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "A8E291C6F2924B06B21B69C14DFEFCEA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r15p1225r12p1239r12p1255r15p1289r13p1302r13p1354r13p1385r14p1506r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.95,
+  "ascensionist_count": 271,
+  "quality_average": 3.44,
+  "hold_fingerprint": "cf69fc6ad0b35fa955a3af79148a78b1e2428dad6af536747e2b99385513862f",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_00eae83252fee428776e16f7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "link the dink",
+  "setter": "eprice",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "36C023CE14D845C0A4DC2E11C136C85E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1118r15p1132r12p1133r15p1186r12p1216r13p1271r13p1283r13p1285r13p1314r13p1347r13p1380r14p1451r15p1506r15p1513r15p1532r15p1551r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ea69d06c43bb18d55dbd6753291bebf93bc775591544aab761f8d8bf77f883e0",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_809c572b935daf94c4b63b4e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "the smith",
+  "setter": "wramser",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "418BAAFADB5C477BA3CA40290BD6A37C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1167r12p1231r12p1303r13p1350r13p1388r14p1576r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0182cc4e57486fe4149e9fee9fe071fc48e2ba0db86c50d7425790d1dd0d265e",
+  "validation_errors": []
+}

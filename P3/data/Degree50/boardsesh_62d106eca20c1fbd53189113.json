@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_62d106eca20c1fbd53189113.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Paywall",
+  "setter": "steil_boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "9ACDFF4717A044839F154AEDB26FE12E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r12p1171r12p1218r13p1230r13p1250r13p1316r13p1362r13p1379r14p1454r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 25,
+  "quality_average": 3.5,
+  "hold_fingerprint": "6a637a571d5222d356f6d7b21fb8cf1e2dd0ed713bf29216c3fa1e290350d081",
+  "validation_errors": []
+}

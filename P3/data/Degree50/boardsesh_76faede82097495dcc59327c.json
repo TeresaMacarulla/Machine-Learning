@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_76faede82097495dcc59327c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Jug Haulin",
+  "setter": "safetydan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "93C04F12E7704AE9808A5CB75C2EA999",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r12p1145r12p1194r13p1197r13p1210r13p1260r13p1281r13p1315r13p1353r13p1371r13p1390r14p1458r15p1589r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "f4ad2137f9d22aa24d3f775683936134b1e63a1c6ca8e47e23d3c44518294cd0",
+  "validation_errors": []
+}

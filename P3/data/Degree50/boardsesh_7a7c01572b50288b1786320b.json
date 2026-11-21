@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7a7c01572b50288b1786320b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Bouncing is quality",
+  "setter": "amitaidemayo5",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "fd542ea10d2d48cd9e0a638530ca7de5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1080r15p1104r12p1152r12p1186r13p1215r15p1216r13p1283r13p1287r13p1298r13p1329r13p1379r14p1537r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "caed20550a971313ba2a634bc249ea55b3afc87e7daf8cd74d57d60789018deb",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1208e037fe616640b62707a5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "CSKC #1",
+  "setter": "bejo1712",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F9F2324676DE4B9D8883759C2DEDDE38",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1160r15p1164r12p1182r12p1245r13p1247r13p1263r13p1330r13p1365r13p1385r14p1469r15p1512r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "592ace2d2de34c466ce742e44f52fe21413c64507b94ad4a3a2b8037373a69a3",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_019c40fadd97b18c15271e6b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "hard hard (direct)",
+  "setter": "ethan125",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6C4385BAC92E461D87A4E58917020B6F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1131r15p1163r12p1179r12p1194r15p1246r13p1278r13p1316r13p1317r13p1387r14p1540r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "ce3d2b43e36596dc0887b96341f20e7aeaacd0a86e861db8e9f907bc33ee5bcb",
+  "validation_errors": []
+}

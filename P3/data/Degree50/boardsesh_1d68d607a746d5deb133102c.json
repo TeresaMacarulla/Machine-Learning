@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1d68d607a746d5deb133102c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Force Jump",
+  "setter": "christian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "C05F113AB7D84C218BC52A969CA6C0E3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1114r12p1164r13p1250r13p1283r13p1304r13p1390r14p1455r15p1477r15p1478r15p1505r15p1524r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "adfa3e481376746cc879be944539236063f585a97b15eaeb6eb9cbbca7b17472",
+  "validation_errors": []
+}

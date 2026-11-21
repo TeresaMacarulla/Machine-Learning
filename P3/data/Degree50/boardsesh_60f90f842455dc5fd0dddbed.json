@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_60f90f842455dc5fd0dddbed.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "atze mit glatze",
+  "setter": "brene",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "4e91c623ed6f4714bcf156113f5b4e88",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1119r12p1172r12p1220r13p1274r13p1304r13p1325r13p1372r13p1385r14p1472r15p1506r15p1534r15p1579r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.55,
+  "hold_fingerprint": "3b6343bd4cfde29db0134df46e25eeeb25234e67906a5d06de8a232df23d7338",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d7149a998462a14170b753a3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Lemonheads",
+  "setter": "ctmorin13",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "380A4366D6FF44DF81093FA320A24245",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1181r13p1196r12p1218r13p1269r13p1298r13p1316r13p1382r14p1455r15p1461r15p1478r15p1507r15p1540r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ba447a09dc705384e3f959de4334dc1691a88bc76a85573e3ab37c8c985deb58",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9255e6ba5e666a531848f436.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Faction Wars",
+  "setter": "OLC",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "9ffcee57-555c-47a6-b310-e4600d1c2a65",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1214r13p1202r12p1210r13p1133r15p1263r13p1311r13p1380r14p1215r13p1199r12",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 13,
+  "quality_average": 4.8,
+  "hold_fingerprint": "dfaa1bb3a9127c71fad3ceaff5f4e72042619ef2ad8a46f20dca2cb9e5c09875",
+  "validation_errors": []
+}

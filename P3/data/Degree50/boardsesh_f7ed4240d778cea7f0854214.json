@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f7ed4240d778cea7f0854214.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Show me easy",
+  "setter": "vukyle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "b17c66c83f7940978808f3cd6c50aff4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1166r12p1220r15p1250r13p1255r15p1269r13p1335r13p1383r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ae29b0b18cb7cfec3fd2a19bec3e6db888ed3df6375678fa09f874c1cbc19f65",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8cab87e173f445cf5b716a7a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Double Threat #1",
+  "setter": "BKBChicago",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "89C7E70FC8494CC893177279D75104FD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1161r12p1163r12p1231r13p1250r13p1299r13p1354r13p1390r14p1512r15p1540r15p1547r15p1551r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.95,
+  "ascensionist_count": 20,
+  "quality_average": 3.6,
+  "hold_fingerprint": "e3ca708cccbba128fd5502e20c3082aca21883f44cd3e9dc89c52aa2885fe314",
+  "validation_errors": []
+}

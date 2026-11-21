@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_718b24e7fa17d8b2058d31f7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Known #17",
+  "setter": "arigolucky",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "75162e4e52e54145994a109d99d3d03f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1114r12p1165r12p1201r13p1237r13p1251r15p1268r13p1317r13p1349r13p1387r14p1455r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.64,
+  "ascensionist_count": 14,
+  "quality_average": 4.36,
+  "hold_fingerprint": "cecbecf6095a2a7ad3c66f6a17405e76198a4d3ab230f1c70586ff9ca17f250d",
+  "validation_errors": []
+}

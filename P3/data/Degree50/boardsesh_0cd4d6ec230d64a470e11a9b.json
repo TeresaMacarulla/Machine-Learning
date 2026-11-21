@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0cd4d6ec230d64a470e11a9b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "KH001",
+  "setter": "knhg",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "a2086f02-3d77-46ec-84d3-b869026c1cfd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r12p1075r15p1204r13p1189r13p1308r13p1355r13p1353r13p1384r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 4,
+  "quality_average": 1.0,
+  "hold_fingerprint": "19da8769769fa23e1e3fd20ad2652e91e0499948e4b6b30ea881f62e3319b858",
+  "validation_errors": []
+}

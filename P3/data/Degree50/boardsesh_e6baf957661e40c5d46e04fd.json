@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e6baf957661e40c5d46e04fd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Colorado Customs",
+  "setter": "chaseesmith",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "458C2E8DC91A4B17BEF4155B7991C5FF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1147r12p1203r13p1235r13p1306r13p1337r13p1385r14p1457r15p1459r15p1468r15p1534r15p1552r15p1558r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "567be47f47f888f603dcf85abed89e59d42feb5cc93e9070b251f655af9fd6bb",
+  "validation_errors": []
+}

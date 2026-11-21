@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1bf2966f452cca0c6dcfe88c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "dirac quantisation",
+  "setter": "tobiasiding",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "B9CF3714950345B8B5DAA2B7C2567596",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1174r12p1187r12p1217r13p1254r13p1320r13p1351r13p1384r14p1450r15p1471r15p1482r15p1487r15p1497r15p1498r15p1504r15p1542r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "5c1298008e70f5f454bac7ff656cd3c1576d6b65222de3fe216211e73f281481",
+  "validation_errors": []
+}

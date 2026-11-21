@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_752f1275deb1d4d756081310.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Pyromaniac",
+  "setter": "christoph.braeuer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1046D43EF0BA48DA89862787B224E621",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1116r12p1132r12p1152r15p1233r13p1280r13p1383r14p1455r15p1503r15p1520r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "d6c9d41402e7544b3ec1421dd948046dd0590b36b39e676203ce04d86036166f",
+  "validation_errors": []
+}

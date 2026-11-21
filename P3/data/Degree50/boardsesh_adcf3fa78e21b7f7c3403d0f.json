@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_adcf3fa78e21b7f7c3403d0f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Der Klavierspieler",
+  "setter": "Paka",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "A2659853B6B74252855CA114BED5A6BB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r12p1188r12p1218r13p1267r13p1298r13p1333r13p1371r13p1390r14p1451r15p1487r15p1521r15p1529r15p1567r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.99,
+  "ascensionist_count": 135,
+  "quality_average": 3.41,
+  "hold_fingerprint": "07c74b96a238ab9275b1ac0d6ca0fe6f55c137cbe059bd47323a8f38134a6710",
+  "validation_errors": []
+}

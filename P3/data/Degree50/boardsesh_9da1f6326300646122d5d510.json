@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9da1f6326300646122d5d510.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Steep",
+  "setter": "PJP",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "028502ADD20140B2A9EE3C9B518F0139",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1152r15p1163r12p1204r15p1215r12p1235r15p1236r13p1250r13p1302r13p1354r13p1385r14p1389r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "438ad39c6b8dbf87fcd08226fe515c8fdcad1a9c0408bec40a71f391262940b9",
+  "validation_errors": []
+}

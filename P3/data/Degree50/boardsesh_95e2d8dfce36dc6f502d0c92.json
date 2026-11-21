@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_95e2d8dfce36dc6f502d0c92.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "walk it like you talk it",
+  "setter": "badatclimbing_",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "9DC032038E7C4BC395A16DADB98925F6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1127r15p1163r12p1166r15p1178r12p1219r15p1231r13p1247r13p1292r15p1302r13p1308r15p1353r13p1373r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "fb11dea2c9494166eaa44a53dd40124260e8073a4eac6dd497cc3d1365249b5d",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_83f76335958f103094c90309.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Low Beam",
+  "setter": "chasmophyte",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "a0d719d4c0a049c4afdccbde712aaa80",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1147r12p1182r12p1228r13p1264r13p1265r13p1318r13p1351r13p1384r14p1504r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "32a523d0ab929328ed75e1fef12f052e6457fa89709397c354866e7fce77b9b5",
+  "validation_errors": []
+}

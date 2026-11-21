@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b7ece66fbf7901a745553f95.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "pump and creep",
+  "setter": "autismo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "251ffd8a-02a0-4b5c-9ea1-fc84e274466a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1191r12p1204r12p1257r13p1302r13p1332r13p1105r15p1078r15p1150r15p1219r15p1236r13p1272r13p1268r13p1234r15p1387r14p1212r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "d07fb301612d6be88245502364f4d38c1020f3aebfebe83d8b9f9bf36559f74d",
+  "validation_errors": []
+}

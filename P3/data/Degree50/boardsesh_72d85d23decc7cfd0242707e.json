@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_72d85d23decc7cfd0242707e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "V3 Big Move Jugs",
+  "setter": "rjaquez",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "E5EA6E52614046A3B67EDAE96AC41204",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1096r15p1129r12p1131r12p1171r15p1198r13p1203r15p1236r13p1249r15p1260r15p1302r13p1331r13p1353r13p1383r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.11,
+  "ascensionist_count": 21,
+  "quality_average": 3.56,
+  "hold_fingerprint": "4f27761e3e955702cb7f5996f54187c8719aded73c5e6d7fc696cf1225c80ff7",
+  "validation_errors": []
+}

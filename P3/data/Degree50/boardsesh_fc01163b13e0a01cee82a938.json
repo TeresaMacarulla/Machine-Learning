@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fc01163b13e0a01cee82a938.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Peppermint",
+  "setter": "Alex_kilterboard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "c002212c-4261-437b-9cec-4db136630f4e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1105r15p1155r12p1224r13p1257r13p1327r13p1598r13p1373r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "964a8822e2b85b2784f7cc0f8634069ddd815bb0de43dd5366a4cd8625dbec0d",
+  "validation_errors": []
+}

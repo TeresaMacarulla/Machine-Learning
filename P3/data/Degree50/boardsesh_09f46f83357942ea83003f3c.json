@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_09f46f83357942ea83003f3c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Red Ballon",
+  "setter": "JohnC",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "25E073042B7843309D14E8F4F676D660",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1127r12p1128r12p1203r13p1288r13p1352r13p1383r14p1385r14p1461r15p1480r15p1523r13",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.88,
+  "ascensionist_count": 16,
+  "quality_average": 3.5,
+  "hold_fingerprint": "4c0c333f0386fb248002db0a9da772161a6c3e6b84495bef2981ebc9d8a7374f",
+  "validation_errors": []
+}

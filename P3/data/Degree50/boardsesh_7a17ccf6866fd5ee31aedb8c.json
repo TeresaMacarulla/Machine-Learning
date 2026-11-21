@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7a17ccf6866fd5ee31aedb8c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Rubbish Collector",
+  "setter": "ennie88",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "49EB0435406845069A0B612813D80D49",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1181r13p1211r13p1281r13p1333r13p1338r13p1390r14p1460r15p1475r15p1532r15p1552r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f40031593b39d0df304d278780729326c5aaa9cf46f38352c97181e9e4ca4009",
+  "validation_errors": []
+}

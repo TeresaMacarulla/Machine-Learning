@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2fcab9dfb67352b7f6330c65.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Eifel Tower",
+  "setter": "SamuelVT",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0EC61641B8C9447798C980352A543CD8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1134r12p1171r12p1182r15p1218r13p1255r13p1339r13p1374r13p1386r14p1489r15p1516r15p1550r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d0bd542ec6a13bfeddd5c0ed2f87048d3726cd9b15452ac4aa6e3bc1c5b4c073",
+  "validation_errors": []
+}

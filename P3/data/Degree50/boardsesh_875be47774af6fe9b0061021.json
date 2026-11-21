@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_875be47774af6fe9b0061021.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "knuckle hucker ",
+  "setter": "gfuntanilla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "9d569476-1121-44d2-9608-b9cdccd584d2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1190r13p1220r13p1272r13p1304r13p1340r13p1449r15p1154r12p1453r15p1550r15p1572r15p1356r13p1140r15p1394r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 2.0,
+  "hold_fingerprint": "d1fc800337bd1a13383e5376e26ae17a02826bb85a2390ae26c52ed8a7265367",
+  "validation_errors": []
+}

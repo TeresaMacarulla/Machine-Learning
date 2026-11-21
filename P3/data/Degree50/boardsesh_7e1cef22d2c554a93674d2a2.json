@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7e1cef22d2c554a93674d2a2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Mad hatter",
+  "setter": "gcooley",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "d5d5a44c94a04a39a3c32d8f1d92db88",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1098r15p1142r12p1163r12p1246r13p1279r13p1281r13p1335r13p1385r13p1390r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.25,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "a8d178ef5d3b510ccf566a55d674e563adb4419e5be1f1683d10794f78c69276",
+  "validation_errors": []
+}

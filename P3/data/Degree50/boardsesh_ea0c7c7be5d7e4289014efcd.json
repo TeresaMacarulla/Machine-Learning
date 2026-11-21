@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ea0c7c7be5d7e4289014efcd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Slum Doom",
+  "setter": "slums_",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "08F5498564794CC5956CFDF83CEB76E2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1128r12p1131r15p1160r12p1204r15p1214r13p1215r13p1268r13p1321r13p1334r13p1369r14p1465r15p1542r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.94,
+  "ascensionist_count": 22,
+  "quality_average": 3.33,
+  "hold_fingerprint": "ad965a0e244a5243f1f37e8438031856b760067669c66b65fdfdecc73754d241",
+  "validation_errors": []
+}

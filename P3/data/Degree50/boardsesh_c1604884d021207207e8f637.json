@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c1604884d021207207e8f637.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "pogo gogo",
+  "setter": "TF07",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1a91fd79-b2e9-4dc5-9ac9-1e4d46ee6063",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1279r13p1383r14p1379r14p1301r13p1267r13p1130r15p1455r15p1178r15p1118r15p1185r12p1179r12",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": null,
+  "hold_fingerprint": "2d164ee318d81f2f5bef1fcb69299dbd4b71e1ef5a478735546b22406e6a192d",
+  "validation_errors": []
+}

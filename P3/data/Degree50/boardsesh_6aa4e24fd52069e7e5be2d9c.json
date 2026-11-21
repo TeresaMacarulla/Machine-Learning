@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6aa4e24fd52069e7e5be2d9c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "I saw water",
+  "setter": "witt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "c6c6ebb2-48a9-4e53-82da-1bc3923c9986",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1274r12p1242r12p1499r15p1324r13p1302r13p1568r15p1369r13p1385r13p1382r14p1381r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 7,
+  "quality_average": 4.33,
+  "hold_fingerprint": "6f26d3dd1538b68eae962e37130185bced2c282724fe13f55dd15401c6b8d0d6",
+  "validation_errors": []
+}

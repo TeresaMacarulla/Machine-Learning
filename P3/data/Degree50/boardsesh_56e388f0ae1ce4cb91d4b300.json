@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_56e388f0ae1ce4cb91d4b300.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "Americonian sky",
+  "setter": "isaac_dunk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 1,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3DCEB947A192407AA385BF089F6CC754",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1165r15p1166r12p1282r13p1382r14p1468r15",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "d9680dbb41c88992a453a5d028b4400f6b2c78a42b87c94938c0e4ca397ad708",
+  "validation_errors": []
+}

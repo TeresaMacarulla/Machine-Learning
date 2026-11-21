@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_04751e61fbb650c8d9a2840b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Bumper car",
+  "setter": "Edello",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "4517ff4e-99f3-47a9-ada0-4fe9c10461a4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1136r12p1236r13p1302r13p1541r13p1453r15p1354r13p1391r14p1389r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "2651adc19b033ba7aa64541ff3b205a54ba61d7b4ce9483bec7ff7fe81c197c0",
+  "validation_errors": []
+}

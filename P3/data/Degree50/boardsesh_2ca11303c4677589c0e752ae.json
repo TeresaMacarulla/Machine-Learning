@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2ca11303c4677589c0e752ae.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "gogo5",
+  "setter": "\u91ce\u7403",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9c7843ed-1128-48ce-81c2-b5b9372992a2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1124r12p1163r12p1215r13p1464r15p1142r15p1252r13p1283r13p1314r13p1294r15p1317r13p1220r15p1382r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.25,
+  "ascensionist_count": 7,
+  "quality_average": 2.75,
+  "hold_fingerprint": "64392a453d64d5abb3ddd6d4f5ca8affeae2405e31c3fbd4f07d93113dd732d9",
+  "validation_errors": []
+}

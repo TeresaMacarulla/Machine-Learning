@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4e284cb5e69d5d8d2e2aa8d4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "zu Steil",
+  "setter": "Fixxe",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "b7cd6f12954748a6b7301bdc2c993228",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1218r12p1219r12p1255r15p1270r13p1305r13p1338r13p1355r13p1367r13p1382r14p1383r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "8cbc934dd212e25c4b70d4f8f559a3b5313e6698f4f16c770d57efc6a7c02be7",
+  "validation_errors": []
+}

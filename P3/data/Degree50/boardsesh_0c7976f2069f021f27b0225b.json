@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0c7976f2069f021f27b0225b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "for Emi",
+  "setter": "steil_boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "D46C4D89298D4F4A987D2F043E8C9A0C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1180r12p1182r12p1230r13p1283r13p1322r13p1334r13p1373r13p1394r14p1469r15p1505r15p1562r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "c8ae7fa709796a4633eee399cb51dd68a7ca46cc1abcfd5df353394c8198d257",
+  "validation_errors": []
+}

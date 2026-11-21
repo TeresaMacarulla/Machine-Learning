@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0e24142efc5a19455e3ee8d3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Stonegoat V2-4",
+  "setter": "ashsap93",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "DA4BCD0DB2DF4779B2C0D94271056727",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1120r15p1133r12p1154r15p1168r13p1169r12p1203r15p1221r13p1255r13p1257r13p1289r13p1307r13p1321r13p1356r13p1390r14p1452r15p1532r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.25,
+  "ascensionist_count": 12,
+  "quality_average": 3.33,
+  "hold_fingerprint": "404797807b1cd60a08bc8931172904dfc2812acd11e64f34be46c8bab3fd9d0c",
+  "validation_errors": []
+}

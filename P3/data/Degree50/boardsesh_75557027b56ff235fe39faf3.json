@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_75557027b56ff235fe39faf3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Huphup",
+  "setter": "keiboulderhal",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "17ce5166fc3043d3a4eb30368e09634f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r12p1257r12p1270r13p1286r13p1304r13p1369r13p1389r14p1449r15p1489r15p1514r15p1516r15p1532r15p1534r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "fbf5c3ad9bf0cdaf2740399d17768b4ffb517fc18ba4242923b19e015fee90c7",
+  "validation_errors": []
+}

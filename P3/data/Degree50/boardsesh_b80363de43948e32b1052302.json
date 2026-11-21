@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b80363de43948e32b1052302.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Levers 2",
+  "setter": "giraffe_adventurer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "64CF8D69F4154E349D02BAB1DB391E0C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1166r12p1179r13p1213r13p1226r13p1278r13p1279r13p1351r13p1368r13p1389r14p1466r15p1512r15p1520r15p1540r15p1558r15p1565r15p1598r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 8,
+  "quality_average": 2.43,
+  "hold_fingerprint": "2aff83d0206ec4c37681fa69632d2cc32289daf7d80628672699f75a36cf672d",
+  "validation_errors": []
+}

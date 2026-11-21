@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aa8af577866781a2aa5f1b96.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Cheeze Burger",
+  "setter": "zed_oj",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "814484409E0F4EF586D2102143F7D067",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1106r15p1172r12p1202r13p1253r13p1266r13p1322r13p1371r13p1394r14p1447r15p1521r15p1553r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "cddc40dc957b7f20bde5b307f3721d81ddcf9701a909f55196a0272bf51e83a7",
+  "validation_errors": []
+}

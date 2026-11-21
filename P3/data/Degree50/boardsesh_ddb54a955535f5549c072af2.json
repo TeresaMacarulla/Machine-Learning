@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ddb54a955535f5549c072af2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "unravel",
+  "setter": "liam_megos17",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "c38d2af3-836f-42e8-9a57-f0403779f785",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1474r15p1229r13p1301r13p1175r15p1531r15p1321r13p1357r13p1287r15p1389r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f5aaf8f8cca3a5a8589fdb49627d3d2d925f7b31a0abb55648a062fc9087445f",
+  "validation_errors": []
+}

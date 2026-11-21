@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_83f855b85dac99eecff9f007.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "e-shmoney",
+  "setter": "heyyyzues",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9FFA5DF6F611452987768EE9A1D27D92",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1100r15p1134r12p1152r12p1184r13p1205r15p1238r13p1251r13p1287r13p1337r13p1357r13p1391r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bb2a550903380183d44541f79e34d6f2680cdc6434e95ee3e5d7a480b7f2cf4c",
+  "validation_errors": []
+}

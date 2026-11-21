@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_220bde163d3fffb81b8c69a1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Rachel",
+  "setter": "kilterian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "E2C0A44D2BB8403EBA95BBB5F55932F9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r15p1145r12p1198r13p1231r13p1281r13p1289r15p1302r13p1353r13p1387r14p1459r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.89,
+  "ascensionist_count": 15,
+  "quality_average": 2.56,
+  "hold_fingerprint": "ed24249eaadf6f743b5894fb5454d7e6b138a159105f8d8751f008c8cb61b324",
+  "validation_errors": []
+}

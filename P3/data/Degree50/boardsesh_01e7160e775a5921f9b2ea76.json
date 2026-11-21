@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_01e7160e775a5921f9b2ea76.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "hennis 7b",
+  "setter": "MoBurg26",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0aa99d42d7ab4c2fbcbb0cfa109ae5de",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1130r12p1166r13p1198r13p1219r13p1255r13p1293r13p1359r13p1395r14p1476r15p1498r15p1527r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "80977e05026e4adfe34c9fb812c40b2554c44052b64652ff99fbfd1453e44a4a",
+  "validation_errors": []
+}

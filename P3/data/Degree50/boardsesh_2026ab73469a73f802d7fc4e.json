@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2026ab73469a73f802d7fc4e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "JU4",
+  "setter": "johnnyutah",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0A89D77D4AEF427997430782A7A124B3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1164r12p1167r12p1218r13p1236r13p1266r13p1317r13p1367r13p1388r14p1452r15p1459r15p1495r15p1521r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.92,
+  "ascensionist_count": 26,
+  "quality_average": 3.5,
+  "hold_fingerprint": "28d1ded3f1469b4d677dd675924babc6bf10d59b6962d3245f3e05221d541490",
+  "validation_errors": []
+}

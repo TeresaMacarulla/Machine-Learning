@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_900c810d2fe96a61d442a910.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Tension moves",
+  "setter": "Darenkwan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "81bae024-d937-4e82-8d79-6c56e7b4d6ce",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1109r12p1462r15p1147r13p1165r13p1203r13p1253r13p1550r13p1282r13p1333r13p1332r13p1387r14p1476r15p1508r15p1452r15p1511r15p1547r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.75,
+  "ascensionist_count": 5,
+  "quality_average": 3.75,
+  "hold_fingerprint": "adb732fb1c49e64cafe88e84e6918381bdb373e9d47aed4112ccca98a698ac91",
+  "validation_errors": []
+}

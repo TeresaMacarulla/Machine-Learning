@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_490b744bd345f130d9acfec6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Left dyno 1",
+  "setter": "two3four5six",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "cc51a462ea8c4926b915bb01e18105a2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r12p1157r15p1169r12p1219r13p1221r13p1302r13p1319r13p1385r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "61234e1ff33319526a3b0d665902ceb68af166c824cde14326f54ac341f9724b",
+  "validation_errors": []
+}

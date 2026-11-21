@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ce6cb958c6e1c8b59e177b86.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "railroad crossing",
+  "setter": "trendyrendy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8DFEB90FF7134CB69F7D55DE6E61F371",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1219r12p1221r12p1269r13p1286r13p1299r13p1304r15p1331r13p1382r14p1480r15p1497r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9897f4d8ba4f0007c680c4cd19c684e1923abd10a6c422293da3c5ec85377fbf",
+  "validation_errors": []
+}

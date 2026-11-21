@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f51c7198c036bef8cdaaf687.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Pitter patter around the bloc",
+  "setter": "rootfinlay",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "DA775A0364EC49969AFA61A4BC69FD21",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r15p1152r15p1173r15p1185r12p1197r15p1232r12p1242r15p1254r13p1268r13p1289r13p1293r13p1359r13p1373r13p1386r14p1390r13p1550r15p1566r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "e7aa965d5360845114f684f165ff4f8989c5f4f47b45e8bc0d4cf2c7207a14ca",
+  "validation_errors": []
+}

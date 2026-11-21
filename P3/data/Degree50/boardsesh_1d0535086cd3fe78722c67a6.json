@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1d0535086cd3fe78722c67a6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "fingers power",
+  "setter": "Mishanya",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "b056b522f72443ee9bc86a9d76b712eb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1322r13p1352r13p1390r14p1542r12p1543r12p1578r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f190767cce337e5e9b7ad64be59112b849932bb18159c25eb274c9e853123c0f",
+  "validation_errors": []
+}

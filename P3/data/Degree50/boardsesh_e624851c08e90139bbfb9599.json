@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e624851c08e90139bbfb9599.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "QG",
+  "setter": "tobiasiding",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "3FA64FB0A3CD47929EFBBF053F9BD05B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1196r12p1265r13p1330r13p1368r13p1387r14p1454r15p1458r15p1467r15p1487r15p1506r15p1531r15p1570r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "0a49e196a9f8ae7cca05e2938026a47984cc1f9c181ca936ca824a64960e21c9",
+  "validation_errors": []
+}

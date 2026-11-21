@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_35fd5033180122f7f1532185.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Is somebody watching me?",
+  "setter": "fisetroll",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "799317b891114a5da6cf6c9c613f1b2f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1124r12p1148r15p1186r15p1196r12p1228r13p1241r15p1250r13p1272r13p1283r13p1304r13p1325r13p1394r14p1458r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "00c2d1e395df47ac7b26c211f8bbcdf3bb01bca46c2fce6c5c0900a2628eca1e",
+  "validation_errors": []
+}

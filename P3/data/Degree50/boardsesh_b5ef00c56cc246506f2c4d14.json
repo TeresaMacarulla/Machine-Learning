@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b5ef00c56cc246506f2c4d14.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "AAA_Circuit_6.1",
+  "setter": "mn_55up",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "99c98e82-c461-4e43-b10f-55c15d02dd38",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1134r12p1202r13p1487r15p1270r13p1232r13p1081r15p1324r13p1307r13p1394r14p1535r15p1496r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "cd8cb0967583d7f4444baa41858272fafe587f3a767ff2b848aed2cc65981230",
+  "validation_errors": []
+}

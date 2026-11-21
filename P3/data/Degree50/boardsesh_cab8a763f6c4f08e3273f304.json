@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cab8a763f6c4f08e3273f304.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Super Mario",
+  "setter": "sharma",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "384C303D112E42C890A98B78DF48091B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1220r13p1273r13p1327r13p1393r14p1457r15p1489r15p1513r13p1536r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "73c42af2b6dc09dd6e44858d06a878e5edb0ade17e5ddc004b9dd04292be4df5",
+  "validation_errors": []
+}

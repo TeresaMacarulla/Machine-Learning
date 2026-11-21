@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e1a2809b2001d75d67e7fe8f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Vero non skioda",
+  "setter": "Andrea__xx",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6B120B38E21B4EE1860204BF6515DB3E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r12p1210r15p1235r12p1264r13p1267r13p1281r13p1332r13p1369r13p1388r14p1480r15p1508r15p1511r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.6667,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "c302e489fa22b217a87b464b2d16548514a65f98df857e79df1abd15278e0946",
+  "validation_errors": []
+}

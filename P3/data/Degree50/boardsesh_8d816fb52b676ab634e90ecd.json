@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8d816fb52b676ab634e90ecd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "freaky 180\u00b0 degrees",
+  "setter": "klimaap",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "ff4559813c1e4f9985f53ae3ace68132",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1131r15p1142r12p1143r12p1163r13p1166r15p1198r13p1226r15p1268r13p1294r15p1302r13p1315r13p1332r13p1380r14p1383r13p1385r13p1458r15p1464r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5ff445dd8ccede3e843a7aa2b0942a8f9150ef3939ea98cfd5e64eca56a9fd57",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4be2a32b37e10eb311192c5f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Allez Gar\u00e7on",
+  "setter": "bananabeta",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ed8e1a51-a065-402e-bfef-c48e344520f8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1182r13p1231r13p1459r15p1150r15p1268r13p1305r13p1339r13p1525r15p1391r14p1553r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 8,
+  "quality_average": 1.0,
+  "hold_fingerprint": "06fdb1561b29db9c3a31316c3d02683a449656118957ee4704f1add171732d27",
+  "validation_errors": []
+}

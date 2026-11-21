@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_73fd2ded7d2a6ab67f6bfc71.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Soldier\u2019s Shoulder Sit",
+  "setter": "Riptile",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "70B2B483A07742CB94FEB1A76AF06659",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r12p1140r15p1169r12p1187r13p1191r15p1225r13p1239r15p1289r13p1300r13p1320r13p1369r13p1382r14p1451r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "131188b6ca32cdf50f45f3425bb69db7602d412ebb4d171864ae17c4f52cae9e",
+  "validation_errors": []
+}

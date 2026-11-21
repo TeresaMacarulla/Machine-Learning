@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a976d576237d92743713ee81.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Departure from Calgary",
+  "setter": "ShyN",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "4edae24b2cb747fa8ee937e13a981a94",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1118r15p1171r15p1221r12p1223r12p1234r15p1257r13p1271r13p1282r15p1306r13p1353r13p1355r13p1383r14p1384r13",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "0e2276c50e51de1ab9fca9541d4ab6f8e2849be233296abe5bc6b04481f7f797",
+  "validation_errors": []
+}

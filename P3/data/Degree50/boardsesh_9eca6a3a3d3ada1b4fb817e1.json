@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9eca6a3a3d3ada1b4fb817e1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Truth of the Youth",
+  "setter": "vincentdohna",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 2,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "442ad3ba89034e4fa9257bfeeb33fa5a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1213r15p1222r12p1271r12p1301r13p1323r13p1365r14p1383r14p1491r15p1514r15p1518r15p1545r15p1549r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 14,
+  "quality_average": 3.29,
+  "hold_fingerprint": "f962864811616a6fe062c1774a4adf33c7ae5e99eb5f8c92eea3e05831ea4acc",
+  "validation_errors": []
+}

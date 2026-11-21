@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a87b44ac15381dfd7e222175.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "four move master",
+  "setter": "zschaw",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "4289515E0CE24A4CA73CCE911A6D2179",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1122r12p1169r12p1187r13p1270r13p1304r13p1352r13p1387r14p1448r15p1470r15p1534r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6652892e6dbd6abf8666d21ca78d2189d16b2b278ac37fed0073d318f2e6c87b",
+  "validation_errors": []
+}

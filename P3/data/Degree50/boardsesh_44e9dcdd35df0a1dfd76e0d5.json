@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_44e9dcdd35df0a1dfd76e0d5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "einarmiger Bandit",
+  "setter": "AlexanderMegos",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "912E91A2F3FD49259D453EC2E7492706",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1213r13p1267r13p1300r13p1315r13p1347r14p1467r15p1468r15p1475r15p1505r15p1523r15p1529r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.89,
+  "ascensionist_count": 18,
+  "quality_average": 3.22,
+  "hold_fingerprint": "6196741b254fe2551e8a07dbebecfca34412c8909256abb7246f71c5e7dcb5d9",
+  "validation_errors": []
+}

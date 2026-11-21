@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7f4ea487d2d4642d48c6b9fa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Reese\u2019s in pieces",
+  "setter": "cliff_shredder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "D8B64147593B4760BE0184E282B3D81E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r15p1185r15p1199r12p1238r12p1320r13p1334r13p1368r13p1383r14p1490r15p1583r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.9,
+  "ascensionist_count": 20,
+  "quality_average": 3.1,
+  "hold_fingerprint": "5f9741f0f4da61433a7872ebc7e0051343989e97c96c95dfa97feb527bb471fb",
+  "validation_errors": []
+}

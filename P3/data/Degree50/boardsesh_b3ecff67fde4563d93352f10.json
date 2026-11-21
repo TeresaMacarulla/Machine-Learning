@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b3ecff67fde4563d93352f10.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "black&white",
+  "setter": "JFF91",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "b1d853d9a94f498881cd9dfbe366db33",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1103r15p1171r12p1190r12p1257r13p1259r13p1301r13p1324r13p1353r13p1385r14p1500r15p1523r15p1558r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "b53107f4216543c9a9fe05be0d5fc10788736e8340a046967e31ce187911d6a9",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cd0fe9a7ba2da810ffd8aca7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "L.A.2",
+  "setter": "ratclaw",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "91fd13c9920a43cab7474573addeb63c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1099r15p1149r12p1170r15p1174r15p1204r15p1208r15p1219r13p1234r13p1257r13p1272r13p1276r14p1454r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "237b696352353e4ef3b9e79f267c25b2c95e9828a76ce5887b869871361d5185",
+  "validation_errors": []
+}

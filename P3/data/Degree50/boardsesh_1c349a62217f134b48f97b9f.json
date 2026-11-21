@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1c349a62217f134b48f97b9f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "louchage",
+  "setter": "rmnclimber",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "823004ac2808465ebb9f4287f655d8bb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r12p1186r15p1203r12p1274r13p1285r13p1334r13p1373r13p1383r14p1452r15p1454r15p1457r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "69b7442bb6699f4b193b1a72418021cedc04347f08c623b3acb212f634b8bb18",
+  "validation_errors": []
+}

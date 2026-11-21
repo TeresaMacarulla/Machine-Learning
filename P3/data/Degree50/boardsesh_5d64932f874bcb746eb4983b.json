@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5d64932f874bcb746eb4983b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Little Gs move in silence direct",
+  "setter": "JeroenDonders",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "80118F3C3CDB45E8A1759B519B118010",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1132r12p1180r12p1230r13p1261r13p1301r13p1314r13p1384r14p1483r15p1501r15p1510r15p1520r15p1521r15p1548r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6b67bbd8b23a6be8af8b2304faea39317bd0337d1450f1764b5fb550c973683b",
+  "validation_errors": []
+}

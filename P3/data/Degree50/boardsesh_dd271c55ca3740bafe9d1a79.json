@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dd271c55ca3740bafe9d1a79.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "ice spice shaking it",
+  "setter": "floryburca32",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "7b927b17cf5f476099a0413466eba562",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1191r15p1204r15p1234r15p1257r12p1282r15p1305r13p1308r12p1340r15p1345r15p1355r13p1367r13p1382r14p1574r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d9f6764ff89034354cf690ff5b953b1607ec8da3bfee79aa60556c5b6cb7c867",
+  "validation_errors": []
+}

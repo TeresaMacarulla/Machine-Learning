@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c64dff5a85db0cb063fb462e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Square one",
+  "setter": "Torstein",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "d71b320f-88f9-46e1-adbf-f5330344d957",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1271r13p1190r15p1136r12p1472r15p1242r15p1291r13p1341r13p1187r13p1354r13p1387r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "bb50f88d613639e564183193882471410690744fedbd474d7d9d55082ed288a1",
+  "validation_errors": []
+}

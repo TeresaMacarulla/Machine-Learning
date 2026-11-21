@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1cac882bf8fff238c85d0394.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Nightcall",
+  "setter": "Tucker",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0AAC85AB5CC1427BA93BF9AA87FB3662",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1096r15p1154r15p1180r12p1182r12p1185r13p1205r15p1218r13p1236r13p1284r13p1304r13p1353r13p1387r14p1470r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 12,
+  "quality_average": 3.5,
+  "hold_fingerprint": "d271ce7ee67ab5cf465e639aa80308ff83d0afaf70585f901cac24166fe3b067",
+  "validation_errors": []
+}

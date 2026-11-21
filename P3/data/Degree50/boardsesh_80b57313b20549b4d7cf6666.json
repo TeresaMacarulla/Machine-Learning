@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_80b57313b20549b4d7cf6666.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "suicide hook",
+  "setter": "jonasBiack",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "4794CDF620634913838A0536BECF4E41",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1123r12p1186r12p1215r15p1241r13p1285r13p1291r13p1336r13p1391r14p1450r15p1480r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d3c9299bca2ef8296e4489c16ec52077c85cb5ab120ffa19280d44e4922680b6",
+  "validation_errors": []
+}

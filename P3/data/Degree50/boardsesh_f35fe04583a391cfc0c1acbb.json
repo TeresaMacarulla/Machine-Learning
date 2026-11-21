@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f35fe04583a391cfc0c1acbb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "finger-P",
+  "setter": "von_z",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "c173c7f75fd941f0bc4703cff1bc384f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r15p1321r13p1326r13p1394r14p1542r12p1545r15p1559r12",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "75bc864227091c054e0f56e6ed0d7d427e1a21488d3e71417227ab029c43dc40",
+  "validation_errors": []
+}

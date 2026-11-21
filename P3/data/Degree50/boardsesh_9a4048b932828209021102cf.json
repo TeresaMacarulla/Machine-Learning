@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9a4048b932828209021102cf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "bean flick",
+  "setter": "Tobymatthews",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "667498aa86144b4fa8f952da266822fc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1141r15p1163r12p1192r12p1221r15p1255r15p1279r13p1320r13p1326r13p1338r13p1349r13p1395r14p1535r15p1556r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "210df8e56fd06cfa4a13d016335dddc976a714d3c5696f234d3519584a880f1e",
+  "validation_errors": []
+}

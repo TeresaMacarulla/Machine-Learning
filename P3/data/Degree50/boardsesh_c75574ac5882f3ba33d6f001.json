@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c75574ac5882f3ba33d6f001.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Collision Course",
+  "setter": "NGS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "129F3F86E61443CBADC5B0862521EB45",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r15p1096r15p1144r12p1163r12p1206r15p1229r13p1233r13p1272r13p1284r13p1310r15p1356r13p1394r14p1506r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 4,
+  "quality_average": 2.75,
+  "hold_fingerprint": "088a7c12c1aca1f084259c2febb6768d23fff2fd6723403f1bdf5e148377e205",
+  "validation_errors": []
+}

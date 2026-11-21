@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_512e967eeaeb9d4ee46bddda.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "humidiation",
+  "setter": "Lewin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "05C94253DE20449EA3BFD61CF0483D41",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1199r12p1201r12p1269r13p1273r13p1339r13p1352r13p1368r13p1372r13p1383r14p1511r15p1535r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "9578939a97f4e152b542f2b915e8b14684521c0a8381badcf4ec9bb0718a2080",
+  "validation_errors": []
+}

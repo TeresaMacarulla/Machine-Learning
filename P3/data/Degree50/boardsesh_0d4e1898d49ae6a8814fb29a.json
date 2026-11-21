@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0d4e1898d49ae6a8814fb29a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Memory Chamber",
+  "setter": "wills",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "330A0CD199024FC586D17B2B0755F7DF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1127r12p1163r12p1180r13p1218r13p1283r13p1316r13p1330r13p1379r14p1462r15p1531r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 12,
+  "quality_average": 3.5,
+  "hold_fingerprint": "39fcdaa8eb885cfa1580aff1c04eb3153b8032e7a17e4fa61681e46b4bb6ea93",
+  "validation_errors": []
+}

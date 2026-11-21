@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7e181aba8c420d4399188858.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Down in the Cave",
+  "setter": "joshuaandress",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "9db634cf10134e11b24804259415bdca",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1122r12p1123r15p1126r14p1131r13p1135r13p1144r14p1154r12p1166r13p1449r15p1452r15p1464r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "e82f5f16ad38c00d63f97c2e577538f370bb684e097a575aba3c2faf471d13bc",
+  "validation_errors": []
+}

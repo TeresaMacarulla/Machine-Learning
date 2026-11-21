@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e9e694bd00b87846d730d925.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Super Smash Bros",
+  "setter": "vukyle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "731d152ddd954951bad9df66a42e7e39",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1186r12p1216r13p1235r15p1250r13p1255r15p1283r13p1322r13p1372r13p1391r14p1454r15p1494r15p1503r15p1506r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "957fb4a71a970910c65026d78db50265fc78151d05a0cd30c218f4d4cddb6bcc",
+  "validation_errors": []
+}

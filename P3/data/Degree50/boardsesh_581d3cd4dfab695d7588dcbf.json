@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_581d3cd4dfab695d7588dcbf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "nofeet",
+  "setter": "mattnunes",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7FB48B135C264F8DA0385CACCA4383B0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1142r12p1214r13p1232r13p1253r13p1339r13p1394r14p1461r15p1462r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 20,
+  "quality_average": 3.44,
+  "hold_fingerprint": "d2c4244b65df232d9792c6f7d535f5a20c2fea0b827415947e563b0d9740f2bb",
+  "validation_errors": []
+}

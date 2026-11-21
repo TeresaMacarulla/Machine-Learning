@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_32ad85f0cf7e2b62d360e32d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "scoppvarming",
+  "setter": "Scott2211",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "64E2D20F69954924A8ED5204C87837D5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1195r12p1233r12p1284r13p1304r13p1340r13p1360r13p1395r14p1487r15p1534r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "aeaf7b172359feccdfdd6b1a1c220ffd5af020275f8937e216a966a0eb0063fe",
+  "validation_errors": []
+}

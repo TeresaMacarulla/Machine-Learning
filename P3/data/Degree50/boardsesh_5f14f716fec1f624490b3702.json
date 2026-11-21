@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5f14f716fec1f624490b3702.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "monster",
+  "setter": "liam_megos17",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5cd0f03e-faba-41f2-a6cb-d144df3d140a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1170r12p1168r15p1255r13p1339r13p1336r13p1386r14p1550r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "0fc1dcf7f1954267ecb9e1764c59f17c29be7659e3595f212eebb8ec5c0f9050",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9581c0c0117bfc8df46f2e5f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Pinch Flipper",
+  "setter": "GirthQuake",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "ED9C63765D3444708AE5F4ECB71A718D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r15p1196r12p1198r15p1228r12p1278r13p1332r13p1349r13p1387r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7a676e74a199d1b78aa5d33ab354be5f858870517133954353800c4fa78bbf64",
+  "validation_errors": []
+}

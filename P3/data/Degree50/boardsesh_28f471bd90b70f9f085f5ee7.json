@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_28f471bd90b70f9f085f5ee7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Jumping Juggernaut",
+  "setter": "reidm",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "248D531A31A5421E91F66F1A90BBD229",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1075r15p1156r12p1157r12p1257r13p1308r13p1353r13p1384r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "de9b52ab34018fc744e240f72596b41f9cff3bc0701fd519c44d5cd9174dfe5c",
+  "validation_errors": []
+}

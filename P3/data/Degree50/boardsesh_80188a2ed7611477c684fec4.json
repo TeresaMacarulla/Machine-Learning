@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_80188a2ed7611477c684fec4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "achilles",
+  "setter": "ian_",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "65265fbf-150f-447b-a3e4-0bf4caaac4e5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1252r13p1302r13p1256r13p1257r13p1156r12p1157r12p1207r13p1448r15p1280r13p1315r13p1210r15p1311r13p1380r14p1106r15p1537r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "cc0ca6a8d71cfec40e06dd245408403a5636f3e885eb07280f566584ef289328",
+  "validation_errors": []
+}

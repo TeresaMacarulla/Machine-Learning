@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_835fcd08d5bc15ece585ad50.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Jungfernstieg",
+  "setter": "coding_monkey",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9FB5474B81704F7586C2722ADB724A4C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1149r12p1234r13p1247r13p1295r13p1300r13p1331r13p1366r13p1380r14p1455r15p1528r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 6,
+  "quality_average": 4.33,
+  "hold_fingerprint": "5c519bbd7fb6e0a87ea57466ba685e6beeeb17295d72444a5221b9420b617e9f",
+  "validation_errors": []
+}

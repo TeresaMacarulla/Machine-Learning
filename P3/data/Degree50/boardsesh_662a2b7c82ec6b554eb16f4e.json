@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_662a2b7c82ec6b554eb16f4e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Punch soft",
+  "setter": "Michlkilter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "d1fb549e13c04efe9d61b671989a9dfb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1096r12p1137r15p1147r12p1170r13p1173r13p1213r15p1241r13p1270r13p1272r13p1301r13p1330r13p1381r14p1456r15p1505r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ce0f0736d1e7819ad71416583139f256a183eba58207e23c9b176e5f01fa1836",
+  "validation_errors": []
+}

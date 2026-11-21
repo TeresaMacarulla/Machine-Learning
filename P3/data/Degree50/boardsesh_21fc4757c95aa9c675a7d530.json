@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_21fc4757c95aa9c675a7d530.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Cucaracha",
+  "setter": "climbert",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1CD11F73FBAE4B6BA2B7E1C7F6CB427B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1130r15p1145r15p1193r12p1200r15p1214r12p1247r13p1300r13p1302r13p1356r13p1387r14p1542r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.0,
+  "hold_fingerprint": "381be2ac18e6a6fa3e00501f547eabc6aae2f60c651639a913e80b9666f0133a",
+  "validation_errors": []
+}

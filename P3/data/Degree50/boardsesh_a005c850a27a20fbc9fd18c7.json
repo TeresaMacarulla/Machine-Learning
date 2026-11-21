@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a005c850a27a20fbc9fd18c7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Canada Gooses",
+  "setter": "jwilder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "FBD3F81E03CC42988ECF39D8E30039E2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1171r12p1174r12p1240r13p1271r13p1289r13p1324r13p1357r13p1360r13p1394r14p1480r15p1525r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 5,
+  "quality_average": 2.0,
+  "hold_fingerprint": "de54a7afe5ec632ea17257e3f3ed6b77d6830b58d2e7b89a30e08fd4bb08cfea",
+  "validation_errors": []
+}

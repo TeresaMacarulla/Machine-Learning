@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b2cea4e4c7228cd6102b629a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Traverse",
+  "setter": "apxz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "b25401b4-e9ac-4fa1-9ffb-2fcbb593dd77",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1245r12p1142r15p1192r12p1281r13p1300r13p1235r15p1304r13p1246r15p1213r15p1302r13p1323r13p1250r15p1257r15p1359r14p1361r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 4.5,
+  "hold_fingerprint": "6f857986b88b5876a5939fde8276f4537158d257b3a17b35762da923a24cbe37",
+  "validation_errors": []
+}

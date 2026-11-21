@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9c31edbb0ec7985a816174d5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "The Mantis",
+  "setter": "bradleyheller",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "5FFFD0F096C04CF2B6565862B3FB5775",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1154r15p1169r12p1219r13p1237r13p1289r13p1340r13p1355r13p1386r14p1453r15p1506r15p1559r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "a53b0f49d44b2d3aa6d417a4a9f21853999b94b057edc5aec19940407d9022fe",
+  "validation_errors": []
+}

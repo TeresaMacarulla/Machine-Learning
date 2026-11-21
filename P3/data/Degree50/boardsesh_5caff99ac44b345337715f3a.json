@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5caff99ac44b345337715f3a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "KT1",
+  "setter": "TanakaKanata",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "79F8DE366C3C4798A55B42B55C94DE9E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1128r12p1209r13p1264r13p1281r13p1318r13p1379r14p1385r13p1459r15p1523r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "c277779ddcbb24bff76ab5dacf75ad43d1ee360db7f238c6cdbff91c308c88e3",
+  "validation_errors": []
+}

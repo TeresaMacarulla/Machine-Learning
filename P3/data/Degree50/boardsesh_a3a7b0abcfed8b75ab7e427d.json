@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a3a7b0abcfed8b75ab7e427d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Short Beta",
+  "setter": "JGuiles",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1980670696444AC5A491BD37B7136917",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1075r15p1078r15p1201r13p1205r12p1236r13p1249r15p1267r13p1302r13p1317r13p1335r13p1386r14p1487r15p1531r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.36,
+  "hold_fingerprint": "ffa85dd045e40c9d33ffbd8636184f515bfc9f0f84ad1d266197ad895739f919",
+  "validation_errors": []
+}

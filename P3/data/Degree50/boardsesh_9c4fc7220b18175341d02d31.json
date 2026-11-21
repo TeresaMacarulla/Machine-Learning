@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9c4fc7220b18175341d02d31.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "BTS#4.0",
+  "setter": "BodenThor3",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "285DED3484F84573952F7BCA0288E7AB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1211r12p1282r13p1302r13p1390r14p1483r15p1485r15p1523r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "da9ebbfc990f529ced8b6c79274350d28b00173fba8ea7bcf146b6a4c8f08fc7",
+  "validation_errors": []
+}

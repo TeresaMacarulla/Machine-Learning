@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b71fb30f685133ba2e8c06d8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "latitude",
+  "setter": "orcen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 9,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "8C593860A9544E2791793B929D2A4F9B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1190r12p1201r13p1202r13p1205r13p1214r13p1215r13p1245r13p1317r13p1336r13p1355r13p1390r14p1447r15p1453r15p1457r15p1467r15p1501r15p1503r15p1551r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9de6d1cd0fabefb59750b98dd73e47ef8adbdf60496c3efac2fa77b0ed718dcd",
+  "validation_errors": []
+}

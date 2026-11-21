@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e0c8aad70ba6529a8ac6ae6f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Shadowman",
+  "setter": "lukey_mcc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "192D345B960E43F3B32A16561534CE91",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1150r12p1163r12p1182r13p1200r15p1212r13p1249r13p1267r13p1270r13p1319r13p1385r14p1387r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8ccddf533bc2bbb95bab69e1512d6ab878ec6b44be4260add7a7db350065fc30",
+  "validation_errors": []
+}

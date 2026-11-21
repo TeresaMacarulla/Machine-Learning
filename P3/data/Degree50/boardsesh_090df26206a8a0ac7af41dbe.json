@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_090df26206a8a0ac7af41dbe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "Biceps MEGA Tour",
+  "setter": "Henri_Dubouillon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b6e6834c-95cf-471e-af6a-c4cb3abd35d7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1362r14p1279r13p1211r13p1483r15p1217r13p1479r15p1486r15p1179r13p1121r12p1134r13p1447r15p1222r13",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "d0989ea4f6b472095196070abc4120aa76ab4e65619ff4c0ccd1037757383132",
+  "validation_errors": []
+}

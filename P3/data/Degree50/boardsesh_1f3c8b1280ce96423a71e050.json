@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1f3c8b1280ce96423a71e050.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "CS10",
+  "setter": "Alex108",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "bb0f974b3ce54ce884e33f50fd87968d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r12p1166r15p1172r12p1237r13p1303r13p1340r13p1375r13p1395r14p1451r15p1482r15p1532r13p1572r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a9931ba9e98c736ec05e93e6c80f102348a9c262f681a02294d8be2ca15146d0",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_736dd7de6947366c4caf3fbe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "finger dancing",
+  "setter": "AndersBukker",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "aa6c5d79da3040689184ea9bc3e868db",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1149r12p1197r13p1282r13p1303r13p1390r14",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.99,
+  "ascensionist_count": 75,
+  "quality_average": 3.21,
+  "hold_fingerprint": "5a4ff291df52c2cf88ddb11f7deed4b43a1ff7fa03750384c69f6ffeeedf3a6d",
+  "validation_errors": []
+}

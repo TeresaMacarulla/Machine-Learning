@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e8a945362c37e4551a614e8f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "V7/8",
+  "setter": "petertorphy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "89438E77006246C3A723BB53FBE9107A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1185r12p1269r13p1306r13p1354r13p1390r14p1454r15p1540r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.33,
+  "hold_fingerprint": "5b67eb6528b963bc41ad5a35c68c9ea08c5459aa32d7c13276f56b711b679a35",
+  "validation_errors": []
+}

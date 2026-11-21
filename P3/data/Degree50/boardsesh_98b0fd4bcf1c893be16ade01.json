@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_98b0fd4bcf1c893be16ade01.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Tension dyno end",
+  "setter": "Anex",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "BB027FCA5EEF45FCBF90D5350BC7755C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1115r15p1168r12p1169r12p1181r15p1203r13p1235r13p1236r13p1267r13p1302r13p1387r14p1452r15p1489r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 47,
+  "quality_average": 3.32,
+  "hold_fingerprint": "c02797933b06cbce0a8440121428ac86450955eab25807dced3fded8dc320a54",
+  "validation_errors": []
+}

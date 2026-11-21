@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a97d66e355b81912d8c1e108.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Master Splinter",
+  "setter": "channinggray",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "7012392E6715481EAE86FE6267CD4C13",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1081r15p1153r12p1203r13p1213r15p1250r13p1286r13p1352r13p1388r14p1450r15p1453r15p1494r15p1514r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 4,
+  "quality_average": 2.75,
+  "hold_fingerprint": "d22d2339e6783ac132d1984dd414d9455b40f72c7205e3fdf6c8bd3967643735",
+  "validation_errors": []
+}

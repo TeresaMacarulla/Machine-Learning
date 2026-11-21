@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_237a763209c7f5a0509fde9f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Orions Launch",
+  "setter": "Orion",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "62925a94-0130-4e3a-8401-dd39071b5bd0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1285r13p1175r12p1125r12p1464r15p1484r15p1247r13p1197r13p1300r13p1221r15p1355r13p1265r15p1391r14p1561r15p1395r14p1353r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.33,
+  "hold_fingerprint": "22dbdf3ab5e80d3aef936d8b880e837c6da871ee5ee16bb0e3114b22f44cadda",
+  "validation_errors": []
+}

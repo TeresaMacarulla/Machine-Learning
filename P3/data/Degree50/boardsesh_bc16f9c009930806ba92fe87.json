@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bc16f9c009930806ba92fe87.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Birthplan",
+  "setter": "Zolt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "e56341708da047188b20dd89b8b1a187",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1157r15p1203r12p1272r13p1285r13p1286r13p1299r13p1367r13p1379r14p1513r15p1517r15p1521r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "7b50922dadd8ceaab39712afb6a06fafec2ca9ccbbf9286b4e4b71e50d80cf59",
+  "validation_errors": []
+}

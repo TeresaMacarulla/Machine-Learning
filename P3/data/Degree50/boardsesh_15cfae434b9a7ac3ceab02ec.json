@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_15cfae434b9a7ac3ceab02ec.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "soulsoup",
+  "setter": "leemiho2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "4e23c7fb-4294-4736-89df-3f163edc3d5f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1247r13p1216r13p1284r13p1283r13p1163r12p1130r12p1457r15p1503r15p1542r15p1387r14p1335r13p1336r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.67,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "34d2aa8fe8955160fb0883163b712b910d397ec7904734e2a8d54b8234d2638a",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c0ca16d56884c75dd0eb84f8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Campusealo",
+  "setter": "zabala",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "BBE7DB512A684C6C8AA6E73883A724C2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1130r15p1176r12p1228r13p1264r13p1265r13p1302r13p1306r13p1308r13p1378r14p1394r14p1458r15p1461r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "871efa87aecb871442612f1837127c1cfa52d230a89e9cba0ede16e636b60c10",
+  "validation_errors": []
+}

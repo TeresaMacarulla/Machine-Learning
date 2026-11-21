@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0dc3a333a602d1541a5bf085.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Dinos dynoing",
+  "setter": "scoffey",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C5B4C6228F874701B03E4E2889FC8542",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1099r15p1198r12p1200r12p1300r13p1347r13p1383r14p1530r15p1556r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2cf5e3e257c40972787a7ceacce98d4c130063fee5242cb30d6e2fb7bcadbcf0",
+  "validation_errors": []
+}

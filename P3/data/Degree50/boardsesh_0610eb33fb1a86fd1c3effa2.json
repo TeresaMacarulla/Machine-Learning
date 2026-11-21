@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0610eb33fb1a86fd1c3effa2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "el recogedor",
+  "setter": "juanitoo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6D87BBE996354E9D846084CB600EEC56",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1126r12p1127r15p1152r15p1163r12p1215r13p1236r13p1237r13p1257r13p1308r13p1361r13p1395r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "f555d50c9ec885b5af2c2ed02c7cc73ae9a31a2c62ae298f46e45658ed553d74",
+  "validation_errors": []
+}

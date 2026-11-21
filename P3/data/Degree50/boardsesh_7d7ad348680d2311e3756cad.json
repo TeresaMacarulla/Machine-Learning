@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7d7ad348680d2311e3756cad.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "EMERGENCY ROOM",
+  "setter": "SaxonCasi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "06c61a6065b547589b87a0521b03ecea",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1191r15p1224r12p1289r12p1361r13p1392r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.94,
+  "ascensionist_count": 17,
+  "quality_average": 3.29,
+  "hold_fingerprint": "4542f61e5e5ca0145adff4e7d1eb96b0302945bb2aba93565dc91f3db9a8f28f",
+  "validation_errors": []
+}

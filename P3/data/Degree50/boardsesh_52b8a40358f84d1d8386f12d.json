@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_52b8a40358f84d1d8386f12d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Dr Pinch",
+  "setter": "KilterStudio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "6135F22665D746B181C5DDC593F61153",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1191r12p1216r13p1254r13p1285r13p1332r13p1384r14p1481r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.99,
+  "ascensionist_count": 320,
+  "quality_average": 3.31,
+  "hold_fingerprint": "8530ad5b807d9c142d8064c4ba0483071e09fd8d729ec23d7b6057b329de4bc0",
+  "validation_errors": []
+}

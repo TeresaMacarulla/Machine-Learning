@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2c32f669001cfacae727d7a6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "scary",
+  "setter": "E.2.d.2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "D1333E9406BC44A1A2E572D08A8CD51C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1318r12p1320r12p1333r13p1336r13p1346r13p1362r14p1533r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "be174237caeef2adee59ae0f5882a0398b269987d55d421e0d4c006207e92bf7",
+  "validation_errors": []
+}

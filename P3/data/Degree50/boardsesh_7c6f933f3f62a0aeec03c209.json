@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7c6f933f3f62a0aeec03c209.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "crust",
+  "setter": "MagnusiumMidbto",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7F860083E62C493C80843C97307B7F7D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1160r13p1211r13p1245r13p1300r13p1385r14p1458r15p1467r15p1492r15p1510r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9522764444894323e0ba722c942109188dd9d99ac7d60ff0d440782bd457dfad",
+  "validation_errors": []
+}

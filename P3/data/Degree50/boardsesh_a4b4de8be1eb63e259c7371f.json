@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a4b4de8be1eb63e259c7371f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "tourist attraction (for a different board)",
+  "setter": "solman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "c1b29058-b006-48b3-8f41-ef285d71718a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1513r12p1523r12p1237r13p1132r15p1130r15p1525r15p1569r13p1578r13p1357r13p1391r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 1,
+  "quality_average": null,
+  "hold_fingerprint": "54d848d3ce3ea5bd6d41163bc56af77cc888e345f5d5221e3e9f94f24a3db746",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_649cc5b2616fa1dc0b7ef75b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "meeple",
+  "setter": "Oparr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3ee53b13-59fa-45f2-9963-81e34503b8da",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1241r12p1305r13p1482r15p1338r13p1384r14p1368r13p1186r12p1534r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f45775aed7555a1edfddd748fcfa595ae50cda34ecf6a7240ffd60e741a18875",
+  "validation_errors": []
+}

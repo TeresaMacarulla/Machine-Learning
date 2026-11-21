@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f30b6b417e08fac3ddd218de.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Try to breathe",
+  "setter": "Chente A",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "b764dacb-8fd1-4408-ad3c-63b7ff0b8ab4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1177r13p1245r13p1264r13p1268r13p1387r14p1463r15p1460r15p1211r13p1504r15p1514r15p1385r14p1107r15p1485r15p1522r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.5,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "0d1a44aa0f00d473b43e31ae76bd02ebd599600f7ee88f6826e6895c8add16b5",
+  "validation_errors": []
+}

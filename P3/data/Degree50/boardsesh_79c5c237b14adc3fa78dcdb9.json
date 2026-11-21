@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_79c5c237b14adc3fa78dcdb9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "ocular baggage",
+  "setter": "evanlaukilters",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "E6175DE0A58D42CCA99BFEE7398D6160",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1178r12p1217r13p1251r13p1272r13p1325r13p1368r13p1373r13p1375r13p1383r14p1462r15p1497r15p1526r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bdf8611ace1274df8469a920cb4529a8793ec81e3d74336d99010088746d84d2",
+  "validation_errors": []
+}

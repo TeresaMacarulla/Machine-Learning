@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e2d837be73d31439853913ba.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "jelloy",
+  "setter": "romeadome",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "00DB32CAD6D44DECBB35F4D9714CDDB7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1099r15p1153r12p1169r12p1221r13p1252r13p1264r13p1302r13p1315r13p1348r13p1382r14p1490r15p1504r15p1521r15p1549r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "fa5bb3c70c16b24ea189092c31d847b14a01986b3feb7d0211dc188678069afa",
+  "validation_errors": []
+}

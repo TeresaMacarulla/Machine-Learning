@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b5fb44f335bda9bd875d5fa6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "shake 'n bake",
+  "setter": "bkozina",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "E4A8EF5DB2A0454BABC51F7A7950746C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1139r12p1188r12p1189r13p1191r15p1203r15p1237r13p1288r13p1301r13p1353r13p1385r14p1482r15p1500r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "588ebdd6e6f2c3c88b9187e761702fc7e1f31a8f812385d14f1172142953533c",
+  "validation_errors": []
+}

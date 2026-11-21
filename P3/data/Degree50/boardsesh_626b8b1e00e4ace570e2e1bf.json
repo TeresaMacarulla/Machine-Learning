@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_626b8b1e00e4ace570e2e1bf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Pelles Vattenfall",
+  "setter": "gingakdksk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "586D1A16E6EF43E58F03C23A8A393931",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1149r12p1205r15p1252r13p1284r13p1306r13p1355r13p1394r14p1395r14p1454r15p1457r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8166772bf5abde5189f4bc42aae65f2d784ec809070b417a5e7d242847230d0e",
+  "validation_errors": []
+}

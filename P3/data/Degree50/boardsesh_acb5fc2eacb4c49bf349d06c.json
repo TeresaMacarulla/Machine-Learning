@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_acb5fc2eacb4c49bf349d06c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Dorsal smash",
+  "setter": "dantop",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "d8e4810d904d464badf79957b84fca1a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1233r13p1265r13p1304r13p1339r13p1393r14p1455r15p1507r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "d2e5ffb006a7b203f572dbbcf083805d5d076849cf8b98a2f95801f42aff82b4",
+  "validation_errors": []
+}

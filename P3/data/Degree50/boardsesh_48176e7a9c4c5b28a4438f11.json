@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_48176e7a9c4c5b28a4438f11.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "timstams",
+  "setter": "timothypocock",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "76043cf4-bfe7-4e6c-8fcb-de34ed32fb90",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1164r12p1167r12p1459r15p1454r15p1304r13p1505r15p1478r15p1389r14p1268r13p1251r13p1534r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7c9c589758cf2e5e523e7c5b1929f0280cb02380737493a1f8e436a70383eb9c",
+  "validation_errors": []
+}

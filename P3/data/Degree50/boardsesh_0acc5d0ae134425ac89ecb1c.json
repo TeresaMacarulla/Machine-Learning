@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0acc5d0ae134425ac89ecb1c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "heartilation reduced",
+  "setter": "lbj_kilter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "1484A5894F2C43E8B556BA5037912822",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r12p1139r12p1205r13p1240r13p1252r13p1304r13p1334r13p1351r13p1363r13p1379r14p1450r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.98,
+  "ascensionist_count": 57,
+  "quality_average": 3.59,
+  "hold_fingerprint": "a75d6ae8e9e9edb579ae2df7a1a6953b62b36203af757665f31e64404effd6a5",
+  "validation_errors": []
+}

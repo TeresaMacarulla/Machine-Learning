@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ccf04aa16b7899048535ab8d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "drop knee one",
+  "setter": "ZFL",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "662fdec3-8c5c-41b9-888e-9f0acfb426e1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1235r13p1265r13p1345r13p1449r15p1184r13p1082r15p1472r15p1162r15p1299r13p1546r15p1528r15p1383r14p1172r12",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "76b93c4be586740ec27654668b0f234f0f3e0d49d9d9b9fed702db2f7789f0a8",
+  "validation_errors": []
+}

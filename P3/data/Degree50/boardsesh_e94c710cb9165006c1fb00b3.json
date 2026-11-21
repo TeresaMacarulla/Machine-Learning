@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e94c710cb9165006c1fb00b3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Reaching, Not Climbing",
+  "setter": "shmitch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "AB249922D93F4AE4AAB93B9F7B4B3A34",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1147r12p1186r12p1198r13p1254r13p1266r13p1268r13p1319r13p1355r13p1387r14p1487r15p1514r15p1551r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "630bf54fe22fa53735804e4c6f0aba37895b522b91ed52174a4e77e813bcf467",
+  "validation_errors": []
+}

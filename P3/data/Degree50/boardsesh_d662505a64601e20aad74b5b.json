@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d662505a64601e20aad74b5b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Flu Benchmark",
+  "setter": "Benway",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 10,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "902b1f2dacb140f092149af3b783f51c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r15p1127r12p1133r15p1144r13p1158r12p1178r13p1180r13p1200r13p1231r13p1257r15p1268r13p1269r13p1286r13p1323r13p1355r13p1389r14p1458r15p1464r15p1504r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e24fdee0214ab7be3c3bab0ec032d4a16e1ffe8a078ec4279c3aea3686ceae4a",
+  "validation_errors": []
+}

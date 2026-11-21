@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_16353a64b7fb42de01a8d1fe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "helter skilter",
+  "setter": "jakedotclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "3055D1A4C4F74CA18C8C52EFD60695E9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1131r12p1215r13p1251r13p1320r13p1358r13p1384r14p1387r14p1459r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "cb0eb576970b9313e3de71a692bf11afd2643c4488e1dc8bf3cf2e1067ff2a32",
+  "validation_errors": []
+}

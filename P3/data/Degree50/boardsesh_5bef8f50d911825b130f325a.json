@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5bef8f50d911825b130f325a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Go for a Ride",
+  "setter": "ErezByte",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2b682242aada47339615e9d3909b9d1f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1157r15p1191r15p1221r13p1272r13p1306r13p1353r13p1354r13p1382r14p1480r12p1515r13p1588r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "852c28d6de5b06268feba3f274815809f880d1e3baa77a796f164663614e9968",
+  "validation_errors": []
+}

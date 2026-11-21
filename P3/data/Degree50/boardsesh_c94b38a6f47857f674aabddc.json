@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c94b38a6f47857f674aabddc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "run from fed",
+  "setter": "Lewin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1350488C44904D0AB252A7E0A09ABEF5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1151r15p1168r12p1185r13p1230r13p1286r13p1333r13p1351r13p1379r14p1459r15p1521r15p1577r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "f5f0b90036e96a68bc390eb567753b0093c15dc56b6ea96689087b91c07c3737",
+  "validation_errors": []
+}

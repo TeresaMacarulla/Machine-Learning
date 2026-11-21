@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9469b86cd9b534a6153832e7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Deblateable",
+  "setter": "importedbean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9EF09119F55C4788BCDBD7F0301B36DD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1138r12p1169r13p1201r13p1214r13p1261r13p1265r13p1332r13p1380r14p1447r15p1451r15p1470r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 66,
+  "quality_average": 3.45,
+  "hold_fingerprint": "15b05a3f2ff99230f06aa3b179ce5eb91123a46487ec8681293200be96cdad92",
+  "validation_errors": []
+}

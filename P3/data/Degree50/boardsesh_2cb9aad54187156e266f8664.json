@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2cb9aad54187156e266f8664.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Calhalla",
+  "setter": "JamieBarendrecht",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1f978bda078049c5ad8afaaf2b02257d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1206r12p1208r12p1276r13p1283r13p1304r13p1305r13p1351r13p1389r14p1482r15p1509r15p1532r15p1542r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 13,
+  "quality_average": 3.31,
+  "hold_fingerprint": "3ed5f57073264c7cd4a59bd83558f19854fe0c4326d0a6ea43e5b90867139869",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e7d729cb9b91b73bdf726cd7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Juniper",
+  "setter": "Thatsprettybrad",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "53678DD7861E4EEBAD9D054746378FFE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1110r15p1117r15p1149r12p1165r15p1198r13p1220r15p1254r13p1271r15p1285r13p1304r13p1357r13p1390r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.97,
+  "ascensionist_count": 61,
+  "quality_average": 3.25,
+  "hold_fingerprint": "b5e36fd759e5576ab087e6127336dcf86fb6443b212df37ac7a0d0675f2365c7",
+  "validation_errors": []
+}

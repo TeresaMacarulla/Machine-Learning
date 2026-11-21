@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0b85e6c18f00bbc033516c02.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "recreate",
+  "setter": "charlie.gp",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2515ff1a-d95a-4259-b51c-dd688c0611dc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1163r12p1195r13p1233r13p1247r13p1300r13p1347r13p1381r14p1460r15p1456r15p1131r15p1199r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.33,
+  "ascensionist_count": 21,
+  "quality_average": 3.1699999999999995,
+  "hold_fingerprint": "2c1bdf19ac4cf59a095ae59bb7df547622b7f12984d29ca319f2712fe4c8b2e3",
+  "validation_errors": []
+}

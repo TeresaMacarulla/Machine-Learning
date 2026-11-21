@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_634ec6af52fa613f5b58e942.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "bushBB",
+  "setter": "Aschuler95521",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "DC3D0BCCE10D42FD97B4F9618F93211E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1145r12p1146r12p1170r15p1216r13p1250r13p1304r13p1371r13p1388r14p1504r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c4c6f8d8b4c9f0cfe4d3e0fcd174160249c8ebe5fd7ed55d0ccd55bcbbd85da0",
+  "validation_errors": []
+}

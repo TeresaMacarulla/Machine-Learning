@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4d947284901e0675759e6d77.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "powswow",
+  "setter": "bello",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "08E6CEF303B64C39A7AFB1FEE3D3CEE9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1198r12p1252r13p1317r13p1369r13p1383r14p1459r15p1468r15p1477r15p1532r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.88,
+  "ascensionist_count": 16,
+  "quality_average": 3.25,
+  "hold_fingerprint": "15b73635c2e6f20f3a363ce9611b76524f4f0c03bc8e47f3c8ceb55a2b979a92",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_778f5e9390ce8aed04981a84.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Dog jump",
+  "setter": "lucaboretto",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "FE0E7B113A1F4F44831B946BD4C07AB5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r12p1231r13p1263r13p1317r13p1334r13p1355r13p1387r14p1460r15p1504r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 15,
+  "quality_average": 3.67,
+  "hold_fingerprint": "5f4dab8c26aaa3f192daffa715d6132990c19579065bcd25d1bade5762cf00e8",
+  "validation_errors": []
+}

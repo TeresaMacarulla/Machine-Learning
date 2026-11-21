@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_50d60567bc40edc097f16f94.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Punch hard",
+  "setter": "Michlkilter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "d48d094b022740c389b9e4a686e8c103",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1096r12p1147r12p1170r13p1241r13p1270r13p1301r13p1330r13p1381r14p1456r15p1505r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c09db3146f4de99aa8b23104edd61e77d53511f6ee8bda4976494e966ed88222",
+  "validation_errors": []
+}

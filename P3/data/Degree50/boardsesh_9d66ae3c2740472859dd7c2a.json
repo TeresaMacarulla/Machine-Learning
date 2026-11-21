@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9d66ae3c2740472859dd7c2a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Downtown",
+  "setter": "Hacksaw",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1D979BD942184D1EB67CA2AA9C6244BD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1134r12p1190r15p1237r13p1242r15p1272r13p1339r13p1375r13p1387r14p1455r15p1566r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.88,
+  "ascensionist_count": 8,
+  "quality_average": 3.75,
+  "hold_fingerprint": "178d56b9f2a5c765ffe316734734f01d26df089cac55db1a6d489c9648f33406",
+  "validation_errors": []
+}

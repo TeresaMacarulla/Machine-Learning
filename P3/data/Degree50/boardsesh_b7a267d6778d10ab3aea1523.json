@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b7a267d6778d10ab3aea1523.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "weird ahh moves",
+  "setter": "jchongsend",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "d79bb1a4-766b-4894-abf0-8c0ec30b1f77",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1215r13p1269r13p1308r13p1343r13p1391r13p1487r15p1471r15p1386r14p1503r15p1248r13p1554r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "267305b176c1d97ff5bac22b74883222cca3013c916de42d36dc685d879553af",
+  "validation_errors": []
+}

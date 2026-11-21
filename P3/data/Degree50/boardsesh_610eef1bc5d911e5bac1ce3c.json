@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_610eef1bc5d911e5bac1ce3c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Paper Mache Mask",
+  "setter": "Snow25",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "38D60BC2502C4433BCCCBDD1B3B585A4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r13p1189r12p1235r13p1270r13p1325r13p1391r14p1447r15p1453r15p1494r15p1496r15p1508r12p1545r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1c16b36c209f14c95e68c60318431edd2c056107400d3ae08fe8e6ce09594808",
+  "validation_errors": []
+}

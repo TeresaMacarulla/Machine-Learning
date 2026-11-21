@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8c2ec8ca0f27cc0a8c8479dc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Doom",
+  "setter": "krimdogbillionaire",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "172DF3D2CF3C4AAFBCCBED7CD726CCA8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1135r12p1233r13p1261r13p1318r13p1352r13p1390r14p1455r15p1467r15p1501r15p1521r15p1551r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 18,
+  "quality_average": 3.56,
+  "hold_fingerprint": "80b71a6f88090fade117e3ab39d861becfa717d63aafca3bef3ae28784678739",
+  "validation_errors": []
+}

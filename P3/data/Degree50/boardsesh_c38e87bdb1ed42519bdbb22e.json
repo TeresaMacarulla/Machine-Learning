@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c38e87bdb1ed42519bdbb22e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "LangerChen",
+  "setter": "rollo8",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "F0FB42339D6F43FBA0A82843941460D0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1105r12p1117r12p1139r13p1204r13p1271r13p1284r13p1320r13p1352r13p1389r14p1447r15p1451r15p1548r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "4ec3c627a1d8b61399cbf64a7c77926403a3f59eb5ec095bb79b26b33ae8f7d6",
+  "validation_errors": []
+}

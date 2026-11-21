@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e46d517248a9379d42bc35b0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Relearning to Campus",
+  "setter": "jorx",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "fe3cef4bf2ea4fba9f0478a940c9d416",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1159r12p1160r12p1248r13p1254r13p1271r13p1291r13p1326r13p1395r14p1554r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.75,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "ad3346c8180674f6d12d916b35ef05c6a3b5baaaa5657d551f9b5036ea6b771b",
+  "validation_errors": []
+}

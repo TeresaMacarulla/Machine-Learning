@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5a0d45f1b879532c561b4494.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Do the Twist",
+  "setter": "GirthQuake",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "3AF7263A5B4C46A7846B6870D20003BD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1128r12p1182r13p1248r13p1286r13p1287r13p1289r13p1343r13p1393r14p1458r15p1494r15p1513r15p1532r15p1534r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.2,
+  "hold_fingerprint": "8ede6574276cc297730039fedaf001dd8f9430218e41f20564a338ef71039264",
+  "validation_errors": []
+}

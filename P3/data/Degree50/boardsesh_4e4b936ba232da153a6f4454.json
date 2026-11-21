@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4e4b936ba232da153a6f4454.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "cut the tape",
+  "setter": "osianparry2345",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "66078640ADC74FE0AD45A4980F3F60E9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1168r12p1240r13p1269r13p1337r13p1387r14p1451r15p1456r15p1491r15p1497r12p1517r15p1534r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "402af9c5ab5a42e18a2288512f1b2519ad341a7bdd72140ff0e1db4c7bbc6b45",
+  "validation_errors": []
+}

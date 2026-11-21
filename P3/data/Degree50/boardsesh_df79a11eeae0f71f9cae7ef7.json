@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_df79a11eeae0f71f9cae7ef7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Limbo",
+  "setter": "steil_boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "11608015C9944319B12178E43C4AC0EE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r12p1134r12p1167r13p1177r15p1265r13p1278r13p1298r13p1338r13p1389r14p1452r15p1506r15p1512r15p1520r15p1542r13p1562r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.93,
+  "ascensionist_count": 31,
+  "quality_average": 3.33,
+  "hold_fingerprint": "678b7aa945d27dc6aa4ff0734910e4b2762251e1a4ecae1b58665d9abe3b7fda",
+  "validation_errors": []
+}

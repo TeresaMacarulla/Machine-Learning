@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c3dbb2929834ebc3141becf8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Pride and Prejudice",
+  "setter": "RavioliTriceps",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "E11AE0D9BCAD442DB4532A0B81236435",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r15p1163r12p1244r12p1265r13p1266r13p1287r13p1320r13p1341r13p1391r14p1548r15p1560r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 34,
+  "quality_average": 3.44,
+  "hold_fingerprint": "d62d0bc7cdb5d5826e11cf3c7224d6989da7b740965c7e34f727a6ef5228d3e5",
+  "validation_errors": []
+}

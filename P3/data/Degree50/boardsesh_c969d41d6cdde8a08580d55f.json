@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c969d41d6cdde8a08580d55f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "riposte relance",
+  "setter": "max_rav",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "9864169402f54ca7851608bd4d76af48",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1184r12p1202r12p1250r13p1302r13p1371r13p1391r14p1470r15p1495r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "5cc48c5d1af4e8836f0189aae85e8cf9b4ba8d8a8342f5ca43a94e61e89bbba4",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cbdc6524e6f620176b7b9662.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "show snake",
+  "setter": "TheAtomBaum",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "4729B393F64A4A2FB4FCB0BBFACA7453",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1154r12p1178r15p1220r13p1231r13p1233r13p1235r13p1264r13p1333r13p1386r14p1472r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.97,
+  "ascensionist_count": 211,
+  "quality_average": 3.33,
+  "hold_fingerprint": "8204a2b7492554ee5bd0da8d593b3c8f7c1cb5dcdeeba6245dc490775b42ddac",
+  "validation_errors": []
+}

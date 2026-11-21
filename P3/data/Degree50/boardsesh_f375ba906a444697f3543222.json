@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f375ba906a444697f3543222.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "180\u00d7180",
+  "setter": "baptiste38",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5107da2a7476465ebc7fa51898fee99c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1168r12p1169r12p1252r13p1291r13p1342r13p1358r13p1371r13p1384r14p1470r15p1516r15p1526r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.91,
+  "ascensionist_count": 20,
+  "quality_average": 3.7299999999999995,
+  "hold_fingerprint": "88efe4c326249b690c1f3161cfd0b29eb21131e7b1e1ff8629b78f237d2d2bc0",
+  "validation_errors": []
+}

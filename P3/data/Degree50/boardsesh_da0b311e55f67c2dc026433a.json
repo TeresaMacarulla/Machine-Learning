@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_da0b311e55f67c2dc026433a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "paddler",
+  "setter": "cwlester",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8A7EF930C30C4A47B679CAAE9B4024C0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r15p1163r12p1198r12p1219r13p1260r15p1271r13p1308r13p1320r13p1331r13p1353r13p1365r13p1379r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "1f8666fa8cfda976a2a4c05d12a5fe07d78d1a12f7993418ef85842ab936c8e2",
+  "validation_errors": []
+}

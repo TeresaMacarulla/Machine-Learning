@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f00a01020bab58cb277d8a9e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Broccoli",
+  "setter": "4nn4nkilter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0e7d97479a654a97b9727bb1231698e3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1215r12p1234r12p1298r13p1300r13p1331r13p1383r14p1485r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ef270ecf5c15e4bc4b5f6aa7c57821528ae5f5b0f466212ac3176c5e7b02b0dc",
+  "validation_errors": []
+}

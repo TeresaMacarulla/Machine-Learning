@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b7de11878712c4f22b64f9ae.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "grand escape",
+  "setter": "sage_D_sailor",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "95F7F04BED0F43E1B2DDF12835D0CC22",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r15p1154r15p1200r12p1236r12p1266r13p1302r13p1350r13p1387r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.94,
+  "ascensionist_count": 18,
+  "quality_average": 3.67,
+  "hold_fingerprint": "a79205e7d0df1981f3f33992949deac030d524ef4a3a116d645cdd38df5ccb44",
+  "validation_errors": []
+}

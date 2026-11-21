@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7e9bf9462d2f9fde672baa53.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Bainors",
+  "setter": "juligris",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "b6d64522f37b4387b9798473f6745cc3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r15p1145r12p1163r12p1198r13p1215r13p1249r13p1280r13p1333r13p1367r13p1387r14p1459r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "da85f9a0e2b134abb749cda44cfa3af533500a96aa20408b79e5a95f30a465de",
+  "validation_errors": []
+}

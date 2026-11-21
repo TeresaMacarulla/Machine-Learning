@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b0102acb28d5297c02fe9a16.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Dark Magnus Opus",
+  "setter": "bouldergotbry",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "f700251a-cd66-478f-a896-252c92e513ad",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1184r12p1494r15p1172r13p1241r13p1473r15p1272r13p1322r13p1283r13p1521r15p1503r15p1334r13p1330r13p1363r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "bbdba3e2c406ee84e6484955258cdc9ca3798ca9bed6146add11253100c2b1ab",
+  "validation_errors": []
+}

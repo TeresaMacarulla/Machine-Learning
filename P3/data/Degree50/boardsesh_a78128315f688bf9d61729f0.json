@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a78128315f688bf9d61729f0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "simple-ish banger",
+  "setter": "JakeSully",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "e58f1d4d53dd4a22821667c0bd2f2288",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1240r12p1272r13p1274r12p1320r13p1387r14p1506r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "12b60f59f750e7e134973b487d4576cdb6c31e84a1341b2105a888b73c1f3ed6",
+  "validation_errors": []
+}

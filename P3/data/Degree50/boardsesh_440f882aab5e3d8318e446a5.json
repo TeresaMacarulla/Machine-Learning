@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_440f882aab5e3d8318e446a5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Stile It",
+  "setter": "rwbrazell",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "E0244222129345F883013A6D550BCA4F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1141r12p1177r12p1214r13p1249r13p1303r13p1355r13p1393r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6b314aadc6d00cf28f0c6c00cd62ab3aec9069b27928e1543b01c36f97b4d543",
+  "validation_errors": []
+}

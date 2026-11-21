@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d351eb5aa7c1e7653010180f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "volando pies",
+  "setter": "JaviBrazo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4b5c7344b8da4e20bf742850bc8c49a6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1161r12p1175r12p1263r13p1280r13p1301r13p1338r13p1370r13p1391r14p1464r15p1542r15p1551r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bcf54bd9dbcbebb3c5da20236f132cd3c062a728e03e21848bb97c60b2294b57",
+  "validation_errors": []
+}

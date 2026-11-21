@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cf01d887a9855b3a85da77a0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Exposure to the Elements",
+  "setter": "NGS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "645F4D89402447859F35E7E1294B7A9C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r15p1132r12p1199r12p1256r13p1274r13p1335r13p1340r13p1368r13p1380r14p1500r15p1515r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "7e9c92dd4787cfc62076cc86565af2737c518e3dec43b54d5118a7bba23a2dda",
+  "validation_errors": []
+}

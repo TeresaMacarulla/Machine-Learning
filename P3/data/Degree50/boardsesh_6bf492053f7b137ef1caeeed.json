@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6bf492053f7b137ef1caeeed.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "slopercity",
+  "setter": "nivos",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "88269d9d81dc4e45b4ee8eb304943834",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1154r12p1235r13p1271r13p1320r13p1358r13p1391r14p1452r15p1496r12p1544r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 5,
+  "quality_average": 4.2,
+  "hold_fingerprint": "0ffd9325b2959d4b76dce97a98f85b094911ac15009ec8b0395496eea4f9872b",
+  "validation_errors": []
+}

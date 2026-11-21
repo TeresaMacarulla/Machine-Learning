@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ac224595eee856cf3681f435.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "black hole snake",
+  "setter": "brianclanton",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "93533a792b17438b802267bb2d377971",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1151r15p1181r15p1201r12p1222r12p1270r13p1304r13p1340r13p1391r14p1526r15p1544r15p1550r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "90c280a508a2ae7dacce24a6d921052356f2e79d241c6ac3d08585e2cf0ba7b5",
+  "validation_errors": []
+}

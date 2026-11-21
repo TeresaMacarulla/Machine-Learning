@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ef7eab2f623d47aecade8fc2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "radio silence",
+  "setter": "bunsoclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "09140A348EDD4AD18FAF760E82B373B0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1213r13p1248r13p1269r13p1316r13p1333r13p1380r14p1463r15p1525r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "ea7e5fcf8351997b1ab83c9b38ee8f1c8aa2dc2436d8a724da52ca3a9e3cc602",
+  "validation_errors": []
+}

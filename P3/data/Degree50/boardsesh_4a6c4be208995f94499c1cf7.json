@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4a6c4be208995f94499c1cf7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Paco",
+  "setter": "Vroni",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FFCF27FC2BD7401BA6C75C6EA8938699",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1190r13p1256r13p1304r13p1325r13p1349r13p1370r13p1382r14p1447r15p1518r15p1577r15p1588r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 42,
+  "quality_average": 3.45,
+  "hold_fingerprint": "f97c920f9bce2b4c4156d6f733dda032ae16667ab5a7bf0b083f42d7960a47ad",
+  "validation_errors": []
+}

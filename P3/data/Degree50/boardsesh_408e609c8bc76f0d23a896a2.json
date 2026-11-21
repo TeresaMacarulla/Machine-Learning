@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_408e609c8bc76f0d23a896a2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "1800-fight-line",
+  "setter": "BLpat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0fe3516841a349a3a9b6f40a950829e6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1187r12p1189r12p1250r13p1266r13p1270r13p1352r13p1365r13p1381r14p1472r15p1491r15p1521r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "232c9edb381098a4843da174091021a9c4f9025410d4cd328050685cf9613c10",
+  "validation_errors": []
+}

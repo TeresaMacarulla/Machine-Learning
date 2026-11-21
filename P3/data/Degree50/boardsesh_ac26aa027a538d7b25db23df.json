@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ac26aa027a538d7b25db23df.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Baby Cobra",
+  "setter": "ArchMcG360",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "32A44EED5D8C4F38B13A89EBD738AACD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1163r13p1166r15p1212r13p1249r13p1280r13p1300r13p1350r13p1387r14p1458r15p1474r15p1492r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f7df25033968178ea863b450e3d383f8a1b95ffb864031f9d35f4c114ceea17f",
+  "validation_errors": []
+}

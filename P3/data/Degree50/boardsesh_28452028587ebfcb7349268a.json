@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_28452028587ebfcb7349268a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Snake bite",
+  "setter": "@ndrewxplores",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "62b38d4f-4998-45eb-b55a-55197c04a076",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r12p1180r12p1235r13p1291r13p1356r13p1357r13p1386r14p1478r15p1489r15p1469r15p1154r15p1190r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.67,
+  "ascensionist_count": 3,
+  "quality_average": 3.33,
+  "hold_fingerprint": "a897a66cc5b6ea349d4d9300e62d3a2c51feffe689b07970d4e207aaa2cd0d5d",
+  "validation_errors": []
+}

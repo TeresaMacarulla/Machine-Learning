@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8b8659ccd0af54c187a4cfe6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "KCS2 IM1",
+  "setter": "Timmes",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "14F6DF51BBD74FD798C806B4F0524EF5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r12p1155r12p1206r13p1219r13p1253r13p1264r13p1284r13p1318r13p1331r13p1381r14p1450r15p1471r15p1490r15p1505r15p1528r15p1529r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "0f8d3aa05a9787cb0c81baeeb1961c833701f531fcb4e141448f9cf5ca048c0c",
+  "validation_errors": []
+}

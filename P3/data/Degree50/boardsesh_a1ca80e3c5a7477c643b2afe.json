@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a1ca80e3c5a7477c643b2afe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Patatrack",
+  "setter": "confortbenoit",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6b8bd2a0e341415aaa993e99c8d7cfbb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1209r12p1280r13p1300r13p1345r13p1379r14p1483r15p1485r15p1557r12",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "790e94ad2968588b5e9ec6ad8497c8874456fdb880ed8fed0d0287c32d02da88",
+  "validation_errors": []
+}

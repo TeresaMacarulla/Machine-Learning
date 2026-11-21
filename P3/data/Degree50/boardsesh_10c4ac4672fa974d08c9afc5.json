@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_10c4ac4672fa974d08c9afc5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Eskom",
+  "setter": "CRPTA",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6F12BFC3727B4D2EA8AA5E8357B82595",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1124r12p1143r12p1199r13p1204r15p1214r13p1285r13p1331r13p1381r14p1464r15p1506r15p1555r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "93162ef33ce617df21066fca0229c79b0ed35603ba6cab038c32315cc344dccd",
+  "validation_errors": []
+}

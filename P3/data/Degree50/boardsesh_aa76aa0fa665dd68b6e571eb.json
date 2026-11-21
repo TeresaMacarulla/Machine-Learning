@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aa76aa0fa665dd68b6e571eb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "De-activation protocol @50",
+  "setter": "GeorgeFoerster",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "BCBCA824676940DD98635D874EF30F3E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1176r12p1179r13p1218r13p1231r13p1275r15p1285r13p1323r13p1375r13p1395r14p1465r15p1487r15p1502r12p1503r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ce004fe24d6e88bc4f4f6903bded448583221dc0e231ab785dc0de88aa02f28c",
+  "validation_errors": []
+}

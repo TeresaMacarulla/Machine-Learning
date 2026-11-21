@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8caf122084262a073b9e7448.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Tung Tung Stick",
+  "setter": "Fat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "4809da20-dff7-46e4-b3e2-9e8be2637609",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1458r15p1461r15p1215r13p1266r13p1287r13p1475r15p1487r15p1182r15p1322r13p1342r13p1516r15p1392r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": null,
+  "hold_fingerprint": "40968e71658ef2f49998a48ccf2e5758b73d074d45ba6d5b586167927346021d",
+  "validation_errors": []
+}

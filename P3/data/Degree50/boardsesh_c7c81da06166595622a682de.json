@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c7c81da06166595622a682de.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "seeing is believing",
+  "setter": "gianiclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "989ee9f4973d42a98ee207eeb635d015",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1098r12p1152r12p1169r13p1189r15p1271r13p1283r13p1334r13p1346r13p1379r14p1459r15p1478r15p1504r15p1529r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.98,
+  "ascensionist_count": 60,
+  "quality_average": 3.31,
+  "hold_fingerprint": "7435dff2186e5e7d96ab4885374d89b6aed546b2cd07c651e9d8aabb0e1e3745",
+  "validation_errors": []
+}

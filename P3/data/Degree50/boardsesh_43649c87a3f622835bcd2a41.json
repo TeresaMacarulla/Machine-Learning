@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_43649c87a3f622835bcd2a41.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Tannhauser Gate",
+  "setter": "v0finessee",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "106553A416AB48D99DCCA87B23F6DDA3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r12p1240r13p1252r13p1321r13p1369r13p1384r14p1450r15p1482r15p1495r15p1499r12p1516r15p1542r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 4.2,
+  "hold_fingerprint": "ea7f6b8a7a2e3b342dcf168cb13c866269c798e1038b23d887beefd49e290fe1",
+  "validation_errors": []
+}

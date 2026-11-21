@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_be526815b3c4e5be54802ed4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Mini Gap",
+  "setter": "lp_corbeil",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "5f77fd2572c14f5384a21ab604dd8945",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r12p1125r12p1197r13p1263r13p1285r13p1336r13p1367r14p1464r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.33,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "b499d205b5826f83387853e808b2a8921142dde412b66022f0f5689bf145693e",
+  "validation_errors": []
+}

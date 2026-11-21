@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fcfd8e14137f818cfbc3b1dd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "singul\u00e4rer simplex",
+  "setter": "derwelt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "7190a9be6ce7414891077b1577e8f57c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1128r12p1166r12p1269r13p1270r13p1276r13p1358r13p1392r14p1394r14p1527r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.98,
+  "ascensionist_count": 153,
+  "quality_average": 3.42,
+  "hold_fingerprint": "7eb1f2674a03bc1cd9ca4de19db590ed4dd8b950b1a7ed99af8d403c61ad7c65",
+  "validation_errors": []
+}

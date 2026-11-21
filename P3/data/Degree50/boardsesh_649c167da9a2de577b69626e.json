@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_649c167da9a2de577b69626e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "data analytic var",
+  "setter": "lrench",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "944AF2D67C34420E873788968E0A4A75",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1153r12p1156r15p1169r12p1208r13p1239r13p1294r14p1297r13p1308r13p1315r13p1317r15p1318r15p1353r13p1391r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.8,
+  "ascensionist_count": 6,
+  "quality_average": 3.4,
+  "hold_fingerprint": "959b9668c62cdf35871d9fb9c215a3cea653298a0ee112ea25dcc153d9be6df8",
+  "validation_errors": []
+}

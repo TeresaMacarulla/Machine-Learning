@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cf6d7c9d8a9cc344897c6478.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "also for tiny people",
+  "setter": "gabepld",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5718FA3BE20D496CA15E0645DD1CC344",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1166r12p1219r13p1267r13p1316r13p1349r13p1386r14p1455r15p1530r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "8bcf3add2a7d7072b1a5323ed41d1bb0bd8a93058afe32b4de81cfd8c322fa5a",
+  "validation_errors": []
+}

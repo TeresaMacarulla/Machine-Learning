@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4d008dedbec01aaf733c066c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Pulsar",
+  "setter": "demyanek",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "CC823D603C0E4D07AC3C5B78A1F059E8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1150r15p1163r12p1248r13p1252r13p1336r13p1387r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.01,
+  "ascensionist_count": 197,
+  "quality_average": 3.38,
+  "hold_fingerprint": "4cacde0b43c9adc4322052fd4658b4ecf38149e6cba6f5276545b65ce89c6c75",
+  "validation_errors": []
+}

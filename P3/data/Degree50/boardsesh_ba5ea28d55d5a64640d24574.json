@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ba5ea28d55d5a64640d24574.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Grow!",
+  "setter": "JGuiles",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "6E3C7FED35D1438881AFC8364C534C7E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1142r12p1163r12p1212r13p1248r13p1296r13p1334r13p1335r13p1389r14p1512r15p1528r15p1542r15p1580r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "6cbd641ad0942677fd12dc7f2f1216ee329e3e92b12d8c25e561e70414c93297",
+  "validation_errors": []
+}

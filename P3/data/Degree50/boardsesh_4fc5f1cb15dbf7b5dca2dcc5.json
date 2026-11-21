@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4fc5f1cb15dbf7b5dca2dcc5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "phone handstand",
+  "setter": "bloop",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "9d9904f651f94071b6ab9301894ec2c9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1119r12p1139r12p1222r13p1269r13p1300r13p1320r13p1325r13p1395r14p1473r15p1554r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "d5b6b731734a28ee28137e75203aaa31f91b40401cb852d254fc5f6bec60f2e7",
+  "validation_errors": []
+}

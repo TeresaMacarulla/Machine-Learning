@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3ecf00708aa2ffddae16b061.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "v4plus",
+  "setter": "Cubesnail",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "47ad3d483230442a95f28e0e7a3bb613",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1161r15p1185r12p1212r15p1215r13p1250r13p1255r15p1266r13p1337r13p1387r14p1454r15p1471r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "d8c9615bfa0db0a062dfa3e9e8ecd988c50a50fc1ec1f579dfc4345f123f7bf1",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ef26fed8d138ef7829c5a5e0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "RAT(1)",
+  "setter": "ratclaw",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "07038c450459491890a45a7dc3bf5a8b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r15p1204r12p1207r12p1271r13p1306r13p1337r13p1372r13p1385r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "19e467be47152c93deee9106df2a89d33412e9ae6b4fa646ae9a196a030c1beb",
+  "validation_errors": []
+}

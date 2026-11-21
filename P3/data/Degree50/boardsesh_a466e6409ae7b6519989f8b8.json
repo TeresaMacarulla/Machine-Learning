@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a466e6409ae7b6519989f8b8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Beine hoch",
+  "setter": "raphael78",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "9e3ba4ebd0c54c2383e07fd38cc3bc98",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r15p1255r15p1268r12p1292r14p1302r13p1308r14p1340r13p1353r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "99f2172bbc3bce292c41be1ae48efaf02e25a32bad6ed68e90614074e5bffad8",
+  "validation_errors": []
+}

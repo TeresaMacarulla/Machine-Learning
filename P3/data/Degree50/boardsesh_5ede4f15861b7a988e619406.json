@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5ede4f15861b7a988e619406.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Big Kilter Energy",
+  "setter": "alfyrmdzn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "6858cddbad9843c3915506a8ee727a1b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1130r12p1230r13p1232r13p1274r15p1283r13p1339r13p1372r13p1394r14p1493r15p1497r15p1511r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.99,
+  "ascensionist_count": 185,
+  "quality_average": 3.2400000000000007,
+  "hold_fingerprint": "485bbfd589029d8ac4debffce3ccc38f34432a713c1df6e53501103d1b989f45",
+  "validation_errors": []
+}

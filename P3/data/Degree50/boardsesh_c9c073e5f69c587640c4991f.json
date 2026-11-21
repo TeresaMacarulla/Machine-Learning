@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c9c073e5f69c587640c4991f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Flying Kermit",
+  "setter": "Kerem",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "9aa57c63-52e5-4de0-8ca2-36d313954f5d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r12p1111r12p1166r13p1165r13p1197r13p1198r13p1247r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4a0ef5289827171d0fea0b1b080f86eda4e629429b36efd063b4de878d28ef0d",
+  "validation_errors": []
+}

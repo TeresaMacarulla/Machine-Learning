@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5f7e1bdcb3b687f29a702f8e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Degaussed",
+  "setter": "jakeherrer54",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "36403F5FC2A04E20ACC02F02633F523D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1127r12p1163r15p1164r12p1217r13p1233r13p1239r15p1251r13p1299r13p1304r13p1308r15p1373r13p1395r14p1456r15p1488r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "9c18a98751facf826c791e6362eea58985ec55907db5892da91a9e1e90681f7a",
+  "validation_errors": []
+}

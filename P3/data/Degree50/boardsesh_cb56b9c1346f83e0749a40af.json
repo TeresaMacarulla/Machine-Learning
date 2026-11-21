@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cb56b9c1346f83e0749a40af.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "election day",
+  "setter": "axelc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "5556a46c-b1c0-4f3b-81e3-4d8e30918889",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1214r13p1261r13p1347r13p1228r13p1455r15p1459r15p1158r15p1382r14p1145r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "f27e569700bb39e7452f732821afe54c1949c4fcc6c2b52da45cabf65f3d2e2c",
+  "validation_errors": []
+}

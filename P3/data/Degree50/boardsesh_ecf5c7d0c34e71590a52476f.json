@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ecf5c7d0c34e71590a52476f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "introbird",
+  "setter": "jamescor",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "578f59736476409ab3fa9e194c41583a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1110r15p1164r13p1195r12p1215r12p1218r13p1287r13p1336r13p1386r14p1474r15p1516r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "b94d56cd91be35e32b80f669033ebbfe02e400f3a39a1941a236690988c62443",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_139e935a55432666000a19a9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "shungledungle",
+  "setter": "bkbskilterboard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "539563399B0A4191B3A6D5576A3C99F4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1131r15p1149r12p1151r15p1166r12p1171r15p1208r15p1234r13p1236r13p1239r15p1249r15p1256r13p1270r13p1308r13p1313r15p1320r13p1336r13p1385r14p1457r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "f611cefa78980ea256e930e1d208844fec197fc9466868fd119ce0af534d30ad",
+  "validation_errors": []
+}

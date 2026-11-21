@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_461a2442837e9db54be420ef.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "short start",
+  "setter": "Qwiedle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "C32774BA82F445D8B77C109AC669CDDD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r12p1114r12p1160r15p1200r13p1247r13p1302r13p1319r13p1389r14p1391r14p1531r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "dd5bebfb3b8cbad76beee3cc49f8fdede406967db2bde97955b915a962264721",
+  "validation_errors": []
+}

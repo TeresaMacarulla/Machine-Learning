@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fd81b553791d128c6db299fc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "flaeskefjaes",
+  "setter": "joachimf1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3340691DCD3443D5803B4D3BD2BDC868",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1169r12p1183r12p1202r13p1214r13p1250r13p1300r13p1349r13p1367r13p1379r14p1468r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "64893ec9b2dcf84eb1bba2923086db6a3f163bb0ea6b98bff16eb802155f37a5",
+  "validation_errors": []
+}

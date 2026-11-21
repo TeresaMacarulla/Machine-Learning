@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e7c0975717fb39259d736337.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "metabolic overload",
+  "setter": "TimonS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "86033f1806794987bf333d3aecc38cf9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1096r15p1141r12p1162r13p1246r13p1262r13p1328r13p1334r13p1351r13p1388r14p1501r15p1537r15p1549r15p1593r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "9d804b3b5c1f41343d4f05c12c962d231ff50d601ee8757aa4a3ad8acd8eb581",
+  "validation_errors": []
+}

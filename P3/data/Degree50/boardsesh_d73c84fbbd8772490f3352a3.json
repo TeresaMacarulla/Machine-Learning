@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d73c84fbbd8772490f3352a3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "chossboard",
+  "setter": "jbbkbbb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "4374ad58-fc3c-4098-86b8-58e5a46c5188",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1496r12p1455r15p1249r13p1230r13p1269r13p1371r13p1384r14p1459r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "03532196b55a330c4323c746030d495693d0c50dd422e6aa137133562124bea2",
+  "validation_errors": []
+}

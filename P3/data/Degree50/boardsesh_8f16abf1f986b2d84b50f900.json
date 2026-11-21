@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8f16abf1f986b2d84b50f900.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "darth fader",
+  "setter": "jkarban",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FCCCA43CD2EE462694E461851417F480",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1115r12p1130r12p1198r13p1205r15p1254r13p1270r13p1304r13p1351r13p1384r14p1457r15p1475r15p1542r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.98,
+  "ascensionist_count": 1735,
+  "quality_average": 3.27,
+  "hold_fingerprint": "a114a2a9a59c3d0d9b24f02e0f3b6dcc4193c32380851822829189cefc4d19ec",
+  "validation_errors": []
+}

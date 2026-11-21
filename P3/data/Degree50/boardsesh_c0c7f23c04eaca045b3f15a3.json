@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c0c7f23c04eaca045b3f15a3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "6 max 5s-2",
+  "setter": "Calum5",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "b2b66d18bc81452d9c6b637a08c15dfe",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1197r13p1218r13p1270r13p1307r13p1353r14p1354r14p1456r15p1460r15p1504r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.25,
+  "hold_fingerprint": "c8cf102dde905d035ff4ee77571c431f201b1f5bfab6fd7244a97670367f06a5",
+  "validation_errors": []
+}

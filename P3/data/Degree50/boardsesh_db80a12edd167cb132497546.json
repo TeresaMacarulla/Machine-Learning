@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_db80a12edd167cb132497546.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Crushing Hands",
+  "setter": "markussleeb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "26e1c6ca-7aa9-4e92-9952-36ec8beb50c9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1175r12p1196r13p1107r15p1216r13p1254r13p1285r13p1357r13p1291r13p1391r14p1127r12",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b4b9309cfd7f2b256c03466437bd17a48794368f07cdccb725a92f808298ba10",
+  "validation_errors": []
+}

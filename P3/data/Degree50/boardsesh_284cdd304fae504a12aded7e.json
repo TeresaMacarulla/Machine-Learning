@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_284cdd304fae504a12aded7e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Base",
+  "setter": "VadimDelakian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "C9AA2CFE02C94235B8CBA04F90CA688D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1150r12p1161r12p1196r13p1233r13p1235r13p1271r13p1319r13p1350r14p1372r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.5,
+  "ascensionist_count": 6,
+  "quality_average": 4.458333333333333,
+  "hold_fingerprint": "a6e6809898f2da253c86dc6752eff18bbe3eabfbf328349dc5c3174a58c6ebcc",
+  "validation_errors": []
+}

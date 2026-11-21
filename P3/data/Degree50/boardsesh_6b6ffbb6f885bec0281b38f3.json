@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6b6ffbb6f885bec0281b38f3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "jugz and hugz",
+  "setter": "lukausset21",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "93C2915FA0524E49A58FB2FCA696671C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1096r15p1134r12p1135r12p1145r15p1200r13p1248r13p1300r13p1353r13p1390r13p1393r13p1395r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "32f52587f5e70628993966279d49e9dccec4ec4cbab2dbbe3ee7d4c5cb743797",
+  "validation_errors": []
+}

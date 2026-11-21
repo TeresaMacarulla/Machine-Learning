@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a14f9e30081d5e4115114e45.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "GAM",
+  "setter": "Noway",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "234EC1BD59A24CA9A6666D184014A188",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1176r12p1249r13p1295r13p1363r13p1383r14p1385r15p1463r15p1528r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "45b1c7dc2c265bbbde97dcc09f0cabbf4c2af87cd3da266b54553baadd0c3b70",
+  "validation_errors": []
+}

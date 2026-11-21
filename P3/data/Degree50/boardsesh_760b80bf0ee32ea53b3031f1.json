@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_760b80bf0ee32ea53b3031f1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "The Ventilator",
+  "setter": "QuinnKlaassen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "4f673c96f54d47a09032b13ba942cf6e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1098r15p1161r15p1162r12p1166r15p1188r15p1194r12p1214r13p1236r15p1265r13p1272r13p1284r13p1285r13p1324r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8a2efcd6ddf137ab652e63a82ed98d06cede083148070ffa259169f46384ca03",
+  "validation_errors": []
+}

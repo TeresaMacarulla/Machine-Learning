@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_603b6c6f3ddcc0b3855bb829.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "batter up",
+  "setter": "baltic_blue",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "00b873e9-242e-46e6-bf99-1a68f82feade",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1183r12p1145r12p1197r13p1213r13p1263r13p1301r13p1316r13p1387r14p1477r15p1110r15p1493r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 3,
+  "quality_average": 4.5,
+  "hold_fingerprint": "d5ab7d039e6f703ef42373f8f463ef1cf2c012b7eab28a7c58851e8ffcb9c01a",
+  "validation_errors": []
+}

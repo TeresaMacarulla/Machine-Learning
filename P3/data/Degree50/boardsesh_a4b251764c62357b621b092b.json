@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a4b251764c62357b621b092b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Perps",
+  "setter": "faculangbehn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "918A020308CB49308EFBE1228A2E758C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1187r12p1188r12p1211r13p1216r13p1233r13p1265r13p1277r13p1332r13p1381r14p1473r15p1491r15p1516r15p1534r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.95,
+  "ascensionist_count": 350,
+  "quality_average": 3.43,
+  "hold_fingerprint": "7977d37bead84d927e027e34d88a8f955c9dfa6c41e290d3986ff41a57d2336b",
+  "validation_errors": []
+}

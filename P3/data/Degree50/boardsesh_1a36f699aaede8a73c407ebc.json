@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1a36f699aaede8a73c407ebc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Chicho Terremoto",
+  "setter": "J8aG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "35277921ecac47379fb962b3e928f3f2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1133r15p1192r14p1222r12p1235r13p1240r12p1286r13p1294r14p1300r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "08e93aaccfaae198d574e626687d9da4afee1987c495a0ad56948410a96e342a",
+  "validation_errors": []
+}

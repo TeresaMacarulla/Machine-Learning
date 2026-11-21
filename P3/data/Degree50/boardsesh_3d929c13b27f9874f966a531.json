@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3d929c13b27f9874f966a531.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "ok e",
+  "setter": "Ethan_Jamieson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FF24F7DA9439454D86D00C43FFA49A03",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1116r12p1118r12p1202r13p1250r13p1302r13p1349r13p1384r14p1452r15p1488r15p1499r15p1532r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.9,
+  "ascensionist_count": 41,
+  "quality_average": 3.33,
+  "hold_fingerprint": "2bfbaf5e9d733f267bf642ef0495f25bdc3318fbbd435d21aa402a9dae26895d",
+  "validation_errors": []
+}

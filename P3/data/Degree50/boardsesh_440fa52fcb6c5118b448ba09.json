@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_440fa52fcb6c5118b448ba09.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Billy Pullthrough",
+  "setter": "wills",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "CDE8DE771EC2406397A201EF0C9B2883",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1111r12p1130r15p1148r12p1199r13p1216r13p1281r13p1351r13p1380r14p1455r15p1457r15p1514r15p1542r15p1547r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "354b0f674992c0548dd97c324da6cdf7fae219e2f71659ec8dd124dbfed4efc1",
+  "validation_errors": []
+}

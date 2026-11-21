@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9484e87378cfcd724acfb703.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Don\u2019t climb",
+  "setter": "bendelamotte",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "848D1F7C462C4DF0A88786B52B60E899",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1190r15p1232r13p1253r13p1257r13p1328r15p1359r13p1367r14p1387r13p1460r15p1515r13p1547r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4b88489a0d94c89e6bcbd7c172e9851780b430ef4acb2d9e4808206802371443",
+  "validation_errors": []
+}

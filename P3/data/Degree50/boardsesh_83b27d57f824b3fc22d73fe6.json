@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_83b27d57f824b3fc22d73fe6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "splointer szn",
+  "setter": "tytaft",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "B4B98C274BC140948C0EF0A13C0E74E1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1173r12p1250r13p1273r13p1335r13p1371r13p1394r14p1447r15p1544r15p1561r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "1a82e56adc81f3b87fc57298a5895c69c5638b01c3c9250c06db82646a58e937",
+  "validation_errors": []
+}

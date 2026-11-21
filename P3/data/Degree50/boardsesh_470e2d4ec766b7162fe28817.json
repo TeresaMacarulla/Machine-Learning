@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_470e2d4ec766b7162fe28817.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "for the short",
+  "setter": "climbinghol",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1F060409672B4AB4A80BEE26F25746B6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1128r12p1147r13p1200r15p1202r13p1236r13p1239r13p1288r13p1322r13p1336r13p1387r14p1459r15p1460r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 26,
+  "quality_average": 3.46,
+  "hold_fingerprint": "8e317e58a071278155744cc00347bb5598a1e794099445dd7c245638a9f5c5cc",
+  "validation_errors": []
+}

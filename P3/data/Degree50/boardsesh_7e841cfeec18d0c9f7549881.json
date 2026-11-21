@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7e841cfeec18d0c9f7549881.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Hangar V2",
+  "setter": "JPatience",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "733AC636D94441B38C766DA6607DBC34",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1186r12p1234r13p1235r13p1267r13p1297r13p1335r13p1349r13p1386r14p1452r15p1456r15p1497r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "50935520931ed799855a2754a51113cb8d00a1571e767fb1035bca5fefcddf74",
+  "validation_errors": []
+}

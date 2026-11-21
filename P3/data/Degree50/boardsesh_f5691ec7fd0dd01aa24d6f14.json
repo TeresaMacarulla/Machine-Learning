@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f5691ec7fd0dd01aa24d6f14.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Ming flinging",
+  "setter": "bjhestet",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "6C162B23841045EBB18A74273DF983ED",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1154r12p1239r13p1272r13p1337r13p1385r14p1389r14p1453r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a86d5b6ce0b0b2421ce60d55df05f219f8ba7c049710562db9842e922dedc423",
+  "validation_errors": []
+}

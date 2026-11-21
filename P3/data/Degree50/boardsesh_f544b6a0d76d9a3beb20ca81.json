@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f544b6a0d76d9a3beb20ca81.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "cane",
+  "setter": "andreabrun",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "4DB7A7AF21D94323B4CF05DAB3F7F4C3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1082r15p1165r12p1166r15p1168r12p1235r13p1237r13p1285r13p1322r13p1387r14p1514r15p1515r15p1516r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5fe71183aeed0d31e14bacd9c37b600d9cb270f474101b4cd42eeaa1c30d02cd",
+  "validation_errors": []
+}

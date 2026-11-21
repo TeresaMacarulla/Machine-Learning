@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_29d03463d9e7fa7e335a7957.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Brogan'sShoulder",
+  "setter": "broganjanke",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "dc3062ad1abd4fc4b9e818f53ec094dd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1098r12p1133r12p1163r13p1201r13p1270r13p1304r13p1371r13p1387r14p1459r15p1525r15p1542r13",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.2,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "4e75e86c8bdc9094d8f19cd469472d9813c08259592c2be827096b171869b841",
+  "validation_errors": []
+}

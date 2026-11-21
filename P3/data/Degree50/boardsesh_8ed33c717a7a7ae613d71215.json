@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8ed33c717a7a7ae613d71215.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Slovenian Machine",
+  "setter": "jacobosullivan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "15A2A9F6B7F24964965D5021ACE85153",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r15p1257r12p1258r12p1300r13p1305r13p1334r13p1348r13p1365r13p1379r14p1533r15p1549r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.93,
+  "ascensionist_count": 58,
+  "quality_average": 3.48,
+  "hold_fingerprint": "1167b4aeee3d04a33c2887658b1af779cea7f54312357fbd352bcf55fff60f31",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_35de8534ee2dc2e6641af23a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "progressive overload",
+  "setter": "lorenz45",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "f0af5392-0c68-4765-8782-a377dc7a442a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1193r12p1196r12p1486r15p1158r15p1265r13p1268r13p1334r13p1389r14p1524r15p1296r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.17,
+  "ascensionist_count": 7,
+  "quality_average": 4.33,
+  "hold_fingerprint": "8c2b349556fcc062be34c03a638b3f27b703df9dc353903d4b82953d586b3c73",
+  "validation_errors": []
+}

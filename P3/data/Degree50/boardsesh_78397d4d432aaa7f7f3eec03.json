@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_78397d4d432aaa7f7f3eec03.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Player 1",
+  "setter": "importedbean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "35384178EAFA4E588DC405DF9008D35B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1086r15p1147r12p1180r12p1188r13p1218r13p1256r13p1289r13p1361r13p1395r14p1493r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.17,
+  "ascensionist_count": 7,
+  "quality_average": 3.0,
+  "hold_fingerprint": "559f40974292604c2c1dc40f9a390f721e4e403e00a49b3bc46f1f95c912ec47",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e724901111f4fe13cd4614f1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "climbingclan",
+  "setter": "Roopek",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "704ae10d75584aaaba8725966c80e48c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r15p1176r15p1198r12p1266r13p1287r13p1325r13p1337r13p1394r14p1526r15p1534r15p1545r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 51,
+  "quality_average": 3.41,
+  "hold_fingerprint": "301c66e86352cc7895396a9b2b8e2f67e5f7650b81a15fecf342e1b3bfafee86",
+  "validation_errors": []
+}

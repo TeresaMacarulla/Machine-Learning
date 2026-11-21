@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c62987687c50f10f2c4b723a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Sticky Fingerprints",
+  "setter": "LankyKong",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6b57c2aa06fe4371a8e3c27571d1e68a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1191r15p1222r12p1238r12p1244r15p1266r13p1272r13p1302r13p1315r13p1366r13p1380r14p1500r15p1529r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.3,
+  "hold_fingerprint": "3b5a2627fe131e6923b9cb75054f89a593959699381e21636644e8aa782b3edc",
+  "validation_errors": []
+}

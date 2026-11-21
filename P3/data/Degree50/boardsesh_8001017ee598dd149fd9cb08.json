@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8001017ee598dd149fd9cb08.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "shoulder far away",
+  "setter": "pauldelal",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "579B16A628F3473E8DE3E1EEC1575362",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r12p1187r12p1270r13p1283r13p1330r13p1353r13p1365r13p1379r14p1451r15p1478r15p1506r15p1559r15p1575r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.75,
+  "ascensionist_count": 4,
+  "quality_average": 3.25,
+  "hold_fingerprint": "0e05b3d8aee3ee8ee8f3e9b31e07c61d1cbecd7b5fd9fdbd20255221d9bf2c5d",
+  "validation_errors": []
+}

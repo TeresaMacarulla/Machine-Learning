@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ca4917ebf028c5b7cd4987d6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "eta now",
+  "setter": "steil_boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "5C24F0B39066434BAA90531A17BC2E9A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1189r15p1230r13p1265r13p1273r13p1286r13p1307r13p1357r13p1394r14p1462r15p1492r15p1496r15p1497r15p1518r15p1550r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "f8f6182d29ad35e7b9162ed864b42f479565a17aefce4ea56630b8c3391d07b9",
+  "validation_errors": []
+}

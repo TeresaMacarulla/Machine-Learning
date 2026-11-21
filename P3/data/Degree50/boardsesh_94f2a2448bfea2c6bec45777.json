@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_94f2a2448bfea2c6bec45777.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Choss 1",
+  "setter": "Trumkin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "11dba889ebf148879dfacdcf7245459b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1142r12p1179r13p1246r15p1248r13p1287r13p1336r13p1390r14p1464r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "17a2c241fb922548f142bbbcb6923c53c8a2e31206365b9c33bf92b9388cb1de",
+  "validation_errors": []
+}

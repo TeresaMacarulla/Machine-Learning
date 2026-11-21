@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6deaed27854d17550adf1c65.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "terrible",
+  "setter": "tannabis",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "E1657DAF793945C1A9F0F778AE274ADB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1149r12p1201r13p1237r13p1270r13p1307r13p1324r13p1360r14p1471r15p1478r15p1505r15p1506r15p1514r15p1545r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "cf5f785be219efc83d6d15357362fbde5db5d5075ebcf2f36083f519bbc22661",
+  "validation_errors": []
+}

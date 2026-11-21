@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1e540af6550efba65b4754ee.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Talhalla",
+  "setter": "JamieBarendrecht",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "effa5498f530493c8bca0fe4b4c18439",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r12p1147r12p1170r15p1191r15p1215r13p1250r13p1254r13p1256r13p1309r13p1356r13p1393r14p1459r15p1467r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "85eb2e806edb447fa316f0d68bdb336f558a1083ed03dd6e22538242ddf5b70e",
+  "validation_errors": []
+}

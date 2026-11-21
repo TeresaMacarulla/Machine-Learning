@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ad7108c08d760b87eb156fb8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Nuttin 2 do",
+  "setter": "Fixxe",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ecb20d3d13d649838033ae1fd6b9ab12",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1272r12p1345r15p1355r13p1364r15p1366r13p1367r13p1380r14p1508r15p1536r15p1561r12",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "d6312241baa6cc81e59c52dfeb2e2f4b8756c1b8dd15f1c7cbab43f3e0af9f22",
+  "validation_errors": []
+}

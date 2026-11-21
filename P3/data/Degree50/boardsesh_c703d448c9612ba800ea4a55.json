@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c703d448c9612ba800ea4a55.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "paddle boat",
+  "setter": "hippyowen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "64A8C094059B4712A39993FCF1368CEF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1149r12p1164r12p1234r13p1271r13p1306r13p1308r13p1340r13p1394r14p1455r15p1459r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "aa1e4ce342820a01b673431db988d037d38574ffc98ee1650af03e8b312aed99",
+  "validation_errors": []
+}

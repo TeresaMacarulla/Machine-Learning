@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4d4abc8562ecb3e897501bba.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "dilemme",
+  "setter": "titiboule",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "AD9054E645504C7E8FA858C7626E3DE1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1237r13p1339r13p1352r13p1386r14p1447r15p1509r12p1516r12p1559r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.6,
+  "hold_fingerprint": "86e48ea7084004023445f822eb4d9d38e5d6d499f6ebc24e1cab01e8dfb2546b",
+  "validation_errors": []
+}

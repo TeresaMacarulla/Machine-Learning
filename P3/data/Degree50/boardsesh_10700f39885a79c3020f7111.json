@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_10700f39885a79c3020f7111.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Teletypical",
+  "setter": "StanR1108",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "E2F3B33E326F4C58836BD31C9798ECAC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r12p1157r12p1223r13p1239r13p1289r13p1302r13p1306r13p1354r13p1386r14p1447r15p1451r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "cdd0bc9bc2cd42233d34c40e532ab53185b89dd4c166df5bf44e68e7a474a637",
+  "validation_errors": []
+}

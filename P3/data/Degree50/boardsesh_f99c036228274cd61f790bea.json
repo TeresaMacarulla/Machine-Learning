@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f99c036228274cd61f790bea.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Campus HD1",
+  "setter": "Henri_Dubouillon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "993b01dcd78b42ba90af17989481a6fa",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1267r12p1334r12p1378r14p1388r13p1392r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "029fe83e429a829fc2c26c226dcff5341e962b5946237d0c9686d0c3ca385b7d",
+  "validation_errors": []
+}

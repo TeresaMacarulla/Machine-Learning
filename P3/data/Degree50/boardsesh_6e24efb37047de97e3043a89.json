@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6e24efb37047de97e3043a89.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "flow001",
+  "setter": "JakeSully",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "fa5a3fc80ca74edeac4ff044976537cb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1215r13p1220r15p1233r13p1264r13p1302r13p1350r13p1387r14p1452r15p1456r15p1468r15p1477r15p1486r15p1503r15p1513r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "257d86043f021a5fa10b306880ed28536d15871cb0fe1eefcc9d25a6d0ff4dbb",
+  "validation_errors": []
+}

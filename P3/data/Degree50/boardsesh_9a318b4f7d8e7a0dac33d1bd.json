@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9a318b4f7d8e7a0dac33d1bd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "shoulder to shoulder",
+  "setter": "wesmoore",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "8F76E0E7BA154871B2B7062AB5961DBB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r15p1148r12p1152r12p1197r15p1201r13p1231r15p1235r13p1265r15p1270r13p1298r15p1320r13p1371r13p1385r14p1456r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.08,
+  "ascensionist_count": 12,
+  "quality_average": 3.5,
+  "hold_fingerprint": "eaf98d65adad7aa62cf6865dfcda4ecd165546e2453a7fd80aee1d266a23a07c",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d66d2b99a830a5c64bcd6d86.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Route Setting Addiction",
+  "setter": "grnx",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "2f1496ce55f141cdadfa8aedeb378a26",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1150r15p1163r12p1168r15p1178r12p1199r15p1231r13p1234r13p1255r15p1269r13p1302r13p1321r13p1355r13p1387r14p1578r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "54119e160dc61ab44fb397a0da63c8c4efbb3258a8777e618a086c081af3f291",
+  "validation_errors": []
+}

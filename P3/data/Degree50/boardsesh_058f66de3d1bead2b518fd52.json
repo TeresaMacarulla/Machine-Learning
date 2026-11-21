@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_058f66de3d1bead2b518fd52.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "oso name name",
+  "setter": "knucklesadt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5d95ee30d0874b9cb3710410b9f0c4e9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1116r12p1133r12p1163r13p1218r13p1234r15p1248r13p1285r13p1316r13p1369r13p1388r14p1390r14p1454r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "7a571707fb646e8c997915344b522bf2a8237529bc1b810b55b4e4894be2d9cd",
+  "validation_errors": []
+}

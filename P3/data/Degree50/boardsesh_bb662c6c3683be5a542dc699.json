@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bb662c6c3683be5a542dc699.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "It turned into a V2",
+  "setter": "Yoshisapple",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "8DFE022567E74A36987F9E85D7994652",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1127r12p1163r12p1215r13p1236r13p1266r13p1300r13p1331r14p1348r14p1459r15p1522r15p1539r15p1547r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.03,
+  "ascensionist_count": 64,
+  "quality_average": 3.38,
+  "hold_fingerprint": "42fd3f1caf4c616bbb02b9bd44ec229179106031394c452b44795d2c63f2a79a",
+  "validation_errors": []
+}

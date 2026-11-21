@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4c9d2b707109f8904cafc870.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "MC Campus",
+  "setter": "malcaliscious",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "9ff962c9efe4472ab859b77ddddc4544",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1221r12p1257r12p1306r13p1308r13p1359r13p1394r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.22,
+  "hold_fingerprint": "afe8c78f00c9d32878d7a0adfe61510cb69dedda122e1442b7db080cd09ac093",
+  "validation_errors": []
+}

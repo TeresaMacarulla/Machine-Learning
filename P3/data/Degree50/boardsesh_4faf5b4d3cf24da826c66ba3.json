@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4faf5b4d3cf24da826c66ba3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "two left feet",
+  "setter": "N31l",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "44c98472b48240dba7dcf79c30882964",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1157r12p1186r13p1257r13p1305r13p1359r13p1391r14p1449r15p1514r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.5,
+  "ascensionist_count": 2,
+  "quality_average": 3.5,
+  "hold_fingerprint": "13f17b8d838a3299f4b57b5af32290b51c77c7f5733b78a8eadf3b27bfa5ef2e",
+  "validation_errors": []
+}

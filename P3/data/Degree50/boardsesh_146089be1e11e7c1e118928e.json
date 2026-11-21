@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_146089be1e11e7c1e118928e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Banana Curve Left",
+  "setter": "nctoomey",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "F78CBDA6F1FB49DC8293E40286BB4333",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1147r12p1163r12p1228r13p1266r13p1297r13p1347r13p1379r14p1477r15p1484r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bfdf3c48db32823b398b665956a50f2153d5e41cba5fd1ec88c1cba2673a4919",
+  "validation_errors": []
+}

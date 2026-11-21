@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_35bb80e13e81ae8d23bbb8d6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "balance toi",
+  "setter": "max_rav",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "5d0462ef36564bf8b470a38c316d85c0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1257r12p1303r13p1308r13p1353r13p1383r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "e48907ed99caa89f90f546484694cb2a3aabf398175b0ff8e5d9904057771b58",
+  "validation_errors": []
+}

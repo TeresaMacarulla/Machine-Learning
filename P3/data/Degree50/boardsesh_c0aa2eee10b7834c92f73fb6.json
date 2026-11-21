@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c0aa2eee10b7834c92f73fb6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "head n shoulders",
+  "setter": "loui_byrne",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "8566ff47c6d74496bca0668ed1273e0a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1218r13p1263r15p1266r13p1320r13p1357r13p1368r13p1391r14p1455r15p1498r15p1504r15p1570r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "c1dadb9f18d93963bb47eca38cb42435a0d5c09786827477ae4459bea0d8de81",
+  "validation_errors": []
+}

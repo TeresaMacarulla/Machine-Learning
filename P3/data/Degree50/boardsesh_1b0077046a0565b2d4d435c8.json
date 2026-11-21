@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1b0077046a0565b2d4d435c8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Get good",
+  "setter": "emiliac",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "DA681D8DF3CF4E3AB4AFF3D66858F6A9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1136r12p1156r15p1203r13p1271r13p1283r13p1284r13p1334r13p1387r14p1547r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4764fced356025f67e5faaed0e7321a101467adf3fca301e5b49468c3a49ef97",
+  "validation_errors": []
+}

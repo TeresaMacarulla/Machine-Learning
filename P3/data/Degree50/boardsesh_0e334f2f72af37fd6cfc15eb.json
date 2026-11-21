@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0e334f2f72af37fd6cfc15eb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "merry jugmas",
+  "setter": "jtb194",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "28596f114fb44b9f815aefb4a8b0160a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1232r12p1236r12p1302r13p1341r13p1374r13p1394r14p1469r15p1514r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.07,
+  "ascensionist_count": 29,
+  "quality_average": 3.48,
+  "hold_fingerprint": "422a1dd4ddb454c7c3a48fe3695a77f15ec0687792c71b482c6a8892e0a96946",
+  "validation_errors": []
+}

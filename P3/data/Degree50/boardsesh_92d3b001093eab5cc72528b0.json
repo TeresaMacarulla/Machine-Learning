@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_92d3b001093eab5cc72528b0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "the black hold",
+  "setter": "Edu9c",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "ca9530942ebb427185d9bb885eda86a7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1197r12p1198r12p1231r13p1264r13p1301r13p1335r13p1382r14p1385r13p1477r15p1511r15p1551r15p1559r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3d6bebfb79ee4a50ac964925e920278e3231c981108c958ada06459587df3e3e",
+  "validation_errors": []
+}

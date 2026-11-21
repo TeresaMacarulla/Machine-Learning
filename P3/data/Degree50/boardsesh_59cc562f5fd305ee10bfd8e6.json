@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_59cc562f5fd305ee10bfd8e6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "da shoulders",
+  "setter": "Gav",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "314bf509-aaa8-4804-85cf-5a8dc3aab60a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1188r12p1189r12p1482r15p1518r15p1253r13p1270r13p1281r13p1314r13p1495r15p1503r15p1519r15p1384r14p1345r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.86,
+  "ascensionist_count": 10,
+  "quality_average": 4.86,
+  "hold_fingerprint": "7fd459f1a27a7cab83c207d86a3332b3590cfcd5d061e904877e62bfa06a752d",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cb65dc32cb9d357ea850c3da.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "brezeln",
+  "setter": "shorty08",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "476365e3a4524d90b6c06615b148b072",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1161r15p1182r15p1203r12p1250r13p1286r13p1314r13p1381r14p1490r15p1509r12p1553r13",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.44,
+  "hold_fingerprint": "51822a69c23ec3854b16c5e573057396f162c37d80c8a039a95af65a04cb744e",
+  "validation_errors": []
+}

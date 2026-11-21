@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_752003111af7c20e301e0317.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Klatreskolen 2",
+  "setter": "JPH",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "F94C9E88109B499C94499CEC08141F92",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1127r12p1147r12p1192r15p1198r13p1233r13p1247r13p1279r13p1280r13p1347r14p1488r15p1502r15p1529r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "dc110a328f4612932888b39d4202b6f3d2d97da9b725cab0b9636f687661dbd1",
+  "validation_errors": []
+}

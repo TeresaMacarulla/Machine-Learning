@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_903923932d25ba5363c8a388.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Banana",
+  "setter": "Zhiqi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "92344b4a7d874bbd9e8d5bd820371d3a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1085r15p1149r12p1197r13p1214r13p1228r13p1265r13p1282r13p1321r13p1353r13p1392r14p1504r15p1510r15p1561r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "a22bf39c71af377e6487ab9dfc8afdceee53db2cbb557dcee939db4cc26a94ee",
+  "validation_errors": []
+}

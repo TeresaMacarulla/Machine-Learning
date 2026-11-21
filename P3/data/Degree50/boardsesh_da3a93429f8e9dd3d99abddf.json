@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_da3a93429f8e9dd3d99abddf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "proper pinch",
+  "setter": "Roopek",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b8d0f99e951f4fe6ba5ca752633c17ef",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1121r12p1174r12p1186r13p1241r13p1254r13p1291r13p1320r13p1357r13p1387r14p1447r15p1471r15p1498r15p1518r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "538a5656606aaf098ac1f10fb0832aa460cb93157ce22cde0b3fab62131c04b7",
+  "validation_errors": []
+}

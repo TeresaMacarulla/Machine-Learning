@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_484b80ab9aa39fcb31ab3260.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "size up",
+  "setter": "joshuabrahams",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "40E8A212B89844DDA8BD9A043810B11D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1146r12p1149r12p1166r15p1235r13p1271r13p1353r13p1387r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "20e1763c5540afaab1b0ce909eca8ba164b85001c36f67686c1eb8fd1b4aa84d",
+  "validation_errors": []
+}

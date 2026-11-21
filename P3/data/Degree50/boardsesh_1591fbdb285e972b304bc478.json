@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1591fbdb285e972b304bc478.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Meatball Swinging",
+  "setter": "adam1122",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "463583b503fc4f3f807d3345c1919331",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1163r12p1198r13p1234r13p1284r13p1304r13p1353r13p1387r14p1455r15p1459r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.73,
+  "ascensionist_count": 15,
+  "quality_average": 4.18,
+  "hold_fingerprint": "7871e3c242c07ddb1bebeaa4f3ce1e0fa77a72fcb1a1ec4d647d598a23f013b8",
+  "validation_errors": []
+}

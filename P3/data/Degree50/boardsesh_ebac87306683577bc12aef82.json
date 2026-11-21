@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ebac87306683577bc12aef82.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Kid cubby",
+  "setter": "kerkeslager",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "015147A276C74F1A8904C63804E1E720",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1155r12p1173r12p1236r13p1257r13p1271r13p1278r15p1281r13p1302r13p1331r13p1379r14p1383r13p1451r15p1516r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.67,
+  "ascensionist_count": 9,
+  "quality_average": 3.67,
+  "hold_fingerprint": "74c6180d4c3b5b75077ba5d18772c8c0b772e6bba15f19cab63bd70e4cb29c5b",
+  "validation_errors": []
+}

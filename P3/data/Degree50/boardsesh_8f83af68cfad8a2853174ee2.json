@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8f83af68cfad8a2853174ee2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Leicht",
+  "setter": "Mathissamuel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0a3cba2caf6c44fa8fa63bbe737b9e2a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1119r12p1172r12p1199r13p1250r13p1314r13p1380r14p1452r15p1469r15p1506r15p1537r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "94f5bef0cc8e02cbdc5644ad4b61640637a341c31d6ca9a0deb3c8e4c1e07df1",
+  "validation_errors": []
+}

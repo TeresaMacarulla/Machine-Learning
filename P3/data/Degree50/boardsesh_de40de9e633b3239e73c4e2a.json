@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_de40de9e633b3239e73c4e2a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Annys 1",
+  "setter": "nillssonpontus",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B22FD235FF9148AC864055A107E735BE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1135r12p1200r12p1235r13p1236r13p1288r13p1305r13p1341r14p1479r15p1496r15p1508r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.25,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "36ba5b900a7430e67f3782dce0ab2361fbf30ab6f9dca9778d9bb5ec87028238",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6249e04666aab3800700a20e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "mostly jugs",
+  "setter": "E.2.d.2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "64F96C506F2741F19B4F9A5A46D90764",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1209r12p1211r12p1261r13p1265r13p1294r15p1308r15p1331r13p1374r13p1384r13p1389r13p1394r14p1520r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6d33862e4903f3bd8f1e101b54785e0ed780dcb7c60a78ef80ff9a3065c50368",
+  "validation_errors": []
+}

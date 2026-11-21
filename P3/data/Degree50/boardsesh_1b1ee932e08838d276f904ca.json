@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1b1ee932e08838d276f904ca.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "blindset",
+  "setter": "Sirmatt279",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "B8C848DD92F648A29F9D878B79CCC1DE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1116r15p1127r12p1133r15p1147r12p1232r13p1266r13p1303r13p1320r13p1392r14p1512r13p1521r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a52c0624ac09908ce4a8f4d8861faefdf78c7532114d6de725a25abbfc16b76d",
+  "validation_errors": []
+}

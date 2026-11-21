@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2077fc8f2762174bce8f0b11.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "sexty degrees",
+  "setter": "Manuclua",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "799F5D81A0B7419BA5A6FF998BDA624D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1119r15p1122r15p1154r15p1169r12p1191r12p1214r15p1258r13p1271r13p1286r13p1300r13p1321r13p1367r13p1380r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "df917e92179a62f4ba963ccc6489413457a558df356ad9ea36a9436c17f4e817",
+  "validation_errors": []
+}

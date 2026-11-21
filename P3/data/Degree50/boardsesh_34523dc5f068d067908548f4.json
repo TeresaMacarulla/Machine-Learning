@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_34523dc5f068d067908548f4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Wallride Alright",
+  "setter": "JKraft",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "2b3b10594db540db9c3e07cf5080b126",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r15p1188r15p1189r12p1212r15p1269r13p1273r13p1300r13p1320r13p1350r13p1363r14p1381r14p1450r15p1482r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.94,
+  "ascensionist_count": 121,
+  "quality_average": 3.41,
+  "hold_fingerprint": "27ce497f6146a81c75e8eb677ac71b720c7abc18dbc1fa27207e3a5bff24bf8f",
+  "validation_errors": []
+}

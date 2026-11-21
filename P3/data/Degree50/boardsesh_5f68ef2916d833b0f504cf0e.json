@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5f68ef2916d833b0f504cf0e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Chocolat Mushroom",
+  "setter": "Arne",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "02b1f83903374ff58f4c41032c567fe0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1158r12p1193r12p1261r13p1314r13p1315r13p1386r14p1465r15p1483r15p1529r15p1551r15p1569r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0367d9b273de38b369dee6876de2637d5a0cc5dd5b8cde73e0c6140f4dc73f10",
+  "validation_errors": []
+}

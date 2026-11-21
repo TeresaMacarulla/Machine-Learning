@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_27c2e3c984aa8f6d81bbc938.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Dyno-saurus Rex",
+  "setter": "davidyu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "490B23E616834301817091D4A7BDE0BF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1104r15p1134r15p1154r15p1200r15p1204r12p1205r12p1219r13p1236r13p1302r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.03,
+  "ascensionist_count": 30,
+  "quality_average": 3.17,
+  "hold_fingerprint": "e9fd938d6972ddd09de3de6580c09dd90c42f6df1bffc5715038b3372fab0b2d",
+  "validation_errors": []
+}

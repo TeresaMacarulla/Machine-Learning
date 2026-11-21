@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e2c6ab463bbc97c8cdff2faf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "drum one",
+  "setter": "Actuator",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "4A485638917A45FABE998DDF93E86515",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1077r15p1155r12p1182r15p1201r13p1205r13p1270r13p1305r13p1336r13p1387r14p1508r15p1531r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e176e7df731ba7c937bfa233e0b35c095c3d870e391282ce1793055de38e17a3",
+  "validation_errors": []
+}

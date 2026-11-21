@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b3a94eb4ce5ad27bfac83953.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "The Rodeo",
+  "setter": "will_avelar",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7A43CE8374A84E6ABC1827431E0ECE84",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1171r15p1193r12p1216r13p1236r13p1247r13p1306r13p1341r13p1388r14p1464r15p1483r15p1506r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5aa6975c4816e74dadfd18a80ae59288d07a2dd8ceb64fb373f17f8921e762ad",
+  "validation_errors": []
+}

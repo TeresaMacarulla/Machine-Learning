@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b65a248bb89229b8732db41.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Cascaded",
+  "setter": "FokkeW",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "696249FE23D2454D90CA5C5281927060",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1145r12p1182r13p1233r13p1269r13p1301r13p1339r13p1391r13p1392r14p1507r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.96,
+  "ascensionist_count": 354,
+  "quality_average": 3.4344350282485876,
+  "hold_fingerprint": "66ca559d9a8365d8f8b701f881c608e2f35089e5d1c19b4d47ecfac641c5f364",
+  "validation_errors": []
+}

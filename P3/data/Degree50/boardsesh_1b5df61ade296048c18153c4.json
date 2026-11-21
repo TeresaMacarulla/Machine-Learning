@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1b5df61ade296048c18153c4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "SmashCling",
+  "setter": "Senor_Taco",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "324b1f8f54b444a7aeef7e720b20eead",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1186r12p1223r12p1268r13p1332r13p1335r13p1382r14p1500r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.89,
+  "ascensionist_count": 9,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e1aa1173afbfc4dfaad4dce5f7d2f626d006e7c9c164377376a840df1aac44ee",
+  "validation_errors": []
+}

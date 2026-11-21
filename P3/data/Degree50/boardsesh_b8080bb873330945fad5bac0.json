@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b8080bb873330945fad5bac0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Crab Claw",
+  "setter": "amik23",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "AC22D76048634002BEAE4B3AEE2A6CA1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1133r15p1164r12p1167r12p1169r15p1233r13p1255r15p1283r13p1322r13p1370r13p1392r14p1504r15p1572r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.5,
+  "hold_fingerprint": "cd7504f32c5a7f4fce86527c57c343e97805dadcd7ba22112d4d224cc8dbe868",
+  "validation_errors": []
+}

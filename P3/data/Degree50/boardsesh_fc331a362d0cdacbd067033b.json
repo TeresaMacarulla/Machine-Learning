@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fc331a362d0cdacbd067033b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "spin out",
+  "setter": "R.Toet",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "490148ecbec84ad3997694caaa1b0467",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1214r13p1231r15p1245r13p1294r13p1312r13p1347r13p1382r13p1386r14p1462r15p1464r15p1477r15p1585r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.9,
+  "ascensionist_count": 10,
+  "quality_average": 3.4,
+  "hold_fingerprint": "8b59443d75c38e5dbae068b6f9656aabf553801d7abb23e5941aa062d3f18a9e",
+  "validation_errors": []
+}

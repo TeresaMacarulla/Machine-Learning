@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_14852fb393982a533de52235.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Kaz Can Do It",
+  "setter": "GirthQuake",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "23C46E3A100540A9981228353CFCCBB2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1131r15p1142r12p1163r12p1195r15p1231r13p1263r15p1267r13p1315r13p1366r13p1380r14p1458r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.44,
+  "ascensionist_count": 40,
+  "quality_average": 3.94,
+  "hold_fingerprint": "c3419db7881b035b4d8b8c1184dceab48367d8e6eaae7aa7f115db5ccb1c8b2f",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eaa08b351fea1d500a31719f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "pico de gallo direct",
+  "setter": "jablabla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "16da4a245d384a119cef1fd5ac191864",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1086r15p1130r15p1133r12p1147r12p1161r15p1181r15p1250r13p1299r13p1387r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.03,
+  "ascensionist_count": 37,
+  "quality_average": 3.43,
+  "hold_fingerprint": "d48f8a0419f19786b34434615e83b15a5fa349567ecf1e2cfb9b6304673788d8",
+  "validation_errors": []
+}

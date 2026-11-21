@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_212041fc81bd0d9977778dbc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "rotation trainer",
+  "setter": "big_G",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 0,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "143f2a1b-c0be-4a5f-af25-b7a61cad0b62",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1078r15p1165r12p1181r12p1118r15p1202r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.67,
+  "ascensionist_count": 3,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a5c9996a89220d45006e2a19387bdc6435e039fe6b1a607962cf004daa1cb360",
+  "validation_errors": []
+}

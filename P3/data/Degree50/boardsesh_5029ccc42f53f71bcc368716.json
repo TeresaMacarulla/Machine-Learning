@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5029ccc42f53f71bcc368716.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "crosshairs",
+  "setter": "jameshurst",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "74FA82586FC4495BBA5765DA1F3FDDC3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r12p1165r12p1199r13p1230r13p1268r13p1352r13p1372r13p1374r14p1467r15p1548r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4e02fb51651db4ac847fd43fd1457cef1b644980cb731e922025f3e9f316ce7b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_743ddc7571096d1018940f27.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Easy Pinch",
+  "setter": "elk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "BEC946D76B9D40E9B6FF8A773C9F7692",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1138r12p1170r13p1206r13p1239r13p1291r13p1305r13p1357r13p1390r14p1447r15p1451r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "27cae0ee9d267f9e10598c293d9a5b9ee21e8a4d6d7d15f274749f95b96df25f",
+  "validation_errors": []
+}

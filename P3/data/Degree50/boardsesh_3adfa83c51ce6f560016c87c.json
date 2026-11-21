@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3adfa83c51ce6f560016c87c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Kosmic Kilter",
+  "setter": "lylagrice",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "EB49E30F0EC84AC086108386CC67F545",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1198r12p1212r15p1234r12p1271r15p1283r13p1319r13p1338r13p1355r13p1387r14p1388r14p1494r15p1542r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "81d8061fb3da65afe1ce1ef98286a2e6943fd4f4629d3ffdf349cd3b203d311f",
+  "validation_errors": []
+}

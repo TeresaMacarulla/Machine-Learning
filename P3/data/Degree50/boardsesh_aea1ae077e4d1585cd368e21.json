@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aea1ae077e4d1585cd368e21.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "123 mit brei",
+  "setter": "JonasRoth",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "62ad530d62914bb8953b47fdb6e8da88",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1137r15p1186r12p1189r12p1235r13p1246r15p1254r13p1284r13p1319r13p1332r13p1335r13p1382r14p1448r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5f4bfe9c2807b2977df3711971a750e705db043886b68ddaa36ad37d35f25ea0",
+  "validation_errors": []
+}

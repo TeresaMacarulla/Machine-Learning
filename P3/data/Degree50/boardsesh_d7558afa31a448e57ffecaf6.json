@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d7558afa31a448e57ffecaf6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Phryge",
+  "setter": "nico.mulet",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "CDF982B6FDDC4D658A0414FBDE11D642",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1149r12p1218r13p1289r13p1337r13p1366r13p1382r14p1454r15p1458r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "86bee5a946fdb903170946c4b2247d6ad9091b1dd43896039989e8f4b088d948",
+  "validation_errors": []
+}

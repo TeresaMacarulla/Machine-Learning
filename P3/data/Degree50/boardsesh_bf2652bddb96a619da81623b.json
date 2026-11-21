@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bf2652bddb96a619da81623b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "are we done yet?",
+  "setter": "jherbst",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "02CE7B826B0441F6858974DC0F8B7326",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1130r12p1166r13p1203r13p1237r13p1273r13p1305r13p1324r13p1339r13p1375r13p1392r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "d9f04750e8ab214a08408637d1a8a7e6a1d56b8de895e13a7cc1a891e458726d",
+  "validation_errors": []
+}

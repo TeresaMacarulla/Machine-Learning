@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dbb652ad5af3f3831675a138.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "shoulder alert",
+  "setter": "Lewin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "11E5B5A93C8C4966AD219118DD30D2DC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1202r12p1286r13p1341r13p1390r14p1454r15p1489r15p1515r15p1542r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "30a39d095e508f006dda6718b3c00e4b03c605dd76d384c6eefbbe18543605c7",
+  "validation_errors": []
+}

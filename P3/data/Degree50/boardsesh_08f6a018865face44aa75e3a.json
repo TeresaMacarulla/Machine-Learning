@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_08f6a018865face44aa75e3a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "The Lawnmower",
+  "setter": "jorx",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "94edc2cacca244348f3a5c9d1d215560",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1184r12p1187r12p1274r13p1323r13p1334r13p1351r13p1360r13p1374r13p1381r14p1479r15p1509r15p1561r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "62881e69c8f8e0ce6230ebb2635ae7820bdb57db5895b5074d35696b08b73747",
+  "validation_errors": []
+}

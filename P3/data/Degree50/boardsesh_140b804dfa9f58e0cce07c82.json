@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_140b804dfa9f58e0cce07c82.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "The Binding of Isaac",
+  "setter": "DSavoie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0FA9804C1E024711AA75DD0C10125561",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1185r12p1197r13p1248r13p1264r13p1351r13p1352r13p1390r14p1450r15p1479r15p1510r15p1548r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "3a7ba6a3597da54e3f1a613ff6c94560bbaf825a7ccc9663806af76a45ffc76d",
+  "validation_errors": []
+}

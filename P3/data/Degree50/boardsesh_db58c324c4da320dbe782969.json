@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_db58c324c4da320dbe782969.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Closed Eye Visuals",
+  "setter": "Cornelius.kilter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "869e73483e504ca6ad9c7ea9873ffd96",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1165r12p1166r12p1214r13p1262r13p1318r13p1334r13p1387r14p1453r15p1458r15p1485r15p1492r15p1523r15p1540r15p1558r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "607437c78c99c93bb3861f3da812c96d59b05c7d53883204e8639e66204639bc",
+  "validation_errors": []
+}

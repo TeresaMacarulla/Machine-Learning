@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b2a8612e98277a75487e94fa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Swing with your wings",
+  "setter": "Baptiste-R",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "20ef3dc8-30be-4726-9196-75f83ca471b8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1308r13p1241r13p1186r13p1535r15p1172r12p1452r15p1447r15p1351r13p1337r13p1545r15p1331r13p1381r14p1345r14p1376r13p1106r15p1139r12",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "136fdb2da0bf03c7435e2dd53184aacae405a7cb16c692a3825ad11e5a1ffc8c",
+  "validation_errors": []
+}

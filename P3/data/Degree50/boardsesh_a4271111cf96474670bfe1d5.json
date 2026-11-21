@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a4271111cf96474670bfe1d5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "l2025",
+  "setter": "Lucas18",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "2c0f2253-b593-459a-999c-ece0ea954b84",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1115r13p1127r12p1182r12p1233r13p1253r13p1289r13p1291r13p1357r13p1387r14p1536r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.5,
+  "hold_fingerprint": "cfd0015d7217cfcd8520f3a8535d2ee043979f45534deabbcd41fbd8a5880c3b",
+  "validation_errors": []
+}

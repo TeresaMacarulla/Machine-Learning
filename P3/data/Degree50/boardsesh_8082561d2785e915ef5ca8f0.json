@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8082561d2785e915ef5ca8f0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "High Bike",
+  "setter": "timhoke",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "074B2EF5C2DD4B0982168326898E4DE1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1143r12p1192r13p1246r13p1247r13p1300r13p1323r15p1331r13p1340r14p1387r14p1463r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 3,
+  "quality_average": 4.5,
+  "hold_fingerprint": "494a9149dfa12fed447d15b2120d32ee138712133c6f676d3115ecfca92e7c88",
+  "validation_errors": []
+}

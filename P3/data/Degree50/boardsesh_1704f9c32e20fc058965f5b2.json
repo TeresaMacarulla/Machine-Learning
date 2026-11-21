@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1704f9c32e20fc058965f5b2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "VBQ#6",
+  "setter": "TS_Verdigoboulders",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "A5C0B3316A274EC4A1E1EF34E2DB5E92",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r15p1166r12p1233r13p1249r13p1303r13p1337r13p1357r13p1373r13p1393r14p1571r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ce3c63aa496cfa0124917363e9b3d09a0337951ddd8022ce5b787e6cd5f97d75",
+  "validation_errors": []
+}

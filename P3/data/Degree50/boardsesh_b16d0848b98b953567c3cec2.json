@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b16d0848b98b953567c3cec2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Float Dee Foot",
+  "setter": "krimdogbillionaire",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "612E0C7A560D4781A6C6D8AD857FDC17",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1147r12p1185r12p1251r13p1298r13p1303r13p1314r13p1380r14p1383r14p1498r15p1521r15p1532r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "23af255756986c694d8e2ccdcb9743056791d9a8dc10fe05f9fe60f192796702",
+  "validation_errors": []
+}

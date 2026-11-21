@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3ffc725165dc869b3b5ff3fb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "hoplaa",
+  "setter": "sayaka_2006",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7f540dad13214074973d1d75fb70f0ba",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1167r12p1254r13p1284r13p1299r14p1312r13p1383r14p1455r15p1521r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "64cbb0031331dfec8504ee24b7a1d7762c1b098f497aa050bc5e273e31a80264",
+  "validation_errors": []
+}

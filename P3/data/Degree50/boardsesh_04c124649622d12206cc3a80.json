@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_04c124649622d12206cc3a80.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "off lock",
+  "setter": "joey.timmer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "CD6995CDF1C542EEA02A08547A917346",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1163r12p1167r13p1169r12p1253r13p1266r13p1353r13p1384r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3e0651ca9eae753712e1a473ab1f45ef4625cf6a28189fc86765a4dffc0af511",
+  "validation_errors": []
+}

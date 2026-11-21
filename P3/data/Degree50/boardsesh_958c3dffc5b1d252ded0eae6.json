@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_958c3dffc5b1d252ded0eae6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Go 2D",
+  "setter": "kiko4532",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8510E408A5C5439CAEF463E672A24895",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r15p1204r12p1231r15p1285r13p1320r13p1352r13p1387r14p1478r15p1543r12",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "54af9ae57689e6ea850904e06a7700cda58a8b5ea3d216193fc676929dc8ad13",
+  "validation_errors": []
+}

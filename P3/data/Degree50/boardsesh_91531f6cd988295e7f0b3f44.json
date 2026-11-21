@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_91531f6cd988295e7f0b3f44.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "capibara",
+  "setter": "arshia79",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "a7e13ff4-0aaf-4c92-bbd4-67cb831b5645",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r12p1092r15p1113r15p1192r13p1246r13p1280r13p1317r13p1350r13p1385r14p1213r15p1521r15p1284r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.83,
+  "ascensionist_count": 12,
+  "quality_average": 3.0,
+  "hold_fingerprint": "3c0649052c376bf2e0c12309bf1a0a57e15a409bad65fb4f2797f64797e152c2",
+  "validation_errors": []
+}

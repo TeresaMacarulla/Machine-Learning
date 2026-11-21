@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b35a2ed96f165240d91df74c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Power Circuit 7 FINAL",
+  "setter": "DrPlim",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "2F050AA4C0EA435D9F492735263B9F9E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1147r12p1164r12p1216r13p1230r13p1252r13p1266r13p1319r13p1350r13p1387r14p1460r15p1495r15p1521r15p1530r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.2,
+  "hold_fingerprint": "7346559e27c6be9336ecb325975cd8bc2671c6f2f5f3c24a3c1d69bb143afab1",
+  "validation_errors": []
+}

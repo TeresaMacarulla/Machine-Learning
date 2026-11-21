@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_93fe1dc651234d37ff1da681.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Antihydral Sipper",
+  "setter": "xademcgill",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "D4EE0133CDE944279AFB8C2D150843B4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1216r12p1228r13p1312r13p1350r13p1385r14p1483r15p1497r15p1529r15p1556r15p1558r15p1574r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "590859abb7c2730f49002e85cd876ccd9ac2ca5451cc0d1be6079d7800a0fbc1",
+  "validation_errors": []
+}

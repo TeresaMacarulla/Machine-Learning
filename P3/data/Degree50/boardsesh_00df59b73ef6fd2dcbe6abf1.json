@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_00df59b73ef6fd2dcbe6abf1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Two Opposites",
+  "setter": "jamescor",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "955cc00076a143b5a9c7ec51b84d17e1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1094r12p1113r12p1165r13p1202r13p1267r13p1287r13p1330r13p1335r13p1380r14p1468r15p1498r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "c14de44c0f5613c2e6bb1401e6aaabfd0f3a0bff916b7f57d1c011e13bed40fd",
+  "validation_errors": []
+}

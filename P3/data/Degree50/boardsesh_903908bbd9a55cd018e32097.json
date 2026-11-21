@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_903908bbd9a55cd018e32097.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Tensions",
+  "setter": "settingPhil",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "b19b08cd-865f-4a35-b0a4-80a4f23dfa9c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1493r15p1511r15p1125r12p1128r12p1464r15p1164r13p1215r13p1298r13p1284r13p1369r13p1390r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "74b8a6cd2debfc1241834b1bfacc3d0cc5006a4d72d261142b2fc2d316e456fd",
+  "validation_errors": []
+}

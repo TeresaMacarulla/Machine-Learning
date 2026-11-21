@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5365bc7fa1dc924c229420ca.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "no normal for boss2",
+  "setter": "mikkelnor99",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "3251773D2E9C43E5A02E790CA7F0ACD0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1184r12p1222r12p1268r13p1347r13p1352r13p1380r14p1451r15p1487r15p1522r15p1534r15p1568r15p1578r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "414e9dd1f1de68a74bb9a81490df9f675ffed084abc6eb041c45e8967da4d65e",
+  "validation_errors": []
+}

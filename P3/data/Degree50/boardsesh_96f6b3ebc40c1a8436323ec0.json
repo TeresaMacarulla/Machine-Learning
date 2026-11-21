@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_96f6b3ebc40c1a8436323ec0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "blablabla2",
+  "setter": "BKBChicago",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3712DEBCF14B4E819D3F9EE84B6D85BF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1168r12p1187r13p1235r13p1269r13p1299r13p1352r13p1385r14p1450r15p1471r15p1513r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.98,
+  "ascensionist_count": 215,
+  "quality_average": 3.4,
+  "hold_fingerprint": "1aa756d4a8940cf06973d75aeebdeff2549894d39af9fa71db20204447a0753f",
+  "validation_errors": []
+}

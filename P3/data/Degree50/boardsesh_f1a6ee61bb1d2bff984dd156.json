@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f1a6ee61bb1d2bff984dd156.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Go Big!",
+  "setter": "Chris.Schweiger",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5CF7DD1845704F2E887E4DDCE3C87F28",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r12p1164r12p1186r13p1265r13p1283r13p1357r13p1389r14p1454r15p1511r15p1560r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "58bebf117f2bac79005b321332e46d70ad65e9a4a152e7cf4dee10d107ad6050",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b3cf7d9bf51f92400a20eb43.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "up warm 1",
+  "setter": "gilb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2eeb2717c244484ab221d5517fcc4a7a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r12p1203r13p1218r13p1254r13p1267r13p1337r13p1388r14p1456r15p1471r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f287638250dce77685083cd694841e271b3c590ceb9dc8dd9b98747e30686f8b",
+  "validation_errors": []
+}

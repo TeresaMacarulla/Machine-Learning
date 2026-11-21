@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_308ac72813df9563fa53b1d9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Mask On",
+  "setter": "blocshopnic",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "45B21752C1D040629186179EC0A773C0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1199r13p1215r13p1270r13p1287r13p1304r13p1325r13p1339r13p1394r14p1458r15p1467r15p1503r15p1516r15p1534r15p1563r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 12,
+  "quality_average": 3.33,
+  "hold_fingerprint": "f668542a3abe135b4c9fcc6261623960f6bd5d6aa227e15258a33f0a58c9041c",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ba46f63ff15840db969459d0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "xg11",
+  "setter": "ericmahan1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "e01b0ee9-4040-4daf-b195-241356478b31",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1156r12p1190r13p1447r15p1451r15p1237r13p1291r13p1320r13p1323r13p1387r14p1205r15p1566r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.93,
+  "ascensionist_count": 19,
+  "quality_average": 3.93,
+  "hold_fingerprint": "5f2f3d50ade0588a91243f6a785cec3701135835df17c29b2f9ccd09360e7473",
+  "validation_errors": []
+}

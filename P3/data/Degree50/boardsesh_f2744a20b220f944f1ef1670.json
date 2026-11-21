@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f2744a20b220f944f1ef1670.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "PoGO",
+  "setter": "alfiegreen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "C1AAC0834DB947778B6F6B792D3E1411",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1075r15p1155r12p1237r15p1242r15p1257r13p1308r13p1395r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "26418e72f8b36d564af72738771dccb55bf59097b7db14e53da109e8acd00735",
+  "validation_errors": []
+}

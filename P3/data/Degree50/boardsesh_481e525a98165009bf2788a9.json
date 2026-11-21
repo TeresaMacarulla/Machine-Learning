@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_481e525a98165009bf2788a9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Residual Heat",
+  "setter": "NGS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9F063AF98182470580096D2A77321A10",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1095r15p1127r15p1129r12p1147r12p1215r13p1242r15p1283r13p1292r13p1305r13p1344r14p1517r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.88,
+  "ascensionist_count": 9,
+  "quality_average": 4.63,
+  "hold_fingerprint": "3c56f7cebcfd3147364b0ede6279cb9e7f3b526ab4fdb085191b4081e48908e1",
+  "validation_errors": []
+}

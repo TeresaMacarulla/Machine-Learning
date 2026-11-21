@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c7d27d628dcd152d0785050e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "YNY 16degrees",
+  "setter": "KPuckett",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 12
+  },
+  "source": "boardsesh",
+  "source_uuid": "AE092D00846C46609FE802F327E6F10D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1171r12p1198r13p1199r13p1220r13p1246r13p1249r13p1300r13p1349r13p1369r13p1387r14p1452r15p1454r15p1456r15p1457r15p1469r15p1470r15p1471r15p1476r15p1487r15p1504r15p1530r15p1559r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.97,
+  "ascensionist_count": 30,
+  "quality_average": 3.3673333333333333,
+  "hold_fingerprint": "83e69ca50715c11d6e5dd0da9b2323b3f3083adcf554835cbb1b909afac9ecc1",
+  "validation_errors": []
+}

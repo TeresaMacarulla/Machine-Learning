@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bf1f55a8d2ebe25eebcacdaf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "vid creds to eshan",
+  "setter": "CRANK",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "25CD3A830D6D4433B6A8A693B96D7967",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1188r12p1189r12p1253r13p1322r13p1351r13p1352r13p1380r14p1482r15p1518r15p1544r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.99,
+  "ascensionist_count": 362,
+  "quality_average": 3.25,
+  "hold_fingerprint": "be54c1e7d34f3c39ca010505a4493898319bb0b25868a6ece16868b80de3163f",
+  "validation_errors": []
+}

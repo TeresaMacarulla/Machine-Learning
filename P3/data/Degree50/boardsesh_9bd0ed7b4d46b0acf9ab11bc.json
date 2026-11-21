@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9bd0ed7b4d46b0acf9ab11bc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "where is Waldo",
+  "setter": "RyanKing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "E2C19434B56F4B2EBD578491FD3ABFD4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1302r12p1306r12p1372r13p1383r14p1385r13p1387r13p1575r15p1583r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.9,
+  "ascensionist_count": 10,
+  "quality_average": 3.6,
+  "hold_fingerprint": "605a2acbb6b8fabd78fba23f14b01e08d05f726979f8b4af5e789bcc3e69aefe",
+  "validation_errors": []
+}

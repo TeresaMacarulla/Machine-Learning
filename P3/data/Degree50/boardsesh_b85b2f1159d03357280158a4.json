@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b85b2f1159d03357280158a4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "proj D",
+  "setter": "L.A.Palstra",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8BDA6C3338514E94AB171BF7628F231B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r12p1163r12p1228r13p1267r13p1281r13p1287r13p1353r14p1462r15p1506r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 12,
+  "quality_average": 3.18,
+  "hold_fingerprint": "a1e8a278d97c3306a54ae5313032b53797a28263b05efa9cf50b529559cb0a64",
+  "validation_errors": []
+}

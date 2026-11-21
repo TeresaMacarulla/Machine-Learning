@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e61c4fc43fb222dd3c98b289.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "traverse de canards",
+  "setter": "foukbass",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "7c07d2fcbadb4e6c8986e900b7b72985",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1089r15p1104r15p1161r12p1168r13p1181r13p1202r13p1215r13p1222r13p1239r13p1293r14p1454r15p1456r15p1482r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 4,
+  "quality_average": 2.25,
+  "hold_fingerprint": "339c1c961884b4662164f979acbfaaeba095b14886a5043122185cbf11facb59",
+  "validation_errors": []
+}

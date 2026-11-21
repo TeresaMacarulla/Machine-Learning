@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d0ab1e0be7ca5bc359d42e2a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "cereal with water",
+  "setter": "mgco3.xin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "86820de12e6f4508a24f5b22069f188f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1092r15p1143r12p1152r15p1163r12p1198r13p1203r15p1220r15p1234r13p1269r13p1319r13p1356r13p1391r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.04,
+  "ascensionist_count": 71,
+  "quality_average": 3.38,
+  "hold_fingerprint": "5eb6a3652dc011ac69fd12cdedd62e5e405828345db3f7ebf75191c3ce37eb1e",
+  "validation_errors": []
+}

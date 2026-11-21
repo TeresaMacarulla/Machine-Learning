@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_21b8843c25423000f97353f8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Absidiole",
+  "setter": "Navet",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "45bce79b29c44d2a9081ec279880e806",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1148r12p1177r13p1230r13p1279r13p1318r13p1332r13p1386r14p1460r15p1465r15p1501r15p1537r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "96ff2f56dbd6d1768e4210213cd83dd131a9ac3efce4126675b06c549b2bdd13",
+  "validation_errors": []
+}

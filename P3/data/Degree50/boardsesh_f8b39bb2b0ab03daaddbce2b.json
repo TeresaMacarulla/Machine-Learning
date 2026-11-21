@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f8b39bb2b0ab03daaddbce2b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "brain dead",
+  "setter": "jpt13",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "99228F1E30564052A877BBAE936056FD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1146r15p1149r12p1234r13p1264r13p1301r13p1367r13p1390r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 14,
+  "quality_average": 3.14,
+  "hold_fingerprint": "beb6199f6571a1264c376a183dea5cd8b091f005364b5ac4c42eee61d8391908",
+  "validation_errors": []
+}

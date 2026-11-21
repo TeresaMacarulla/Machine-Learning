@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_27311c819eed12f068220475.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "fake kieltraining 17.2",
+  "setter": "juki",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "f71c7a3e-cac7-4874-9fba-9fb631da44d8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1173r12p1186r13p1188r13p1218r13p1451r15p1450r15p1452r15p1271r13p1284r13p1506r15p1321r13p1355r13p1392r14p1489r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": null,
+  "hold_fingerprint": "ebaa58d66231eae6307fdd530b7fc792eb8ede6511f80998d0cbfe025fb0ea03",
+  "validation_errors": []
+}

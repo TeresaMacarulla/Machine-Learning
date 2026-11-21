@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d42b4aa471c5f81ec90c92b1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "I'm letting go",
+  "setter": "mikebann",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "aa2c4d8e2fcb4aae950230993f4e8615",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r15p1117r12p1135r15p1137r12p1171r13p1225r13p1273r13p1289r13p1302r13p1351r13p1383r14p1456r15p1482r15p1569r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e6a0d559f3645a1039396634cd3d6dc9ae5df2da34392df99101b86e140fd7f3",
+  "validation_errors": []
+}

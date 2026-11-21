@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ee2fe8359f4606f4ab8d797e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "muscle bender",
+  "setter": "botsy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "31B1716E8192437E858420501948B560",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r12p1165r12p1215r13p1248r13p1281r13p1334r13p1385r14p1457r15p1460r15p1470r15p1512r15p1549r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.89,
+  "ascensionist_count": 9,
+  "quality_average": 3.67,
+  "hold_fingerprint": "c4b8ecf128482c94ac11a5daf40d1d9cb936dba0c9c9364c0ae80efb9bfdaff6",
+  "validation_errors": []
+}

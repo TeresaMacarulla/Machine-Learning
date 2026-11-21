@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bad100f7f82268730f60788f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Linker Winkel",
+  "setter": "Poerselmat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "e74bfd72fdc94629a30fc35016ad2192",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1170r12p1206r13p1259r13p1282r15p1325r13p1344r13p1369r13p1374r13p1383r14p1385r13p1454r15p1500r15p1534r15p1536r15p1554r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ea1a0dfe46a03c7e1e5d5dc62d6f7a15d30edb2d55cac6e21f5774d26e54d95f",
+  "validation_errors": []
+}

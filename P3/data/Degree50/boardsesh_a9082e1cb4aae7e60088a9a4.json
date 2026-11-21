@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a9082e1cb4aae7e60088a9a4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "ki x6",
+  "setter": "Greger",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ECEF2DA14DB942B4B338C15E17438C63",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1102r12p1168r12p1253r13p1267r13p1286r13p1314r13p1365r13p1379r14p1449r15p1503r15p1520r15p1555r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4a7975998724300e98aaabc89a933dafe3a30dab474d9df97c46f1bdd6250cf7",
+  "validation_errors": []
+}

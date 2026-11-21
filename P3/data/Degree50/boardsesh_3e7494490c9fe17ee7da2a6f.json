@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3e7494490c9fe17ee7da2a6f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Top Two",
+  "setter": "trendyrendy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3D203E6E26524266A60B8FEA1AEE01F6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1168r15p1205r12p1239r12p1272r13p1281r15p1304r13p1320r13p1369r13p1370r13p1383r14p1498r15p1508r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.86,
+  "ascensionist_count": 7,
+  "quality_average": 3.29,
+  "hold_fingerprint": "786d03cf3a0edb7c0a638bed6012d023315a78b5680333f6a406620449931e57",
+  "validation_errors": []
+}

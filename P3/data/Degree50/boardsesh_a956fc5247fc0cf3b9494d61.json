@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a956fc5247fc0cf3b9494d61.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Flying Snake",
+  "setter": "leonyyuan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "24e6520f698a4976bfaa75abf3ef9819",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r15p1120r15p1149r12p1150r15p1153r12p1201r15p1202r13p1232r13p1302r13p1315r13p1366r13p1380r14p1546r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "c366f36844f92b5df9fa341cd2ff44ef623bea5cb4f5a2ae4af5f37859d89ce7",
+  "validation_errors": []
+}

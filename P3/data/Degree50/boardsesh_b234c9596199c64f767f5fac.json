@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b234c9596199c64f767f5fac.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Jerikou",
+  "setter": "erikcox",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "b63b7ca8744341f8800fb791c43fb1ea",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1211r13p1316r13p1384r14p1461r15p1467r15p1483r15p1485r15p1537r15p1539r13p1566r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 6,
+  "quality_average": 2.17,
+  "hold_fingerprint": "927843085c4d75d93c66813dc7f013729ba164d3a955ba3cc6414517e6ebc245",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eb9fb5479ff8f30509e33e90.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Other sorts",
+  "setter": "arigolucky",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "50f89f3aef934f45a21fb8364627de05",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1198r12p1200r12p1247r13p1300r13p1334r13p1354r13p1386r14p1459r15p1487r15p1493r15p1529r15p1548r15p1551r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.83,
+  "ascensionist_count": 7,
+  "quality_average": 4.5,
+  "hold_fingerprint": "dbf16cc4714eeb78b4261cafa6b10790ff3755f6ea1913440f5d4aeef2544e58",
+  "validation_errors": []
+}

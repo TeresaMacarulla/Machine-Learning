@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_43b718b1b4043f1a6aede9b6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Four Cheese Tortellini ",
+  "setter": "django123221",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3de4d23c-4908-4a79-907f-ef656738a636",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1231r12p1144r15p1286r13p1494r15p1324r13p1252r13p1375r13p1395r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.32,
+  "ascensionist_count": 30,
+  "quality_average": 3.64,
+  "hold_fingerprint": "65772ab457f928a908004f753840192ac08b8bcb98b54a74eeddc45e96661a80",
+  "validation_errors": []
+}

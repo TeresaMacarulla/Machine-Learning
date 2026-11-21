@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b26aff2a4edae7e60783e3c2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "YAS 4",
+  "setter": "suggy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "58FC59C5ED944DB4B94B3A5CAC5AA2EF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1150r15p1175r12p1177r12p1215r13p1229r13p1233r13p1302r13p1350r13p1387r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 43,
+  "quality_average": 3.5500000000000003,
+  "hold_fingerprint": "492c28669a48669d69a9a5e776323f1b3120b8f65c553c3fa40fcb848545b9b1",
+  "validation_errors": []
+}

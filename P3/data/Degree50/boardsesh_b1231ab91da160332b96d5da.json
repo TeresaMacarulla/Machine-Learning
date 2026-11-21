@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b1231ab91da160332b96d5da.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "casualtension",
+  "setter": "adamfogarasi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "A3A8837C0E364F6B8B10CB6BF521F25C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1144r15p1163r13p1215r13p1220r15p1231r13p1268r13p1289r15p1302r15p1353r13p1383r14p1457r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.64,
+  "ascensionist_count": 59,
+  "quality_average": 3.49,
+  "hold_fingerprint": "88ffae082e4fb7911b03d563e2956492ec2519ffbd47295486c82328e5c7bc8c",
+  "validation_errors": []
+}

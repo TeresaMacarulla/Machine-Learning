@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dc0669bab28c40f1243cb1b2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Ham No Feet",
+  "setter": "JStreet",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "D69ED382CE2C46EDB852FB93A84D3F82",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1190r12p1248r13p1251r13p1255r13p1334r13p1388r13p1392r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "39907627abbffe7dcbfcd956cb55e02b959184303e889ae6699ec6bd0a895df0",
+  "validation_errors": []
+}

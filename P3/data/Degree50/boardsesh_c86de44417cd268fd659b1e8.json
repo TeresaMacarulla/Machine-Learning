@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c86de44417cd268fd659b1e8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Sparrow sandwich",
+  "setter": "DeltaJack",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0b96814ea99643c68827ba22c313121c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1151r12p1220r13p1250r13p1268r13p1315r13p1387r14p1504r15p1506r15p1521r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "699a949baf923183411f59875d1442856c3366d0174715ede8931104f74e1d3e",
+  "validation_errors": []
+}

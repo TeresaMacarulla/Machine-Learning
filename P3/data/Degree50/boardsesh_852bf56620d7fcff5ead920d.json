@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_852bf56620d7fcff5ead920d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "aggressive flagging",
+  "setter": "Vanwaran4",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6cd3a76072ee4ad3a18e72c4237a44dd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1202r13p1216r13p1254r13p1274r15p1284r13p1322r13p1339r13p1376r14p1456r15p1497r15p1572r15p1597r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "97b27ff68299184500a41cae5f4a23376772aafd69b99ef8dc899d7394360edd",
+  "validation_errors": []
+}

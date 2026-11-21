@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dbd2528a7c31f905dbb95fb8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "ALT:5-30U/L",
+  "setter": "KENtyobi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B5414D4BCAB04DBFB526AD4573835B23",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1130r15p1183r12p1194r15p1213r15p1215r13p1233r13p1280r13p1281r13p1350r13p1351r13p1387r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "4026e0f6eede6051addb0dfa8594fe05f52632380031bf2110aa22c76d87a04e",
+  "validation_errors": []
+}

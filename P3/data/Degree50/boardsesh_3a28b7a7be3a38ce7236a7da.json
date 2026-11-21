@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3a28b7a7be3a38ce7236a7da.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "DIN 02",
+  "setter": "schliessmeister",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 8,
+    "foot": 16
+  },
+  "source": "boardsesh",
+  "source_uuid": "84c91863fece4292ae17647d3d401ef8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1192r12p1223r12p1245r13p1246r13p1255r13p1272r13p1300r13p1302r13p1315r13p1354r13p1384r14p1386r14p1466r15p1472r15p1482r15p1483r15p1484r15p1493r15p1497r15p1499r15p1501r15p1508r15p1514r15p1529r15p1531r15p1532r15p1534r15p1549r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4ad6e544be24c6b92b0fe86573d704cfcd034e59fec4a433d13f243efae5154d",
+  "validation_errors": []
+}

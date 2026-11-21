@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_104fd1380438ca76540a50ee.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Primate Pinch",
+  "setter": "Madmonk1978",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "af6620f3eeec49198bda7a3bdf47aa62",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1239r13p1291r13p1305r13p1344r13p1391r14p1447r15p1451r15p1482r15p1518r15p1525r15p1536r15p1568r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e729aaa71a671eb33564c153a284c5d48eececdac1b4830d8212773d9f4d6deb",
+  "validation_errors": []
+}

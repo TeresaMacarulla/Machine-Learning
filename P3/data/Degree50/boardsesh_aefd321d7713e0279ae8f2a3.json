@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aefd321d7713e0279ae8f2a3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Spicy Tuna",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "B8B73D27744543DD8E82E15DB9F750EA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1127r12p1167r13p1176r12p1232r13p1238r13p1318r13p1332r13p1345r13p1379r14p1459r15p1506r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.89,
+  "ascensionist_count": 28,
+  "quality_average": 3.14,
+  "hold_fingerprint": "ae7d438d8000bb6635abc6ac90da0137340665ad21b21bfb2d1ca6402b5ce5d3",
+  "validation_errors": []
+}

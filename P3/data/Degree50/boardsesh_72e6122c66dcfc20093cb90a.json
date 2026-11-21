@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_72e6122c66dcfc20093cb90a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Implosion",
+  "setter": "pazee",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "c8ae2415518e4c208498b697d820b80b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1166r12p1181r12p1264r13p1265r13p1283r13p1329r13p1362r14p1519r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "aca70eaf8ca65073bb1a579945c002b82040bd26f126c591d28e5c76f10ca013",
+  "validation_errors": []
+}

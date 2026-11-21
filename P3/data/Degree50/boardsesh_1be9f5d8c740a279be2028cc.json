@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1be9f5d8c740a279be2028cc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "4:34",
+  "setter": "steelcity",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 1,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "DCA0ACC93A8A49AC9AAFFE714A2CD3B7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r15p1183r15p1231r12p1246r15p1267r12p1315r13p1381r14p1383r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.65,
+  "ascensionist_count": 63,
+  "quality_average": 3.35,
+  "hold_fingerprint": "ac5e375d6b86c912088bbcfc3fa9c50dae3a132d9fff920c6c82b7128b1c87fc",
+  "validation_errors": []
+}

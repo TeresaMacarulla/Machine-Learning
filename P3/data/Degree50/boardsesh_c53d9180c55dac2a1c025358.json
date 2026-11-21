@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c53d9180c55dac2a1c025358.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Santa Cruz Slide",
+  "setter": "winstonclayton",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "0BEF949DEDDA4063B189D8965D593DE3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1233r13p1284r13p1356r13p1393r14p1460r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e576fa0d4fb12e6c6a90c0bb6f44604b93c0aa8fe178a0a43e4cb1d0bcff7b5f",
+  "validation_errors": []
+}

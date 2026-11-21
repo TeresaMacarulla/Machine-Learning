@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_51232221ace5a7e01b75837d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "KBM#2 Q15",
+  "setter": "Vyti_Pasivyti",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "05E18650C7BF4B52883AB850B2DCD81B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1108r15p1159r15p1179r12p1195r12p1249r13p1302r13p1335r13p1348r13p1382r14p1531r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "c5aadd2830d00914159c86504f3873a60c380ba3ad79f7a0625353065b796679",
+  "validation_errors": []
+}

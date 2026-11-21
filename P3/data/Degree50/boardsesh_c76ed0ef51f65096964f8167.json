@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c76ed0ef51f65096964f8167.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "50 Degrees Celsius",
+  "setter": "El.B",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "f647f30da8754e85a58a385a432fd7cf",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1215r12p1236r12p1269r13p1302r13p1356r13p1386r14p1387r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.83,
+  "ascensionist_count": 42,
+  "quality_average": 3.44,
+  "hold_fingerprint": "c59cd45dd2035982445f4a491bcbcbe3238cda4a0848a9a7901519aaa13e171b",
+  "validation_errors": []
+}

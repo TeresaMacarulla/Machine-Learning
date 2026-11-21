@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ea21a039c019ee394c68e53e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "jump the ledge",
+  "setter": "SaxonCasi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "7cab306163a44b13ad1b3611efec60a3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1215r12p1267r12p1355r13p1384r14p1503r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 24,
+  "quality_average": 3.17,
+  "hold_fingerprint": "2f9ae8982392fe3cf28028358ddbbb3ea069e8850967e60f569be158bec2588d",
+  "validation_errors": []
+}

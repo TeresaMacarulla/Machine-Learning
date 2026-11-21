@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cca22f89055ea506671509c6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Evil shoulder",
+  "setter": "Nikolauk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "a0c597441a56493ea5e92bbd36b2afbd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1117r12p1188r12p1203r13p1270r13p1274r13p1350r13p1353r13p1382r14p1478r15p1506r15p1557r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.29,
+  "hold_fingerprint": "549d79de2c61574d4615b606de539bd95e8805c46bfbdd8727ffae7ad03ac932",
+  "validation_errors": []
+}

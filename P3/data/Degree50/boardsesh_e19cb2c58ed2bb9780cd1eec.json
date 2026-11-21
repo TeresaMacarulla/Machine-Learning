@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e19cb2c58ed2bb9780cd1eec.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Wide bros 1",
+  "setter": "rafrichard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "757f4ade57bb496087cce5d36fbb25a3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1175r12p1181r13p1247r13p1252r13p1269r13p1317r13p1387r14p1461r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 2.0,
+  "hold_fingerprint": "0730bfcc9cd7f1b77d55f4f093946f6badb77a35db11f4a4450d0cb7f2ba0d97",
+  "validation_errors": []
+}

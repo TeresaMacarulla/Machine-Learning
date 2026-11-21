@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3de99590eb19ed151997e874.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Slurpee Stand",
+  "setter": "walkerbtodd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "f4b0687c53ac461abc07aa40e049280c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1182r15p1205r12p1206r12p1208r15p1218r13p1220r13p1303r13p1321r13p1355r13p1390r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "55b9c1a962eb85a44324af257053c78fa8b14aa4aa4fa559e90ca58e55c277a3",
+  "validation_errors": []
+}

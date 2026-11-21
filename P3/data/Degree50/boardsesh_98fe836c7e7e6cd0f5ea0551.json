@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_98fe836c7e7e6cd0f5ea0551.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "forgot to breath",
+  "setter": "JStreet",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8B88DD8C46D04459A077BC795FA3FE1D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1124r12p1127r12p1177r13p1185r13p1233r13p1271r13p1320r13p1387r14p1469r15p1479r15p1523r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.57,
+  "hold_fingerprint": "955586de993583f2aca333ee07304de1f7bfb2b95407cdf4a9ec90a0f0748cdd",
+  "validation_errors": []
+}

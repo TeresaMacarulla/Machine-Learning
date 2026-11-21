@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1d58fe70dfd27fbee1b7b788.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Lutscher \ud83c\udf6d",
+  "setter": "AlexKnapp",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "1E95E6D5929A42938311F3189B299563",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1201r13p1239r13p1286r13p1339r13p1374r13p1395r14p1450r15p1455r15p1495r15p1496r15p1506r15p1521r15p1530r15p1550r15p1562r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.97,
+  "ascensionist_count": 39,
+  "quality_average": 3.19,
+  "hold_fingerprint": "e271cd9ae113705780d6c0d933982bec9e11b5bbe2959742b50f5681998d92bf",
+  "validation_errors": []
+}

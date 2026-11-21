@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8b091461ffd1d4d194b93fd9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Covid control!",
+  "setter": "ChiNNe",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "60FEA7E01A194FF4B0339CBA07DF8BF6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1124r12p1163r12p1179r13p1234r13p1251r13p1272r13p1305r13p1341r13p1391r14p1458r15p1468r15p1497r15p1506r15p1517r15p1534r15p1561r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "fa4ee98f8c53cb3782b98e0c0adef2caadb5846e41842acfc20eea3702b4adfa",
+  "validation_errors": []
+}

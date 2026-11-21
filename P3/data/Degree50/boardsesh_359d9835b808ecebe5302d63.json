@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_359d9835b808ecebe5302d63.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Little Bike",
+  "setter": "nick_dt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1913BFD3D56C43438DBC99F4FC2EF59D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r15p1118r15p1122r12p1136r12p1157r13p1200r15p1206r13p1240r13p1270r13p1288r13p1302r13p1353r14p1558r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "46d67262521aee45da7d2e26fa38460f55e10d18adbe3207e8f2513c5dda1a05",
+  "validation_errors": []
+}

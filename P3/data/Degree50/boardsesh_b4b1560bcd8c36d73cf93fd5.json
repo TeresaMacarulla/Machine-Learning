@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b4b1560bcd8c36d73cf93fd5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Circo Loco",
+  "setter": "stevirez",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6F6382BA36B54A4EB50D9DDFA23E66CB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r15p1166r12p1232r13p1264r13p1334r13p1381r14p1511r15p1521r15p1538r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0c3d3fba8b792f96d82f78ba5f07b410d774fd1182dab84ed8be706005b672c0",
+  "validation_errors": []
+}

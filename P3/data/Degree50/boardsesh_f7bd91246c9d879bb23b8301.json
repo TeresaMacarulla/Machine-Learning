@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f7bd91246c9d879bb23b8301.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "raccoon",
+  "setter": "kenkenk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "110DC1B7E830458FB02338844C36AC0D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1183r15p1211r12p1235r15p1247r13p1267r13p1287r13p1297r12p1336r13p1391r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.8,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "7a9bb352b649c24ecac713112a42e4e7ff23c079b7f78672243d928504d69754",
+  "validation_errors": []
+}

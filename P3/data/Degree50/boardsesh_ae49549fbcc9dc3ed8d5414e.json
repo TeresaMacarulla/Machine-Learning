@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ae49549fbcc9dc3ed8d5414e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Burn Notice",
+  "setter": "tortesla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "EB08E7FA0AC64C4E96B41CEE97BC2F29",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1191r12p1203r12p1269r13p1314r13p1383r14p1482r15p1516r15p1546r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 14,
+  "quality_average": 3.29,
+  "hold_fingerprint": "1ed48912f91a4a195ec7a5f2ec7987344506c7a183ad47837563d77efd11babc",
+  "validation_errors": []
+}

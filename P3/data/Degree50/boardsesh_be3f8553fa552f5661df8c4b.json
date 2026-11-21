@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_be3f8553fa552f5661df8c4b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "ZwEI v2 002",
+  "setter": "nerd.cave",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "DC168F3BF07F40D283337F5B29EDD070",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1176r15p1183r12p1234r13p1247r13p1281r13p1315r13p1353r14p1455r15p1457r15p1486r15p1504r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.09,
+  "ascensionist_count": 11,
+  "quality_average": 3.18,
+  "hold_fingerprint": "b7017de0927698c97e27c5c758997c970f8e7673424e160c4eeb5a7c23710272",
+  "validation_errors": []
+}

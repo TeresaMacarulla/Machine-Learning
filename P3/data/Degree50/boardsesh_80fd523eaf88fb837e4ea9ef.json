@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_80fd523eaf88fb837e4ea9ef.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Pinch Your Cheeks",
+  "setter": "BKreinbrink",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "016D3B72A18C48F59EC072C109187CC9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1148r12p1196r13p1216r13p1246r15p1283r13p1285r13p1298r13p1332r13p1367r13p1387r14p1455r15p1458r15p1487r15p1513r15p1521r15p1559r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.8,
+  "ascensionist_count": 10,
+  "quality_average": 3.6,
+  "hold_fingerprint": "331b195a31988e588b94ff3bc337aa45ffac372da3039c2be72eb73be81b5677",
+  "validation_errors": []
+}

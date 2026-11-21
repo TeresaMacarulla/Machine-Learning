@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_30081042b8221b397f0e9fb0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Swivel",
+  "setter": "ennie88",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "13051A4FBE1E4E52A4061EFCD36D4A36",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1101r12p1106r13p1170r12p1187r13p1222r13p1269r13p1316r13p1384r14p1500r15p1509r15p1549r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.8,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "596c307c4f1840f64a94c48e06510618dae13da203ad74021016e15930195442",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ec171cce4dc7b4f5264f4e70.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "kapowa",
+  "setter": "jessejr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "733608A7581540F19DE05122C88C7194",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1105r15p1170r12p1191r13p1256r13p1272r13p1304r13p1336r13p1385r14p1525r15p1557r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "8a8389a453f3ce4619218dc03036f9f999a19d85b2972dddfb97331c85ee3d54",
+  "validation_errors": []
+}

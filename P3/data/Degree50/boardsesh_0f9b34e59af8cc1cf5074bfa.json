@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0f9b34e59af8cc1cf5074bfa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Shoulder the Load",
+  "setter": "NGS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "A4F61E8DDE41452AB7D94C300DBD1D7B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1184r12p1273r13p1338r13p1392r14p1468r15p1525r12p1531r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1b8fa097b2a97ea720bd784738615b17091db71992e86f40c88e888b1460b8f0",
+  "validation_errors": []
+}

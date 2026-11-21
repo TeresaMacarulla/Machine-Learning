@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f33ac59324ea41a322eb236a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Mask Off",
+  "setter": "Hiro10",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "010b2e1ad5064aafb5ac722e3b79cd7f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1138r12p1203r13p1256r13p1305r13p1322r13p1391r14p1451r15p1527r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "eeaa6be6ccd8d8f796da86309e8fe948b1240a884973e1d397daab03643491fa",
+  "validation_errors": []
+}

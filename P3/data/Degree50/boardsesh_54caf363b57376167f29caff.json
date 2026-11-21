@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_54caf363b57376167f29caff.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Annamoly",
+  "setter": "mitch_newman4",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "6D55505EA96E48ACA73512C86C5630BB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1110r15p1133r15p1165r12p1166r12p1171r15p1198r13p1200r15p1236r13p1270r13p1305r13p1336r13p1353r13p1384r14p1454r15p1469r15p1540r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.02,
+  "ascensionist_count": 6925,
+  "quality_average": 3.210890817064353,
+  "hold_fingerprint": "22096c086aadcd3400f5f8f1e1dc96ec14676377bfcaa84d43eccc92d54ed45b",
+  "validation_errors": []
+}

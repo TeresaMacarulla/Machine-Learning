@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_60cc7df1f6b12c8451d3a2a1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Double Take",
+  "setter": "Riptile",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "DB95C4D0A7A74B6EAE9816A85588626A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1169r12p1203r13p1253r13p1263r15p1270r13p1323r13p1334r13p1354r13p1385r14p1451r15p1505r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "99e3077b46e6f9c119878599830e54487e390bd8309434d990c8a679aeb9497d",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e182f89a59e2feb60ef63f47.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "French frog",
+  "setter": "antoine.schohn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6b652a71-1396-4ab0-bbd1-cb5326e50a8e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1198r15p1216r13p1254r13p1167r12p1079r15p1286r13p1341r13p1342r13p1395r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.67,
+  "ascensionist_count": 5,
+  "quality_average": 4.67,
+  "hold_fingerprint": "9af1ff78e9c4f493a63fa74fdeb3d774f5f46eb24cec48b96a4092b913befb42",
+  "validation_errors": []
+}

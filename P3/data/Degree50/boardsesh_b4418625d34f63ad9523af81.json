@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b4418625d34f63ad9523af81.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "tornado toss",
+  "setter": "jmurphy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "3B1B80F6B5EC4083961527F85C1A4A99",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1095r15p1102r12p1147r12p1198r13p1246r13p1278r13p1345r13p1383r14p1459r15p1503r15p1555r15p1595r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "a1c5adac2759713d200f79c35fc28ea5bfef1f48c9d2f7b640b0fb0bf747e400",
+  "validation_errors": []
+}

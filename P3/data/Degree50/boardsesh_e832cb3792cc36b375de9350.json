@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e832cb3792cc36b375de9350.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "lukus",
+  "setter": "LukusSendV7",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "35cbc204-d03c-450f-bb02-1ac004cecafe",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1167r12p1181r13p1234r13p1455r15p1102r15p1282r13p1300r13p1315r13p1477r15p1152r15p1539r15p1353r14p1352r14p1578r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 5,
+  "quality_average": 2.0,
+  "hold_fingerprint": "d86ebe2d0d53f662ef419b3a4f908b94093e0b6d0a50db6124b348bdc0878862",
+  "validation_errors": []
+}

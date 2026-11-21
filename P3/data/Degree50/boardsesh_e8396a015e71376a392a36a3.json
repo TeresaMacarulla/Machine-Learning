@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e8396a015e71376a392a36a3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "bowman",
+  "setter": "thijs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "64DDE0457A6445428F8B33C54285F1C6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1095r12p1124r13p1127r12p1176r13p1217r13p1228r13p1233r13p1320r13p1326r13p1372r14p1465r15p1494r15p1522r15p1559r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b720841e481ffc827cf40fad899b4af6c49b626df364c03c48453d99febf2b08",
+  "validation_errors": []
+}

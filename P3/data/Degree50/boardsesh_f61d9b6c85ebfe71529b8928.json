@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f61d9b6c85ebfe71529b8928.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "RJKC_M_02",
+  "setter": "camzim",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C7CB91E720134B29B7BC36F40071B3BA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1108r15p1159r12p1216r12p1222r13p1233r13p1254r13p1291r13p1339r13p1394r14p1480r15p1484r15p1500r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e1e1b33a06197c8feb6a286224d4858a1b101d20b15e12eb26a456240777bbac",
+  "validation_errors": []
+}

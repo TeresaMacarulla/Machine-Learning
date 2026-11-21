@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_75b3eac052de419e0dd6bb77.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Keep Holding On",
+  "setter": "ksmd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "edbf0c7b02e848b6b537f2c70bc3c95e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1082r15p1133r15p1149r12p1154r15p1173r15p1219r13p1237r13p1240r13p1273r15p1308r13p1340r13p1394r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.04,
+  "ascensionist_count": 862,
+  "quality_average": 3.3,
+  "hold_fingerprint": "22720a9cd70bf60feb4fe6ea106ac1ebfc1033af365169c74bf4bee896571e1b",
+  "validation_errors": []
+}

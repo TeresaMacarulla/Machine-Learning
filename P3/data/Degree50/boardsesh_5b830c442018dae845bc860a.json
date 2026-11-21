@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5b830c442018dae845bc860a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "LT # 2",
+  "setter": "stefhansolo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FDAF6E560EE34BECA414D6E59AD81351",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1149r12p1189r12p1202r13p1214r15p1252r13p1270r13p1299r13p1335r13p1383r14p1451r15p1456r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f39319b97e4b9505087efe21a9eb09a1b2068fc451908fe0e6063e2bc0a8fc98",
+  "validation_errors": []
+}

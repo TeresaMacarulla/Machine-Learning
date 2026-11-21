@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ded97cc4a82231ae68efb780.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Hemorrage",
+  "setter": "GeorgeFoerster",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "EFABE9D4A59048639A77DCD395E2514E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r15p1143r12p1178r12p1204r15p1218r13p1233r13p1272r13p1323r13p1391r14p1462r15p1572r15p1596r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "2d744191d9f04aa4f57a2270e09ab9ad8e277a635964d14dc5a7f1c477b45b6e",
+  "validation_errors": []
+}

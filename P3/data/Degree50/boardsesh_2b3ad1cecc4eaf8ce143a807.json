@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2b3ad1cecc4eaf8ce143a807.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Mixture de Brocolis",
+  "setter": "Arthur548",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "c9ff829fee1345f4998286c1c52e809b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1121r12p1139r12p1189r13p1202r13p1229r15p1245r15p1269r13p1315r13p1379r14p1380r14p1447r15p1472r15p1508r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.57,
+  "ascensionist_count": 7,
+  "quality_average": 4.71,
+  "hold_fingerprint": "1cad977f8fe7a9199704e32881b61fd2becb68feaa75de039b93d59dd4aef4dc",
+  "validation_errors": []
+}

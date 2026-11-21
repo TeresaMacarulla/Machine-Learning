@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e65b1cc2bdd142f9a7d260bb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Left to Wander",
+  "setter": "Eli_Climbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "AE7E133581E54A9D82F97E6BC96A8679",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1273r13p1285r13p1371r13p1392r13p1395r14p1447r15p1491r15p1496r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b1cac93d1448abdf7fd7ec2e8f5c15778a582ff92b07a6e8183d7fdb54bf1bcd",
+  "validation_errors": []
+}

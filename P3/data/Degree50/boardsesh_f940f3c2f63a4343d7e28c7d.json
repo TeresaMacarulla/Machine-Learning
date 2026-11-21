@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f940f3c2f63a4343d7e28c7d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Venture",
+  "setter": "rian_smyth",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F0A0B0C686344476902EBCA3665AC068",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1171r15p1205r15p1237r12p1254r12p1289r13p1303r13p1354r13p1385r14p1532r15p1549r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.02,
+  "ascensionist_count": 141,
+  "quality_average": 3.35,
+  "hold_fingerprint": "26af973c21bf843389090667002d83a620e6b97d23ec718a3cfcf5d85ad20a0d",
+  "validation_errors": []
+}

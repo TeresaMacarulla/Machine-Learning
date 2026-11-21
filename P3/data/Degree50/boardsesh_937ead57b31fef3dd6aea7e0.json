@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_937ead57b31fef3dd6aea7e0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "crown royal",
+  "setter": "juligris",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "904c10674eb7444b9a6c4882d33d7b63",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1155r12p1169r12p1239r13p1257r13p1289r13p1308r13p1340r13p1393r14p1394r14p1450r15p1499r15p1507r15p1535r15p1545r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 1,
+  "quality_average": 2.0,
+  "hold_fingerprint": "60b514113b9f6a25291bddce37339aecb36c57da884e05617425303f330e7f17",
+  "validation_errors": []
+}

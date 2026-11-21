@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e303def2065301a3c84abb5c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "xtrem",
+  "setter": "juluan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "DEFCC072600C40D199902501B57FA4B3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1139r12p1152r12p1222r13p1252r13p1301r13p1314r13p1332r13p1379r14p1450r15p1546r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2edd739fa8a23080dfbd399c3e885ffd74180781196f75ed867ff805a2c4afc8",
+  "validation_errors": []
+}

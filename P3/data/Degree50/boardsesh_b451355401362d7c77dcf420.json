@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b451355401362d7c77dcf420.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "50 degrees of Grey",
+  "setter": "samuelrberg",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "cc07e1b809844f60b38c7c34faa515c5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1119r12p1153r12p1197r15p1235r13p1271r13p1282r13p1283r13p1314r13p1386r14p1452r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.25,
+  "hold_fingerprint": "601a9e903dc117593081a15c05a11e7a467f79ed457d2755730000eeadc92e64",
+  "validation_errors": []
+}

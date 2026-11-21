@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_82859d3847b14adc65c4dc80.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Insane drop knee",
+  "setter": "gcooley",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "afb17a2d5bfe4992affceb3e3f70deb1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r12p1107r15p1165r12p1201r13p1212r15p1249r13p1300r13p1373r14p1385r13p1462r15p1589r15p1592r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2dd26b0f1d511e029739fc715d7aa17106c4191b4099f8cdc235a3ff51898383",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_982f3d3202cc51b1feaec420.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Le dilemme",
+  "setter": "GuillaumeG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "3D86CBD8CA874EC2BBE7ECA52BCD1784",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1086r15p1114r12p1169r15p1197r15p1198r12p1236r13p1301r13p1353r13p1383r14p1384r14p1471r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "971a6de9aa56d117d6da80f2f5052bb0d9086d9aeabfb944e541a193dc3df717",
+  "validation_errors": []
+}

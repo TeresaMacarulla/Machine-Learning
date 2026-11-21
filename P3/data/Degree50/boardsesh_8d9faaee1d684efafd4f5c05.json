@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8d9faaee1d684efafd4f5c05.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Chupacabra",
+  "setter": "eral",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "008f343b1a9449218f6455dfe26df233",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1197r13p1216r13p1270r13p1282r13p1321r13p1376r13p1391r14p1457r15p1488r15p1503r15p1572r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.33,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "2cc5056d0701c8cf932f03b71c46dd54cd63eb1c432ca63c7be0e13995d47110",
+  "validation_errors": []
+}

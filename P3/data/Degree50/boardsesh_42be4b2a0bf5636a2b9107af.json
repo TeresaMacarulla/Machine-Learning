@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_42be4b2a0bf5636a2b9107af.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "wrong hand",
+  "setter": "mikeshewrinf",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 10
+  },
+  "source": "boardsesh",
+  "source_uuid": "b28e5c59-297f-4ab3-ad30-a0de441f9571",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1215r13p1085r15p1484r15p1230r13p1267r13p1266r13p1304r13p1544r15p1525r15p1373r13p1393r14p1580r15p1459r15p1460r15p1486r15p1504r15p1219r15p1337r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "e3d4887ba49a834d35f8b86a197f5d0205cc72e2f00d7ae60b3806c6494362ed",
+  "validation_errors": []
+}

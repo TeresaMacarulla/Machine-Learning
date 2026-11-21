@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0a4ba9543d00ceb735135106.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Antigravity Course",
+  "setter": "zAlhx",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "c21ac766c739460884b047c19769bbd7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1163r15p1186r13p1187r12p1215r13p1268r13p1336r13p1338r13p1389r14p1490r15p1541r15p1570r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.86,
+  "ascensionist_count": 8,
+  "quality_average": 3.86,
+  "hold_fingerprint": "2e8c869955d23631c0d8d0772e0050e8d70483ff7c7c244780478554b97a9757",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8d76464c9f9fdecff0cb65d9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Giant Raspberry",
+  "setter": "playdoughforshoulders",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FF0519E30F6A4F128F67BCB45165EF95",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1118r12p1133r12p1163r13p1168r13p1181r13p1194r13p1246r13p1296r13p1317r13p1332r13p1387r14p1449r15p1466r15p1548r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a08450f533be2e239e5d5ba5b0de8ebe8cbdedcac0c0a92895eab2d0f5a3bff4",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e7ab570c17982daff91d5c84.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Clam up",
+  "setter": "conquest",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "0ae7c8e4-36d7-4b35-af9e-69f27536aa88",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1197r12p1237r13p1270r13p1355r13p1352r13p1097r15p1383r14",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.68,
+  "ascensionist_count": 32,
+  "quality_average": 3.6,
+  "hold_fingerprint": "47c638ec10fabb00bc4e59204c70b37823b5911c8ed349bae86e9bd0227e7607",
+  "validation_errors": []
+}

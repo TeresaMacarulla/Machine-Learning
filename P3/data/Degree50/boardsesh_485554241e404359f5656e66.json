@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_485554241e404359f5656e66.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Dos Equis",
+  "setter": "vhajor",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7678086e-d564-4551-94bf-731d84a174ef",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1283r13p1233r13p1179r12p1477r15p1529r15p1320r13p1372r14p1548r15p1352r13p1298r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "f125982bf8a739fdab9171f4add818e192915e52d6cceaadd60b2de7a212afb6",
+  "validation_errors": []
+}

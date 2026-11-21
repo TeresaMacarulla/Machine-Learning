@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b7d682855ef339398fa735b0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "droite gauche droite gauche",
+  "setter": "biflol",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "b8134310-d7ba-4bae-89d2-aea9ebce696a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1221r12p1137r15p1240r13p1239r13p1518r15p1206r12p1219r15p1275r13p1289r13p1324r13p1337r13p1559r15p1585r15p1576r15p1355r13p1390r14p1387r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.83,
+  "ascensionist_count": 26,
+  "quality_average": 3.5,
+  "hold_fingerprint": "9c077e240e62dc90d9864410020176c82f77d70c002a1b67a57e2819b58ca0b9",
+  "validation_errors": []
+}

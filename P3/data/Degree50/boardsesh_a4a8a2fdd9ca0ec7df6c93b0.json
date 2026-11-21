@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a4a8a2fdd9ca0ec7df6c93b0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "horrible pinch match",
+  "setter": "OverGripper",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6DD54F790DFC4C73B79BC47368B35D3C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1208r12p1245r15p1254r13p1283r13p1317r13p1345r14p1447r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "e7490c6c91e3b01abb1e7281b917edead58e59d16531fe14ab7d77b112ebb495",
+  "validation_errors": []
+}

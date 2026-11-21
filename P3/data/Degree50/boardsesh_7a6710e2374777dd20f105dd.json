@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7a6710e2374777dd20f105dd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Pez",
+  "setter": "mikey.light",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "722E9C59863C4374891E5378CAAC8179",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r12p1163r12p1205r15p1215r13p1269r13p1286r13p1324r13p1371r13p1387r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.97,
+  "ascensionist_count": 18165,
+  "quality_average": 3.290777287761852,
+  "hold_fingerprint": "b3d217a65463b3a9dbc8daa6c9b2516682d57b338f66a924ff7ef1cd5437a5ca",
+  "validation_errors": []
+}

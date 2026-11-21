@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5d35e294e9e8efc617848ece.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "caution",
+  "setter": "ryotaroro",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "cd9e0382-4cca-4fc7-be74-af06cb02c45c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r13p1228r13p1143r12p1107r15p1137r15p1204r13p1324r13p1340r13p1335r13p1241r13p1369r13p1381r14",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f5ffe4784111371abcfda128bf35ca21b0df723452391cdb66d8c993e1eacbc9",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b749746abbe7227e37a41ddb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "launchpad (mini)",
+  "setter": "bpfalls",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "651dacc5b57c456696a8fd07d009362c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1166r12p1231r13p1268r13p1334r13p1387r14p1459r15p1512r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.67,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "f04d4ccbd6b66ee2fc7b570883a18761d5e848072a2de969f8b3843ba03ff07d",
+  "validation_errors": []
+}

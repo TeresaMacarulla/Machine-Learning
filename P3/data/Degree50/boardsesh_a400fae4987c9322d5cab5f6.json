@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a400fae4987c9322d5cab5f6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "BLOKhaus",
+  "setter": "juan67",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2553e29f-7622-4ad2-a648-5590b16d6d42",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1173r12p1516r12p1241r13p1307r13p1518r15p1355r13p1352r13p1550r15p1471r15p1384r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.5,
+  "hold_fingerprint": "804fa7e058ded29ce71fd6646b0be8d62937d3fc0cfbb5c9cdde2b190552d201",
+  "validation_errors": []
+}

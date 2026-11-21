@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_942c3e8c5bdd556516b160f7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "pinch foot",
+  "setter": "hungoverakorn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "C8661B4BE4084186B510A94974669557",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r15p1151r15p1188r12p1191r12p1213r15p1216r15p1240r13p1246r15p1254r13p1268r13p1289r13p1334r13p1337r13p1351r13p1383r14p1447r15p1450r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.33,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "d6a62114a11af76a79ea45c66cc3234f35d7f8ff1587cc0d3b7def0f2307024a",
+  "validation_errors": []
+}

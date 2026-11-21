@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d28baa7e9678b1fd4526a7de.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Couscous sauvage",
+  "setter": "jerolang",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "21FEAD800E844D788888A126F6656FC6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1109r12p1124r12p1209r13p1231r13p1299r13p1369r13p1387r14p1464r15p1502r15p1521r15p1559r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.25,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "d6a4a70a354cea896cfedf52cdf2ebf3b80834aaa23bfaa64445505b0d62d62a",
+  "validation_errors": []
+}

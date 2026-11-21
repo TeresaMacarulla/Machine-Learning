@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_721b812d99897303e5faa38f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "River legacy",
+  "setter": "Fdall",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "ec0d16ea32804f9d93a72c91eadf477b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1151r12p1183r12p1251r13p1304r13p1388r14p1455r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "0d6044f27b6df0130ba6495152c654adcf2a0f328c613c846e8862a398a1cfce",
+  "validation_errors": []
+}

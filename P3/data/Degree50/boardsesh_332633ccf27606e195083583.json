@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_332633ccf27606e195083583.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Crag Steep Trainer",
+  "setter": "kaipaul",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "E4A99FB5BEBB44C792EF9F58F3CA50B6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1192r12p1210r12p1212r15p1243r13p1260r13p1294r13p1311r13p1312r13p1347r13p1380r14p1382r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e2e4c75f04fe61266da1a14c91208649391e397050b7eab1047bb80da30416c7",
+  "validation_errors": []
+}

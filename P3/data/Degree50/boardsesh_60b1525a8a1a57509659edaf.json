@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_60b1525a8a1a57509659edaf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "banalit\u00e9",
+  "setter": "louisgrimpe",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "BA754BE9DAAA4D3FB9461A5E45ABF5DA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1143r12p1231r13p1248r13p1303r13p1320r13p1373r13p1385r14p1460r15p1477r15p1525r15p1558r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "98421e4e28be45c03edc71d3507c6c1e20013cdd6976328cc9964489b97b33ac",
+  "validation_errors": []
+}

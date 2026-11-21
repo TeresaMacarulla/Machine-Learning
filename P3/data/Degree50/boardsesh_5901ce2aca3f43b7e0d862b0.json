@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5901ce2aca3f43b7e0d862b0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "shadow step",
+  "setter": "Mykhailo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "D3AC2A96B132443888A5AC0B20791E1D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r12p1199r13p1249r13p1316r13p1355r14p1455r15p1477r12",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ff723ea063c0ce2a31a4fecfe5b910d65944a5b8ab69b3015a96011b9a810fae",
+  "validation_errors": []
+}

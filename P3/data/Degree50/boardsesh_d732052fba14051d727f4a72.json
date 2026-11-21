@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d732052fba14051d727f4a72.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Strategy",
+  "setter": "GeorgeFoerster",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "219E4761FA5D438FBCB58FE0056E37EE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1182r12p1184r12p1233r13p1235r13p1303r13p1374r13p1385r14p1503r15p1534r15p1571r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e283b1bd8fb1b205c35a0776aa5b845aef7e99b69673d2d77c2daf248b3290f2",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_528368f69e0ed3b726bd4240.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Death of shoulder",
+  "setter": "MichielN",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "85423a53e0ae44689d204284c4172c00",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1151r12p1201r13p1286r13p1320r13p1387r14p1476r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1834a619a7ba30d193c96b046882838987b32a94536572ef79088bf6a8fcb0a1",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d51c0c6115ade4fce23032e9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "megs5",
+  "setter": "zdordai",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "30FFEB721DE0427A934C1EC7D0B8293F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1149r12p1188r13p1201r13p1256r13p1270r13p1304r13p1334r13p1387r14p1454r15p1458r15p1471r15p1530r15p1534r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.99,
+  "ascensionist_count": 2466,
+  "quality_average": 3.3093425324675327,
+  "hold_fingerprint": "ad6130024b94e3fce00e7c6e18ac618e439530a80323f6ba02113e2c9d5bcbfc",
+  "validation_errors": []
+}

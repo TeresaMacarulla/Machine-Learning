@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8144eef5268d30cbcee4f997.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "New Tires",
+  "setter": "treviti",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "10A79BA2FF524E2DB9E1F958E5C30C8D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1191r15p1203r12p1218r12p1232r13p1254r13p1283r13p1304r13p1332r15p1387r14p1503r15p1511r15p1514r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "cd8354179662823cbd76bb5f9b72f4bb7b05408247bb6b6291485934893de581",
+  "validation_errors": []
+}

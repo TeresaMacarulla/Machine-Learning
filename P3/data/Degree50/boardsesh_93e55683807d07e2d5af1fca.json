@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_93e55683807d07e2d5af1fca.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Tabula Rasa",
+  "setter": "JohBier",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "cae3a40f-3bff-4ae5-b0ed-b3ccb867665c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1462r15p1459r15p1454r15p1147r12p1182r13p1184r13p1234r13p1484r12p1255r13p1305r13p1360r13p1391r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "449c25578ae9d1c22515bd360adb679df5440587acf2e03374c9a1ffb4d8a909",
+  "validation_errors": []
+}

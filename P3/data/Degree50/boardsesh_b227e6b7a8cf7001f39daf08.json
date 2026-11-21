@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b227e6b7a8cf7001f39daf08.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Schwing it!",
+  "setter": "BoulderDaniel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1DEA866CC0C94DB18F055473C46E33C8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1111r12p1149r12p1199r13p1253r13p1305r13p1342r13p1394r14p1455r15p1470r15p1516r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4cedb1dbb4a4a3fb67b18542fb29858dd89753ac120cfc37336bf095cccd55e8",
+  "validation_errors": []
+}

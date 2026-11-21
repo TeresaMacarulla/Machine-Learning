@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e9fb734028b06e8eef44e407.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Sequences",
+  "setter": "AdamKnight",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F3ACE9E1C44A444888D4CE24BBC72BF1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1101r15p1117r15p1182r13p1187r13p1199r13p1213r12p1271r13p1304r13p1357r13p1365r14p1370r13p1511r12p1526r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6fc172bd5e026da4c1b0fd322b5855734d938ffe10da16d199344da56996c7d3",
+  "validation_errors": []
+}

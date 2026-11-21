@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6645eb7d7b6248f891a42b18.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "koers v2",
+  "setter": "thanesends",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "D8564E9890BD4380B963DB7D46124620",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1149r12p1250r13p1273r13p1341r13p1392r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "9febf2088722ad147be6aff113fe74335a497a8cf4c4fcccb945b0830d0e42c6",
+  "validation_errors": []
+}

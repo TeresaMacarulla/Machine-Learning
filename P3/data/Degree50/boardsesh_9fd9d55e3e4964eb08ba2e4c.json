@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9fd9d55e3e4964eb08ba2e4c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Largest Dyno in the World",
+  "setter": "englewoodipad",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 1,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "7C9DFC0B1BCA479CA5DB77A4AF067220",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r12p1234r13p1353r14p1470r15p1478r15p1513r15p1514r15p1523r15p1524r15p1559r15p1560r15p1568r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9fffc895507f76cc428e970c908cc8afaaea0519d8580eecca6857c3019fa3ac",
+  "validation_errors": []
+}

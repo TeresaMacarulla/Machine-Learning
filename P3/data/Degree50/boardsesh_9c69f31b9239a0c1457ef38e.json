@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9c69f31b9239a0c1457ef38e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "sissi",
+  "setter": "blubblub",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3ddf596a58e84fbda4f246048b02ec15",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1168r15p1200r12p1236r13p1269r13p1305r14p1469r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.17,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "e73e7e078268d6d736da43c98b783ae1caac7112e0201a8e9caa9b70a4356900",
+  "validation_errors": []
+}

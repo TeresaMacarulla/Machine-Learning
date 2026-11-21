@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e4c1a361d3d3b9ecb5c4b320.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Herod\u2019s ascent",
+  "setter": "Kubi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "EF495681CEC24224B7985AA32003D3CB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1162r15p1182r13p1215r13p1267r13p1299r13p1335r13p1384r14p1456r15p1461r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.75,
+  "ascensionist_count": 4,
+  "quality_average": 2.25,
+  "hold_fingerprint": "7473bb98e76dc4bb6fbe5dbab498ce027e0bc257e76b06c2bfcbe918fee44c6c",
+  "validation_errors": []
+}

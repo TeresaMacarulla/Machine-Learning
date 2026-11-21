@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9d90585b595b756935485223.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "momentum moment",
+  "setter": "lilspread",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "6FD25EF288434F79A443D43B8E4B8DD6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r15p1237r12p1241r12p1302r13p1331r13p1347r13p1379r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d5c6f408433488f524abce2f65fd7ca45f9289d5acad04cc46984d5f57015560",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_72b16e59010c61961f0abd2a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "lotta effort",
+  "setter": "strings",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "1957F8F53A4148AAA933F8BE91678A58",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1125r12p1145r12p1195r13p1229r13p1247r13p1273r15p1303r13p1336r13p1392r14p1460r15p1484r15p1501r15p1533r15p1550r13p1567r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "d20fb5b7d3953f45279d2b6acb1764e08b999333d933014bb53c5770e2e9f2fc",
+  "validation_errors": []
+}

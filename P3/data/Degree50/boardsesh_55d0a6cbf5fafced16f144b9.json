@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_55d0a6cbf5fafced16f144b9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "hawk one-ah",
+  "setter": "brainus",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "BDDABCE38B1F4F3D84220555C611CA3B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r15p1113r15p1177r12p1179r12p1249r13p1296r13p1353r13p1355r13p1359r13p1394r14p1502r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4a3ebf2ab10fe1347526a9eea60319677b9337ff4176f2e82e73cfc0e113363c",
+  "validation_errors": []
+}

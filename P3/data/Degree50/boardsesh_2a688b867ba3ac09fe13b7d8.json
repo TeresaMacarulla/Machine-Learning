@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2a688b867ba3ac09fe13b7d8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Bird first jump",
+  "setter": "okla_boulder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "AC633F5C41AD4D549AC833CD26C25DD0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1205r15p1257r12p1259r12p1343r13p1391r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "de14bb5dfcc6d059d05c29bb5e11038efcc08d869d7f0a9f39ef96033b40a235",
+  "validation_errors": []
+}

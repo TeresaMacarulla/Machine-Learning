@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_130d28565fe350192e764316.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "386chan vol.1",
+  "setter": "Senkatz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "dd84356865eb4ec384e3b0d3ae059076",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1144r15p1147r12p1200r13p1248r13p1249r13p1283r13p1304r13p1369r13p1370r13p1384r14p1452r15p1534r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3c2513312041465c80ab2bddb857b5b56da8e71052533e13b3b1639826fdfa54",
+  "validation_errors": []
+}

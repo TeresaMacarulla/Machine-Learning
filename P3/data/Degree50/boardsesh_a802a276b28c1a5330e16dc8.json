@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a802a276b28c1a5330e16dc8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Die dynamische Leonie",
+  "setter": "bauersuchrdasweite",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "979f1a7810a449aba897e8c0a14a04c8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1145r12p1234r13p1284r13p1356r13p1386r14p1459r15p1504r15p1561r15p1578r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1e6f7e046ae337e378d8f6c25279a646dfb32c706edc9fb6e28c292372f4cae6",
+  "validation_errors": []
+}

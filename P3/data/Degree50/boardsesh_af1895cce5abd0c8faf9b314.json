@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_af1895cce5abd0c8faf9b314.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "sliding#",
+  "setter": "walker12345",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B7A8B09DD818404AA35878BEA9BA02CD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1163r12p1215r13p1302r13p1387r14p1467r15p1468r15p1514r15p1559r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "af241a99a1621fd403fc8f116483eec1035c2c531ea1ac7b1c518f211c60a426",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bce200ed70bb9a58cc8d0471.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Timing",
+  "setter": "mitchellbsu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0329EA19AE8E4FA791E1C29DD45B5BEA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1186r15p1216r13p1222r13p1285r13p1353r13p1383r14p1451r15p1504r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "56a6d820bddbdab3ee2624cfabe5f0845d24a7c16ba8e6c2be83009fc31d5e7f",
+  "validation_errors": []
+}

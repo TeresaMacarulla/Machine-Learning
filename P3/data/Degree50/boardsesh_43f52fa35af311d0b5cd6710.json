@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_43f52fa35af311d0b5cd6710.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "take a peek",
+  "setter": "rootfinlay",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0D53F1E7D15B473D8E01B5DFB0B89906",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1210r12p1278r13p1316r13p1350r13p1371r13p1389r14p1391r14p1502r12p1523r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "97019a691f3ddf56efd6f5a7a8f8252a2e17222f6cd4ae76241e59d1e41f0f0b",
+  "validation_errors": []
+}

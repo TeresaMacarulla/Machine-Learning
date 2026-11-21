@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_502efae8f9a351e215f33e50.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "RG hoch das bein",
+  "setter": "SebastianG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "dce4295e778442028105a96f335f0bc7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1133r12p1150r12p1203r13p1217r13p1284r13p1287r13p1301r13p1334r13p1385r14p1454r15p1455r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "ee53af09adaf9ebc45577ad21e62f6c1a8957b4c54681501af19e3d550dd94a3",
+  "validation_errors": []
+}

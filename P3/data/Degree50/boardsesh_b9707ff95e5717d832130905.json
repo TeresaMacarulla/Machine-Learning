@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b9707ff95e5717d832130905.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Three Card Monte",
+  "setter": "KotoriFriedBacon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0ae103c6-bf34-4d05-8fd4-171f49b1efab",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1308r12p1340r13p1354r13p1553r15p1387r14p1579r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.5,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "5d5a760bebdaa889d89041602e9a986a65120a516b682cfc7fc5195ac7e5f990",
+  "validation_errors": []
+}

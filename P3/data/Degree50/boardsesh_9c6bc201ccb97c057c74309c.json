@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9c6bc201ccb97c057c74309c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Pink 6 at Bayside",
+  "setter": "lpet",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3759b30ba6394362b34956d3c95cf871",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1143r12p1193r12p1213r13p1214r13p1234r13p1283r13p1289r15p1303r13p1335r13p1388r14p1461r15p1497r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "2244d41c56c3fc324d1c21c95aa01f555d82d63b1a972c14dcf7004630915555",
+  "validation_errors": []
+}

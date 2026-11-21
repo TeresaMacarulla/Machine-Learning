@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_61b33cde2a9e7678eadb1a24.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "La flojera",
+  "setter": "Flegias",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ae8dc708c1274fd4acbac9562ec1c10b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1176r13p1214r13p1247r13p1301r13p1332r13p1386r14p1457r15p1460r15p1464r15p1477r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "fb1e01175104e0361c5566e3ea9eb31436df4d9e29137d3ee8f7958fc975664b",
+  "validation_errors": []
+}

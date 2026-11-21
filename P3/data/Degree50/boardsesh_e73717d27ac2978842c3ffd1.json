@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e73717d27ac2978842c3ffd1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Drone Heel EZ",
+  "setter": "Jorn0910",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3ea67a2334bd4085b49c2c9b03fb1ad9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r15p1153r12p1183r12p1187r13p1190r15p1269r13p1305r13p1353r13p1382r14p1386r13p1532r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "02cacf9353a5d688807148fab7280f4c7d3733f460a6d65476667597c6be1d79",
+  "validation_errors": []
+}

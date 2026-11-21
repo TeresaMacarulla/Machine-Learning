@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_459837c0f200827c68df46a1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "360x360 (easy)",
+  "setter": "lillben",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0a2ce662a1b745aa83a20db6937a201f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1157r12p1161r15p1189r12p1201r15p1219r13p1248r13p1315r13p1351r13p1390r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.9,
+  "ascensionist_count": 44,
+  "quality_average": 3.5,
+  "hold_fingerprint": "1b243917871de612fec29d55106fa91581100770390763fd866642b70ef03d73",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f97fee0239e5aeff3cd5e806.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "feels v5",
+  "setter": "garrick_hague",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "c913928b8cf84d13b3366d8e68338221",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1215r13p1249r13p1264r13p1318r13p1330r13p1365r13p1379r14p1454r15p1458r15p1476r15p1511r15p1546r15p1549r15p1558r15p1564r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "747bca775cbabe872825b759cf8e437ba2543eec795410349f0ed6f6c99e4942",
+  "validation_errors": []
+}

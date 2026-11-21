@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fdf195f7c902f747dc881275.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "hit it from the back",
+  "setter": "yamean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "376AB1878CB149D18018E1271F274011",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1096r15p1141r12p1144r15p1163r12p1195r13p1230r15p1234r13p1263r13p1302r13p1350r13p1385r14p1387r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.4,
+  "ascensionist_count": 5,
+  "quality_average": 3.6,
+  "hold_fingerprint": "7b58b4f8459b8dfdbedbb6d70e8faef06e3aea96c8ab0eae919104cdaff9ee3f",
+  "validation_errors": []
+}

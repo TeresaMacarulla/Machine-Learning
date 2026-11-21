@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_13a819be48a5b3df287286ab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Torseur couple",
+  "setter": "Kiwivolant",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "24705f77-ec6f-403e-b457-9b4a2f9a289e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1164r12p1165r12p1250r13p1263r13p1249r14p1315r13p1345r13p1379r14p1501r15p1083r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "04569307f7bff2ae02ca5ed70e86cee3d387bc735c13c24876fa9d1f04fb71ef",
+  "validation_errors": []
+}

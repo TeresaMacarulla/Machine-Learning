@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_23688215991ce6f85ec0f293.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Full Service SDS",
+  "setter": "nlun",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 11,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "cf2a0f880b07493c986187626243f6a3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1096r12p1109r12p1163r13p1200r13p1205r13p1218r13p1257r13p1274r13p1305r13p1336r13p1339r13p1366r13p1369r13p1379r14p1380r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "785df12adc4d45b00434dea854478edea6091c997b2c699847aef274e44028cf",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8440dd493ad4ab2cc0e59878.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "100 Problem",
+  "setter": "adriankask",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4a432184a36849bb80777e09c0e218a1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1198r12p1249r13p1264r13p1332r13p1345r13p1379r14p1511r15p1520r15p1537r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.96,
+  "ascensionist_count": 26,
+  "quality_average": 3.62,
+  "hold_fingerprint": "01955a06bdbb389f9b208f5c4226d3e54b80592006dbc303d65bf4b54c4711a3",
+  "validation_errors": []
+}

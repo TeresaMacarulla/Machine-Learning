@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_26ca0431424640322df3d3a8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "boom brap",
+  "setter": "bobdjango",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "9df11a3c30de43b89299f862ac1def8c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r12p1155r12p1222r13p1237r13p1284r13p1354r13p1388r14p1450r15p1499r15p1513r15p1521r15p1542r13p1570r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "2509c772c68be658c541a55f56fed07d90fa88c286517f937c7ef552921e6d9d",
+  "validation_errors": []
+}

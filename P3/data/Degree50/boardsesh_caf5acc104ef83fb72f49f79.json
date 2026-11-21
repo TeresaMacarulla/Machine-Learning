@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_caf5acc104ef83fb72f49f79.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Hegeschuss",
+  "setter": "Mathissamuel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "459f30cb58a7421d8a3a8a01e19f31d1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r15p1196r15p1201r12p1270r13p1283r13p1338r13p1391r14p1508r12p1552r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "4ca9df94cde6e80c69ca24c193158f05b93f0bc1077433d79b2c3b30645c7af0",
+  "validation_errors": []
+}

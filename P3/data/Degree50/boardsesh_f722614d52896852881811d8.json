@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f722614d52896852881811d8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "dislocation ",
+  "setter": "mateclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "a8832e2a-6f88-4769-a403-16f88b68859f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1269r13p1274r13p1171r15p1515r15p1292r13p1344r13p1357r13p1536r15p1218r13p1133r12p1116r12p1453r15p1494r15p1191r15p1373r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.56,
+  "ascensionist_count": 10,
+  "quality_average": 4.67,
+  "hold_fingerprint": "4450995daf2932f5e8f795e54c994b3b303c2a4dc251ebf0e39d3da50c1c72c6",
+  "validation_errors": []
+}

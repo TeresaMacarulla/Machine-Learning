@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9b2196cc8270081887190caf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "take five",
+  "setter": "jchongsends",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "DE6DEDEA42904AB4BB71D986D1842A25",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1201r12p1272r13p1304r13p1373r13p1385r14p1469r15p1489r15p1506r15p1534r15p1575r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.9100000000000006,
+  "hold_fingerprint": "8dc9baa938eba1a60903b91c2eeac5944970fd6f828e5ca237173cd66f07e76a",
+  "validation_errors": []
+}

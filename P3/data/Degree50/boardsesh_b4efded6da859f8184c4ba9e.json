@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b4efded6da859f8184c4ba9e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Grip It and Rip It",
+  "setter": "santobekking",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "3E5558748E5141608BA7D1EF57C9ABFF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1217r13p1219r13p1301r13p1303r13p1386r14p1478r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b784790b10345c1ed513fb5b1b699a0e34bf4ed82e524096081fb72f53480118",
+  "validation_errors": []
+}

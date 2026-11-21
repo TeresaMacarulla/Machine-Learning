@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0c3a5b13211a1048471a7d1d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "traffic barrier",
+  "setter": "peskinmaxim",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "35fd11b9d6c74f9bac25da3e01618fa9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1120r15p1155r12p1224r13p1308r13p1340r13p1387r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d6df4710283058ad971ca6c2734de454e0b7cf3b9314844136c43fd0fe6b0085",
+  "validation_errors": []
+}

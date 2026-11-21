@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3dd509a87cc1fe37b171182f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "White kilter 3",
+  "setter": "kanachan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0CEA5E4FE55D41D497B34FC2AC9EFC78",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r15p1170r15p1174r12p1203r15p1205r12p1241r13p1255r13p1269r15p1273r13p1306r13p1340r13p1371r13p1387r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b1b5f65fe1938b4b91b54028d9e72ac679ed0881bfcc4c923225c1c627c06e10",
+  "validation_errors": []
+}

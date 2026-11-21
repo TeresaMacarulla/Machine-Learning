@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_38447f5bed270d63c5b32724.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Skin the Skin",
+  "setter": "Trombonian1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "86eb2aa8f4934dc89ece457122942bae",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1149r12p1166r15p1234r13p1268r13p1304r13p1371r14p1454r15p1455r15p1456r15p1457r15p1534r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9e73fa52602397dcb72ba47ef8fda9d6e9ad701abda7ebbcb6dff3459696c23c",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f1b769a44559cea449a985ab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Fahrverbot",
+  "setter": "JonathanStrack",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "623C54DC33A24C30B124DB1A3542615E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1160r12p1177r12p1231r13p1264r13p1300r13p1334r13p1385r14p1389r14p1463r15p1504r15p1521r15p1541r15p1559r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "de5047125c729999aa0731a73283ad6083f6c9fa38b3b17a2f13853d73604b02",
+  "validation_errors": []
+}

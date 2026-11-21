@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e1a6838814963ab7084c5429.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Paddle 1",
+  "setter": "colinclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "127E1160B33F4EC98045B0DFF30C303B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1286r12p1320r13p1331r13p1348r13p1379r14p1543r12",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c0ccdb79cafb9591d4faeb4dbc83f7f47d92a0296b8ff6acfdfa9bf8ba341c51",
+  "validation_errors": []
+}

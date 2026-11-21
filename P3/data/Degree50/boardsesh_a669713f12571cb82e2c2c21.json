@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a669713f12571cb82e2c2c21.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "exposure slider",
+  "setter": "faucet",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2fda22cae7624c90ad094a7ad4d244e4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1152r15p1168r12p1214r13p1268r13p1321r13p1391r14p1504r15p1506r12p1525r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "f9e96d0573cd44e349583a35c4a58f02c1b900e187a9fdcf610772a66db825ee",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e94c84660a01a04e5fc1aa1d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "for.senzaki",
+  "setter": "kanachan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "CC050E78CA044144B6F5C4F3A0DA4624",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1136r12p1203r13p1236r13p1256r13p1306r13p1340r13p1394r14p1453r15p1517r15p1553r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "70793de3b50b0b6eb6ed1e6afbf950488b594ed235a68ecf2c25ac8c4bf27dc8",
+  "validation_errors": []
+}

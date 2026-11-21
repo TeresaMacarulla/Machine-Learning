@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_275441cc0c8787e65dd43bf5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Swift Undercut",
+  "setter": "PJP",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "5DED4C2BFBE147FB8DEF4020DD937197",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1231r13p1252r13p1272r13p1303r13p1356r13p1392r14p1456r15p1460r15p1493r12p1507r15p1526r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.57,
+  "hold_fingerprint": "368a353aee4c5d69e0025d4d8843b92a05df098d6708eb4d23931e56449d1cb8",
+  "validation_errors": []
+}

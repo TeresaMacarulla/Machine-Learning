@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_35a21a2fe2f8f3b79a5c5c04.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "KEEP",
+  "setter": "juluan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7C2D933EB4E54E7CB0F34793B07E0B6B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1112r15p1133r15p1197r12p1200r15p1283r13p1285r13p1340r13p1357r13p1395r14p1532r12",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.5,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "0f83eb34d0d9473d64bebb26cbfeb4aa86250a8c30263127840d0e7048532a41",
+  "validation_errors": []
+}

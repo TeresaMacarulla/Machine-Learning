@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8fe11497e9102475f9118050.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "La baffe",
+  "setter": "mattdaga",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3e7f5c54752c49689a3048f409708315",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1131r15p1144r15p1171r12p1174r12p1201r13p1213r13p1248r13p1296r13p1383r14p1523r13p1594r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "61c2d2f318797968ed10a6d0b388d6c94ed4f80befbb107c709f05c8cf882514",
+  "validation_errors": []
+}

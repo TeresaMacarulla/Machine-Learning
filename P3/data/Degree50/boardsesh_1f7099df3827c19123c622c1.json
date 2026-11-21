@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1f7099df3827c19123c622c1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "fever",
+  "setter": "soccer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "749F90E25C2D46CAA23116551A867BFA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r12p1096r15p1163r15p1169r12p1186r13p1201r13p1269r13p1301r13p1316r15p1355r14p1454r15p1469r15p1567r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "04bfcc29932da68356fca20db974fa744a5f505d2f0341e48227f7c703d12097",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b1ff81d30b22046b81b9277.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "HeuliMeuli",
+  "setter": "ch3ck",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "8CD31A8E7B6A4FD58EB247D34380ECEE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1113r15p1135r12p1150r12p1202r13p1234r13p1289r13p1324r13p1344r13p1391r14p1452r15p1513r15p1533r15p1535r15p1595r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "263ebcf6f24be05dbbe1fa759b4fddf37de6cd353d0e6e59efc7adaea1e19f41",
+  "validation_errors": []
+}

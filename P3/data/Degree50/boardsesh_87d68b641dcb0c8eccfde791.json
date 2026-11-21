@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_87d68b641dcb0c8eccfde791.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "MovementPattern",
+  "setter": "Ullie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "87efe5e2829f4983a82fc6fe0b730016",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1149r12p1171r15p1200r13p1203r15p1221r13p1270r13p1272r13p1340r13p1393r14p1452r15p1456r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "43a02690a6daf7bf196771926f78b44e987cc2c3ad1173e146dec16c58e69a0f",
+  "validation_errors": []
+}

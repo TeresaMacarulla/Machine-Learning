@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_86e240e56dcd6f0fcfb5be89.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Nerve Damage",
+  "setter": "climb513",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "FAC60E3A11A54925A4968D534FEEA146",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1077r15p1078r15p1079r15p1080r15p1167r12p1185r12p1250r13p1282r13p1318r13p1382r14p1383r14p1506r15p1551r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "fb2ce7d05d8a6e145280fb7b19509000236c034b3bc955b10722076e4c8658c2",
+  "validation_errors": []
+}

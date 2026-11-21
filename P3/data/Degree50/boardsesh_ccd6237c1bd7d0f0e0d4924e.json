@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ccd6237c1bd7d0f0e0d4924e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "crimp flow",
+  "setter": "galen.norton20",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6CA83DA678D94D548E94CF2378D06FF0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r15p1180r12p1181r12p1233r13p1247r13p1302r13p1352r13p1387r14p1456r15p1459r15p1533r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.67,
+  "hold_fingerprint": "44976c40e971b670cd5b9df93e60cc1969ca5287bb9d6bf51f14766dec12e2f3",
+  "validation_errors": []
+}

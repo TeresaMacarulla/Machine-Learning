@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_80aa2d679fc3de3bef236a2f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Centurion",
+  "setter": "DelireEscalade",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "ca0484d54cf34bb9a20d6065e222c694",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1108r15p1142r12p1146r15p1175r15p1180r15p1192r12p1226r15p1246r13p1262r13p1281r13p1294r13p1347r13p1380r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.98,
+  "ascensionist_count": 16406,
+  "quality_average": 3.1701611426478666,
+  "hold_fingerprint": "39b9b3bfcd89d35022e3acf1b9e3c10c8608f0876be443705aa58f4858f614ff",
+  "validation_errors": []
+}

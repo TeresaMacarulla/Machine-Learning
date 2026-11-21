@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_af8168f860238e2a7e3f5f6b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "swing set ",
+  "setter": "Gav",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0af8037e-c053-4b6d-8639-5bc0db82541a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1227r12p1210r12p1465r15p1459r15p1493r15p1215r13p1199r13p1270r13p1272r13p1496r15p1171r15p1293r13p1361r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.6,
+  "ascensionist_count": 70,
+  "quality_average": 3.71,
+  "hold_fingerprint": "37c330ffdf25d696e414a85b5b2125fa3f4a8ec7f1ff7f5ae3f974b10a8d1927",
+  "validation_errors": []
+}

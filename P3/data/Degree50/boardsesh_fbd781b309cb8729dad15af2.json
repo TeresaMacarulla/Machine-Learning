@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fbd781b309cb8729dad15af2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "got em",
+  "setter": "Dozer_Naylor",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "a73f611a4fb14e3ab32b1a561ef1047b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1077r15p1155r12p1203r13p1269r13p1287r13p1340r13p1395r14p1478r15p1495r15p1545r15p1572r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "3105635614e381d97927a0a52d09313584f3d5003af99fd5ff9e93a5e18f26fb",
+  "validation_errors": []
+}

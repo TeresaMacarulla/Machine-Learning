@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9bf01556cf18fa93fff6d22d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Frozen Fracture",
+  "setter": "markusleeb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "80AB94A28C9F4A54B68482D3E9341282",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1126r12p1131r15p1145r12p1192r13p1246r13p1261r13p1300r13p1331r13p1384r14p1483r15p1531r15p1550r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7473a3efd681e75f4b4dab7b27f871182e425e5bb15697ac51a9d5a84faeed2c",
+  "validation_errors": []
+}

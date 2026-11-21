@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a7840822b1743e701607bd56.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Catch of the Day",
+  "setter": "carolinecochrane",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9156EB2B28854E5A81BB4A9C4F2F1DE7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1156r15p1160r15p1201r13p1218r13p1231r13p1248r13p1278r13p1332r13p1364r14p1449r15p1487r12",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 14,
+  "quality_average": 3.71,
+  "hold_fingerprint": "072d912142e4925d1dfb5d1b3af52159843f5abee305466f3ad8e7a51f656e78",
+  "validation_errors": []
+}

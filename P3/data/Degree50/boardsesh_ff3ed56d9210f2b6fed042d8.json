@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ff3ed56d9210f2b6fed042d8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "hard v5",
+  "setter": "eladporat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "89971bbe57934e58be12f631958e65f7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1135r12p1186r13p1216r13p1269r13p1300r13p1355r13p1389r14p1452r15p1454r15p1479r15p1496r15p1533r15p1540r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "68ae86d37723afa0dfb8444cc5a63ece71091faadfcdc5d462da226654991179",
+  "validation_errors": []
+}

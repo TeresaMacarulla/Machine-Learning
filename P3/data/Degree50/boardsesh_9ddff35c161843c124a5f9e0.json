@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9ddff35c161843c124a5f9e0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "spin2bump",
+  "setter": "morrhenr369",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0e0a79aa-d545-4bf5-84e7-447b33289344",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1219r13p1234r13p1151r12p1453r15p1153r12p1248r13p1494r15p1285r13p1183r15p1318r13p1331r14p1348r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 4,
+  "quality_average": 0.5,
+  "hold_fingerprint": "66ab1728e93b9a83d1e7dd43d58d3b04c0b3e5112e25655a8528e6b9bf34489c",
+  "validation_errors": []
+}

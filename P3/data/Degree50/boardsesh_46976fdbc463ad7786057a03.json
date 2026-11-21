@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_46976fdbc463ad7786057a03.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "wrist rocket",
+  "setter": "seabass3629",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "d8b23b3f-11fd-48e6-87bd-219cb5806c65",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r12p1503r15p1086r15p1250r13p1271r13p1254r13p1339r13p1370r13p1384r14p1517r15p1508r15p1536r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c0b83ae285cedb55575cb3a2e85e631140e9ee9c0a12064dbeff5e233e9714fa",
+  "validation_errors": []
+}

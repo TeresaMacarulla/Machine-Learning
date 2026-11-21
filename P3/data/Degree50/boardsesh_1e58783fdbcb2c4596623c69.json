@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1e58783fdbcb2c4596623c69.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "17:44",
+  "setter": "LorenzG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "d069de3afa3a4c54831fe4d74451fd73",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1163r12p1214r13p1215r13p1220r15p1268r13p1302r13p1304r13p1387r14p1389r14p1525r15p1533r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "d61fab78e443b91a93e4edae7fe28083d55e9fe42096011eb0e3715ae5e3ce1f",
+  "validation_errors": []
+}

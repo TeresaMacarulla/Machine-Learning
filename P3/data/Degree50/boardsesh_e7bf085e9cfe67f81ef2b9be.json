@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e7bf085e9cfe67f81ef2b9be.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "takai#10",
+  "setter": "yutaka0325",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "CE6D7EECEC554036A905C1B2C422B442",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r12p1188r13p1201r13p1203r13p1271r13p1287r13p1304r13p1352r13p1386r14p1447r15p1453r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "c2863ec49570fe3752a09932b50b3af2830bc3870ea0acf0e975f36ece7a37b7",
+  "validation_errors": []
+}

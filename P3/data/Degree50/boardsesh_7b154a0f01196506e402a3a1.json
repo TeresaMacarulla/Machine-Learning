@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b154a0f01196506e402a3a1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "The Hateful Eight",
+  "setter": "loin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "576B2564BA534046A82A1040784901EC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1151r12p1168r12p1199r13p1250r13p1299r13p1352r13p1382r14p1476r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "372263f147cf9d91e72119107fe61392c9fd27c22467e02772899992b007e98e",
+  "validation_errors": []
+}

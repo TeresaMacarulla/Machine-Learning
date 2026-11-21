@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c9cc02d64cfbaef9858bfc7a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "hangar1",
+  "setter": "Richae",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "6C99F3E58D1147E98D44CDAAC4ADF470",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1153r12p1201r12p1236r13p1250r15p1263r15p1266r13p1302r13p1350r13p1387r14p1472r15p1497r15p1504r15p1531r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.5,
+  "ascensionist_count": 4,
+  "quality_average": 2.25,
+  "hold_fingerprint": "eca43396c0be27d12f6d1ea87e09d9b025193be672f39e88819cb2587c5c604a",
+  "validation_errors": []
+}

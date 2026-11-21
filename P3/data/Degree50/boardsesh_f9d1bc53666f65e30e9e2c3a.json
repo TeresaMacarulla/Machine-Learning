@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f9d1bc53666f65e30e9e2c3a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Campus boulder v.1",
+  "setter": "AidanSchenk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "B82F4B04C8DD4CED82586EFD42C38CEE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r12p1302r13p1334r13p1382r14p1384r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.89,
+  "ascensionist_count": 9,
+  "quality_average": 2.67,
+  "hold_fingerprint": "1fefed7070b0bb4d0a3532f2c7be10cb73a9355c47afa7c6a20768714e840d38",
+  "validation_errors": []
+}

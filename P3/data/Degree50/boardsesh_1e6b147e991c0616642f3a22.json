@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1e6b147e991c0616642f3a22.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Spiderwebs ",
+  "setter": "just_particles",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "75bf5dd0-0f93-4ba8-8a51-e5786d48018d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1308r13p1253r13p1270r13p1154r15p1199r12p1186r12p1340r13p1387r14p1373r13p1536r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.17,
+  "ascensionist_count": 11,
+  "quality_average": 3.5,
+  "hold_fingerprint": "c71b399680ce984d1f76e05b0586036b886bb2d02cccb3dcda1d3fb5856085c1",
+  "validation_errors": []
+}

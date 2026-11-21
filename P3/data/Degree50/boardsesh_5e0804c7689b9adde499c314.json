@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5e0804c7689b9adde499c314.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Gettem",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "E159367088D043EC800B83BE167C9D47",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1144r12p1163r12p1229r13p1268r13p1356r13p1391r14p1501r15p1506r15p1514r15p1522r15p1550r15p1568r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.05,
+  "ascensionist_count": 380,
+  "quality_average": 3.32,
+  "hold_fingerprint": "e665456a1e2ee0a02d06f7f19daadb8fd7fefc548cc9cae100ead81afe384491",
+  "validation_errors": []
+}

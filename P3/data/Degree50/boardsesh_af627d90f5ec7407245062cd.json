@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_af627d90f5ec7407245062cd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Woolly Worm",
+  "setter": "ramiannab",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0E4FE7940F9A45F0A64378E93858A8DC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1112r12p1178r12p1250r13p1298r13p1339r13p1352r13p1368r13p1391r14p1524r15p1529r15p1548r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "74d045a688b2e5a3665a781e5eaae48cd0dab32ca14ad9b48e0d3634c3fa995b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_abd67dcc0e47360e9f81f11f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "cardio",
+  "setter": "gabi_dwz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8bc12bf3-0423-4054-92cf-34f19f5a13ac",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1138r12p1152r12p1241r13p1288r13p1271r13p1318r13p1369r13p1447r15p1453r15p1381r14",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "34e7a0658db17f17e689a0bc92b0920df3ef4a338719eb12314738e78c440eda",
+  "validation_errors": []
+}

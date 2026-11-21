@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3dc2f0554e6053a971ba5128.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "mat1",
+  "setter": "Mathiset",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "bb4450e59b3a41bd8e849d35f00ee902",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1205r12p1214r15p1248r13p1254r13p1271r13p1316r13p1363r14p1503r15p1516r12p1517r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9ea71bb3b2cb9873b32c436579a7933aef439b0ea0719516bd8f5c10f71401d7",
+  "validation_errors": []
+}

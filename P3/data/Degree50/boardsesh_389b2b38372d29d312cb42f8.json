@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_389b2b38372d29d312cb42f8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Los martes en bici",
+  "setter": "j.arnaiz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "26aa59c650b64853bc17cde91ee6c95f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1149r12p1182r15p1199r13p1236r13p1270r13p1308r13p1356r13p1389r14p1468r15p1489r15p1526r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1610dff3d8ca923d53a3ccd5b0fd57ecb335bac7620816b9b27bfeebbb4e8d73",
+  "validation_errors": []
+}

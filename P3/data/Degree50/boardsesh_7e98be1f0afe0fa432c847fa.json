@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7e98be1f0afe0fa432c847fa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "ducky mc duckface",
+  "setter": "marcelge",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "4380dea243ab493eb481e1f8234b776b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1095r15p1179r12p1263r15p1265r13p1286r13p1320r13p1375r13p1394r14p1476r15p1483r15p1503r15p1560r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "c2e5a5a8c62f02a07e09dda5b11a0ce181b212702312b2e5331635058f81bdc9",
+  "validation_errors": []
+}

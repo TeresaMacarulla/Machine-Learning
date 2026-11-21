@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f12ced065c92fa13f825284d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Roadrunner V7",
+  "setter": "savethemonkes",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "b9be45b72ceb418cb86790c008048bf8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1213r13p1267r13p1298r13p1351r13p1381r14p1460r15p1467r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "f8e0ffc566324779b966dd8297ce6fbe8b1cf8a00ba9ffe1c4b1f2b0d69b9f8a",
+  "validation_errors": []
+}

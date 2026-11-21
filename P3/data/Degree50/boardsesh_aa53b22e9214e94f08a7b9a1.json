@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aa53b22e9214e94f08a7b9a1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "The Christmas Tree",
+  "setter": "roko",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b99d29e9fd0b4156b3caf1fc3da2e47a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1166r12p1198r12p1234r13p1266r13p1304r13p1336r13p1354r13p1387r14p1470r15p1486r15p1543r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "3df79b588024ddd43fffe5721edbf6619f47db23f7e73beb1bd928a3c467aa42",
+  "validation_errors": []
+}

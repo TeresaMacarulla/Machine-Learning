@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a27a773dc2d75082be5966bd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "genaue sequenz",
+  "setter": "brene",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "e61373d1caef46dd8b9edd1311cf819d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1158r12p1175r12p1246r13p1266r13p1283r13p1337r13p1342r13p1359r13p1395r14p1465r15p1501r15p1522r15p1528r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.87,
+  "ascensionist_count": 40,
+  "quality_average": 3.6700000000000004,
+  "hold_fingerprint": "cda36a15fee00d96cb57fc5d7882c0805fff8083b3806f19fa4480c11ec2814f",
+  "validation_errors": []
+}

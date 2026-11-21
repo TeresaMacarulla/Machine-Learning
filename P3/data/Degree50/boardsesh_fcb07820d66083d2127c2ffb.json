@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fcb07820d66083d2127c2ffb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "leap 1",
+  "setter": "vinny42O",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "326F7805A59349898C230FFA82D36E75",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r15p1205r15p1206r12p1221r12p1257r15p1271r13p1306r13p1308r13p1361r13p1393r14p1394r14p1471r15p1580r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d4fc61225beb105507372ab435f9aaf4e154f5824f224374e276f34b1a88d7c4",
+  "validation_errors": []
+}

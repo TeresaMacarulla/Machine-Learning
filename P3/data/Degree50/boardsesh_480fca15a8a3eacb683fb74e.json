@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_480fca15a8a3eacb683fb74e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "nwr",
+  "setter": "grainycurd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "C40EAA0531604C02AC2FD01A1C5D7319",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1181r15p1203r15p1252r13p1256r13p1257r12p1284r13p1338r13p1387r14p1500r15p1507r15p1517r15p1541r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ebac02ec8975e2d6758d7d8e04968cab3cf521a8b3e4bcad94303e1088119287",
+  "validation_errors": []
+}

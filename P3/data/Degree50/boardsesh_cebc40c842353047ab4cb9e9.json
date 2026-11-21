@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cebc40c842353047ab4cb9e9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Enamel clean",
+  "setter": "TeemuM123",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0021b12944ba43f8a60c229de2e57baa",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1135r12p1166r12p1198r13p1202r13p1231r15p1268r13p1334r13p1389r14p1452r15p1456r15p1580r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.25,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "89ea7c50912a8578a7d1a01c3969b69c75c5088e8a05ca734cefbfd9f604c558",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bc3d6127f6032e63c3b31bc9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "MR.SANTANA",
+  "setter": "mdemoya",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "4bc5c3d8-7f22-4070-b88c-3d91bf005933",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1240r13p1270r13p1447r15p1471r15p1183r15p1319r13p1331r13p1382r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "68ff11cd2e239929ff1bc36e56b1201a8ad26150dec869845013e22562613bf0",
+  "validation_errors": []
+}

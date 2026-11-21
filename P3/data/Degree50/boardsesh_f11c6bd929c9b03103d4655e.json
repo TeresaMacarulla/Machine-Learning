@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f11c6bd929c9b03103d4655e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "KilterLords",
+  "setter": "Daniel_Brzozowski",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "CF5BF76661F146F082FE56E252DC01FD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r12p1170r15p1182r12p1246r13p1250r13p1278r13p1334r13p1352r13p1372r13p1391r14p1454r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "1a543c3202ec639e1516c31bfaa5ec38111aba0750a0827b2dfa1fb2aeabceba",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1aeefdc21631aaf40fddcce0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "L'envers du plaisir",
+  "setter": "nviglio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3bf11b3d003b4567941c65304da255ed",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1157r15p1206r12p1224r13p1251r15p1274r13p1320r13p1323r13p1324r13p1389r14p1449r15p1515r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "d8e83b7e6825f073f56a5fe02b137f4b2c4e96d7f568ce5f0ee590087547697d",
+  "validation_errors": []
+}

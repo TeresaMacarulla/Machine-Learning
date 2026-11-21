@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7c7b01e35877d13d1375cefc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Rehab center",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "363AB3C8C7E548F689F765D77B42D368",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1204r12p1218r15p1223r12p1289r13p1307r13p1355r13p1390r14p1491r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.99,
+  "ascensionist_count": 710,
+  "quality_average": 3.34,
+  "hold_fingerprint": "a7cc0c11b74d2815accfd1be642306e75b675494de68440df36a092260cead8d",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_343539f4ca4cffab045fe9cb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Retro Remix",
+  "setter": "Francesw",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5A3E55CA01A04340A35526177638071B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1188r15p1190r12p1202r13p1256r13p1295r13p1303r13p1311r13p1317r13p1379r14p1449r15p1480r12p1514r15p1519r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.67,
+  "ascensionist_count": 15,
+  "quality_average": 3.6,
+  "hold_fingerprint": "da607ad11dadeee9ba1082d40459890ab8fd3aa97f3ea85dc7a8586efb72eae9",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eeb73f5882221d9c99f3054f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "pullthrough",
+  "setter": "Wethrin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "D3EC5CEFB4474492BBECF9FE5D6403A3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r15p1215r12p1234r12p1302r13p1371r13p1392r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "a49ad766970e41de5952c046cc480989e2956d841b26cbba6ebc1f84cada20f6",
+  "validation_errors": []
+}

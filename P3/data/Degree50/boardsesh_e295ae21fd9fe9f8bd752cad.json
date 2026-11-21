@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e295ae21fd9fe9f8bd752cad.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "funny longline",
+  "setter": "climbingmarc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "dd4b1c85a70149feab4d962fd7f5d3d7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1108r15p1142r12p1192r12p1246r13p1262r13p1300r13p1316r13p1387r14p1461r15p1464r15p1495r15p1532r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.6,
+  "hold_fingerprint": "3e950b4dd704faa5d184f7c63b022863ca16ead2e09b2b3ad56133fe5e1f2d62",
+  "validation_errors": []
+}

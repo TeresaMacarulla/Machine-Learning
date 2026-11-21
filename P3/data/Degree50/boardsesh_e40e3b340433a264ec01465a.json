@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e40e3b340433a264ec01465a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Campus crab",
+  "setter": "TheSquidge",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "a02f1407946f4a92b96fbccac136fdab",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1216r12p1254r12p1283r13p1285r13p1287r13p1332r13p1386r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.0,
+  "hold_fingerprint": "10d83af61edd8fff3c2344c8b77ae415421d814cb3c93ba1efecafa4c3f3fed8",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d29268c90e6facdebda4e3c1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Raquit",
+  "setter": "wjracer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "7924AE3E33D74E8CAAFD0A51B316DC2C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1165r15p1177r12p1214r12p1263r13p1331r13p1380r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.4,
+  "hold_fingerprint": "71c7c82bb837ca220ca6004522f9ac68bf1a47a9350a1671581a8275d1eb563e",
+  "validation_errors": []
+}

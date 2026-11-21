@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f8e232628bf249c438878c5a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Pinche Campus",
+  "setter": "guaceen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "C4EB1359BA9C490389B36ADD9C3E060A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r12p1236r12p1283r13p1302r13p1334r13p1353r13p1388r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "00d3411628dfdfc7bf12aed52ba48cbbabbb50c096807dd790578e9508a70a5d",
+  "validation_errors": []
+}

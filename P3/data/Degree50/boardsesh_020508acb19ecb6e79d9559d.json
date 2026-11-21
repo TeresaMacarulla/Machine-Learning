@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_020508acb19ecb6e79d9559d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "scenic track 1.0",
+  "setter": "YanXiaoYan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "05fb1a373a5b48518872fd25c786707a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1165r15p1197r13p1198r13p1246r13p1278r13p1298r13p1299r13p1353r13p1389r14p1391r14p1459r15p1475r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "b51247700bcdbdac220b7b4e1ab17d8ab8d2e0176a4dede64ce5797eac1cd518",
+  "validation_errors": []
+}

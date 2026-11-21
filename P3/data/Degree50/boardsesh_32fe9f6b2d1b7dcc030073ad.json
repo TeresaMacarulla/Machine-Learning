@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_32fe9f6b2d1b7dcc030073ad.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Activated 2",
+  "setter": "ND_climbing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "9786b162f9214e4990619659f50a68bf",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1216r13p1263r13p1317r13p1351r13p1371r14p1457r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "042b9fcbef31755aa6146880b0f610f45ec52be8b35e0c43f01e7cf39cebe807",
+  "validation_errors": []
+}

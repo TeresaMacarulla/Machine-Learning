@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4efa5cb1f4ccfb25861b6176.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "V4-V6 Circuit #9",
+  "setter": "GirthQuake",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "65F7044D715F4FD0A4882EABDA3F1D5B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r15p1188r15p1219r15p1237r12p1241r15p1307r13p1342r13p1394r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "f9cabf43f50bb41b51e74d330d42391b10d49213227828cb51e502282dea811f",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e5a3d7de280b2df44bb2d963.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "D003",
+  "setter": "davisjstew",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F860D33F7BFE4580A9105543044144BE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1172r15p1185r12p1202r12p1210r15p1230r13p1250r13p1314r13p1384r14p1555r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.95,
+  "ascensionist_count": 102,
+  "quality_average": 3.42,
+  "hold_fingerprint": "08d44bbbd0d7c403ee29a69a8d97ba3646282f28dbedde830c13ade951048839",
+  "validation_errors": []
+}

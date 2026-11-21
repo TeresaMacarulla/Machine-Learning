@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c8cc65b2c32c75492f1e68fc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Rudy Circuit 5.1",
+  "setter": "charlie46",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8CB206C5803B40F9A3F461D3AE2B6368",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r15p1171r15p1288r13p1304r13p1334r13p1388r14p1534r15p1542r12p1543r12",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "784a57c351fd78cd4005402a131c49af848321252605e03f548bbb9d827ef41c",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c3241e330366b67bb8db546e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Blaukraut",
+  "setter": "Florinator",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "00be7817e1ad4388aca6bb0465bd94b3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1138r12p1152r13p1201r13p1248r13p1314r13p1318r13p1381r14p1448r15p1454r15p1504r15p1532r15p1556r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.96,
+  "ascensionist_count": 30,
+  "quality_average": 3.43,
+  "hold_fingerprint": "9e4721413ea31c2694ea11f54098a8323249d58acaead51b2ddd3d0ed80c29a0",
+  "validation_errors": []
+}

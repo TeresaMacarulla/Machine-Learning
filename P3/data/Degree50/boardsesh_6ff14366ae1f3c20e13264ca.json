@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6ff14366ae1f3c20e13264ca.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Nashornkopf",
+  "setter": "juanh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ed1d07b9aacc47dd93f289a1f7cf5cf9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1187r12p1201r12p1212r15p1234r13p1267r15p1268r13p1299r13p1351r13p1365r14p1383r14p1506r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 15,
+  "quality_average": 3.4,
+  "hold_fingerprint": "68c1534352cd36bffcbd509de9ef034a8235a568de56c4d43b3771964072eebc",
+  "validation_errors": []
+}

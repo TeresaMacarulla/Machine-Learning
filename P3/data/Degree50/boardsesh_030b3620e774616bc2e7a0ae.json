@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_030b3620e774616bc2e7a0ae.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Please Recycle",
+  "setter": "wesmoore",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "41D403B1AE044A54BB11B060A3E0950A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1141r12p1163r12p1212r13p1228r13p1243r13p1311r13p1332r13p1380r14p1462r15p1512r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ad128b2471e06e761c3e16da1292e388b7e2e4e58754847cb8e0b607c62fad12",
+  "validation_errors": []
+}

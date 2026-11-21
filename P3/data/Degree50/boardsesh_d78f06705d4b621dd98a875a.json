@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d78f06705d4b621dd98a875a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "left hand intensive.",
+  "setter": "sorefingers",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "BD1F8355E977414780641024C3678F9B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1137r12p1188r12p1241r13p1324r13p1393r14p1482r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 31,
+  "quality_average": 3.38,
+  "hold_fingerprint": "b7d1e8275c4b9c70614afd71c50eaf9764d2696327aaf1e0e561571bc427fbec",
+  "validation_errors": []
+}

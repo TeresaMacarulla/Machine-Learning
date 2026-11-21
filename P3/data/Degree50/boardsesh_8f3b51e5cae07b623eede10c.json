@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8f3b51e5cae07b623eede10c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "lyleback",
+  "setter": "E.2.d.2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "B623EE29924D4AC2A88F09CFF64FF064",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1193r12p1227r12p1261r13p1296r13p1362r14p1465r15p1483r15p1501r15p1519r15p1537r15p1555r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ab1e4c8377b3fa8ae0a24f71604aec2ab88a1945ba92e1c35f30d6eedc58ecb6",
+  "validation_errors": []
+}

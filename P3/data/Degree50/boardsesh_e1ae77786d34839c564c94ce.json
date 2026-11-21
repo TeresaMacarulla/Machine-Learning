@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e1ae77786d34839c564c94ce.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Easy flash",
+  "setter": "Domas",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "29498408-019a-4d12-ad68-42e8e0c6f486",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1546r12p1229r12p1213r13p1250r13p1269r13p1160r15p1142r15p1289r13p1308r13p1394r14p1293r13p1526r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 3,
+  "quality_average": 4.0,
+  "hold_fingerprint": "76bb0e2b047d63354c4fb7998564cf4cb465d0eead27d484a4efb5df3c099dc6",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_375b6e380f606227cd88be1b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Rocket Ship Limp",
+  "setter": "Hanmma",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "078136149edd49388dcc5d44d5c76822",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r12p1208r13p1239r13p1257r13p1269r15p1339r13p1357r13p1388r14p1450r15p1480r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5ee2613af08d9d84f4fc184d834e8e28a8992c9c0ad39d185effd9d983000b7e",
+  "validation_errors": []
+}

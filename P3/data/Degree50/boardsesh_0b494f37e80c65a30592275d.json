@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0b494f37e80c65a30592275d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "jk-47 special",
+  "setter": "climbey_mcclimbface",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "341809FC3DFA45C2A27BE833ACD3D733",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1139r12p1140r15p1171r12p1183r15p1186r13p1241r13p1258r13p1262r15p1286r13p1353r13p1367r13p1381r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.98,
+  "ascensionist_count": 46,
+  "quality_average": 3.33,
+  "hold_fingerprint": "2989e49eb28643c611113a4bd95592665c610786ffd727d42314316f0f3bbdf3",
+  "validation_errors": []
+}

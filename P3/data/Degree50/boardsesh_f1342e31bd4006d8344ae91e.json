@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f1342e31bd4006d8344ae91e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Altbaucharme",
+  "setter": "Florinator",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6eaca7c379974e28b975b2353535de34",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r15p1154r15p1198r12p1209r12p1233r13p1235r13p1271r13p1289r13p1344r13p1394r14p1524r15p1554r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.3299999999999996,
+  "hold_fingerprint": "d661b717e6223bb9c410a5134a12ccc9f9c2646953e74b49765f2f235aad4293",
+  "validation_errors": []
+}

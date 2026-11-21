@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e50111e78ee36e66c954e3b7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "amongst the monks",
+  "setter": "quiggles18",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "F2E3D8C43869470BA62343F2A87C4AA9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1144r12p1154r15p1198r13p1236r13p1269r13p1306r13p1353r13p1387r14p1460r15p1516r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.29,
+  "hold_fingerprint": "050b1dd8d82db622ed0a8656aa87a4529cfc7b8f209d30ed2171588a7f1ec854",
+  "validation_errors": []
+}

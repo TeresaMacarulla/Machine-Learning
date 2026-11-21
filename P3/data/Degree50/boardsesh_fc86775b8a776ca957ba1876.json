@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fc86775b8a776ca957ba1876.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "white star",
+  "setter": "alexgomez",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "DDF8F548F2A2403C8862D401B21733B3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1217r12p1264r12p1285r13p1345r14p1366r13p1387r15p1510r15p1513r15p1528r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ea4e3a8cd6990eb3c6116f8e33d95aa238f0507a4f39c3a53ad898c91981ebef",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cff61059b9d701953e70587c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Ballpark Traffic",
+  "setter": "n8dawg",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "F7B26D6E1C78488FA930C18FC0C9B8CE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1122r12p1171r12p1239r13p1269r13p1337r13p1351r13p1366r13p1381r14p1453r15p1478r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "769e3b679cc7cac3c4700c47ca302f088bc50482091badddd9c7c6b358a0cba6",
+  "validation_errors": []
+}

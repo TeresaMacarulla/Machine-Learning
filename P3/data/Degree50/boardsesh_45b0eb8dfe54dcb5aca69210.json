@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_45b0eb8dfe54dcb5aca69210.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "avoidant attachment",
+  "setter": "laura.g.chen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "117683BAB9074F0FB0C349994EC71003",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1122r15p1138r12p1152r12p1190r13p1203r15p1205r13p1235r13p1272r13p1304r13p1320r13p1334r13p1388r14p1497r15p1558r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "dbc6efa23673d1bcda577d0342d3116d959e86ec3452260e9bfcf01ff47e625d",
+  "validation_errors": []
+}

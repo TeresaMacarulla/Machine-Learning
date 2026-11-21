@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_959f1000fdc628f649361424.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Left foot dump",
+  "setter": "humo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "D44C519CF605463FAF8BCB1D1393CE3A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1165r12p1166r12p1219r13p1240r13p1304r13p1305r13p1317r13p1387r14p1454r15p1500r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "96683aab380c1c8050de58b36e40e89c66717432d410449b4b4a9b37a6778bac",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_177edd4f458c7fdadee532fe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "chortle",
+  "setter": "calgraff",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "9D1533F3622A429088EBD1D6597048DE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1205r12p1210r15p1220r12p1269r13p1283r13p1299r13p1346r13p1379r14p1509r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 92,
+  "quality_average": 3.38,
+  "hold_fingerprint": "ea513b45425e8c0ea694dafd4b53aaa2d1b196e0f57a5196372e71d3fd2f7aae",
+  "validation_errors": []
+}

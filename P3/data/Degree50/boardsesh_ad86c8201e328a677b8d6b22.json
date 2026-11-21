@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ad86c8201e328a677b8d6b22.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "GROSLANDEZ",
+  "setter": "alistair_duval",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2F50AB3A29AC4D2595B6E8CA91C9138C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1230r13p1274r15p1285r13p1304r13p1352r13p1382r14p1460r15p1483r15p1552r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.89,
+  "ascensionist_count": 40,
+  "quality_average": 3.3899999999999997,
+  "hold_fingerprint": "9ddb93bfad2edfb162aeff0484abeef5f6c41d2bc1ecb20533ce87de00669e4d",
+  "validation_errors": []
+}

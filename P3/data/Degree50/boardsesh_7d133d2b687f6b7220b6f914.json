@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7d133d2b687f6b7220b6f914.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "end it",
+  "setter": "frazam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "91bd446b-d8e5-41bc-8005-aaf8889932e4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1169r12p1257r13p1451r15p1456r15p1500r15p1289r13p1517r15p1515r15p1300r13p1316r13p1347r14p1559r15p1356r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.29,
+  "ascensionist_count": 8,
+  "quality_average": 3.43,
+  "hold_fingerprint": "e16313ee9f6ee2080b80755399ce5f3d477775f1d7201dca4836311d4fa8b0e6",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f21e6183ce982f5fe0b8c91f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "fake it till you make it",
+  "setter": "BKBChicago",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "F74C98972FBB472D9825DFAE95BB3A00",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1131r15p1149r12p1204r13p1258r13p1306r13p1358r13p1390r14p1456r15p1500r15p1517r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 2.0,
+  "hold_fingerprint": "e7364de0efb60e3c9773734d94d357932aada9ccb88443082944ef84b17e5303",
+  "validation_errors": []
+}

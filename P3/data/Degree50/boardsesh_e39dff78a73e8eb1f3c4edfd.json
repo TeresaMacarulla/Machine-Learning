@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e39dff78a73e8eb1f3c4edfd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Roundhous",
+  "setter": "JokinUrkiaga",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "71B07BEAF1994FE49D514AF09A3AFE6D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1170r12p1189r12p1221r13p1274r13p1294r14p1305r13p1331r13p1348r13p1351r13p1353r13p1356r13p1448r15p1449r15p1519r15p1541r15p1558r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b42b07b531713f530af5ea300f8f6f24f708b9c736429048764932fedcdf98c1",
+  "validation_errors": []
+}

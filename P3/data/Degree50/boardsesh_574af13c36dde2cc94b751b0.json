@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_574af13c36dde2cc94b751b0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "RC V5",
+  "setter": "KCL",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "EAE6B3F24A294931965D93979777ED7B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1084r15p1163r12p1196r12p1231r13p1269r13p1301r13p1337r13p1388r14p1485r15p1505r15p1533r15p1549r15p1561r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d86d82980ef7d9f9f72b4fa6dbac76f3e24c1000a84f9786e5d956f5a02f535d",
+  "validation_errors": []
+}

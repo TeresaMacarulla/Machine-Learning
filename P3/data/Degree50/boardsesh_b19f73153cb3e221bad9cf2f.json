@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b19f73153cb3e221bad9cf2f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Who needs more than 2 moves",
+  "setter": "wattst",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "5DF2BAFEB7EE48F7B8F7BB5E2AEFDA36",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1208r15p1257r12p1259r12p1342r13p1390r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "de705d50cdc023960da99ca2cd8adae0a82e5623b2a2c1956ed5c461c2a31eaa",
+  "validation_errors": []
+}

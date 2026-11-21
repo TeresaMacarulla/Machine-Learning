@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e58cf10c9e63cfb98530fa93.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Call of the Monkey",
+  "setter": "NaviTwo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "87f45d04-c6e1-4b83-8a08-d14dccf074eb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1171r12p1173r12p1450r15p1100r15p1204r13p1257r13p1289r13p1341r13p1338r13p1337r13p1387r14p1542r15p1233r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": null,
+  "hold_fingerprint": "32c1c8ecfc3465706216e8b2d969fe9daee31a2102d43c348cb563a42e31d265",
+  "validation_errors": []
+}

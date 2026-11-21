@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6b040c423a734c292519604c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Adjudicator",
+  "setter": "nlun",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "4a60fcf123de4fc396cf6f610701b06d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1165r12p1180r12p1232r13p1244r13p1281r13p1314r13p1352r13p1368r13p1388r14p1484r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "62277941dd639ac8f649a9c2167a0ddb2d55812215d0b93d23d04b6fdcd06da1",
+  "validation_errors": []
+}

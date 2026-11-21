@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8a7b190e4bb04198ed1a198f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Autismed",
+  "setter": "terryo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "4aa6c2f9-87fa-4d1d-be24-af0d890b9b96",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1230r13p1181r13p1462r15p1250r13p1520r15p1129r12p1304r13p1339r13p1316r13p1394r14p1534r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": null,
+  "hold_fingerprint": "91cedccab9cfe4ccf0cb8a18a6132e5114123c3c3fabe06d0e38d1e0ad38adf8",
+  "validation_errors": []
+}

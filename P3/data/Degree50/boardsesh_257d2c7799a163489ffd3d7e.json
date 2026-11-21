@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_257d2c7799a163489ffd3d7e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Consequences 3",
+  "setter": "pasdetraceur",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "16713bf800024019a0752c28f3e33e7c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1162r15p1182r15p1197r12p1270r12p1336r13p1390r14p1568r13",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "030d56467b3c33b169aeb89a6324986bc9c091c1dba2a28ce68cf1e3160e056d",
+  "validation_errors": []
+}

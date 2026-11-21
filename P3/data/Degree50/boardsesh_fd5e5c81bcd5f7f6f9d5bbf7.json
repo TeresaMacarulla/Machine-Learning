@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fd5e5c81bcd5f7f6f9d5bbf7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Mos mini shoulder Jump",
+  "setter": "Ztirom159",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4E156A8544E44508BBAF0B26B8F47D02",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1183r15p1201r12p1239r12p1272r13p1286r13p1324r13p1361r13p1394r14p1508r15p1517r15p1561r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "1660623e58e1f30f4cf91184e5aef6fff89b2b6582d4448848ea3ad4d61ffebd",
+  "validation_errors": []
+}

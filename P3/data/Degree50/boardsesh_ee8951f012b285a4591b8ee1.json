@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ee8951f012b285a4591b8ee1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "BeeMean",
+  "setter": "adriankask",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "cacdf7df344344a49561b7cbeaacfa14",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1181r12p1218r12p1301r13p1355r13p1386r14p1485r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b7309222ff02e8be442cc50c8d4d907b2360ab08287ece4e8109ee065b44b542",
+  "validation_errors": []
+}

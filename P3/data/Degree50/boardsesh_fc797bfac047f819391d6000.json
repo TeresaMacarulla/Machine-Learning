@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fc797bfac047f819391d6000.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "unfortunate fortune",
+  "setter": "samivolk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1B69072351604A8CB321A92EEBD657F7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1163r12p1177r12p1248r13p1252r13p1302r13p1389r14p1467r15p1474r15p1506r15p1514r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2bd0f1171b54f5a1774068c3fe2cfe94fed6d5a04854fcd4cad39c9b34605903",
+  "validation_errors": []
+}

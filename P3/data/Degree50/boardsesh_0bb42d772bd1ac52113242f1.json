@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0bb42d772bd1ac52113242f1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "8B\u00fbche",
+  "setter": "balekrymasz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "dcb3bd75-3b9a-47e8-8246-6f80e98dbdd0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1271r13p1269r13p1352r13p1299r13p1379r14p1155r12p1450r15p1447r15",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "7f7d863c4a39e40b0720c36b88d23ef90a2e8b1edd1ba4e3947a892a50864949",
+  "validation_errors": []
+}

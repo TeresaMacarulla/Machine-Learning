@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ad6150de20a0507e8d9f2c5b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "freaklord",
+  "setter": "ikey",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "16944AF8005047188FC34B600E67124D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1126r12p1130r15p1143r12p1164r13p1198r13p1237r13p1270r13p1304r13p1335r14p1455r15p1459r15p1462r15p1506r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "b4465f62bf00f6b61e190bbb523d8ef5a91f23d2cc1025ed8ed890e8255d72f3",
+  "validation_errors": []
+}

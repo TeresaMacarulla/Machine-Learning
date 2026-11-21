@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_15bf57affad6b12035ec3e54.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "loosely left",
+  "setter": "henrytrainor",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "5F26145EF55E46309BD37529B1EB835B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r15p1170r12p1219r13p1254r13p1266r13p1296r13p1300r13p1332r13p1379r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "f055f57decf3751889d4b9ecdb9862c5431e3aa368d39e80812bf2a404bb78e0",
+  "validation_errors": []
+}

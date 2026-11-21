@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e8c76fa3f8e2fbc59b78d70d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "variation straightforward",
+  "setter": "GaldalfTheSender",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1d3a4dce4f01413b89de42bb7490dbd9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1119r12p1139r12p1203r13p1220r13p1271r13p1290r13p1340r13p1392r14p1451r15p1506r15p1536r15p1572r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "a80cac6331e9298a8b83a172e736413dda3ce2ea6267b78b924d6f8cc1bef768",
+  "validation_errors": []
+}

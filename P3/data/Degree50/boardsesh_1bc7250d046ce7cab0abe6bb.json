@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1bc7250d046ce7cab0abe6bb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "el capelito",
+  "setter": "evan_ravenel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "ae7742f0-868d-49f2-bba8-38f58b561c46",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1198r13p1169r12p1172r12p1186r13p1233r13p1246r13p1299r13p1332r13p1354r13p1389r14p1391r14p1078r15p1080r15p1506r15p1504r15p1529r15p1549r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "e69a331d285ec689a92382f9c3810e7d8bca1934f205acde6bd09466e30ccb3c",
+  "validation_errors": []
+}

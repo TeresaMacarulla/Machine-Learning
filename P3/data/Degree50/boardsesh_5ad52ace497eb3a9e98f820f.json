@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5ad52ace497eb3a9e98f820f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Tour de France",
+  "setter": "ablanco123",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ADE83371A7FD4B5CA68B0D40A62E5F00",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1235r12p1238r12p1263r15p1274r15p1284r13p1287r13p1354r13p1355r13p1393r14p1480r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "581c1dd1878d28e71ee0e4ee184797be86049e6fb0ee5d0dc8b90d20c05e1639",
+  "validation_errors": []
+}

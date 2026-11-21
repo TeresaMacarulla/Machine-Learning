@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_63a60ae8a519978bc637c286.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Meca",
+  "setter": "eddik",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "6981089F2E6E42D785F1F83880678B3B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r12p1156r12p1205r13p1237r13p1289r13p1302r13p1335r13p1349r13p1382r14p1447r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.66667,
+  "hold_fingerprint": "8e27b5a582006e5d11c6e050e8553c81d37e22d8ce5304556cdbf054d7040765",
+  "validation_errors": []
+}

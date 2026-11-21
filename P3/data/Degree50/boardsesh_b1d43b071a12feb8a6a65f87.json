@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b1d43b071a12feb8a6a65f87.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "3V\u2019s in a pod",
+  "setter": "msalonic13",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "CA152F58186D4A4AB380A93116EAC7B2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1149r13p1163r13p1200r13p1204r15p1205r13p1211r15p1215r15p1242r14p1275r14",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "79c20745af700a9e3c3d5b3f2f62db3e46709050eba406cf93543960136c0c4e",
+  "validation_errors": []
+}

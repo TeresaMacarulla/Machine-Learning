@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_375f92775961e6355a974097.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "blessure-vrij",
+  "setter": "sylren",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "d568bf757ebe49b6b09d1877b0266f5f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1149r12p1165r15p1169r12p1233r13p1249r13p1257r15p1287r13p1320r13p1357r13p1391r14p1455r15p1486r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "48391a4ca65244591c38a83e117b441a641ba54ac4dd909d22070bb2d6232c31",
+  "validation_errors": []
+}

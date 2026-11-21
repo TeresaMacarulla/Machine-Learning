@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f8feb5ca51e22fb47bcf9466.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "dictable",
+  "setter": "n31lr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7245d51a-af50-4702-a8fd-53f343509b52",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1218r13p1220r13p1302r13p1470r15p1456r15p1139r12p1169r12p1595r14p1331r14p1546r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.33,
+  "ascensionist_count": 3,
+  "quality_average": 4.33,
+  "hold_fingerprint": "86524a963ce09105cb774002ffce4773b499435eadefeadad4bd3b5aceddc665",
+  "validation_errors": []
+}

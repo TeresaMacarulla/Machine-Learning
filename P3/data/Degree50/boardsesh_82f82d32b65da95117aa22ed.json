@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_82f82d32b65da95117aa22ed.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "jumpy_jug",
+  "setter": "jakobschwechten",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "F12A09FB34CA412D93E6F620B55DB533",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1081r15p1151r12p1181r12p1237r13p1302r13p1373r13p1386r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b9a749cafe632cf83d7dc3ed3e3dd9c143c1adea1c4213d645fc3c815a723c50",
+  "validation_errors": []
+}

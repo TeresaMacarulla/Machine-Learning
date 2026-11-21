@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f904ce326c13a7da95e8ef38.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "On Edge Dino",
+  "setter": "its.c4l3b",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "152A2054D3284849BA7BFA87F6F2EC68",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1174r12p1257r12p1327r13p1340r13p1353r13p1379r14p1383r13p1385r13p1542r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e533138e28ad093f72a7fb3c7ec6d70824965bfce112ead314e960fce311b4fe",
+  "validation_errors": []
+}

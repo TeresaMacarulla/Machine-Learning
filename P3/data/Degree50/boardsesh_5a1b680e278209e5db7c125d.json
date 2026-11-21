@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5a1b680e278209e5db7c125d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Forbidden Bagel",
+  "setter": "SteelCity",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "100ccd17-533b-47a9-9a15-89e6d448a2af",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r12p1136r12p1218r13p1271r13p1301r13p1372r13p1392r14p1449r15p1131r15p1183r15p1214r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.75,
+  "ascensionist_count": 22,
+  "quality_average": 4.5,
+  "hold_fingerprint": "39454abc9781656b7ebf1a7c70595b77253adec531f0068b441e2cc7c8208860",
+  "validation_errors": []
+}

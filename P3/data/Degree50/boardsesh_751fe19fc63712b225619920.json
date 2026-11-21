@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_751fe19fc63712b225619920.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "jugement dernier ",
+  "setter": "quentin_martin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "d6f010df-b038-4ebd-943b-4c0960aa0c0e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1390r14p1231r13p1479r15p1452r15p1287r13p1267r13p1165r13p1153r12p1505r13p1135r12p1449r15p1513r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "bef2626b0bbfcab6c3781d1272aacfc8e4f85bc4ede189ab8b9d598a499086bc",
+  "validation_errors": []
+}

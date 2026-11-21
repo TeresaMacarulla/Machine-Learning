@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8a9378c41865b57dcca07e3a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Intermediate Intro to Steep",
+  "setter": "bhkillian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "68960BDB60F541E78CD1EC9F94739030",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1175r12p1213r13p1247r13p1300r13p1349r13p1382r14p1461r15p1485r15p1520r15p1523r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 15125,
+  "quality_average": 3.1805666997682884,
+  "hold_fingerprint": "f2d9db0acceef3eefd7116cf68d25be06ef4ffb48c8fed1052d55d5477ab29fc",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a65fd3aa2cf5642294688fb8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Goober Noober",
+  "setter": "alex_kilterboard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 9,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "CFCFB26B90DA49B89CDE16AE41964985",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1157r12p1169r13p1223r13p1271r13p1308r13p1340r13p1379r14p1381r13p1384r13p1387r13p1389r13",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "730ebd6e2ef14767d4811a3ea8d70f972746f88376306570c16fd8f3e4f4ee22",
+  "validation_errors": []
+}

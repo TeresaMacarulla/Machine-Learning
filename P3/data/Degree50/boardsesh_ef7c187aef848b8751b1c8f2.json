@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ef7c187aef848b8751b1c8f2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "nocutlooser",
+  "setter": "adamfogarasi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "A154D0F2EFBD470A86AC40A343AEA6A8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1134r12p1154r15p1164r13p1185r12p1215r13p1235r15p1246r13p1300r13p1315r13p1354r13p1371r13p1391r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e764366832580f089e26e66669d866807f1b5b72ff7be623d31751d7bd981773",
+  "validation_errors": []
+}

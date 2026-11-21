@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bac3286058b39a01b77ae971.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Gimp Suit",
+  "setter": "HongKongStuey",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F9EA4B56F71B4EB884111B3C15B85520",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1146r15p1185r12p1199r12p1243r15p1252r13p1268r13p1315r13p1349r13p1380r14p1506r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3b32c63d83466d8c371833dab43c20c6fca465fbee15fb347250112ae6e4490b",
+  "validation_errors": []
+}

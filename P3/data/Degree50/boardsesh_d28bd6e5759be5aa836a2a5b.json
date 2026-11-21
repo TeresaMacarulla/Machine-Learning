@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d28bd6e5759be5aa836a2a5b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Let's Ride",
+  "setter": "vukyle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "bc1d23213479446b8f1e8cbea021897c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1130r12p1165r12p1230r13p1248r13p1321r13p1339r13p1375r13p1391r14p1457r15p1493r15p1540r13p1544r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.98,
+  "ascensionist_count": 99,
+  "quality_average": 3.31,
+  "hold_fingerprint": "4134ac8ce94c4ecc4a2c0f69c4e7acba9b04b55a41e0109ebc8fe5b5655f84d7",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_af214fd74b347943b9dab739.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Fetch me their Energy",
+  "setter": "markusleebV",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "C77B409C814645A1A5B1CA02BDEBDB91",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1192r12p1277r13p1281r13p1336r13p1390r14p1392r14",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.5,
+  "ascensionist_count": 5,
+  "quality_average": 3.75,
+  "hold_fingerprint": "3debf6f727dd6ee89b93df0f264ac2a563dc4401bc93fef29eacd46cc514f69c",
+  "validation_errors": []
+}

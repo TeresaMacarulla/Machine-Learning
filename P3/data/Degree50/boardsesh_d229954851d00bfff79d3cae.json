@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d229954851d00bfff79d3cae.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "soft once",
+  "setter": "takamichi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1ee4fa25-985f-4a7a-86c4-f620acd461ba",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1468r15p1470r15p1149r12p1524r15p1234r12p1306r13p1304r13p1370r13p1384r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.33,
+  "ascensionist_count": 3,
+  "quality_average": 2.67,
+  "hold_fingerprint": "de22493e34e0cbe658f07d579e2a696c8b2264d1a3e85c149fe924ecfc3360a3",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bf523644741f1d7f13bb12cb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "warmup_1",
+  "setter": "HRad",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "0D540229445448D6AA19F8CBAEFB4857",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1198r13p1235r13p1284r13p1319r13p1332r13p1384r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "37e7b7da86a3a2c6feb1df0698af615e8d58060fa8915146792a60ca4f4bed08",
+  "validation_errors": []
+}

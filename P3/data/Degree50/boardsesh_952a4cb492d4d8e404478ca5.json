@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_952a4cb492d4d8e404478ca5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Pressure Drop",
+  "setter": "Habkering",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "AAFE33BC1D4C4CB7A5BDBD8F35F5500C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r12p1155r12p1224r13p1241r13p1254r13p1265r15p1291r13p1320r13p1323r13p1374r13p1395r14p1447r15p1536r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "fccca45557f8b850e3d8060a600f1efcc40b35ee8a1ae421ea290f3e308e188e",
+  "validation_errors": []
+}

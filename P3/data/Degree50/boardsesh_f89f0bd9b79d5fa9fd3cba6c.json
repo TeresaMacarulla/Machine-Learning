@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f89f0bd9b79d5fa9fd3cba6c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "tension-x",
+  "setter": "LOizo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "EB09ACEF63BD499D9BBBCD177F52C06D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r12p1171r12p1197r15p1201r13p1236r13p1283r13p1301r13p1350r13p1387r14p1456r15p1541r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.91,
+  "ascensionist_count": 78,
+  "quality_average": 3.42,
+  "hold_fingerprint": "9134e889cc6b661ab931310aac3a74b871dc2cd3f5cb70440590fb7511f5436e",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7458990cd06eb3630ee30181.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "drive thru menu sit-start",
+  "setter": "RyanKing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "E95B535B32EF4AE18B07E58532A78A9C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1174r12p1216r15p1223r13p1284r13p1289r13p1372r13p1385r14p1447r15p1500r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7fd5a2aab31d0089f0e2358cd7eba4386759b8ccb08adb967ee5f6be73e9984a",
+  "validation_errors": []
+}

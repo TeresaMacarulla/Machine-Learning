@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_603bb157831773a13189285e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "NED",
+  "setter": "Gav",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "6b04610a-8787-471b-a3f7-de295c6c4db3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1241r12p1186r12p1077r15p1074r15p1270r13p1496r15p1339r13p1540r15p1548r15p1538r15p1351r13p1315r13p1328r13p1379r14",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.18,
+  "ascensionist_count": 14,
+  "quality_average": 3.91,
+  "hold_fingerprint": "a7d93070509b0d9249e54355884c1b9d05ba4feb0a4fa69e487ae4d920d8c61c",
+  "validation_errors": []
+}

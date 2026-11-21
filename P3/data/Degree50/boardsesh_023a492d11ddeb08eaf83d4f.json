@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_023a492d11ddeb08eaf83d4f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "well hard ",
+  "setter": "joelisney",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "53b88407-9f21-4523-9dbf-10c19a415838",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1180r12p1216r12p1503r15p1230r13p1266r13p1514r15p1513r15p1285r13p1531r15p1392r14p1334r13p1355r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.25,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "72114838fc1d1a5df3f889d7e54a34756f3ee6ffd78e68538f8686cf7d1bf617",
+  "validation_errors": []
+}

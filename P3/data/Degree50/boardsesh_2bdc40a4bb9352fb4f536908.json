@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2bdc40a4bb9352fb4f536908.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "lecker Energieball",
+  "setter": "eldot",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "BA1002F30D754C6696AD69695F9B3EA0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r15p1145r12p1209r13p1211r13p1246r13p1266r13p1317r13p1388r14p1457r15p1520r15p1523r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "185068e81f498582d1f0b050966d0e8b9d72f39887d10f056dd5f21809b4d5bd",
+  "validation_errors": []
+}

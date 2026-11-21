@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0e73728b9047fe353f19d53e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "4x4 #4 Ullie",
+  "setter": "Ullie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "555930f22606465c867fe4881bdba7a6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1173r15p1187r12p1219r12p1223r13p1240r13p1275r13p1292r13p1337r15p1359r13p1391r14p1500r15p1518r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3f49004aabe7c801dfb993fe0d887bd1c1621649f276a279699c778c472109ce",
+  "validation_errors": []
+}

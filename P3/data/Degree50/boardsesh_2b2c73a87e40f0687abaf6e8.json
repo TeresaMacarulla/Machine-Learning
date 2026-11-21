@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2b2c73a87e40f0687abaf6e8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "restock",
+  "setter": "lplatter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "024216312B794F1889494B307FC13A4F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1133r12p1184r13p1205r13p1237r13p1288r13p1301r13p1335r13p1384r14p1454r15p1457r15p1480r15p1508r15p1522r15p1539r15p1542r15p1558r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.91,
+  "ascensionist_count": 79,
+  "quality_average": 3.43,
+  "hold_fingerprint": "afbaa1d3de6e89d2abfa7826b78ceaae7092f2dafaead01e0a92295c0cdfb90c",
+  "validation_errors": []
+}

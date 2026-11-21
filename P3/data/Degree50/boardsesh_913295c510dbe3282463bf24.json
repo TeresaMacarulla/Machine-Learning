@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_913295c510dbe3282463bf24.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Stand By Your Hand",
+  "setter": "kilterjackie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "C5D1885D26AE4D0DBAD32337773594AA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r15p1155r12p1157r12p1221r13p1234r13p1239r15p1302r13p1350r13p1387r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.01,
+  "ascensionist_count": 11493,
+  "quality_average": 3.1800801323926486,
+  "hold_fingerprint": "4fdeeb9e651d885150fa9f916f1e336ca6857898ccb2e36cb2f46d90d9cf59d7",
+  "validation_errors": []
+}

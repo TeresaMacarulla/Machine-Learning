@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0f035cea725e564d15f53521.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "War Ensemble",
+  "setter": "NGS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "A9D256B5F14746439177F5E860B10D22",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1116r12p1184r12p1241r13p1305r13p1334r13p1368r13p1372r13p1381r14p1456r15p1508r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 11,
+  "quality_average": 4.88,
+  "hold_fingerprint": "360f6ffcc4e547cbabae951b95aac43593918d7f5807a58a56148bb5cb4d74af",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_64dde32a391dbef9d078c574.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Tammisto helemi",
+  "setter": "pazee",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "2350c7b84d2d412b92edd5d3a8d48fbc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r15p1155r12p1208r13p1222r13p1239r15p1276r13p1325r13p1344r13p1375r13p1389r14p1447r15p1482r15p1554r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "280b3048c22948cd9f0adf253d890d8a7188a697c07f0086a049cbd14b3df7f8",
+  "validation_errors": []
+}

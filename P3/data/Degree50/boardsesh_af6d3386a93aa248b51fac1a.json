@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_af6d3386a93aa248b51fac1a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Vicebomb",
+  "setter": "markusleeb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "AE51165D474F48B3B67B0855B7B6F47F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1174r12p1239r13p1305r13p1308r13p1310r15p1359r13p1387r14p1517r12",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 6,
+  "quality_average": 4.2,
+  "hold_fingerprint": "43c4dad1b6f775dba48cb0815af6ace9121fbd9461ef386a4e091aae7bc828eb",
+  "validation_errors": []
+}

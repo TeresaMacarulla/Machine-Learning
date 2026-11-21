@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_53b904288a59602c7f0e5387.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "monkey bars",
+  "setter": "Sam Cherry",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "c818e533-219e-4170-b452-1f16a6c3b457",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1243r12p1297r13p1300r13p1267r13p1303r13p1306r13p1308r13p1393r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "194194eb1a182f521c9d8932cd62797590bc87280ad79c9d2b7bd721d0afeb05",
+  "validation_errors": []
+}

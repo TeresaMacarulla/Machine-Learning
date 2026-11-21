@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1f1d438475e639fc715482e6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Cutloose maxxing",
+  "setter": "Deathmian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "02dcf1b4-90dd-4fc2-b63d-e2b8f2609189",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1447r15p1451r15p1155r12p1240r13p1518r15p1256r13p1291r13p1305r13p1542r15p1375r13p1388r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.33,
+  "ascensionist_count": 6,
+  "quality_average": 3.0,
+  "hold_fingerprint": "28d9fe85f7880340a6b708417f9cd44d70b2968a812f2af4e721218f413ad613",
+  "validation_errors": []
+}

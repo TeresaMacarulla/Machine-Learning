@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4b0f4de2ceb8888caafff8be.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "candy corn",
+  "setter": "Constant_Classics",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6F3A10AF84DB4EF485BBE441CF1BE8A1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1144r15p1198r12p1200r12p1234r13p1317r13p1318r13p1367r13p1389r14p1557r15p1598r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "01a847119b19d2c0000750047ebc4e11c133619fa79686ac116738549b666aef",
+  "validation_errors": []
+}

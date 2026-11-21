@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b2f788f854abdc046451d728.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "trace me onto you",
+  "setter": "stroudsendz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ec97739d-41e9-4d44-9777-ba11de0ea366",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1180r12p1215r12p1246r13p1166r15p1459r15p1268r13p1503r15p1317r13p1391r14p1252r15p1356r13",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "35eea123d749daccfff1589e6c73768995b193488a1533f4bf378eb2fbbb1f26",
+  "validation_errors": []
+}

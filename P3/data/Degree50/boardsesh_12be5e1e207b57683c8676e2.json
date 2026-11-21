@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_12be5e1e207b57683c8676e2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Get Squashed",
+  "setter": "Gipsea",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "A5E440E3E29E4887B23E7B6CBB97CB71",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1143r12p1144r15p1192r15p1246r13p1296r13p1383r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.93,
+  "ascensionist_count": 141,
+  "quality_average": 3.43,
+  "hold_fingerprint": "2f22669c8ec1bbda6ad441f47baf2c84579c2ec2eb9be41dc7ee8979e4e09508",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_588dca72c2096227097c4d6f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Eco Boost",
+  "setter": "IAmNotADinosaur",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "46cc01d1976c41e09ee8bb07c4ab82e9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1138r12p1152r12p1188r13p1237r13p1291r13p1340r13p1389r14p1449r15p1453r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "09ab328e82283b1472e58834de27548e1f764c35a61ac52a5d234c34b634b304",
+  "validation_errors": []
+}

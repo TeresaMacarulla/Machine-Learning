@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5d93cc572e5deb3b641e9f85.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Pie in the Sky",
+  "setter": "krimdogbillionaire",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "83A55BFD0AAC4DE8A5E432C29395D586",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1124r12p1162r12p1204r15p1228r13p1249r13p1254r13p1283r13p1339r13p1374r13p1394r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "2d6ddc2c81778b3b82bdadb9b106a47b904bbad21119636b4a4a494bfef5e971",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d846e2c4797ebcf4f4d32c1f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "All You Need is a Single Foot",
+  "setter": "GirthQuake",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "E3481933739B4345A56CD73630F072A2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1216r12p1255r12p1286r13p1322r13p1352r13p1387r14p1513r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.05,
+  "ascensionist_count": 22,
+  "quality_average": 3.36,
+  "hold_fingerprint": "5b6ad406196c80ec35ede7a5e5ca33cc641a9a0011309ae67984bd2a8863dd7f",
+  "validation_errors": []
+}

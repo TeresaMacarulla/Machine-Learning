@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_18ca1433f092c586a7b3b538.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "L\u00e4hiopetus 2",
+  "setter": "olmio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "db8c4dd28b4d4cfe92341ae8275f3745",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1112r12p1144r12p1199r13p1250r13p1287r13p1320r13p1358r13p1391r14p1459r15p1462r15p1497r15p1533r15p1553r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.22,
+  "hold_fingerprint": "cca22e56bc4985a362e4ee17f03b331f236ed0406b4ca24446d41da06c53186c",
+  "validation_errors": []
+}

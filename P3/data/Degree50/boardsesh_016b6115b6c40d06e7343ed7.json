@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_016b6115b6c40d06e7343ed7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "pushing back",
+  "setter": "Roca",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "E22FCC6DB55F45E7B2D6B604698ACCFC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1165r12p1197r15p1201r13p1202r12p1273r13p1285r13p1352r13p1353r13p1384r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.29,
+  "ascensionist_count": 7,
+  "quality_average": 3.86,
+  "hold_fingerprint": "313ecbaf889f3a9ea938888126d1c8014e20246fcb4af8ca8d99f436f6371982",
+  "validation_errors": []
+}

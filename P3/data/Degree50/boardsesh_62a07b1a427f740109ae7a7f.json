@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_62a07b1a427f740109ae7a7f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Movement FV",
+  "setter": "Harr1son",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7469439DF7D44382816675A935F0F979",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1162r15p1164r13p1173r12p1199r13p1202r13p1302r13p1359r14p1373r13p1447r15p1468r15p1476r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "749a25c5dbe8ddb7d04163cb2d7ea312f5ea1e46145149ad9b115ca23b88dd28",
+  "validation_errors": []
+}

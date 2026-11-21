@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_84e81cd43c1d36dad24adc51.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Natural state",
+  "setter": "Narayan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "C19451C0992D4E4B8604CE2FDBC1C011",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1156r12p1220r13p1268r13p1271r13p1335r13p1382r14p1450r15p1505r15p1582r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "8fbac2eac7773527d9685f9ca84f932b8d6fb0baec5161079130bfff83271993",
+  "validation_errors": []
+}

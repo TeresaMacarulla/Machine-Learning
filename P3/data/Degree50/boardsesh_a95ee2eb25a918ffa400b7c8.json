@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a95ee2eb25a918ffa400b7c8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Oversteer",
+  "setter": "nlun",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "9d60e2cde6e2415aa99f9363b6766fb3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r12p1151r12p1220r13p1271r13p1272r13p1342r13p1395r14p1482r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "3e2cdaee86ad8d4a1d8916b8f04f161718017fcda73f23812a2dbd6800314183",
+  "validation_errors": []
+}

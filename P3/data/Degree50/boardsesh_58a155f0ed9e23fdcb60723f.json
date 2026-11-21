@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_58a155f0ed9e23fdcb60723f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Warlock",
+  "setter": "Eliasdem",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "D0528EA351274D56BF7C5BD9A3C27E34",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1111r15p1128r12p1175r12p1214r15p1227r13p1244r13p1252r15p1281r13p1314r13p1334r13p1335r13p1388r14p1483r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bbad0d4a99f3a598695087ba9ce498f0912d19529c11310657f1eb7aa22f40c6",
+  "validation_errors": []
+}

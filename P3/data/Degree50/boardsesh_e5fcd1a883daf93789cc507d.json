@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e5fcd1a883daf93789cc507d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "cuddle",
+  "setter": "kurt_",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0725521cc9614ad38a03f475a0665e94",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1086r15p1162r12p1230r13p1232r13p1282r13p1318r13p1350r13p1389r14p1495r15p1541r15p1588r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "abaafdeea827e570d911b2c0add09b6df370000c2a691d30a850a4d1b9c2f440",
+  "validation_errors": []
+}

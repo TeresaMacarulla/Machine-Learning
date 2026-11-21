@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e3f45cc4b8c700b412bc08e7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Cut Foot Canyon",
+  "setter": "cgk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "A8A55C552F5048F982127820210DC61B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1134r12p1172r12p1205r13p1236r13p1287r13p1320r13p1373r13p1391r14p1453r15p1455r15p1481r15p1531r15p1553r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "816a9003a3c7001622519ecf86b0d16db64a9f3bf35036035272318057bf44f1",
+  "validation_errors": []
+}

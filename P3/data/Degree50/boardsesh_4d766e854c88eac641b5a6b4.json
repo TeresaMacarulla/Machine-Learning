@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4d766e854c88eac641b5a6b4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "ford mustang",
+  "setter": "samgtmeyer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "5d53e7fc61b44320889b1d8a41098807",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1157r12p1169r13p1181r15p1222r13p1269r13p1270r13p1299r13p1369r13p1384r14p1453r15p1547r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 9161,
+  "quality_average": 3.2602709198164734,
+  "hold_fingerprint": "40fa65cc6008ffc0c5815ea68df4fd7bc45864b4ff3de73ee763426117609e49",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b174df11c6574e07bc5ed86f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Burden of Shoulders",
+  "setter": "Honder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "46B29605B4F74F75B282448425FCD669",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1197r13p1214r13p1281r13p1320r13p1371r13p1376r13p1395r14p1454r15p1457r15p1514r15p1547r15p1572r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.33,
+  "hold_fingerprint": "980ef2a82777e2526421a1c7ce802ba7d8a8ca5bf0d2bbcf03099add1d8bc23b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1e99485ab384d548b655dcee.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Between the Legs",
+  "setter": "daxxta",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "3fa627300c704aa386bdc57edba66989",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1075r15p1154r12p1187r12p1241r13p1289r13p1314r13p1317r13p1334r13p1365r13p1379r14p1480r15p1491r15p1506r15p1530r15p1555r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.72,
+  "ascensionist_count": 30,
+  "quality_average": 3.69,
+  "hold_fingerprint": "4207424ee3889c054579c231bc84473a2a96438f34710dab859ff8507f6f348b",
+  "validation_errors": []
+}

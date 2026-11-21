@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7103436e8b54928b1dce3a11.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Lughan01",
+  "setter": "Lughan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "198070a6e479434d81c23a40d59fa81f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1200r12p1234r13p1236r13p1269r13p1302r13p1353r13p1388r14p1390r14p1452r15p1470r15p1478r15p1495r15p1497r15p1531r15p1533r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.4,
+  "hold_fingerprint": "2b66acc6e8c5c23bb4f7af9d2149eb80c3d9952d77bfb5f7093e7a7106de1d14",
+  "validation_errors": []
+}

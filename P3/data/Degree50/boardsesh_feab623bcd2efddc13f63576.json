@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_feab623bcd2efddc13f63576.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Ez jump",
+  "setter": "WolverineFR",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "CA9EB27226114A2F857BE6079110CD48",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1204r12p1206r12p1306r13p1308r13p1392r14p1393r14p1480r15p1481r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 1,
+  "quality_average": 2.0,
+  "hold_fingerprint": "3943f6dc3564afa097a9d5a6846cdff481b1dcaa744c60f5c45453502d008f19",
+  "validation_errors": []
+}

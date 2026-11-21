@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1e3949fd9d65715039e7a449.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "thumb incl.",
+  "setter": "olmio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "05b1e4dc0e4748e9aeab868dcae98524",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1167r15p1190r15p1216r13p1253r13p1254r13p1291r13p1326r13p1391r14p1457r15p1468r15p1486r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.71,
+  "ascensionist_count": 7,
+  "quality_average": 3.57,
+  "hold_fingerprint": "34855d3c69fbd33d3ac80a3f652473d7382fd5386cddddc5ba644102ebdba9ee",
+  "validation_errors": []
+}

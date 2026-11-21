@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d5b86d6acbda73851980fa1d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "madball",
+  "setter": "crapnek",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "4d792b2491194d5aa5346d0fb7411d2a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1218r15p1244r13p1264r13p1299r13p1303r13p1320r13p1325r13p1395r14p1460r15p1463r15p1485r15p1502r15p1540r15p1554r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "cb42cfebc8fa491d7d3ce74b23224a24d50221744035ae06a1a6274ad015537d",
+  "validation_errors": []
+}

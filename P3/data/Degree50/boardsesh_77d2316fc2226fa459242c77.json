@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_77d2316fc2226fa459242c77.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Solution",
+  "setter": "VadimDelakian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "DE30E387AC3C41F3A185E4ED6DECE350",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1095r12p1126r12p1198r13p1232r13p1271r13p1287r13p1338r13p1385r14p1465r15p1474r15p1529r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.98,
+  "ascensionist_count": 61,
+  "quality_average": 3.22,
+  "hold_fingerprint": "5bdc85907146dbe342fbda7d2845b36c81dd777bb3e4c10765ae8d38891fc40c",
+  "validation_errors": []
+}

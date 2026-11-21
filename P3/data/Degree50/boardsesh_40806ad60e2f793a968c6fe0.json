@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_40806ad60e2f793a968c6fe0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Diagonal Ladder",
+  "setter": "JoelHaefliger95",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "54b328d2-917d-44d2-9e56-732c243238db",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1175r12p1464r15p1127r12p1213r13p1267r13p1150r15p1353r13p1385r14p1096r15p1229r13p1301r13",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.67,
+  "ascensionist_count": 16,
+  "quality_average": 3.25,
+  "hold_fingerprint": "b289316775f747dce8e92235b0bf9cb00e067f11e603c9f660eddeb671e6b527",
+  "validation_errors": []
+}

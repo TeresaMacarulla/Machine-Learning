@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ee0e908932f907017243a569.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Body On Fire",
+  "setter": "Habkering",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "30FE29304ED242D4AFDC5BB4D576D589",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1125r12p1146r12p1214r13p1219r13p1269r13p1286r13p1333r13p1334r13p1380r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.92,
+  "ascensionist_count": 15,
+  "quality_average": 3.58,
+  "hold_fingerprint": "a0db9f5bea368b68f5e9a8a0ee74bbeb3c0d36f152f2fcfe91f1d9df5465184d",
+  "validation_errors": []
+}

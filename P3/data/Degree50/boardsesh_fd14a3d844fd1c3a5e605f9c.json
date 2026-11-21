@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fd14a3d844fd1c3a5e605f9c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "mirr",
+  "setter": "masteroogway",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 8,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6505490e7ed646d09cd9641efe8133a2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1136r12p1178r13p1188r13p1281r13p1289r13p1317r13p1321r13p1386r14p1388r14p1451r15p1453r15p1458r15p1460r15p1530r13p1533r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "2c52dfbfd1d27d28cf1852e1ebe6ea45cad8d4d8074fb358e6d9547a481033d1",
+  "validation_errors": []
+}

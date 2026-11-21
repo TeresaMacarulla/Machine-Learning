@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_23022052132d3226dea88552.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "underclinging tension",
+  "setter": "LorenzG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2238ff91540f46c892bc3ef6521bab1d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r15p1174r12p1204r13p1207r12p1238r13p1268r13p1330r13p1334r13p1363r14p1379r14p1497r15p1513r15p1521r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "4c948bacbe02513c630519a217de62b6b89de8918cba4c9a9172a4807d5a541e",
+  "validation_errors": []
+}

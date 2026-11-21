@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cf066e7d4638153cc81dda68.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "calentamientom",
+  "setter": "sharma",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9D185FAD36524235AB67970B31082DB5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r12p1206r13p1256r13p1307r13p1337r13p1369r13p1383r14p1452r15p1500r15p1558r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "efa7afb3dfd5db9bf58760e887bcdad78738bc688704dce613445378953657b3",
+  "validation_errors": []
+}

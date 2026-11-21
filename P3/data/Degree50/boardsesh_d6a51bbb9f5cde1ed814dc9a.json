@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d6a51bbb9f5cde1ed814dc9a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "vic campus 2",
+  "setter": "Vpatin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "09a96b74bf304322bdf1c928c7467b5d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1181r12p1213r12p1252r13p1256r13p1267r13p1305r13p1356r13p1386r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.91,
+  "ascensionist_count": 24,
+  "quality_average": 3.36,
+  "hold_fingerprint": "44481cc49007c1fec959f7c7aa782ccb650d5fa22393e2cb7b2382be53915ed4",
+  "validation_errors": []
+}

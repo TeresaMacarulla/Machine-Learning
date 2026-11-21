@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9f06920df05912c277469676.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "chrono cross",
+  "setter": "strings",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0BCB2BDF1F954B36834093B39205D10F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1122r15p1176r15p1187r12p1189r12p1210r15p1248r13p1249r13p1253r13p1279r13p1348r13p1365r13p1386r14p1479r15p1537r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "643bc4c3b1b4fae5361e3427c18bd3a10f1ef2764b5ecd5247992b83e39e340f",
+  "validation_errors": []
+}

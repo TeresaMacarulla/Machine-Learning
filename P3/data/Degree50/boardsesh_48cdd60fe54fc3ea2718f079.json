@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_48cdd60fe54fc3ea2718f079.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "tire-bouchon",
+  "setter": "Laurie01",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "CB6D48C0530A41B4AD6F05739F378A5B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1108r15p1193r12p1197r12p1229r13p1251r13p1253r13p1257r13p1308r13p1393r14p1497r15p1518r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "eeb393491a89bd94ba89736523110e0e5a39b8da6417a372261a1dd9ad1f92b3",
+  "validation_errors": []
+}

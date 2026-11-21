@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_72a0c4a006442cf3be0c3da4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Watch Your Left",
+  "setter": "kilterjackie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "C1C1243AD2E44A3484A220C80F686CA9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1181r12p1199r12p1243r13p1246r13p1247r13p1312r13p1328r13p1380r14p1486r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.5,
+  "ascensionist_count": 4,
+  "quality_average": 2.0,
+  "hold_fingerprint": "8eac4ec68de6acd678591acd2d844498f3baffcaa5476cd887d0e22524026343",
+  "validation_errors": []
+}

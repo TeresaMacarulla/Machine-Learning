@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8f2fd3e1bf7c6356d35f8cfb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Surgical Process",
+  "setter": "EthanHunt125",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "e9bd2c36c2594434942a606afa372b52",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1226r13p1315r13p1345r14p1459r15p1462r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.33,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "88f2c105536905e2b106cd9f26c70af263bf74f550e26d195b72e53267fb23ce",
+  "validation_errors": []
+}

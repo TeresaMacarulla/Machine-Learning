@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b5e93e96e39dfbcecf2ad57d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Accordions",
+  "setter": "titoclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "02735190832C41CCB85112D8673FAD0E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1161r15p1234r13p1266r13p1280r13p1296r13p1381r14p1520r15p1528r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f41374e57f1e7afdfd8f0b64704f8f0a39d8a75654232fc03e18d1c8fc9906f4",
+  "validation_errors": []
+}

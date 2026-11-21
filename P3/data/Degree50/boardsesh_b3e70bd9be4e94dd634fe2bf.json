@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b3e70bd9be4e94dd634fe2bf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "RIP 5.10",
+  "setter": "vunamese",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "E43C3DCF96EC489084ABEAEE55ED6302",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1161r12p1210r13p1240r15p1244r13p1266r13p1282r13p1288r13p1289r13p1326r13p1376r13p1395r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "28dc03e8a27995c0943696c01dc25cd1c3d74b80d28f1ec55217fb09b546b910",
+  "validation_errors": []
+}

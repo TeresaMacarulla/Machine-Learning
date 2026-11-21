@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9c568fd3e20611813e8dc6f2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "R5_Test",
+  "setter": "ryanshum",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "a9654618b4cc415d98820c51b6beb8b8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r12p1146r12p1210r13p1249r13p1250r13p1303r13p1322r13p1340r13p1393r14p1457r15p1462r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.33,
+  "hold_fingerprint": "9b05ed50d535e90d51fcdbf84253b0fc860aceefdb4c6dd15b96c3f004ff07e6",
+  "validation_errors": []
+}

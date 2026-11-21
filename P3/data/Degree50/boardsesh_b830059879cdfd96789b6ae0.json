@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b830059879cdfd96789b6ae0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "loco campus",
+  "setter": "killter_dude",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "D4857CB1F5384F54916F3A493974A6E1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1237r13p1250r13p1262r13p1275r12p1293r12p1313r13p1366r13p1388r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.95,
+  "ascensionist_count": 20,
+  "quality_average": 3.3,
+  "hold_fingerprint": "ca7d2a120ada11d78f05eeb01a643c5a0cc55efcd854b4d47cf4ddee84c308fa",
+  "validation_errors": []
+}

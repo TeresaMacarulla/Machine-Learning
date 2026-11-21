@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3f0858c5d93d1e8904e87bca.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Whad",
+  "setter": "kilter70",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "96F6808DBBF24BD9BE4610EEA495ED64",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1128r12p1131r15p1214r13p1230r13p1285r13p1287r13p1320r13p1375r13p1391r14p1457r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "a6e79c26024d3ff2938873ef0d7cba3b5add5d6610e0a662fa9e6df386d5b155",
+  "validation_errors": []
+}

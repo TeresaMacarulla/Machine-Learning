@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_14c19317b26be7907e42de0c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Pixel wall",
+  "setter": "sevane",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "d32f3675ba82438287dafbfdbbc4df4b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1192r12p1214r12p1263r13p1268r13p1317r13p1352r13p1385r14p1483r15p1495r15p1506r15p1510r15p1539r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "25029834505293ed5a91f0b7c659f2531c1a5162a3ed4c3213cc102db11c8716",
+  "validation_errors": []
+}

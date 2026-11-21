@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7e7c69ea54157cf796308235.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Trackman",
+  "setter": "kilternow333",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "78BBAAEB8784467B8DF94F112B9C8AB0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1115r12p1148r12p1182r13p1201r15p1227r13p1233r13p1314r13p1318r13p1384r14p1453r15p1479r15p1520r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c78e79647a43cfa87aa52e2638f3de757b6bb291f23603bddce98a2588dfef3d",
+  "validation_errors": []
+}

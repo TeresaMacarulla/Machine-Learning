@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_55485dd4b388afd9507254ad.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "buffer overflow",
+  "setter": "I...I",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7895f3bd71c8461b9f1ec231c59edc58",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1180r13p1235r13p1283r13p1353r13p1356r13p1359r13p1393r14p1460r15p1475r15p1503r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6bf484a4310456c2aacf644501cd766f35e0d5bdb5914ed4c35a0930eedf4111",
+  "validation_errors": []
+}

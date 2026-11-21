@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6ca08ce136f067c6d2448032.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Floatin lite",
+  "setter": "antoine.schohn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "fea430e7-5fb3-4ac6-aa4c-85122853984e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1355r13p1271r12p1273r12p1508r15p1316r13p1317r13p1331r13p1380r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.67,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "bc28dbf39d6cedc8485b7e7c6351f589f2ae4da0cd2d92983683cde7ce30abe3",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e41a85b62721e10fb2fe45c9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": " COMPLEMENTARY SETBACK",
+  "setter": "B_Das_Me",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "185fe491-ae9f-44bb-8dba-04f6b970d855",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1247r12p1233r12p1300r13p1141r15p1270r15p1348r13p1315r13p1520r15p1379r14p1564r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.11,
+  "ascensionist_count": 20,
+  "quality_average": 4.44,
+  "hold_fingerprint": "2563a1004b5c8c93c05f5d716c6ef89a39fda1eb664be3a4c49be0b3d939780b",
+  "validation_errors": []
+}

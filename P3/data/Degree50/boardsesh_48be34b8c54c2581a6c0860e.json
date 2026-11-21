@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_48be34b8c54c2581a6c0860e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Probestunde",
+  "setter": "Tarekrobrahn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "a06d7fb019e34b3bbd3afad90ffc124a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1149r12p1218r13p1254r13p1303r13p1337r13p1369r13p1383r14p1455r15p1498r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "33db9a9be5d9cdd76b6b216157b18326b5b27354ff19fe1249910fd63d6c9580",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aed501a6d3177bbd5a8d1009.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Cloud Watching",
+  "setter": "k_70",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "004B8AFF361743CF897562826A29DEDA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1210r15p1239r12p1240r12p1289r13p1296r13p1300r13p1302r13p1383r14p1500r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.7,
+  "ascensionist_count": 10,
+  "quality_average": 3.7,
+  "hold_fingerprint": "0da18afc56ad8a0d6e1aa5cf3e7a976499b71632a6b55bd024753763e6a41e5b",
+  "validation_errors": []
+}

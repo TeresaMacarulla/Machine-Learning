@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9fe3881f2e812d9b49f68848.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Spannung und so",
+  "setter": "Heiserman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "04CF43C07D354CE5B7A814ED3999D678",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1164r12p1246r12p1281r13p1297r13p1335r13p1350r13p1385r14p1469r15p1496r15p1505r15p1511r15p1523r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.11,
+  "ascensionist_count": 9,
+  "quality_average": 3.67,
+  "hold_fingerprint": "efcd40720bb8dbbc96376f4008218771bb9ad41ba02c7529fd44ba4ab93af855",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3c4c180e14f4c142753b84ca.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "S\u00e9ance de faible",
+  "setter": "Enzo.P",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "C1241D4C718345B4B97E229D07BBBB80",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r15p1248r12p1303r13p1306r13p1344r13p1395r14p1532r15p1539r12",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.98,
+  "ascensionist_count": 51,
+  "quality_average": 3.31,
+  "hold_fingerprint": "06c188893c786c945bd2144d35c19bcbb7308684caaf524f84fee3324d6ead07",
+  "validation_errors": []
+}

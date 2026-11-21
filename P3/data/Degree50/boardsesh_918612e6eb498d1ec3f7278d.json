@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_918612e6eb498d1ec3f7278d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Boulderbar #XIV",
+  "setter": "tomturbo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "d921b001af834d3898c3bfb10a93711e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1164r12p1206r15p1224r15p1233r13p1270r13p1304r13p1312r15p1372r13p1384r14p1467r15p1503r12p1552r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.97,
+  "ascensionist_count": 39,
+  "quality_average": 3.54,
+  "hold_fingerprint": "eda9e0f2fdefd146bae59f16b11b48bb9888641702cf584346a8527594f34d75",
+  "validation_errors": []
+}

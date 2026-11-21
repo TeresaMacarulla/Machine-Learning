@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e5c8fc28ab8015258d77c5c5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "grambo",
+  "setter": "dawsonashby",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3AF77D1A4CBA45A9ABA97E9DC836DA04",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1150r15p1218r13p1268r13p1288r13p1321r13p1358r13p1391r14p1455r15p1525r15p1553r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "fcd071ccebb97abbf5c88dcef1ed74330a8104bcf37d7bc4da4679bd66fc396d",
+  "validation_errors": []
+}

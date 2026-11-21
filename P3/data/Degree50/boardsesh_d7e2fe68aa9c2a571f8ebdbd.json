@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d7e2fe68aa9c2a571f8ebdbd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Classroom Series: 2",
+  "setter": "Tiltedclimbing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "f089fac7c14e49ac99bb2b5100660a7e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1113r15p1137r15p1168r12p1189r15p1198r12p1224r15p1236r13p1237r13p1258r13p1274r13p1292r13p1359r14p1499r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2eaa7d9b917a8652d85cb36aab33fe10de28dd75b12c428877192080998a23c0",
+  "validation_errors": []
+}

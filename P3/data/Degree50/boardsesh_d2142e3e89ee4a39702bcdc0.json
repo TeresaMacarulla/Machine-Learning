@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d2142e3e89ee4a39702bcdc0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Halt mal kurz ",
+  "setter": "Tarek Robrahn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "511f2023-fa66-4126-a45a-f123b1b2f0f7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1449r15p1116r12p1153r12p1222r13p1259r13p1305r13p1355r13p1385r14p1384r14p1140r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.86,
+  "ascensionist_count": 8,
+  "quality_average": 4.29,
+  "hold_fingerprint": "ec883f4a457be85c735a5354fb48ee3d7ad24e9b794fced0a7cbdd1118f8f88b",
+  "validation_errors": []
+}

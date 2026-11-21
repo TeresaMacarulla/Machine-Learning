@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1cd012cfd84a1d4870012fcf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "wtw\uff14\uff11",
+  "setter": "dboulderingsoga",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6A7A042140C64B4F84EE967A61A5DFC5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1131r15p1142r12p1163r13p1201r15p1231r13p1267r13p1316r13p1317r13p1382r14p1463r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "47096210f8ff09573f2f6490a2b326498d8a64540a5c07d6740632a9f3fd2899",
+  "validation_errors": []
+}

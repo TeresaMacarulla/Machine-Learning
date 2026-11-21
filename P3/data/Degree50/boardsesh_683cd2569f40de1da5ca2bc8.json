@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_683cd2569f40de1da5ca2bc8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "LevelLord",
+  "setter": "steil_boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "97D97785F0FB4ABEB570E4129B2B6301",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1232r13p1262r13p1298r13p1318r13p1386r14p1507r15p1522r15p1551r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8e8c0dac88270ceffbd1d9c4b9512a028eb3129400edc004ca21a464466143f0",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fe8d23c682850c40daa806b1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Flippin Pancakes",
+  "setter": "maxd122",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9FF9483ED4444426A9DDAD5FD41E8C5F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r12p1138r12p1187r13p1239r13p1288r13p1301r13p1335r13p1347r14p1447r15p1452r15p1480r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 4,
+  "quality_average": 2.75,
+  "hold_fingerprint": "cbdc116d8265c3d882e91c757084e6322d0ec5726d150278b663233d4d9874ee",
+  "validation_errors": []
+}

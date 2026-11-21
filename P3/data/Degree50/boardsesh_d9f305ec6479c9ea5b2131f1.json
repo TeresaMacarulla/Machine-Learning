@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d9f305ec6479c9ea5b2131f1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "plague doctor ",
+  "setter": "Arcticwitch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "e35c1420-5b30-4a23-af43-c6b55431cba9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1161r12p1181r12p1141r15p1230r13p1251r13p1319r13p1306r13p1341r13p1535r15p1545r15p1394r14p1361r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.25,
+  "ascensionist_count": 4,
+  "quality_average": 2.0,
+  "hold_fingerprint": "e0a8a223dcf83507dfcba8cf53e9da8784fb78bf912471b55cb449ba56b867b3",
+  "validation_errors": []
+}

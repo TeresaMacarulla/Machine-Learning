@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7803a15d5ce6c7064d78e762.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Trakaa",
+  "setter": "lorenzoraineri",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C80CB09C996E4CBA803DF763E13622BE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1129r12p1136r12p1168r13p1215r13p1254r13p1302r13p1358r13p1391r14p1459r15p1476r15p1590r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "37a4e92f668bd8bc7c0066b548c3fb6ebae03952c1b2c483b033a5fcccc4e623",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3f9db78fa695bcad3f51dd5d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Audi",
+  "setter": "christof",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "BF078FC6B7164AE9892EF8CFFF65EA3C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1130r12p1165r12p1200r13p1235r13p1254r13p1283r13p1335r13p1368r13p1387r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.2,
+  "ascensionist_count": 5,
+  "quality_average": 4.2,
+  "hold_fingerprint": "a447a47190f929704c42ee275962b2ea73d551f34ae641ee781832accb4ca95a",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f58ef7a19b865e092d9a5b3f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Old Man",
+  "setter": "nikephoros",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "FA0DF82F2B1B4C63919676E46C69F826",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1160r12p1163r12p1195r13p1198r13p1231r13p1247r13p1267r13p1301r13p1336r13p1368r13p1387r14p1459r15p1462r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.07,
+  "ascensionist_count": 115,
+  "quality_average": 3.34,
+  "hold_fingerprint": "28f26da2ea8068a79d771378bec26c3f39bf629b6443272405b2319ceeba2797",
+  "validation_errors": []
+}

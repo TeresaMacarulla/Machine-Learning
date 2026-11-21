@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3d2db2b04bc2d1e5fb69a70f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "cortanas warthog",
+  "setter": "bimgus1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "ea59db36-5db8-48fa-8361-e0243b568f65",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1452r15p1131r12p1163r13p1249r13p1213r13p1279r13p1380r14p1519r15p1349r13p1485r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.5,
+  "hold_fingerprint": "9566af182831bbc86be746349572ad93155c6ba717a6bdf62a723a29d5582869",
+  "validation_errors": []
+}

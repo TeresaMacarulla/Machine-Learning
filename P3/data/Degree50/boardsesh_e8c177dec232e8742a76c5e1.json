@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e8c177dec232e8742a76c5e1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "do you want a kilter climbing",
+  "setter": "jherbst",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2703ABEC07744C9EA42C2FE79F1E326C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1187r12p1235r13p1265r15p1271r13p1303r13p1320r13p1334r13p1352r13p1384r14p1480r15p1505r15p1532r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "8aacb433d3da731e5d797df6aa5b556a39b5369011ab97026386f93f8ecc412a",
+  "validation_errors": []
+}

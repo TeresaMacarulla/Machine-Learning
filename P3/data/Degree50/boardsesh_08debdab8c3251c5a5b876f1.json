@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_08debdab8c3251c5a5b876f1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "miki mouse",
+  "setter": "ariapana_serra",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1279f2ed57ce446396e850e368a03018",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1079r15p1170r12p1201r13p1254r13p1268r13p1299r13p1335r13p1384r14p1487r15p1513r15p1541r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 14,
+  "quality_average": 3.57,
+  "hold_fingerprint": "9ab64d7dd0390a108104ff7579553d9d41bc034d19d7801642aa10fabda2d00b",
+  "validation_errors": []
+}

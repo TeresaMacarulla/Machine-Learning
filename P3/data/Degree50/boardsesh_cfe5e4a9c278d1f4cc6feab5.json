@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cfe5e4a9c278d1f4cc6feab5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Full toboggan ride",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "68941521587e4410a19e7fc681b5e7fd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1131r15p1147r12p1158r15p1165r12p1179r13p1214r13p1248r15p1262r13p1313r13p1347r13p1384r14p1457r15p1528r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "0448cc04785df13a2beb1d15eae71e8dcfed962d3327e80cc785c26216ef3690",
+  "validation_errors": []
+}

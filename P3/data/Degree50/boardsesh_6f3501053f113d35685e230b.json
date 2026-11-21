@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6f3501053f113d35685e230b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Raise the board, please",
+  "setter": "rpon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "75F0F0311E934DB280CC7D5EED3874B4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1181r15p1220r15p1231r15p1237r15p1252r15p1266r12p1268r12p1302r13p1317r13p1354r13p1385r14p1387r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.67,
+  "ascensionist_count": 5,
+  "quality_average": 3.3299999999999996,
+  "hold_fingerprint": "9b0ca75945fff1ea8d14186eee3886dbc81ea3473ee9376c76ed00545850c3e5",
+  "validation_errors": []
+}

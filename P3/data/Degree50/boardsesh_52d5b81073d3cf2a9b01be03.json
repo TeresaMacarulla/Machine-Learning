@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_52d5b81073d3cf2a9b01be03.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "KNIFE TALK",
+  "setter": "AarondeWolff",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "75cc69ce9a7847f0b9c594c8ef1bf52b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1172r12p1183r15p1253r13p1318r13p1370r13p1385r14p1451r15p1473r15p1552r15p1561r13p1578r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.91,
+  "ascensionist_count": 47,
+  "quality_average": 3.13,
+  "hold_fingerprint": "abd044c54e1fad1bc65ed71b9665932be20ac8c836414eee93bb2a14f1d899f4",
+  "validation_errors": []
+}

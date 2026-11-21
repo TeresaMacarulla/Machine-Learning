@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9072b6281997495ef3d0a565.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "off the pram",
+  "setter": "navod",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "30120EC9ABE2455D9A5DCD889D91881A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1205r15p1245r12p1262r12p1300r13p1302r13p1306r13p1341r13p1394r14p1483r15p1492r15p1535r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.72,
+  "ascensionist_count": 19,
+  "quality_average": 3.6700000000000004,
+  "hold_fingerprint": "71cc64a08f3c4e9eddd50fddd98a7a9d2d9db83c3ca60a8044ad18b2bdb889c3",
+  "validation_errors": []
+}

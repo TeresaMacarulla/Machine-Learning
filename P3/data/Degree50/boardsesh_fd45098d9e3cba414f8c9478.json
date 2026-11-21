@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fd45098d9e3cba414f8c9478.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "recycling",
+  "setter": "rbailey",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8249cf4a-035a-4664-a73d-98d48260fd75",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1254r12p1216r12p1283r13p1166r15p1285r13p1298r13p1331r13p1383r14p1181r15p1194r15p1531r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": null,
+  "hold_fingerprint": "8c4bd2f882a92b5e0de0fd4a4611331d7b4be7c6500bc9ee9b993eb2060f342c",
+  "validation_errors": []
+}

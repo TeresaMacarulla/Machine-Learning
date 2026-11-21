@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ddca0050c8504f3a05be985b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "switcheroo",
+  "setter": "sidpintobean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "11BA05E9D29942438D5B8E0EB82216D0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1205r12p1221r12p1307r13p1354r13p1372r13p1385r14p1509r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3bbd8af740715e9a7d24fb2975bbeb35eedcadbca24534ec8ba83a088d33bc18",
+  "validation_errors": []
+}

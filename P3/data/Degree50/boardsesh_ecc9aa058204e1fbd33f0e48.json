@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ecc9aa058204e1fbd33f0e48.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Keep your basin shape!",
+  "setter": "NiXonTriX",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "93f73967a18c42b3b7c6b690b3ded9e7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1165r12p1199r15p1229r15p1231r13p1255r15p1299r13p1354r13p1391r14p1458r15p1568r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "36edc15ade4d754b0d8ec64050d5062c1f9601aa59b9d0dd9cdb4348cda0c2a8",
+  "validation_errors": []
+}

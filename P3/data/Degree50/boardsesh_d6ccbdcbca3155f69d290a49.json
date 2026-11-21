@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d6ccbdcbca3155f69d290a49.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Ranthony",
+  "setter": "IAmNotADinosaur",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ce4e1b1b2a674275a1a778bd3c704736",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1131r15p1187r12p1201r12p1208r15p1237r13p1257r13p1307r13p1327r13p1359r13p1390r14p1554r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.89,
+  "ascensionist_count": 18,
+  "quality_average": 3.67,
+  "hold_fingerprint": "f01428bc23b06ebe73f1b355f423998acb8c15672560554ee026b75d6a5b9a95",
+  "validation_errors": []
+}

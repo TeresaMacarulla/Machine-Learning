@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8484f75e7faba281214a6808.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "junglist 8x12",
+  "setter": "Hen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "f7be8a97-9d73-4840-acc5-bbeae3176c85",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1144r12p1198r13p1215r13p1286r13p1290r13p1370r13p1383r14p1086r15p1461r15p1503r15p1526r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 2,
+  "quality_average": null,
+  "hold_fingerprint": "4a0ec41225fb07463f6563d7d1f49fda7ca96c8370fe40f9d73c62683a9cf2fa",
+  "validation_errors": []
+}

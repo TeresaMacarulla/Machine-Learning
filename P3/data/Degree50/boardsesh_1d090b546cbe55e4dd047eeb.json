@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1d090b546cbe55e4dd047eeb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Pomegranate",
+  "setter": "Ansl1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6739B8E99A4042F280ECCE0C21EE5E57",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1137r12p1168r12p1254r13p1301r13p1330r13p1334r13p1379r14p1551r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.5,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "6bc26ed2d4029308ff362c7b245cfd3ef4de7fcc471397be28da4c752fb02975",
+  "validation_errors": []
+}

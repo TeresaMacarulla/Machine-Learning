@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b6ed12fe72a942aab79ac8da.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Exhale",
+  "setter": "Jono_giles",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C6BA3B0AD9C3411D9A1D585AFC6B1FF6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1149r12p1163r15p1196r13p1216r13p1248r13p1289r15p1298r13p1318r13p1335r13p1371r13p1375r14p1456r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2248251a703203bcf7ca619013f4babbefca732f6def8ce4802047ea86b8608d",
+  "validation_errors": []
+}

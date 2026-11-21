@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eebe1878bb938b94e76f3ac1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Jorking it",
+  "setter": "maxd122",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8049FC59952E4C04AAC0C393B9D687B5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1131r15p1197r15p1251r13p1255r13p1257r13p1259r12p1267r13p1300r13p1302r13p1387r14p1518r12",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f07319e175adccd99441667887f32d0fef0c8959a6271f348d023f4a97d9cf43",
+  "validation_errors": []
+}

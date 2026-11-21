@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_395497c7d7704893cb0c0329.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Short Rib",
+  "setter": "weaverc10",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4A13F051C4134578BE08549ACA3C8734",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r12p1215r12p1264r13p1284r13p1333r13p1363r14p1468r15p1486r15p1503r15p1504r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 13,
+  "quality_average": 3.5,
+  "hold_fingerprint": "df963d7149d0ea17697502550f3e6471d4f80d7f0285aa31bb8d61b58b6914fb",
+  "validation_errors": []
+}

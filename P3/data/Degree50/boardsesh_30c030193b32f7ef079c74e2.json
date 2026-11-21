@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_30c030193b32f7ef079c74e2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Monk Board Days no. 11",
+  "setter": "Monk_bouldergym",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "f057860f631c4f02a952375fbd2e851a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1157r15p1189r12p1307r13p1338r13p1388r14p1525r12p1544r13p1553r13p1587r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "272c7b6e0385de93e2e4cf04eb3dd27c754a19f1603eb245a98989f23ff663d3",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2210b6bd245d879b2a84b4af.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "way to go",
+  "setter": "ilmo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "98e5e3833a9f49068c045bc2eded88a3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1143r12p1194r12p1215r13p1283r13p1303r13p1334r13p1389r14p1510r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "f37cf14da4429617281a0fc18f5065593598672864cd0659018317fdf84d65f3",
+  "validation_errors": []
+}

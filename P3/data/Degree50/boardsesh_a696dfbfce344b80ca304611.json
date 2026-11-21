@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a696dfbfce344b80ca304611.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Poptones",
+  "setter": "kylevanhouse",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "7F3A8CDBFB0345648E56991AFC625739",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1183r12p1200r12p1214r15p1271r13p1322r13p1342r13p1391r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "584dbff029acdf849cf11856989400fd30123d8280707f78ec09f9f97f61dc20",
+  "validation_errors": []
+}

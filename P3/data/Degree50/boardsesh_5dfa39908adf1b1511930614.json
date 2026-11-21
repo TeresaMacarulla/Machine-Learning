@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5dfa39908adf1b1511930614.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Heavy duty right exit",
+  "setter": "Fitness4sanity",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "128a95ea88514e328fe48ef3094d0837",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1182r12p1201r15p1239r15p1246r13p1301r13p1321r13p1343r13p1395r14p1513r12",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.5,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b5f4f3eb880772e6e9e291d5cf3458f978db18ddc84c97cc722057e0e1287202",
+  "validation_errors": []
+}

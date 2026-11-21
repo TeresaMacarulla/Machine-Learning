@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_30ab7f82166e55751c1eb01c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Nyokodo",
+  "setter": "SamplesJ21",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "148557B1B198418690EF1EFADB834778",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1120r15p1187r12p1203r12p1271r13p1287r13p1317r13p1352r13p1365r13p1383r14p1489r15p1507r15p1547r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.92,
+  "ascensionist_count": 41,
+  "quality_average": 3.2999999999999994,
+  "hold_fingerprint": "794ddb9e76394c2e45c751acad076cc0345ff6950874640195303f8ed8a03212",
+  "validation_errors": []
+}

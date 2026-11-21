@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_99cff77064c37fb9da84f004.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Oompa Loompa",
+  "setter": "jan_trt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "d374d3df-1b24-45aa-b7d5-9a6a5c807e59",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1470r15p1182r13p1197r13p1127r15p1234r13p1251r13p1288r13p1239r15p1565r15p1382r14p1302r13p1353r13",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.67,
+  "hold_fingerprint": "abd85031bdfdd76de8f6fb31097fa99d3a576569ccfb3240f5ab9ac0980aafc6",
+  "validation_errors": []
+}

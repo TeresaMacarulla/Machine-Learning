@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ab34f1d2742453d75770872c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "quick ",
+  "setter": "Drag",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "e22a9d7b-428f-4f5b-b372-38bf5f08e123",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1203r12p1237r13p1131r15p1527r15p1291r13p1340r13p1373r13p1387r14p1567r15p1165r12p1508r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.25,
+  "ascensionist_count": 5,
+  "quality_average": 1.5,
+  "hold_fingerprint": "f8df8435194eaa0ab021b72aef4c4e29ccb3c7480e7740ebd37be0f1ab33f62b",
+  "validation_errors": []
+}

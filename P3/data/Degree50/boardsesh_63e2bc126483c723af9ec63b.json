@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_63e2bc126483c723af9ec63b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Children Under the Stairs",
+  "setter": "Cuckovich",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "D490D59AA0DF42FA80625E6490FEEC40",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1134r12p1137r15p1151r12p1162r15p1215r13p1220r13p1267r13p1297r13p1350r13p1351r13p1387r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.95,
+  "ascensionist_count": 5888,
+  "quality_average": 3.3506117247238745,
+  "hold_fingerprint": "aad0778dd0fe561b66235846ecf034f5285ad67606a56bdab5236b362cd6139c",
+  "validation_errors": []
+}

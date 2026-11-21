@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6261997c9b8d83e608d326fc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Campus Finish",
+  "setter": "cecilia_climbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "96DEE7368F69494BA429437ED0AA27A4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r12p1236r12p1287r13p1302r13p1337r13p1353r13p1388r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 11,
+  "quality_average": 2.36,
+  "hold_fingerprint": "319536caaddc147adfa71324839e5180c1e7888daffe6ccb6f5d5f37f0e87651",
+  "validation_errors": []
+}

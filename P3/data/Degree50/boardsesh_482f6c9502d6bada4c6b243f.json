@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_482f6c9502d6bada4c6b243f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "we major",
+  "setter": "oscargronhauglol",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "bf8dca40-df23-46b1-ad1b-72bad6e77836",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1230r13p1301r13p1356r13p1250r13p1530r15p1160r12p1376r13p1395r14p1089r15p1459r15p1107r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "a95330538e2775256f9fcc80ae2f1674f17ea91e3fb5d6b6e3d24585c922f2db",
+  "validation_errors": []
+}

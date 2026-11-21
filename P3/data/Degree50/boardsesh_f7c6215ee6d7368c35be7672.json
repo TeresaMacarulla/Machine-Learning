@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f7c6215ee6d7368c35be7672.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Benchmark Sandbag",
+  "setter": "KilterStudio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E688A3A7434B42B786003AD54C136A00",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1143r12p1217r13p1228r13p1249r13p1287r13p1320r13p1390r14p1485r15p1486r15p1488r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "6c7d4a0cbd8ec61f91cc678f02c9d323198fcf156956463b3302177dafa9baf1",
+  "validation_errors": []
+}

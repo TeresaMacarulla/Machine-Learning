@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8558ab0bea51094dd3600edd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Pablo escalator",
+  "setter": "marcelge",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "9088ef57e8174d03bc2df31b54a24755",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1164r12p1246r15p1248r13p1286r13p1320r13p1372r13p1385r14p1485r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ce45d33b04897bc52a5324a84ec5a3cf5e850fd965935bb29801a13d25b89759",
+  "validation_errors": []
+}

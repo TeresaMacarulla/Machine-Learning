@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0b855a485522daca471500e9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "easy spider",
+  "setter": "gclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5d62e70f75fc49f6b4260c8f7be7c5c7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1141r15p1180r12p1196r13p1249r13p1254r13p1320r13p1371r13p1383r14p1385r13p1506r15p1516r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ab5e7a639ea76101d7e267b2e3ead018b0e1636217291d3baff7788b808ca9cf",
+  "validation_errors": []
+}

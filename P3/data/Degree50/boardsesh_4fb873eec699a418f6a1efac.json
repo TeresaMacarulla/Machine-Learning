@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4fb873eec699a418f6a1efac.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Feet Finder",
+  "setter": "SetNaNo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "150FCA6177D94066AB562278F95BE099",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1195r12p1246r15p1247r12p1302r13p1337r13p1391r13p1394r14p1395r15p1485r15p1501r15p1557r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "7189772493587009143f549634507a506693a00808e94b8e387b9461565a1318",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fcf94696f4bb7f03cc74113d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "cljour1",
+  "setter": "sylvanor",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8E0340484831417584532A20C4B6494A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1231r13p1245r13p1328r13p1329r13p1386r14p1457r15p1462r15p1510r15p1594r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.67,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "8088bf94ed6931198b6e661a7f8d53d8d2022cacedc085c8eb802d4b643a7e4c",
+  "validation_errors": []
+}

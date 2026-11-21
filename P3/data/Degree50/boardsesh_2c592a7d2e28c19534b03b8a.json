@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2c592a7d2e28c19534b03b8a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Le vieux monsieur",
+  "setter": "VadimDelakian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "CAEB4779EF1B4806B9F638CB26E63304",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1151r13p1273r13p1322r13p1339r13p1351r13p1352r13p1381r14p1485r15p1523r13p1543r13p1556r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.94,
+  "ascensionist_count": 65,
+  "quality_average": 3.13,
+  "hold_fingerprint": "ae06803a037b55f3b46df090787bc74ae084ec75bdeece4779369c3d9a6cf4a1",
+  "validation_errors": []
+}

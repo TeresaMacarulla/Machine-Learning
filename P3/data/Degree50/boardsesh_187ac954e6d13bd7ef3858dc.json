@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_187ac954e6d13bd7ef3858dc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "AG3",
+  "setter": "AndyGullsten",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "e41752c323cc4c489b1d99023f2388a8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1137r12p1169r12p1240r13p1256r13p1272r13p1321r13p1325r13p1376r13p1395r14p1455r15p1500r15p1508r15p1518r15p1554r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.91,
+  "ascensionist_count": 23,
+  "quality_average": 3.435652173913044,
+  "hold_fingerprint": "18e5ef0457cfb09a39d77d12ce56a689b097e108db0df22a398ad1d32600a2a5",
+  "validation_errors": []
+}

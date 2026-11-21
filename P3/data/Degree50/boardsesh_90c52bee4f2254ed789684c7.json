@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_90c52bee4f2254ed789684c7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Plume Latraverse v.01",
+  "setter": "franco",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "541FB6C501D74B8DABB1F0021DEE8F3B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1163r12p1176r13p1200r13p1208r15p1212r13p1215r13p1236r13p1257r13p1271r13p1308r13p1344r14p1464r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "95317991c4c148a8397d95716d10f79c679df34528a021028cf30ec7c15b0c29",
+  "validation_errors": []
+}

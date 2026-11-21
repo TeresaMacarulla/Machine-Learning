@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e2a53d3799c1598564450b88.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Ketchup",
+  "setter": "Olaf8810",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "D55ECAE5A04F4D239A13B17368542BB3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1202r12p1216r12p1287r13p1334r13p1387r14p1478r15p1516r15p1531r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "e232f1fbbe9575f3eb9fef4fc30fd04b9c469f375b4af6c0891fcd6113fc5813",
+  "validation_errors": []
+}

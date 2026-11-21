@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2c68f17381ee7f284d1dbecc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "v4 campus\ud83e\udd11",
+  "setter": "conquest",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "68aef46d-134f-4d09-810b-cb960af3a0dc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1233r12p1235r12p1267r13p1315r13p1387r13p1357r13p1392r14p1352r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.75,
+  "ascensionist_count": 6,
+  "quality_average": 2.5,
+  "hold_fingerprint": "a872abf2f4c41d528942008c78c1878679f020cf99660021b9e219b2c1d899d1",
+  "validation_errors": []
+}

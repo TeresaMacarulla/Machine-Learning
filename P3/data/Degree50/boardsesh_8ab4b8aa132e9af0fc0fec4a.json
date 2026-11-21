@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8ab4b8aa132e9af0fc0fec4a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "floppy",
+  "setter": "lweed",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "ACE5E981C61A43F6B54B714A013BB085",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r12p1200r12p1220r13p1256r13p1302r13p1387r14p1451r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "66b5de349e380125fa2c7402a04bf92c1bb72349b645eaafc9ed8b22d6c88908",
+  "validation_errors": []
+}

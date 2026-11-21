@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2c57603fa796ab9c69534b50.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "wonder-wall",
+  "setter": "jameszanoni",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3E7C557AC79B420AAF2DC29F4A79B7D6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1201r13p1204r12p1255r13p1270r13p1322r13p1338r13p1373r13p1386r14p1470r15p1487r15p1505r15p1535r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1d3b967cea12a43a09fea88751ddfdbf08c3caf2745c823bc2952717c492ad72",
+  "validation_errors": []
+}

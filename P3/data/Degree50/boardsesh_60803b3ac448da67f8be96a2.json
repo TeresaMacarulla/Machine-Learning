@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_60803b3ac448da67f8be96a2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Avoiding the Subject",
+  "setter": "Cuckovich",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A718898DA7274077A294F96AB6461DE0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1183r12p1199r12p1236r13p1288r13p1304r13p1353r13p1387r14p1507r15p1534r15p1542r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 6,
+  "quality_average": 2.0,
+  "hold_fingerprint": "e7d859236a0835eb7ce9bb5074d02e568556dab0b158a33980e5919f0425d53f",
+  "validation_errors": []
+}

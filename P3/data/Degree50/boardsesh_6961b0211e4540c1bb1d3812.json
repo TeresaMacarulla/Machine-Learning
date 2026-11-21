@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6961b0211e4540c1bb1d3812.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Lockdown Lock Off",
+  "setter": "BKreinbrink",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "E2E8913BE4254C06952BCC4B8AE445AA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1163r12p1202r13p1215r13p1270r13p1273r15p1287r13p1301r13p1339r13p1388r14p1456r15p1458r15p1479r15p1490r15p1497r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.94,
+  "ascensionist_count": 69,
+  "quality_average": 3.4,
+  "hold_fingerprint": "aad76beec465a5fb651c7373376341316decaf93c85d3bd9bd6e993cb49be049",
+  "validation_errors": []
+}

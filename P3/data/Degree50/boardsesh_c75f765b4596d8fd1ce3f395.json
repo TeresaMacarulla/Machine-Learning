@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c75f765b4596d8fd1ce3f395.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "surround sound",
+  "setter": "Eli_Climbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "CA26D320C28F4336BE53F1BA41E25463",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1176r12p1215r12p1254r13p1283r13p1357r13p1391r14p1504r15p1553r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.8,
+  "ascensionist_count": 5,
+  "quality_average": 2.6,
+  "hold_fingerprint": "dfe73be1a16cfee2e8dcd6ad14b468f697f103f04b88e0d05403f14a8c846599",
+  "validation_errors": []
+}

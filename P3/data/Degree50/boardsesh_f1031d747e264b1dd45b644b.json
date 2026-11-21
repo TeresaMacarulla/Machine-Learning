@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f1031d747e264b1dd45b644b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "YellowBelly",
+  "setter": "HeckyC",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6eb211ff-e7d5-45d1-9d34-6ff36c8330e0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1191r12p1500r15p1273r13p1304r13p1352r13p1552r15p1569r15p1349r14p1525r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.5,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "ccd2fdd6c9f9912855544814e52f1e4bb9c2756666beb529b0101a17f0f919c4",
+  "validation_errors": []
+}

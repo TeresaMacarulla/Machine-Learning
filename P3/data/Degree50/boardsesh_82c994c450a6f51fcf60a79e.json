@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_82c994c450a6f51fcf60a79e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "froggy",
+  "setter": "miissaa",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1cc32b31-4ef5-4d85-8229-226a12f3300b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1176r12p1148r12p1462r15p1466r15p1458r15p1232r13p1248r13p1287r13p1516r15p1320r13p1375r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 4.0,
+  "hold_fingerprint": "9038fea6703357c1e459301ccfc99096866575b39f079aff8311829a1a822f50",
+  "validation_errors": []
+}

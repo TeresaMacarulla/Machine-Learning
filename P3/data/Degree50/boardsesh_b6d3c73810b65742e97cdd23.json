@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b6d3c73810b65742e97cdd23.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Can you even jump?",
+  "setter": "GreenGoose",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "91b5c997-f21a-4f05-88ac-4632bda7bc8b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r12p1168r12p1097r15p1100r15p1188r15p1518r15p1156r15p1257r13p1259r13p1393r13p1394r13p1387r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 5,
+  "quality_average": null,
+  "hold_fingerprint": "b93f1a8269ef8499983db99f52574a11e0261830f5ac72614aed0ed2fd16303e",
+  "validation_errors": []
+}

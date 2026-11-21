@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e064544a2ee5ca12a3648067.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Warm Shoulders",
+  "setter": "griffinwhiteside",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "99FD3F334A0D4ECEA718D66F4B45A101",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1162r15p1199r12p1215r12p1266r13p1281r13p1333r13p1334r13p1338r13p1371r13p1390r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.03,
+  "ascensionist_count": 134,
+  "quality_average": 3.32,
+  "hold_fingerprint": "f65bf6f776fe35c64e05582bba000b2c1baff6e4b27580502e7a233b8c2e3cb8",
+  "validation_errors": []
+}

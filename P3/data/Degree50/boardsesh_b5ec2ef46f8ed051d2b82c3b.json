@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b5ec2ef46f8ed051d2b82c3b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Uncast Shadow (eliminate)",
+  "setter": "gavinsta",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "e510ca92b7b64664a8b240a0bb54c511",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1146r12p1181r12p1199r13p1220r15p1269r13p1320r13p1390r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.95,
+  "ascensionist_count": 66,
+  "quality_average": 3.34,
+  "hold_fingerprint": "b6516dd8c3e600dab391d6f6038ee4955c8678c9679cdf206182d13e3bfc3eb8",
+  "validation_errors": []
+}

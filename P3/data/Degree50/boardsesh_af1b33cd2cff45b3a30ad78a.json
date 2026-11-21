@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_af1b33cd2cff45b3a30ad78a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Funke master flex",
+  "setter": "bkbskilterboard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3AD97106414B49B692A9ED26D9B8724E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1142r12p1143r12p1196r13p1234r13p1249r13p1302r13p1388r14p1462r15p1514r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "65938dba9516ac810d0d5c4f702bba84229972fa1997a8a7aec1cece6b3f1ab2",
+  "validation_errors": []
+}

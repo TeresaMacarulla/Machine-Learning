@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1ccdc721c4c0f14b254801d1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Pac-Man",
+  "setter": "RiverTulloss",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "D6CF99E43B59445FA2BB459D46CFEEF4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1116r12p1150r12p1183r13p1197r13p1266r13p1283r13p1353r13p1385r14p1503r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e7831531736e1a45f6497c0b8257d61ce9dc6b2a531ed20f6275a79dc4985271",
+  "validation_errors": []
+}

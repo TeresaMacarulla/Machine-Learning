@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5652c3910e6a2ba1ec9213d8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "tension in the air",
+  "setter": "rootfinlay",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "4F4B0DBD5A774377BDB854CD1BD9C8D1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1232r15p1268r12p1305r13p1340r13p1395r14p1504r15p1506r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "eb36cd1fa1749033630b02a5a6be4845c6ad898a1e6cbce8f298a7b04371458f",
+  "validation_errors": []
+}

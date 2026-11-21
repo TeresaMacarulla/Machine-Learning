@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_90215a7330f2c53a7cfdfee9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "360 Quick-Scope",
+  "setter": "NGS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "20D08B2AED3A47EF9DE0912C3458D216",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1243r15p1256r12p1268r13p1315r13p1345r14p1583r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "5103ea595ae880714a200472b5e5232e72010d639c6722739b96689a50269c47",
+  "validation_errors": []
+}

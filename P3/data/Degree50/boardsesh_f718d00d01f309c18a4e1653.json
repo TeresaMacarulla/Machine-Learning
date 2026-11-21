@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f718d00d01f309c18a4e1653.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "cross holds",
+  "setter": "alexnunnari",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "7F93FE1559064820B6F6C765A5D6AC17",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1116r12p1133r15p1185r13p1197r15p1198r12p1204r15p1234r13p1254r13p1302r13p1317r13p1331r13p1382r14p1383r14p1454r15p1458r15p1529r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "c6a6c0d22194209489060831d4d1eb01388c44ad52c555d46e263c0fb695a16b",
+  "validation_errors": []
+}

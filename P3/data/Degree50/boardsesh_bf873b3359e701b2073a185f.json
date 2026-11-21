@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bf873b3359e701b2073a185f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Running blade",
+  "setter": "HugoChan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "492bf531d5d046cd93ffc8aef7109711",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1156r15p1204r13p1257r13p1286r13p1320r13p1323r13p1358r13p1391r14p1447r15p1450r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e43eb2437d482a14494d941afeb3c2ddd5cfdfd495b3db340ed85f0d625d0a91",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dc95036629934aeae4d9cda2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Pouncer",
+  "setter": "Hacksaw",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "C96B9655F5D14B2899C6760DF38C4278",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1109r12p1175r12p1197r13p1215r13p1236r13p1265r15p1319r13p1356r14p1487r15p1511r15p1561r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "dea4a9459556e1af67248ad5f0ef0c5e0451fa44ffa29f1d0de057b2d069759f",
+  "validation_errors": []
+}

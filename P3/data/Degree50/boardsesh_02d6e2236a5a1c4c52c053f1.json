@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_02d6e2236a5a1c4c52c053f1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "hardened",
+  "setter": "tohandsz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "20353eff-20cf-4071-a260-35a720951851",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1138r12p1257r13p1454r15p1104r15p1115r15p1168r12p1320r13p1206r15p1532r15p1304r13p1334r13p1565r15p1383r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1c42be0357fb3eb3cd5526cab3003b1c938d4bd5214b2db58853e54b817bb136",
+  "validation_errors": []
+}

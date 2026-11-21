@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9c7c3ba3ed05e965d5447128.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Steel bar bycicle",
+  "setter": "deathmian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0f0b7decdd744c859b203764f2f4d35a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1198r13p1234r13p1284r13p1292r14p1304r13p1340r13p1376r13p1458r15p1462r15p1506r15p1561r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0b098f4a364e7f6bc39fc910214c4bc8430f5e269c6fab6b23837774fa9ef965",
+  "validation_errors": []
+}

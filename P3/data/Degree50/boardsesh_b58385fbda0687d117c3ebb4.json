@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b58385fbda0687d117c3ebb4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "little shoulders",
+  "setter": "Samuil",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "7ec89c02b06d4c4e80cf7facc7621acf",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1145r12p1199r13p1220r15p1234r13p1281r13p1286r13p1335r13p1369r13p1387r14p1458r15p1462r15p1479r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b92799b9ef8a9555da218f5f82af904fe320c473460e713329766d23d1d0d619",
+  "validation_errors": []
+}

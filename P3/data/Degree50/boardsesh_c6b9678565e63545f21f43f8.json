@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c6b9678565e63545f21f43f8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "La dura dura dura",
+  "setter": "tomturbo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "859a114659194b0b9715c36c6a85a40e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1189r12p1207r12p1209r13p1219r15p1247r13p1250r13p1273r13p1294r14p1482r15p1500r15p1519r15p1543r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.33,
+  "hold_fingerprint": "4f28c9235f4a9bfe48973abe26c27bdc8e1fdafc2e54518cb959d27e2398a717",
+  "validation_errors": []
+}

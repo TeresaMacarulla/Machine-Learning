@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_10b1f3955d500206fdf35253.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Crazy Kaiserschmarrn",
+  "setter": "fatguy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "47943388f4d24d3d8436d1b2c77c1675",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r12p1189r13p1249r13p1256r13p1279r13p1284r13p1322r13p1380r14p1447r15p1504r15p1518r15p1528r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.75,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "436a6d210970217ea436c98520683acf2fa604172f372493335a82b636db9ef0",
+  "validation_errors": []
+}

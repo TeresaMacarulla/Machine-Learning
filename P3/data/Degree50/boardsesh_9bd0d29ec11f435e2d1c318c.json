@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9bd0d29ec11f435e2d1c318c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "sea urchins playing speed 3D chess",
+  "setter": "CRANK",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FB88DE5F1DE547F9A6ADCA0BA1A487F2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1112r12p1132r12p1201r13p1273r13p1304r13p1325r13p1368r13p1372r13p1384r14p1457r15p1476r15p1517r15p1535r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 34,
+  "quality_average": 3.53,
+  "hold_fingerprint": "31f58799002f9be1f4652fc3eb1019bfa204ef18ee9d47cb518546dc90f632e5",
+  "validation_errors": []
+}

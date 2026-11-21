@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d1d97e5e4f822727bb2b3e66.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Koop-Modus",
+  "setter": "DHolle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5e9380bc-f95f-4df1-a834-b27a8d851bff",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1148r12p1452r15p1235r13p1307r13p1154r15p1386r14p1337r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "7cf262ac6c61b25f8b009319ec612e375c485c9e9a324fc2246c041ce3b998a5",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_01ea4fc1ea049526bc787228.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Ladders?",
+  "setter": "TheAtomBaum",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "88217445ADC34C3D9D1705A07CF80FD9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r15p1147r12p1150r12p1184r13p1220r13p1252r13p1288r13p1303r13p1336r13p1353r14p1455r15p1457r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 22,
+  "quality_average": 3.18,
+  "hold_fingerprint": "080c7419c82d3ff7471bce50e7874c18bb64899bb8229157ac42410987b91669",
+  "validation_errors": []
+}

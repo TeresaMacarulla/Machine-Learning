@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a5b683ecc435e2a69b207ee5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "killer a bord",
+  "setter": "TanguyTopin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "836AD70D6FF041D6BD2DFE9ADC15A985",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1161r15p1166r12p1200r13p1217r13p1247r13p1292r13p1319r13p1324r13p1344r13p1395r14p1496r15p1526r15p1536r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.96,
+  "ascensionist_count": 460,
+  "quality_average": 3.5,
+  "hold_fingerprint": "83d4f9895a0d38b7fe9adeb61ab0297480a651811e2440c55173346dd8719768",
+  "validation_errors": []
+}

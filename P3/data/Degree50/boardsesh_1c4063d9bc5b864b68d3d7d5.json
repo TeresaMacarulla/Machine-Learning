@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1c4063d9bc5b864b68d3d7d5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Swang n Bang",
+  "setter": "buddhaBoomer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "6DB3F53972ED46D5B781E04F92B2FBEF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1289r13p1302r13p1308r12p1315r13p1317r13p1349r13p1354r13p1382r14p1525r15p1530r15p1547r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e20c9fba2cd892d05ebf15f5e6382891bea11439f0f2dda2e9e42ee2937db79d",
+  "validation_errors": []
+}

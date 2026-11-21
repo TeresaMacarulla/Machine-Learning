@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7c527be79669da67c9c560af.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "360 No-Scope",
+  "setter": "NGS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "E6A43B65FF114A5E9F27CF6E7F588D79",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1243r15p1256r12p1268r13p1315r13p1345r13p1387r14p1583r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "b14397f3ff24c31dd5ce808f9e2603aa51d77f9bb1248ee8bf443f721acacece",
+  "validation_errors": []
+}

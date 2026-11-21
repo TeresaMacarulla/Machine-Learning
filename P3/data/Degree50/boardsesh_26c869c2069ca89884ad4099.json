@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_26c869c2069ca89884ad4099.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Easy-Vsey-0-squeeze",
+  "setter": "andrehagopian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5C6B3E156FC74F96A3A4DCD73A7A5057",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r15p1234r15p1268r12p1287r15p1302r13p1353r13p1387r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.4,
+  "ascensionist_count": 10,
+  "quality_average": 2.2,
+  "hold_fingerprint": "61f5aac79ad5466d9a8a56f0bfa2939debc9c62b37618b8895ead12b9848daed",
+  "validation_errors": []
+}

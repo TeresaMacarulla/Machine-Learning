@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c45a8637d9477dd9414abe03.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Flash",
+  "setter": "thijs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "865B83B30E3B42A09A709042D2426D48",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1182r12p1283r13p1285r13p1388r14p1457r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.93,
+  "ascensionist_count": 31,
+  "quality_average": 3.21,
+  "hold_fingerprint": "8b78084e864877189f5cbabfdd59a1ef3fe225b62982b84a4fd44f898e0ec8b2",
+  "validation_errors": []
+}

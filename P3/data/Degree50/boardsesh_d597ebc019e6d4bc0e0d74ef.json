@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d597ebc019e6d4bc0e0d74ef.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "zakiyama#5",
+  "setter": "zakiyama",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "B86D7F30366D4675A611038ADC5CBF75",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1153r12p1160r15p1194r15p1200r13p1247r13p1298r13p1312r13p1379r14p1452r15p1457r15p1501r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "eaf3517735e2663efc5c70c81cfc35739f74e1878f9a414a65ed1a513dc9bba8",
+  "validation_errors": []
+}

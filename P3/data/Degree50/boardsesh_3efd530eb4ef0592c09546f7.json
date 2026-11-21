@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3efd530eb4ef0592c09546f7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Carnage",
+  "setter": "Trumkin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "97628f685b774f0a8ac7e491936bad20",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1115r12p1147r12p1237r13p1310r13p1393r14p1489r15p1589r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.9,
+  "hold_fingerprint": "2a413a840538cf231c425f3de2aaf67c2d9b760ac871bc6d816241603216ea0e",
+  "validation_errors": []
+}

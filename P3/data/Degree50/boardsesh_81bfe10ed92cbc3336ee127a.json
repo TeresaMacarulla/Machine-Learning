@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_81bfe10ed92cbc3336ee127a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Gentle slope down",
+  "setter": "zinneke",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FD8DAFC1E1184455A886DAD5AA70665D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r15p1163r15p1209r12p1256r13p1257r15p1269r13p1282r13p1291r13p1292r13p1295r13p1394r14p1518r15p1572r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6affe11577b542e91d35ad4274c7cbf206019a72cba3ee19558751e7ad009f0a",
+  "validation_errors": []
+}

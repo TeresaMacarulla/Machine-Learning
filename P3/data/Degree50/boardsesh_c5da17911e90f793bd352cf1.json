@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c5da17911e90f793bd352cf1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "morpho masters 2",
+  "setter": "eggywlrd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "22F36D1915F4481192AE8DEA01E61A57",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r12p1267r13p1357r13p1372r13p1395r14p1458r15",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "f6d9e567e09c7447914696b140f90e4b8aca3849abecc42985b736ca9028e228",
+  "validation_errors": []
+}

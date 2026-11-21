@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b92e5877eda81589446cbc4d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "progress goes to slow",
+  "setter": "klimaap",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "18d58c3cbf0e4f56bbbc8ceca70be3ee",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1176r12p1212r15p1247r12p1263r13p1285r13p1302r13p1353r13p1392r14p1501r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.6,
+  "hold_fingerprint": "1f1f2a2f7a532c83f5bbe44eb6bdd124eaf97df606bb13525e082c8531a09562",
+  "validation_errors": []
+}

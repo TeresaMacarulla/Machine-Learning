@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_05d15e572f6e13e5830012e7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "central force",
+  "setter": "JasperDudley",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "A9070FDCE1AE4AD2BEF26EEE22BC3760",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1175r15p1245r12p1315r13p1353r13p1356r13p1359r14p1520r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "dc40fbb29839602289baf34a2f6f48b8c27df0974b52d7a5cbbad1baec0245aa",
+  "validation_errors": []
+}

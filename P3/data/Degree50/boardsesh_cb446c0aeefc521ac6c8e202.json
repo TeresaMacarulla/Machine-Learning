@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cb446c0aeefc521ac6c8e202.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "right leg marv #2",
+  "setter": "Mcmav",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0ec983fe158149c7a093d2f04e53639f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r12p1147r12p1169r15p1205r15p1214r13p1231r13p1269r13p1286r13p1308r14p1459r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 13,
+  "quality_average": 3.62,
+  "hold_fingerprint": "a46986e69e42f69f292070e315806db27a3944372aa2db87900f5b6ecdf463f6",
+  "validation_errors": []
+}

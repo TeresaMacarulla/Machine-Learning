@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_38f452fed9770fcd1b6ef42e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "saillant ",
+  "setter": "Floris.G",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "3442741a-fe70-4f78-93ea-f415d4388f51",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1221r12p1205r12p1481r15p1489r15p1291r13p1536r15p1320r13p1337r13p1551r15p1332r13p1557r15p1382r14p1541r15p1379r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 4,
+  "quality_average": 4.5,
+  "hold_fingerprint": "f530faaf25fdfdb652c1b40af3c406f80a8a722fc4b97e19d5ff60986e5b0c22",
+  "validation_errors": []
+}

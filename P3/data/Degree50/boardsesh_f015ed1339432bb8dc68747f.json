@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f015ed1339432bb8dc68747f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "UNHAPPY ",
+  "setter": "mkh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "92f01513-6c17-4823-9132-724e37082ad5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1163r12p1093r15p1113r15p1152r15p1215r13p1236r13p1218r15p1270r13p1306r13p1356r13p1394r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 20,
+  "quality_average": 3.5699999999999994,
+  "hold_fingerprint": "ce0c7bab0724ad9f78dc90680a5a8d46a213b808c838e5e555c5968d6040f25a",
+  "validation_errors": []
+}

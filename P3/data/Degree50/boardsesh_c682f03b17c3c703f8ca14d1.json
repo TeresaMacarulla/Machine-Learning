@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c682f03b17c3c703f8ca14d1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "right hand worker",
+  "setter": "Pepsi Elliot",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "ac0708a1-b5cf-4667-964b-06f9a6cf598f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r12p1453r15p1452r15p1454r15p1104r15p1221r12p1257r13p1289r13p1326r13p1208r15p1340r13p1392r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.83,
+  "ascensionist_count": 54,
+  "quality_average": 3.17,
+  "hold_fingerprint": "e517ba627e9687e4f2d96754a8a6df7f636145bbb9aca9e051097c4db534afda",
+  "validation_errors": []
+}

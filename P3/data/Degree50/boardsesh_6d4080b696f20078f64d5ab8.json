@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6d4080b696f20078f64d5ab8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Blame It On The Juice",
+  "setter": "ksmd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "a2387567873043c6b51a7b5638c6e412",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1115r12p1126r12p1182r13p1233r13p1270r13p1304r13p1320r13p1372r13p1393r14p1456r15p1462r15p1534r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.75,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "8687907c916b21430dbcc5bf6d399d78d22042fcbc1501b19214bf2f0b44ff20",
+  "validation_errors": []
+}

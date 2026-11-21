@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5fc2106f96e725d791f78e2d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Robotron",
+  "setter": "krimdogbillionaire",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9F7EC126985E4467AAC90BE18922A0B2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1228r13p1233r13p1238r13p1250r13p1320r13p1392r14p1463r15p1478r15p1505r15p1515r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "3f3b92a4ec65e8ffb76b4bf26885530797542c15377203bb1ccd8c431e83c8c7",
+  "validation_errors": []
+}

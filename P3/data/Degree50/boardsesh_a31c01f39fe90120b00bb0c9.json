@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a31c01f39fe90120b00bb0c9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Schenschationell",
+  "setter": "ClimbingToschter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "49f28802-2980-4172-9084-c4e8f198b7eb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r12p1198r12p1459r15p1164r13p1177r13p1246r13p1502r15p1245r13p1312r13p1382r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "1da28f9e1481b6d68f8248e63a49914cf7026d9e2b0b375deeb43d002f7e2905",
+  "validation_errors": []
+}

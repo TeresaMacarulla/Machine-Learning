@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d6cd4903ad22ee0fc3f9249c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "From Small Beginnings",
+  "setter": "AmosRF",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F2C449B4267242BA894DCBE84829480B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1130r15p1154r15p1180r13p1234r13p1235r13p1273r13p1340r13p1385r14p1389r13p1459r15p1462r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "a07d7e70df8679b3363fd7467b071a28f5101fdab2d3795f8356cc45b54118b2",
+  "validation_errors": []
+}

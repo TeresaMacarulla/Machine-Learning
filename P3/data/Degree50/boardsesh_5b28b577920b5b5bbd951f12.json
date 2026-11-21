@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5b28b577920b5b5bbd951f12.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "7 elevation",
+  "setter": "Matpo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "CC8DE5AC058542D4B63CE66543465AB7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1182r15p1183r12p1200r12p1202r15p1237r13p1257r13p1268r15p1284r15p1325r13p1361r13p1391r14p1518r15p1578r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "a560ad0c704822c6dd48f5655d56b5ac3642c1903c3fffad52fe6a221077926b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a1e276f181af65892bbcbfe9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Mille et un callages",
+  "setter": "Roch.O",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "fb171bb015874b2e829249bf7a5849cd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1139r12p1188r13p1237r13p1250r13p1253r13p1282r13p1312r13p1362r14p1449r15p1480r12p1516r13p1531r15p1575r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "07814f5e2d986a344bb98d06dbf9c6024147dac37dfb34674503caa8abc1323a",
+  "validation_errors": []
+}

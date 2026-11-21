@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_946a7a664e09d68a8f2ab3cb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Jugapolooza",
+  "setter": "JYoung",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "878982b0377c4d3eb7ef77681ff746bd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1153r12p1204r12p1218r15p1257r13p1306r13p1353r13p1356r13p1379r14p1383r13p1384r13p1387r13p1566r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c8abb430ea8baa7bc7150beead0c0c166490f4fcbf65cc6712b6663773912de3",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fe3066a35609b49fc20f29db.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "torsades de pointes",
+  "setter": "simmer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "D866B8F4A4094E9AA7FF4EC65FD19D2E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1143r12p1227r13p1278r13p1312r13p1331r13p1381r14p1460r15p1483r15p1512r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5b319122705c10e3ef3c941cb39966a072a274104c8620bb074fd57456a39842",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_361f0f90714d8633a611c48e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Honda HRV",
+  "setter": "tcharland13",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "e984c06618004f15a790b52907c966de",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r15p1207r12p1221r12p1254r13p1268r13p1335r13p1387r14p1542r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "dd578790903b90268600ec913a03a3ce7cf9cde6f4a1eddd5a9f74d74c63e78f",
+  "validation_errors": []
+}

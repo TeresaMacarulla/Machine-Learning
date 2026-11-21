@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1ba300838353fa78bdb101d9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Heizung",
+  "setter": "BeSchmiert",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "9f46c712-ca63-45ec-9e41-2aa5ac10c249",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1236r13p1202r12p1152r15p1269r13p1306r13p1320r13p1387r14p1200r12p1354r13p1239r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.27,
+  "ascensionist_count": 20,
+  "quality_average": 4.27,
+  "hold_fingerprint": "852979fe52868766ac2efcf19fb0ffc02a2d85be3a18e2974d2ed36160495e7f",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_63d5b6402c487c3e24930f17.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Waiting for FA",
+  "setter": "davidyu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2FDDE9B3B5BD4A6182D951178B0D0D0D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r12p1147r12p1198r13p1201r13p1251r13p1287r13p1301r13p1355r13p1387r14p1456r15p1460r15p1505r15p1507r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1b2371c5a04adb4d852be2485a4dd4a8b068d249f30d0b6607707ace39f4f9b9",
+  "validation_errors": []
+}

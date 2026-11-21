@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a811b3008976f67257e038b8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "reveil matin de rafa",
+  "setter": "DidierQuintal",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "a76c82ddeebf4a7d970197e67d1588a1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1143r12p1231r13p1270r13p1320r13p1325r13p1391r14p1461r15p1485r15p1504r15p1535r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.44,
+  "hold_fingerprint": "ea941da7aad5b7d6ff4d1606bda8731aab864e72c53b27aca6dec79aa44c70ab",
+  "validation_errors": []
+}

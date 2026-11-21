@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f8527f0421bb3e71789d57f1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Crooklyn express",
+  "setter": "runclimbrepeat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "DC1979DDF9A140E0AD8637A1F654DDDE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1199r12p1202r12p1251r13p1267r13p1304r13p1356r13p1392r14p1514r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7434adb43fb67a8c6673c81a38ad00ef122d4dcd59f1a818f15a4e67d0548359",
+  "validation_errors": []
+}

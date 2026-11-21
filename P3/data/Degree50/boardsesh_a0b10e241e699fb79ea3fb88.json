@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a0b10e241e699fb79ea3fb88.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Ham n Eggs",
+  "setter": "dfried",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "3ED82F47C9A74F4AB5D0A486410E0100",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1096r15p1110r15p1158r12p1175r12p1179r13p1181r15p1226r15p1228r13p1281r13p1315r13p1351r13p1385r14p1387r14p1547r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.14,
+  "ascensionist_count": 23,
+  "quality_average": 3.45,
+  "hold_fingerprint": "9f768481ebebe0dda83b9790be52044580e0014d36ca42882ae90fa5f25b50e0",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f2b1ec73566047c53f20ee25.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "t pose",
+  "setter": "MikeyS07",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "4129B794E5A840AB8B3E30F625111614",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1224r12p1236r15p1282r15p1294r15p1308r12p1340r13p1353r13p1382r14p1386r13p1594r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "47bba47a76cb5f98da988b9cc4f714d687dbac89ee834edb1d8aedfeb295cc9e",
+  "validation_errors": []
+}

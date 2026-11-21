@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bf53b4d657af14ad525ac391.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "Climb high club",
+  "setter": "Auperchoir",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "9b9546d24e6148d59f7cd8f4dbef9ea6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1128r12p1196r13p1217r13p1318r13p1320r13p1352r13p1383r14p1460r15p1487r15p1497r15p1533r15p1540r13",
+  "display_difficulty": 30.0,
+  "difficulty_average": 29.78,
+  "ascensionist_count": 10,
+  "quality_average": 4.22,
+  "hold_fingerprint": "6604e1703953e3bf0b58b5fb8badc3454812a11b6f290c84da15311779318db3",
+  "validation_errors": []
+}

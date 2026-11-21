@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_81a6d7016687eca802251ee0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "kofu(no.1)",
+  "setter": "toru.kofukuda",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "BCD8AA67DC964919B72681F0D15B2758",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1238r13p1269r13p1323r13p1357r13p1388r14p1453r15p1490r15p1526r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.84,
+  "ascensionist_count": 58,
+  "quality_average": 3.12,
+  "hold_fingerprint": "1c7523c2592d5b323e48f5e25ccc5a00e04c85c5aa4fd61b7817fbe005ccc261",
+  "validation_errors": []
+}

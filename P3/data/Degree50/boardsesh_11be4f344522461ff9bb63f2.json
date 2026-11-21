@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_11be4f344522461ff9bb63f2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Linear Ramp",
+  "setter": "dkimber",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0063D6C4D4FF49E9A592F3CBDCE0E41C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1197r13p1198r13p1246r13p1284r13p1298r13p1353r13p1384r14p1456r15p1457r15p1477r15p1511r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 17,
+  "quality_average": 3.35,
+  "hold_fingerprint": "cfe76b66d985779f4e352c788cc555d04599fb0fb2bd6e89e9c0187339609bc2",
+  "validation_errors": []
+}

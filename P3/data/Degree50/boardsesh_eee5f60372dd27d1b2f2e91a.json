@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eee5f60372dd27d1b2f2e91a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Pinch-y",
+  "setter": "Gergo_PowerSesh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "abe187e0-d181-4afb-ad71-d50a29e33209",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1454r15p1148r12p1153r12p1191r15p1202r13p1235r13p1257r13p1551r15p1306r13p1319r13p1353r13p1385r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 7,
+  "quality_average": 3.5,
+  "hold_fingerprint": "d9fb71b920b01ecbad5c9fcf105d7fceb26575632cb0e61cc3542eb639b34981",
+  "validation_errors": []
+}

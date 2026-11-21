@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b55728db5117376747cc561.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "xcross",
+  "setter": "CColwell",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "81054EAB331844978B5E05283EE9DB73",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1142r15p1170r15p1195r12p1200r12p1206r15p1214r13p1247r13p1254r15p1272r13p1289r13p1300r13p1302r13p1359r13p1395r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "29d7a23f980a4c949bf79bf2e9fa0dbf121b808ecec36ba93e474116fa7af928",
+  "validation_errors": []
+}

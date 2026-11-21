@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_874e4c145b29f5402df04485.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "YUGO",
+  "setter": "andiclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "5eeacd5a-6e53-49be-b22e-7852cc6ff5da",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1135r12p1202r13p1076r15p1472r15p1269r13p1322r13p1334r13p1470r15p1490r15p1517r15p1333r13p1547r15p1380r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 5,
+  "quality_average": 4.5,
+  "hold_fingerprint": "e8a866b9d064c7c10d069c991d9b44b0c597ad286ef34ce19abce2326da71111",
+  "validation_errors": []
+}

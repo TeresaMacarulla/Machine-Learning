@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f328f820b139bbeb7f235037.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "The Killer Board",
+  "setter": "jovanZ",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "E7EBF1120A164402BF63201698123F42",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r13p1163r13p1187r12p1235r12p1283r13p1287r13p1354r13p1387r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.0,
+  "hold_fingerprint": "da2031a12d2e53722ac8d526f2d5aea278b3d8e92db3384703c26a6a68340fb5",
+  "validation_errors": []
+}

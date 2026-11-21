@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0cb72ed2a1c6a114e22f88d2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Aglandouille",
+  "setter": "Roch.O",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1f7d978ce7994bd8a320e3e44f91c75f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1212r13p1214r13p1235r13p1286r13p1341r13p1343r13p1361r13p1395r14p1462r15p1486r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "13bed9ebb8422ad68ad9cb7dc0b9654d99f7a8c52705af091c6eef9391f8d4f5",
+  "validation_errors": []
+}

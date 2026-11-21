@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_263599fc959fd822a06cfa4f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "crimp ceed",
+  "setter": "KilterStudio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7D01B8C24CB44646ADD8BE3B2E0D8B82",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1140r15p1157r12p1189r13p1206r13p1222r15p1255r13p1288r13p1320r13p1338r13p1388r14p1447r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.33,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "4d7b2aacf297510b040d75a7b85211529a83479f65e775a3273ccfb4810e68ce",
+  "validation_errors": []
+}

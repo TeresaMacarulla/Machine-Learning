@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_79e4b902a20f17b0af82b44f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "knalgas",
+  "setter": "bramb0",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8c12e46f064d489eb2b1a019e1536653",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1180r12p1186r13p1201r13p1254r13p1283r13p1353r14p1452r15p1460r15p1471r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e11b9195578a34dbf0a25976976133cd08bd217bb0ba1bfc8a6821cfbb964dcd",
+  "validation_errors": []
+}

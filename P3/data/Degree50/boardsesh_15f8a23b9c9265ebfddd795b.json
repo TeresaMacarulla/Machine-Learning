@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_15f8a23b9c9265ebfddd795b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Rice Cooker",
+  "setter": "rg94",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 9,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "6921da4d45df48079f4827899a24bc1d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1121r12p1132r13p1134r13p1174r12p1186r13p1214r13p1216r13p1266r13p1279r13p1314r13p1345r13p1381r14p1455r15p1485r15p1502r15p1519r15p1537r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9debe9a3cf65e3627b14f0cd552d03c806cadd1e8ed4f83393b74f40b81e430a",
+  "validation_errors": []
+}

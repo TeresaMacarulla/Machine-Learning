@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a7d2e4a62480844a2c0c2640.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Sloth waking up",
+  "setter": "SlothOnCoffee",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "fe6ed0dfed6d4983bccbb228533af895",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1163r15p1200r12p1215r13p1220r15p1236r13p1246r15p1266r13p1302r13p1350r13p1353r13p1385r14p1459r15p1478r15p1532r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.06,
+  "ascensionist_count": 16,
+  "quality_average": 2.69,
+  "hold_fingerprint": "54aa13e65145de76147279001cda2fa757c380a299ba6281ff16957f077e5be8",
+  "validation_errors": []
+}

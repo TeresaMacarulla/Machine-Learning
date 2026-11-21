@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dbaea7e07ddcd9bbbed09dd9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "midline",
+  "setter": "justgriffthings",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "CC37E3CB26704BD885E3D81D2B3CCE0F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1156r12p1188r15p1204r13p1235r13p1286r13p1318r13p1351r13p1383r14p1450r15p1473r15p1523r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "e39f75d8b83eca177f5c6ac78d44e23f2f6e3f11de4816b87b9784670654eba6",
+  "validation_errors": []
+}

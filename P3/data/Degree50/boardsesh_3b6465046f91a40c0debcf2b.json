@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3b6465046f91a40c0debcf2b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Purple Corn",
+  "setter": "samfrodo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "74F07B79CAD74C7A8055FD72BE5B7F2C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1152r15p1163r15p1198r13p1215r13p1234r13p1237r15p1266r13p1302r13p1353r13p1387r14p1453r15p1457r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.94,
+  "ascensionist_count": 161,
+  "quality_average": 3.3600000000000003,
+  "hold_fingerprint": "70cded3d39f099a4e9d7d2766101119652343fe5f9de57ddc8277331db300eb3",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_05c0041c641744be0b9300eb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "cant sleep",
+  "setter": "raudu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "e49cb744-d178-4bea-8ff5-942e9b644e83",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1233r13p1250r13p1271r13p1305r13p1375r13p1388r14p1081r15p1506r15p1147r12p1504r15p1148r12p1525r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "d806486c3dab7086ae31ec80c51188cbd064eb2cdc18a3a581bbc1e63e70f9cd",
+  "validation_errors": []
+}

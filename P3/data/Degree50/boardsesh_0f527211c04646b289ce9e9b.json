@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0f527211c04646b289ce9e9b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "I suffer, therefore I am",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7955468c31e544929de3f786075875a6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1165r15p1201r15p1214r12p1230r12p1255r15p1267r13p1269r13p1283r13p1303r13p1322r13p1371r13p1392r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.8,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "d412b43a0545666158c722804d70bb3a7bc13c5191b30422aa1ce36bc90289dc",
+  "validation_errors": []
+}

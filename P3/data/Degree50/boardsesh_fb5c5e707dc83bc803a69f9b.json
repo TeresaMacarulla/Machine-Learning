@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fb5c5e707dc83bc803a69f9b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Flippin Boxed",
+  "setter": "ArchieH",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "26C0240AB12645CD8CD5BB176FC0110C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1173r15p1203r13p1271r13p1301r13p1348r13p1351r13p1380r14p1453r15p1481r15p1542r13p1578r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "9beac3bc5d68da5f3007347b4f34400205980387b898324fdf9ab303f8e3d40f",
+  "validation_errors": []
+}

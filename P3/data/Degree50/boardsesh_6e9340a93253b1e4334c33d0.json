@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6e9340a93253b1e4334c33d0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "whad",
+  "setter": "helloootheree",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "477147D318344E5FAB88FC7E68D26288",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1131r15p1142r15p1214r13p1230r13p1285r13p1287r13p1320r13p1375r13p1391r14p1457r15p1461r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.95,
+  "ascensionist_count": 554,
+  "quality_average": 3.41,
+  "hold_fingerprint": "683e7dd921fc368163ecc0044ea4e83b7ccf3f5f3b8c37503d6762d890a42c0b",
+  "validation_errors": []
+}

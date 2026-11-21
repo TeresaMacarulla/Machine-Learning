@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1bba997b0b536871a4c00000.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Ka-Pow",
+  "setter": "lisa.chulich",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "800FA79339E9471FA7F3E64F283E4F1A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r13p1127r12p1147r12p1215r13p1285r13p1314r13p1383r14p1487r13p1512r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.4,
+  "hold_fingerprint": "bbf1188e48890038ba96af04b8ac52e0d4d09c4e0d1282eef8ffdc8f9dca0a42",
+  "validation_errors": []
+}

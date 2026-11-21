@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a5b25bbfe66b262646aa1fec.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "pNs02",
+  "setter": "eDoggo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "47f4e498adf9482f8377084cf0f2eba8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1154r12p1157r12p1220r13p1225r13p1254r13p1276r13p1300r15p1340r13p1355r13p1387r14p1450r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "478304f4ff332d0cee48f922445efaa896b3586766697ff9ce3443bd78e5bfcd",
+  "validation_errors": []
+}

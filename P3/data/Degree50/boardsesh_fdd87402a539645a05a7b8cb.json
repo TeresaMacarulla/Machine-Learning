@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fdd87402a539645a05a7b8cb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Belgium Beretta",
+  "setter": "jkarban",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "106E3331949E4E1794D3B9B84536ED00",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1119r12p1149r12p1179r15p1236r13p1283r13p1322r13p1337r13p1392r14p1455r15p1457r15p1471r15p1506r15p1531r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.01,
+  "ascensionist_count": 95,
+  "quality_average": 3.49,
+  "hold_fingerprint": "5b98b6efe3198c1a9254cba73d42def41b3bcea4ecdb4885e4621e119bc94457",
+  "validation_errors": []
+}

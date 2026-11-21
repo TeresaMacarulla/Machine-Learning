@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1bfe25b3e95521f9b5f9a488.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "doom left",
+  "setter": "ericterral",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "BEBC084E2A304A5692623B63DB344ED2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1185r13p1253r13p1274r13p1291r13p1327r13p1395r14p1452r15p1457r15p1481r15p1508r15p1509r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9312bc65dec01bd90e1301fda64d331e915065ca08aff820fe3a70270b1616f5",
+  "validation_errors": []
+}

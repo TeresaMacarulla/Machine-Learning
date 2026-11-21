@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5e1c33c7da3a458435bbfc7b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "contact deluxe",
+  "setter": "jakemcneely",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2D5810AB522249CDB8B634967019BB99",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1182r13p1216r13p1271r13p1336r13p1357r13p1368r13p1383r14p1461r15p1478r12p1494r15p1508r15p1543r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "0381ea816a2ac6f50fa465349fc5ad6206656b2917a6467b9a69b95196e2162c",
+  "validation_errors": []
+}

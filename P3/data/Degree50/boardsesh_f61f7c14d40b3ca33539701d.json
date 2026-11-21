@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f61f7c14d40b3ca33539701d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Jiu Jitsu",
+  "setter": "RNorris",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "2496EA49216740F1978CC78AA554B253",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r12p1186r12p1265r13p1269r13p1318r13p1350r13p1389r14p1453r15p1490r15p1516r15p1525r15p1547r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "79c68bb2555d3b4bd7123abcd469b2f04ab848910c10be05f7dfa962398b5246",
+  "validation_errors": []
+}

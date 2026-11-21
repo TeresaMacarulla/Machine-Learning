@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_740bf64a8f3d15de8f6b9023.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "classic pinch",
+  "setter": "damo_psyso",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "c6cfa7730e96425cb93a41e072c9572b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1176r12p1216r12p1254r13p1263r13p1285r13p1357r13p1389r14p1497r15p1507r15p1516r15p1552r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2b02bf66f02093ba27c2f9c9077fc671a28b7690aed66669bc5ddf65f4958680",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7f414d4812a8ae502ec30989.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "bang average",
+  "setter": "jasper",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "75abc36a-0167-42b9-acab-af88ec5417d9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1454r15p1153r12p1449r15p1203r13p1240r13p1286r13p1482r15p1272r13p1284r13p1352r13p1246r15p1389r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "83adf619177396d60792c17d91c671f3f5b460db76d2cbf4cbfc3f257540b887",
+  "validation_errors": []
+}

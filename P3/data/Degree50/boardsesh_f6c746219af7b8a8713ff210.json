@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f6c746219af7b8a8713ff210.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Shuddle Buss",
+  "setter": "scro",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8860598E30AE479E9BEF5DDD15BF2F51",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1117r15p1166r12p1182r12p1265r13p1333r13p1381r14p1549r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6e9b80c7247e165f1918857bb8e00675ec1a7157491836d64eabf3e9d999c5e4",
+  "validation_errors": []
+}

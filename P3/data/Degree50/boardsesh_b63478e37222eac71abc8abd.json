@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b63478e37222eac71abc8abd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "The Swagger",
+  "setter": "JoelHaefliger95",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5efb3416-b3c8-474c-90ac-efb402f73269",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1201r12p1185r12p1249r13p1286r13p1336r13p1390r14p1120r15p1081r15p1144r15p1495r15p1213r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.33,
+  "ascensionist_count": 8,
+  "quality_average": 4.33,
+  "hold_fingerprint": "9adad13479dce586dd6ed24a458bf28caf19efa7b97a5e4c75386b7123205c45",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6216f04ad73b233cd6ffd71d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Ryobi-Wan Kenobi",
+  "setter": "liamclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "15f1f5af-8727-492f-b9cb-a5469550ec1a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1183r12p1184r12p1271r13p1130r15p1327r13p1536r15p1373r13p1525r15p1388r14p1187r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "da3d09dd8d24b0d08879ac5b5356829b5774db5412bcf9dcdf6959455a2a6aeb",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8860825878af0bfa2ae13ce3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "bumpy",
+  "setter": "lachlan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "793E37FEE61A4D929EC1ED2D429F11B6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r15p1153r12p1168r12p1220r13p1255r13p1289r13p1337r13p1354r13p1384r14p1455r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.93,
+  "ascensionist_count": 61,
+  "quality_average": 3.36,
+  "hold_fingerprint": "6893c8ce28fb04196a900cfbec0a7188ae2d12b95915a533251ab06a860a4683",
+  "validation_errors": []
+}

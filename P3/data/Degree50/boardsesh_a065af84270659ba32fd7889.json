@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a065af84270659ba32fd7889.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "idk what to name this",
+  "setter": "JStreet",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "FDBFBCE4A4BE4EE1B25EAA19D44D7594",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1126r12p1147r12p1198r13p1235r13p1284r13p1334r13p1385r14p1389r14p1466r15p1485r15p1503r15p1529r15p1547r15p1574r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.75,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "f392b69e05bc15f8f47314757d97198bedb1b3cf366f43ab72a39ca2285dfff2",
+  "validation_errors": []
+}

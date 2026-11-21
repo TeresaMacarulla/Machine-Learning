@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_720c46e384af47ca97ff4633.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Shuffle the Deck",
+  "setter": "dawsolc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "5DC07AA90A3547E2808A8B9149F3684D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1100r15p1152r12p1164r13p1170r12p1186r13p1215r13p1300r13p1317r13p1338r13p1339r13p1374r14p1506r15p1552r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "cfe8fa8baa85734fc777cae289cd80df49a519326f15e57f4267c8933963cf6d",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cc4b32203153a778f3e0b0c9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "gear 2nd",
+  "setter": "FloW95",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "634dfd38611d4227989b74da48de7625",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1232r13p1252r13p1326r13p1352r13p1357r13p1395r14p1457r15p1521r15p1542r15p1553r15p1554r15p1571r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 32,
+  "quality_average": 3.19,
+  "hold_fingerprint": "39b70b4bab9fed0e6d564d07fb370d5574182c418d4a36439d24b2e60d548778",
+  "validation_errors": []
+}

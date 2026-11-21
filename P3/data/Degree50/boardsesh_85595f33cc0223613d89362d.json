@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_85595f33cc0223613d89362d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Toobshooter",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "518e67b9fd7c442fb76d816b1ee6c7ec",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1133r15p1153r12p1162r15p1215r13p1220r13p1267r13p1278r15p1317r13p1351r13p1382r14p1452r15p1457r15p1476r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.27,
+  "ascensionist_count": 11,
+  "quality_average": 3.73,
+  "hold_fingerprint": "c291f8309604c679b11113489c2f8851236f335e57de368bc868ba28afe2d9c1",
+  "validation_errors": []
+}

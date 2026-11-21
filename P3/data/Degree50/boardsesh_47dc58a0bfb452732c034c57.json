@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_47dc58a0bfb452732c034c57.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "tension proj",
+  "setter": "jcoup",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "A95E702F9E9D442E96063FD1805F48C5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1164r12p1182r12p1230r13p1250r13p1299r13p1314r13p1329r13p1383r14p1487r15p1511r15p1521r15p1546r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a0d81fb6bce95bc842c941ec652c5b3ebbe859df152a9d7e0673b8082903ff09",
+  "validation_errors": []
+}

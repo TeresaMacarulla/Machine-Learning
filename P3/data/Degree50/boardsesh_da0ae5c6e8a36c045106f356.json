@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_da0ae5c6e8a36c045106f356.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Double Stake Or Split",
+  "setter": "IAmNotADinosaur",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "99debff3618e469fba8a06d8a613a51d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1122r12p1187r13p1188r13p1271r14p1470r15p1481r12",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b34d144d6eba7954e0994bbedf3533623ad2eebc1583ff4a2cca5a5292f37819",
+  "validation_errors": []
+}

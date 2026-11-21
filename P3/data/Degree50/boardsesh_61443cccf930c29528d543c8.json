@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_61443cccf930c29528d543c8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Gravity",
+  "setter": "SpencerShore",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "569F77C2945D4FF8B0D1C60048F110E9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r15p1152r15p1161r12p1216r13p1249r13p1272r13p1355r13p1371r13p1383r14p1526r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.97,
+  "ascensionist_count": 90,
+  "quality_average": 3.36,
+  "hold_fingerprint": "6451972764eff5ff1191e1d4e367dd1a09b9fc6d1073e0acf78b640ae64739fe",
+  "validation_errors": []
+}

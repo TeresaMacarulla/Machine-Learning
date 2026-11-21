@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e29c04c3b68a00333b4b8813.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "I'ts Local",
+  "setter": "ido.ilouz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1bc18cb86f36417594b768ab182cb5c2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1189r12p1207r12p1216r13p1254r13p1299r13p1384r14p1473r15p1500r15p1505r15p1513r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.98,
+  "ascensionist_count": 536,
+  "quality_average": 3.28,
+  "hold_fingerprint": "c40b98367da60c9b2b332b7cc08f1099094015a43a1fc2fbceb2618be1aedef2",
+  "validation_errors": []
+}

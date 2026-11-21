@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ebfd72d6718f5c313fffb0a6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "total windup",
+  "setter": "bogbean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5cc3b2322e994f5c8dceb1ac1e105985",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1151r15p1173r15p1200r15p1212r15p1239r12p1241r12p1264r13p1289r13p1302r13p1304r13p1347r13p1379r14p1575r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.92,
+  "ascensionist_count": 12,
+  "quality_average": 3.5,
+  "hold_fingerprint": "38a05937f4e084abf523057dfad2d3e4afde0c3b400f882d8555215fdf2014c0",
+  "validation_errors": []
+}

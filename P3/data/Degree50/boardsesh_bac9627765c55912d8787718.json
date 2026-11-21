@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bac9627765c55912d8787718.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Dharkok",
+  "setter": "tortesla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "482E7A0986F64A64BC1232B6DA0AB69B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1149r12p1254r13p1287r13p1357r13p1385r14p1496r15p1514r15p1572r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.5,
+  "hold_fingerprint": "aef68fb5d9ad91d5e612ae1fa72d42ac28bb096b0a09f40682245a9ac59722f2",
+  "validation_errors": []
+}

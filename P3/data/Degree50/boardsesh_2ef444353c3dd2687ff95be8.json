@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2ef444353c3dd2687ff95be8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "mira",
+  "setter": "FloW95",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "39bbf392bd0b49bb8e5030b23d5fdfb0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1164r12p1196r13p1212r15p1285r13p1308r15p1332r13p1372r13p1392r14p1467r15p1478r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "14a3fa1337600f497387730b7c9e84cdaaefbecd10849abc94bca32de83b84f6",
+  "validation_errors": []
+}

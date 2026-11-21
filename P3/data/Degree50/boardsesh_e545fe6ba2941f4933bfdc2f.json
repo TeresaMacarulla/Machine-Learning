@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e545fe6ba2941f4933bfdc2f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Hang",
+  "setter": "Eliasdem",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "A47CB68B6D3248FFA332C505C1EAF59A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1197r12p1201r12p1250r13p1271r13p1337r13p1338r13p1385r14p1494r15p1505r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ed08533836f1338ac16f479a7621ddc53217b0bc0c81f8acadb74b909e6aec2b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2d1e614ad653f092e75c185c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "dressurreiten",
+  "setter": "sen_dmnk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "0029cfff-4be1-4599-babf-00954c326d2e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1190r12p1188r12p1221r13p1240r13p1289r13p1302r13p1106r15p1100r15p1218r15p1531r15p1173r15p1489r15p1305r13p1336r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.4,
+  "hold_fingerprint": "d219b7bbf1b2247847c47cb27e6d0de88ff979b8608cfc7d262fe751c3221e33",
+  "validation_errors": []
+}

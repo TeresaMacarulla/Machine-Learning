@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7e7b3b9f06f9da7cc99bba3c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "twotime ",
+  "setter": "frazam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8cab4712-bf52-4b1f-8849-101657b42744",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1215r12p1185r12p1096r15p1300r13p1279r13p1366r13p1388r14p1540r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 6,
+  "quality_average": 4.33,
+  "hold_fingerprint": "8b2f0b8a78f147eb32606e4d0cf506de896d5bdd9d784859ea952452a033d841",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c148127ae25c53871f512780.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "50% at 50",
+  "setter": "yamesclarke",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "ab40fc805ac647d59fd609409d1e8df3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1131r15p1155r12p1157r12p1192r14p1214r13p1223r13p1247r13p1251r13p1252r13p1485r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6a3c09b478a4b4f1463615e452519e8675e42bf1bcbffcaef0dafffbd8700d99",
+  "validation_errors": []
+}

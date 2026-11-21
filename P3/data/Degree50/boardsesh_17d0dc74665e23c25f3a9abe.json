@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_17d0dc74665e23c25f3a9abe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "RUFF RUFF RUFF",
+  "setter": "llamarti",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "781E444E85E8479AB6CEE3D7861EDB6B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1149r12p1187r13p1272r13p1273r13p1304r13p1369r13p1383r14p1452r15p1457r15p1471r15p1490r15p1525r15p1576r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "2fcd7a6bcf58f9e3a96d6d74d355e8335c15fed738044d2ea99df320e57eca34",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d84971082b1eeb65e4279d7a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "One man 10 cups",
+  "setter": "leonreynolds",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3F720B887BDE4F2499404A7C86A079F1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r13p1106r13p1123r13p1209r12p1263r12p1301r13p1356r13p1392r14p1447r13p1448r13p1513r15p1519r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "70f545e60f0e4b19dab82f41c4d68f3c102afb6b51099579d26ca6b23b82575c",
+  "validation_errors": []
+}

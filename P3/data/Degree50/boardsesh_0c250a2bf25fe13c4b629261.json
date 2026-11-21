@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0c250a2bf25fe13c4b629261.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Simplex",
+  "setter": "CobbsClimbing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "385a0a4c-d373-49c0-a92a-477cbc627786",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1166r12p1091r15p1269r13p1270r13p1276r13p1527r15p1360r13p1392r14p1394r14",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f81e2b2d1ddd3a9968c3bb453a57cae3a1b207cdb33e3e6168b68122b311a142",
+  "validation_errors": []
+}

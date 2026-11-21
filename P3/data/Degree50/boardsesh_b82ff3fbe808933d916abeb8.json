@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b82ff3fbe808933d916abeb8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Clearly",
+  "setter": "shahar.aki",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 11,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "40BF4526F328437B867DE85C3D4F93A7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1144r12p1145r12p1199r13p1200r15p1206r15p1234r13p1254r13p1278r15p1288r13p1289r13p1301r13p1322r13p1365r13p1366r13p1368r13p1379r14p1385r13p1517r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "7152eb8984f50214cd7f23f0b485908b66746e1ef9166b318bddd8327a9eec28",
+  "validation_errors": []
+}

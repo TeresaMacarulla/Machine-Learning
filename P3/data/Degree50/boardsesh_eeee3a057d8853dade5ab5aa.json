@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eeee3a057d8853dade5ab5aa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "l\u2019arc",
+  "setter": "EstebanKB",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "E3FA1C8721AD46C8867A63ACE5833D4D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1201r12p1230r13p1299r13p1329r13p1379r14p1460r15p1466r15p1484r15p1502r15p1511r15p1521r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "493431365b0fb5c4bf075021fab9137ed44420548862b35df2e15dad44285e8b",
+  "validation_errors": []
+}

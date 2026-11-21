@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d30d78d554c7a04b94d35f8a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Iron Man V6",
+  "setter": "Alex_Handjam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "45C383C9772E49E9BACEE251D056C295",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1142r12p1143r12p1192r13p1246r13p1294r13p1347r13p1385r14p1389r14p1461r15p1539r15p1555r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.33,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "c8f74dc7b51de036060b4d37899fc1b897bd6e0be73110517bb98a25ed76c21b",
+  "validation_errors": []
+}

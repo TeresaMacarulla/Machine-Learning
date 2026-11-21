@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e0c241803c6cab44629e0755.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "poppin\u2019 pulleys ",
+  "setter": "TF07",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "387e3ad0-362f-4ffb-a67c-36c49a0216e7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1264r13p1295r13p1337r13p1186r12p1325r13p1163r13p1198r12p1113r15p1537r15p1227r13p1458r15p1099r15p1107r15p1197r15p1210r15p1242r15p1395r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f90359df9af98b3bf8b8018c9ad88cb85ee6df54f42dc22cc0c6665344cee651",
+  "validation_errors": []
+}

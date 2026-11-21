@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_71e00947408b406984098ff1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Gute Frage",
+  "setter": "skilledCOW",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "A368089C29BF4C2C9B33D52B586B204F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1157r12p1169r15p1204r13p1225r13p1272r13p1273r13p1304r13p1320r13p1354r13p1391r14p1447r15p1482r15p1518r15p1525r15p1531r15p1578r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "25eec990a767502e48432c60254f79692ae44378b99935d870f7c5d0eebd4049",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_edb29deef5b1a38ba20edd12.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "titi45",
+  "setter": "titiboule",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E302807C6AFB4BE298B2BBC31E57F2F7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1104r15p1153r12p1161r15p1208r12p1235r13p1264r13p1314r13p1379r14p1537r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 30,
+  "quality_average": 3.5899999999999994,
+  "hold_fingerprint": "7e9ede99c7ea9485168f2a4a4de6117c3aef91a050c59d7d16b4ce23d76da6c4",
+  "validation_errors": []
+}

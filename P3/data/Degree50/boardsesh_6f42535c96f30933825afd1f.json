@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6f42535c96f30933825afd1f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Steils Classique",
+  "setter": "steil.boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "2561DADC7A64453899D23D1EC1A8C7B3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1143r12p1209r13p1265r13p1271r13p1283r13p1338r13p1375r13p1393r14p1483r15p1485r15p1505r15p1529r15p1553r15p1570r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "a1a55cc9196e760c4d25f26669bc493cb08ce0504ccf5029601a982277bf4fa0",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8c4dabc10f4e36492caf5b14.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Kilter 7C+ (7A Moon)",
+  "setter": "eivindst",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "72c23432-3f3d-46ca-85a4-63aec1bd2174",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1216r13p1268r13p1283r13p1266r13p1295r13p1486r15p1510r15p1365r13p1386r14p1451r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "0a2eba886f0fda667e8cb888bee800288238aa1298feec13494cf10e4fdd6f05",
+  "validation_errors": []
+}

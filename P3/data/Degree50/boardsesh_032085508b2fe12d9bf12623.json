@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_032085508b2fe12d9bf12623.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "shoulder sloth",
+  "setter": "JonChng",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "cf6ca655b66e4fd9890a9910e8cac70a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1081r15p1162r12p1163r12p1203r15p1214r13p1218r13p1236r13p1273r13p1305r13p1325r13p1391r14p1535r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.96,
+  "ascensionist_count": 161,
+  "quality_average": 3.5,
+  "hold_fingerprint": "7d82e28bb3033b44e4aba84677d5db7379088c934428264e4a72bc413bc49aed",
+  "validation_errors": []
+}

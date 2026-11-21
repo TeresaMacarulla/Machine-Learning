@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_adc256b1663f2e8dd4f62eb4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Drink Much Punch",
+  "setter": "IAmNotADinosaur",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1b1a187e58ec4cda9cf6a6a83cd45aff",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1133r12p1183r13p1231r13p1303r13p1350r14p1459r15p1546r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.17,
+  "ascensionist_count": 7,
+  "quality_average": 3.3300000000000005,
+  "hold_fingerprint": "a082418da01ca16ab7c02ec32ad6ad00d70ca4a5ae9df759e43bc2a31ab8f41f",
+  "validation_errors": []
+}

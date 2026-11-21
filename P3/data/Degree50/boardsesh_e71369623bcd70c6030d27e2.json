@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e71369623bcd70c6030d27e2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Akira!",
+  "setter": "gunpodo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "a2e6efb6-ea74-4395-b1e4-72bdcb218d5a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1180r12p1465r15p1458r15p1228r13p1234r13p1185r13p1137r15p1254r13p1338r13p1372r13p1384r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 4,
+  "quality_average": 4.25,
+  "hold_fingerprint": "b0eebad7e25e2b100b535e2f08e8d1ee240456822cb9c32279743c8929173955",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c917118674e8a8ae858e8162.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "The Blobfish ",
+  "setter": "Nash2200",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b50bd125-c14a-459a-821c-2745ea857a25",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r12p1145r12p1210r13p1230r13p1281r13p1331r13p1353r13p1356r13p1391r14p1461r15p1458r15p1234r15p1273r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "9d696553dead38c536692d582c6c119ce3e14ed039adf64f47152d904368eaed",
+  "validation_errors": []
+}

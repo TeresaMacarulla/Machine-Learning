@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f6d903fa48d400ab0ebc01b0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Rats.",
+  "setter": "cswindell",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5E1FD0DB45B04D62AA7866AC9F359D02",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1183r12p1196r13p1214r15p1249r13p1281r13p1320r13p1354r13p1392r14p1479r15p1590r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "a2a1e994d6f66d0e763cc005df59475496969d9d7ab811b7ec91f8dd56dc047f",
+  "validation_errors": []
+}

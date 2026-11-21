@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_608d6af7bd928258fc23e7bb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Weekday Identifier",
+  "setter": "abrown98",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "86B472B52EA5423092F9E402493CF771",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1086r15p1107r15p1179r13p1185r12p1215r15p1227r13p1233r12p1278r13p1296r13p1318r13p1365r13p1385r14p1452r15p1485r15p1501r15p1504r15p1549r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2f3f5bfdc826e9a11792ff5265a4d193c05574c6215634b766c16d3751867224",
+  "validation_errors": []
+}

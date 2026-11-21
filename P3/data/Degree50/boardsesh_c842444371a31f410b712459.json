@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c842444371a31f410b712459.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Inverted World",
+  "setter": "rodrigo.hanada",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "3279a5e2031c4895932c2b7ba3a5b84a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1143r12p1245r13p1268r13p1272r13p1304r13p1325r13p1391r14p1461r15p1492r15p1504r15p1506r15p1535r15p1554r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 12,
+  "quality_average": 2.92,
+  "hold_fingerprint": "54a9a5918bfed7c190639a80cc3b69830763048023407a9d80230883e7d47b65",
+  "validation_errors": []
+}

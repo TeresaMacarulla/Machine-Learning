@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9bec7b416285daed3f04d5bf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Lavatisimus",
+  "setter": "Florinator",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "70e3c75f42db437fb950295cce065307",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1077r15p1153r12p1206r12p1254r13p1266r13p1271r13p1282r13p1295r13p1328r13p1379r14p1503r15p1518r15p1521r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "94a3ea20129b9434039d09a1c813531630dced8efd05dc5d0a269184330e7748",
+  "validation_errors": []
+}

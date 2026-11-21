@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fc7e429f714606cdd7a336e9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "To the hall",
+  "setter": "AlvaroPaez",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b20edbd4-3aab-4e68-8c28-d5b41bbc253d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1231r13p1485r15p1249r13p1321r13p1368r13p1304r15p1380r14p1458r15p1462r15p1379r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "ddf096b3edc6749d212e9428280ae13603bfff3c16aec5d1918c023d6e166366",
+  "validation_errors": []
+}

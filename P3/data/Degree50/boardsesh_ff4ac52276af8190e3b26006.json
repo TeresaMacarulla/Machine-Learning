@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ff4ac52276af8190e3b26006.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "water prush",
+  "setter": "leoncaspar",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5C422E00B2394B05B6E3CBEB1F1D92ED",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1142r12p1162r12p1215r13p1217r13p1270r13p1272r13p1341r13p1354r13p1387r14p1478r15p1525r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "939d3c32d74a35d1770494cd45a161ec7e5fe6df286e82cb985f8696648659a7",
+  "validation_errors": []
+}

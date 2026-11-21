@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a588dbd2e197ffc00a00a604.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Moonwalk forward",
+  "setter": "Boulderer26",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3fb062c5-e47b-470d-a809-989ff9357c26",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1464r15p1142r12p1159r12p1084r15p1197r13p1248r13p1302r13p1350r13p1389r14p1359r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.73,
+  "ascensionist_count": 14,
+  "quality_average": 3.45,
+  "hold_fingerprint": "83565ba06fc28b560c724a927d207fe3c077010534604c6e0253fce1dff1aa59",
+  "validation_errors": []
+}

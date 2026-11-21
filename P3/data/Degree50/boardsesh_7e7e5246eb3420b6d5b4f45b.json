@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7e7e5246eb3420b6d5b4f45b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Harmony",
+  "setter": "brannonfrank",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "EC59CE287DA040038A3D9CEAE0806AC2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1132r12p1144r15p1182r12p1230r13p1268r13p1304r13p1353r13p1387r14p1516r15p1534r15p1569r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.83,
+  "ascensionist_count": 12,
+  "quality_average": 2.92,
+  "hold_fingerprint": "004f17b8294763ffe3dd693763fe74fc73c855e1a9509e9923f5bc9c82d2b65b",
+  "validation_errors": []
+}

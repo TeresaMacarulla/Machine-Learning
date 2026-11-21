@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b4e5198bce1902426f73eb10.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Mud Nose",
+  "setter": "Karnage_McCloud",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "887c625239984f71a7d0fc021c6322e7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1152r12p1154r15p1205r12p1235r13p1263r15p1288r13p1301r13p1304r13p1334r13p1384r14p1386r14p1506r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "c732a45f66ddbf630c6791a261df2bacf93849349cc377850ae31cb766c30859",
+  "validation_errors": []
+}

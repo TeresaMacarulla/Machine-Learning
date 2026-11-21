@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9cf9f987671afd3c5bf09390.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "spatial diffeomorphism constraint",
+  "setter": "tobiasiding",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "DA687D81C1EA468BA7DA6A6D929E3193",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1167r12p1190r15p1238r13p1287r13p1298r13p1371r13p1394r14p1470r15p1521r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.96,
+  "ascensionist_count": 68,
+  "quality_average": 3.39,
+  "hold_fingerprint": "35c9e19e75578fcb346e0749496d4d81a1487ba2b430822173b2a9ad3f9e3912",
+  "validation_errors": []
+}

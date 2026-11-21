@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4796e7dd8e23dc45560fe39e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "sidhard",
+  "setter": "fabiankrw",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "1AFECC67F3054861A110BBEC338DEC7F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1184r13p1188r12p1232r13p1303r13p1339r13p1392r14p1449r15p1453r15p1455r15p1457r15p1485r15p1534r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "085b55bd3693256fc7eb8a8cae06bfe5e7758973c69d7ad08c251190102ca393",
+  "validation_errors": []
+}

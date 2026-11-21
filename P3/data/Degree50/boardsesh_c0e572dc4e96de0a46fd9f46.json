@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c0e572dc4e96de0a46fd9f46.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "potatopuree",
+  "setter": "nino_smets",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1c17d7a1a567486dbd6b6574b8d4dd56",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1224r12p1225r12p1286r13p1291r13p1336r13p1365r13p1383r14p1500r15p1527r15p1551r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "de30a7d7b12287fb180e896eca1c36079f72dab783e8e564ad6b60d296eefac7",
+  "validation_errors": []
+}

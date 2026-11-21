@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bded5965acb5b5abddbf43fd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "salamander",
+  "setter": "RiverTulloss",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "022B0BF545314F41A43A7A6C27ABC17B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1143r12p1152r15p1158r12p1214r13p1253r13p1271r13p1320r13p1374r13p1391r14",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.98,
+  "ascensionist_count": 191,
+  "quality_average": 3.39,
+  "hold_fingerprint": "572fc14fc707ba6547a3b5ee3dc546aef717784dee7914e94e9219ac2183a39d",
+  "validation_errors": []
+}

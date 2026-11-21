@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5ec5f7abff4dca32bdf80b2d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Up And Around",
+  "setter": "CodyAllenLittle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0856c9def8fe48d18aa95a84eb52c910",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1145r12p1162r12p1231r13p1264r13p1317r13p1368r13p1389r14p1588r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b0f68dba521fa0a5794e7eae4f0608cffb1907bd1c63d61d0fe286c8d9c82ef0",
+  "validation_errors": []
+}

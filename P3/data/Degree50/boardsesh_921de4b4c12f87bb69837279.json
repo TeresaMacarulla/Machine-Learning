@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_921de4b4c12f87bb69837279.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "400g Protein",
+  "setter": "led",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "81267BCDF3B7489AAD54648CC8BAB208",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r12p1178r13p1217r13p1306r13p1373r13p1395r14p1460r15p1464r15p1477r15p1478r15p1516r15p1559r13",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 1,
+  "quality_average": null,
+  "hold_fingerprint": "78c4e86529c8adbad5c1504e2f3bca97194eccf05c385c0be1de99294cee1342",
+  "validation_errors": []
+}

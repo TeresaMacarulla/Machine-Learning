@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5d3754eff2b3a8fdf77924a5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "invers world",
+  "setter": "renox",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 13
+  },
+  "source": "boardsesh",
+  "source_uuid": "bba111e0-5036-4f79-b912-d59695eed633",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1177r13p1211r13p1264r13p1245r13p1279r13p1268r13p1304r13p1325r13p1392r14p1087r15p1466r15p1475r15p1504r15p1503r15p1506r15p1505r15p1525r15p1532r15p1545r15p1544r15p1535r15p1534r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "7ae6e899fc8aece0593368b8442aad111903950d0bb8e4e5fb0e631c99994897",
+  "validation_errors": []
+}

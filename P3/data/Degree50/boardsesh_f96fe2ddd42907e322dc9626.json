@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f96fe2ddd42907e322dc9626.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Ford Mustang GT",
+  "setter": "BlakeMaclure",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "72438D62DF6144CC85ADFC4A21FC143C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1157r12p1169r13p1181r15p1222r13p1269r13p1270r13p1299r13p1383r14p1453r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 21,
+  "quality_average": 3.2,
+  "hold_fingerprint": "382b475c026d73b195012978fa115f245f9ac484e93ac8731dce66d0be99e95e",
+  "validation_errors": []
+}

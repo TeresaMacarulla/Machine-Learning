@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_495b40e9bf3109f1ade8fb04.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Backin\u2019 up the Brinks Truck",
+  "setter": "dbarks",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "678F7D7A9E234E6DA08AE69C42FB2298",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1143r12p1201r13p1230r13p1283r13p1329r13p1351r13p1379r14p1484r15p1514r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.98,
+  "ascensionist_count": 252,
+  "quality_average": 3.24,
+  "hold_fingerprint": "e160b82658ab22be53703a754c888ec880fe98bf53f47533aa98d23578d9dd4c",
+  "validation_errors": []
+}

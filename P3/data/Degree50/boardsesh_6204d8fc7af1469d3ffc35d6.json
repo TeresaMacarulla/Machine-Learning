@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6204d8fc7af1469d3ffc35d6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "supernatural movement",
+  "setter": "canyonbryson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4a1e59603f7d4958978b99a443cec17f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1117r15p1167r12p1181r12p1218r13p1271r13p1284r13p1353r13p1384r14p1455r15p1457r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "4fb736369561e9ad3e1f5834edfaa4d9e69663bfc5dc0f037cd36bcd6cd2d8be",
+  "validation_errors": []
+}

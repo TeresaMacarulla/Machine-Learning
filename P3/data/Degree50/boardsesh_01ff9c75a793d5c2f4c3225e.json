@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_01ff9c75a793d5c2f4c3225e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "No protection",
+  "setter": "Nikolauk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "7ad5c483dba74ab0aff68f55dc9182c9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1084r15p1186r12p1215r13p1266r13p1298r13p1369r13p1381r14p1452r15p1476r15p1529r15p1568r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2154f97e5bff59032a2b8bfd75127d3dad8ea1fe1f3cef8b6cccbf433ce026a5",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6a347c244d277070143ec961.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "wilson loop",
+  "setter": "tobiasiding",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0ED178EE4574464ABD5C04B80087DF88",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1169r13p1235r13p1289r13p1342r13p1395r14p1456r15p1531r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.36,
+  "hold_fingerprint": "8a575d5ecb53231887919181dd87c23f63406c07aa308289d20e4b0d2d892cf4",
+  "validation_errors": []
+}

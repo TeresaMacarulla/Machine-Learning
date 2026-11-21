@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5090572528d496e104e114fc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "gravity z",
+  "setter": "Joseph_Rerolle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8DB92B2C381B4F79B26A05D2181644F1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1164r12p1230r13p1260r13p1264r13p1333r13p1388r14p1457r15p1461r15p1511r15p1513r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "58468ccdf86c9750e469cb987d22c261ad3760aa05056d1979a728d1417353a9",
+  "validation_errors": []
+}

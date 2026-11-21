@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bf8994c398edb3e270ccabfc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Bozzano",
+  "setter": "rodrigo.hanada",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "CADE5EF94DED401195DC350FF2C8754E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1216r13p1285r13p1352r13p1357r13p1368r13p1381r14p1454r15p1457r15p1476r15p1488r15p1543r13p1557r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 15,
+  "quality_average": 3.67,
+  "hold_fingerprint": "d6bfd964b37ac45701feb0af1d73fa1cf57cedbc68803abe31ac2b9ffc26273a",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ff9bf9701a7fa5f9bdceb724.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Alright I Guess",
+  "setter": "tomheslam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "AF72CD8EE2C64C5D860F84C6E87EAA51",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r12p1219r12p1300r15p1306r13p1320r13p1371r13p1382r14p1385r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f1a7f1faf9587114d95e1077efc001fb11a32322d6895368a7169b207913bb55",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e7d5780e66c215587931d594.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "stupid one mover",
+  "setter": "climbercarter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "CFA163C61A9E414F81E91471C23874BD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1131r15p1147r12p1165r12p1230r13p1270r14p1510r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "02e4e1bc346e93d020a8f386bf76fd1bc3e8deb65d795f2f1f97a3791c766329",
+  "validation_errors": []
+}

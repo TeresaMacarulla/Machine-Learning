@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_62bed65181d147f7efe71fea.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "The Crossover",
+  "setter": "9dlclanecove",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "BF27B74D05AA4EBEA46F092EC720DA36",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r12p1147r12p1186r13p1216r13p1250r13p1281r13p1284r13p1335r13p1387r14p1454r15p1457r15p1477r15p1513r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.36,
+  "hold_fingerprint": "5c42d47da8cbf6372035f4705ffda69f3a24dd266573c2693c7b773d9602cd49",
+  "validation_errors": []
+}

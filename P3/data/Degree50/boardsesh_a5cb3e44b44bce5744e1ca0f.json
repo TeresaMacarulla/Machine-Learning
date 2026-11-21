@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a5cb3e44b44bce5744e1ca0f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "RE10b",
+  "setter": "Poerselmat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "67627c52fb3c4cddbb8aa36cad8486e3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1143r12p1175r12p1214r13p1236r13p1304r13p1325r13p1392r14p1465r15p1516r15p1534r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "60309bd9ec1e9dfb968c6440926cda400120e163a77e4df76ec7daf986e066b8",
+  "validation_errors": []
+}

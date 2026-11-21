@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6ac0365c3d54f18964c7939f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "SXCIALSKILL",
+  "setter": "cliff_shredder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "620FC9063C96410CA32A55BA5C13B417",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1187r12p1213r15p1267r13p1273r13p1286r13p1298r13p1386r14p1450r15p1472r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 40,
+  "quality_average": 3.3600000000000003,
+  "hold_fingerprint": "30abc4c10eae22209659d88637b24e200ca2ab8c09c63a3f235e754057b845f0",
+  "validation_errors": []
+}

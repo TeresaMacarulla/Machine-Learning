@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b74ca29cf72b3936d04ced8e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Semi warm",
+  "setter": "vincentdohna",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1D394D27B9D749D9A732F4032B8D6620",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1168r12p1169r15p1198r12p1244r15p1252r13p1268r13p1317r13p1331r13p1382r14p1504r15p1513r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0babd7a65d7e15082e95a6161dfdbdacde43fcd9eb5869beb9ee2da4ed9569af",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_06b102b476f1ecdeca7a2c25.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Colony Square",
+  "setter": "kilterian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "F180AB0AA7CD46C4BAF6B395BD20DBF0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1138r12p1152r12p1200r13p1221r13p1236r13p1284r13p1319r13p1331r13p1384r14p1451r15p1470r15p1488r15p1495r15p1522r15p1529r15p1546r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.96,
+  "ascensionist_count": 271,
+  "quality_average": 3.45,
+  "hold_fingerprint": "9b0293305b72f03ac16fa99b768702929af9cfa1c05634a2acacab4a86f26445",
+  "validation_errors": []
+}

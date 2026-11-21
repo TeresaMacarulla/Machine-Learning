@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_07e05e8daa9e758aa99b57e1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "blue",
+  "setter": "OllieClimbz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "f61cb707-107d-4cad-bae8-cab9075ca2a0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1213r13p1460r15p1462r15p1266r13p1159r15p1279r13p1298r13p1347r13p1379r14p1226r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.2,
+  "ascensionist_count": 6,
+  "quality_average": 4.8,
+  "hold_fingerprint": "e910d59d27c65f3fb83538ed487fbb4a4d58aa894531a3fcf9fc2694aa4f3d0b",
+  "validation_errors": []
+}

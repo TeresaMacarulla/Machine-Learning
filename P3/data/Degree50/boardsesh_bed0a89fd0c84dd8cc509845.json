@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bed0a89fd0c84dd8cc509845.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "The Rusty Spoon",
+  "setter": "evanvanlaar91",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "d814ec40f4d341e9b57e6110d6631716",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1186r12p1235r12p1256r13p1306r13p1343r13p1361r13p1395r14p1480r15p1499r15p1525r15p1527r15p1570r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "a876aa09392ea1b2450f4897685dd9886795283e4ecf7fa9a656e39e7152609c",
+  "validation_errors": []
+}

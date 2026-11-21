@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a78bfc17e83531c129a8fae5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Dislocated Shoulder",
+  "setter": "evanyapperaza",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "D064AC0433244BE2A16014F2DA56FDDF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1162r13p1183r15p1194r13p1247r13p1266r13p1269r13p1320r13p1340r13p1359r14p1464r15p1466r15p1486r15p1493r15p1523r15p1533r15p1562r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "83e06bad9d036f468c6ce0c5cc419f506b8b2752df12d9be65a459e777639957",
+  "validation_errors": []
+}

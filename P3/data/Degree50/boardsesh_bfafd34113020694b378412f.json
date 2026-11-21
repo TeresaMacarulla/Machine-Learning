@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bfafd34113020694b378412f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Kindertraverse",
+  "setter": "Rolau",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "b2a23282-b5b4-484b-8c33-3f042f319808",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1109r12p1144r12p1165r13p1199r13p1221r13p1190r15p1255r13p1275r13p1340r13p1394r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.17,
+  "ascensionist_count": 9,
+  "quality_average": 4.0,
+  "hold_fingerprint": "303d2bfb60ba2ebc61f96e5a3e396b4f3d89d1d9cd8efb755b32d35504749938",
+  "validation_errors": []
+}

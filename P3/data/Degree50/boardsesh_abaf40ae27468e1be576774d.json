@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_abaf40ae27468e1be576774d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Basik",
+  "setter": "PJP",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "5A325F263D2F4DC085EC49D7DC0B0CA0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r12p1203r12p1250r13p1253r13p1303r13p1334r13p1387r14p1508r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "f38a9c8b40e9e36837d56f0a963fe73a2b137f66efbb92c3110869dfb1819c1f",
+  "validation_errors": []
+}

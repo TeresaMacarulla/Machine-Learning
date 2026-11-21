@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a30a5e2580e84b972c38aaee.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "nipslip",
+  "setter": "thisisafakeaccount",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "1c134c363e3f4740a98f8cb5f96a4445",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1209r13p1246r13p1315r13p1354r13p1390r14p1463r15p1467r15p1492r15p1513r15p1564r15p1570r15p1571r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "25817c55cead3659693012e14946b066f30265856bd4a9d25d213fb16b131e0e",
+  "validation_errors": []
+}

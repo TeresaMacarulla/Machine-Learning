@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0e08f6981be35c4377b58d59.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "direction & magnitude ",
+  "setter": "Jack.thornalley",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "dd7273ff-90a8-493f-832c-d06ae94a236f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1158r12p1462r15p1096r15p1213r13p1198r13p1247r13p1165r15p1268r13p1321r13p1203r15p1359r13p1389r14p1310r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.67,
+  "ascensionist_count": 7,
+  "quality_average": 4.33,
+  "hold_fingerprint": "d91e2e064b872efb98414bb3c1d431b1b4900fe11b1f599e21799e5336174648",
+  "validation_errors": []
+}

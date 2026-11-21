@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_00b5e3c5722e6b05d4c70bc5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "the pet",
+  "setter": "jblangford",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "abd2cbb2-83cd-4df0-bdd9-f593fab1933e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1490r15p1187r12p1271r13p1322r13p1218r15p1526r15p1352r13p1369r13p1382r14p1471r15p1505r12",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 1.5,
+  "hold_fingerprint": "909239a72b8914fb5fbf0321e97ff038496be58983720b5db80b2078bde017d6",
+  "validation_errors": []
+}

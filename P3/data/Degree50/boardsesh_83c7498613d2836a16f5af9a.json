@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_83c7498613d2836a16f5af9a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "MH3",
+  "setter": "longmont",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "05304CB4AF2843518EBBEFFBD1917188",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1189r12p1238r13p1324r13p1336r13p1384r14p1473r15p1500r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "006ee08f9e99132b4bc56de3fe1a5ee622f56bf4e704f85796f92e0b26f2e852",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eb4ba3b687d9e566accbcc78.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Right Exhausting",
+  "setter": "Kewpie_Crusher",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "d0bedb94e99e44d0ba5f99029f4e601b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1114r12p1127r15p1161r15p1175r15p1215r13p1226r15p1251r13p1267r13p1280r13p1333r13p1347r13p1380r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "90d9ab3d0bed2dd608fb875bf0b729d29854a1212d28b6b45bbafebcd5b3ff79",
+  "validation_errors": []
+}

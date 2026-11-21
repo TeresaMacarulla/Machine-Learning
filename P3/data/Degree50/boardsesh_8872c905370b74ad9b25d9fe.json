@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8872c905370b74ad9b25d9fe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Eishockey",
+  "setter": "Tarekrobrahn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "206bb9e7cfca49009e00f89f449f7e74",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1145r12p1195r13p1249r13p1317r13p1355r13p1390r14p1464r15p1514r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b072e86adeca635a80039386934dacfec5dddf038590b26ddf62980f673faf22",
+  "validation_errors": []
+}

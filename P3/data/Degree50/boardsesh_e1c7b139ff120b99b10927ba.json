@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e1c7b139ff120b99b10927ba.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Wagon at home",
+  "setter": "EMPA",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "562DE9C8E5914A1C939D001D25B14AF2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1177r15p1215r12p1321r13p1341r13p1343r13p1361r13p1395r14",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 65,
+  "quality_average": 3.19,
+  "hold_fingerprint": "17a31bc4b99d2add0ea044fd47e2c7f110e2c5e9063ad71219530da22fcfebb8",
+  "validation_errors": []
+}

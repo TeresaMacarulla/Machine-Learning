@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7aaee7c1de019c00ddcac6fc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "LegalZoom",
+  "setter": "nick_dt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5CE652151BCF457AACD5AE30103BB200",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1145r15p1169r15p1198r12p1220r13p1231r15p1236r13p1248r13p1269r13p1278r15p1302r13p1315r14p1316r14p1515r12",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "518945a5bdc5c484e2fdb2ec12ac7f0fa8d79006fd7d923e66806799876e5ec9",
+  "validation_errors": []
+}

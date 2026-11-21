@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3f78bbc44ebdaf9900b7e902.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "fan",
+  "setter": "ryanneedles",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 10
+  },
+  "source": "boardsesh",
+  "source_uuid": "fcaa27772af44fd4bdc57e1a0901d158",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1081r15p1135r12p1142r15p1150r12p1203r13p1230r13p1250r13p1299r13p1329r13p1383r14p1449r15p1467r15p1469r15p1502r15p1510r15p1523r13p1537r15p1555r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1b0ca142c98b15850974f32f0e263c8f4c7b45dcea9934a16a23beef05c591d0",
+  "validation_errors": []
+}

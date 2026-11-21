@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3c649f78a46039f316b76f30.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Lightning Chain",
+  "setter": "Razzaspazzy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "23134DCA6A5B48FAA82BE5E53BB0A458",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1150r15p1155r12p1191r12p1223r13p1254r13p1270r13p1307r13p1337r13p1390r14p1447r15p1541r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "c22b3811cd49feff27fcd5bfd62450bbcecdcfd774973d2981492bef29913488",
+  "validation_errors": []
+}

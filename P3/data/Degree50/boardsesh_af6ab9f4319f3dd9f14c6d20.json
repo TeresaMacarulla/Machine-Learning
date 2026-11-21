@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_af6ab9f4319f3dd9f14c6d20.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "alex01",
+  "setter": "alex_sealy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "76EFEFD59469435F9B75889B1D0B72C4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1192r13p1245r13p1300r13p1331r13p1385r14p1461r15p1483r15p1485r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "410407026ba85028931de1ac84c2310d49a3a6bbf1c469d39cc08ffcde0e3641",
+  "validation_errors": []
+}

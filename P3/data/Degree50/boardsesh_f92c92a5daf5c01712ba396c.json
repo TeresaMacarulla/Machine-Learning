@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f92c92a5daf5c01712ba396c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "I push my fingers into my footholds",
+  "setter": "EvanLavallee",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "125E8AA018E84FE2BDAC981AC8C82BC7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1129r12p1145r15p1182r13p1220r15p1232r13p1302r13p1334r13p1379r14p1382r13p1505r12p1540r15p1573r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.67,
+  "ascensionist_count": 10,
+  "quality_average": 3.78,
+  "hold_fingerprint": "801d665d70d06a0d05da0dc8c5aed3e05519f054657859ce686f3cfbe20c6168",
+  "validation_errors": []
+}

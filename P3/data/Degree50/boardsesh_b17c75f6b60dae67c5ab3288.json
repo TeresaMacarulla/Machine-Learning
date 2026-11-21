@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b17c75f6b60dae67c5ab3288.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "BPS Monopoles",
+  "setter": "SebR",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "77c29630e6e9429288f57e732a556d14",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1117r12p1153r12p1203r13p1235r13p1240r13p1270r13p1301r13p1321r13p1387r14p1453r15p1470r15p1496r15p1504r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "362b6592298d62edf92eb13743736a0c0e2e1f6b29e09152fbcaa957cbb552d9",
+  "validation_errors": []
+}

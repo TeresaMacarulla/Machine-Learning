@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f2a0e8977d2ffbf48c84af26.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Fire Exit",
+  "setter": "plastictoucher",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "7710341e-8ffd-4b77-a96b-c10b0f61464b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1203r12p1167r12p1252r13p1289r13p1131r15p1324r13p1361r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": null,
+  "hold_fingerprint": "72344af17f81b8541aeba1e3e355300bd08d6bfa6111cf5b8b723841838a5d61",
+  "validation_errors": []
+}

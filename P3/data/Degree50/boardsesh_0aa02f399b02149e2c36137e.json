@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0aa02f399b02149e2c36137e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "How many monkeys",
+  "setter": "RiverTulloss",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "45B5C72E1DEC4B27ADA8940FFB1FC3BC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1126r12p1131r15p1147r12p1185r13p1198r13p1271r13p1308r13p1325r13p1391r14p1554r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 19,
+  "quality_average": 2.95,
+  "hold_fingerprint": "7d75f4737018fdc852fdae579145aff9c0a32652c16153c2be97bc6885caebca",
+  "validation_errors": []
+}

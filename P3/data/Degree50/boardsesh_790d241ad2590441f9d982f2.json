@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_790d241ad2590441f9d982f2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Scrunchy 2",
+  "setter": "benmwilder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7513038227DE486287A42D1C57B8A298",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1153r15p1202r12p1204r12p1252r13p1267r13p1314r13p1317r13p1365r13p1380r14p1381r14p1547r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "fbc782d319ba55aed82671c11bb91d46bba3efa5a47dbd0cebd9d5407bdc4427",
+  "validation_errors": []
+}

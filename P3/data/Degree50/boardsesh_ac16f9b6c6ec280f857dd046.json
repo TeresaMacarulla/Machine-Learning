@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ac16f9b6c6ec280f857dd046.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "floating onni",
+  "setter": "onnihurme",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "E1F445AC85F64DA3A1898254409F3345",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1220r12p1221r12p1265r13p1267r13p1303r13p1350r13p1385r14p1480r15p1532r15p1575r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6cac7fdd3c6bbd7680a244be9eef97aea3ade7697a16158e67da1a09d7c0c919",
+  "validation_errors": []
+}

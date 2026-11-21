@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_89948d3b26dca737bebe45bb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "shoulder power",
+  "setter": "raven05",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "14d3d5c8d07a46f4908f101c109d4f5e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1155r12p1157r12p1206r13p1213r15p1236r13p1287r13p1300r13p1316r13p1347r13p1379r14p1450r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "efdf143489826746fe19152201ce8e6105829a9997f57d01edc510b5089ff6d4",
+  "validation_errors": []
+}

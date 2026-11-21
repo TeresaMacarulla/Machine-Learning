@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_56ad5412f6a18b7aa5c63d81.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "tspmo",
+  "setter": "harry.cruse",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C88CA556A1BD4BD1BCD3F4130A8D48CF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r15p1164r15p1179r13p1186r12p1233r13p1235r13p1241r12p1264r13p1283r13p1330r13p1362r14p1478r15p1491r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "995fa9a65dbe32a95424c515e947fb08d359847e2598e81bc8e74c68a83a9f2b",
+  "validation_errors": []
+}

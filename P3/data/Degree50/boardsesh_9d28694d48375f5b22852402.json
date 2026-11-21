@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9d28694d48375f5b22852402.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "pneumonia",
+  "setter": "jbvordick",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "ADDCB75F5A484FF8B06D755646267BB2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1257r12p1291r13p1337r13p1339r13p1352r13p1386r14p1506r15p1518r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.75,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "f71b8e3259448909259a777f71fa048b38bf15cf57cb0a85edecce0ec544cfff",
+  "validation_errors": []
+}

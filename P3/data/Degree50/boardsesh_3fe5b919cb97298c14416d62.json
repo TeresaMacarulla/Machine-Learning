@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3fe5b919cb97298c14416d62.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "the full 8x12",
+  "setter": "posesmotter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "b1f385dba5f14abe80524cb6bbbbc36f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1161r12p1178r12p1232r13p1249r13p1253r13p1270r13p1307r13p1339r13p1357r13p1390r14p1460r15p1526r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "67d3f9d0f10528271e0b09a7bcc7fa1ec5fae37d1733995310bc3a79a8d2e7c8",
+  "validation_errors": []
+}

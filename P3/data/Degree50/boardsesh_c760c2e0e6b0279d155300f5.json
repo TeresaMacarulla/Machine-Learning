@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c760c2e0e6b0279d155300f5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Get_HardCore",
+  "setter": "Sag",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "f1fa6547-d9eb-4cc5-9ebd-a9d90ff021f4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1250r13p1513r15p1220r13p1188r12p1489r12p1266r13p1503r15p1352r13p1390r14p1156r15p1515r13p1521r15p1367r13p1558r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "102335556d3d3a2bf545f1ac508966ac90ae37814f32c335c7134e1ef508050e",
+  "validation_errors": []
+}

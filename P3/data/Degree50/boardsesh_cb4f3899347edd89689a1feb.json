@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cb4f3899347edd89689a1feb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Compression Choke",
+  "setter": "SMALLbloc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "13F73F77C69447E1B0268C49092A8663",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1105r15p1134r12p1137r15p1153r12p1200r13p1218r13p1266r13p1281r15p1318r13p1334r13p1372r13p1390r14p1452r15p1488r15p1504r15p1522r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.4,
+  "hold_fingerprint": "9dc7a97cdc29052edd4f1def6e218b7c2e3a44016869e0738658485d24af9130",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fc41d13ee09e42ccd901106e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "pavement",
+  "setter": "mondragon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "BCAF6D6E09E949A0B07FD8D9DC1DFF2F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r12p1158r12p1194r13p1232r13p1248r13p1269r13p1317r13p1338r13p1371r13p1392r14p1459r15p1463r15p1506r15p1572r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "5190176c1ad4d8cd9c2dc9037b5c9852b76731c3905c6636611390105aa3ca55",
+  "validation_errors": []
+}

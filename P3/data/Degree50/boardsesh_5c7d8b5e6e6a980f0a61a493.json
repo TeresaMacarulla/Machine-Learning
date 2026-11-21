@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5c7d8b5e6e6a980f0a61a493.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Five-ish",
+  "setter": "kevinlin7295",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "9608ED581A3D42988300F73D8D67FB12",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1147r12p1185r12p1235r13p1254r13p1268r13p1335r13p1385r14p1452r15p1495r15p1498r15p1514r15p1557r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2b3445fe67dad18327fea14d2db2ea39de415cc68f0e674f33e36659b0460783",
+  "validation_errors": []
+}

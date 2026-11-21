@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4beaffc87fb2de44b69a7b57.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "quick and silly",
+  "setter": "ripleymorris",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "C13B6807BB674B809C7443FA38133494",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1164r12p1165r15p1166r12p1204r15p1215r13p1252r13p1285r13p1306r14p1456r15p1457r15p1470r15p1515r15p1579r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "65c3e2c28847344565e6f105566845f12ab2e02cd4317507d8c63c21dd2ffb8e",
+  "validation_errors": []
+}

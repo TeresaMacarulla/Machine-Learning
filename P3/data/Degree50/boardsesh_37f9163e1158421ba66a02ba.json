@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_37f9163e1158421ba66a02ba.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "2Cans",
+  "setter": "joechester7",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "8586062ee2e74c95936c166e9a24f972",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r15p1181r15p1229r12p1231r12p1244r15p1267r15p1300r13p1331r13p1385r14p1485r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.5,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "bfa4a033f5d38c6a1eec7f7f440de17b675fd5d63f942edd5b0a1cc3ad881ae3",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6a6a31b58b1e348bdaa1d6c8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "BFF V0 (Let's move)",
+  "setter": "irwan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "12bdf0f96374415ebdb4cbe936ae87f4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1107r15p1129r15p1143r12p1165r15p1192r12p1199r15p1212r13p1233r13p1244r15p1247r13p1300r13p1331r13p1347r13p1380r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.89,
+  "ascensionist_count": 38,
+  "quality_average": 3.22,
+  "hold_fingerprint": "166000bc52f579363b1a7f8f3921fc526ee6fdb0ad3a372691ae5e7136342b4b",
+  "validation_errors": []
+}

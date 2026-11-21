@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0d03f63682e0369453cc7e9a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Alley Oops",
+  "setter": "CorbinMiley",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "23918792E78E42779323F26E0659AD89",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1169r12p1183r12p1271r13p1337r13p1352r13p1366r14p1531r15p1556r15p1560r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6e9481355e9a08b71941d809b3a1595dc6f34865bffb5950c471790a177eb76c",
+  "validation_errors": []
+}

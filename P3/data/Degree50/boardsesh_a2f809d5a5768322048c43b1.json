@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a2f809d5a5768322048c43b1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Bike Crash",
+  "setter": "noahcantclimb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "8a8a93ff-46e3-4233-9dce-9af24db532e0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1234r12p1161r15p1254r13p1171r15p1289r13p1293r13p1395r14p1359r13p1496r15p1527r15p1532r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 4,
+  "quality_average": 4.5,
+  "hold_fingerprint": "10ed9852de72175cf95469fc474141b3f0a3eb6c9c9a74679e0fdd00b2326f98",
+  "validation_errors": []
+}

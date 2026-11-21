@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1542f5160a5890f966a35855.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "hocampus",
+  "setter": "dan.rogers22",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "AFB5299D509440C9B745DC3E8A1EACE1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1308r12p1320r13p1350r13p1354r13p1380r14p1383r13p1551r12",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "f7678220d263dd046e41d502a5a4985ebf768348e45d0cdf78f85853303ecc32",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_90dd4d044ccc89f020c9a775.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "BB #3",
+  "setter": "willcastelli",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "F73CA3FBF012452F86C09E5E6B6F49AF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1155r12p1225r13p1309r13p1323r13p1325r13p1392r14p1482r15p1500r15p1536r15p1554r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "d8c9adce002f0d60346177e5365d3bd5adc4e0a7403f2e10c06442539f3562eb",
+  "validation_errors": []
+}

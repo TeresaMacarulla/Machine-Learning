@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3beb8f8d4efc2f98c8523159.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Winter arc",
+  "setter": "kilterpong",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "e6ed1eaf8d4d45188a24ce549d77ab2d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1235r13p1271r13p1336r13p1392r14p1452r15p1496r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.78,
+  "ascensionist_count": 9,
+  "quality_average": 3.56,
+  "hold_fingerprint": "59d70a3d5351e15c04f7e6f6487d1546b78e3d48763e5fc0e8edfb8f997ee44f",
+  "validation_errors": []
+}

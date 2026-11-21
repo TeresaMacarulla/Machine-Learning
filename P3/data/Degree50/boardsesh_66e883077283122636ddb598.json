@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_66e883077283122636ddb598.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Pinch Patrol",
+  "setter": "phil_geisler",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7badfbb02d044be18fb32295411d343b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1148r12p1169r15p1216r13p1228r13p1283r13p1285r13p1332r13p1386r14p1456r15p1524r15p1547r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 615,
+  "quality_average": 3.29,
+  "hold_fingerprint": "bfbe07ec0ec2bc0e16460d7e808e5effeb711aeca7e7358006cd9e5818d6acb3",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1e96085b4335273fd7d4f5d8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "box reveal (20 minutes)",
+  "setter": "HamiltonJohnson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "62aec4c980764530bf02a211383de273",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1148r12p1152r12p1157r15p1220r13p1221r15p1258r13p1340r13p1343r13p1388r14p1453r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "1c0a66cbf07fa2e94f7f53ceec5b926cbb2362dda0e3d8cd3c7e223619aa6f5a",
+  "validation_errors": []
+}

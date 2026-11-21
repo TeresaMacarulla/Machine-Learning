@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bf859bc6e88f789ff009d4c1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Boot Spur",
+  "setter": "s14rob",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "596365DBF94143E4B341F68AD161AE0F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1157r12p1204r13p1223r13p1271r13p1289r13p1302r13p1303r13p1353r13p1389r14p1447r15p1451r15p1523r15p1542r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.96,
+  "ascensionist_count": 33583,
+  "quality_average": 3.1907941667660737,
+  "hold_fingerprint": "c3e1fb08a159fa2de50b28a7f1a0323ee0821e1bed0520c5a58b735ae62c5250",
+  "validation_errors": []
+}

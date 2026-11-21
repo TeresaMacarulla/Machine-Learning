@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3cbe160c86672ab0e3f25f93.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "goldfish tank",
+  "setter": "alexmh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2EBB762B05274A12BA11F41E9E17AC40",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1239r12p1269r13p1321r13p1351r13p1383r14p1481r15p1498r15p1569r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "475098a6950abbfd5c20e1e90464700242031fc05d2c85abd57ca09f077e661b",
+  "validation_errors": []
+}

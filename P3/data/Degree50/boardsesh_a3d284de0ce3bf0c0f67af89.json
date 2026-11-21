@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a3d284de0ce3bf0c0f67af89.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "SwingnDing",
+  "setter": "maximotaylorlindsay",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "91e5610c2d3744faa5cae8dd59f662f8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1210r15p1248r12p1253r12p1315r13p1387r14p1495r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "230fca2b7a5ec2512de5a78c97db5450393b2621870b4b7fe1376e3c5e2b4416",
+  "validation_errors": []
+}

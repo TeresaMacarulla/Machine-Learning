@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b894c021d841ed9ee31ec4fc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "skins",
+  "setter": "JasperDudley",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "D451545117F54696A26A5CAE0617569A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1158r15p1192r12p1247r12p1262r13p1300r13p1315r13p1387r14p1530r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "883ae9b7fea83eab486dc4789a2ed1425a94a791d70c3715ff9e240469ff3e42",
+  "validation_errors": []
+}

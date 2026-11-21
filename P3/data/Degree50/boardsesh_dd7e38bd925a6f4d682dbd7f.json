@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dd7e38bd925a6f4d682dbd7f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "mark 1",
+  "setter": "saignc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "10D252A22D624E66B6C49402BC5A90F2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1199r13p1231r13p1285r13p1315r13p1348r13p1380r14p1460r15p1463r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "806955ea7b241c6847ad835550ccf2c233dd44291f4495f7d386b1a766a9b61e",
+  "validation_errors": []
+}

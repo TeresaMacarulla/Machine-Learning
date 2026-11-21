@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cfc92c263b4504668fcff713.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Get Pinched!",
+  "setter": "Tennis0123",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "EDB3EE4992D042379CA081A9897463FF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1162r12p1163r12p1186r13p1232r13p1285r13p1287r13p1298r13p1332r13p1387r14p1456r15p1470r15p1479r15p1513r15p1530r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "21362f99a946d69388e56ec72438103f6f0813f4d570de2c750fd1cfc2d997a2",
+  "validation_errors": []
+}

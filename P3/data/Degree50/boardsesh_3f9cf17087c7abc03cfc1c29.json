@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3f9cf17087c7abc03cfc1c29.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "RG Rope Skipper",
+  "setter": "SebastianG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "aca001b71ccf4705b58ec565d5219589",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r12p1130r12p1164r13p1214r13p1215r13p1264r13p1297r13p1313r13p1381r14p1459r15p1521r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "197b6b46049e69be767ad1cf09298b3a9a7d4f6d48559f11016142072a94b793",
+  "validation_errors": []
+}

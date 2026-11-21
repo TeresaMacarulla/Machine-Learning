@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_acebb36d1ba0eb65261aa76c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "7.72026Kassian",
+  "setter": "veitbertagnolli",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "83100325-43df-4cea-a68a-448f3ab11157",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1170r12p1221r12p1120r15p1219r13p1257r13p1118r15p1275r13p1255r13p1308r13p1341r13p1359r13p1394r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.63,
+  "ascensionist_count": 403,
+  "quality_average": 3.36,
+  "hold_fingerprint": "034649fb66365fafdf51cc24d2d8dbbd925ab5e6f7f4892ba18799acb79e283f",
+  "validation_errors": []
+}

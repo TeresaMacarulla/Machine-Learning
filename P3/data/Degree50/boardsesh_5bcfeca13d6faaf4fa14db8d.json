@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5bcfeca13d6faaf4fa14db8d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Folilage",
+  "setter": "tytaft",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C9E840FF3DCB498F984376F59EB41A01",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1180r13p1230r13p1270r13p1337r13p1352r13p1384r14p1461r15p1504r15p1548r15p1551r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "d5e6924a6e7c5aee372272c996a14d2e44539edfeaa54bcc1d721187c891cad1",
+  "validation_errors": []
+}

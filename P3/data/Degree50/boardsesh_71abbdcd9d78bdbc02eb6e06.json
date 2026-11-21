@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_71abbdcd9d78bdbc02eb6e06.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Creating stimulation",
+  "setter": "Greger",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "21542EE1A4574B7CB7ED3CB7825E95C3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1134r12p1172r15p1202r13p1286r13p1356r13p1391r14p1453r15p1505r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 20,
+  "quality_average": 3.5,
+  "hold_fingerprint": "485fc39a2abbacc6fea9006bdc4d4133d7afec692ce931c57f8852834cf890fb",
+  "validation_errors": []
+}

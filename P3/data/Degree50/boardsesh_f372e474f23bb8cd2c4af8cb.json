@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f372e474f23bb8cd2c4af8cb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Flailtopia",
+  "setter": "Frosla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "e6ef4f04691a480699646281ade3c053",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1152r12p1200r13p1237r13p1283r13p1304r13p1336r13p1391r14p1455r15p1468r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "ffea93dd12c06383ef72e1e2224a2876af19d3139f38cd2e0bdc4c2ea9b69807",
+  "validation_errors": []
+}

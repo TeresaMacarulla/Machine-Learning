@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4e2ab0c1b030f42bbc81c160.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Slippy",
+  "setter": "Seppie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "DE263CF389164B83BD7D0E91B725D762",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1201r13p1239r13p1271r13p1325r13p1390r14p1457r15p1469r15p1478r15p1536r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f1a0ffe441cbd95f93f460e342f84c678a7405a2d070826963cd5397507677f9",
+  "validation_errors": []
+}

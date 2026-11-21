@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bd93c0a99ea96e4f3500c4ae.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "JUGgernaut",
+  "setter": "strattner",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "650efe3f-30fd-415f-aecc-f47fbaaa0a5e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1234r13p1379r14p1331r13p1187r12p1104r15p1236r13p1300r13p1296r13p1133r15p1496r15p1266r15p1382r13",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.06,
+  "ascensionist_count": 26,
+  "quality_average": 4.29,
+  "hold_fingerprint": "3bee3f55359e9cf1a11bee1432b128828d986e10c79ba3c107a44ffc44b80a65",
+  "validation_errors": []
+}

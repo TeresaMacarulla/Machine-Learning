@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0d4d8fe3580417ebc5bf6983.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "walkers moose",
+  "setter": "botsy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "80F655B3CEC3470385E9CD4197A1E30F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1188r12p1203r12p1218r13p1269r13p1286r13p1339r13p1352r13p1386r14p1452r15p1472r15p1478r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.97,
+  "ascensionist_count": 38,
+  "quality_average": 3.4200000000000004,
+  "hold_fingerprint": "5da597d9a150fd19cd81121072112560ca4d6d059c2b0a09091c3cbe94f4f932",
+  "validation_errors": []
+}

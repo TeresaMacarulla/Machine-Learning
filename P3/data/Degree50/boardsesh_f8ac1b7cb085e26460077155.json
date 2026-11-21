@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f8ac1b7cb085e26460077155.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "BLOC 16 DINO",
+  "setter": "chrisarch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6BAAC436BAF045E5B2A281634CEC390A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1140r12p1172r12p1187r13p1225r13p1270r13p1283r13p1300r13p1314r13p1380r14p1506r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "47dc7a63917b014f8b53ec353ce9fec71a38a2c0f68ef0df77a4edb3ad76b146",
+  "validation_errors": []
+}

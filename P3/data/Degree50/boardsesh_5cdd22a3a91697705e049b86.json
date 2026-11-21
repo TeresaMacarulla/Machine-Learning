@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5cdd22a3a91697705e049b86.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Flipadelphia",
+  "setter": "GReddy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "74eabde1-b27b-4352-95c6-35bb86e1e284",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1218r12p1199r12p1230r13p1217r13p1303r13p1496r15p1485r15p1324r13p1392r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.43,
+  "ascensionist_count": 8,
+  "quality_average": 4.14,
+  "hold_fingerprint": "149d4506479cf64e54dd376c1eaafb37aca2e72be0cf4a2e2feb0daeb2d8cd71",
+  "validation_errors": []
+}

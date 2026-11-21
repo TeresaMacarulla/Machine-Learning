@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a0bfbc98b769fc675357c3c5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Fear",
+  "setter": "Depresto",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "316BCD550A02411CA8BA2E40D7EF42AC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r15p1132r12p1165r12p1185r13p1219r13p1272r13p1287r13p1325r13p1394r14p1452r15p1468r15p1517r15p1543r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "4007e3950785ecfa3749ac641247c1fc80884dbde71bd18801996313e55334d5",
+  "validation_errors": []
+}

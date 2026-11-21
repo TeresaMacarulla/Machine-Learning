@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_30ec3ddbee51cc6100b75eea.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "NE KB Profi 1",
+  "setter": "MatzeNewton",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "ac3471cb2b5446e09a589b7fc85e6da5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1136r12p1169r12p1223r13p1240r13p1274r13p1305r13p1356r13p1386r14p1387r14p1453r15p1500r15p1524r15p1542r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.88,
+  "ascensionist_count": 73,
+  "quality_average": 3.46,
+  "hold_fingerprint": "8cd8f2b814915a17274a364709f44ce9849abd45acee67c07aaab0b9ab44412f",
+  "validation_errors": []
+}

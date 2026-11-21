@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_347810f708e6ac4e7e4b519f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "definitely v10",
+  "setter": "Bills0nDrills",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "da2fe15d-1051-4ac8-9445-eb2e1da3e49e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1299r12p1302r12p1336r13p1200r15p1304r13p1355r13p1390r14p1392r14p1358r13p1221r15p1257r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 3,
+  "quality_average": null,
+  "hold_fingerprint": "694fc8b6fb9efdb8683f50396d731308317863b2bc4cb7dbe7ae66aacdac307e",
+  "validation_errors": []
+}

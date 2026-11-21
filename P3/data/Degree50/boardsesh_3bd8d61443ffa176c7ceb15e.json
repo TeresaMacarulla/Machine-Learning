@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3bd8d61443ffa176c7ceb15e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Campus HEA",
+  "setter": "egoitz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "b8b543f8e7a346bc9b4ab206af89f3e5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1165r12p1166r12p1216r13p1230r13p1281r13p1298r13p1318r13p1368r13p1371r13p1390r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "25255db35935b3a86451fdc6c6549f4b86e79abd29ba20bb4d095df551597770",
+  "validation_errors": []
+}

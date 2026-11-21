@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_094f86d06f03671e5d0eb342.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Hellevator Doors",
+  "setter": "boddha",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "169BFF15DE51448080DA5719DB941535",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r15p1182r12p1184r12p1199r13p1249r13p1287r13p1320r13p1357r13p1391r14p1485r15p1496r15p1559r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.29,
+  "hold_fingerprint": "377193901519b2648746a67b7db583677ec1266c35d0a552801f407d968c59d9",
+  "validation_errors": []
+}

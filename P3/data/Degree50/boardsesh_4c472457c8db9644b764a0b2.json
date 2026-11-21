@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4c472457c8db9644b764a0b2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "underfling",
+  "setter": "GW_Kilter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "36AFE2DB6A054D45B6CA18C5924C248E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1079r15p1149r12p1185r13p1187r13p1225r13p1309r13p1344r13p1356r13p1389r14p1473r15p1500r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.25,
+  "ascensionist_count": 4,
+  "quality_average": 2.75,
+  "hold_fingerprint": "f79133b5b8265215173f4cd7d074e13f945f78bded6d14e607d8d75b52e3d854",
+  "validation_errors": []
+}

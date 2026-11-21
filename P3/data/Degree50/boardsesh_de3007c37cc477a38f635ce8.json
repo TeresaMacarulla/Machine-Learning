@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_de3007c37cc477a38f635ce8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "a nice bump",
+  "setter": "mcjelle2801",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4d4e067794ba40938be1e37658d97b11",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1125r12p1162r12p1165r15p1213r13p1231r13p1234r15p1282r13p1336r13p1353r14p1372r14p1458r15p1577r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "8598f3877bd95c2a676dd2cd020a029240e479923d25dd0f244483e51e757748",
+  "validation_errors": []
+}

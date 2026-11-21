@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2d02a1d613f4724041cd5463.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Crumble",
+  "setter": "Victor.ca",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "7f2aedf1cd764a5bbaedc1e8a8d1d3a7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1170r15p1185r12p1200r15p1214r15p1249r13p1252r12p1253r13p1267r13p1281r13p1316r13p1348r13p1384r14p1471r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.17,
+  "ascensionist_count": 6,
+  "quality_average": 4.0,
+  "hold_fingerprint": "e72b1f86167d38fc354386c3adc348ef7767911e8e3b28c4d6a41226f1a7e0fb",
+  "validation_errors": []
+}

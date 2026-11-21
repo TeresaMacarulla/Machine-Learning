@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f9a4961fcf8f3ea3bf6b64eb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "V1 in my gym.",
+  "setter": "harry.cruse",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "CB39C9576E11422EB932CAFB544A29C6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1230r12p1266r13p1278r12p1334r13p1357r13p1371r13p1376r13p1395r14p1510r15p1513r15p1571r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5ea5632ea7c03040bfc24e0432b153a3f014056c7b44bc833fa70329bc8c1e8d",
+  "validation_errors": []
+}

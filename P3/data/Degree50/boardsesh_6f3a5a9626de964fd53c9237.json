@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6f3a5a9626de964fd53c9237.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Quaranfeels",
+  "setter": "Karla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "A04B1A007FA6457890DF755EFA0433F2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1145r15p1166r12p1169r15p1199r13p1219r13p1269r13p1301r13p1305r15p1354r14p1457r15p1523r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.08,
+  "ascensionist_count": 62,
+  "quality_average": 3.38,
+  "hold_fingerprint": "c3c05d5f336db7ff61ad69c303291446dbcee41be5a7bb8fe8570907d4a799bc",
+  "validation_errors": []
+}

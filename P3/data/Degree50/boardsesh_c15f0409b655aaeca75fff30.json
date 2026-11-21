@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c15f0409b655aaeca75fff30.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Nut Dragger",
+  "setter": "importedbean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "9A8F42680C424131974904ECDB0B4406",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1141r12p1193r13p1230r13p1261r13p1316r13p1329r13p1379r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 2.0,
+  "hold_fingerprint": "93f85cdf2788514ffff8c7fa8a2981dd2cabc63f4e8b19b8959090c5ac8d9f2e",
+  "validation_errors": []
+}

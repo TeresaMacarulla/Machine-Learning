@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fff603714a65c9daa64cb9cf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Route 69",
+  "setter": "susmann",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "AD9BDC765711444F81F06F6C1D5D3994",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r15p1165r12p1167r12p1213r13p1227r13p1250r13p1296r13p1318r13p1382r14p1454r15p1456r15p1468r15p1469r15p1475r15p1477r15p1511r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ed686598621bcc098270e482eeda4168aa21cca1bdae4c52779d4cc657fc7ed7",
+  "validation_errors": []
+}

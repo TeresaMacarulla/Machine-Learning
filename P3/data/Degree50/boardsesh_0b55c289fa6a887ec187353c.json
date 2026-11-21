@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0b55c289fa6a887ec187353c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "heels n shoulders",
+  "setter": "jul789",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "40d324420d8648cca01ceb37c09402be",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1257r15p1270r12p1290r12p1320r15p1322r13p1336r13p1354r13p1383r14p1517r15p1570r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "2075a541fdb39c95150c61ebf065033508a7d4af20b68d0d10ce05ccc748968a",
+  "validation_errors": []
+}

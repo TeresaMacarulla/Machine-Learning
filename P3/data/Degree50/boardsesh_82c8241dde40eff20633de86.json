@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_82c8241dde40eff20633de86.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Keulen bis der Arzt kommt",
+  "setter": "MCD13",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1E5C858B5AF447F3B3E1D065C7A9F795",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1257r13p1308r13p1353r13p1387r14p1447r15p1450r15p1517r15p1536r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d0fcdb9be8ed6072f21ba3a13a2c65616a9d371986b3d96e0ebe8e19e3629a89",
+  "validation_errors": []
+}

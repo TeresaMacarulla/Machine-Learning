@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fc7c0143a2871da1c734c48f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "elmo\u2019s infamous deadlift",
+  "setter": "orcen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "F86A8B50EA7C4EF699C606A8343299E0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1157r12p1171r15p1181r15p1213r15p1220r15p1225r13p1239r13p1251r15p1268r13p1272r13p1299r13p1304r13p1320r15p1335r13p1365r13p1383r14p1447r15p1451r15p1568r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.55,
+  "hold_fingerprint": "8faeb14a359835e18028b2b7bd235b58d158e925ba2eb2d9ec2790c3dfe9cf08",
+  "validation_errors": []
+}

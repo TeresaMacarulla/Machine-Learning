@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4f335532c2457bbc8f8acb55.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "floatin LDDB",
+  "setter": "coudert",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "D6DE3D71F1494AA4803027D5CB6C3C33",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1124r12p1127r12p1209r13p1278r13p1286r13p1287r13p1334r13p1357r13p1392r14p1461r15p1557r13",
+  "display_difficulty": 30.0,
+  "difficulty_average": 29.91,
+  "ascensionist_count": 11,
+  "quality_average": 3.27,
+  "hold_fingerprint": "589e8f9cf284457c1ce5ad917ca9f6474389e0d0c87464d991e925866eb0587d",
+  "validation_errors": []
+}

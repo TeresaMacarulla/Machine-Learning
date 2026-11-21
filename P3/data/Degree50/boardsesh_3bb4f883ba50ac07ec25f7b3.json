@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3bb4f883ba50ac07ec25f7b3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Pogo Me",
+  "setter": "amik23",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "20CE73C22C8E422EA2E5122C52E32B96",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r15p1216r12p1254r12p1319r13p1336r13p1384r14p1507r15p1532r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 4,
+  "quality_average": 2.25,
+  "hold_fingerprint": "cecb554865e008e1f396c4a4735437ca46a68193cd26a6ad3d930addc3a22219",
+  "validation_errors": []
+}

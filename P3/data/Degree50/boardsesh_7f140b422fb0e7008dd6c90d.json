@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7f140b422fb0e7008dd6c90d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "shoulder lockoff",
+  "setter": "jimlim",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "e6490d46ddf04528a1eb591cc26701ec",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1189r12p1204r12p1258r13p1269r13p1270r13p1317r13p1351r13p1381r14p1491r15p1513r15p1538r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 16,
+  "quality_average": 3.6,
+  "hold_fingerprint": "9c804ff7b24c15924582d2b2eed7721981cb7552668ffc8e6c64338f78636556",
+  "validation_errors": []
+}

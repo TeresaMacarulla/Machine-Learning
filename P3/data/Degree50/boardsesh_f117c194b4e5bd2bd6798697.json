@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f117c194b4e5bd2bd6798697.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "double pinch start ouch!",
+  "setter": "ninjanatho",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "2B0D0A5DDD0C413DB8A170DBBAED2B6E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1101r15p1133r15p1168r15p1186r12p1216r12p1236r13p1252r15p1284r13p1286r15p1287r13p1319r13p1355r13p1385r14p1524r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "0da359e4edbd15fda647ead47bc4b6103a23ae1ea3e680a759df993f5055d7ae",
+  "validation_errors": []
+}

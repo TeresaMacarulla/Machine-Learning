@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d994ea494e406a3bea201dd4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Stellwerk",
+  "setter": "serialz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "4501a054480546c998d6c2d34f0b592f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r12p1131r12p1166r13p1214r13p1245r13p1248r13p1315r13p1330r13p1366r13p1379r14p1459r15p1502r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.5,
+  "hold_fingerprint": "c84e2f9745613bbdc9be64e96c407c0599532596253ea37eb4397633ed5de67e",
+  "validation_errors": []
+}

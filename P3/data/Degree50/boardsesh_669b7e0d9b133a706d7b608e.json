@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_669b7e0d9b133a706d7b608e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Jump Forrest Jump!",
+  "setter": "louster",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "18c21a2829d04d5095c5f7cdc215104b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1199r13p1232r13p1269r13p1353r13p1392r14p1458r15p1460r15p1469r15p1494r15p1496r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.67,
+  "hold_fingerprint": "be8de4a1a0e6ea0676a1a22c348c21dad8abb1e7a872b75dc2b0f45b977d985c",
+  "validation_errors": []
+}

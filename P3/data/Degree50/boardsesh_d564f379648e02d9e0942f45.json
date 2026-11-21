@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d564f379648e02d9e0942f45.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Vital Bellingham Q35",
+  "setter": "alexmar",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "E89817F31AA04C07BF70AE8FE07F24D5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1189r12p1217r13p1225r12p1236r13p1292r14p1306r13p1482r15p1500r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "cd12164b256f96d8418521a35845b053ae8f1a8db39e3e53b99197eef26ad118",
+  "validation_errors": []
+}

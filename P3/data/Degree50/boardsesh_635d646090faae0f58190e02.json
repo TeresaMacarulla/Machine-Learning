@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_635d646090faae0f58190e02.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Rock Climbing Gym",
+  "setter": "will_avelar",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7139848F37A640ED8A93512540F4EF4D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r12p1196r13p1202r13p1235r13p1290r13p1356r13p1392r14p1458r15p1461r15p1508r15p1544r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0c6382abc74280c953b5b0c3dd6e528af09acb8fa73414a29fc91fa2ca17effb",
+  "validation_errors": []
+}

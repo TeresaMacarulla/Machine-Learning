@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c90d6f63a5a32928e60c0584.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Mouse Rat",
+  "setter": "ratclaw",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "a46e8f725daf4a6e9575f3afe3025b32",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1122r15p1170r12p1183r13p1184r15p1197r15p1214r13p1253r13p1265r13p1294r13p1347r13p1380r14p1481r15p1507r15p1514r15p1522r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b2f0ec964f9052cc71247df2f4aa022a7c14ceb47c48eaf8d5fb7980981af700",
+  "validation_errors": []
+}

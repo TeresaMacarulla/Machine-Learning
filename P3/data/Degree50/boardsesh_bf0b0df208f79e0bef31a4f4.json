@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bf0b0df208f79e0bef31a4f4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "surf n turf",
+  "setter": "Gav",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3d8b2ea1-2220-4178-8d46-a89c61466209",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1194r12p1461r15p1477r15p1199r13p1253r13p1506r15p1523r13p1455r15p1596r13p1270r13p1342r13p1388r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.5,
+  "ascensionist_count": 6,
+  "quality_average": 4.5,
+  "hold_fingerprint": "5692526421d528e47b22f71d66b63fd2b117074a324203e9e130b306dccf389b",
+  "validation_errors": []
+}

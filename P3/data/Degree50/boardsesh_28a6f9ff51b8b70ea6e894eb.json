@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_28a6f9ff51b8b70ea6e894eb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "power to the pinch",
+  "setter": "sirgavinofthesea",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "BDA8F9941A4740FFB890887D27196A34",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1116r12p1169r12p1206r13p1257r13p1327r13p1340r13p1357r13p1388r14p1456r15p1494r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.96,
+  "ascensionist_count": 85,
+  "quality_average": 3.48,
+  "hold_fingerprint": "703f5fb3837fa842a47dc071e64c7d8a748cdaff162cad8872577d332fe7e9e0",
+  "validation_errors": []
+}

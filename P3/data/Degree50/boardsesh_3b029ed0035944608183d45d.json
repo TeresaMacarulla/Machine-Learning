@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3b029ed0035944608183d45d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "unknown campus #1",
+  "setter": "Hayes",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 10,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "7A32EEDDB7024E2299C798B588818E2D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1243r14p1246r14p1257r12p1259r12p1260r13p1294r13p1297r13p1307r13p1321r13p1347r13p1353r13p1355r13p1382r13p1386r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.06,
+  "ascensionist_count": 20,
+  "quality_average": 3.38,
+  "hold_fingerprint": "aab5e2939107bfd6fb2989bbf8186ddaf781898024b7c9a90c8522034a1a2064",
+  "validation_errors": []
+}

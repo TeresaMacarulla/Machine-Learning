@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_745b70a9199a871215e1a34e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "jb warm up 7",
+  "setter": "jackbeanland",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "20096866b81e446ca3e699ea5ae6cae6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1158r15p1162r12p1194r12p1215r13p1271r15p1283r13p1305r13p1339r13p1343r13p1395r14p1460r15p1531r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 6,
+  "quality_average": 4.33,
+  "hold_fingerprint": "fc6c9a6fae211ea6c41fabb301a6704f16b3d8f0328d59f54dc138cd96ab510a",
+  "validation_errors": []
+}

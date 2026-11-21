@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0d92c7601a38f6c454909b32.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "HOLE.",
+  "setter": "strings",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "B1CB1D373ABB44869D1FF2964E4B845D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r12p1194r13p1246r13p1247r13p1303r13p1336r13p1392r14p1460r15p1543r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "61dd82199ecec8b63b45d22f91abf3f6ec9a3622a9536440c161852b43a52418",
+  "validation_errors": []
+}

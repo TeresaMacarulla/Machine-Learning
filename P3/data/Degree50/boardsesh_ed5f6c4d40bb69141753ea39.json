@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ed5f6c4d40bb69141753ea39.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Sprained Toe",
+  "setter": "eddik",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "35D50A4A92A94D4791ACE2F07138C5E0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1126r12p1130r12p1163r13p1228r13p1231r13p1265r13p1296r13p1348r13p1380r14p1462r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.6667,
+  "ascensionist_count": 6,
+  "quality_average": 2.16667,
+  "hold_fingerprint": "485ad721e39d1defb55850b385cebd84ff9c506d929b66ce552b4dc9ae7d0ddb",
+  "validation_errors": []
+}

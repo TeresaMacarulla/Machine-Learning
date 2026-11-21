@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ca3d96da77128781c15c0c25.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Problematic",
+  "setter": "susu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "c490d885-ecbb-4f3f-aa9f-951901b4259a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1465r15p1248r13p1283r13p1322r13p1272r13p1274r15p1525r15p1292r13p1536r15p1394r14p1210r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.33,
+  "hold_fingerprint": "c5dba9c20f9afef49919968541bcee387d4c5acdf2b9292f945dbdc56a63a417",
+  "validation_errors": []
+}

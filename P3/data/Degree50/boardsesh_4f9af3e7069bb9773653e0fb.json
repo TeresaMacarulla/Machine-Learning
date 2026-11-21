@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4f9af3e7069bb9773653e0fb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "jolt",
+  "setter": "maximotaylorlindsay",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1f341d4b20ff47288d2a7cd385b1be59",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1160r12p1177r12p1230r13p1250r15p1279r13p1301r13p1368r13p1390r14p1483r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "a4fc9c19c9200fc73c492e67d875c19a919ea6856f293b5e2e62c1670f27a499",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f1aa839e14687817c19dc88c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "the whad",
+  "setter": "Matthew_C",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0055C211956241759EBB528C29DC8C1C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1142r15p1214r13p1230r13p1287r13p1320r13p1391r14p1461r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.95,
+  "ascensionist_count": 131,
+  "quality_average": 3.5,
+  "hold_fingerprint": "11dd782b08ca3ca13ad08a87d62faeb9b0eb394221916977479da8f50de528bb",
+  "validation_errors": []
+}

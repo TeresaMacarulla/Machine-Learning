@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1a68e6e4fe51d7c206f1804d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Brebis des steppes",
+  "setter": "DelireEscalade",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "166cc3f90c64406b8830e6d88a24885d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1157r12p1208r15p1223r13p1257r13p1276r13p1306r13p1340r13p1355r13p1390r14p1447r15p1450r15p1473r15p1482r15p1489r15p1515r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.93,
+  "ascensionist_count": 30,
+  "quality_average": 3.48,
+  "hold_fingerprint": "ea34f8e84d25d9d13be7bb64dabca50c03bae56e8c39acca36cdd2527b004a06",
+  "validation_errors": []
+}

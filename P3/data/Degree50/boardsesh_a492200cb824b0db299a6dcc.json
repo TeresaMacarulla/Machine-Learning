@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a492200cb824b0db299a6dcc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "SA Kilter1",
+  "setter": "pgsantaclara",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "6421BB1ECD1340F88402D14BBECD5D2C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1082r15p1149r12p1161r15p1198r15p1214r13p1229r13p1280r13p1281r13p1335r13p1384r14p1557r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1ff06a0372587f5046c9983c11c8477ce7571d349d26d4eca7a50a832ee16a65",
+  "validation_errors": []
+}

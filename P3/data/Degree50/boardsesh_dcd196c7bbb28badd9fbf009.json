@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dcd196c7bbb28badd9fbf009.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "hjh",
+  "setter": "micahgreenlee",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "30EC343C572D43D7A2428ACB88F3F54B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1143r12p1159r15p1210r12p1235r15p1247r13p1275r15p1281r13p1325r13p1336r13p1371r13p1374r13p1395r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.22,
+  "ascensionist_count": 10,
+  "quality_average": 3.44,
+  "hold_fingerprint": "170be3b6309b2e60ec5137658598b52232f79b2496398682839e87477927124b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_00c1324688e721f0a4d4415b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "100 mph",
+  "setter": "Maxmeixenn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "7fb20800-66a9-43a9-85af-8befcbfa959b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1113r12p1455r15p1182r13p1229r13p1294r13p1311r13p1387r14p1389r14",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3e05e854707d7759a20fa86ba4001a1e377d7b440fd512907c6c0ad2c3af16ea",
+  "validation_errors": []
+}

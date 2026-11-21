@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7241e16ff89b57716a93217b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Wobble Gap",
+  "setter": "dannyryan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "BD8EEDBA08B44FF2847EEB94B6B998CD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1201r12p1237r12p1269r13p1300r13p1305r13p1351r13p1381r14p1382r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "dc372e18298374e4adb60ef970ff623bd5f26e8b8d6801348941226625c3c863",
+  "validation_errors": []
+}

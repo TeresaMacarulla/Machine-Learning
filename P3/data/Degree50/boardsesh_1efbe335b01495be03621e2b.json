@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1efbe335b01495be03621e2b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Super tsunami rep",
+  "setter": "walkytwotime",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "49E04DA3C8224CC29EDCE0192461BF2F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1181r13p1209r13p1230r13p1251r13p1252r13p1321r13p1355r13p1392r14p1461r15p1464r15p1476r15p1487r15p1540r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "2a3933845341a6baeceb01d743a0befc5adb985b4588d816f693926612dcc389",
+  "validation_errors": []
+}

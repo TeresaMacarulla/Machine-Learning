@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c8cf9b84b567dd4fb171c979.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Non-Stop",
+  "setter": "matt_fultz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "278544DD90FD4B1AA6555E9BD2BFEEF6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r12p1209r13p1222r13p1272r13p1315r13p1318r13p1320r13p1379r14p1450r15p1482r15p1518r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.03,
+  "ascensionist_count": 124,
+  "quality_average": 3.21,
+  "hold_fingerprint": "bd099de2ad787efd1ff0d48874eef83225c0410f5b7fff5f7dcb9454de7ab727",
+  "validation_errors": []
+}

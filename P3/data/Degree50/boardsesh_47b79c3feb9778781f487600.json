@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_47b79c3feb9778781f487600.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Bone Zone",
+  "setter": "tconway",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 12,
+    "foot": 11
+  },
+  "source": "boardsesh",
+  "source_uuid": "95B987BE3B444FAA88BB2A0DC15668D4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1127r12p1149r13p1155r13p1163r13p1169r13p1201r13p1224r13p1240r13p1291r13p1342r13p1353r13p1355r13p1367r13p1379r14p1449r15p1451r15p1452r15p1455r15p1460r15p1464r15p1482r15p1491r15p1518r15p1544r15p1566r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "701a8d01c2138a2d4a7143e09fb62ed5618c23e1b93e6aa2db46db12147735c2",
+  "validation_errors": []
+}

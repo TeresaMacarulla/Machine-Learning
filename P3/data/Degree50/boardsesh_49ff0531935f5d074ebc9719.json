@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_49ff0531935f5d074ebc9719.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Anor Londo",
+  "setter": "Eliasdem",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "4E85E327159440E782ED58CA762E4B0F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r12p1163r12p1201r15p1247r13p1249r15p1255r15p1268r13p1302r13p1349r13p1387r14p1466r15p1566r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9631014bbbc8617809ed0be57b662e760017a717f2c6700932cda9e6283c1aa7",
+  "validation_errors": []
+}

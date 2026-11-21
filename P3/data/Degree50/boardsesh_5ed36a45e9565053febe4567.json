@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5ed36a45e9565053febe4567.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Leapfrog \ud83d\udc38",
+  "setter": "MikeyS07",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0AA484298EC6458C8A3BE437ABB3EBAC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1144r12p1181r15p1200r12p1215r13p1284r13p1304r13p1353r13p1386r14p1460r15p1593r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "b88602a7b1e93d37176d103bd1fd8c867a83acdf81e31a03adabb07d98caa721",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1b195b02d30f5b7143742538.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "campus 360",
+  "setter": "Vpatin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "672442241662487491340e8227c115a4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1204r12p1258r12p1327r13p1342r13p1355r13p1389r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.6,
+  "ascensionist_count": 5,
+  "quality_average": 2.4,
+  "hold_fingerprint": "df7fc3e8cd09e52a9180bedf91df923e223c1e256a646e8126407f43879f40b0",
+  "validation_errors": []
+}

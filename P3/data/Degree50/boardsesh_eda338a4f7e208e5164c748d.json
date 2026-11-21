@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eda338a4f7e208e5164c748d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "cadaver puppeteer",
+  "setter": "joelisshaw",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "BB8F3A4C88A045B88C9FA9D98FF45D5E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1207r13p1256r13p1307r13p1353r13p1369r13p1383r14p1482r15p1491r15p1518r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "55a7ed0c191b020128d5e31700b503a687da6bd4f3a3a8d1b9ad5100caed322a",
+  "validation_errors": []
+}

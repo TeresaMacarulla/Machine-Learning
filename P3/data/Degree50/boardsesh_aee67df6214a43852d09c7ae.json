@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aee67df6214a43852d09c7ae.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "noFeetNoSend",
+  "setter": "bouldersgallery",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "54D59460F65340039371A216CB645C14",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1148r12p1183r15p1186r12p1213r15p1235r13p1271r13p1285r13p1319r13p1350r13p1387r14p1487r15p1505r15p1514r15p1521r15p1530r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e7f6ff8b7578bb23462dc6f7b3b7af2f9960e46ed3eb186890129c61d177107c",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_11e96212aa550004566a0c26.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "basic 6",
+  "setter": "Rownne_climbing_pilates",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "38DEAF11DFA640B89A5FB9945DB55E28",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1117r12p1153r12p1188r13p1218r13p1267r13p1270r13p1336r13p1385r14p1454r15p1490r15p1504r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "47e57811ecba07690e54afc3130bd3a6e72cb72a1b30013a261cd34aa27788d0",
+  "validation_errors": []
+}

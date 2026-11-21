@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dd543cffab5c112d1ca32ecb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "for Alice",
+  "setter": "alexgomez",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "BB290EACDE04418EA7DBD1C9F4F862A4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1117r15p1166r12p1171r15p1198r13p1203r15p1214r15p1234r15p1236r13p1268r13p1302r15p1315r13p1351r13p1384r14p1455r15p1547r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 12,
+  "quality_average": 3.33,
+  "hold_fingerprint": "f988f88a5fae4a02dd8a5a1d83f4aa8f37aff2dd7712b8af6c6c9d35d93cde1d",
+  "validation_errors": []
+}

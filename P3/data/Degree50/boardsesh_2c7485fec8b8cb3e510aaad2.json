@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2c7485fec8b8cb3e510aaad2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Geomorphologie",
+  "setter": "svenbeh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "D5C2E2335C6844B3BE21E2D6C5F3916A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1160r15p1196r12p1206r15p1234r12p1272r13p1302r13p1340r13p1393r14p1533r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.55,
+  "hold_fingerprint": "db52de4aa7c502c11ea6f38df577b5158f197e5b8dd065749c02d831a11f435a",
+  "validation_errors": []
+}

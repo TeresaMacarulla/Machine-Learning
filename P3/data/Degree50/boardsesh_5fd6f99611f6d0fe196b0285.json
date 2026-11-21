@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5fd6f99611f6d0fe196b0285.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Precision Testing",
+  "setter": "therealrockclimber",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "AA9B5574A43F424D9926944B9AC76E79",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1164r12p1179r12p1234r13p1256r13p1273r13p1325r13p1392r14p1476r13p1527r13p1544r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "e8625d1f040b8567781ae369ad12424992c6be0bf1699dcc86cc80c3c2f57b62",
+  "validation_errors": []
+}

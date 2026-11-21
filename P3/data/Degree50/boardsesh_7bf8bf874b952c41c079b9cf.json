@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7bf8bf874b952c41c079b9cf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Don't lose the feet",
+  "setter": "Daan234",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "036a1f01d934427a9aade017b8afbf44",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1190r12p1220r12p1273r13p1304r13p1355r13p1385r14p1451r15p1482r15p1498r15p1516r15p1583r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.57,
+  "hold_fingerprint": "b31b08cdbed0e4763c3abc7d230c90015653959e2fbb12da80d969ef35baffd8",
+  "validation_errors": []
+}

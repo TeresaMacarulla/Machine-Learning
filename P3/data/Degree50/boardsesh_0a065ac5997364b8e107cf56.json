@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0a065ac5997364b8e107cf56.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "chuff low",
+  "setter": "hankstjohn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "AA7C8DC771EE46AB959931C94B3BE940",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1111r15p1158r12p1267r13p1269r13p1281r13p1294r13p1322r13p1339r13p1394r14p1465r15p1520r12p1553r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3accc7c25a0c2a02ecee59977e6ba12807e88b042b3e500385627785b89eb965",
+  "validation_errors": []
+}

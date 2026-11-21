@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_73f8ead69447165b2e50e41b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "dr. figa",
+  "setter": "bloccstation",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5495e5591b864fe688f420a72b715832",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1239r12p1254r13p1274r12p1280r13p1285r13p1332r13p1335r13p1345r13p1379r14p1536r15p1537r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.88,
+  "ascensionist_count": 8,
+  "quality_average": 4.25,
+  "hold_fingerprint": "4f27ac46d18c870352d478cb1fff48b6df843a5a274e9d1f43ff15ed61f09ec5",
+  "validation_errors": []
+}

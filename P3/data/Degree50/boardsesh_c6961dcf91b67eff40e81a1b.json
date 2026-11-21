@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c6961dcf91b67eff40e81a1b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "a lil footwork nbd",
+  "setter": "arosinski",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2DE45B08890D48CBB14C8EB189561729",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1102r15p1157r12p1191r12p1241r13p1255r13p1300r15p1307r13p1357r13p1373r13p1387r14p1447r15p1535r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "30108ccac97efa1e6a6c892e494310ae1c20ca751175758a74837fa91d7097bf",
+  "validation_errors": []
+}

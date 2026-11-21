@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2b0faf6b483dab3f2672e548.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "TEAM RCF #3",
+  "setter": "florencepianin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "35FDAEF796EB45FFA93F120931279265",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1182r12p1198r12p1204r15p1213r15p1236r13p1271r15p1284r13p1337r13p1351r13p1386r14p1557r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.33,
+  "ascensionist_count": 3,
+  "quality_average": 4.67,
+  "hold_fingerprint": "34735ed951c8d564508f8e84ec01c5c2630b568b0524a0787c69b682e509b1a9",
+  "validation_errors": []
+}

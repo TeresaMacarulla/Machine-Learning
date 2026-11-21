@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_256a230f5a78d19f19355aa7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Rampage",
+  "setter": "gummi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "B6A44112B9E246618D95B425B174C087",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1217r12p1230r12p1254r13p1283r13p1322r13p1368r13p1384r14p1494r15p1495r15p1497r15p1523r15p1532r15p1557r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "037a319f1d80b889459a9a0048e4f7cc1a9d4f53ea64d23f6161b1d2f9fae53f",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_06f35153da36b205ae1cb6fa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Big Campus",
+  "setter": "GabeA",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "7354c906d5fa439ab3d9a95f1c72b9fe",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1215r12p1219r12p1284r13p1302r13p1387r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.5,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "b3ed6f1626e026371ce097f1017775ccc9df54968f24d769df16b35e1e42f97b",
+  "validation_errors": []
+}

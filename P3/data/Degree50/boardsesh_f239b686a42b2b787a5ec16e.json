@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f239b686a42b2b787a5ec16e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Left-handed bandit",
+  "setter": "akaeallday",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "DBE76FADD50C4E6188E9B2E1F50BD437",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1133r15p1155r12p1214r15p1219r13p1223r13p1270r13p1272r13p1302r13p1331r13p1335r13p1379r14p1383r14p1499r15p1556r15p1559r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.67,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "f88bb8e0842f6323d3266f07a190376309ff89a20687c1163ae523ee641d376e",
+  "validation_errors": []
+}

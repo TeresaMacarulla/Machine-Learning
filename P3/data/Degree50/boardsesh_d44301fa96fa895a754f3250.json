@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d44301fa96fa895a754f3250.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Bump-a-Jump",
+  "setter": "Leanna",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2a734e270151405980456d367d6c0904",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1149r12p1218r13p1257r13p1274r13p1340r13p1389r14p1509r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "b7d036eccfd3f4b8bffa4241128d4d144575e38db2ca3b63257ffa024a2f29e1",
+  "validation_errors": []
+}

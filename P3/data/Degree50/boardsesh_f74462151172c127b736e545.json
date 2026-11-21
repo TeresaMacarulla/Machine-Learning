@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f74462151172c127b736e545.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Short not Stonk",
+  "setter": "bloop",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "a2b43a6f0e1a4a64824965607914e1a7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r15p1180r13p1214r15p1230r13p1237r15p1285r13p1352r13p1390r14p1466r15p1476r12p1484r12p1521r13p1567r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 4,
+  "quality_average": 5.0,
+  "hold_fingerprint": "66258ad66d551423e3748b9ac5ce87e13ade64ea8d1aa52ac25a694283c3713e",
+  "validation_errors": []
+}

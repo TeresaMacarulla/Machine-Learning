@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_415da693e1a015100e6322c8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "warmup12",
+  "setter": "Julius C",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "e0a8e6f6-f036-42ac-ace4-8b175dbd072c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1170r12p1223r13p1270r13p1302r13p1315r13p1366r13p1073r15p1480r15p1495r15p1540r15p1379r14p1555r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 4.0,
+  "hold_fingerprint": "9298ff566ed22c2747acac4c0fc280902136d91fed5867865263f1c1cac9ee6c",
+  "validation_errors": []
+}

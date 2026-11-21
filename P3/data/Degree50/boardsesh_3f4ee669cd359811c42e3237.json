@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3f4ee669cd359811c42e3237.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "This isn't the issue",
+  "setter": "finalpatch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "f21a3fcc1d6747978d6fc24530267e40",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1142r12p1143r12p1234r13p1247r13p1302r13p1340r13p1391r13p1394r14p1464r15p1495r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 47,
+  "quality_average": 3.48,
+  "hold_fingerprint": "b29d6aa3f3102069fce252651232c486fb8bda6efab49f7aac2aeb9c7d23fa8d",
+  "validation_errors": []
+}

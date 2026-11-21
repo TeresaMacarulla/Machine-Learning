@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_19bba99cec1b1fbca9ececae.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Pinchu",
+  "setter": "VadimDelakian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "036681E4BDF9436E852329AEB4EF5394",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1148r12p1192r15p1196r13p1228r13p1268r15p1298r13p1319r13p1332r13p1368r13p1372r14p1474r15p1492r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.94,
+  "ascensionist_count": 17,
+  "quality_average": 3.24,
+  "hold_fingerprint": "21a2a4d21c601283a8dbab8e021f979af3b023fec37325e926b5d7b1e6734e4b",
+  "validation_errors": []
+}

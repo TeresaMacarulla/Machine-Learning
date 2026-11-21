@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ffaa98eee9b3ee296bbb0de3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "1001 Steil",
+  "setter": "JonasMygiakis",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "F2BBDE5118E64152BCE7C927E17E4802",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1173r12p1203r13p1214r15p1237r13p1268r13p1317r13p1331r13p1382r14p1450r15p1480r15p1496r15p1549r15p1556r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.98,
+  "ascensionist_count": 6541,
+  "quality_average": 3.3004745140058165,
+  "hold_fingerprint": "fc2a2e210df61e3f1aecb0a14152eca8c5251b1052b139f4ef1b0502608b7079",
+  "validation_errors": []
+}

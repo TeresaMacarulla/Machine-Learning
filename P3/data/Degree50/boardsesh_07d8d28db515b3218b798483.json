@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_07d8d28db515b3218b798483.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "helsinkilter",
+  "setter": "malo.guidoni",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "a82d8c4038c946188bef0a1c969529ef",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1167r12p1256r12p1312r13p1315r13p1324r13p1336r13p1339r13p1379r14p1479r15p1490r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e4c3abfb6c61f61032f982b74816a199c05ab1ed8481dbe897a4f8f4b6840bfb",
+  "validation_errors": []
+}

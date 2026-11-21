@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c2d817532d484edf65d403f7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Rainstorm",
+  "setter": "importedbean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9228B3963C05423595739398DB1B87C0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1132r12p1144r15p1147r12p1199r15p1215r13p1231r15p1263r13p1285r13p1314r13p1384r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.99,
+  "ascensionist_count": 820,
+  "quality_average": 3.269670731707317,
+  "hold_fingerprint": "899d6ae71175e43f0b9ac7a80b3fbfcda5c6415e07874c931b3a5210c06ae402",
+  "validation_errors": []
+}

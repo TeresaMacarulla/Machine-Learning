@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6d97f06243ae26c6a1028957.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "This Is Aid",
+  "setter": "thisisaid",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "494caa0e826c420e9f7925f6f4821b8f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r12p1145r13p1215r13p1254r13p1255r13p1310r13p1340r13p1371r13p1383r14p1458r15p1517r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bc5d7356f9a1cf15bcc09bcb17d8752f7471aa64a77f125c89e0cdc786c5211d",
+  "validation_errors": []
+}

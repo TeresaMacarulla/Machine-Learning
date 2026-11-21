@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b0cca777871850e7b1254cbf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "ah",
+  "setter": "chaku7",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2715a7fb-8189-434b-a987-bba27e3d5001",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1322r13p1372r13p1269r13p1233r13p1196r13p1177r12p1485r12p1085r15p1504r15p1392r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.5,
+  "ascensionist_count": 3,
+  "quality_average": 3.5,
+  "hold_fingerprint": "14650106552f0c2b8afccf2ff64c78dda243f4900e8bccc692481dfb0001aceb",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d71c45414bfae94d0cfe47eb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Charpentier en Cabane",
+  "setter": "Saltho03",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "DE10058DC76547429D7F656C6B8BF120",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1119r12p1222r13p1238r13p1290r13p1358r13p1392r14p1451r15p1498r12p1518r15p1569r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "3fa5284dd3bd7e5027f7e4a154c954ca0e9a0fcd18488e9f173bd0ab16f3a9a7",
+  "validation_errors": []
+}

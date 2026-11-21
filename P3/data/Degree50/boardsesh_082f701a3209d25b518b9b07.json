@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_082f701a3209d25b518b9b07.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "right turn",
+  "setter": "dferolin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "C719A54285B54A498375FC53CA22EA88",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1267r13p1355r13p1391r14p1461r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "0f120b022413fbb89a873cf5e9d0019fe5943d96515d19f0af3d595800085785",
+  "validation_errors": []
+}

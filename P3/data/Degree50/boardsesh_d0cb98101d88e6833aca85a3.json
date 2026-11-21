@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d0cb98101d88e6833aca85a3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "casual v3",
+  "setter": "theclimberman09",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "d36472a5de8b4bcea3e4dbc7ab15c3b5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1220r13p1270r13p1324r13p1338r13p1373r13p1387r14p1471r15p1571r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.1,
+  "ascensionist_count": 10,
+  "quality_average": 3.4,
+  "hold_fingerprint": "39614d20413a43055ec18ff00340a6888d8fda959403011cfc5f9601a42875b6",
+  "validation_errors": []
+}

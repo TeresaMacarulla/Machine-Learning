@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f40a5125a9f5da0992d38324.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Looney Tooth",
+  "setter": "dastrobu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "58717AC9C3E849C4BC5E8C6EAADF160A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1186r13p1222r13p1253r13p1287r13p1301r13p1387r14p1447r15p1451r15p1514r15p1518r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.67,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "5fd7bd28f0d351012073b8951913f3a2c36bb510f81cde1848330fac5978b0d2",
+  "validation_errors": []
+}

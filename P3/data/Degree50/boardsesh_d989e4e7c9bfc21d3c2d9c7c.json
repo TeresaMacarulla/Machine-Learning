@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d989e4e7c9bfc21d3c2d9c7c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "guard up",
+  "setter": "frazam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "b7275131-a7f1-490c-9778-3f7d7cc27f6e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1228r12p1215r13p1521r12p1111r15p1232r13p1520r15p1505r15p1561r13p1205r15p1127r15p1269r13p1356r13p1393r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "aa7c40fb0cecf20eded5a9ff7ea1df1667b7d4d25006ea6ff3757274719ceae1",
+  "validation_errors": []
+}

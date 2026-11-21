@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f0c693b81973ba567d1b9258.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Atzig af",
+  "setter": "Chris.Schweiger",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E62F6501CEB7411CA5A29601BBCC1A09",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1182r12p1283r13p1388r14p1456r15p1460r15p1504r15p1521r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "3d224fc641e8b0b7eaa1331a8a681a3f19952c14674fa354dc096df8427efa1a",
+  "validation_errors": []
+}

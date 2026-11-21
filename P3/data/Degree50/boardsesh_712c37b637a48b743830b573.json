@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_712c37b637a48b743830b573.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Gravit\u00e9 z\u00e9ro",
+  "setter": "baptiste123456",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "50f527d5a11f44239f4ed5265d372fe8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1192r13p1218r15p1227r13p1246r13p1247r13p1300r13p1302r13p1387r13p1391r14p1461r15p1465r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "d7ea542befc7706172c25bcfe200194041ec6f01a300d7f399ec30e69e753065",
+  "validation_errors": []
+}

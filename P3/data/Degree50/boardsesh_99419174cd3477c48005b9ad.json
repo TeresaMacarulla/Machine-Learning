@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_99419174cd3477c48005b9ad.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "fat knee",
+  "setter": "chalksnorter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "006C198CB81644E18CD9B6FA06660DF0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1154r15p1162r15p1167r12p1169r15p1202r12p1250r13p1251r15p1289r13p1356r13p1367r14p1371r13p1544r15p1557r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.67,
+  "ascensionist_count": 7,
+  "quality_average": 4.0,
+  "hold_fingerprint": "56f2faea2fd11aa12044abce025d58ed0654a671cf134b0ee053834102efd820",
+  "validation_errors": []
+}

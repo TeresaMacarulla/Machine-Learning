@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_402d4f015b32fe2843ee1e4a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "eien",
+  "setter": "Eli_Climbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0AD17CD712A242948CDBB62DA5195017",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1177r12p1228r12p1256r15p1284r13p1290r13p1318r13p1320r13p1393r14p1484r15p1514r15p1520r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "abff83aaed5022994f085150d400924dd1298f0f4cb312971277bd82b411c865",
+  "validation_errors": []
+}

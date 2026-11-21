@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e89f79905f628399ac005dba.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Boom Boom Room",
+  "setter": "bradleyheller",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "09E5019A769F4B69A7E0004F8FFFE843",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r15p1184r12p1187r12p1271r13p1272r13p1356r13p1392r14p1453r15p1506r15p1508r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "398d8e875b3ebd0b4cadeb691e1c8ba17d299ec0f82591d8e5de74f69e1a02b6",
+  "validation_errors": []
+}

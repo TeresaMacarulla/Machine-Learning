@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_40b2efeec29dea7cb9b6afd6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "KAT C 3",
+  "setter": "spidermon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "7e5284b6a01e48d682e0212d4cac34e1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r12p1230r13p1248r13p1299r13p1338r13p1388r14p1457r15p1460r15p1474r15p1503r15p1519r15p1561r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "41eac33674eb28fa1c5c18db07c8a91b89edf2d4fdc713ded676345d64143b21",
+  "validation_errors": []
+}

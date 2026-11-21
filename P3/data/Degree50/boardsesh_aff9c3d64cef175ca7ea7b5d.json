@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aff9c3d64cef175ca7ea7b5d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Aotaso uno",
+  "setter": "ROKIO",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "ae5b123a-3cf3-49c1-8079-c86746d4dae2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1459r15p1195r13p1233r13p1166r15p1301r13p1304r13p1239r15p1373r13p1391r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 2,
+  "quality_average": null,
+  "hold_fingerprint": "16b4dcafef3c6cc1712f9179dea9869781f319d90e0bd40646390f9b3819e2d7",
+  "validation_errors": []
+}

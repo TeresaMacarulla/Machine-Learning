@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_25309a0fd6a5f140f10989d6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Alcoholic Warmup",
+  "setter": "ND_climbing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "aba83169a656403ea4b95062051305f4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1145r12p1179r13p1248r13p1262r15p1302r13p1314r13p1385r14p1458r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "21c392dba5ac43d268b09b4cce23a7af55877302399be232cd492b61343f39da",
+  "validation_errors": []
+}

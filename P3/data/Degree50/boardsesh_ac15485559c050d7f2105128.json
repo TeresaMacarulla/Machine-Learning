@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ac15485559c050d7f2105128.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "unflappable (lie) ",
+  "setter": "n31lr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5d64cb43-9911-40e4-bb3b-0fa101b7a588",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1308r12p1276r12p1359r13p1353r13p1302r13p1234r13p1169r15p1200r13p1198r13p1145r15p1230r13p1263r14p1232r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "9cdf878b0ccf9029ebc5f293927018fc212caaf0126ed552d2544084f1fd14ae",
+  "validation_errors": []
+}

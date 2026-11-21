@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fc2ba58e62805953eac77af1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "CaNickel",
+  "setter": "CorvinD",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "597FA9E134E7496A9CAAAE5BF781750C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1076r15p1155r12p1168r15p1241r13p1273r13p1325r13p1355r13p1388r14p1518r15p1554r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "7763e6f8a9b1881e3b13124b9672dc3da325d663a75d0ceed5838107d0dab925",
+  "validation_errors": []
+}

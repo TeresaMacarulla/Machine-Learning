@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3522187e0874017b6272998c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Granite Lemur",
+  "setter": "troyf42",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "afe5685b-53bd-4ca7-866b-7e4fdd7e9bfc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1271r13p1173r12p1186r13p1451r15p1450r15p1156r12p1272r13p1517r15p1515r15p1339r13p1478r15p1388r14p1535r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "84231d247670319bd971367192a5752cf22f8e136d8b6c9424502ec40883ee9f",
+  "validation_errors": []
+}

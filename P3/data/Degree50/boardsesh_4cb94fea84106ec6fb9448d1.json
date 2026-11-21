@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4cb94fea84106ec6fb9448d1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "powered down",
+  "setter": "tonyberlier",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "bc76508f37e94b9c8e6e4a0fa34eb27e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1170r12p1222r13p1235r13p1290r13p1320r13p1368r13p1372r13p1384r14p1450r15p1455r15p1508r15p1565r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "194718e4fe4d8ae92ccb42572ee82893bb8fe33ffe51d0baa5e18e797e9f0fc2",
+  "validation_errors": []
+}

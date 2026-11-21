@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_18af00685e6a1c93cb51e879.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Rankine Cycle",
+  "setter": "Hiro10",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "a1fb894906884bf39659ae3fd6697c60",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1133r12p1165r13p1188r15p1218r13p1269r13p1286r15p1304r13p1351r13p1365r14p1368r14p1459r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.22,
+  "hold_fingerprint": "9de54ce44ebbe6d737bee1e0f658cb757d00a322b35a41c998af4f450db54132",
+  "validation_errors": []
+}

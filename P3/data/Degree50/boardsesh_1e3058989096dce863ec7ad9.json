@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1e3058989096dce863ec7ad9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Blade",
+  "setter": "NoahWheels",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "2b78ea5a-8d37-424c-88e0-aeb399e1c9e0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1497r15p1272r13p1460r15p1572r15p1322r13p1376r14p1224r15p1514r13p1248r13p1160r15p1128r12p1089r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "4daaf24735f430b5f98a638378d061f4c79bebd1aa3c1cc58c89980426c30f50",
+  "validation_errors": []
+}

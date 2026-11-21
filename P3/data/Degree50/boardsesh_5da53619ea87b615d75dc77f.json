@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5da53619ea87b615d75dc77f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Feet Finder ",
+  "setter": "garrettlewis",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "6db223f3-cd14-4555-94cb-c3a058025337",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1455r15p1460r15p1195r13p1231r13p1483r15p1294r13p1492r15p1312r13p1347r14p1246r13p1227r13p1096r15p1091r15p1163r12p1145r12",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.9,
+  "ascensionist_count": 25,
+  "quality_average": 3.9,
+  "hold_fingerprint": "570087b48e79ca71ac58d9193851b5787b0ba40b5fd47b912e3686a7d6baf440",
+  "validation_errors": []
+}

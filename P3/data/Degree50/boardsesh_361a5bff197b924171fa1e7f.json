@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_361a5bff197b924171fa1e7f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Lock-Off Trainer",
+  "setter": "mattyclimbyaya",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "d27da395-f0b6-43f5-b805-a85e8a3ea424",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1517r15p1234r12p1578r13p1321r13p1185r12p1367r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "4934891eed8fadda8d4575fbc1dd853461041c7501327b44ee1b71fd46655f32",
+  "validation_errors": []
+}

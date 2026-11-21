@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_16016bc2e5658ea201ee5efe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Skip, Flip, Dip",
+  "setter": "theunaphotobomber",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5de789d3919845faaa07396df82091b6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1169r15p1218r13p1269r13p1270r13p1290r13p1326r13p1395r14p1458r15p1461r15p1496r12p1516r15p1536r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "7fde164f567ba12b79653f26f4064280ac37542f27df44b765f4e25e49e73837",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8468acaeefee52365e5d108d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "lighthouse keeper",
+  "setter": "ebb.flo.climb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "57d00e8e-c2b0-43f7-b7c9-2ffe92136762",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1307r13p1355r13p1267r13p1143r12p1263r13p1169r15p1131r15p1461r15p1458r15p1197r13p1269r13p1288r13p1257r15p1205r15p1372r13p1386r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.17,
+  "hold_fingerprint": "fc8caecdcbe0a7746b107b68cd977dc0b50c2edb25cd97fed7de18874df57fa0",
+  "validation_errors": []
+}

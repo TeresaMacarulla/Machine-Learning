@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b7e1a19a9a5105e28433517d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "bat with one eye",
+  "setter": "Maxmeixenn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "16d97043-5bcd-40ee-929e-ba89c2148697",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1505r12p1181r12p1218r13p1380r14p1271r13p1171r15p1087r15p1272r13p1544r15p1336r13p1369r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.56,
+  "ascensionist_count": 11,
+  "quality_average": 3.5600000000000005,
+  "hold_fingerprint": "32a62ec155c5e034c545c51df69da873534b763307abb8c03bbc462e7f2d018a",
+  "validation_errors": []
+}

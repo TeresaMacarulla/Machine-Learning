@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_16fe1b06ffac5d779018f89b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "we live in a matrix",
+  "setter": "almonting",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "83814BB0E2D5469D84E3A07E2662BB79",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1085r15p1147r12p1203r13p1286r13p1339r13p1387r14p1456r15p1460r15p1469r15p1478r12p1513r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.67,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "2191c563b8cb39f555eef12d2e0f037e510ceb642ba91d48605ea407a77b5122",
+  "validation_errors": []
+}

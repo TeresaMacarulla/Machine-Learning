@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3e3abc30e731a42a18854c53.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "vice grip",
+  "setter": "SaxonCasi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "57330f1cea514199a2750ae040b70877",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1163r12p1164r12p1252r13p1285r13p1357r13p1379r14p1385r13p1387r13p1457r15p1545r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "7c69ed4b73f802c2061e54e6a55ab1b740b5ed0b1f69a3e9b52793a2b7e39a75",
+  "validation_errors": []
+}

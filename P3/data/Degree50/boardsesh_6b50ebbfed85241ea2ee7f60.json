@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6b50ebbfed85241ea2ee7f60.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Daim",
+  "setter": "ryanneedles",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ed6da24108de41858dc81b4f75cf6895",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1177r12p1242r15p1249r13p1270r13p1271r13p1273r13p1325r13p1392r14p1485r15p1548r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.02,
+  "ascensionist_count": 280,
+  "quality_average": 3.28,
+  "hold_fingerprint": "33119969406841484fbe336cd6cd98bf8fe965e9d6adefb16edb0f0e65742025",
+  "validation_errors": []
+}

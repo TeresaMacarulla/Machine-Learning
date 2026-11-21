@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1da675ddc85c8e5ea3563af7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Finger Pointer",
+  "setter": "RavioliTriceps",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "B08BA2CDA6EA4365A9EDC2BCDEB23BE2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1104r15p1121r12p1137r15p1155r12p1169r13p1185r13p1200r13p1234r13p1268r13p1304r13p1353r13p1387r14p1447r15p1451r15p1534r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.85,
+  "ascensionist_count": 27,
+  "quality_average": 3.52,
+  "hold_fingerprint": "0d81236346ad4ab268d57c4dee20ca6e7a7d02db20871667137eb48aa207eb72",
+  "validation_errors": []
+}

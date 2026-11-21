@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fe64d07305844c9ad8fe0b2a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Violent noise",
+  "setter": "sushiii",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7ED9BA65F8394EB1A590A8B9888409D8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1205r15p1235r12p1289r13p1320r13p1371r13p1384r14p1454r15p1459r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "4cb2ffa466eee36dcbfcff261f237284fa6174e5c560d911b1ca33a6b4c8a759",
+  "validation_errors": []
+}

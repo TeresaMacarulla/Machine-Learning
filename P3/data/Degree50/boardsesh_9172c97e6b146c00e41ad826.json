@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9172c97e6b146c00e41ad826.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "pinch manifestation",
+  "setter": "Manob",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "574cd242d354411ea5b420317a02c17e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1139r12p1186r13p1254r13p1285r13p1357r13p1391r14p1453r15p1499r15p1514r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "99d3c56925e7ea8f0f20883c25f167228c988486bd96dae68ac4401c2642dbd9",
+  "validation_errors": []
+}

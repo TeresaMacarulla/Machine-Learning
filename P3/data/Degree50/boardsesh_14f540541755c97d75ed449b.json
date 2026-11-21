@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_14f540541755c97d75ed449b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "KB_Legend BLOC6",
+  "setter": "Kilter_Contest_Bastille",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A57141DE00EB49B2B7CCC90584425F78",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1077r15p1200r15p1204r12p1212r15p1240r12p1284r13p1302r13p1306r13p1330r13p1334r13p1380r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "7808c185fda2db1f575fe8efbd2178c3eeebc2c994b831574e4de0ca2ea31d61",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f1a63d0837a663dda551b81b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "pamo",
+  "setter": "yarden.pilpel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "5242b33bf059454985c94e152e913652",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r12p1230r13p1250r13p1298r13p1332r13p1338r13p1380r14p1382r14p1460r15p1467r15p1469r15p1475r15p1519r15p1547r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "3e8aaf80ee51678716a6b984c2a4581c54f882e6dc5244bd336bccb0e0b71183",
+  "validation_errors": []
+}

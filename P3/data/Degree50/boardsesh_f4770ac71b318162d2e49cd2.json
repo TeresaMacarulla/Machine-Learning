@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f4770ac71b318162d2e49cd2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "atomic land",
+  "setter": "virginie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "00CFB7C96708417FB0FB18837389CC8F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1190r12p1205r12p1255r13p1269r13p1317r13p1321r13p1351r13p1382r14p1449r15p1548r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.86,
+  "ascensionist_count": 7,
+  "quality_average": 3.29,
+  "hold_fingerprint": "d30f5e75c67a1d1da3c73a6e8833be511b93cee9dc5524d3a7655486c8d30d05",
+  "validation_errors": []
+}

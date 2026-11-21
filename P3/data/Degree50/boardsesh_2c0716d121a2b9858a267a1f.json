@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2c0716d121a2b9858a267a1f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "for the hangar coaches only",
+  "setter": "kitkatporty",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "9D2AF8176C77404CA80D77E79EBCEAE6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r15p1186r12p1203r12p1222r13p1239r13p1273r13p1289r13p1339r13p1340r13p1373r13p1389r14p1472r15p1488r15p1516r15p1526r15p1560r15p1562r15p1568r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.44,
+  "hold_fingerprint": "c2ec5b3073185badb228f00c4c9e882e626c84984655bf25a13c0abd1041d151",
+  "validation_errors": []
+}

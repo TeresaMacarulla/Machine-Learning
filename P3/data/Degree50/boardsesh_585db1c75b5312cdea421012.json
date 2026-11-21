@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_585db1c75b5312cdea421012.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "mutual rotation",
+  "setter": "shakamine",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "943CBBE4CAB746DFBAA2C3D7205A2345",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1106r15p1135r13p1136r12p1201r13p1232r13p1248r13p1263r13p1329r13p1384r14p1456r15p1502r15p1511r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5547b1db8852e398327fbb411cffde35361a8d9fb2dee4425d5a397b9cfc9a33",
+  "validation_errors": []
+}

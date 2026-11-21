@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c8a18e41ae7a4ae6398ecc51.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "casper the friendly climb",
+  "setter": "jabby",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0053e434a1404bf39abe7f17e8d83e1c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1180r12p1194r12p1231r13p1282r13p1335r13p1371r13p1392r14p1483r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 3,
+  "quality_average": 4.0,
+  "hold_fingerprint": "2d47da057eb8b84c82e02fc11696e8e6609e86d6fb17a0a8c2b61df3c1cf8ae1",
+  "validation_errors": []
+}

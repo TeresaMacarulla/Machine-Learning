@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e2430b3a60d5e77a5035cd92.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Alter Me I",
+  "setter": "tylerdh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "FA8F6FC5746942CF93819B945734BDB7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1225r12p1257r12p1285r13p1306r13p1313r15p1355r13p1385r14p1498r15p1499r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "cd0cddafc04ff5173fc22627b5e0d157e769a6308cc196f1e8fb77ebc61fa88f",
+  "validation_errors": []
+}

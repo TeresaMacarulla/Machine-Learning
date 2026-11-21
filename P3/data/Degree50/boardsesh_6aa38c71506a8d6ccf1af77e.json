@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6aa38c71506a8d6ccf1af77e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Cat Piano (Eliminate)",
+  "setter": "welmore",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9C4FBC9EC5CD49BFAC045656DFBA911D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1137r12p1167r13p1171r12p1194r15p1253r13p1282r13p1352r13p1385r14p1521r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.71,
+  "ascensionist_count": 7,
+  "quality_average": 2.43,
+  "hold_fingerprint": "393a3e9d417ed847f3c76c7647a5cb0ad92a9a7377c38226d3c996f44c2b62f5",
+  "validation_errors": []
+}

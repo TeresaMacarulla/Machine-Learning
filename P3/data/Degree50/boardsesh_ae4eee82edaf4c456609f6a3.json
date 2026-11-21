@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ae4eee82edaf4c456609f6a3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "fyn\u2019s warm up #3",
+  "setter": "FynCloudhand",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "428BBC9E31CC4CF49196D3F547A515C5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1181r15p1200r15p1234r12p1236r12p1269r13p1284r13p1302r13p1334r13p1354r13p1387r14p1540r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 5,
+  "quality_average": 2.0,
+  "hold_fingerprint": "a47524820f70de3b8719dd1277de27f676a79a6702d5c65ec271d308126297a7",
+  "validation_errors": []
+}

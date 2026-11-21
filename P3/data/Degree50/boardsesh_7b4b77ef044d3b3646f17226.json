@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b4b77ef044d3b3646f17226.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "no scope",
+  "setter": "Armino",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "16155625EDE84822B443C2448E78E327",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1231r12p1247r12p1302r13p1369r13p1391r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6371776575a365d40e11e295af63d7d7e78932b6c95e71f8a48dd7596046cdce",
+  "validation_errors": []
+}

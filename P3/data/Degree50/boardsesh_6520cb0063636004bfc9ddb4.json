@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6520cb0063636004bfc9ddb4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Kampus #4",
+  "setter": "core.nelius",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "9f10bf583aa8475d9e6f4c151a4f07d6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1215r12p1236r12p1270r13p1290r13p1320r13p1357r13p1371r13p1392r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "aebbf374db7f045d6929da1de78fbeef213e5294999096ba6eb6598849b9f3b8",
+  "validation_errors": []
+}

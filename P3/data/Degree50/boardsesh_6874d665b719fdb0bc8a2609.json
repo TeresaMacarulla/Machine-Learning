@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6874d665b719fdb0bc8a2609.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Vital Bellingham Q31",
+  "setter": "alexmar",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "7756E4CA9C9E4AF4B6B08FC14D33449E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r15p1211r12p1227r12p1257r15p1271r15p1272r15p1279r13p1304r13p1317r13p1334r13p1372r14p1501r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "0d952b323a17f0cfad24537ae48a00ff94f5fc690ddc760520ca7aa93b844030",
+  "validation_errors": []
+}

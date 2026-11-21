@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8e42b30c9320b68335b36fc7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "pourquoi pas",
+  "setter": "max_rav",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "09397a16c84144e1a1a07c698c178054",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1077r15p1153r12p1169r12p1207r13p1274r13p1343r13p1389r14p1391r13p1481r15p1509r15p1516r15p1544r15p1578r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 5,
+  "quality_average": 2.75,
+  "hold_fingerprint": "dc2675a4ea5c1ad703105e552ece1576c4b1b72c34383c059bd7eb9c9791f5b3",
+  "validation_errors": []
+}

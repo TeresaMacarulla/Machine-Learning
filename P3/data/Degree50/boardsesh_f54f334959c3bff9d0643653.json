@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f54f334959c3bff9d0643653.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Kardashev Scale",
+  "setter": "thosearentholds",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "82C9761553344421A68ED86D4032A06F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1125r12p1184r15p1231r13p1255r15p1283r13p1304r13p1389r14p1460r15p1464r12",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "688acf4f8fbe48032f7de5de2f8e3f49ffdc23b2def79c15610a93d314d188a6",
+  "validation_errors": []
+}

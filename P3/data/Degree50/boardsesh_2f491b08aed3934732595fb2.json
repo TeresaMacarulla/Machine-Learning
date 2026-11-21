@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2f491b08aed3934732595fb2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "echoChambers",
+  "setter": "bouldersgallery",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "768BE9832BCE42F5849668523A967319",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1170r15p1172r12p1186r12p1218r13p1254r13p1285r13p1322r13p1353r13p1383r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "859003bf6a05a18deeb2492332bf4a6781a24fceaec501f74dee8ce1acc1bc17",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aa820f7adf4d3b6d59bb8cfc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "dense fence",
+  "setter": "Kaisei",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "3a05a13d99ac4423aff7a448d5eb16a7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1219r15p1236r12p1247r12p1302r13p1387r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "85664e0bc582f7f624ffef9eb6c7eb093f1c777bba2253b7aa180460ff1c866c",
+  "validation_errors": []
+}

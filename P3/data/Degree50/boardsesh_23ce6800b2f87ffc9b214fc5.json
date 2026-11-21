@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_23ce6800b2f87ffc9b214fc5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Pigstep",
+  "setter": "Dylannn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "5f88902b-7d81-4c50-af6b-3083cc6e0dc5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1453r15p1185r13p1216r13p1251r13p1302r13p1350r13p1389r14p1548r15p1204r15p1480r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.5,
+  "hold_fingerprint": "5580f404318af4e93edff862d0e849041a31734dd0fd968aecd26707cabb7c09",
+  "validation_errors": []
+}

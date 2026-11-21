@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5b45d9aaac654d01be841498.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "up/down/up",
+  "setter": "ramiannab",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "A8CFCEA9746942B8A61FF53D026B8F08",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1205r15p1221r13p1230r13p1269r13p1339r13p1386r14p1461r15p1467r15p1476r15p1493r15p1494r12p1497r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c4bda2202e2c4c402c799a6a6a3226ba26ddd6a7ffdc7a72bff3579ab8a0957f",
+  "validation_errors": []
+}

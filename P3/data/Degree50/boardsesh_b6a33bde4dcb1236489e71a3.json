@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b6a33bde4dcb1236489e71a3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Rorshaq",
+  "setter": "adriankask",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "769a32211ef54291a9b52d00861efc03",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r12p1217r13p1319r13p1387r14p1477r15p1479r15p1487r15p1488r15p1495r15p1496r15p1497r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c824cd32c0113dc97ab419547f09f0e454029a888ffdef2f2c46d5dda415f01c",
+  "validation_errors": []
+}

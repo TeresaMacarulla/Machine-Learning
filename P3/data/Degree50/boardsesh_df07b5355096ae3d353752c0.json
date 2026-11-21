@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_df07b5355096ae3d353752c0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Red Wave Lite",
+  "setter": "wyattumlauf",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "72D935BEA3894AC2A95D43F2B88D681A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1190r12p1202r13p1221r13p1267r13p1352r13p1366r13p1380r14p1447r15p1450r15p1453r15p1497r15p1550r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c9ec36b41f26a3f928de969be791ae3bd6249adfa8d57190c201ae91cb1573b1",
+  "validation_errors": []
+}

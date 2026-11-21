@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4203c42f2575ad9a9d6c3ccb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Swingaling",
+  "setter": "squirkle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "A2799FD03AD44C9C8EDA35A3B2AACB12",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1239r15p1272r12p1283r13p1299r13p1307r12p1331r13p1382r14p1526r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d6c31080564f521cbda1edc7f0c164473007cdf9238a2cf5edc617859078f78c",
+  "validation_errors": []
+}

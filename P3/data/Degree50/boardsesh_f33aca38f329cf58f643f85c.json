@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f33aca38f329cf58f643f85c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Horizontal nystagmus",
+  "setter": "jmcminn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6EEF5326FCEE412D9DA8D880AAC88314",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1154r12p1220r13p1239r13p1252r13p1263r15p1287r13p1301r13p1354r13p1367r13p1380r14p1478r15p1506r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "2d7197fe784f36b8272363f415f1b9fb8c3d3c49340fc391353a2ed4cfbe8ee1",
+  "validation_errors": []
+}

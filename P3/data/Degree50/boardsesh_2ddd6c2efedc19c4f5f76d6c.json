@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2ddd6c2efedc19c4f5f76d6c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Hot Bins",
+  "setter": "BoulderingDabrats",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "21a4317fce234914be94b0bd94b7e164",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1163r12p1166r15p1231r13p1267r13p1269r15p1315r13p1353r13p1387r14p1456r15p1460r15p1521r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.92,
+  "ascensionist_count": 107,
+  "quality_average": 3.33,
+  "hold_fingerprint": "2ee855e45e6ffc98270fe9ee1cd66d55dc45fa4d8368be7c89daf958f0fcd084",
+  "validation_errors": []
+}

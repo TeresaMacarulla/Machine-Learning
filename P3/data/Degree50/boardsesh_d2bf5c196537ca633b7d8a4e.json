@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d2bf5c196537ca633b7d8a4e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Dyno or v1",
+  "setter": "hoskinb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "223D71B25477473AAFFFF7B422B619D3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1143r12p1192r15p1246r13p1247r13p1300r13p1315r13p1387r14p1463r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5388f4b1e131a19a82895b4de3e95b562a419f74b5177b91c3100d38112558e3",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_92c8fdc5c6a61e8db406d566.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Ohmu",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "3c69abcb41c84c478f0852961e34a704",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1199r12p1220r12p1248r13p1269r13p1301r13p1315r13p1366r13p1380r14p1470r15p1504r15p1529r15p1555r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.4,
+  "ascensionist_count": 5,
+  "quality_average": 3.2,
+  "hold_fingerprint": "ad7bc718f9182a9f591804a06967098a6c4a2a01ce9603ae334a13c005ba2676",
+  "validation_errors": []
+}

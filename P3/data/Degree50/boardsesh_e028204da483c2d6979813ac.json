@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e028204da483c2d6979813ac.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Control The Finish",
+  "setter": "Guacamole",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "e0a2bd5cb1e14865ba08b4d50ae80e68",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1156r15p1224r13p1241r13p1300r13p1302r14p1308r13p1356r13p1448r15p1451r15p1522r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "175c277bdec67285d3dc6d92be0e523776ce521a9cdd0c0226d8dbf04fb328fc",
+  "validation_errors": []
+}

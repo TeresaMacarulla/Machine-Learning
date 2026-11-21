@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8e22c71bf45257543a9d49fb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "\ud83d\udc85",
+  "setter": "alwena",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "da64d215-b43d-473e-9244-91030c5d4184",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1084r15p1266r13p1237r15p1487r15p1355r13p1287r13p1162r12p1193r12p1229r13p1234r13p1200r15p1317r13p1390r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "f7d2aaffe082a17c4e2f7bf84a0ecf12c3313ae4335b16c0bc978398c64d0aa9",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0b775e26580febd37f9be058.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Propain",
+  "setter": "TheGoatInTheBoat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "04C4E10756BB4D41A156126905FE2E71",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1158r12p1195r13p1246r15p1249r13p1300r13p1353r13p1355r13p1359r13p1394r14p1459r15p1460r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.2,
+  "ascensionist_count": 14,
+  "quality_average": 3.5,
+  "hold_fingerprint": "50abf5e045e89e353575ecbe759ad0605140aa4fc281ebf940e4f25f676741a2",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1963246cce29a13d6f5c5909.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Option ROI Volume 2",
+  "setter": "maxkoke24",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "7F0D57AF61F5493BAD257439F7FB2B8E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1086r15p1132r12p1147r12p1214r13p1263r13p1281r13p1347r13p1379r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "7aa1cde6c8cff5628bdad8151f2f47fbc609819eadacb5627f4fe1184f7c0dde",
+  "validation_errors": []
+}

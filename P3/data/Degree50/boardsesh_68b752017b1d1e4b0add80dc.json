@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_68b752017b1d1e4b0add80dc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "ikuto27",
+  "setter": "dboulderingtamachi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "E628673F76BC42098B557849836C3D65",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1216r12p1267r13p1280r13p1296r13p1346r13p1379r14p1478r15p1488r15p1520r15p1528r15p1532r12p1537r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c21a1c90491bb766ab1aaada3f997e8ea8d002657618ec518f5e516621d02041",
+  "validation_errors": []
+}

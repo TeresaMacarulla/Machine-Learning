@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6f7b35a2520bdd6431168ebd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "poopy rocket",
+  "setter": "qbldp",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3AA3999B9C2E49298DAC0A8C8C3E1EE3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r15p1163r12p1230r12p1266r13p1287r13p1322r13p1387r14p1504r15p1534r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.06,
+  "ascensionist_count": 18,
+  "quality_average": 3.56,
+  "hold_fingerprint": "2d8e1f5c1a22d4881a50a23d8c3e3c5bde400d41160f56db165d6b35771d931f",
+  "validation_errors": []
+}

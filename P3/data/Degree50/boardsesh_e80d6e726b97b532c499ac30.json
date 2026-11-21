@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e80d6e726b97b532c499ac30.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Hands Zimmer Short",
+  "setter": "Philbothegeek",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "a4896cc7-7031-4ce8-880f-012826f158f6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r12p1085r15p1521r12p1213r13p1215r13p1254r13p1321r13p1506r15p1486r15p1392r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "69c7786e07a3fc3878b5e997c6f4e8b6c2720d6390be6fdff1dc907fada2729a",
+  "validation_errors": []
+}

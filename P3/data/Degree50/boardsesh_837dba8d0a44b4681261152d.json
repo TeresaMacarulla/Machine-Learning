@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_837dba8d0a44b4681261152d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "external",
+  "setter": "CRANK",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "146B38A60CA44B04A44DF0EB06B42314",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1134r12p1203r12p1258r13p1272r13p1336r13p1348r13p1381r14p1500r15p1517r15p1536r15p1568r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.98,
+  "ascensionist_count": 84,
+  "quality_average": 3.44,
+  "hold_fingerprint": "84ccdab4e017d8b3904a552fcd3f60b981ca5bbe87e478c8e23537f644286ef0",
+  "validation_errors": []
+}

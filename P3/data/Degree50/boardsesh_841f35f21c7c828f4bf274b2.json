@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_841f35f21c7c828f4bf274b2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "stupids3xy",
+  "setter": "aaabeeef",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "f73f1c914a074caca71c3021bb651a20",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1170r12p1201r13p1271r13p1288r13p1341r13p1388r14p1454r15p1469r15p1486r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "93de907423ec903bbcb3dc32b3e0d0fa9ff737b1f8631029e7562a583481dfaa",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a5ab46d918b8bdfb5874a2ad.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Slow Down, Curve Ahead",
+  "setter": "bjcook79",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "97FF3706379048C6B726A02A05EBAF92",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1131r12p1141r15p1160r15p1166r12p1198r13p1219r15p1231r13p1262r13p1297r13p1315r13p1335r13p1385r14p1459r15p1475r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.81,
+  "ascensionist_count": 31,
+  "quality_average": 3.52,
+  "hold_fingerprint": "a2c291ebe3e03b04ab17a122f0be5c54abeeca9e53c7524f6ac88f8c49904d6e",
+  "validation_errors": []
+}

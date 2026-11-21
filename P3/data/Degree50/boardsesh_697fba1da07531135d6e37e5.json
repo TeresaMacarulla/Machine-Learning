@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_697fba1da07531135d6e37e5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Stuporstition",
+  "setter": "willcastelli",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "A684A28578AF4DED92B7D6F3846EF87B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r12p1164r12p1236r13p1247r13p1300r13p1366r13p1381r14p1455r15p1487r15p1504r15p1511r15p1549r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.6667,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "5d3630467c628da5d842ed68131f426ffca207155fb3ce5db77166318656b1b4",
+  "validation_errors": []
+}

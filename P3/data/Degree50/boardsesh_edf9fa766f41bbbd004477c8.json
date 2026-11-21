@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_edf9fa766f41bbbd004477c8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "No K Perspective",
+  "setter": "kiltjaner",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "D6EBCF57290C43E7AC8DB10E0FD5B157",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1084r15p1085r15p1086r15p1087r15p1096r15p1145r12p1146r12p1168r15p1181r15p1199r13p1202r15p1215r13p1234r13p1268r13p1301r13p1304r13p1387r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5422452e56480337d2703ac526825f0a884825ae4bb529d05fb6a1b758310ddb",
+  "validation_errors": []
+}

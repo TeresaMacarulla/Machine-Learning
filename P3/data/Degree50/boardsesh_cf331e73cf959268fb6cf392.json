@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cf331e73cf959268fb6cf392.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "how long is your span v2",
+  "setter": "thanesends",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2F97D82F48644B29B7163A4580C8225C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1148r12p1186r13p1196r13p1254r13p1283r13p1287r13p1332r13p1389r14p1460r15p1478r15p1548r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.95,
+  "ascensionist_count": 39,
+  "quality_average": 3.13,
+  "hold_fingerprint": "98083d0adce06df385b9b0f55ccecafb5b449c3c4cba41f53c94d318ff6a14ef",
+  "validation_errors": []
+}

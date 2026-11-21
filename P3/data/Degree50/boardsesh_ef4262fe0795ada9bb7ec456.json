@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ef4262fe0795ada9bb7ec456.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Perception with Deseption",
+  "setter": "Parker",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "decdbb3c-e6e6-4ab4-82e3-4fff03616975",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1198r12p1269r13p1317r13p1118r15p1186r12p1084r15p1532r15p1333r13p1380r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.67,
+  "ascensionist_count": 9,
+  "quality_average": 4.83,
+  "hold_fingerprint": "39fd78f1451ad09ffcfad94d7bb5f9d88493031d359ba217667b06044b3f267f",
+  "validation_errors": []
+}

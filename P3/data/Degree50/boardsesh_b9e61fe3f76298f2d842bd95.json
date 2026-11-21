@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b9e61fe3f76298f2d842bd95.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Raubtier",
+  "setter": "Errew",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C4B3C90B1B2648ABBA4B0BD31A8F0223",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1127r12p1148r12p1230r13p1264r13p1295r13p1345r13p1384r14p1493r15p1519r15p1522r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "dbae282ffb6f0d53470de5c69c89272558bfb68c1818805a29114ebd907cd5dc",
+  "validation_errors": []
+}

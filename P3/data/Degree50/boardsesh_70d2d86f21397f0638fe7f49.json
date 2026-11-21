@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_70d2d86f21397f0638fe7f49.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Tour de Trainingsbereich",
+  "setter": "HendrikHuebinger",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "68e24c49406a493fa7f3ed4a91a1b37f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1172r12p1174r12p1257r13p1269r13p1317r13p1321r13p1384r14p1447r15p1451r15p1499r15p1533r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 17,
+  "quality_average": 3.38,
+  "hold_fingerprint": "c5dd46e261dd9a4346fc7158896b2b1862d751ad48721733670604af0472c859",
+  "validation_errors": []
+}

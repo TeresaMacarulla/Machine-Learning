@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3f0ec6512c8a2b1a18432414.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Even Breakfast",
+  "setter": "kakeru_nx",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "316B9DE9181140379B74E4B17428D903",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1156r15p1167r12p1187r12p1194r15p1235r13p1264r13p1272r13p1299r13p1304r13p1305r13p1331r13p1382r14p1453r15p1506r15p1523r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e3c4eb30219803d025d6a8f9ba12585230007b887ded0821b17e21cb37c15dbf",
+  "validation_errors": []
+}

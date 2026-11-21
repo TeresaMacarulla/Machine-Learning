@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_553d71171eee60686ccdca46.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "pinch is hard",
+  "setter": "jackycc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "EFD5E2625E04468FA1F71CD264E765CC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1176r12p1216r13p1228r13p1285r13p1287r13p1357r13p1391r14p1459r15p1463r15p1487r15p1495r15p1496r15p1505r15p1553r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d63a23ecf9b482d533352d1beaf00a0aa2d57649130ac3a53800c8706a018e23",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_50d581d90d8f1b4e71ce4f8b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Down under",
+  "setter": "Kili1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "60017c9e-f38c-43c4-bfdc-4758aa35dd4d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1174r12p1447r15p1204r12p1253r13p1232r13p1160r15p1262r13p1283r13p1351r13p1388r14p1531r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.36,
+  "ascensionist_count": 15,
+  "quality_average": 3.64,
+  "hold_fingerprint": "357c6264dd59d4ce0ea7b1ae875078aa3b4e6b733c544934fdb743bb6df15e25",
+  "validation_errors": []
+}

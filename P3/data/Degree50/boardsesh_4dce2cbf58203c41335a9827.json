@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4dce2cbf58203c41335a9827.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "mikey rehab 1",
+  "setter": "ldf45",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "051DE1FCC7B240AABA4FDB8D85C5FE59",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1108r15p1127r12p1145r12p1177r13p1181r15p1212r13p1231r15p1237r15p1246r13p1267r13p1302r13p1307r15p1340r13p1389r14p1457r15p1461r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.3333,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "981f6a445d169919af887f74e6694564235226a199e446ebfa13cfdbadffc5e9",
+  "validation_errors": []
+}

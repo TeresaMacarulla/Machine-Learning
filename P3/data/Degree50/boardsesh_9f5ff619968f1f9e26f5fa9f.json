@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9f5ff619968f1f9e26f5fa9f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "proj bruj",
+  "setter": "liamheyman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9201EC70552747B7861CB800BF819F12",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1141r12p1163r13p1198r13p1254r13p1283r13p1353r13p1379r14p1381r13p1383r13p1464r15p1506r13p1540r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "70f4e147fad58661c11c464a1a614a52c01451be08e3b9c688136502b0822e53",
+  "validation_errors": []
+}

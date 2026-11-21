@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3ea1e8caf4d342d6c51d36ca.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Start: static or dyno",
+  "setter": "sungs0492Q",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "84A6A804395E496592855B42A736C801",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1186r12p1188r12p1194r15p1211r15p1237r15p1242r13p1304r13p1305r13p1308r13p1334r13p1349r13p1380r14p1447r15p1482r15p1500r15p1548r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "edf0688295f4f6fafe907b842f45150e5581b97169f911637d57d844649263e9",
+  "validation_errors": []
+}

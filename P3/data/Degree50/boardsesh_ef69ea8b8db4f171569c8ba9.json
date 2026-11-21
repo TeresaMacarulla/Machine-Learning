@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ef69ea8b8db4f171569c8ba9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Planetarium",
+  "setter": "Constant_Classics",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A5E80B6A57D84CD1BA29667DFA354F47",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1177r12p1229r13p1249r13p1315r13p1382r14p1460r15p1465r15p1493r15p1519r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "cc2e6220780157f338721fecba9d236624878a797ff5ff41ece788cb456ff298",
+  "validation_errors": []
+}

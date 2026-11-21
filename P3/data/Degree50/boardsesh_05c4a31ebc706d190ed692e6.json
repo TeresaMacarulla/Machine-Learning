@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_05c4a31ebc706d190ed692e6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "drop two knees",
+  "setter": "lukas202",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "64eee57b7542415291d5237e89dbaf33",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r15p1143r12p1209r13p1232r15p1244r13p1279r13p1362r14p1460r15p1464r15p1519r15p1555r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "68a44f1a8e9c5482255ba69f22f60ea2b84463d8062527b6b025c286c6c7d402",
+  "validation_errors": []
+}

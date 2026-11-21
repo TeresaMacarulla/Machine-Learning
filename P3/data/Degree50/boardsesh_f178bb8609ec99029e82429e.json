@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f178bb8609ec99029e82429e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Gecko",
+  "setter": "sprengard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "cb76efb5-eaba-492e-bb95-baf029490221",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1180r12p1141r15p1198r13p1160r15p1167r13p1485r15p1254r13p1513r15p1270r13p1305r13p1540r15p1335r13p1387r14p1551r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.33,
+  "ascensionist_count": 3,
+  "quality_average": 4.67,
+  "hold_fingerprint": "650796619a7ebf45c98d5cb2176f4723028202e13cff28d74ed3800564a80d52",
+  "validation_errors": []
+}

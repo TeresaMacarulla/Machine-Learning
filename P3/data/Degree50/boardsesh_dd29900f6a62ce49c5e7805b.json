@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dd29900f6a62ce49c5e7805b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Bif gan",
+  "setter": "ennocr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9abb9eb8c0604674b4e12451847eb516",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1145r12p1161r12p1231r13p1252r13p1317r13p1387r14p1458r15p1493r15p1513r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "fbef8c173585edc93f7ba232d668b2f8065813a6d8975ad813f4083bfe7cb99c",
+  "validation_errors": []
+}

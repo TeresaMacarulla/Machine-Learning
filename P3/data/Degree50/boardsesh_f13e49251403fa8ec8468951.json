@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f13e49251403fa8ec8468951.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "PinchOnly 1.0",
+  "setter": "schir2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "a35f3eb4b90943abb97c4b86614fb332",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1102r15p1148r12p1186r12p1216r13p1228r15p1254r13p1283r13p1285r13p1332r13p1367r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f06700bccbf441442493c51bb3616706fc358bb77fcdb09e583500e4dcca6dd3",
+  "validation_errors": []
+}

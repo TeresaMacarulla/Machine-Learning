@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_64a8e92ad17717c09cf5cafd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Pogo Stick Man",
+  "setter": "jakeAfrancis",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "E6BCC483A6844C458495A137ACA3ACFD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1086r15p1147r12p1163r12p1236r13p1302r13p1339r13p1391r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.33,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ac2887922ecb3167f2db516ef9556b82670854aa69300d3850731272a6142ec6",
+  "validation_errors": []
+}

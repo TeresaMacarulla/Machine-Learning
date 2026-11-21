@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_92ef6e298c08367d919f6608.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "The elusive barrel",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "09e3a73d730a4290ad6a93823d09b7f0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1133r12p1146r15p1159r15p1202r12p1213r15p1247r13p1252r13p1269r13p1316r13p1347r13p1380r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.5,
+  "ascensionist_count": 3,
+  "quality_average": 4.5,
+  "hold_fingerprint": "391bd85daac68e0b071d69812a027c116a88e939a267fe5087d1479fad3f9db4",
+  "validation_errors": []
+}

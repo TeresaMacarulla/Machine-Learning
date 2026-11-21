@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2a7cc412b1acb3ce1a49aa70.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "jollis dyno",
+  "setter": "eorjala",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 0,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "42619161CC5F4D7B90F94310C706AF39",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r15p1300r12p1302r12p1385r14p1387r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 16,
+  "quality_average": 2.63,
+  "hold_fingerprint": "4567f01f731b31271894db1b2b960c93da17663c22e3bedd69bff5af6d7436cf",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_165d60cdf7c31ff1fd44aec6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "meg, short for megatron",
+  "setter": "niels07",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "c7c05c0cb1484d5e943feabd7861473a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r12p1121r15p1133r12p1147r13p1216r13p1243r15p1263r13p1300r13p1332r13p1386r14p1449r15p1459r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "7383156d1fba828d8661595112bbfa67ff14d8732b74cabf17856a722ef6ce7f",
+  "validation_errors": []
+}

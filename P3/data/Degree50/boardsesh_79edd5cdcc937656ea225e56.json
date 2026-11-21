@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_79edd5cdcc937656ea225e56.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Gleitschirm",
+  "setter": "DianaWolf",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "c396d1b0-97ec-4fa3-b881-b3d7e4aa7ecc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1250r13p1280r13p1201r13p1334r13p1352r13p1388r14p1152r12p1456r15p1450r15p1538r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "fb58a27114af1fde44986bff6f29cfd706989afc57dbb16e421b5f42afafc30c",
+  "validation_errors": []
+}

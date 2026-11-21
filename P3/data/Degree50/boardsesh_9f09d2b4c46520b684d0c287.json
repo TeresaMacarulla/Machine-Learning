@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9f09d2b4c46520b684d0c287.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "doob-zerlegung",
+  "setter": "derwelt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0ed462617a9e42dfa5b415bf2754b6cf",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1248r13p1286r13p1320r13p1387r14p1465r15p1467r15p1483r15p1521r15p1524r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.92,
+  "ascensionist_count": 12,
+  "quality_average": 3.67,
+  "hold_fingerprint": "aa8105afb52c0e4891321c6fc8466ff2a439396b78b69c9ebb35b65de02ab232",
+  "validation_errors": []
+}

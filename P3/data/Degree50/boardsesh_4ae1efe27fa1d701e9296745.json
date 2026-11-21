@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4ae1efe27fa1d701e9296745.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "make it stop",
+  "setter": "dewaranch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "b6d70112a95e41088f9fc30dc273ac0f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1169r12p1170r12p1173r15p1189r15p1205r13p1219r13p1256r13p1292r13p1305r13p1309r13p1357r15p1361r13p1378r13p1395r14p1536r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 7,
+  "quality_average": 2.0,
+  "hold_fingerprint": "765d358b411e02547e98e51019a5915f438d48a3c91fc83ecfdda15e9ef5a466",
+  "validation_errors": []
+}

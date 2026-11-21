@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c2fd50b161543f247d6624cd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "shoulder freak",
+  "setter": "gordonsea",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "e2e466ca75b348b982cdfd91aed05853",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1133r15p1181r12p1214r12p1270r13p1322r13p1342r13p1389r14p1507r15p1532r13p1535r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.97,
+  "ascensionist_count": 35,
+  "quality_average": 3.51,
+  "hold_fingerprint": "2e7f4ad9a10578504f5c1ac75117c16b3837acc4b3d4e433b2c570f30f40cc97",
+  "validation_errors": []
+}

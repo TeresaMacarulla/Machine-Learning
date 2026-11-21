@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a78f13a754ca502c1c3bf37a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "close to none",
+  "setter": "mondragon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "47445EFF6A1F4F00943938566C410529",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r15p1129r12p1181r13p1220r13p1286r13p1324r13p1371r13p1386r14p1455r15p1469r15p1471r15p1508r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.96,
+  "ascensionist_count": 404,
+  "quality_average": 3.51,
+  "hold_fingerprint": "45e9a6d587c8e54fec921f1ae8efeb49b187d6ea0ea5c8539acc742973dff178",
+  "validation_errors": []
+}

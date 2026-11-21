@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_977b7d625e3a2b09853af738.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Working Load Limit",
+  "setter": "jkassay",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "4a00c4bc65a64a7bacd819e6151ed5df",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r15p1149r15p1189r13p1217r13p1235r13p1245r12p1276r13p1284r13p1340r13p1389r14p1499r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "bff1df159a917df03851702c0d09ccdf7711fb592b1d6fda9a6ce02764619897",
+  "validation_errors": []
+}

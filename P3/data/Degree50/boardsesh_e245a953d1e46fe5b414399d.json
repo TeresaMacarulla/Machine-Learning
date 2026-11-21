@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e245a953d1e46fe5b414399d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "boom-rang",
+  "setter": "SaxonCasi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "74c72cd3d6b34bc6af7ff00c64a6b6b4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r15p1125r12p1160r12p1169r15p1181r13p1199r13p1253r13p1255r15p1302r13p1336r13p1381r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "492af3f842fdc5d7177f2f094627612dbff8e230e64348148f955644b2ccd114",
+  "validation_errors": []
+}

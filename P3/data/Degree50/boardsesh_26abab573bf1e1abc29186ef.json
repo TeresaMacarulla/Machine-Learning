@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_26abab573bf1e1abc29186ef.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Tall Boy 2.0",
+  "setter": "hangar18LB",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "FBB2980938A64B82A3C902FF5EFD995C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1084r15p1086r15p1130r15p1163r12p1179r12p1213r15p1215r13p1234r13p1300r13p1302r13p1315r13p1333r13p1383r14p1384r14p1456r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.01,
+  "ascensionist_count": 247,
+  "quality_average": 3.36,
+  "hold_fingerprint": "32a09b19c29935dab4378c190595e4f90be67094463e389b8589c865df40713a",
+  "validation_errors": []
+}

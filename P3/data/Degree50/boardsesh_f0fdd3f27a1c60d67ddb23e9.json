@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f0fdd3f27a1c60d67ddb23e9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Gui #1",
+  "setter": "guibere",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "94AD3658A50A48FF8D3A4DF8B3A0526A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1189r12p1208r15p1236r12p1272r13p1302r13p1354r13p1385r14p1471r15p1491r15p1508r15p1557r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 89,
+  "quality_average": 3.49,
+  "hold_fingerprint": "349c2205f5dbd068f7e6bfcd85f955fb598324368116741335cdb7e6adc6f4c7",
+  "validation_errors": []
+}

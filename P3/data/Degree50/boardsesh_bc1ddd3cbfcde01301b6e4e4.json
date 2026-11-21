@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bc1ddd3cbfcde01301b6e4e4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "brusher",
+  "setter": "JakeSully",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "be2e5a2c7eb6426fa562f67b86c9d3b8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1261r12p1263r12p1328r13p1329r13p1366r13p1387r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "e8dd221bebc8f2a30c9603ad7c5e3ed6463dfddaea3d8b21c1e32d8667d5bc0b",
+  "validation_errors": []
+}

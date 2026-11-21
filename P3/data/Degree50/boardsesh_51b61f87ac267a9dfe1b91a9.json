@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_51b61f87ac267a9dfe1b91a9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Roll the Windows up \ud83d\ude99\ud83c\udf33\ud83d\ude36\u200d\ud83c\udf2b\ufe0f",
+  "setter": "iclimbnc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 18
+  },
+  "source": "boardsesh",
+  "source_uuid": "FDE45416E4FD4C639608310E47F2E2A5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r12p1204r13p1208r13p1223r13p1268r13p1271r13p1306r13p1331r13p1353r13p1383r14p1447r15p1451r15p1472r15p1480r15p1482r15p1497r15p1500r15p1506r15p1507r15p1514r15p1518r15p1522r15p1531r15p1537r15p1546r15p1549r15p1551r15p1558r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3d40d7d23c8785f1be118bdf456302fea726319ab90e63eb8adf3a41c7f2b46d",
+  "validation_errors": []
+}

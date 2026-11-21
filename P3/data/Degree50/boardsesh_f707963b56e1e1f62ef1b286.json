@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f707963b56e1e1f62ef1b286.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Gumby Soup",
+  "setter": "importedbean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "751E72AE6C654D908BE129FAE864960D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1205r13p1236r13p1287r13p1299r13p1334r13p1382r14p1451r15p1482r15p1521r15p1536r15p1546r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.99,
+  "ascensionist_count": 106,
+  "quality_average": 3.48,
+  "hold_fingerprint": "4e6ff47abe75cc5780b005ae00adfb5b4431614e3f5193cb131bce99525ceb32",
+  "validation_errors": []
+}

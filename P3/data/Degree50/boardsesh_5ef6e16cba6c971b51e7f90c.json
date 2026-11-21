@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5ef6e16cba6c971b51e7f90c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Warm 3",
+  "setter": "richiec4",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "95d58225-f48b-41d0-aa9c-9ac4fe961d83",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r12p1184r13p1458r15p1219r13p1273r13p1505r15p1286r13p1339r13p1540r15p1388r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a88b8ecd5789580b0ca448eb4d4e160c846d6634e90e5968d89cdb3f5db5c5c7",
+  "validation_errors": []
+}

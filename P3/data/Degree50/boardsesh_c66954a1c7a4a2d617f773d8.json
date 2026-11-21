@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c66954a1c7a4a2d617f773d8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Get Burnt",
+  "setter": "kakeru_nx",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "B16FA05A77304270AF55F171E2FA094B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1123r12p1180r13p1186r12p1216r13p1222r13p1227r13p1228r13p1295r13p1318r13p1332r13p1389r14p1468r15p1478r15p1479r15p1491r15p1492r15p1557r15p1579r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.89,
+  "ascensionist_count": 9,
+  "quality_average": 3.67,
+  "hold_fingerprint": "052d948633698dee6eee4f193956f3f0aa3e3972ccf14f3a15abb4cea2118b5b",
+  "validation_errors": []
+}

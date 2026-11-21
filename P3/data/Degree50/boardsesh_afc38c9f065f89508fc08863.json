@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_afc38c9f065f89508fc08863.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Boulderkitchen 7a",
+  "setter": "JanHlwg",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1E682CE37AED432F93572CFBB936568D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1149r12p1215r13p1269r13p1286r13p1322r13p1323r13p1391r14p1455r15p1525r15p1553r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.06,
+  "ascensionist_count": 17,
+  "quality_average": 3.59,
+  "hold_fingerprint": "2f48bcf84867424c7b2b348579e78f4db63fe8a39e1cf98c300e9b9739815b40",
+  "validation_errors": []
+}

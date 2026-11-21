@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_31d42df45e817aff74144cab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "360x360 smol",
+  "setter": "jakedotclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "62E4EFBF5B5841C89A218DE08B97CEAD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1161r15p1201r12p1219r12p1248r13p1315r13p1369r13p1391r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "05aa1ea69d782a3b0134869878d319afbc96606e607c4388467fae220dcfe8c9",
+  "validation_errors": []
+}

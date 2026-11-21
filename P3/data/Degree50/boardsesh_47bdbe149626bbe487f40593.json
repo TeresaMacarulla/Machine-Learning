@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_47bdbe149626bbe487f40593.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "MonkeySwing",
+  "setter": "Kalisch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6E0F70B0AC0947AEAAAA36D24D8ADC5B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1144r12p1192r13p1243r13p1245r13p1294r13p1317r15p1347r13p1379r14p1461r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "208f24519126277f84c872a1ccfe7d9b0ffe9ee4c47aeb11d4c8460a51a143d7",
+  "validation_errors": []
+}

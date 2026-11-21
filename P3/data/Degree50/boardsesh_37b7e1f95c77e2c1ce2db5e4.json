@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_37b7e1f95c77e2c1ce2db5e4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Bear feet",
+  "setter": "totolasticot",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "b014167d-8859-4d62-adb7-69c4ef428ff1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1172r12p1171r12p1203r13p1236r13p1253r13p1301r13p1320r13p1371r13p1392r14p1213r15p1074r15p1076r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 7,
+  "quality_average": 4.5,
+  "hold_fingerprint": "4df3e171338f27509638fc5551e247ebfb0a99073dd47588b9f78f85c77193e6",
+  "validation_errors": []
+}

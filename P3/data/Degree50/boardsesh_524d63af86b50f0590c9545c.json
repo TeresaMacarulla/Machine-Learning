@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_524d63af86b50f0590c9545c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "compression #7",
+  "setter": "00_rocketboy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "34BB8CE6ABE943788C4BC632133AB6EB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1176r12p1216r13p1229r15p1280r13p1318r13p1365r13p1387r14p1458r15p1484r15p1495r15p1523r15p1549r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.92,
+  "ascensionist_count": 39,
+  "quality_average": 3.29,
+  "hold_fingerprint": "243e855e7c693c719def8e444162d8249fc928f774229f1a3729172c7270cfea",
+  "validation_errors": []
+}

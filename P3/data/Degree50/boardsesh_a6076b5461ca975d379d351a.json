@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a6076b5461ca975d379d351a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Squeaky chicken 1.0",
+  "setter": "jmcminn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "BDC9D06BBB064EA4AEB10DBDABC1C4BA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1131r12p1163r13p1194r13p1213r13p1263r13p1296r13p1331r13p1380r14p1453r15p1459r15p1501r15p1555r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "dd5996e07d7f2a0aa73e8906bf4eedb5bb9cd453dea77663f1517c25918c73f0",
+  "validation_errors": []
+}

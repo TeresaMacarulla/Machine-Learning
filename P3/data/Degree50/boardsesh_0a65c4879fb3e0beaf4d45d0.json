@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0a65c4879fb3e0beaf4d45d0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "description subscription",
+  "setter": "RyanKing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FE6AB219A47B447B89AEBB2C5AC6750C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r15p1225r12p1239r13p1276r12p1289r13p1359r13p1391r14p1518r15p1554r15p1586r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.94,
+  "ascensionist_count": 145,
+  "quality_average": 3.3208275862068963,
+  "hold_fingerprint": "14c8253f111861b58e61645c0a3e6b562e265db6a1e55954289894256200a660",
+  "validation_errors": []
+}

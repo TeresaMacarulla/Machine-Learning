@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fed4c7e45120acbfd19f2a3f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "De Loodgietert 1.5",
+  "setter": "MichielN",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "c3b72efdddc34553804e54bffee2b749",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1146r12p1250r13p1282r13p1367r13p1379r14p1454r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 6,
+  "quality_average": 2.17,
+  "hold_fingerprint": "5ab52e27df5a463babe36081a59d120c40bbf82d4f30ea0b278247a59cf7efa1",
+  "validation_errors": []
+}

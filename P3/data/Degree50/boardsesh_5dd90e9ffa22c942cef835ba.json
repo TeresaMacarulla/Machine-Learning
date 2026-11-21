@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5dd90e9ffa22c942cef835ba.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "right shoulder pain",
+  "setter": "RiceBowl21",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "f741330c-5f14-49c0-bbaa-215070cc6cac",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1232r13p1236r13p1498r15p1239r13p1202r13p1307r13p1361r14p1086r15p1107r15p1143r12p1165r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "ae92cdd3f20af7c51bce9fe91b9fd1f6164ca44659ea7ffbe57a313f5263c0ae",
+  "validation_errors": []
+}

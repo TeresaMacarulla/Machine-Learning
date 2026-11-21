@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_63b03744c0797b1a38c23f0d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Entwasher",
+  "setter": "EMPA",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "05133A730D114CE3BE49ECC6747F8028",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1101r15p1116r12p1155r15p1189r15p1198r12p1234r15p1236r13p1256r13p1320r13p1355r13p1373r13p1386r14p1568r13",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "be1a0e918d1b4a72f2ce7e41a4433424a2b08a0ca2bae2d6ae3a4cf227cf1125",
+  "validation_errors": []
+}

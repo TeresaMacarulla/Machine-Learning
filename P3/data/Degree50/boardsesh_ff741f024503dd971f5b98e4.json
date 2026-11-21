@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ff741f024503dd971f5b98e4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "wheel smoothened",
+  "setter": "big_G",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "a41b561d-64ad-4e5c-9525-6070f44b606b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1129r12p1457r15p1087r15p1186r13p1184r13p1514r15p1289r13p1353r14p1354r14p1240r13p1096r15p1288r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 6,
+  "quality_average": 4.4,
+  "hold_fingerprint": "424ee4ce1b0ee6d181298ef8fce7048360bbacbb5696287f73bb5b65c3c5bb44",
+  "validation_errors": []
+}

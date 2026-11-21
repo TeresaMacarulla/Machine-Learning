@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7d1ef51bac056c65914c1018.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "fauker",
+  "setter": "glen_",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0e1bdbaa-465f-407b-9188-d272d981b2a6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r12p1463r15p1460r15p1176r13p1483r15p1230r13p1295r13p1349r13p1387r14p1385r14p1501r15",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "98bd2cd59224374c27d39b2f8537fbb795ac69e4094f5ae2788f02886413be2e",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_90aa59c27d519285e06aa36d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "unknown trajectory",
+  "setter": "sammgage",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "50EA98B16067456086A6F9C1C114E5DC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r12p1128r12p1131r15p1175r13p1214r13p1242r15p1267r13p1289r13p1308r13p1395r14p1459r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "dbfc8b6e5f659a3019ae8c25942015e4f11192e4c4286a1eb2f1b22352522ea5",
+  "validation_errors": []
+}

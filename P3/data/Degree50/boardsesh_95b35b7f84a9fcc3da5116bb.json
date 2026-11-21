@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_95b35b7f84a9fcc3da5116bb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Jack 1",
+  "setter": "AcroComp",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "7D3691DCBB85413B83EFFC9555C83DE6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1149r12p1153r12p1204r13p1218r13p1251r13p1287r13p1319r13p1372r14p1452r15p1472r15p1496r15p1513r15p1544r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.0,
+  "hold_fingerprint": "fe434eb9e28aa642b49688da8a49c5e0c22a9355aac76fb46c7ee6a84f6d7eb7",
+  "validation_errors": []
+}

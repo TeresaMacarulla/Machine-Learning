@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b61fd8a4b63b81b9f7aea145.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "jumpy jump ",
+  "setter": "usadc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 0,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "99eb336f-1de4-4232-9016-e5085dd5daba",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1243r12p1141r15p1144r15p1246r12p1347r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "564638e576de2039fab66d16c80773cab1af2c3bf39f42615ebaace1ad11c7a5",
+  "validation_errors": []
+}

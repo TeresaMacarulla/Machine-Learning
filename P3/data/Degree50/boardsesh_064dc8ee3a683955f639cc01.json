@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_064dc8ee3a683955f639cc01.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Physio boulder",
+  "setter": "Noway",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "741751A0E0664E898C2CF6B24726DB4B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1103r15p1186r12p1241r13p1254r13p1325r13p1395r14p1487r12p1506r15p1509r15p1532r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "b0683e866986df0b11cb30b70868a3f576c5f8f01ace72e88d0a2f37f9ad1fc9",
+  "validation_errors": []
+}

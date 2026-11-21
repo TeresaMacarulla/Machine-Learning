@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_709a2e783989e169f92be28c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Speed regulator",
+  "setter": "Daan234",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "bfd40304f37d48a8800fbeaffe2dc131",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1099r12p1147r12p1198r13p1212r13p1281r13p1295r13p1345r13p1379r14p1455r15p1487r15p1537r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "5ec0fdafe69777239d1a640fa370e223f1dcd3755c6ce94dc50b318ddfa9814c",
+  "validation_errors": []
+}

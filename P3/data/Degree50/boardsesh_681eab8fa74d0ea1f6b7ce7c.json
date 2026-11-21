@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_681eab8fa74d0ea1f6b7ce7c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Anomaly",
+  "setter": "daxxta",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "b47fa346834648918501c767e224de7f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r12p1167r12p1250r13p1281r13p1304r13p1373r13p1394r14p1452r15p1504r15p1525r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "8a28cb58b92dffbe7f3d0efe08a5a4c9360fa0c92381339e32c5ecb0826f6f57",
+  "validation_errors": []
+}

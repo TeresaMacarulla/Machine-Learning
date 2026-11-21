@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_26340c1863e18b240c90261e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "go low",
+  "setter": "LeOef",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "B457FE88A2FC4592A5E3ADC8AA1A5C24",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r13p1197r15p1220r12p1234r13p1241r12p1286r13p1317r13p1367r14p1471r15p1482r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a52e50bfc559b6ec942616fd02580a7fcca3b34084a1b424ec2cbc7d55b40fc8",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ae61ef6488227a0bbf68f2b8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Quantum Drive",
+  "setter": "JustinChladni",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "04FC8CF60684497C9BFE01DE5150F5B9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1184r12p1188r12p1270r13p1326r13p1370r13p1371r13p1382r14p1451r15p1478r15p1527r15p1543r13p1555r15p1561r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "9a725c030348d5d844c1904d776580b09bcbcbff498dadf868e87774a62f7b9d",
+  "validation_errors": []
+}

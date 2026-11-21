@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ff81a9cf9a76dfd160766654.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Piloting the Many Flying",
+  "setter": "mikebann",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "4dc47f9696234eb48af8076078760695",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1108r12p1143r12p1177r15p1196r15p1212r13p1215r13p1233r13p1235r13p1270r13p1271r13p1339r13p1341r13p1394r14p1462r15p1511r15p1568r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "c10c120c79162ac700eb237ebb1edb123a3d717ce176139dbfdf069ed92fd5bf",
+  "validation_errors": []
+}

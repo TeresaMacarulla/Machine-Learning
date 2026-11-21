@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e221f571daf027e49863130d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "The Glock Shop",
+  "setter": "jomari11",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "87DBFD08FF9047D5BEFEB012FB8F3857",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1163r15p1195r15p1198r12p1236r13p1284r13p1304r13p1353r13p1390r14p1493r15p1524r15p1570r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e00b9edf42b8370580610e416b53b3aa6063efe9eaf1c4bd34888228cf215924",
+  "validation_errors": []
+}

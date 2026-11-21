@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_31c8ee9c5872584ed854dd49.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "markoff-kette",
+  "setter": "derwelt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "509589d7b9564777b60571dedc342063",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1155r12p1235r13p1269r13p1355r13p1392r14p1447r15p1496r15p1498r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "6b60301dd08bff58e2dcfb3005431aa4c35f5900d4ec854f7b5fefdd5e11bc6a",
+  "validation_errors": []
+}

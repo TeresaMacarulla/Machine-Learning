@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f5b550bf53bdc7b9d112ea77.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "llw",
+  "setter": "Rowan-",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4cbd707c-fbb4-4405-b369-65e101c749df",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1180r12p1166r12p1130r15p1231r13p1267r13p1523r15p1298r13p1349r13p1567r15p1386r14p1388r13p1578r15p1390r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "c9aa97a69aa7abff0ccd91b31e33521fa74b7686610ac6df01fc82fd64538460",
+  "validation_errors": []
+}

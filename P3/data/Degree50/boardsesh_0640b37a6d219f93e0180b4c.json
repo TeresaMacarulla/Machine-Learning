@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0640b37a6d219f93e0180b4c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Easier than this?",
+  "setter": "Adrenaline.Factory",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "75d0a99d9a6149dc94ed4272fbe3f4f0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1165r15p1201r12p1202r12p1214r15p1234r13p1252r13p1267r13p1302r13p1317r13p1336r13p1369r13p1387r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.95,
+  "ascensionist_count": 228,
+  "quality_average": 3.32,
+  "hold_fingerprint": "ee3a12f3e9e3961d768c11164e24bdc05f586fb05b497aac4404d1e501bbe137",
+  "validation_errors": []
+}

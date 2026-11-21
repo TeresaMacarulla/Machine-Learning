@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eec0b285de76cee6d8b7f46f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "monkey moo moo",
+  "setter": "mikelent14",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "F75DEBAD4B13489EB7B86320D57F6C2B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1099r12p1169r12p1223r13p1239r13p1276r13p1308r13p1359r13p1391r14p1456r15p1491r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.98,
+  "ascensionist_count": 74,
+  "quality_average": 3.951351351351352,
+  "hold_fingerprint": "5c25ec963bfc548f94273dddc2616614d2a84c722c8011e2aff16530bffcb036",
+  "validation_errors": []
+}

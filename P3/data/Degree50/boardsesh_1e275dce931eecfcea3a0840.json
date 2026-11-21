@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1e275dce931eecfcea3a0840.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Power of Crimp",
+  "setter": "denispail",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1F928A3FE9594C3C8B03062275924838",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1146r12p1194r13p1210r13p1277r13p1281r13p1333r13p1337r13p1388r14p1464r15p1477r15p1502r15p1531r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.97,
+  "ascensionist_count": 79,
+  "quality_average": 3.64,
+  "hold_fingerprint": "15b0dd383ba06060ebfa21f7a8daa59c318dd5033403902d2615523734266835",
+  "validation_errors": []
+}

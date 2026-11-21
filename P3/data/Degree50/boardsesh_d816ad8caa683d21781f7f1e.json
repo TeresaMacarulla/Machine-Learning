@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d816ad8caa683d21781f7f1e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Good luck finishing it 6c/6c+",
+  "setter": "Dom_Ash",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "bc650b640f0746b9814fef70ac008cc3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1131r15p1198r12p1200r12p1269r13p1284r13p1288r13p1353r13p1381r14p1384r13p1542r15p1575r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.84,
+  "ascensionist_count": 19,
+  "quality_average": 3.32,
+  "hold_fingerprint": "4a5475dc69b4760a97a15bab40d58501643c36af1f63b07ce9dd71da5abf74da",
+  "validation_errors": []
+}

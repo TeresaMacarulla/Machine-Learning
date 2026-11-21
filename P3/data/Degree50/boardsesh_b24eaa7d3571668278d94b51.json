@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b24eaa7d3571668278d94b51.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "\u201cgrand\u201d",
+  "setter": "diegogarcia",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "E3DD0B525100427F9829699C60C86F3E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1214r13p1255r13p1361r14p1475r15p1569r13",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6fdcb7c5beef8030cb0595dea266adf181f98ca7b287e059278773962050468c",
+  "validation_errors": []
+}

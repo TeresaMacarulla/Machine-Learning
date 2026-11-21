@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_761ec66c9df141ea6af3f88c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "loki",
+  "setter": "saillard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3f4479bb-4d76-444b-b7da-c0fa877cd3b1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1219r12p1471r15p1236r13p1250r13p1267r13p1264r13p1333r14p1497r15p1494r15p1505r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 3,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f4c1540ec3451625aef912b3b932d8e77db5f00ea8ebf99b43889f30d2eb3d4f",
+  "validation_errors": []
+}

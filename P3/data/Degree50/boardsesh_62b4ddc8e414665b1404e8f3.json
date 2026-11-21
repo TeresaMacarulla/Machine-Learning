@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_62b4ddc8e414665b1404e8f3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "side whiner",
+  "setter": "procak",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2f42974442e8463eb1e2823110a219b4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1089r15p1125r12p1163r12p1170r15p1215r13p1234r13p1274r14p1276r14p1289r13p1302r13",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f3f1b1a6c27d010db7e82ea7744c9567fa5433eb75386e9b4784d2b0a720cbd0",
+  "validation_errors": []
+}

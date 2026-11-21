@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2dcd80dccd32749708be5460.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "3s cooking",
+  "setter": "kzk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "15FDD6932F7E493BB4451229A4DE7F3B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1151r12p1182r12p1201r13p1234r13p1247r13p1316r13p1347r13p1381r14p1478r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "f0c898bbd82e46aedc0d80ef0d705191bd0db9f164c4da58bbea86b886e65915",
+  "validation_errors": []
+}

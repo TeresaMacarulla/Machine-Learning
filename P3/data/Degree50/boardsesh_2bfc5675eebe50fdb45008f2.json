@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2bfc5675eebe50fdb45008f2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "JUMPY JUMPY",
+  "setter": "MI10",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "ca9fcccb-93c7-411e-9401-37c7a9b7af0b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1192r12p1246r13p1294r13p1347r13p1380r14p1107r15p1144r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": null,
+  "hold_fingerprint": "d3cb908cacfe5e063f2e7acedc2f78d96ae84e170d80018722754d24e34bf839",
+  "validation_errors": []
+}

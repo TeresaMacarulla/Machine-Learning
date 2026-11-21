@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0c87366cab447cb4295ec80b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Sorrowpsalm",
+  "setter": "Blitzcrank1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "f5c5f3504d35451f93f4c0a6138585f8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1128r12p1163r13p1195r13p1234r13p1282r13p1302r13p1336r13p1355r13p1391r14p1458r15p1461r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b72f9af72dccc9e48ab985e3d01b81ed4b5c95b561437fa23d37c131344058a3",
+  "validation_errors": []
+}

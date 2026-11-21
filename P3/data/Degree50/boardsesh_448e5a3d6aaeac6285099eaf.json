@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_448e5a3d6aaeac6285099eaf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Spider Crawl",
+  "setter": "bobogram",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "435A9BE0908A47448F0C47E6500DA0CF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1183r15p1220r15p1234r13p1239r15p1255r15p1268r13p1304r13p1334r13p1387r14p1454r15p1457r15p1487r15p1559r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "a615222d3640355a38668308543d904c005bd0123b6f95386d38b8fe4c845682",
+  "validation_errors": []
+}

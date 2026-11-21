@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7e7025366050f2cb021eafee.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Flick Out",
+  "setter": "ih3artcl1mb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "85DBFC89DA4647D79A22477810676E16",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1117r12p1157r15p1169r13p1172r12p1220r13p1251r13p1269r13p1303r13p1356r13p1369r14p1370r14p1588r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 3,
+  "quality_average": 4.5,
+  "hold_fingerprint": "fa9ee39dcd8c9b0266da8479eb3acc125f3d7f6f2d1c0ccf380be31ce07f313f",
+  "validation_errors": []
+}

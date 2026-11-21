@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9fd88c3a467394650e204ed2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Four Suns",
+  "setter": "Maxmeixenn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "63561675-7314-4da9-9c7b-6ddd5a901fbd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1513r12p1201r12p1113r15p1230r13p1298r13p1345r13p1367r13p1541r15p1370r13p1392r13p1394r14p1395r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6b5c85976675e3227e5d19dd947ff8c5a7e504a00f0553c68619291a7814953a",
+  "validation_errors": []
+}

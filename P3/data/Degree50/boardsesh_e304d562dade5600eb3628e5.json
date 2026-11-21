@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e304d562dade5600eb3628e5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Cloudpunk",
+  "setter": "pasdetraceur",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "eb8fd43a14094cd2998ca707974f4ff4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1236r13p1301r13p1386r14p1468r15p1526r15p1542r13p1577r13",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8b71ccbee5697866a6e4d46da2baa8d31b4b62f7df01e4124d3c1235c0bd9e01",
+  "validation_errors": []
+}

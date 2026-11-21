@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0bf41be2ee6b9ba5b3351d01.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "If you can't reach, make it steeper",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "d93bb03e66a741c0ba7c6655141e82d6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1159r15p1163r15p1214r12p1252r15p1263r12p1315r13p1316r13p1336r13p1387r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.96,
+  "ascensionist_count": 55,
+  "quality_average": 3.33,
+  "hold_fingerprint": "c6c035387ee8222a86362f34f3099eb185da0655803d82d805d6438497041f75",
+  "validation_errors": []
+}

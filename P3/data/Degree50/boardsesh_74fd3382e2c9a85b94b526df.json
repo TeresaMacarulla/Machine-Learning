@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_74fd3382e2c9a85b94b526df.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "nerfed",
+  "setter": "9degreesWaterloo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "400FA53B08D4419D84FE4F6A305BFB0E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1181r15p1199r12p1215r12p1266r13p1269r13p1299r13p1353r13p1371r13p1390r14p1485r15p1513r15p1521r15p1523r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 5,
+  "quality_average": 2.25,
+  "hold_fingerprint": "3fcf457e875c4b62740d663cb1ed01d58a5abf3ad6e3237d7622fa3465f459fa",
+  "validation_errors": []
+}

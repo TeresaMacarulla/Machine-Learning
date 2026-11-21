@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4c4b468fbefa7a1aef59e3ff.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Shltr",
+  "setter": "shep_dawson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "1FBF9B82D47F41A5A9109D27C58305F0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1203r12p1275r13p1305r13p1358r13p1375r13p1394r14p1470r15p1516r12",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "166cf5da186a48b25586f7e56818ee57b4526374ebbb7c15975f65b911cbf269",
+  "validation_errors": []
+}

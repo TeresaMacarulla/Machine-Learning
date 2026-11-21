@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bc7c6d12649d0d12a92e38ad.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Hot sand",
+  "setter": "de_justin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "795AD3BDBB464128B69D5AD6AF1ED262",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1114r15p1180r12p1227r13p1281r13p1338r13p1339r13p1350r13p1393r14p1460r15p1510r15p1512r12p1551r15p1553r15p1562r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "c936990ac9f11cbd157aff2c90553b42bdf119b8aa4e0d9367573cc11e80b62e",
+  "validation_errors": []
+}

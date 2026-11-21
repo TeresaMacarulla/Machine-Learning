@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_09cd295c4f6f0191107e03ee.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Soup squeezer",
+  "setter": "crimp_or_deck",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "be6832a3f6384d68877a3045c88d8032",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1132r12p1135r12p1186r13p1198r13p1238r13p1266r13p1272r13p1320r13p1326r13p1391r14p1451r15p1454r15p1504r15p1507r15p1508r15p1514r15p1535r15p1551r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.9,
+  "ascensionist_count": 32,
+  "quality_average": 3.48,
+  "hold_fingerprint": "1af4d1eb50800d682f0688a2ce6bf15e96915226df2dc55234c0e9b2cd9a09a9",
+  "validation_errors": []
+}

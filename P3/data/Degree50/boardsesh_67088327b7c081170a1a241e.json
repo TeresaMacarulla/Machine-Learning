@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_67088327b7c081170a1a241e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "octopus",
+  "setter": "lasertronic",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "805b8f1e7ace4cfbb47b03b9e15d9a35",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1149r12p1234r13p1287r13p1301r13p1354r13p1387r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "fa7a852b0f39be59c1d0089a2d0013ad3be911be180c2dd9e4723ddaeabc8d47",
+  "validation_errors": []
+}

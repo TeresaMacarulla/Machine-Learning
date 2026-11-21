@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bbc58d0ad05945066057da02.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "tortilla de patatas",
+  "setter": "cabrown",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "314c63c0bb9f464fa9bbd960ec7269e7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1075r15p1155r12p1157r12p1190r15p1223r13p1236r13p1249r15p1289r13p1302r13p1353r13p1384r14p1480r15p1514r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "80bb98a0da0d38d51c1b356e74e4586d8609638e9b2974828dab089008bdf38f",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a52fc5b62caf6766e101e5cf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Janky",
+  "setter": "maxcaudle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "100DA25A74294509860777A3BFF19F57",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1222r12p1270r13p1338r13p1386r14p1500r15p1514r12",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b566c789ecb390be9609833ca3553b447bb6138a72f5de57dc11683af6d7b8e9",
+  "validation_errors": []
+}

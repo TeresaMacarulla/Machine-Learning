@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_71b326f4a1a40f3a45843532.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "mini rocklands",
+  "setter": "egongu90",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0ACE6C1743484BCBA564B0827D1BB859",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1214r12p1220r15p1247r12p1289r13p1302r13p1303r13p1308r13p1392r14p1485r15p1492r15p1554r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.97,
+  "ascensionist_count": 30,
+  "quality_average": 3.53,
+  "hold_fingerprint": "38b5ae5d8059a441aaf9bae4b24f41ac2f2e004eccf36e15160d2d2cdf66f95f",
+  "validation_errors": []
+}

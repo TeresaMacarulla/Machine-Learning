@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5753f33c328d7db68ac76446.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Pikachus power",
+  "setter": "Rubenoide",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "e6c96776737d49cfa4d025603d8008aa",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1076r15p1155r12p1157r12p1223r13p1270r13p1359r13p1389r14p1391r14p1480r15p1482r15p1506r15p1554r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "f3ed590794cf5ab2c94dd7e9913e8bdd7cf8151f75560f33add352c2eed53401",
+  "validation_errors": []
+}

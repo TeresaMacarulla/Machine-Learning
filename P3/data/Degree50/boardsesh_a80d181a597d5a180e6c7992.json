@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a80d181a597d5a180e6c7992.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "hello world",
+  "setter": "willy982",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "605f2bab06d34dd3a7b968718b07b254",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r15p1122r15p1170r15p1173r15p1221r12p1223r12p1237r15p1253r15p1257r13p1259r13p1273r15p1306r13p1308r13p1340r13p1359r13p1391r14p1393r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.91,
+  "ascensionist_count": 491,
+  "quality_average": 3.32,
+  "hold_fingerprint": "f0f8c7783075f32cc3fe3536ecc4ef2f19d9c6e1daeacb25e16b4e30161d3311",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fe112f1f55b0f2373e6e52db.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "easy pinch",
+  "setter": "leemiho2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5a7c50eb-299a-4ccb-a1a9-e36c5f7b86fb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1196r12p1233r12p1232r13p1269r13p1131r15p1300r13p1183r15p1337r13p1387r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.79,
+  "ascensionist_count": 20,
+  "quality_average": 3.5699999999999994,
+  "hold_fingerprint": "087f464bb708ed087ac14d3ef9cb31465c706b86e1d4dc43bbc9f5bf574722bc",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6b660859f19d3d4750173ca6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "pinchaton",
+  "setter": "thijs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "93CCA2F406414733AE363DFB1DE4D9CE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r15p1148r12p1176r12p1217r13p1228r13p1285r13p1291r13p1375r13p1394r14p1527r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.5,
+  "hold_fingerprint": "a1ff8954478a485b79d64e3601ea1150321edb72491a038c0003a92568c64947",
+  "validation_errors": []
+}

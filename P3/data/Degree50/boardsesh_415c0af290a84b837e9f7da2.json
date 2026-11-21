@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_415c0af290a84b837e9f7da2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "hammer drop",
+  "setter": "KilterStudio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "FD7A7D152EE3400DAC36497F177726FD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1214r15p1253r13p1283r13p1355r13p1384r14p1470r15p1540r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.99,
+  "ascensionist_count": 4732,
+  "quality_average": 3.2507396449704142,
+  "hold_fingerprint": "fd17a8914c50553c3c71a4e3a81c5dd3695f7c47f1eae5a44e5e17caf963764f",
+  "validation_errors": []
+}

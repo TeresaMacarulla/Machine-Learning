@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7a64f09fc61f1294889daf50.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Gaia",
+  "setter": "GirthQuake",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "DE43BC3C09EA493988C769BD8EE49551",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1120r12p1149r12p1152r15p1185r13p1204r15p1235r15p1249r13p1250r13p1281r13p1351r13p1359r15p1369r13p1389r14p1453r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.94,
+  "ascensionist_count": 2240,
+  "quality_average": 3.3203037070120587,
+  "hold_fingerprint": "bc029ec8a68af7e1b6f8d65fab9af6b4c8527b67f5893f71a76db25fea8c3020",
+  "validation_errors": []
+}

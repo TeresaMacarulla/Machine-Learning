@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_da55c3a9eb2d8396b43a9f54.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Tiger tension",
+  "setter": "Lunacity",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "63466fe73e194d6ebb5b23b768be366f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r15p1166r12p1182r12p1211r13p1230r13p1248r13p1297r13p1328r13p1382r14p1455r15p1512r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2ec71324b9764e035ce400c84466c8bbc341378ea6a3b6b6d76dc9a6c49c47ab",
+  "validation_errors": []
+}

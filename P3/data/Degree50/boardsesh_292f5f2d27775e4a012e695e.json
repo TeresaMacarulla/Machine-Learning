@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_292f5f2d27775e4a012e695e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "LFO - Smol way up",
+  "setter": "klem",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "fe356353-417f-4acc-9a5e-8fc1636e42be",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1109r12p1462r15p1195r13p1181r13p1198r13p1234r13p1096r15p1110r15p1302r14p1131r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.75,
+  "hold_fingerprint": "c2db68eae73933faea226f076bfdc1bb4a210b8c853a021b95ff10038e126558",
+  "validation_errors": []
+}

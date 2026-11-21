@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e0488bbd1fb7eca841b962c5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Lock Lock",
+  "setter": "juancahisr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C9B2EA214A20498895112E208777CB5A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r15p1189r12p1200r15p1205r12p1252r15p1254r13p1275r13p1321r13p1337r13p1349r13p1389r14p1530r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "3feeac8780dde2445a3af5311859b9b5ea52d6dcafde7fa09a01e36da046c38c",
+  "validation_errors": []
+}

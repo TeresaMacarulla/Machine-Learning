@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_68298bd40e589e31d837c267.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Yes it's a handhold",
+  "setter": "Mr.White",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "44dcecd0-e904-4c66-9484-dca44ed06391",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1216r13p1197r13p1201r13p1302r13p1357r13p1543r13p1462r15p1457r15p1478r15p1391r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "c83678923571591cd4a15f7d55c5e9a404c9a6643b0af7f2e00ea4965fb044d0",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1f4ed1246e44286b92ff1fd0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "70 straight roof",
+  "setter": "bkbskilterboard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "B437B11126444AFFBB03386B0034C87E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1160r15p1200r13p1215r13p1267r13p1315r13p1353r13p1385r14p1387r14p1458r15p1477r15p1566r15p1568r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.67,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "de39893476e393e4e335a7c29dd122ae8137696bc6bea0a801b52f57ab3cfb14",
+  "validation_errors": []
+}

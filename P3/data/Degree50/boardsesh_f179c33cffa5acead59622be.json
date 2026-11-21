@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f179c33cffa5acead59622be.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "lock-n-pop",
+  "setter": "jd_putra",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2eb46debebec45dba54aee2f1c57ba2a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1139r12p1171r12p1242r13p1272r13p1302r13p1308r13p1315r13p1317r13p1382r14p1447r15p1452r15p1508r15p1547r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.6,
+  "hold_fingerprint": "d4b04bed9e3059f769a654b81c06fbac45b40a772041a91c7cb6421325cf1857",
+  "validation_errors": []
+}

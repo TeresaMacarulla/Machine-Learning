@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_02fa418f1f823890e201dbc8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "rolling blackout",
+  "setter": "pgsantaclara",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "727B4D08BC694640A4C6A35054DC0E00",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1145r15p1180r12p1234r13p1267r13p1297r14p1455r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "11888ef5894d159d08e9b6beb24c8c1210b9b9ef1fe9056bcf6f3f496ef58e97",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e2b945e1ce086afaaf686d2b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "bangerama",
+  "setter": "JimiHendrix",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "706384768712413BB729203933BD9638",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r15p1128r12p1188r15p1199r13p1216r13p1237r13p1287r13p1336r13p1380r14p1385r13p1457r15p1469r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "97bea9ae618afbd56be49bea74b63fbbb8d2f16b358ca2c2beccdf08d8fd6919",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_71b339052166bfa50c9fa866.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "SQUEEEEEZE V5",
+  "setter": "beth98",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "047df8946b0c42a69d3e08208e2d9ae4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r15p1170r15p1187r12p1233r15p1257r12p1281r15p1285r13p1306r13p1313r15p1355r13p1385r14p1389r13p1536r15p1589r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "4bf7a4468d3a39566910535443e5a594a5ab317208212a87023d16b09d45e260",
+  "validation_errors": []
+}

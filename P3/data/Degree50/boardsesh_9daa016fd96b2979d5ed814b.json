@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9daa016fd96b2979d5ed814b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "stuurboord",
+  "setter": "thijs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "48E65845C44A498899867AA5F008DA83",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1101r12p1138r12p1187r13p1216r13p1238r13p1261r13p1283r13p1350r13p1374r13p1389r13p1395r14p1451r15p1484r15p1487r15p1512r15p1535r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 12,
+  "quality_average": 3.83,
+  "hold_fingerprint": "229ce4aa31071ce6b57fef0ee3a71ddc1dbace8f2992ed750323813508beb57d",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_69f09605d3404c34c77bf5a4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "m and m direct",
+  "setter": "strings",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "8B0E358177794CBA8BB9F1C767246560",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1233r15p1257r12p1304r13p1305r13p1387r14p1500r15p1507r15p1508r15p1534r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.91,
+  "ascensionist_count": 66,
+  "quality_average": 3.33,
+  "hold_fingerprint": "050645e3dc2477c55f6b3f59c11bc97a14f979c720db9ef457ee6038fb83266a",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_03f73ff32239a3a34cd8fdcf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "ragged",
+  "setter": "chaseesmith",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "81C84966B1BF4AA8AE2B303962824603",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1142r12p1163r12p1194r13p1231r13p1245r13p1267r15p1300r13p1315r13p1353r13p1385r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 138,
+  "quality_average": 3.37,
+  "hold_fingerprint": "46cb46e6ee90be5e42cfa3a075db41a588b6278ba81f3690f77fca25f8e8ef9f",
+  "validation_errors": []
+}

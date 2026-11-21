@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_13da0b459e9d892fb1c6194c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Challenge with many holds",
+  "setter": "ben.ruhne",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 9,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "fa15c77c3df248b58154c4ea73b0ec99",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1169r15p1185r12p1200r12p1221r13p1235r13p1250r13p1253r13p1254r15p1268r15p1271r13p1284r13p1286r13p1319r13p1322r13p1353r14p1357r14p1470r15p1488r15p1495r15p1513r15p1524r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 2.0,
+  "hold_fingerprint": "3541d751451bc24b3496974d3b6b77297fff2ba81a9d87cfbd2ce3bff67c4cea",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3b7f002d28617200519d27b9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "manoreductor",
+  "setter": "iirenemar",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "84B5EE33D1F6480F8B6DA74A145CEACD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1147r12p1166r12p1234r13p1239r15p1252r13p1305r13p1336r13p1388r14p1455r15p1469r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "844be5255774f31c51d615b6e23a1526a50b98177568ed6119bb3b600c4fb18d",
+  "validation_errors": []
+}

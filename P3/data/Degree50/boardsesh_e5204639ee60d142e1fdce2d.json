@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e5204639ee60d142e1fdce2d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Ordinary climber",
+  "setter": "ambl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "C24916153E234256B2C08B542AD61491",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1181r12p1185r12p1235r13p1254r13p1305r13p1339r13p1371r13p1386r14p1498r15p1525r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "a6083a98fe18918305da6c77c10b2e33d58df9502744ebb5345f35beb092436a",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5fe2e3daa8ba9dd8ef8ee6b7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "One Arm Cross",
+  "setter": "Hiro10",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "425b76940c3443d08e780aacc4795f59",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1195r12p1227r13p1249r13p1315r13p1387r13p1390r14p1483r15p1484r15p1486r15p1502r15p1538r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "077969055f0861d47aa6f07594d7bcf32d5c7d80328a117a98e321cf9f6445ed",
+  "validation_errors": []
+}

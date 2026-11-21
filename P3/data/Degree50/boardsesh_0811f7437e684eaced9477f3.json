@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0811f7437e684eaced9477f3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Jacks whip",
+  "setter": "Dash",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C552370C1443426C8E8313AC37847580",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r15p1143r12p1163r15p1198r12p1200r15p1205r15p1219r13p1304r13p1306r13p1352r13p1387r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "795bcf287a003fc6e1a5cbe4d890a0583a04937484e9088e51d07f683071738b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_00d17aaa6a8262b7bd6ab911.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Regression to the Mean",
+  "setter": "NGS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "C4F3A31CD48C4D989CF6A7FA7B77DE42",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1199r13p1222r13p1270r13p1340r13p1375r14p1462r15p1474r15p1491r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.94,
+  "ascensionist_count": 17,
+  "quality_average": 3.75,
+  "hold_fingerprint": "e165739288a7218b80435fc4f19a07051f57c149b86a742cfc0d275fc66048b0",
+  "validation_errors": []
+}

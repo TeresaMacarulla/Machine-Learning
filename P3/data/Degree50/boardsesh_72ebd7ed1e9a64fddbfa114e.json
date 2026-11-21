@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_72ebd7ed1e9a64fddbfa114e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Z1",
+  "setter": "zach44",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "A4943DE9C0874BD19702002B178602A9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1144r12p1210r13p1260r13p1297r13p1315r13p1353r13p1369r13p1388r14p1461r15p1519r15p1549r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.91,
+  "ascensionist_count": 11,
+  "quality_average": 3.73,
+  "hold_fingerprint": "f21ca562568d2277b617ddde122dccf8c55fee79cfdf3c24e28f91ff56da4b05",
+  "validation_errors": []
+}

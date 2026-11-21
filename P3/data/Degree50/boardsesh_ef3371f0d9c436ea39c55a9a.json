@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ef3371f0d9c436ea39c55a9a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "mini dyno",
+  "setter": "flavafraz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "253F3E66C61B4D7CB2764D9B3E8F1376",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1113r15p1161r12p1181r12p1212r13p1265r13p1280r13p1300r13p1382r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f6eb5c12afba3985654a28f16866cc35bbb1dd0cabbd4d35311f5da5261f1b8c",
+  "validation_errors": []
+}

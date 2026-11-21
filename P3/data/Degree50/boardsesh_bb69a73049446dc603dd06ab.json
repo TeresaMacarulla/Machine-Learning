@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bb69a73049446dc603dd06ab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "right-hand roughhousing",
+  "setter": "Dash",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "DAAEA2346DCF48949A14A9ED37838CF7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1153r12p1171r15p1189r12p1212r15p1233r13p1235r13p1300r13p1351r13p1390r14p1482r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6f1def56a2fb403ccb3b82c65e3c27dd7a94a7ec1dcb09640739422493c32e6a",
+  "validation_errors": []
+}

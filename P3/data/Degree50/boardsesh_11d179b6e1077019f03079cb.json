@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_11d179b6e1077019f03079cb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Soy source",
+  "setter": "shugo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1E2E2B4AB34B4A3B89333160E4B1BD99",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1156r12p1239r13p1241r13p1251r15p1305r13p1308r13p1356r13p1387r14p1448r15p1451r15p1543r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.33,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "448c13b96e610c61162fdface5300ae12b7121c76f0e18927e955fe844201bd0",
+  "validation_errors": []
+}

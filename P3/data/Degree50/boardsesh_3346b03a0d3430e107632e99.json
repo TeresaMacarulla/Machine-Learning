@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3346b03a0d3430e107632e99.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "lottasnatchy",
+  "setter": "zdordai",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "7D030C122DB14D06BB8549DA11630A4A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1152r15p1217r13p1233r13p1264r13p1336r13p1371r13p1392r14p1453r15p1457r15p1478r15p1495r15p1511r15p1558r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d0693d84c2832a70091c173721c39093a201ebe6e429d91013d41853738aad3e",
+  "validation_errors": []
+}

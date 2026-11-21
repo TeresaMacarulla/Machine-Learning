@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4a48f1888a4ada57e7b8feb8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "spin cycle",
+  "setter": "JStreet",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "22F6936A916E41BD8BAB511A7674C847",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1199r12p1236r12p1271r13p1341r13p1382r14p1385r13p1389r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "11955e129100c94856eaed6639327d5553ba5516cd20dda1f0e39b4aa9ed70b4",
+  "validation_errors": []
+}

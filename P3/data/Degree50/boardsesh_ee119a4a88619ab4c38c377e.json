@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ee119a4a88619ab4c38c377e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "off the floatin",
+  "setter": "manau.grimper",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "D0FD1AEE385348E9BAFF7165504CC0E6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1158r12p1175r12p1231r13p1248r13p1303r13p1305r13p1308r13p1361r13p1395r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.09,
+  "ascensionist_count": 36,
+  "quality_average": 3.42,
+  "hold_fingerprint": "516f85e68cab3ebb4a844e716da7f0d571341ac2994bdaf3debd0d17552195e8",
+  "validation_errors": []
+}

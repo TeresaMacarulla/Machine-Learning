@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0a620a8ee90df793ca5767b1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "The best emcee with no chain",
+  "setter": "cy_mcsender",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "370EA02936D344D5959784B12D0E78E3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1171r12p1187r12p1232r13p1264r13p1302r13p1303r13p1306r13p1375r13p1395r14p1449r15p1453r15p1470r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6c6671fd7bdaf00017a62d552e52d5fa3a795a697cda163ee101dcf4c2bcc3a9",
+  "validation_errors": []
+}

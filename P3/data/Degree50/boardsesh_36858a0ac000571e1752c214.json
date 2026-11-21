@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_36858a0ac000571e1752c214.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Rasta Rocket MK2",
+  "setter": "Oslo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "460c640f-a955-4df1-9f15-e9f0b5c7c8fa",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1461r15p1458r15p1149r13p1488r15p1200r13p1542r15p1254r13p1285r13p1323r13p1393r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "d9c6ccc7ba4901ef2067275c9c983d2e1a2359ee95fb0b5c2e893cfd336787f4",
+  "validation_errors": []
+}

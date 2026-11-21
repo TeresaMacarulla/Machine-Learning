@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_01023234d34483f13b9d0f52.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "To the entrance",
+  "setter": "AlvaroPaez",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2ed76db6-9c1c-48f1-a469-7724901304df",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1231r13p1249r13p1321r13p1368r13p1380r14p1304r15p1485r15p1458r15p1462r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "5a51567677fd766f9639b705013daf6e0b059a844312bca49fb86206b11a6cb7",
+  "validation_errors": []
+}

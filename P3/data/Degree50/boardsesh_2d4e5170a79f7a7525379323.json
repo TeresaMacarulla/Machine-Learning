@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2d4e5170a79f7a7525379323.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Ticks the boxes",
+  "setter": "Felix_H",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "6854453a599445b28d6aed4a23357a88",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1180r12p1201r12p1268r13p1339r13p1387r14p1456r15p1494r15p1496r15p1531r15p1571r15p1596r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.22,
+  "hold_fingerprint": "14f85409bda9b16f9da7f9dcb96baba909637e789dee3968c6e50f13ae6e1311",
+  "validation_errors": []
+}

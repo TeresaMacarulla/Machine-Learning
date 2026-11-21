@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_202781d563cbafe8bbb5e38a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Mazda v6",
+  "setter": "uncleiso",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1F9A2B7B9D6A44E28BC0E7002D74A1E2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1154r12p1201r13p1213r15p1236r13p1281r15p1284r13p1321r13p1353r13p1354r13p1385r14p1447r15p1449r15p1454r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.15,
+  "ascensionist_count": 13,
+  "quality_average": 3.77,
+  "hold_fingerprint": "f8e121540a0a46c387f11116ef4a56a475edee10473d7720a0d2a952096eb20d",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d880f0382e3c2c1021700799.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Fatman legacy",
+  "setter": "itzanarchy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "e30e492c4e9b40148d33c7b7cf55dedc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1138r15p1148r12p1153r12p1171r15p1185r13p1198r13p1234r13p1236r13p1269r13p1289r13p1340r13p1391r14p1453r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "4effa117bf513086cfed53e4142c6af9ddc7b8233dde3aa7458e88662ffc6e2c",
+  "validation_errors": []
+}

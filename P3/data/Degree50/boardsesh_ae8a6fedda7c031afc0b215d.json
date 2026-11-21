@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ae8a6fedda7c031afc0b215d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "1, 2, Buckle My Shoe",
+  "setter": "Lockoff",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "B17682683A8B4DB9939ADE7DBC904048",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1147r12p1233r13p1268r13p1322r13p1340r13p1394r14p1459r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "7f400b4d737d9e32161679fe55d26746f29b92ce3ff8f406b0307f9a8ef30461",
+  "validation_errors": []
+}

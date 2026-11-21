@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_850a8d0e6f616e7bca03b527.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Iron Cross Sim",
+  "setter": "meveleigh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "f26eb7d0fbed4c7d8d56423d545d2c29",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1115r15p1132r12p1208r15p1214r12p1237r13p1255r13p1319r13p1324r13p1387r14p1457r15p1504r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.97,
+  "ascensionist_count": 38,
+  "quality_average": 3.22,
+  "hold_fingerprint": "c15ad89b1b11a916316924b6dfdbf237f7755c29e00ca48f4c237458c941d9c9",
+  "validation_errors": []
+}

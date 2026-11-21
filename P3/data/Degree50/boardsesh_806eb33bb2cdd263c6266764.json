@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_806eb33bb2cdd263c6266764.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "freefall lite",
+  "setter": "haydens",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "e3807137-c1f7-4f39-9089-15ee864a865a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1536r12p1186r12p1256r13p1274r13p1286r13p1198r13p1476r15p1331r13p1330r13p1379r14p1117r15p1511r15p1264r13p1150r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.75,
+  "ascensionist_count": 5,
+  "quality_average": 3.75,
+  "hold_fingerprint": "68167d342dcccac90168d05bffad3dd5327bea71ef6070bbaa4e8135d1f21686",
+  "validation_errors": []
+}

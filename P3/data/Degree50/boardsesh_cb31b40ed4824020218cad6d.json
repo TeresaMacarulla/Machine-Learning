@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cb31b40ed4824020218cad6d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "ros\u00e9 alarm",
+  "setter": "bjorno",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "A92732E852C441FCB911C4D129674CFE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1167r12p1198r12p1236r13p1288r13p1308r13p1371r13p1374r13p1384r14p1476r15p1508r15p1567r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e49755c024f8f0c02fc80d946bb22a4afee4a8374faf896dafb67c77376d4079",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_71cd0bac858c86a1e5d813f7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "hook it up",
+  "setter": "Benny9595",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "6d8c7357fcc245c5803e258d2ca88586",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1106r15p1174r12p1204r12p1257r13p1308r13p1343r13p1394r14p1500r15p1518r15p1543r15p1554r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "39290de1eb2ec4027152bd11721a78622736ab92c75eb961f7b90a43e2e66267",
+  "validation_errors": []
+}

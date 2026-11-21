@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5c341646b4dea3d3a77471b3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Modulorish I",
+  "setter": "ArnevanWees",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "6e0a58b0c8a148f2807c1dc3a8c954d5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1174r15p1183r15p1184r12p1190r12p1235r13p1258r13p1286r13p1341r13p1390r14p1471r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "cef0063f9f82fb0c8bc26f8f18d2896317289f7e4792d685d296365923bef86f",
+  "validation_errors": []
+}

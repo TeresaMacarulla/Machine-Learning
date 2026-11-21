@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_344b243515fd16cd3cb8c2ed.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "R083",
+  "setter": "HugoChan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "b6f27a7d704340eca8a31edbfb95b7d3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1171r15p1201r13p1235r12p1238r12p1302r13p1357r13p1372r13p1393r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a63e09ce59aa392a69fc44b8ddc3316946e9d4ea760a84164115e404e6985a09",
+  "validation_errors": []
+}

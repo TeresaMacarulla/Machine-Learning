@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a61a4604a7a676e55c0aac7a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "a throw and a whip",
+  "setter": "kohenc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "847E11A0DE1542488E62B5640BA6AFB7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r15p1136r12p1156r15p1202r13p1230r13p1234r13p1280r13p1347r13p1379r14p1485r15p1513r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "4bcf3a19821f9afe4cec3b57cd77d4e5c916b0b332087f9426b61b854bc7e316",
+  "validation_errors": []
+}

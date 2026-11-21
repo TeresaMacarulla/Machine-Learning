@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_44af2c9d9284be5bff7d126e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "French Kiss",
+  "setter": "j-weens",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "c70ffa2e-411b-4100-908f-4915b97e478b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1126r12p1142r15p1199r13p1203r13p1157r15p1204r13p1224r13p1274r13p1305r13p1392r14p1181r12p1464r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": null,
+  "hold_fingerprint": "9c65b823ab8afc71ab6ece15eee799ec6c3ee2ceeb058a1edcb68bcd579da0f3",
+  "validation_errors": []
+}

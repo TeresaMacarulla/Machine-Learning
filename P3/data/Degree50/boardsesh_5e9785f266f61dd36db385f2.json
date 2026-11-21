@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5e9785f266f61dd36db385f2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "NOT ALONE95",
+  "setter": "Nauka",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3a1fd0bd-a8a2-4667-a8c7-932f2cd8043d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1384r14p1334r13p1321r13p1304r13p1307r13p1551r15p1533r15p1205r12p1258r13p1157r15p1540r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 4,
+  "quality_average": 2.0,
+  "hold_fingerprint": "9a1b7b70ae6dd5e999ae7c9a46d4ef995b4c9ddda6bd5b93cf3b687524b111ae",
+  "validation_errors": []
+}

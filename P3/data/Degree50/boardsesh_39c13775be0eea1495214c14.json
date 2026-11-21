@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_39c13775be0eea1495214c14.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "mycelial connection",
+  "setter": "flo_brailsford",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "461fe6a33e1e49349ce305c1f7ceb265",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1137r15p1148r12p1180r12p1202r13p1270r13p1324r13p1390r14p1460r15p1479r15p1505r15p1542r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.96,
+  "ascensionist_count": 285,
+  "quality_average": 3.37,
+  "hold_fingerprint": "d95003fc4fb22d9e47390654acf415747501e6776891f6b408b8e98eeed15df5",
+  "validation_errors": []
+}

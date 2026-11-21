@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_30c098f0d1a26f8e21a3015b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Mooning ",
+  "setter": "kyrill999000",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9baf0e09-1923-4ae0-a49a-3a80a57d7e7f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1185r13p1237r13p1079r15p1257r13p1191r15p1308r13p1324r13p1242r15p1393r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.8,
+  "ascensionist_count": 10,
+  "quality_average": 4.2,
+  "hold_fingerprint": "0e1c9ccd6bb6ad3110fe04f57c3e43a3ac1af97658c2a39feaf9ea4d9876aaf0",
+  "validation_errors": []
+}

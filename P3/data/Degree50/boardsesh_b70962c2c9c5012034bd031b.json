@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b70962c2c9c5012034bd031b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "fake papi",
+  "setter": "daanb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "def0c25a285d48458a3a63be451219fd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1202r12p1215r12p1268r13p1284r13p1368r13p1390r14p1486r15p1488r15p1524r15p1529r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.9,
+  "ascensionist_count": 21,
+  "quality_average": 3.2,
+  "hold_fingerprint": "3a6151ec25abc9908044e003afa2e06b2e675d5967bbb685e97fffd1dc1c14c4",
+  "validation_errors": []
+}

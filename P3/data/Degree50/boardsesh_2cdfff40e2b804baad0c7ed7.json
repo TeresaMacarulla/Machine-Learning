@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2cdfff40e2b804baad0c7ed7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "jaws(replica)",
+  "setter": "sonbot",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3C533962D5A54F68942C368DD6BCB8CC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1190r12p1204r13p1263r13p1267r13p1269r13p1271r13p1347r13p1379r14p1481r15p1509r15p1513r15p1520r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "69d3cf159ecfb62e087f66b9187d1b6e35048c70e8b492204fc3f0df48451ea4",
+  "validation_errors": []
+}

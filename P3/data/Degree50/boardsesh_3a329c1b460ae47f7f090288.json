@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3a329c1b460ae47f7f090288.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Twisted Shoulder",
+  "setter": "santobekking",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5BDF836E814B4ACA81C188AD68F7B915",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1155r12p1157r12p1223r13p1235r13p1262r15p1271r13p1284r13p1330r14p1345r14p1353r13p1366r13p1368r13p1447r15p1450r15p1513r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "da0d13aceef5348064ceff79d36f5619bb0678fe3ef9d490202415e6906ef015",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0f94980d16dd49729e6e1f7b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "exclusion",
+  "setter": "Emil Abrahamsson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1e2124a0-3350-4950-831a-92f8fc6b4823",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1265r13p1320r13p1322r13p1249r13p1202r15p1201r15p1184r15p1179r12p1468r15p1395r14p1376r13p1221r15p1323r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.6,
+  "ascensionist_count": 6,
+  "quality_average": 4.8,
+  "hold_fingerprint": "f70f16afa52577e72d5c9c7cd9ebbd9f594bfbff399ac1c0d5d6fdfeab922d17",
+  "validation_errors": []
+}

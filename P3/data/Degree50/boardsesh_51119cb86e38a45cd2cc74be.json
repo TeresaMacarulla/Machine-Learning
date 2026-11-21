@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_51119cb86e38a45cd2cc74be.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "swing it like it's hot",
+  "setter": "rmnclimber",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "898dc0f7c565497aa4201201f03350ec",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1142r15p1183r12p1185r12p1211r13p1215r13p1263r13p1278r13p1353r13p1390r14",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9a9e0cecd51cfbe8cfca8465f4716785fae9f4ff57d8224f166d16c9a98ac22b",
+  "validation_errors": []
+}

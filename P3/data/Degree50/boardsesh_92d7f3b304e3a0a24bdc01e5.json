@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_92d7f3b304e3a0a24bdc01e5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Bouncy Castle",
+  "setter": "bentaylor_",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1D49E803C3FC4DA6B1629B856518D10E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1179r12p1229r13p1233r13p1285r13p1315r13p1353r13p1356r13p1391r14p1493r15p1585r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "94ba29b75dffd1747c0c911f2ebf63227b3735556304640e74892a0518783d04",
+  "validation_errors": []
+}

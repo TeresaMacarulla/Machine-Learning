@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5cb64c7a9323b1c27a2265a1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "heel hook?",
+  "setter": "max481",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "062756c5-7dea-474f-80cc-1e1d664b17b4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1121r12p1205r13p1236r13p1471r15p1254r13p1499r15p1496r15p1284r13p1371r13p1323r13p1394r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 5,
+  "quality_average": 2.5,
+  "hold_fingerprint": "970b6432f207e7192e3ecc11d071c6576a05056c2bc203cc9dbab8a5b70177aa",
+  "validation_errors": []
+}

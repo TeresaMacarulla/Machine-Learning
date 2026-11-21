@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ac2cf35445155617b8f38e60.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "KrossFit",
+  "setter": "IgorBykov",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0F6365B1D9FF4BB8AA2B10CBC19A916E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1086r15p1129r12p1131r12p1200r13p1235r13p1272r13p1340r13p1389r14p1516r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 78,
+  "quality_average": 3.31,
+  "hold_fingerprint": "81840f2bd9bbf4c55cabea16092e08da34c4c6554f359bbef32a767718cc1d27",
+  "validation_errors": []
+}

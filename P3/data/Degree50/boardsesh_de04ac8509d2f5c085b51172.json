@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_de04ac8509d2f5c085b51172.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Cannonball confidence",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "ea4e9acf7f24490db50d27f306c642ab",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1160r15p1231r12p1263r12p1302r13p1353r13p1390r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "403f47629997f46879ad0e4c904ce6783f44224ab9c46d541f3bf1cf8fce2ee0",
+  "validation_errors": []
+}

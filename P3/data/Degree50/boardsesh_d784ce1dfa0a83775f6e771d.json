@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d784ce1dfa0a83775f6e771d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "DefJam",
+  "setter": "Lewin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "30775E6E932F4D52A5C2851434F2980F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1199r12p1201r12p1248r13p1303r13p1370r13p1375r13p1394r14p1494r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "88966d3aa3b184c46f011f63b50df80e494c1e03715905d6ff7ce1f8b3f2924f",
+  "validation_errors": []
+}

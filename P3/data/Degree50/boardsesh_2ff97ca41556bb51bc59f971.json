@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2ff97ca41556bb51bc59f971.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Heavy Metal",
+  "setter": "bloop",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "e56925a397f0462d83c17c4128c528bc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r13p1187r13p1244r15p1270r13p1281r13p1379r14p1447r12p1453r15p1479r15p1481r15p1482r12p1513r15p1527r13p1593r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 4,
+  "quality_average": 5.0,
+  "hold_fingerprint": "24a2076874940ef5f057b751d38382f94c8b40810dc44620166e7af2687a2c76",
+  "validation_errors": []
+}

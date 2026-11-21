@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_50c510b1d8dc3332036fd657.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "A Pinch Assault",
+  "setter": "mbungeroth",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "F817A89A68DA4AABBD3FAF24A69229D9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1118r12p1148r12p1176r15p1186r13p1215r13p1234r13p1247r13p1274r15p1285r13p1317r13p1338r13p1355r13p1390r14p1454r15p1504r15p1514r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.33,
+  "ascensionist_count": 4,
+  "quality_average": 4.33,
+  "hold_fingerprint": "7fa9a440f4407c002066bc2d351f923968bd3d5327db1df3cdb590d39b05b9e9",
+  "validation_errors": []
+}

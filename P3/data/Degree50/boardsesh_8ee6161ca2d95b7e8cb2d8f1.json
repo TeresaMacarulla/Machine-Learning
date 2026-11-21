@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8ee6161ca2d95b7e8cb2d8f1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "spring",
+  "setter": "deadpointer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "A8849904228E46AC9A9B34DE945C933A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1162r12p1182r13p1203r15p1230r13p1269r13p1283r13p1339r13p1387r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.99,
+  "ascensionist_count": 85,
+  "quality_average": 3.3900000000000006,
+  "hold_fingerprint": "df0b6fd4a07ae603af1afe12b665bdba4170ebf76c0a6e2e099d7ff39488b3da",
+  "validation_errors": []
+}

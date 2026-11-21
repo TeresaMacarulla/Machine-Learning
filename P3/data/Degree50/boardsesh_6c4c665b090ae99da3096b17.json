@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6c4c665b090ae99da3096b17.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Horizontal match",
+  "setter": "greencrow",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "af4c80ba7c744f7480f365375df99c76",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r12p1093r15p1163r12p1171r15p1199r13p1220r13p1270r13p1296r14p1304r13p1335r13p1351r13p1455r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "af2f6eebc58659ee9b47a1a76d7f6cfec302f2788af123c3e854807c3063c19a",
+  "validation_errors": []
+}

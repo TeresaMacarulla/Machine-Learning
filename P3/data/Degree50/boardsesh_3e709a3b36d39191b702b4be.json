@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3e709a3b36d39191b702b4be.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "volkswagen beetle",
+  "setter": "samgtmeyer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "783664c86b50456090ce6cb304cd71d5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1166r12p1188r13p1249r15p1271r13p1291r13p1320r13p1354r13p1385r14p1499r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.87,
+  "ascensionist_count": 15,
+  "quality_average": 3.13,
+  "hold_fingerprint": "a47c6a1ac9278aa64f5b806b527195983a7ecea616958b69988d48459c22dee0",
+  "validation_errors": []
+}

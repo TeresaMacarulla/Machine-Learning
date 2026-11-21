@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_130c7f7537ee21b6d1daac7a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Una poesia",
+  "setter": "GirthQuake",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "480F6D98E8114F008CD9EDF562795E9A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r15p1155r12p1174r12p1239r13p1257r15p1269r13p1322r13p1325r13p1338r13p1394r14p1517r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 316,
+  "quality_average": 3.4050793650793647,
+  "hold_fingerprint": "e46b6773fc307af4dee4477cdb327f7232fd7528aa44e294d7bdbbbd9f0776b0",
+  "validation_errors": []
+}

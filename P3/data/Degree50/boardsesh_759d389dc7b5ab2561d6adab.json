@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_759d389dc7b5ab2561d6adab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Crimp limp for imps",
+  "setter": "zychow",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "186A0B982FDE4EFB9851E5AF6EE1A3B0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r15p1166r15p1171r15p1199r15p1219r12p1233r15p1253r12p1269r13p1284r13p1321r13p1337r13p1371r14p1372r14p1487r15p1523r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.78,
+  "ascensionist_count": 9,
+  "quality_average": 2.67,
+  "hold_fingerprint": "38ee4b9dd5889797be388c29884dfd6623b044383d7b1e146d833f5661e02a74",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7c6e5a45306599c9a0ab4ebe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "mall grab",
+  "setter": "JasperDudley",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2BCDE114694143BF8FA7D9FCC7ABBC42",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1203r12p1205r12p1271r13p1289r13p1320r13p1387r14p1496r15p1532r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "349190768155efd203cc6b6e0b692a3c431d1728cbc88a3644745ece2cbec7e0",
+  "validation_errors": []
+}

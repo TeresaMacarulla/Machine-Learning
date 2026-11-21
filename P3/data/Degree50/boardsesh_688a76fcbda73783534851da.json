@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_688a76fcbda73783534851da.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Oceans 12",
+  "setter": "bloop",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "c13b44b35d3e4d3f82cecaa68ead3295",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1121r12p1197r15p1222r13p1264r13p1285r13p1286r13p1332r13p1379r14p1447r15p1482r15p1507r15p1521r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 6,
+  "quality_average": 4.67,
+  "hold_fingerprint": "57760d4233b2a4ac6591a47aa0ab992ec53a6e8f47fea02c9f40eecdcd4c0dd9",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4bd6a320f43aebb0f7357a57.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "bonanza",
+  "setter": "JakeSully",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "28b7afd869744428b0ea8919e78d049d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1163r15p1182r12p1186r15p1215r12p1257r15p1268r13p1336r13p1340r13p1356r13p1394r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "eaec2bbb3b77a2c875bc6eee09a2f35136e5d9f5abaac47da94fd193dcc33db2",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a69ef2f1d7bf858652b046b8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Cat Pillar",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "A1E59A82EE1F40559CE0FD04434CAFA3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1165r12p1190r15p1203r13p1235r13p1272r13p1273r13p1339r13p1353r14p1457r15p1505r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.01,
+  "ascensionist_count": 2766,
+  "quality_average": 3.3400000000000003,
+  "hold_fingerprint": "4bc3e0e1c252175edc9064504eb734f4a6802d82deff6151b21efdc3d3417cd9",
+  "validation_errors": []
+}

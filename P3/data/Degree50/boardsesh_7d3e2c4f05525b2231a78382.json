@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7d3e2c4f05525b2231a78382.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Fly on foot",
+  "setter": "amitaidemayo5",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "b46e04771b9c4295a936aa165c2d55ae",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1182r15p1186r12p1220r12p1270r13p1283r13p1317r13p1330r13p1362r14p1499r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ab5afa7e9fbce0358c7223c55b12372a44f8f2864590c852d9c41a72e0faf45c",
+  "validation_errors": []
+}

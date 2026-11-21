@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f60f28d07d73f398b07fe474.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Jugfest (campus)",
+  "setter": "cbeniaris",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "8b082f60-0561-4fca-bb9f-6aa2b91e7778",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1257r12p1308r13p1353r13p1302r13p1382r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 38,
+  "quality_average": 4.17,
+  "hold_fingerprint": "19335ce41367480380092d68add3c82113e372794b24136603916899cd58586f",
+  "validation_errors": []
+}

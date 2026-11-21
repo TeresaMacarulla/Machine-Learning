@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3bff4022bb5d75537e5beaa3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "dasteepsteep",
+  "setter": "MarshallHenderson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "11BAFF78B08446DBA0722B6B01326F7F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1155r12p1204r13p1237r13p1250r13p1285r13p1315r13p1332r13p1368r13p1373r13p1393r14p1478r15p1513r15p1529r15p1574r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.81,
+  "ascensionist_count": 16,
+  "quality_average": 3.31,
+  "hold_fingerprint": "f52faa94d8bc15f4886eb08791af13c0bcd61c1a181d112938f6fa4fa3d64058",
+  "validation_errors": []
+}

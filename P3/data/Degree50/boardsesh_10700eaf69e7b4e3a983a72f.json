@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_10700eaf69e7b4e3a983a72f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "100R KM R7",
+  "setter": "pampa.nihao",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "90c2c3e7d1cb4b5c933357a238447851",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1205r12p1221r12p1257r13p1289r13p1308r13p1341r14p1480r15p1489r15p1499r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e38c709ca1b1b63738e3922db30e0e075ac354b91204af934a179759f9fc4aa5",
+  "validation_errors": []
+}

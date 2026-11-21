@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_706817166f8fa053b9e8d1e2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "helicopter ",
+  "setter": "Pickles666",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 11,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "8caeed89-256a-4dda-820e-311268e0aebd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1208r13p1242r13p1140r12p1275r13p1309r13p1343r13p1377r13p1393r13p1390r13p1387r13p1384r13p1382r13p1380r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.25,
+  "ascensionist_count": 4,
+  "quality_average": 1.75,
+  "hold_fingerprint": "da061415a764023035a0f4394b0ccea449324c438ee169836033f0350a154ed3",
+  "validation_errors": []
+}

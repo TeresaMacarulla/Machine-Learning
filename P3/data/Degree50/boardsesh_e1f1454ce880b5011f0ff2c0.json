@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e1f1454ce880b5011f0ff2c0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Westbound and Down",
+  "setter": "SeaOfCzars",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "012E3B855CBB4950BBBDA2063CE59E31",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1169r12p1201r13p1232r13p1248r13p1263r13p1314r13p1329r13p1379r14p1476r15p1493r15p1502r15p1511r15p1519r15p1529r15p1537r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "da418df3ed496fecbdd48dac8d6537dc15098d64074c6dac0b141a3c977be790",
+  "validation_errors": []
+}

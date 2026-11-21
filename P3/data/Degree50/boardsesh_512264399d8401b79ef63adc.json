@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_512264399d8401b79ef63adc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "101 Dyno",
+  "setter": "Senor_Taco",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3918afabdc4c43e6a766f24603fbf9f9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1159r15p1163r15p1263r12p1306r13p1308r13p1353r13p1395r14p1536r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "b08a4093da2dfb90f8332f7d3ada95e382a4f0d92b42363c990675a303bbc2b2",
+  "validation_errors": []
+}

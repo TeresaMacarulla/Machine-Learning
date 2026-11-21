@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5c0c2060f73593ac10e09950.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "2006 Toyota Corolla",
+  "setter": "joha_kilter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "906e9856-92bb-490c-81db-7174d0c430cc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1504r15p1249r13p1270r13p1203r15p1289r13p1572r15p1245r13p1142r12p1111r15p1464r15p1394r14p1175r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.5,
+  "ascensionist_count": 2,
+  "quality_average": 1.5,
+  "hold_fingerprint": "e53c9e91ed37fe6d211e01a47d7149e9ffb70ccc993c6154eb14bd4cf3ccda7d",
+  "validation_errors": []
+}

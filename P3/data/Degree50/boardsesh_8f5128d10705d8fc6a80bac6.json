@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8f5128d10705d8fc6a80bac6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Far Gone",
+  "setter": "callum.ks",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "BEE593564F5A49D0BC76523D4883EC89",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1165r15p1197r12p1210r15p1227r13p1282r13p1299r13p1305r15p1353r13p1384r14p1458r15p1463r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "c02d657ecade87109c44f8cad31b389bbd475fd8cdbf84b9c847e373bec20c8b",
+  "validation_errors": []
+}

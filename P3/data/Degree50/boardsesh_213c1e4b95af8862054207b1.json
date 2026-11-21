@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_213c1e4b95af8862054207b1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Brotosynthesis",
+  "setter": "peterclimber46",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "ab767cc1494b4220bf4aafd6d8b89441",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r12p1239r15p1256r12p1270r13p1281r15p1322r13p1353r13p1389r14p1499r15p1506r15p1598r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.33,
+  "hold_fingerprint": "2b365ecbefe452cb4c46a089d019b079da92e6c4ecf9f0ee4ac7c8cd1ec19418",
+  "validation_errors": []
+}

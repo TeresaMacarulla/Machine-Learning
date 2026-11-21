@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_38cd113475b31bf5ee5d7c0c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "bigyikes",
+  "setter": "mattymoody",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "168C0A47872D4ED397B60C7D50A79ED8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1195r13p1282r13p1299r13p1304r13p1390r14p1458r15p1462r15p1465r15p1524r15p1532r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ef2abb3154c4f0621210b7c3b68965fa493af5c6643dc1b5dedc41ef6f1af4c3",
+  "validation_errors": []
+}

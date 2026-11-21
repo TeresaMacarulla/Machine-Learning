@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5c3b593de9a6d26c6d43e106.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "droppeth",
+  "setter": "GasGiant",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "DC0DD8D37E25424083D7D5434766C385",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1154r15p1167r12p1203r13p1236r13p1269r13p1272r13p1340r13p1393r14p1455r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9ad08fcbec394655c98c9593d30acff862f88961d9e6f95a82ec04188cfb4ed2",
+  "validation_errors": []
+}

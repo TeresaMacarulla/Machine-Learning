@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c4b1cc447951adba14430579.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "pinched ",
+  "setter": "CRPTA",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "60a82ec7-537d-48b6-94f9-e38f08cf91bc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1268r12p1302r13p1299r13p1281r13p1379r14p1313r13p1363r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "14466c0c8ba788145d1a661b6532cada9b6f9b81f1f7be40d144940028eff00d",
+  "validation_errors": []
+}

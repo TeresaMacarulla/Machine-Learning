@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_105776600b22bea3962dfb49.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "tension shoulder warmup",
+  "setter": "doublewire",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "39F887963458412FB09D9557F972F390",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r15p1234r12p1236r12p1269r13p1286r15p1300r13p1335r13p1348r13p1380r14p1383r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "6f76107d5a0cf707e4b0d6f33f18344c0a1726521c81c797745267612396f16e",
+  "validation_errors": []
+}

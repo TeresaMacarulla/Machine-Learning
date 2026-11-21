@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_86329d2a00cc1e74d6a952d3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "call me",
+  "setter": "eciVehT",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "53b1654c-1e9c-4204-8172-1aefc092cedb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1175r12p1192r12p1245r13p1260r13p1522r15p1465r15p1347r13p1383r14p1385r14p1548r15p1161r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.67,
+  "ascensionist_count": 7,
+  "quality_average": 2.6699999999999995,
+  "hold_fingerprint": "cdf4b3932e5ddeb2094722280fb0fde0b5e36941b0c679ff4e08ea33015f8f21",
+  "validation_errors": []
+}

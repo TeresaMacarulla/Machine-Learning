@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_14ee50d0b2f698fe6c818b7e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Two Feet",
+  "setter": "tortesla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 1,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "5610243934214B048B38E6DA94703F08",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1237r12p1309r13p1392r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.33,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "143df1e88839aca6485477dc4b81c4e746483de262316d96231dd675a8117eee",
+  "validation_errors": []
+}

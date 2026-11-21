@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ceb4a78969d8283d28ffb509.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "I match cos I sketch",
+  "setter": "leehongwei25",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "EB35DA8989124FF08F06053EF7D7D9CB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1191r12p1204r12p1239r13p1253r13p1287r13p1319r13p1355r13p1390r14p1449r15p1490r15p1508r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4292dead2e0f7816fb4933c7b3452485778d06a04e326d5e88152dcd0b2d3d5e",
+  "validation_errors": []
+}

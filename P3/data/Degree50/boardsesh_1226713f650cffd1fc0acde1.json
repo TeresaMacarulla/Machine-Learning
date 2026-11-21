@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1226713f650cffd1fc0acde1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Gambit",
+  "setter": "daxxta",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "43d201e4e50e495f845692e5c5553cf0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r12p1165r12p1237r13p1309r13p1326r13p1339r13p1371r13p1388r14p1452r15p1536r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0c3662ebae098f12bee3000a1140428c2006c17f0e01f02c8cc9b2c61810ba60",
+  "validation_errors": []
+}

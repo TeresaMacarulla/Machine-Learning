@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d4e71097ee9d346ed4d95ec5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Sanpellegrino",
+  "setter": "timclaude",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "60467CDD7D15486E89C2C45AFDD75A40",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1385r14p1466r15p1504r15p1512r15p1520r13p1531r15p1537r13p1556r13p1558r13p1567r13p1583r13p1594r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "49742a1ce02427cb62d03baf921d26493c047d9089a9effb65dfc9aca23c1063",
+  "validation_errors": []
+}

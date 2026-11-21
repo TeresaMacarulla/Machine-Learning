@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_99e7f99895b80e75cf776ab3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Swiss Cheese",
+  "setter": "leonardo_mafiosi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "2fd3e8951d3a4bf4905e4e444c664ee0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1142r15p1199r13p1230r13p1281r13p1295r13p1367r13p1386r14p1455r15p1459r15p1510r15p1549r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "58284fc582830bc54b4f1af1ab68f93b11c27a16434b20f2c1a1dbc33d1e50eb",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_98d7ae60fc4ef1602346d726.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Crosssover",
+  "setter": "jonathan.z",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "cbcb237c0977410883101cb88bcb4f54",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1149r12p1214r13p1233r15p1246r15p1257r15p1263r13p1302r13p1340r13p1341r13p1395r14p1459r15p1462r15p1492r15p1506r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "28b67d62d6455ed20f99eb8b614044865655222f65ea74177744414f7782e6df",
+  "validation_errors": []
+}

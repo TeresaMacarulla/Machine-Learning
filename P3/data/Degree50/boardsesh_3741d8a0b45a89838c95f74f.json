@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3741d8a0b45a89838c95f74f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Hard proj 4",
+  "setter": "E.2.d.2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7A54FFB496A845F8B9AAB853135970E8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r15p1179r13p1183r12p1265r13p1266r13p1271r15p1286r13p1352r13p1371r13p1392r14p1459r15p1460r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.96,
+  "ascensionist_count": 31,
+  "quality_average": 3.57,
+  "hold_fingerprint": "41fa4a63920fcb87142d2b8eec93161c3e207e6e184755ec8efa57f78bed07a2",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dcd17eaaac3c8a368d49d678.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "high garden",
+  "setter": "cliff_shredder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1CE8E747856C424BB9BF255BFD556389",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1170r15p1178r12p1195r12p1256r13p1266r13p1269r13p1341r13p1357r13p1387r14p1461r15p1525r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "5dd64ccc6f04c1ce38e98a07fae47517370bf5438b3554630783d9069135e612",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fb75fbbe3e3ca4c996070dbd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "jump aways",
+  "setter": "leo0000",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "e8866760f8554968a618af6a72711a6f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1141r12p1143r12p1246r13p1247r13p1319r13p1331r13p1379r14p1380r13p1463r15p1511r15p1528r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 2.0,
+  "hold_fingerprint": "d2ee2240fec78fd98a4894f8df827ccd5d4534fcb6087cd40d1fa65d0a6fd038",
+  "validation_errors": []
+}

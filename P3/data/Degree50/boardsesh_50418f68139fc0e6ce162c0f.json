@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_50418f68139fc0e6ce162c0f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Benchpressmark V8 @50 #1",
+  "setter": "GaldalfTheSender",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "34149f65b98b423fadc2d07f7425eb2d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1162r12p1214r13p1272r13p1287r13p1358r13p1387r14p1467r15p1469r15p1514r13p1516r15p1526r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.5,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "dfea939d08d71cc72792c1f68e0dc8e63af28f693b2f667b2f8372a416bdc49d",
+  "validation_errors": []
+}

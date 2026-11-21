@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4df8ecd9ece915828fea5240.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "bloc 1 dynamique pinch ",
+  "setter": "evan_ravenel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "e932aead-3237-4dfd-bad3-910c3cf6537f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1216r13p1230r13p1281r13p1295r13p1332r13p1382r14p1081r15p1470r15p1487r15p1495r15p1531r15p1528r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.6,
+  "hold_fingerprint": "369470ec773e62f971b9f0cba2bff75594ecbe8477ca20aa6ef52f2427414203",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ec2688dc71e3984682d3108f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "cross over",
+  "setter": "jk_47",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "633F9D462E694B739CAFBE8180A119EE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1133r15p1142r12p1194r13p1216r13p1250r13p1254r13p1285r13p1339r13p1352r13p1386r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4e18e9fe040db7e10d4cd794ca7495d04c85f821dfd8a774a7aebca3a885a3c0",
+  "validation_errors": []
+}

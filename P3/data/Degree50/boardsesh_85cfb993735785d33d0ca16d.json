@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_85cfb993735785d33d0ca16d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Halfway",
+  "setter": "juano9912",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "d821789c6b694629ab5456ee17303ea7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1148r12p1153r12p1221r13p1235r13p1302r13p1315r13p1352r13p1390r14p1451r15p1454r15p1489r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.96,
+  "ascensionist_count": 27,
+  "quality_average": 3.52,
+  "hold_fingerprint": "77bec3aa3de3b7c96e0eec7b5f279e5a76edc4996aa89ec00ce006083fe25310",
+  "validation_errors": []
+}

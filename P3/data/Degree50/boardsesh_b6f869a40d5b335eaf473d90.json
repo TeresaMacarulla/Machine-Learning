@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b6f869a40d5b335eaf473d90.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "1289 P1",
+  "setter": "Bator",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "c9c5c4bf164140b2b17492cf7f6613bf",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1201r12p1205r12p1289r13p1293r13p1359r13p1390r14p1452r15p1478r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "2ce6ec1e0d3f99b7a842e69f5706d18f21036115d1b1f0dd620601fffc3ad697",
+  "validation_errors": []
+}

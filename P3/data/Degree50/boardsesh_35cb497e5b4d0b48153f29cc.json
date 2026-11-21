@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_35cb497e5b4d0b48153f29cc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Wrist-Braker",
+  "setter": "WIJ",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "624e456173334e6abf25a8958e7ce72b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1139r12p1172r12p1221r13p1225r13p1272r13p1304r13p1341r13p1354r13p1389r14p1447r15p1451r15p1482r15p1489r15p1542r15p1545r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b51c3ad22af7f9851cced01b965269b299e23382a420fcda5bffb8770cedb8b2",
+  "validation_errors": []
+}

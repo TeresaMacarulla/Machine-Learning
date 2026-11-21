@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d9ba29598ceda3d9146cee2e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Gas #1",
+  "setter": "VinceThePrince",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6fb3f034937d40cebde2043ac3bd8010",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1189r12p1205r12p1256r13p1286r13p1319r13p1334r13p1384r14p1499r15p1509r15p1525r15p1530r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.44,
+  "hold_fingerprint": "569ce5b1b4bfec50d2900e4927f13810eac352cca829dc06cfbc0dc4e9b3cf88",
+  "validation_errors": []
+}

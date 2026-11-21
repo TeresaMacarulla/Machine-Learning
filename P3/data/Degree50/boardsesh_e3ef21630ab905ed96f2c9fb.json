@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e3ef21630ab905ed96f2c9fb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Confidence Within",
+  "setter": "berrickmiller",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "a54808740ac541db8927900e1ea28dd6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1180r13p1233r13p1272r13p1288r13p1323r13p1394r14p1462r15p1469r15p1475r15p1516r15p1535r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b5a965f9c11e02430711c2c70300095c18071ff64a960294e93c4af9a80a0ec5",
+  "validation_errors": []
+}

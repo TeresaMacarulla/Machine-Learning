@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ff553c7e39fb68b2fea34264.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Gastroman",
+  "setter": "kolskog",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1bfa50a1650044a9827ba8286422f953",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1167r12p1208r15p1254r13p1271r13p1326r13p1395r14p1469r15p1480r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "147654cc66d68ef0ac55e8aa126bbd12e7407dcb452388445a70a7b9a1693a73",
+  "validation_errors": []
+}

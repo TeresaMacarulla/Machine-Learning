@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b4923783d97b8626212d93f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "good gawd",
+  "setter": "kdubzubz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "36B3C7943DC1420CA507AF143FD776BB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1088r15p1143r12p1176r15p1248r13p1253r15p1264r13p1337r13p1372r13p1395r14p1475r15p1514r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "7c039fde6b06af2f246fdc2a54ccebcb0d7a5693e7d2a1e88a00376156bfaf41",
+  "validation_errors": []
+}

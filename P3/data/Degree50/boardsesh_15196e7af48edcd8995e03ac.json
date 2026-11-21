@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_15196e7af48edcd8995e03ac.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "shoulder jump in 1",
+  "setter": "camomillefleur",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "d4e2c3ad00de45b3a59a6fbab7991b9a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1128r12p1197r12p1234r13p1305r13p1322r13p1377r14p1486r15p1507r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "0ca141d81cd5eca616ebd453520771bb63f413bf3029027332ad2645deea6b76",
+  "validation_errors": []
+}

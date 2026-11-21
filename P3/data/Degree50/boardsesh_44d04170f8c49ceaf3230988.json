@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_44d04170f8c49ceaf3230988.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Irritability",
+  "setter": "IAmNotADinosaur",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "f9f76ddbe2314c0aa3bd1c9ef9bcd92d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1258r12p1271r13p1272r15p1357r13p1368r14p1480r15p1525r12p1527r15p1535r15p1540r15p1569r13p1580r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7552132c87408cfc67921b990c4b70b795addb506219648a3fe3f128249cac80",
+  "validation_errors": []
+}

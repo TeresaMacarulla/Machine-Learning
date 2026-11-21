@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5a6acc5a2465c19a537ce139.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Scolopendrix",
+  "setter": "lorepuri",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "EF05FAA31DEF4AB59A6EA6E3A54CE0EC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1187r12p1222r12p1230r13p1253r13p1279r13p1298r13p1380r14p1490r15p1506r15p1537r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "c8994ab3e56bb6fc9f0bf482faa7b8b07f039b50670a5ef86b7ec2724550325f",
+  "validation_errors": []
+}

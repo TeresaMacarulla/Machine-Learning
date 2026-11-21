@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5813d471f1ad4fb2b965ba54.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Game is on",
+  "setter": "doni",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5f24e9f5bbaf405983c41515273f88b1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r13p1132r12p1144r15p1182r12p1230r13p1268r13p1304r13p1353r13p1387r14p1516r15p1534r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "2f1e4f6bd19564c1bf5548b3fbd63444fd103dd0c294705a6a7c399b5e85d799",
+  "validation_errors": []
+}

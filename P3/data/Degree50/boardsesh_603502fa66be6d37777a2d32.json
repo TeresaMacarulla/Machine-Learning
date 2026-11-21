@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_603502fa66be6d37777a2d32.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "roundabout 360",
+  "setter": "dpolito",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "7C70613C22384603AE2EB8C92C8CEF05",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r15p1144r15p1198r12p1219r12p1234r13p1254r13p1289r13p1302r13p1353r13p1368r13p1382r14p1476r15p1485r15p1489r15p1505r15p1508r15p1516r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.04,
+  "ascensionist_count": 28,
+  "quality_average": 3.21,
+  "hold_fingerprint": "f057247642f87fdab13af821201ac53fd8fa6c42a521e58a3f8b96daa3044a55",
+  "validation_errors": []
+}

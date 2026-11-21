@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3ad4ea056fac311ac7714157.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Wild Child",
+  "setter": "jameszanoni",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7E89B61AF4A84BE6AB92BDD78AE6A827",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1160r12p1192r13p1245r13p1296r13p1300r13p1350r13p1386r14p1462r15p1485r15p1521r15p1541r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "960f1538e181be72199af034731b6bdcc6c449350a4adb9091ca7b6f308191ee",
+  "validation_errors": []
+}

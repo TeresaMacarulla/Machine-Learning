@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3210d880bb02cd6e3084dffe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Replicant",
+  "setter": "AndrewShields",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "64459b7874d4465a9462a6ce8c2765fd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1181r12p1237r13p1270r13p1290r13p1324r13p1371r14p1458r15p1478r15p1498r15p1514r15p1526r15p1532r15p1544r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 29,
+  "quality_average": 3.3,
+  "hold_fingerprint": "00c67f5c1b3cf056c74667376643306b2957a5166d47f8039596e3bc0ff07828",
+  "validation_errors": []
+}

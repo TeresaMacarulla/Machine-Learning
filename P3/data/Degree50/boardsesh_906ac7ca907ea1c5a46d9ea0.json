@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_906ac7ca907ea1c5a46d9ea0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Stemwijzer",
+  "setter": "JamieBarendrecht",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "deeb6858d61f4ed3bceb10b98662a13c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1162r15p1197r12p1205r15p1215r12p1217r13p1247r13p1299r13p1304r13p1339r13p1340r13p1374r13p1394r14p1485r15p1487r15p1514r15p1568r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "7b03312bb5c3bac9ed966dfa3b054f39f72abdc60cb01b33e7160ddecd41ef7b",
+  "validation_errors": []
+}

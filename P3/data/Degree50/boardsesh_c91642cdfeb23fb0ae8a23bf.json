@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c91642cdfeb23fb0ae8a23bf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "discomfortable",
+  "setter": "biscuit",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8B2AEDBCF75240F69474E4EF61F91C54",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1173r15p1190r12p1220r12p1273r13p1303r13p1322r13p1372r13p1392r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 16,
+  "quality_average": 3.25,
+  "hold_fingerprint": "fa350dada30f8090b42f10394959a33413fe7561d9d99acdb14ca20c2310ac00",
+  "validation_errors": []
+}

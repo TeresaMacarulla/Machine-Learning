@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_16d3bd3f3c6628305449ae9c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "boulders for shoulders",
+  "setter": "magoose",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "6a8daf577a4447ebad35ce13d091f00a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1167r12p1236r12p1257r13p1289r13p1325r13p1375r13p1394r14p1479r15p1506r15p1517r15p1543r15p1545r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "4a0dc1923a99395f99efdede44d158b47ac1c672d7e85bfc37fd2e1768d34e6f",
+  "validation_errors": []
+}

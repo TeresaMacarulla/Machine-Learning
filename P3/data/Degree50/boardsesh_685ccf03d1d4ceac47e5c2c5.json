@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_685ccf03d1d4ceac47e5c2c5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "shoulder-itis",
+  "setter": "zessakalli",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "5F71029FED6E458E8A469CDDC6988470",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1189r12p1202r12p1256r13p1273r13p1322r13p1342r13p1358r13p1395r14p1509r15p1517r15p1535r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "f6cda7a41f258a7605130414a3ee9466409dea92cc09cf4076f0d6e3876acf90",
+  "validation_errors": []
+}

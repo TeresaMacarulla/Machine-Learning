@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0e316047be68615a9c3c7a75.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Memento",
+  "setter": "SteveM1988",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "c33f6a80a3f94bfc90143cd6be00455d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r12p1172r12p1220r13p1274r13p1287r13p1304r13p1334r13p1386r14p1449r15p1481r15p1506r15p1516r15p1557r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "00b009eadde0dded013f2c496a1b920510b779a851642621ea1a735e986302e7",
+  "validation_errors": []
+}

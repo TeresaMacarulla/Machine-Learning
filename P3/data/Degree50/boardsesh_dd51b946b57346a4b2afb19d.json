@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dd51b946b57346a4b2afb19d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "jug 100",
+  "setter": "tomovski",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "64e69fe1-4eb0-429c-afd0-7a6f605f969a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1192r12p1387r14p1294r13p1226r12p1348r13p1384r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c966065ae6579382ff645ce2f1dae7907d1a0c12cc71e4945216392fa8da38c1",
+  "validation_errors": []
+}

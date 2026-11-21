@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6ced5ebbc7497a783d5d3514.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Humidity",
+  "setter": "tortesla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "D8BFAA1BCB40490683E97D4A698F1079",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1168r12p1181r12p1269r13p1285r13p1390r14p1479r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "94806cb24a9f5cd32a84c0c3cd120513b61b43ac49a1afabdea54bf925bc313e",
+  "validation_errors": []
+}

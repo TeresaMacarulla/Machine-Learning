@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7bfc2908f4247c4b3f8a50a6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Everybody Knows Your Name 7x10 edit",
+  "setter": "hwilly",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "b7ea3cfd7b594b6993e56ce0f9b284e6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1179r12p1180r13p1183r15p1233r12p1250r13p1270r13p1319r13p1353r13p1384r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.5,
+  "hold_fingerprint": "5f96bfc76d35cadcfe5b8327864c7c8d62293fdcac8425fb3779ba28e9e6e03c",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e490d715e3ad567aab0e17f7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Right foot on the start",
+  "setter": "Felix123",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "07ccb10633294dea9d514f3bb90ef305",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r12p1168r12p1200r13p1231r13p1297r13p1311r13p1379r14p1448r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "f48d9a6f19a010ab1d2e89ca92b2159a57c2d91479947511f817bfc2675bdbab",
+  "validation_errors": []
+}

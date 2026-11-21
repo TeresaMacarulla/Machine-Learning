@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a75e94af9ea3ef98547d12a9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Goon Central",
+  "setter": "alex_kilterboard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 8,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "95F2E2DD04D443C698974D5A23D71A2F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1142r12p1143r12p1192r13p1245r13p1294r13p1347r13p1353r13p1356r13p1376r13p1383r13p1395r14p1512r15p1599r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "58fc32f21fe9f3d69367bdcc464a2aca7f65ab9d8ff0f1fe55287fdd429fcbff",
+  "validation_errors": []
+}

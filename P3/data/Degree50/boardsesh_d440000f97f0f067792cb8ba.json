@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d440000f97f0f067792cb8ba.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "circ gang",
+  "setter": "texas_tickler",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "f1b70aa48a4e4746a6d72d21838045cc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1183r12p1185r12p1271r13p1318r13p1320r13p1352r13p1383r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "296eeb4a3ed5f54d6cb998c14d6bf3bf37f181c24b84a32a76180e6a69fef0a4",
+  "validation_errors": []
+}

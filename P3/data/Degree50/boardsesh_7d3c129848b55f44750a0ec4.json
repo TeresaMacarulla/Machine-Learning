@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7d3c129848b55f44750a0ec4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "campusdyno",
+  "setter": "Lucnaef",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "1010ec392ee94f3aa6e31da2e34d40ec",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r12p1236r12p1300r13p1302r13p1351r14p1353r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.5,
+  "ascensionist_count": 9,
+  "quality_average": 5.0,
+  "hold_fingerprint": "39ce1a052806860faf890a50cb8e3b080ecdfdb9b44dbafdc1edf7ce3299e2c5",
+  "validation_errors": []
+}

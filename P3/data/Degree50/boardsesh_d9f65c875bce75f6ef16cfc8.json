@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d9f65c875bce75f6ef16cfc8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "TC shoulder trainer 1",
+  "setter": "caldwellfamily",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "1F35042757554F328038D8CEA81E5A50",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1133r15p1166r12p1197r13p1235r13p1249r13p1270r13p1301r13p1340r13p1354r13p1392r14p1452r15p1454r15p1514r15p1553r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1569e59bf62cc154304a11ffb20ae2f61b624f57af0e7f573bc6c27de5cfdc6d",
+  "validation_errors": []
+}

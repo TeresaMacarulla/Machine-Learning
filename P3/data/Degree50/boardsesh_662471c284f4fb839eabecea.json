@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_662471c284f4fb839eabecea.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "JW1.5",
+  "setter": "Austin_hoyt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "FF23A1D423E94C59B828E7AE22726B04",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1148r12p1237r13p1283r13p1352r13p1364r13p1379r14p1456r15p1457r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "f5af741270b162c875c806ac5baaec3bf6ce352e662207a8cb64a4bab521a54c",
+  "validation_errors": []
+}

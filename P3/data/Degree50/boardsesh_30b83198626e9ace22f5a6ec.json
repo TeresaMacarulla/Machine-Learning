@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_30b83198626e9ace22f5a6ec.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "pulmon negro",
+  "setter": "Rockero",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "29ca1cdb50fc41c7b96c05472f4be6e5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1126r12p1163r12p1185r13p1198r13p1220r13p1258r13p1307r13p1324r13p1390r14p1458r15p1462r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ee37ee06fb2a387a52e7748e1bfa9d09890158441df5ba3784416260fb1b88e7",
+  "validation_errors": []
+}

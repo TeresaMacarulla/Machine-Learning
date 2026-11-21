@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f56a61ba8d372a624e68bb8e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "coS-Line",
+  "setter": "gntkak413",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "4762258E86164A54A8278C282A4D01A8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1167r12p1170r15p1182r15p1187r12p1255r13p1257r15p1321r13p1324r13p1359r13p1393r14p1471r15p1479r15p1489r15p1560r13",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "637f9f7bba9d23c0ee556aaf72d08f4645cffed243047ac160dca0fcb36161a8",
+  "validation_errors": []
+}

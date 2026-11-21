@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a3a89ffa152ee5ab7aff222a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Jennas boulder",
+  "setter": "yarden.pilpel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0fc31ca2eff94a1aa7b2c85a401afd97",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1124r15p1127r15p1148r12p1177r12p1264r13p1265r13p1332r13p1384r14p1458r15p1540r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "effde4bca7c6c23ec37fb24fea7fe056a2224eb843783052b201fb3c3a727e86",
+  "validation_errors": []
+}

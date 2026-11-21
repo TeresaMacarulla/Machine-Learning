@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_878a164e80be65c6b44b1732.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Re:Zero?",
+  "setter": "Voir",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6a3347f1-d6e5-4a7c-83f4-83ae693ee984",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1239r12p1259r12p1308r13p1343r13p1394r13p1390r13p1387r14p1271r15p1269r15p1173r15p1206r15p1392r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.6,
+  "ascensionist_count": 16,
+  "quality_average": 4.4,
+  "hold_fingerprint": "7257669b331d9c0bb4855debadd85669fd231ced65c735051f3e98f1aab04c69",
+  "validation_errors": []
+}

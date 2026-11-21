@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7a43e1ddfd6c27d8a9e84e34.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Molcajete",
+  "setter": "jknight",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "ac0bdd0d7f714c5e94f4d7740dfa111b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1195r12p1214r12p1267r13p1268r13p1322r13p1353r13p1383r14p1514r15p1593r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "f09bd4113a4b4ff5d76f02b46855df708bcf8678f12de866157f91d0570db1ce",
+  "validation_errors": []
+}

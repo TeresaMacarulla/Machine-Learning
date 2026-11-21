@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_18afb3d511f81f295027a25a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "lucy",
+  "setter": "aswin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3fa778feb6404815b46f179abecd9f3c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1170r12p1202r13p1218r13p1266r13p1304r13p1387r14p1480r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "f78fc158c6275cc26eabd5bf5381893f956d6189b06c53cdabe9f508bf77b8da",
+  "validation_errors": []
+}

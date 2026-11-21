@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_14f65631833242721f2e548b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "The Arcata vibe",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "129d651035134b98bd5f4a9bc778c2ce",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1131r15p1155r12p1201r13p1206r13p1252r13p1269r13p1281r15p1304r13p1353r13p1384r14p1386r13p1451r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.5,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "5a3c244243245801fef5bbbd7ae4962ea8a99c7948c445c6268b2285944f086f",
+  "validation_errors": []
+}

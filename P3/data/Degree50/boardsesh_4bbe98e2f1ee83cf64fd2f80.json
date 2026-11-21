@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4bbe98e2f1ee83cf64fd2f80.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Vitch Docta",
+  "setter": "MuR0",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2a7c8b35-ca2a-4934-ba58-13639c9f94a5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1461r15p1456r15p1163r12p1126r12p1263r13p1302r13p1304r13p1534r15p1325r13p1394r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "c71bb43ec5806a769761c73b25f460c93e67ae5b920b24f1a406d7f7f6b4b129",
+  "validation_errors": []
+}

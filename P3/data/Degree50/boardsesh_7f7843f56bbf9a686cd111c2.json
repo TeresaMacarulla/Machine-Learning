@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7f7843f56bbf9a686cd111c2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Trigger Peace",
+  "setter": "dgot",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "535F6D0A8837463C8B953871859C3E97",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1169r15p1175r12p1179r12p1204r15p1248r13p1267r13p1278r15p1302r13p1350r13p1366r13p1380r14p1468r15p1474r15p1485r15p1492r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b76b9ba9453b504b165edca3796704686a17766807b1339e39c60604555dd545",
+  "validation_errors": []
+}

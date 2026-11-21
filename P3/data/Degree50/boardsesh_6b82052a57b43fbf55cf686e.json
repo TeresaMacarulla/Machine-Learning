@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6b82052a57b43fbf55cf686e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Aywan",
+  "setter": "Yuseri",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1d894ca9-ea14-483a-8ab8-1ebfaca394d8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1198r12p1236r13p1269r13p1186r12p1154r15p1308r13p1307r13p1394r14p1096r15p1475r15p1516r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.3300000000000005,
+  "hold_fingerprint": "7a3663057bb0e615a5d3e52ab34cf53b5a3143ea3072bd7ac9e59ce8dd107656",
+  "validation_errors": []
+}

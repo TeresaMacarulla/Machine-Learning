@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cf4bb1fe02f7869a1058d876.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Spotlight",
+  "setter": "FloW95",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "41e9e98708e04881a184f725ebeb5a48",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1148r12p1185r13p1230r13p1270r13p1340r13p1386r14p1466r15p1479r15p1559r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.78,
+  "ascensionist_count": 9,
+  "quality_average": 3.11,
+  "hold_fingerprint": "7a7b04f2ffb83b32e69faafb170d9e14c8a717decd2e374bd3ace832e52137dd",
+  "validation_errors": []
+}

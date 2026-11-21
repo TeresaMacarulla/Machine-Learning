@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6a200d6bdfc85c5ba33ed059.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "cone head ed",
+  "setter": "SamSends",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "07EF3126F2904EFF99509195189BFA42",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1158r15p1210r12p1227r12p1250r15p1263r13p1282r13p1330r13p1367r13p1387r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e4679f7d196f7bec5d1d02101dbc9f717560d69a09e10291b8d09975b5a4af84",
+  "validation_errors": []
+}

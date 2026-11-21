@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fd32005e4b37788b4a2d1969.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Chamalo",
+  "setter": "cbx.bfx",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "b1bfb089a58845b6b4a350ba5da90544",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1200r13p1217r13p1287r13p1304r13p1371r13p1383r14p1460r15p1496r15p1544r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "2f1da63f689a4496e3e79899d3b8b2550df26ecb61491287bb610032a75afedb",
+  "validation_errors": []
+}

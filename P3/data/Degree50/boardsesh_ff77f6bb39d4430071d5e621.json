@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ff77f6bb39d4430071d5e621.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Sore Fingers",
+  "setter": "FrederikS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "67d63ed0ba4b4817bb6e89a3534e26ec",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1122r12p1139r12p1188r13p1241r13p1271r13p1272r13p1283r13p1354r13p1367r13p1380r14p1447r15p1558r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6d4b5c4a229c5da819107a696636c3109edbc58f88fac9324c00aa4754a5d877",
+  "validation_errors": []
+}

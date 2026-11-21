@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_12bcfe046a9c7e6b9b2a691f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Show me Left",
+  "setter": "shiguchi1215",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "0447DB825B2940FBA7687BE9CF43E240",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1149r12p1251r13p1268r13p1337r13p1390r14p1455r15p1495r15p1514r15p1533r15p1539r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 13,
+  "quality_average": 3.33,
+  "hold_fingerprint": "9350ec1ec31024775bb4a505b32c115d138229233b4527380397f7d4b10f8201",
+  "validation_errors": []
+}

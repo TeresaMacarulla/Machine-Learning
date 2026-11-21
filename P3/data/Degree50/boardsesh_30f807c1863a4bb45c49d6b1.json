@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_30f807c1863a4bb45c49d6b1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Dine & Dash",
+  "setter": "Sabo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "C9EEE5EEB7174CC7885F1BC3BB0A0393",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r12p1162r12p1210r13p1249r13p1302r13p1390r14p1460r15p1502r15p1533r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4f06a39c46db6f73eaf19c524291f2b532ac8ed9993d7876deb7d9dedf59ef13",
+  "validation_errors": []
+}

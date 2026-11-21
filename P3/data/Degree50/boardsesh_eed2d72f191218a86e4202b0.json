@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eed2d72f191218a86e4202b0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "la primera",
+  "setter": "easy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7C3F31E913F54E6C82443A46CFD368B4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1146r12p1165r12p1201r13p1232r13p1286r13p1303r13p1357r13p1386r14p1387r14p1456r15p1544r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 26,
+  "quality_average": 3.46,
+  "hold_fingerprint": "f5f647c2f71e59ef5033f8ba575edb7aa92ff29ebc1e63957faae3def3a10c8b",
+  "validation_errors": []
+}

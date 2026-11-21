@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_512efd0293a6d1e61dbed88c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "feathers",
+  "setter": "reub3n",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "903ce69134504b8d9729847d317bbdb6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r12p1153r12p1219r13p1271r13p1300r13p1302r13p1314r13p1383r14p1452r15p1489r15p1522r15p1537r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "287732f575864b91c979f963c0bacb61e32ee512ab79f71a344dc0ccff72a002",
+  "validation_errors": []
+}

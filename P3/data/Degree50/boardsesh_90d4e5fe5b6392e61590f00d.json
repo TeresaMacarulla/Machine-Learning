@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_90d4e5fe5b6392e61590f00d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Deathstar Delts",
+  "setter": "Floppy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3498E8BB26DC4680B71899CA64419CF0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1126r15p1163r15p1209r12p1215r12p1233r13p1235r13p1304r13p1309r13p1376r14p1516r15p1572r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "1448ec46e31c77c418df9abac38eebee4152b5adb1899d72d82c59ac7e686fbc",
+  "validation_errors": []
+}

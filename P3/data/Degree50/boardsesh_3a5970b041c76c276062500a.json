@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3a5970b041c76c276062500a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "kilterbattle.pt 001 - V",
+  "setter": "kilterBattle.pt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 2,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "0F449D5B107449E8A6BA6302A054BB3A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1151r15p1156r15p1170r15p1190r15p1220r15p1239r12p1257r12p1269r15p1289r13p1308r14p1356r13p1390r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6e20e844337501689c62da83ef672804a7226cc9532abefff0a57cae1e89e6ef",
+  "validation_errors": []
+}

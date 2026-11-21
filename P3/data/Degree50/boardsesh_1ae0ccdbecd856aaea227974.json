@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1ae0ccdbecd856aaea227974.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Pegasus_shapeshifter",
+  "setter": "tobygenborg",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "778628C518624E64A1102D393CCA4618",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1098r15p1117r15p1126r12p1143r12p1163r13p1173r15p1231r13p1235r13p1236r13p1239r13p1257r13p1292r13p1359r13p1393r14p1460r15p1464r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "98fdbcfe1d2d05736e54ff4b1886614c3a690c58d9c7961c0c811a561ea47196",
+  "validation_errors": []
+}

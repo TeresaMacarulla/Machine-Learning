@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5c6d2ffb47030398a63ab7da.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "10,000 days",
+  "setter": "gabin_r",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "B665CB02F5A3430CA7A82428A39BC083",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r15p1146r12p1185r13p1195r12p1201r13p1241r13p1266r13p1288r13p1327r13p1395r14p1458r15p1489r15p1508r15p1518r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.96,
+  "ascensionist_count": 26,
+  "quality_average": 3.04,
+  "hold_fingerprint": "351a4d50086835ebf4092987c5a2d6a5dcbd0194151cd4f42aac4b606afd9dd8",
+  "validation_errors": []
+}

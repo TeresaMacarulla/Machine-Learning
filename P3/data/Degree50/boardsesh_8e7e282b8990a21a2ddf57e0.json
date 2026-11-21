@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8e7e282b8990a21a2ddf57e0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Campus V4-5",
+  "setter": "firedupclimber",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "9c655972-fcae-4667-b535-df54460a5308",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1257r12p1259r12p1275r13p1289r13p1308r13p1324r13p1341r13p1359r13p1374r13p1393r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "63d4d7a1011ab4aba53c228fc85eb0121c3f9cdfff51f36099da7d38540d9b59",
+  "validation_errors": []
+}

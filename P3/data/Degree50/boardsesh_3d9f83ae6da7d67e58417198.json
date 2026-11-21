@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3d9f83ae6da7d67e58417198.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "chosspile #4",
+  "setter": "ohhaimin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "5C6E7192FEEA4DE38EF567169C905A3A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1149r12p1219r13p1268r13p1323r13p1340r13p1395r14p1456r15p1478r15p1506r15p1561r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.01,
+  "ascensionist_count": 110,
+  "quality_average": 3.41,
+  "hold_fingerprint": "fd8098542711bb603886facb7c1e5defd2fb72fe7c25badce647785d92b148d8",
+  "validation_errors": []
+}

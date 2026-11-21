@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1e7695834b0a403ceb9269a9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Warm Water",
+  "setter": "OsheClimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "9a382953aab6469ba4e0933f8edc242a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1161r12p1215r13p1216r13p1238r13p1306r13p1359r14p1466r15p1477r15p1497r15p1509r15p1543r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d37826256e6f70de83c040c99d84f3c65280f1dc7bfe291d1bbbb189c53cd5f0",
+  "validation_errors": []
+}

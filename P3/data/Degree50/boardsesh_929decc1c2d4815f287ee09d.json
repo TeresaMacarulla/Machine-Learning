@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_929decc1c2d4815f287ee09d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Potsdam",
+  "setter": "Tarekrobrahn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ceabaab532734a118e7a5025aae5d03f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1099r12p1168r12p1236r13p1304r13p1366r13p1371r13p1380r14p1386r13p1479r15p1508r15p1534r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5ddbf9261f4c5391068ad7e769817312b3d664e3badeb7ce9f257bc2098a282c",
+  "validation_errors": []
+}

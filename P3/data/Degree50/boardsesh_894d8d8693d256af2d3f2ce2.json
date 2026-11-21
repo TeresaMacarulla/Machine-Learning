@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_894d8d8693d256af2d3f2ce2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Drive by",
+  "setter": "Turkomon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b1da691a-df07-4f2f-848a-ba2f5900412a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1202r12p1104r15p1257r13p1152r15p1270r13p1338r13p1205r15p1514r15p1336r13p1387r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 3,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c4a216077df3f2b6214ee9ed6d197fa8de914eee78e013499c9d1093f266a56a",
+  "validation_errors": []
+}

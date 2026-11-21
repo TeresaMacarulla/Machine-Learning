@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4dee36ceffc5ff1946d3d653.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "assisted 1 armer",
+  "setter": "alfiegreen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "CEF38502AD594C53AF3EE7A0D5F0908A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1302r12p1353r13p1373r13p1374r13p1394r14p1541r12p1571r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "17c283176bb033a29877a2a0bbc64fad3331c4f927aabcf472a6bce25324076f",
+  "validation_errors": []
+}

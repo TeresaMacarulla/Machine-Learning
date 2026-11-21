@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d798078d390df290c280b7ad.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Sticks",
+  "setter": "valiscool",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "176DB562E8FA49D98C2A2186912813C3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1189r12p1241r12p1245r15p1252r13p1314r13p1351r13p1363r14p1500r15p1516r15p1546r15p1565r15p1578r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.91,
+  "ascensionist_count": 11,
+  "quality_average": 3.73,
+  "hold_fingerprint": "cf8a138a4440958f2dc7b6456544934102a3b62196d5c9e9d2d122dc9675b41f",
+  "validation_errors": []
+}

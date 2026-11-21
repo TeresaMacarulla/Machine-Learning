@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ce81630ce2ba4a6f574b6d15.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Be Net ",
+  "setter": "cagri",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8e94ee9b-668f-4ee1-8c55-ad2926137a15",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1234r13p1254r13p1304r13p1204r15p1348r13p1335r13p1380r14p1319r13p1130r15p1457r15p1454r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.25,
+  "ascensionist_count": 7,
+  "quality_average": 4.25,
+  "hold_fingerprint": "c3ca2afe6ccf2f30008d6618726922cb3754ef1ccb0b450568a5ba53e10456c1",
+  "validation_errors": []
+}

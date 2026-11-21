@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_afc90c81abaa2d386143e739.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Biden Blast",
+  "setter": "nick_dt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "B281624A5CFE4433A9E9E94A2D51A58F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1124r12p1163r12p1181r13p1184r15p1200r13p1250r13p1271r13p1305r13p1344r13p1374r13p1394r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "f08545b5a909c58997653bb6ebf65970dc94412abe7b8a47856d4e4f5c35a3cb",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d3daa86a1a6e30d884236eb9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "movip",
+  "setter": "juanjovalenzuela29",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A79D4B70617F4DF799C31398ED5C1303",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1151r15p1181r15p1185r12p1201r15p1213r15p1234r12p1268r13p1299r13p1300r13p1315r13p1335r13p1384r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "db5416c5b6f71210097dfe8c82752ecc8d29fc2e02c39658de41be46306ad02f",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_09c580dc27cdc90a39f41f75.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "turkey trot",
+  "setter": "RiverTulloss",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "81581638A4EE4BA197E885F55E8EAAB5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1149r12p1217r13p1254r13p1303r13p1334r13p1380r14p1383r14p1454r15p1516r15p1523r15p1551r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "39f829fa0bf8ed7f108ad60297d16c7aeb169d63845815414df0f550a523518e",
+  "validation_errors": []
+}

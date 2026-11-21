@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aede7299ef6b3be28554d5f1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "V6 to show your tricks",
+  "setter": "EMPA",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "5C484E5BACD64888AC932F22A8A5BB4A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1162r12p1217r13p1229r12p1280r13p1347r13p1380r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "16977cf583fcf33aef0c582aa8b57c3689b87ffc69bd5851e3e1a156e11c7fe4",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f585df48da9af6439e75c3cb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "left hand on blue",
+  "setter": "marleymsimpson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "73dc78c0f790482d8df75c6b691a9b4a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1156r12p1221r13p1223r13p1308r13p1340r13p1373r13p1387r14p1447r15p1450r15p1480r15p1518r15p1550r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.6,
+  "hold_fingerprint": "2a2f631af4ea2ff224ffdcd1480f251baee4d5a767d3c6e6c501f6443385528b",
+  "validation_errors": []
+}

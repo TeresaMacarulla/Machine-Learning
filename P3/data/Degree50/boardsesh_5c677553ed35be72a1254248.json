@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5c677553ed35be72a1254248.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "bream bequence",
+  "setter": "patchontherocks",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "bfe23633cd584519b520566b2e2e35a5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1170r12p1171r12p1218r13p1234r13p1248r13p1282r13p1352r13p1366r13p1370r13p1386r14p1388r14p1451r15p1498r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1de2e855fbc709f6e8ae693c4a2164d52a54941ed0142c9901b57be7a542b501",
+  "validation_errors": []
+}

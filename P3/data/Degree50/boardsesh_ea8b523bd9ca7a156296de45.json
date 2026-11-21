@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ea8b523bd9ca7a156296de45.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Plantar Flexion",
+  "setter": "Guacamole",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "e02f7ed9-8c73-4d6f-b369-610e83b32ea6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1260r12p1281r12p1175r15p1163r15p1215r15p1315r13p1335r13p1334r13p1355r13p1304r14p1340r14p1202r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.5,
+  "ascensionist_count": 5,
+  "quality_average": 1.5,
+  "hold_fingerprint": "a61eb91ec2f9e0742be262aa5b40fc68eb80c69a8607b6837291b673653e7ac5",
+  "validation_errors": []
+}

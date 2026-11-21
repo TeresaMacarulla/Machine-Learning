@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1a6fb390b993503fa490971e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "mars bars",
+  "setter": "ryanneedles",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "881cc9e4caa64a6dbfacde6c113ec788",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1205r12p1255r13p1256r13p1286r13p1323r13p1373r13p1389r14p1473r15p1478r15p1496r15p1563r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.92,
+  "ascensionist_count": 29,
+  "quality_average": 3.48,
+  "hold_fingerprint": "5e7649e9464505210643b3e781969778466bfebc3ce8076a84fe1a2e51cefc9d",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e39a074dfe55aa19111f4dfb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "VESTS ONLY",
+  "setter": "tomb_climbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "4EE582B89E7E4E0EBEF42BA38467C4D8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1126r12p1131r15p1163r12p1203r15p1247r13p1302r13p1303r13p1356r13p1361r14p1391r13p1461r15p1523r15p1553r15p1554r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "72f545075dce6d42198db69d92eb8e099ccc4f731bdbb952c026ff3f51f5d96a",
+  "validation_errors": []
+}

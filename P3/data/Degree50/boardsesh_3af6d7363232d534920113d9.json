@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3af6d7363232d534920113d9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "mdmazing",
+  "setter": "bernik",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4FE72C610490481C9B0EBA7665D7E1C7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r15p1153r12p1184r15p1186r12p1238r13p1254r13p1291r13p1325r13p1343r13p1372r13p1387r14p1451r15p1536r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "544dcae9cd8a9a51edbf2a4db50ee842630d10fbd9f3ef163ef9e0fdba27a243",
+  "validation_errors": []
+}

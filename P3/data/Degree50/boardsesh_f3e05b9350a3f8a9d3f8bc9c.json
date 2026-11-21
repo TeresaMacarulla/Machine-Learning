@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f3e05b9350a3f8a9d3f8bc9c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "what is it like?",
+  "setter": "trackandy89",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "AD764FAD385C4B1AA15355FD0F35A1E7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1084r15p1130r15p1149r12p1179r12p1183r15p1213r13p1247r13p1302r13p1387r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.44,
+  "ascensionist_count": 10,
+  "quality_average": 3.44,
+  "hold_fingerprint": "308c9807d8a8be7b0b3ff889879e7c572689469d48d28325b806af4a0c6b32d3",
+  "validation_errors": []
+}

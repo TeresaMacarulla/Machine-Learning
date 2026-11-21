@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_685aa82a6e8c2641f9bb0150.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "twister",
+  "setter": "Lennox",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "e01fe2e3-34b7-4cb9-8bd1-ca22f9db3d07",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1126r12p1146r12p1097r15p1092r15p1200r13p1221r13p1273r13p1308r13p1340r13p1372r14p1191r15p1356r13p1156r15p1276r13p1206r15p1489r15p1255r15p1271r15p1306r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.33,
+  "ascensionist_count": 4,
+  "quality_average": 1.0,
+  "hold_fingerprint": "16325580d6e119dc704925824b216cb6d84601013dd6148957f109d8fd072575",
+  "validation_errors": []
+}

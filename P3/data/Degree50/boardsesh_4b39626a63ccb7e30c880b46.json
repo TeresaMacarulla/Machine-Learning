@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4b39626a63ccb7e30c880b46.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Leiste ",
+  "setter": "Hans._.14",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "ca1b1d0d-13ec-4d57-b709-52d834e47f3d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1160r12p1464r15p1214r13p1267r13p1493r12p1477r15p1322r13p1544r15p1388r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.25,
+  "ascensionist_count": 9,
+  "quality_average": 4.0,
+  "hold_fingerprint": "be26c52e742f6b34e92714e113517bbddcc750fb36ee4fb4856bcfedba9397e0",
+  "validation_errors": []
+}

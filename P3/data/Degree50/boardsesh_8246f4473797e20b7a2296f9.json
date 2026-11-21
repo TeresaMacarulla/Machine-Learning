@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8246f4473797e20b7a2296f9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "dwar8",
+  "setter": "dewaranch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "01e3b81493034b839a588ce8846185c8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1160r12p1162r12p1228r13p1249r13p1267r13p1334r13p1370r14p1458r15p1461r15p1477r15p1496r15p1586r13p1595r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.8,
+  "ascensionist_count": 5,
+  "quality_average": 2.4,
+  "hold_fingerprint": "dbc59ee87a40f6c5f22cc881c77d558f25e93a5c3efbc3168f754e8a9cca74d8",
+  "validation_errors": []
+}

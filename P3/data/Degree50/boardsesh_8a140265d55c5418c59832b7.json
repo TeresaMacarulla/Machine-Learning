@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8a140265d55c5418c59832b7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "bodytension",
+  "setter": "Soyoko",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A8962EA0428A4E09BBF04169CEAFE154",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1151r12p1205r13p1239r13p1293r13p1305r13p1351r13p1355r13p1384r14p1456r15p1482r15p1542r15p1568r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.17,
+  "ascensionist_count": 6,
+  "quality_average": 4.0,
+  "hold_fingerprint": "4e6a2f1a0220f56c4d3f4d52ea061e314496176c93c5c5a211d04cb1a5add10b",
+  "validation_errors": []
+}

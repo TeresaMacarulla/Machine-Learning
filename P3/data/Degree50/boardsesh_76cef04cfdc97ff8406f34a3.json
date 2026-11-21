@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_76cef04cfdc97ff8406f34a3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Liquefaction",
+  "setter": "JasperDudley",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "29825DF066644E1AA5E94D03823120EC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1166r12p1253r13p1268r13p1289r15p1353r13p1382r14p1458r15p1496r15p1513r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "71649f3374ec3a54fa9d7298525aa5e3208b26efaed37656982ae3c398f90614",
+  "validation_errors": []
+}

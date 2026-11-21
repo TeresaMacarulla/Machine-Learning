@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a3dd0cf95b9d171c72f42270.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "low-altitude flight L\u2192R",
+  "setter": "masaki2022tw",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "CA5C9CDEA3AC42A2ADDA1B153235C484",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r13p1141r12p1146r13p1152r13p1155r13p1178r13p1186r13p1225r13p1259r14p1447r15p1450r15p1454r15p1455r15p1458r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3c4b1aa664997b05bb4d85c6e0917dcea3a2a3d369f7351e1503b872c4eb6c72",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f20e956e460314a1ee82469c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Tap Tap Tap 7x10 edit",
+  "setter": "hwilly",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "5719360682cb4fd0b51b50bc1b32219e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1198r12p1234r12p1247r13p1280r13p1300r13p1331r13p1384r14p1494r15p1521r15p1532r15p1539r15p1549r15p1557r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.43,
+  "hold_fingerprint": "032c918093c2c7a66c614c0f3a097d84929cef2054d00c59cd3c0720881fd23a",
+  "validation_errors": []
+}

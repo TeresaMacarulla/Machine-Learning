@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d51deab44787bed60735cfcf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Threepeat",
+  "setter": "CCDog76",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "f22a29560b5e4601b8b79f5a02d9026f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1149r12p1152r15p1168r12p1219r13p1231r15p1236r13p1266r13p1304r13p1334r13p1351r13p1384r14p1504r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "3d4800f16e89aa7c86c3997ae91a894175f0ec85eb4613f3abc45381c6464c3e",
+  "validation_errors": []
+}

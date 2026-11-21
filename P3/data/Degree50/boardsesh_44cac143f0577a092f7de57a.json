@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_44cac143f0577a092f7de57a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Re-ignition",
+  "setter": "importedbean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "A42E2A9B5692481A934831331BE08BF0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1214r12p1215r12p1270r13p1283r13p1290r15p1338r13p1368r13p1384r14p1503r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.22,
+  "hold_fingerprint": "3d2177ce7ec6cfa3a6f2048ea2e3041884d7c1f5c1ab61542348ad132d22bf7d",
+  "validation_errors": []
+}

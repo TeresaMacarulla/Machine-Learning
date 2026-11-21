@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a6ab177644cc0849fb48f5f8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "lef leg mindset",
+  "setter": "willfusa",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "780a6fb643774acea6a35d07dd063b5a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1199r12p1201r12p1218r13p1248r13p1303r13p1370r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 2.0,
+  "hold_fingerprint": "f6e3fb23a067830aa59b39f89653036cca96fcc7564a5742bb242c4e3f1132bc",
+  "validation_errors": []
+}

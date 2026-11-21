@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_caea132669b9d066ce27d5c1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Roundabout Campus",
+  "setter": "NGS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "22AB88A690A84A7AB650996FDF428F4E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1264r13p1297r12p1302r13p1372r13p1376r13p1395r14p1528r12",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.6,
+  "ascensionist_count": 5,
+  "quality_average": 2.6,
+  "hold_fingerprint": "1c1191b9f72c2c0f7af403204f27dc838b4c77df69d9e0117b4f060a3f96dc4c",
+  "validation_errors": []
+}

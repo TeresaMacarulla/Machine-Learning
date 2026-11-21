@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aba4e6e819f3f68dffbb2ebe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "36x36",
+  "setter": "daltontrudell",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "FE12B37A82A2437FB2E85CAC9048F7A0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1151r12p1169r12p1215r13p1299r13p1353r13p1392r14p1456r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "21801e03d1d305deb158cf9e60c6b57eff0a02f7cabb2855fb8663c5bf7c01dd",
+  "validation_errors": []
+}

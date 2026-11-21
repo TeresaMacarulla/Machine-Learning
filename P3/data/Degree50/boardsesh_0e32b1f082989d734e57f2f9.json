@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0e32b1f082989d734e57f2f9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "A Horse in a Hospital",
+  "setter": "randyfryland",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "FD4BE79BE0DA4EAA85794111D676ED78",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1203r12p1205r12p1269r13p1338r13p1351r13p1383r14p1496r15p1508r15p1533r15p1547r15p1565r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "81b823e7a4927a5e6287040a01def8deda1020bc3feae378dc940062c4bc2822",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a193c310c45649c77809555c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "BANCOMAT",
+  "setter": "giancorti",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "70E5B65F20A64C8C97969A7A23C17EBA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1124r12p1196r13p1197r13p1230r13p1277r13p1298r13p1380r14p1457r15p1476r12p1483r15p1520r15p1538r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "e5048ef2f9c7a6833fdd0441d482097e1a580e7d79c602f3471cf3145f493371",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cc1429c10878e3420497253d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "ARC Tick",
+  "setter": "AndyGullsten",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "75A9BBB9147D41E0AEADD35A26EFB40C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1095r12p1125r12p1152r15p1187r13p1197r13p1218r13p1274r13p1358r13p1387r14p1458r15p1462r15p1536r15p1563r13p1572r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "abb30f577d79a722d2e4ae73c948ce314e8b2bd4f5820684e5be90ba98d201f2",
+  "validation_errors": []
+}

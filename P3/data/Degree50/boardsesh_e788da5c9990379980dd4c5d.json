@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e788da5c9990379980dd4c5d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Don't drink and kilter",
+  "setter": "jablabla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "59792893eaed41db95f997a6b7f1cfad",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1198r13p1213r13p1284r13p1323r13p1373r13p1394r14p1459r15p1485r15p1492r15p1495r12p1553r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "12a7a46ba5913abea91dfc364232ff044b2448e6898a8a8c424dfd3e84a39243",
+  "validation_errors": []
+}

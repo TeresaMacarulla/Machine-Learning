@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_586ac7df7ab995d625cf2253.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "alactic",
+  "setter": "tomovski",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "FBD3E8851C5F497987EB310E83ED4D9B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1113r15p1144r12p1163r12p1248r13p1303r13p1353r14p1514r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e2090a2f53661cf047b9eb952d9922fa221c04ca7b672e41a00b37ef8a72bfe8",
+  "validation_errors": []
+}

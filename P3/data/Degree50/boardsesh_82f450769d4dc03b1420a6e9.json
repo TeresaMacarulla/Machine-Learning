@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_82f450769d4dc03b1420a6e9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Temperamental Weather",
+  "setter": "kakeru_nx",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "6BBE29704CCA438788BCE975AF5AE192",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1148r12p1194r13p1211r13p1264r13p1280r13p1351r13p1390r14p1458r15p1474r15p1546r15p1548r15p1580r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f6a5058f90022ec6c6ae9a54417b47a07759d2e661bb0abbfa037b8313be24fb",
+  "validation_errors": []
+}

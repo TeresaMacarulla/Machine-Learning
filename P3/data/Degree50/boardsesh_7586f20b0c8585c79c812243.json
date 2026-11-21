@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7586f20b0c8585c79c812243.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "SUAPM but plastic",
+  "setter": "samk223",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "85095beb77664e5bbe7a1dc89350e749",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1098r15p1146r15p1180r12p1198r12p1213r15p1270r13p1285r13p1356r13p1385r14p1476r15p1495r15p1532r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "32864e7a34cfec62907d32750e43d23fbb296b55cd80ea1e51ab955f79e523f7",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7147cd15f9d223707e3c025c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "whiplash",
+  "setter": "KAIIIII",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "cf57c23b-5bd4-46cc-a9f7-1d5c1f1c9c74",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1272r13p1500r15p1073r15p1285r13p1217r15p1371r13p1372r13p1191r12p1561r15p1392r14p1205r12",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.33,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "c952cd5bc9222980c9b0b4144d42cce9112b0c745adf7acb4a705ee2981c59a2",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2be787f15eb01edde186fc18.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "ptolemy\u2019s gaze",
+  "setter": "OverGripper",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5EAD35884A3640859B10B647CAE3AE02",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1124r12p1180r13p1214r15p1230r13p1270r13p1339r13p1392r14p1464r15p1483r15p1494r15p1510r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 23,
+  "quality_average": 3.55,
+  "hold_fingerprint": "5b4755a4587d625e90b636f38a9053cc90c0ba73bb9717c849e5b0c946fdefc7",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7bf24d0c2de5fe898d839454.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Cutting Edge",
+  "setter": "Fluxgen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "00cd557f-2ddb-4bae-8800-0d2a83300ac9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1206r12p1208r12p1447r15p1273r13p1287r13p1339r13p1352r13p1351r13p1250r15p1384r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "ecb4991f3884065b972f5cdf43b7051489a7a35f3595cc99c210d7267746d711",
+  "validation_errors": []
+}

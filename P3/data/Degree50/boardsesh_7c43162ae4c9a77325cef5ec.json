@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7c43162ae4c9a77325cef5ec.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "cutty",
+  "setter": "forestfox98",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "BEC53945D679441992CC2FA6D184C6D5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1173r12p1239r13p1256r13p1268r13p1316r13p1370r13p1385r14p1495r15p1496r15p1514r15p1540r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "2b42ef514ff5d1718420a0dc73ebde65e8f02853118f5c4f11fa35d26e518e46",
+  "validation_errors": []
+}

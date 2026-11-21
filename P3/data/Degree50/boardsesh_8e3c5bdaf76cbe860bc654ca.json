@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8e3c5bdaf76cbe860bc654ca.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "High par",
+  "setter": "AlvaroP",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "7f2e2021b9fa46599d4050fb0a7bf846",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r12p1218r12p1283r13p1321r13p1388r14p1487r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "992604d6dfef49bfb692bfcb49c254b4ae4ea00c29c94476fc81c23067e4f941",
+  "validation_errors": []
+}

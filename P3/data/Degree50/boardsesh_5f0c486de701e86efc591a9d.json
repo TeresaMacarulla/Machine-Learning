@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5f0c486de701e86efc591a9d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Dynamo Accuracy",
+  "setter": "itaiyamin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A7CD551D008440B09A4039BF069F88C5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1155r12p1225r13p1251r15p1274r13p1340r13p1354r13p1386r14p1447r15p1515r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "50038afcbe9ca9cbbfd48f5e85c2b71644475933bab98d95597e7b05bedc3414",
+  "validation_errors": []
+}

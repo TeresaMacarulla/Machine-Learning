@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_82d6acfb87d2b8ab4bb5be0f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Clipped in",
+  "setter": "bendelamotte",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "3f1c277b-abd3-460b-b1db-6bc02941045a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1302r13p1247r13p1226r12p1210r12p1306r13p1308r13p1392r14p1107r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "3227adaf105e572f099f1aff756c093376e3199bc073ce39a0ee5378f8008da3",
+  "validation_errors": []
+}

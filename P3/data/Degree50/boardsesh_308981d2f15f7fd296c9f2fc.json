@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_308981d2f15f7fd296c9f2fc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Shicuit #1",
+  "setter": "shordley",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8BFD83A44D504474854AAE6640DB2F44",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1154r15p1204r15p1218r12p1238r12p1266r13p1287r13p1336r13p1356r13p1388r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5977f9f0274e0745447c7f2a969a37864e26ec6f0cbe8894ab80743ab4e9521a",
+  "validation_errors": []
+}

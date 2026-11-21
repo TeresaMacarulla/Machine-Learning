@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4a14d4df21e32e906ab9ec86.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "SKY H1GH",
+  "setter": "JAYRB",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "D63F6E11F596406FAC34703BB1F137D9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1133r15p1137r15p1149r12p1188r15p1236r13p1272r13p1285r13p1324r15p1341r13p1395r14p1581r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "afa0b65eda3d11f38e95ceae0b927aac520e5aad02abbe7c2abf71be1254df8f",
+  "validation_errors": []
+}

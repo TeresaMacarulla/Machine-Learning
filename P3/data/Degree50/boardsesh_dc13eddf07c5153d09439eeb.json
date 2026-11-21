@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dc13eddf07c5153d09439eeb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Poligono Sur",
+  "setter": "J8aG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "c1d22b403c7b442786a350af145c90b5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1105r12p1117r12p1188r13p1199r13p1233r13p1281r13p1318r13p1382r14p1453r15p1506r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e0eb651079231296e696beac1048249a4cec2dc601ad73078ef61d8426a8a1ec",
+  "validation_errors": []
+}

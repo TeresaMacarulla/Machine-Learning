@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7a9672162dccf0e75efb72ad.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Twisted Araki-Woods Algebra",
+  "setter": "tobiasiding",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "7F924897E2AF49F882FF417D6E09DF2D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1171r12p1173r12p1254r13p1291r13p1344r13p1392r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "91eabf26bb2fdf52265bcf31825ff708c6ef3ccaabb0fabdd50348fa3460dd19",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_205250f5a3ec4b1ba18e1963.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Klappergestell ",
+  "setter": "anonymous",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "626dd320-410a-41f9-b702-376c441ce767",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1174r12p1237r13p1220r13p1307r13p1337r13p1390r14p1499r15p1506r15p1451r15p1447r15p1508r12",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "7b57291f4c606ffc9ab996abd4d6e69d9e46aceda1f589b5589689c81f34814c",
+  "validation_errors": []
+}

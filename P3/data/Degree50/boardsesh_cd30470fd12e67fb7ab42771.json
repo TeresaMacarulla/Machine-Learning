@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cd30470fd12e67fb7ab42771.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Sidepull City",
+  "setter": "Hangar18Rancho",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 8,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "002E1061CBB14AE394E484735D4BE1C0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1096r15p1141r15p1144r12p1163r12p1195r13p1197r13p1231r13p1245r13p1281r13p1296r13p1311r13p1330r13p1380r14p1381r14p1458r15p1462r15p1503r15p1510r15p1528r15p1547r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.5,
+  "ascensionist_count": 9,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e6a6ea89da53c5cf6ebba4946697d6f1007f9a8a24038702d497bddc4ea50c3c",
+  "validation_errors": []
+}

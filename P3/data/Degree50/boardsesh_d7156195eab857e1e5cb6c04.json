@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d7156195eab857e1e5cb6c04.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "\ud83d\udc8e",
+  "setter": "demyanek",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "B4F65208CFD547598F3B267A896E6DAE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1150r15p1155r12p1183r15p1226r15p1239r13p1254r15p1268r13p1295r13p1317r13p1345r13p1379r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "373ddc05c1507ea4d81315e009991f86f00446b94d50d8e43630fdabb56ca0c5",
+  "validation_errors": []
+}

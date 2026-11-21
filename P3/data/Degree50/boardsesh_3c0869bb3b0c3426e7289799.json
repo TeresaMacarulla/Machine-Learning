@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3c0869bb3b0c3426e7289799.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Lune",
+  "setter": "titiboule",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3A2FA9711E054AF8ACFA2EEA6B7973C9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1271r12p1320r13p1386r14p1480r15p1488r15p1524r12",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "355826a415ba7453f4b100cd2ae2f909e94398c9d2faf8451eeca177117c1d0e",
+  "validation_errors": []
+}

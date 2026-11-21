@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8704a0798c6440a26b2536f2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Steelbank Proj",
+  "setter": "tcwaterhouse",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "42867B68A2174985830D5513C0DAE810",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1114r12p1131r15p1163r12p1229r13p1233r13p1281r13p1294r13p1347r13p1379r14p1380r14p1455r15p1519r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.97,
+  "ascensionist_count": 107,
+  "quality_average": 3.37,
+  "hold_fingerprint": "07618c7118230786ef0548b7936d46a00dc4395160f72a3f26a71104d1b41e88",
+  "validation_errors": []
+}

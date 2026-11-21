@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_89ddee99c3ea5e972a216a6c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "here comes the fun",
+  "setter": "331578229",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7CD6B83694C04DA18B0786DEF98A9A22",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r15p1128r12p1165r12p1188r15p1215r13p1253r13p1270r13p1323r13p1371r13p1382r14p1384r13p1387r13p1459r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "0adc7628cda803e2e837f5ea17023b79baa826fd2fda7a63edd5318b5061228e",
+  "validation_errors": []
+}

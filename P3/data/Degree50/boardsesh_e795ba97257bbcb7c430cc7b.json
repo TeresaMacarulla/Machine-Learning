@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e795ba97257bbcb7c430cc7b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "BBB_Ki35",
+  "setter": "smnmntg",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "67D5CD26894F479BB4786EC3BEC197E3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1214r13p1284r13p1318r13p1320r13p1357r13p1393r14p1454r15p1486r15p1506r15p1521r15p1560r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.83,
+  "ascensionist_count": 6,
+  "quality_average": 4.0,
+  "hold_fingerprint": "6ba45f740573e9c4c9122ec0b8fa5e1d29b4fb81ce5c6e640e646b842728574c",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_62226db31c38ceeea819f697.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Emergency Exit Only",
+  "setter": "markcrimps",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "e5a2e6e78bca4c2e806db962e0591e39",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r15p1143r12p1147r12p1231r13p1237r15p1245r13p1300r13p1304r13p1315r13p1371r14p1462r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.25,
+  "hold_fingerprint": "a88f18c2d927ad08fa105c88dea2c6fc987b58d83e1e6516b5e06c487d7d7c33",
+  "validation_errors": []
+}

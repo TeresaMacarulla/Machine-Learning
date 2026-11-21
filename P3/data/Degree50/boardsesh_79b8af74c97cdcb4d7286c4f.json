@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_79b8af74c97cdcb4d7286c4f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "hold your schoulder",
+  "setter": "Floris.G",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2b86025a-5a75-4a76-bb0f-1f62a022b459",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1210r12p1277r12p1519r15p1332r13p1354r13p1372r13p1391r14p1557r13p1333r13p1531r15p1549r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c1343723364524e3c4b927913e6ff03134b437753a8d68cba199c6a41bdbab70",
+  "validation_errors": []
+}

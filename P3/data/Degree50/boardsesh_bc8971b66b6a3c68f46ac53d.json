@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bc8971b66b6a3c68f46ac53d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Babyspeck",
+  "setter": "JaschClimb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "bb4be4c3a3524be2a60869a22515d236",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1096r15p1148r12p1196r12p1231r13p1248r13p1302r13p1370r13p1390r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "4b2c2ee25ad4d11556ba79fa69702219198d51d4e4e51188b7819c368f80518d",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_965a9003cace3eb5c3b1a698.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Duality",
+  "setter": "FlexOnTheFlucks",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1f23b022-27a3-4b32-a1fc-ac604e58f962",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r12p1146r12p1250r13p1249r13p1253r13p1270r13p1290r13p1355r13p1389r14p1459r15p1188r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.5,
+  "ascensionist_count": 4,
+  "quality_average": 4.75,
+  "hold_fingerprint": "65819eab5eb6eb3ae6ff7c0e339fbcf854e2f395036585e7c9dea332a521f5fe",
+  "validation_errors": []
+}

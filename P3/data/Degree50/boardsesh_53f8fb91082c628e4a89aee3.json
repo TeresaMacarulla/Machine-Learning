@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_53f8fb91082c628e4a89aee3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Twilight of the Heart Gods",
+  "setter": "luke",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "65e03c5a65c24ba5ad2726873f7e7486",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1157r12p1206r13p1223r13p1270r13p1307r13p1319r13p1355r13p1385r14p1387r14p1481r15p1524r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "f9e0f3d36fd37c70ee0fc2b7b4d82d504655d88acd9304d32cffc970314be66a",
+  "validation_errors": []
+}

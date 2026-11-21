@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a683abb0e37ca26fda691057.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "morphO",
+  "setter": "softsecondgo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "6DCAB055682F4F6BA9D4E17768E6E41F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r12p1250r13p1272r13p1273r13p1370r13p1382r14p1462r15p1492r15p1527r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "05ad2f107f687b8f0111511da7f349d70c876e5cffb5eaf9af8125e9016e10bf",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ad591a524294640e05ad3b90.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Mwaki",
+  "setter": "Habkering",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F5381B467B264E97A0F45783488B3FBC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1186r12p1228r13p1250r13p1264r13p1314r13p1318r13p1367r13p1379r14p1452r15p1497r15p1510r15p1511r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "98a29e7fd06f3c0d4f5d85433a8020735d60627546233f0bb73f97703b13c854",
+  "validation_errors": []
+}

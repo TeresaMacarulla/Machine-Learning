@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c95c3f141654c631cdc1e58f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Learning To Fly",
+  "setter": "JoelHaefliger95",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "9d61eaf8-1c93-4b8a-99cc-ce5c3372c142",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1455r15p1201r13p1184r13p1238r13p1270r13p1283r13p1317r13p1347r13p1380r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "41cc51bb591c3a1056670684524fe963c8d0d1b2b6ec8609ea8392fd06e5cecd",
+  "validation_errors": []
+}

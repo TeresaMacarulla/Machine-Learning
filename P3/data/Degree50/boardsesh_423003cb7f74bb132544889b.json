@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_423003cb7f74bb132544889b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Honda Civic",
+  "setter": "samgtmeyer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "3b75fbbc220849bfa6d4ef374b874fb0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1085r15p1127r12p1148r12p1163r15p1171r15p1199r13p1220r13p1233r15p1263r15p1286r13p1322r13p1334r13p1383r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.02,
+  "ascensionist_count": 326,
+  "quality_average": 3.23,
+  "hold_fingerprint": "92016a84a993098c99da01c114a7a48c5ea433f6e22f515ac8c158e8ddeb3389",
+  "validation_errors": []
+}

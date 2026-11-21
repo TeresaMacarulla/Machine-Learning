@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5ddfc441922f18b5b1891dcc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Full width",
+  "setter": "FrancisGroleau",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "3d0c895ac9854bbcabbd37ba7089e8f5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1135r12p1154r15p1169r15p1202r13p1239r15p1252r13p1286r15p1304r13p1351r13p1352r13p1387r14p1452r15p1456r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9284f4f0a5691684d254c6f01f898eb61ff6386465d6b088114d48c2bb7e6b7d",
+  "validation_errors": []
+}

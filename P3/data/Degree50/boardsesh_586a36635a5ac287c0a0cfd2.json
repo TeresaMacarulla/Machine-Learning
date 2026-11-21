@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_586a36635a5ac287c0a0cfd2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Super Boulder",
+  "setter": "Fac.hri",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1126d6a2-85cf-4db2-a703-50e8fdc661b6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1137r12p1451r15p1288r13p1249r13p1559r13p1299r13p1332r13p1529r15p1383r14p1239r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "f0c4ee487f4f66619d7f73ce4d712ab891a6a881f8e34eb642059c8db9ea92a4",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_960a985adf2f740038da6d3d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Yellow from the Egg",
+  "setter": "serialz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "02702c065a0b461b993640eba83885eb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1116r12p1184r12p1201r13p1213r13p1230r13p1246r13p1296r13p1335r13p1387r14p1456r15p1551r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "893a4cf196c628a3e6a46a765c2bb183f8170f9634b11b57cf56f41a222adce7",
+  "validation_errors": []
+}

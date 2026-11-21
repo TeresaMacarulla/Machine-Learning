@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5837a167657d814f67ed4b2e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "launch control",
+  "setter": "YVNGCUB",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "01B4835C35634E79B5757FDAB4EC543C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1202r13p1270r13p1291r13p1385r14p1389r14p1454r15p1458r15p1495r15p1536r15p1568r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.97,
+  "ascensionist_count": 32,
+  "quality_average": 3.67,
+  "hold_fingerprint": "cbe5ad6706df1301a32b09568823b6822a8cd566e08d059f1e29d0fa0a372cbe",
+  "validation_errors": []
+}

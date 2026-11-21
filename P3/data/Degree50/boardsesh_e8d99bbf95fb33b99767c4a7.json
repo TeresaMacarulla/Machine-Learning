@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e8d99bbf95fb33b99767c4a7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "if chickens could talk",
+  "setter": "gclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "78cf436f8794408fa2a7863c4608fc4b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1196r12p1248r13p1254r13p1284r13p1357r13p1372r14p1461r15p1501r15p1511r15p1553r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.95,
+  "ascensionist_count": 2560,
+  "quality_average": 3.300664581704457,
+  "hold_fingerprint": "d34a891ef94dab4e6d13ad938fadf4615b05329ca4f267dad2008f28efe4cb5f",
+  "validation_errors": []
+}

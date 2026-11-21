@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f4c2ea5644e3bd6bf2dc24af.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "trainer 15",
+  "setter": "alialsaedi25",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "70492432F8DF446582D8BC22ABE1845F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1089r15p1141r15p1177r12p1192r12p1230r13p1248r13p1269r13p1321r13p1368r13p1389r14p1515r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ac96d7995f31d3d620e8fba39a42ebb0170a5aedd23ad80cc3522256ad8f7995",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c3fbf6f33a3c9def6cf50918.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Off the cart",
+  "setter": "gsmith.00",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "EC7F5031637C4578BFD4896CD87457AB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1158r15p1280r12p1302r13p1339r13p1359r13p1394r14p1547r12",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "57e6b3091274ae2294464fc51a75a4454d91f5f60a7875da9851e02faa538e05",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_761b8b316061b4b6ae1dfd72.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "bonheur",
+  "setter": "Elmo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "bf2d51f9-4ef8-42b3-9450-e7e1e3d09914",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1184r12p1219r12p1163r15p1291r13p1307r13p1191r15p1535r15p1322r13p1318r13p1334r13p1551r15p1379r14p1347r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 2,
+  "quality_average": null,
+  "hold_fingerprint": "1634ecd624d46a2c8b187f0e6665502642a8fd8f99b0e2057cbd1c66c4c39527",
+  "validation_errors": []
+}

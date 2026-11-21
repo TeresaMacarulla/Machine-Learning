@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_035c8680f2370a49b4c540e3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "black bean",
+  "setter": "BlakeOnKrack",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "5D7BC3F1ED7C4C0293D6CE58473A3AC1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1101r15p1148r12p1169r15p1182r12p1216r13p1239r15p1269r13p1304r13p1343r15p1357r13p1393r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2b4adb0c94e923728b850392ded0bbdcc848ee31873a1c8774b5de528a553be2",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ff57e16f69dcd645da2a2020.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "lda hat kor",
+  "setter": "kusanagi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "bd001d00a90849948ec30309ba88fe58",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1100r15p1148r12p1151r12p1198r13p1203r13p1234r13p1249r13p1285r15p1333r13p1338r13p1386r14p1387r14p1532r15p1551r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0676cb9a61959907d38318ecd7cefb0ee9d91a788256b6f0ab363c4c0c1baf0a",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e08b104cef229bfbd482f670.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "drag training",
+  "setter": "tomatogagne",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "80079ec1423d4908ba70b8c10ce8f2d5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1232r12p1253r12p1304r13p1306r13p1334r13p1383r14p1525r15p1532r15p1595r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "d2cc8e62f448a475e652026e2e4d73f44bc3b767cb1e6ec8bf57d79f643e3bd8",
+  "validation_errors": []
+}

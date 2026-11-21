@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dabb53cfda4863cde0a5a3eb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "ACTEUR X",
+  "setter": "Enzo.P",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2E53BAB9DBAF44E7A3E991B22D271C4F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1137r15p1233r12p1255r13p1256r13p1359r13p1371r13p1385r14p1499r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 5,
+  "quality_average": 2.2,
+  "hold_fingerprint": "ef47daa113e1323b293f1be0a2fca628ba860cf84f1339fd768eb9baabf6cbe1",
+  "validation_errors": []
+}

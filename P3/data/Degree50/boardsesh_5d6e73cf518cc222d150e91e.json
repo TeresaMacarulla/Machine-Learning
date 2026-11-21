@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5d6e73cf518cc222d150e91e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "K Hole",
+  "setter": "BrianVanHouten",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1EEB2FB90D5246D79BBFFC22247EC956",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1133r12p1200r13p1231r13p1268r13p1281r13p1316r13p1347r14p1350r14p1453r15p1458r15p1505r15p1556r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ff003cbd9a6c720dc59a5c29b40b5b328bf7b6381591772c7b32af12180d0a38",
+  "validation_errors": []
+}

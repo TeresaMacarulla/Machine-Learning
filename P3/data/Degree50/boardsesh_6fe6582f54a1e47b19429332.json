@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6fe6582f54a1e47b19429332.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "start to finish",
+  "setter": "dragonpixels",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 0,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "9D63CC80B34A41F4B8AD6FA0FD24F5EF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1206r15p1208r15p1257r12p1259r12p1359r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a6657469a8726f8e25c9937a4efc1f4d6b336ef4ae850e9033d3b8a3ebf03f15",
+  "validation_errors": []
+}

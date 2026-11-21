@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eda1358bb59286c81d5dd455.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Portland gestapolice",
+  "setter": "CRANK",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2663E9197A9647F8BBBE671DA54F3C42",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r12p1184r12p1256r13p1302r13p1317r13p1381r14p1456r15p1499r15p1542r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 5,
+  "quality_average": 2.6,
+  "hold_fingerprint": "cc5413e62237d0dd39c3ee03b14927526386a3246d6f1e8f3e078284edbd0f9c",
+  "validation_errors": []
+}

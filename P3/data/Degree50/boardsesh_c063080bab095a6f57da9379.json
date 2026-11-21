@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c063080bab095a6f57da9379.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Sort",
+  "setter": "SaxonCasi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "f58359dd369b4723980e222e1ff1a0e0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1133r15p1214r12p1215r12p1230r13p1250r13p1283r13p1287r13p1352r13p1389r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 4,
+  "quality_average": 2.0,
+  "hold_fingerprint": "77f27bdb76f3cc8bca8481f281dda5f4500ab489c601edb032b19365332cdbbc",
+  "validation_errors": []
+}

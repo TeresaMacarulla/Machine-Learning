@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_36a31396e0087609550ff9a7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Bend and Snap",
+  "setter": "dperez",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7676C9CDAE1643D1A622B9FB6B521E41",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1129r12p1200r13p1236r13p1251r15p1266r13p1304r13p1336r13p1387r14p1459r15p1497r15p1504r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.02,
+  "ascensionist_count": 252,
+  "quality_average": 3.34,
+  "hold_fingerprint": "ed3d79d70bb5e8c3dd31699f5677b50c5da30b6cb06c3c5b1d7e028045862416",
+  "validation_errors": []
+}

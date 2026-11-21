@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_748b6d1954345d1a1df47fa3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "wingardium leviosa",
+  "setter": "yarden.pilpel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "308327982fc8409887ce1ce564afb534",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1146r15p1149r12p1164r12p1203r13p1234r13p1305r13p1306r13p1315r13p1354r13p1383r14p1478r15p1539r15p1577r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.17,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "576f3569a81f982d6088f48a8d92b8b1232aeaa4c5e27f5f06dfdbd86fd83839",
+  "validation_errors": []
+}

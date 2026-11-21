@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_373c0ce0e6b1d4249d53479d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "IFT320",
+  "setter": "ImpactDz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0ef326caa2af488f967947f056a5351b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1092r15p1161r12p1170r15p1177r12p1208r15p1231r13p1234r13p1235r15p1272r13p1306r13p1359r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.67,
+  "hold_fingerprint": "f928415e5fc9994e78b08a45b0dc5e3003c5abdda1e5b2cb7c14c093de0f6244",
+  "validation_errors": []
+}

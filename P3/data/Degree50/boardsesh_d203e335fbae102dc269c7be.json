@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d203e335fbae102dc269c7be.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Dynamics",
+  "setter": "Hiro10",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "60559e5dfef94e1c9e143cf6d42d017e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1239r12p1270r12p1353r13p1382r14p1506r15p1508r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.04,
+  "ascensionist_count": 24,
+  "quality_average": 3.26,
+  "hold_fingerprint": "3bb0e144085a2f301959663e3c7936b89665ad8c92eae50617f8095de27b1cbb",
+  "validation_errors": []
+}

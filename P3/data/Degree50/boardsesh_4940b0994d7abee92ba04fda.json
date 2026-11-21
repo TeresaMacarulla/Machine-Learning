@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4940b0994d7abee92ba04fda.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Frothing at the foot",
+  "setter": "interiorexterior",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "F5E2F4DFF804448694ECCB167CA581E8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1167r12p1198r12p1268r13p1298r13p1353r13p1391r14p1468r15p1496r15p1540r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "79589e42d75ce2bd30ee8f0cd4f3d1a729f6a51f559688df80828f2d11006b37",
+  "validation_errors": []
+}

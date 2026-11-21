@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6ee2e11c0ffe7057fc444d36.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "one arm",
+  "setter": "titiboule",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "FEB5280D702C4104A092675FAE34FAFE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1202r13p1257r13p1338r13p1359r13p1388r14p1456r15p1494r12p1518r15p1580r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "c2b1cf50725e94b80b0dc26a1d07da038aca9ed1dcf6442f6c0742cad1b42121",
+  "validation_errors": []
+}

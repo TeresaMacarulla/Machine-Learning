@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_95b0d81853bfff03bc2c5596.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Cluster Fk",
+  "setter": "tortesla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "EC20021AD5844494BBD9DB737438925F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1112r12p1176r12p1249r13p1266r13p1267r13p1388r14p1457r15p1495r15p1503r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.83,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "324d5cff785c62bbdbf3507504b8d11780f0e0264472d323e10e49335dd1d620",
+  "validation_errors": []
+}

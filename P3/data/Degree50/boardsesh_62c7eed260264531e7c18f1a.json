@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_62c7eed260264531e7c18f1a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Rondje 1",
+  "setter": "JamieBarendrecht",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 17,
+    "foot": 12
+  },
+  "source": "boardsesh",
+  "source_uuid": "a68b1072c5454f2db69910792eb06ead",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1090r15p1103r15p1137r15p1144r12p1156r14p1157r14p1159r13p1163r12p1174r13p1192r13p1206r13p1212r15p1221r15p1234r15p1242r13p1244r15p1246r13p1252r15p1257r13p1263r15p1267r15p1294r13p1308r13p1313r13p1340r13p1347r13p1353r13p1356r13p1366r13p1384r13p1387r13p1447r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.67,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "30df5d457f301038d9f933149a50d8f001ee06ca7db7a217810413470824f3b5",
+  "validation_errors": []
+}

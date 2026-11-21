@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5a631b719640548b005acd07.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "CONTENTION",
+  "setter": "tortesla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "FA15806DB9BE434FAA7ED24C7F23D972",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1139r12p1153r12p1155r15p1161r15p1222r13p1253r13p1262r13p1277r13p1282r13p1379r14p1447r15p1489r15p1500r15p1530r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.5,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "57b15283f4456e8b32de260ba246d3fc68dd03ece49225c5414bf28ec70c2369",
+  "validation_errors": []
+}

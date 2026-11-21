@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2fff1348f94dd50d03892d87.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "training with Denzel",
+  "setter": "LOizo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "21241BE8FE3A4D64AB5A97E10B33A2BD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1167r12p1171r15p1236r12p1266r13p1300r13p1331r13p1382r14p1470r15p1521r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.04,
+  "ascensionist_count": 93,
+  "quality_average": 3.33,
+  "hold_fingerprint": "77c2fa35161074c3e14927720c6fe043c306dbe2d599c9f92283686b6d4be4d3",
+  "validation_errors": []
+}

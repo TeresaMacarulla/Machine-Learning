@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d27b3b49154c03cd0b8cb30e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Big Lock Campus",
+  "setter": "richhobo8888",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "56fd607aadba4637999c10e1a6984ef6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r12p1237r12p1302r13p1352r13p1387r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 115,
+  "quality_average": 3.46,
+  "hold_fingerprint": "3db3a1e341375994ffc28b600de9f3f89c21e87ea54174b5fb34bb49058f9816",
+  "validation_errors": []
+}

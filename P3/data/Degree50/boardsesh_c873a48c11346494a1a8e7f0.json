@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c873a48c11346494a1a8e7f0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "ready for sleepwalker",
+  "setter": "paulrobinson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "E82C06556B00448C855C57C2ACE4A47E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1143r12p1245r13p1268r13p1304r13p1325r13p1395r14p1460r15p1485r15p1495r15p1497r15p1535r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a08a463135e890eaf97a5c2723235b5a274f043c87818a0f744d2d6a4ade13e6",
+  "validation_errors": []
+}

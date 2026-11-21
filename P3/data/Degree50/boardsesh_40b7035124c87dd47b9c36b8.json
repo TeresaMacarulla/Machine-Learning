@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_40b7035124c87dd47b9c36b8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Send or no send",
+  "setter": "ratclaw",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "b6767242d9b64cad9a2a23ae2caa906b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r15p1148r15p1157r12p1186r13p1196r15p1255r13p1283r13p1285r13p1297r13p1382r14p1497r15p1506r15p1522r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 13,
+  "quality_average": 3.62,
+  "hold_fingerprint": "e3348d608e104c2f8918c6a91a8fed2caba3c1dacea02389768f3ffe882c7207",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dc5f0718d31d3e19c9d460fb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Pancakes In The Kitchen",
+  "setter": "hgrimes",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3D30DF0F0F45451BB79EB417D316D993",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r15p1187r12p1189r12p1192r15p1210r15p1254r13p1264r13p1283r13p1295r13p1345r13p1379r14p1479r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "76e150bec4cb771e37b9a7e9f416225e116c798031659899e9b032238a9a32cf",
+  "validation_errors": []
+}

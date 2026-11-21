@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5c31dcfaf35501b85ad8b5bc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "climb of doom",
+  "setter": "Adrenaline",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 9,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "85C6517C3EE34067BB52DCAE8E685575",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1087r15p1089r15p1130r13p1142r12p1144r12p1146r13p1158r13p1162r13p1165r13p1178r13p1181r13p1183r13p1200r13p1219r14p1221r14p1478r15p1487r15p1488r15p1507r15p1515r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "e2bd1679071f3904680fa9ce570fd2928d371d552a3fd615503b58f60d2bd86f",
+  "validation_errors": []
+}

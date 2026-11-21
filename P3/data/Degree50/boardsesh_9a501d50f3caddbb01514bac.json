@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9a501d50f3caddbb01514bac.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "50 degrees Fahrenheit",
+  "setter": "jadams",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "A9148EDEE898478285EF58522C23C84C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1115r12p1129r12p1163r13p1247r13p1267r13p1301r13p1355r13p1388r14p1459r15p1493r15p1523r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.02,
+  "ascensionist_count": 596,
+  "quality_average": 3.35,
+  "hold_fingerprint": "3553180de378363e5a016d09d9de9c0e1266439e4a9b5b6ec237eb35d3c62aaf",
+  "validation_errors": []
+}

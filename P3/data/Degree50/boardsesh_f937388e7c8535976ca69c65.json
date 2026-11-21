@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f937388e7c8535976ca69c65.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "jugpression",
+  "setter": "MJ20",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9D1263FF2E1B459E9368A9B7172F4B50",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1142r15p1149r12p1195r12p1228r13p1233r13p1245r13p1300r13p1335r13p1350r13p1382r14p1547r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.8,
+  "hold_fingerprint": "d044727fccf97ba0f67b2e2f3fd56602465bba494d9fc180fa7bcc46f11ace16",
+  "validation_errors": []
+}

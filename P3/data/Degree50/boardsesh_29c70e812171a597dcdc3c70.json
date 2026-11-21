@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_29c70e812171a597dcdc3c70.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "36th Chamber",
+  "setter": "Hazen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1f1cc9db500b4f5fac5fcd6a56c9741d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1143r12p1231r13p1270r13p1340r13p1395r14p1464r15p1502r12p1503r15p1542r15p1572r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.96,
+  "ascensionist_count": 24,
+  "quality_average": 3.67,
+  "hold_fingerprint": "990aa0d5dc183373a35c9d1fe9b64f6aee869000e401cf6b7b0e04ba67757c03",
+  "validation_errors": []
+}

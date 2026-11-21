@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_28f65778b572256a768f3147.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "FN FAL 50",
+  "setter": "fms",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4DC5DB0EBF144CF19AE70967FB15995E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1149r12p1200r13p1217r13p1254r13p1283r13p1320r13p1357r13p1387r14p1489r15p1503r15p1507r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "71c508aa83f328b3d78391e0ca44989af201a9cccb0d5d1acb923c7b0c6a776c",
+  "validation_errors": []
+}

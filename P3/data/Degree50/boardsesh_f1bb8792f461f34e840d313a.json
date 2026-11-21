@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f1bb8792f461f34e840d313a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Circular Rotation",
+  "setter": "Maxmeixenn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4b9df5eb-3640-45d6-a955-f05bda11df3c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1175r12p1459r15p1458r15p1147r12p1214r13p1219r13p1499r15p1237r13p1553r13p1309r13p1518r15p1374r13p1372r13p1384r14p1382r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": null,
+  "hold_fingerprint": "0b3f3b7836d0d5232b9e76d565a31a02f40bf45ffb90338b75eee7f1f83de5c1",
+  "validation_errors": []
+}

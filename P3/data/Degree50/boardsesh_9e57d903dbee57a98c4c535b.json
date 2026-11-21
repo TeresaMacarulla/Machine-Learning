@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9e57d903dbee57a98c4c535b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "maxi2.0",
+  "setter": "andrea.deangeli",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8011105989ea46a785b57871ad695901",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1207r12p1213r15p1264r13p1268r13p1274r12p1304r13p1374r13p1395r14p1534r15p1536r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bcb559691cea5ef9e83b0308c19dcd38892627963eb2e38f5b85e802f347d875",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_55f268157d48d10826ed8a2b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "lock your flag",
+  "setter": "joachimf1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "21D858142A1B488F8E622F6FBC757980",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1127r12p1147r12p1205r15p1215r13p1253r13p1285r13p1305r13p1325r13p1339r13p1375r13p1395r14p1535r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "85f5033c61b642de22944a1cf1bc2240133bb595502484a9fe310068da5845b8",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dd2a5eacf00ad15adc43087c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Clockworked",
+  "setter": "will_avelar",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "FE8521DFEA184B7397FA2AC6780B0356",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1180r12p1182r12p1250r13p1288r13p1305r13p1373r13p1386r14p1468r15p1470r15p1506r15p1532r15p1534r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 114,
+  "quality_average": 3.37,
+  "hold_fingerprint": "2ee23c8b8df62d960b639b2369827f2b7d693537633f3cb17f8e1580a327e6e7",
+  "validation_errors": []
+}

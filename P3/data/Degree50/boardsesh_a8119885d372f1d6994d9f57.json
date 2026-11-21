@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a8119885d372f1d6994d9f57.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Der Bruch",
+  "setter": "shiey",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "BA7EF6F538DE4D508C474590268EA011",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1177r12p1231r13p1247r13p1300r13p1317r13p1353r13p1385r14p1466r15p1485r15p1566r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 2.0,
+  "hold_fingerprint": "180cf54cb446debd1683fd8422d2fb39a3bcd6d1159c3c43515236125df58430",
+  "validation_errors": []
+}

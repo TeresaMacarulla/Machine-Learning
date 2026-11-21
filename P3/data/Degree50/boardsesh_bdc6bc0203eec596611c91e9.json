@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bdc6bc0203eec596611c91e9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "fake training 4:2",
+  "setter": "jojo69",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "90a76613f9a247ada8e3439c897d35a0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1136r12p1187r13p1188r13p1232r13p1253r13p1287r13p1319r13p1370r13p1384r14p1449r15p1471r15p1491r15p1506r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ed2f9f940d2df048e90e27a04da861e77d9b656d18521140f535d7b7eba457a8",
+  "validation_errors": []
+}

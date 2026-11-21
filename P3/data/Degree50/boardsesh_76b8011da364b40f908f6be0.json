@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_76b8011da364b40f908f6be0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "airplane mode",
+  "setter": "jakemcneely",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "E0585F7C53FC40179A7BC390B5A3C5AD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1113r12p1147r12p1182r13p1216r13p1286r13p1336r13p1389r14p1504r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 28,
+  "quality_average": 3.29,
+  "hold_fingerprint": "32e0f94d634a1630bc511520921d18896c5f79223def9e1320d755a5d4dd5ad3",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_66c126a4ad94064530a93173.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Triad TRAINING",
+  "setter": "sstrut",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2b5586dda9c9415aac02d7ccd99ca886",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1131r15p1166r12p1222r13p1255r13p1293r13p1342r13p1375r13p1387r14p1490r15p1508r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.91,
+  "ascensionist_count": 12,
+  "quality_average": 2.91,
+  "hold_fingerprint": "a8a1e3d6c43623e53706ce250a7c43e9fd5f2024917b1cd3c66561f73b02543d",
+  "validation_errors": []
+}

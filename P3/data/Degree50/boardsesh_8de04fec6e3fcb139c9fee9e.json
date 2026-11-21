@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8de04fec6e3fcb139c9fee9e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Pause Buffer",
+  "setter": "RavioliTriceps",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "0DB1E1F3B71948F29FE34BF39AFC69CC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1179r12p1236r12p1306r13p1308r13p1395r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.04,
+  "ascensionist_count": 48,
+  "quality_average": 3.2999999999999994,
+  "hold_fingerprint": "f99e2eb0e4ccc2748bdbf9adba713e3888558a166119883535dfe169efc2338a",
+  "validation_errors": []
+}

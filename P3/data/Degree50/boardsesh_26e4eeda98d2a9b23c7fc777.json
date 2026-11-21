@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_26e4eeda98d2a9b23c7fc777.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Dog Piano",
+  "setter": "FrederikS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "89f616a7ea2344d78187e4f52dbe4a2a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1137r12p1167r13p1171r12p1253r13p1282r13p1283r13p1314r13p1385r14p1521r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.99,
+  "ascensionist_count": 215,
+  "quality_average": 3.26,
+  "hold_fingerprint": "d77fe17067ce21295b199c29ecf8e76126418bb2b5f476208230343c8883ff21",
+  "validation_errors": []
+}

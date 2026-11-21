@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9b0c19d092d4c5c04875faad.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "untwisted",
+  "setter": "AlexanderMegos",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "054E5E7293C44F29815F39F0D27FA7E2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1162r12p1210r12p1265r13p1350r13p1380r14p1383r14p1504r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "c9b4ffa31d269fdbd7d02ac786a52d13d9fcff8f7a51626dcca2cff88ae22cbc",
+  "validation_errors": []
+}

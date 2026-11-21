@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e3e08aa5db15cdfaae63cb7b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "keep it tucked",
+  "setter": "jk_47",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9760DFFA0CBD4DAAB561718C6A07A196",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r13p1164r12p1165r12p1234r13p1250r13p1271r13p1320r13p1355r13p1385r14p1516r15p1522r15p1534r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "191c3bc54746b302fed1011c933f9af8410547c039c623718d049f825bd7c875",
+  "validation_errors": []
+}

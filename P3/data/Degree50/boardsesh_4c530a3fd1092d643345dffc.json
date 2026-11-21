@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4c530a3fd1092d643345dffc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "mantra",
+  "setter": "jasperzopfi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "81A2F01317FD4840BEA12808A9656E3F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1167r12p1204r12p1255r13p1263r15p1280r15p1310r13p1323r13p1334r13p1357r13p1369r13p1381r14p1504r15p1506r15p1553r13p1572r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.2,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "c61083c32aebfa6974c29d8f5826bf9acb43cbe8eaf75b1849075e7a973074d1",
+  "validation_errors": []
+}

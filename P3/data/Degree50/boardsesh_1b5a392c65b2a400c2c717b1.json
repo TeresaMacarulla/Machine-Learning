@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1b5a392c65b2a400c2c717b1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "left foot #005",
+  "setter": "lara453",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "EEAEA3E86C1D4EEC88ED1AED35926BAA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1185r12p1197r15p1198r12p1243r15p1251r13p1284r13p1300r13p1331r13p1347r13p1380r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "566c132311ea58c0fffc849b67774fdf0b814cc7c6398be46f39d5035a8503a9",
+  "validation_errors": []
+}

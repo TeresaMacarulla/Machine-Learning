@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7730c66e7cef49bcfa03d4f0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Triple Threat 2.0",
+  "setter": "BKBChicago",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C8F50196206849578ADF19BF74F76C1B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1150r15p1196r12p1216r12p1266r13p1269r13p1298r15p1319r13p1384r14p1385r14p1504r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c2184a2480b1b4cedd7d5686c547dc921eae65f58ad5b798966a70fa6ee1778e",
+  "validation_errors": []
+}

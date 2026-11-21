@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c0682f2804352a755c5b19a8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "consecutive",
+  "setter": "Wilf_h3",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "FA5300E0EE0346B7BDDEA522EF447D68",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1147r12p1167r12p1205r15p1270r13p1274r15p1338r13p1383r15p1385r14p1456r15p1543r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8db14cb1c73a3e819154c42e5ece2c13c03f7e52d99b54b9815a430f81596fb5",
+  "validation_errors": []
+}

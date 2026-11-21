@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_04f4a996af69f93635464673.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Happy Baby",
+  "setter": "Riptile",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "39D7F026671C4CBFA6232D2766E139EC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1143r12p1163r15p1210r13p1233r15p1244r13p1271r15p1280r13p1281r13p1331r13p1335r13p1353r13p1392r14p1465r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "78288af40a8d92177dd19c5e8c6b7b498f5700fa9281124c76083bc13df57853",
+  "validation_errors": []
+}

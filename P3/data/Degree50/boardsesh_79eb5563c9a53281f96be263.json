@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_79eb5563c9a53281f96be263.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "VM 12/09",
+  "setter": "villeyonions",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1F9B69462EFC41D6A30ACB07D67739A5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1146r15p1175r12p1192r12p1196r13p1227r13p1246r13p1281r13p1300r13p1331r13p1382r14p1464r15p1466r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.43,
+  "hold_fingerprint": "69d5297627d0b5e56707723ea11b1e950afcf797ad2dc190f97cd42edb0c350e",
+  "validation_errors": []
+}

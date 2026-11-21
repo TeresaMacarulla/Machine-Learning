@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3cdd7af53096ea8f816b0ffa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "UP FIVE",
+  "setter": "BuenoUeno",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "BF153F8523774026B6C9811D4EF45CE0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1162r12p1163r12p1201r13p1256r13p1320r13p1387r14p1468r15p1509r15p1516r13p1532r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ee320a65e23e576dcb22dde95a2c8221ff9a24d4e83c99e17bb6cffeec11dc83",
+  "validation_errors": []
+}

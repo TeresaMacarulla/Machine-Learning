@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_be598168000a5eb03ab4c0da.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Core move",
+  "setter": "junggeehoon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "FB8EBAC45CA34252AC7BDE96851B1C6C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1260r12p1266r15p1278r12p1286r15p1296r13p1331r13p1351r13p1387r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "a143492ba3a3edd6575b8fde6ecd522e0874d8489fddb460ff06b251001b25bb",
+  "validation_errors": []
+}

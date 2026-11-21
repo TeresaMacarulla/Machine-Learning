@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_16d622b089210655bf13f68a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Funky monkey",
+  "setter": "alexbond122",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "9AD25DD0952A4D66B35924566A8A9A31",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r12p1204r13p1221r13p1273r13p1281r15p1302r13p1304r13p1385r14p1450r15p1456r15p1472r15p1506r15p1532r15p1551r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.83,
+  "ascensionist_count": 18,
+  "quality_average": 3.5,
+  "hold_fingerprint": "f1643ef19a881606748b748ebbc4f84b17400336a83bf349557ce5c23e284d18",
+  "validation_errors": []
+}

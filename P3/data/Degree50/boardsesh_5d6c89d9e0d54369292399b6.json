@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5d6c89d9e0d54369292399b6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "ahphadam",
+  "setter": "gge6",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8f65cdedf3c9484d983e855d58cf097a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1080r15p1133r12p1135r12p1198r13p1268r13p1323r13p1395r14p1506r15p1571r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c4de6731ccf57517059c6303bcc46b26ac3b2597383128842a73ef98cd21b2e4",
+  "validation_errors": []
+}

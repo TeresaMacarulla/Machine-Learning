@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_87f95f69f4bc6ab2c02f8773.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Ez Rider",
+  "setter": "B_Das_Me",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "26e0a58c-3fd4-41f4-b09a-ca643b4cca75",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1192r12p1212r12p1111r15p1107r15p1260r13p1278r13p1294r13p1347r13p1380r13p1383r13p1385r13p1387r13p1284r15p1288r15p1297r15p1390r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.83,
+  "ascensionist_count": 33,
+  "quality_average": 4.39,
+  "hold_fingerprint": "b8eb7e6575d003fd97ce2797b56f445a0595850a6468857aa74db347e075b4e4",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_009992d11da24468524249c8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Hip and shoulder",
+  "setter": "Mheng",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8614588a0582411498438be749df7193",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1127r12p1163r12p1169r15p1215r13p1236r13p1286r13p1307r13p1340r13p1344r13p1394r14p1535r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "53713b19d922b8136e69155d372e04ab9334a821362330521e4b9275d2ae8b30",
+  "validation_errors": []
+}

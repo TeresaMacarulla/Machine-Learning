@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b976c31c04a6dad2bcf915c7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Alone in my world",
+  "setter": "VadimDelakian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3269C66197834122920045C9F0907BDB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r12p1124r15p1127r12p1198r13p1232r15p1233r13p1235r13p1271r13p1292r13p1360r13p1389r14p1395r13p1554r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.33,
+  "ascensionist_count": 3,
+  "quality_average": 4.67,
+  "hold_fingerprint": "2d4b09619e159c2327a26394e39088f90a969ba3be5fb22432a741b75e4a2660",
+  "validation_errors": []
+}

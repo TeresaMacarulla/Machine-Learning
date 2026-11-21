@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_da1c6eaf4695739b5171a638.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Dragon's tsume",
+  "setter": "climbing_ryu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1d73d1f443b244fea8ad003edb50ea73",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1137r15p1170r12p1235r13p1251r13p1264r13p1318r13p1350r13p1380r14p1504r15p1555r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "68a7c38880dc29c108cb8291e9a33624313c1548802ca50a4466d598b79a41dd",
+  "validation_errors": []
+}

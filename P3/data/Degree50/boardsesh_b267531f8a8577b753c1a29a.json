@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b267531f8a8577b753c1a29a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "impossible crux",
+  "setter": "ClimbingHoss",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "84dee9f256144b1f9c2dc31ea626f5ae",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1157r12p1223r13p1271r13p1308r13p1338r13p1340r13p1353r13p1384r14p1447r15p1450r15p1506r15p1563r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b4686d30a7016569a8aa6b011bab09706a715f18a2910900105700cc8bf2db05",
+  "validation_errors": []
+}

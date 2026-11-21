@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_daa836cdb7ce522916484e2e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Shoulder opposition",
+  "setter": "janklot",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "4952a917f7ae41baa88455f0dfd5cb78",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1240r13p1272r13p1274r13p1280r15p1335r13p1340r13p1353r13p1384r14p1451r15p1482r15p1499r15p1515r15p1541r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a9be2d1b809db618998d6a1dd74493c213b2c7bd637db5b11bb3b32586c69ee1",
+  "validation_errors": []
+}

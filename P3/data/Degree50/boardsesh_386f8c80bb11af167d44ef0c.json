@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_386f8c80bb11af167d44ef0c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Die Rote",
+  "setter": "eDoggo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0025731c2660453c8ddb537b538c9129",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1155r12p1208r15p1257r13p1306r13p1357r13p1387r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.98,
+  "ascensionist_count": 49,
+  "quality_average": 3.29,
+  "hold_fingerprint": "c0533f86ef671e136448b2577804f37d5ac0d723a38a26ffbcbc0e414e7804e8",
+  "validation_errors": []
+}

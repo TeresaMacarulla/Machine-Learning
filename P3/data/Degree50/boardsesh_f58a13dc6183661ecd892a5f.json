@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f58a13dc6183661ecd892a5f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "borknado",
+  "setter": "johnnybe",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F45B196A62C8418993AC0A2F4415992E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r15p1182r12p1199r12p1254r13p1271r13p1276r13p1361r13p1375r13p1389r14p1499r15p1515r15p1518r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "be2dd853e85869c3e7675d68d6b1a3a0ec59ca36dc3a55066644b12ad779fa36",
+  "validation_errors": []
+}

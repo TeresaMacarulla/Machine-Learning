@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fea32c6597bb5152f354d119.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "tension practice",
+  "setter": "ryley",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "03b9c044-d632-46b0-be78-734f57db0ddb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1190r12p1471r15p1074r15p1170r12p1270r13p1258r13p1293r13p1518r15p1532r15p1326r13p1236r13p1374r13p1392r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 2.67,
+  "hold_fingerprint": "c7ce70b8966c4b1ef9a927d0a4ee96d2072fe8547bb88982eefa198598a070e4",
+  "validation_errors": []
+}

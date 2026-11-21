@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0f943612d7e1d424ae5e6a99.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "stand up, chuck",
+  "setter": "henrytrainor",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "5FF9608E7B7047B1A59D969D35213B97",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1144r12p1192r12p1214r13p1245r13p1300r13p1331r13p1383r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.81,
+  "ascensionist_count": 69,
+  "quality_average": 3.51,
+  "hold_fingerprint": "269c94cf833a58ae93aef539444715cb9b8965dff5b0e5f48bcb5349e29bbf2c",
+  "validation_errors": []
+}

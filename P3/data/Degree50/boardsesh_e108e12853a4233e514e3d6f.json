@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e108e12853a4233e514e3d6f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "GROUNDED",
+  "setter": "medvis",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "34bc1a0df5504c568875c74c69a3219d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r15p1162r12p1182r12p1188r15p1214r13p1236r13p1250r15p1269r13p1305r13p1353r13p1369r13p1382r14p1479r15p1559r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "1a9ac6a7111f50183c643456335f5240bfa47634d05dc785589cd0cfa565926f",
+  "validation_errors": []
+}

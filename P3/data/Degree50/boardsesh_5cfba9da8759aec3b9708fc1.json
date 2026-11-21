@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5cfba9da8759aec3b9708fc1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Pinchpower",
+  "setter": "Daro0500",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "326b65cb68e444198ba54bb94e712f3b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r15p1186r12p1191r12p1254r13p1283r13p1285r13p1295r13p1332r13p1362r14p1450r15p1512r15p1539r15p1542r15p1566r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.33,
+  "hold_fingerprint": "6ef6533fc140deefca637a44af58e15145b6575aded35d13c765481ed82fab5e",
+  "validation_errors": []
+}

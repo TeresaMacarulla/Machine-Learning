@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b3527c4eabf50879ae891ea.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Gudeg",
+  "setter": "El_Kujo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "71d323c2930d4d6d86de3cc9baaf1aff",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1138r12p1152r12p1187r13p1235r13p1271r13p1319r13p1352r13p1384r14p1450r15p1472r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b61404e40aca56b726dfb4d879a0d50727700c0011733aec3151eedfeacbdbef",
+  "validation_errors": []
+}

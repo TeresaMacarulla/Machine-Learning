@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d99fbffa33feefe91452cd2f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Les Carapuces",
+  "setter": "Saltho03",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "AF9B4B35ED864580AD5B8EBA533C1A7C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1191r12p1241r13p1253r13p1265r13p1286r13p1298r13p1345r13p1379r14p1481r15p1509r15p1524r15p1551r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.0,
+  "hold_fingerprint": "be1812a360c49be2d2989926b0314faef32414225a506311f7aae7e7034f4259",
+  "validation_errors": []
+}

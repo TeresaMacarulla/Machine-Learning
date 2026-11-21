@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9a4c8bbb84fc5a55715500b7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Not a climber",
+  "setter": "Adrenaline.Factory",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "30191c2b7d134e62baf5c21f0f7cb79f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r12p1170r12p1237r13p1286r13p1354r13p1367r13p1379r14p1452r15p1558r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "e5b8c59759b3d2592df140d14e3571f8748fc53d8d8c58f49fba094bce2befff",
+  "validation_errors": []
+}

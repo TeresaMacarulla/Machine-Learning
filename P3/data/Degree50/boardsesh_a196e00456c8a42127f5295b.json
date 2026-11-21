@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a196e00456c8a42127f5295b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "100mph replica from 1 move in",
+  "setter": "_crimpy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "89106596700840adae36b47467eecf26",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1189r12p1273r12p1282r15p1320r13p1353r13p1391r14p1472r15p1482r15p1499r15p1552r13p1569r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c8967c3cbd8826c2e70711b7af8a6cb70b8c31b5a92e28c8fc1b557c8de3299d",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_825b52abe42f6d1a3702fc0c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Lament Varation",
+  "setter": "gaz81",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E39D2425CC2E4B7B96708BECA01C3B32",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r12p1236r12p1302r13p1315r13p1347r13p1379r14p1504r15p1516r15p1521r15p1546r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6b9caa2b5db234c56fc925472fd059eb87c5e646ee4c13687d831e613c00fa70",
+  "validation_errors": []
+}

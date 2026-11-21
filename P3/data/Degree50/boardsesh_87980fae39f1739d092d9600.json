@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_87980fae39f1739d092d9600.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "THICCony",
+  "setter": "NellDell",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "000AB93578234717B24659BA92CF9FD4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1107r12p1146r15p1160r12p1180r13p1198r13p1206r15p1218r13p1285r13p1291r13p1357r13p1387r14p1464r15p1544r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 6,
+  "quality_average": 5.0,
+  "hold_fingerprint": "78f0e4550a76d43f1a0ec11289bc2c74f132c0ec664627064bad462c883047b8",
+  "validation_errors": []
+}

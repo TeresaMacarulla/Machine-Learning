@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f9abeb0a7f24664c8ff9b6b8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "solid work",
+  "setter": "osflips",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "846B38B429F34352BB7F744C95C9DCF9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r15p1110r15p1144r15p1147r12p1163r12p1186r15p1197r13p1247r13p1269r15p1281r13p1302r13p1333r13p1385r14p1457r15p1459r15p1519r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b6c2765431d89929a23bb03f2edf9950ef77d9599a58e683a14e6c56258e5da0",
+  "validation_errors": []
+}

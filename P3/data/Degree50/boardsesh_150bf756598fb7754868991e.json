@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_150bf756598fb7754868991e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "\u30ec\u30c3\u30b9\u30f33",
+  "setter": "kazunefuruhata",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "C8106C1626C84834A93A16668B7ED6CC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1152r12p1188r13p1220r13p1237r13p1267r13p1304r13p1355r13p1373r13p1387r14p1578r13",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.0,
+  "hold_fingerprint": "034fea59639b9d45e81f643c3ae4a3a5c74abb8c8f122de7b44ac8635298c3f9",
+  "validation_errors": []
+}

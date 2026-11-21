@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_909278777c7572911d9ac41e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Roll Up",
+  "setter": "zach_lerner",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2D8664E555184C8D9FDC1282E2105F1C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1148r13p1176r13p1233r13p1235r13p1271r13p1286r13p1357r13p1375r13p1395r14p1458r15p1465r15p1516r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "29483dd92417bef6d674a37b5f0b2bae03b12a43b3835735e68d656fd71ee17a",
+  "validation_errors": []
+}

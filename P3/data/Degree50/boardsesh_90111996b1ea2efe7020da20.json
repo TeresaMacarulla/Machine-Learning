@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_90111996b1ea2efe7020da20.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "BD-1",
+  "setter": "liam.aumento",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "90d4002936bd4b678ea3e8865a0da07d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1086r15p1149r12p1198r12p1236r13p1302r13p1355r13p1386r14p1387r14p1470r15p1489r15p1498r15p1504r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "88a14e9f0fdf9ce1b8f8bf989a61005be1cd833e6c67c6ef572d543927334a73",
+  "validation_errors": []
+}

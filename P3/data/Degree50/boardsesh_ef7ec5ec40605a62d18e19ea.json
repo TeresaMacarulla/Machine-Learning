@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ef7ec5ec40605a62d18e19ea.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Mononucleosis",
+  "setter": "ido.ilouz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "73e7f87976e64968bb48cd86f49f9398",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1177r12p1188r15p1205r15p1230r12p1242r15p1265r15p1269r13p1272r13p1357r13p1385r14p1467r15p1501r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "de82d7a030184e08914b3d0a3606752ecc180706b755afe00f77048271ffd8b3",
+  "validation_errors": []
+}

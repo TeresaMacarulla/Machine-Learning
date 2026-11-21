@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7994e493ee5e57f2b14ef91e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Choon Choon Train",
+  "setter": "joechunsofun",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "6B66D6665E224F6CA4181B2EF5DDDC5F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1156r12p1189r13p1223r13p1246r15p1271r13p1301r13p1334r13p1346r13p1379r14p1447r15p1482r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "00d2911220c1747b7cccd9dbbe90ce8521e1a94d2912801cd52643430edd199b",
+  "validation_errors": []
+}

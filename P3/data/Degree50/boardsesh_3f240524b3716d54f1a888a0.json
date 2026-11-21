@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3f240524b3716d54f1a888a0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "better eat your feeties",
+  "setter": "atari climbing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "04ff33a1-faec-442f-9309-aaf4950dd7ef",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1155r13p1199r13p1241r13p1291r13p1447r15p1451r15p1457r15p1461r15p1485r12p1454r15p1453r15p1152r13p1518r15p1254r13p1186r13p1515r15p1340r13p1357r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 4.5,
+  "hold_fingerprint": "100efc169f3096cb69e7ab38f8f79388c8c4f20f765bd40144ed789312c014a7",
+  "validation_errors": []
+}

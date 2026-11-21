@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e81aca7a46959f4ba26188e1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "top shoot",
+  "setter": "killkilter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2bfe7feb-53ce-4e89-a623-cb984c671fc3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1148r12p1458r15p1198r13p1202r13p1287r13p1239r15p1559r13p1392r14p1354r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": null,
+  "hold_fingerprint": "3afc18037717f93b76a722c2b293d9c9dd153da7e8c476f56540b3c078822e44",
+  "validation_errors": []
+}

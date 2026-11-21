@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_edb2c04809d3e8b1812add20.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "no foot",
+  "setter": "callister111",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "49db0783-c828-45da-9d8d-c95c34c17ec1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r12p1267r12p1306r13p1356r13p1395r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3fa804d43209aee79a48bba2c8acf48cacfbca5af583621ad630c1b1ab05bf34",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4dcff270553e5b061f07fa7f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Tiny Shoulder",
+  "setter": "jobbabjimin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "BCB64F5789D0450088BD37B6B0543ECC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1163r15p1171r12p1184r13p1197r15p1201r13p1270r13p1283r13p1304r13p1371r13p1393r14p1469r15p1533r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.71,
+  "ascensionist_count": 7,
+  "quality_average": 3.43,
+  "hold_fingerprint": "56c16bd5a5d9519b64b87645bd82e5ac70bc1d9ccf2691a84d49604c6b3b9f46",
+  "validation_errors": []
+}

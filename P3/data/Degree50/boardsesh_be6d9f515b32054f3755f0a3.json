@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_be6d9f515b32054f3755f0a3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Elmo",
+  "setter": "stinkypinky",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "D2B40F93287E4A358236EF33D73449AD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1214r12p1234r12p1286r13p1306r13p1354r13p1390r14p1494r15p1496r15p1544r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "cb941eef04a38080b9eb4731bb095129f9a5eddb83b49766501d79c2551be63f",
+  "validation_errors": []
+}

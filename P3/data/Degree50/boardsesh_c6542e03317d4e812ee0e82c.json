@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c6542e03317d4e812ee0e82c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Nitsa Club",
+  "setter": "elk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7F1344A1892D47AFAEB93CF7AD4BE8F3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1168r13p1219r13p1273r13p1307r13p1360r13p1392r14p1457r15p1459r15p1527r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "eaaf811784bffdb544e935561a9a432bd67b1f2e79aa043024eebf4f040a782f",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_12072b814b2adef68ed98c1e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Connors Climb",
+  "setter": "conrade69",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "a6adc1a8de5b48ec80522345785db945",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1277r12p1281r12p1296r13p1297r15p1300r13p1350r13p1353r13p1388r13p1393r14p1394r14p1546r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.67,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "50e35bbfb37af73cc65f04df63ae0ecd64b72266fc60e1dbeee91367c3b5944d",
+  "validation_errors": []
+}

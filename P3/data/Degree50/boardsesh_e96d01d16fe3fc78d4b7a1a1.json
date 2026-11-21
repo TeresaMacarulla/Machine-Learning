@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e96d01d16fe3fc78d4b7a1a1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Furtif",
+  "setter": "PeO",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "dcfa466e-7054-4867-a922-435dcf0d3651",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r12p1528r12p1248r13p1250r13p1287r13p1477r15p1467r15p1339r13p1286r13p1525r15p1543r15p1304r13p1375r13p1393r14p1394r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "acda73c8485ae7787f24ae9b2af8942f70e753f52831048dd2cb3c9f1448879e",
+  "validation_errors": []
+}

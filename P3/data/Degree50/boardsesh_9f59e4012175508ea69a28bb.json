@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9f59e4012175508ea69a28bb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "upper six",
+  "setter": "JASD",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2C826999790946CBAA9CC1F18B9D7AF9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r12p1130r12p1200r13p1284r13p1301r13p1339r13p1391r14p1395r14p1458r15p1479r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9232a5d6fb90cf2c80b3a6a516d88cb7c1582760bfd67bab9cf10d4185982653",
+  "validation_errors": []
+}

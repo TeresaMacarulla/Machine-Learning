@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f660ab7705e2ec19567b56b6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "no saint",
+  "setter": "biscuit",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "965DE23734F5498B875320ED1A081AC1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1214r15p1250r12p1270r12p1317r13p1347r13p1351r13p1381r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.92,
+  "ascensionist_count": 49,
+  "quality_average": 3.5,
+  "hold_fingerprint": "b8c850b42e9774577dccfc5750b1b840baa982289ee00d9380e74d2eb30cc01c",
+  "validation_errors": []
+}

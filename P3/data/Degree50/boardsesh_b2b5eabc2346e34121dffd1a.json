@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b2b5eabc2346e34121dffd1a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Bigbang",
+  "setter": "Gustavoclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "E78BB9BAAF894268AA8E40915EC08592",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r12p1122r12p1190r13p1233r15p1258r13p1270r13p1320r13p1351r13p1384r14p1447r15p1551r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "a04b5abf943527da87222510395201bcc7c74aac53730765d83fb1843d84785d",
+  "validation_errors": []
+}

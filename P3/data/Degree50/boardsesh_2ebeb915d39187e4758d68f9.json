@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2ebeb915d39187e4758d68f9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "last operator",
+  "setter": "pauldelal",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "E5E50CF8116948409BC2179AA2D02012",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1149r12p1154r15p1191r15p1224r13p1234r13p1288r13p1289r13p1343r13p1391r14p1514r15p1550r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.71,
+  "ascensionist_count": 7,
+  "quality_average": 3.57,
+  "hold_fingerprint": "291c9eb3916171791d6208c6e15cf4ff7d44b22d615f915a739c097875e9e8d1",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cbf04fb336b352990020c42b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Loose Jugs V4",
+  "setter": "BallS55",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "0f1137ca-6606-4ad6-bf43-aa889b933eb9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1454r15p1457r15p1234r13p1136r15p1117r15p1248r13p1300r13p1146r15p1331r13p1200r15p1383r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.74,
+  "ascensionist_count": 84,
+  "quality_average": 3.5611904761904762,
+  "hold_fingerprint": "562c50a5cea2bcf8b6dd375a63a921116490a6c4dc16e20737af73cf4ef09865",
+  "validation_errors": []
+}

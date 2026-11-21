@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4ed2ec6aa21073d9b863c2c9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "\u30bf\u30ca\u30ab\u30ca\u30bf",
+  "setter": "chisane",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "BDE31FE7D66443698237846D7E4D0EC8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1189r12p1235r13p1301r13p1372r13p1395r14p1499r15p1543r15p1560r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d1c01d9b7962a97683ab3b8b8e88410fe5200d4bb099ee64a73ab26f31e36627",
+  "validation_errors": []
+}

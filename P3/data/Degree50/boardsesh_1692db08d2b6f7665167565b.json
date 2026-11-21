@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1692db08d2b6f7665167565b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Cleft Lip",
+  "setter": "scro",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "5CFD3E60051E406DB8323245B9D4A35F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1098r12p1131r12p1185r13p1253r13p1256r13p1325r13p1375r13p1392r14p1457r15p1471r15p1527r15p1535r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1665198dc0102386736067fc45ff33198c1cbf41330c4f9e38d9f7efee82be04",
+  "validation_errors": []
+}

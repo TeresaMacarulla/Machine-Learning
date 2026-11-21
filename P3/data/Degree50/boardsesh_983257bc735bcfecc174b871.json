@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_983257bc735bcfecc174b871.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "rewind",
+  "setter": "ethanh765",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "51006e64-72bb-4156-9293-97e270d401dc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1125r12p1513r13p1133r15p1083r15p1197r13p1462r15p1458r15p1250r13p1487r15p1283r13p1337r13p1388r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.29,
+  "ascensionist_count": 12,
+  "quality_average": 3.57,
+  "hold_fingerprint": "5f1e106386f7b7ac347febec76e32ac8feb1afd164642a4cfcd6313d660bd9ad",
+  "validation_errors": []
+}

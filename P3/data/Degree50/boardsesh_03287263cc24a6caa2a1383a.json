@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_03287263cc24a6caa2a1383a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Hi, Foot",
+  "setter": "teddytriebwasser",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "95896353E5504EC39DCC9F03880B0D52",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r12p1184r13p1231r13p1234r13p1282r13p1331r13p1384r14p1450r15p1454r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.03,
+  "ascensionist_count": 201,
+  "quality_average": 3.3,
+  "hold_fingerprint": "b66bc3aebe289746125a7e00a9eee2caa0b7d1b92f8ed483f2e064e96d61e0a7",
+  "validation_errors": []
+}

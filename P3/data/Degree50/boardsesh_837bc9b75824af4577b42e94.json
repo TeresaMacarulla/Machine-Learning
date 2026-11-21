@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_837bc9b75824af4577b42e94.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Dyno test",
+  "setter": "HugoChan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1dad4ab1a87c4bee8ec7982432d75175",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1157r12p1237r15p1242r15p1257r13p1308r13p1353r13p1383r14p1447r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "205585aeabf1f42a348e511bb95046eb3885cf78def23a15e292bd9ce49b0f3c",
+  "validation_errors": []
+}

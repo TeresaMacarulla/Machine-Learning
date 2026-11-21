@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6b3068968f46c31003dd92a2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "V Pun",
+  "setter": "Rannon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "68DBFA7D1F0B41DE83F04A40AEC7F9FD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1146r15p1212r15p1246r12p1247r12p1252r15p1265r15p1300r13p1315r13p1335r13p1365r13p1385r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "d53a4d17ee211b9735482d4779ba106d8ea426451d178c42881374e78e111898",
+  "validation_errors": []
+}

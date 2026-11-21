@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4c275b58e2389d67207e355b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "S is for Shoulder",
+  "setter": "jackbeanland",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "262f7c8fb37849f49f81fdf04749d3e5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1218r13p1265r13p1320r13p1335r13p1373r13p1392r14p1455r15p1470r15p1488r15p1516r15p1523r15p1572r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "5d09a5443589176a1d698c86ed26c07838fa6dc487b5b6791d1787cd82f1d1c5",
+  "validation_errors": []
+}

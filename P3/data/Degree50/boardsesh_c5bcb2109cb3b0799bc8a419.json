@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c5bcb2109cb3b0799bc8a419.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Lazy lagoon",
+  "setter": "TomKems",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "78c7997570c44d0bb4c882ed0b7b0942",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1160r12p1177r12p1214r13p1262r13p1313r13p1362r13p1383r14p1464r15p1466r15p1485r15p1555r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "684d5d5f6caeae4e823a0d5cf05cd84b811ef0bfdfa21fdefee1602b940b0372",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9c457305068e99bc438b2157.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Appelmoes",
+  "setter": "santobekking",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4E0E04B816B64CB6ABD2921EB41C45B0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1156r12p1166r15p1189r13p1212r15p1236r13p1237r13p1268r13p1315r13p1319r13p1381r14p1447r15p1451r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "81897f51cbfab6de086515d73851a8ceee9a1a63773a30720b51e43a33a7849c",
+  "validation_errors": []
+}

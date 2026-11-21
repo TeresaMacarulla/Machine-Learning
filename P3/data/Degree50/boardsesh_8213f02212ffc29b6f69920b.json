@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8213f02212ffc29b6f69920b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Platitudes",
+  "setter": "RavioliTriceps",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "587CCD8C82B34F7E96C85A9A15B3C125",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1139r12p1171r12p1238r13p1269r13p1284r13p1387r14p1482r15p1506r15p1518r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "45f12bcafd3701d33aa774273871dd5dff5343b75dca3d70a764ee206a2880ce",
+  "validation_errors": []
+}

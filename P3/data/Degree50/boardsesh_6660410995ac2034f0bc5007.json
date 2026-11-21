@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6660410995ac2034f0bc5007.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "MD1",
+  "setter": "bkbskilterboard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "39B6348F946C486FB243055631838CDF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1134r12p1188r12p1218r13p1254r13p1283r13p1318r13p1332r13p1385r14p1508r15p1521r15p1547r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 6,
+  "quality_average": 2.0,
+  "hold_fingerprint": "1b2f97cfde101cc7516180a9ed995c9f803d6c0f3f2a9a2b376907f88463be44",
+  "validation_errors": []
+}

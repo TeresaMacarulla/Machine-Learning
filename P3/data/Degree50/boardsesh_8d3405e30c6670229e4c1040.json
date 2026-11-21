@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8d3405e30c6670229e4c1040.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "compact",
+  "setter": "blob100",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "B147AAB4F69D46A8B95C805ACE92CB67",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1123r15p1139r12p1153r12p1188r13p1202r13p1240r13p1271r13p1308r14p1508r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "22a33f88b747d91e2ee5415da9cb7761b6b67ba1d87d0621c1a58941c7fe53a5",
+  "validation_errors": []
+}

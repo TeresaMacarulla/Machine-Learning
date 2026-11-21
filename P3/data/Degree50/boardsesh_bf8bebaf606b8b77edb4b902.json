@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bf8bebaf606b8b77edb4b902.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Masons climb",
+  "setter": "just_keller",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 12,
+    "foot": 21
+  },
+  "source": "boardsesh",
+  "source_uuid": "3620D569A6864CDF9ABEA7B65524B496",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r15p1177r15p1178r15p1226r15p1229r15p1235r15p1257r14p1267r15p1273r13p1293r15p1294r12p1298r15p1308r13p1335r13p1342r13p1347r13p1353r13p1359r13p1389r13p1390r13p1392r13p1393r13p1394r13p1500r15p1536r15p1554r15p1560r15p1565r15p1566r15p1576r15p1579r15p1580r15p1584r15p1588r15p1590r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "7c1b777aa3b8a25a23703aa3edab04b2fb3409f5fa8ea5217af63d357e3d61e0",
+  "validation_errors": []
+}

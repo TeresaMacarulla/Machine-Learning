@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a39f492fa74318642384c6a4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Restraint",
+  "setter": "zc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "4D9CBB3AB9B342C49780D96371068719",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1179r13p1184r12p1265r13p1295r13p1351r13p1387r14p1460r15p1519r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "39f14ee8ab1500f99e332267437d13a5bfdf18e5647a5733f39855c14dc7f28f",
+  "validation_errors": []
+}

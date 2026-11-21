@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f82827dc67af22ec9cc1a464.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "soft ngl",
+  "setter": "KadenFx",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "92801ea5-cfae-47d4-86d3-3db69aadfe81",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1221r13p1257r13p1308r13p1359r13p1391r14p1447r15p1451r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.6,
+  "ascensionist_count": 34,
+  "quality_average": 3.15,
+  "hold_fingerprint": "7ff514b918813a65bd3cb7599aa8ee758a7c88e11ad2463b07cd8b0b68654d0a",
+  "validation_errors": []
+}

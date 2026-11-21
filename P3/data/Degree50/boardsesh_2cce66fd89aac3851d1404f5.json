@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2cce66fd89aac3851d1404f5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Broomstick",
+  "setter": "gabethegumby",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "7ED7048362984EB4807000E2F17287AE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1168r15p1184r13p1187r13p1257r13p1291r13p1303r13p1359r13p1395r14p1456r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "484db37e584aa687bab6a75589761938187298bca5a051921bfd27a940e06a51",
+  "validation_errors": []
+}

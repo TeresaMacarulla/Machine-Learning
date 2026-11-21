@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_80486a6261592e8397002e6e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Breaking Fuse",
+  "setter": "serialz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "f1ea2e7250024216b2a9df8f5c11b840",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1111r12p1165r12p1169r13p1183r13p1187r13p1252r13p1308r13p1323r13p1371r13p1375r13p1386r14p1452r15p1455r15p1462r15p1554r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 4,
+  "quality_average": 5.0,
+  "hold_fingerprint": "7964a24fbb4a6e51d6f285526d8853267131e1e6e65a57d1015fbced8b003788",
+  "validation_errors": []
+}

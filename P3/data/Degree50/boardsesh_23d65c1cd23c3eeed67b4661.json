@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_23d65c1cd23c3eeed67b4661.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "stumpf original",
+  "setter": "jules_marchaland",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0869DFAEC71041EC9AB323D4D16771F8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1176r12p1230r13p1250r13p1352r13p1373r13p1391r14p1457r15p1486r15",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 12,
+  "quality_average": 2.82,
+  "hold_fingerprint": "bc42f0b3da0b8f255d470bae101d223904f6c9cfa401853947897ccf7a4c0ce7",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e57e2539ad4563f78ecb7d4d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "bron",
+  "setter": "Roopek",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "845a046f9669402d9cf1dac05cd3160f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r12p1152r15p1165r12p1230r13p1253r13p1283r13p1287r13p1356r13p1373r13p1394r14p1484r15p1571r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6cd13df0cc834d78a541df30552c8eea5252b2b918ea827d9ff933f730199324",
+  "validation_errors": []
+}

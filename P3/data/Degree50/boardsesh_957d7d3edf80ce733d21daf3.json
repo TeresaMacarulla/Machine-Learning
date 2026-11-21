@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_957d7d3edf80ce733d21daf3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Lucy mcc board battle climb 1",
+  "setter": "lucy_mcc13",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 9,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "762249701549480A9DE7AB872DCA0FA2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1144r12p1194r13p1221r14p1257r13p1262r13p1288r13p1296r13p1297r13p1300r13p1321r13p1353r13p1463r15p1467r15p1501r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "9826117dc8ea9036fc7ae3a8fa8c7832a8b86398e08d16e7735a2fc11ddfa76e",
+  "validation_errors": []
+}

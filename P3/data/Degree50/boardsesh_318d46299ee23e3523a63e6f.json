@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_318d46299ee23e3523a63e6f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Throwup",
+  "setter": "noahwheels",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8541B3F129564C0CB0DE6723CC89D15B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1189r12p1206r15p1252r13p1354r13p1366r13p1381r14",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.22,
+  "hold_fingerprint": "6df922419b22af54fb313b4b766d3961d508fff87dbcc2654b35cf111573b994",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6acbe293c32f86cbfad8a009.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "bubble gum",
+  "setter": "Gav",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "673cb387-5940-48fd-bd67-c36e24947420",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1139r12p1134r12p1079r15p1202r13p1214r13p1230r13p1487r15p1158r15p1299r13p1329r13p1379r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.63,
+  "ascensionist_count": 32,
+  "quality_average": 3.5,
+  "hold_fingerprint": "b3d714d70f29d81e257decc72e3a8488d74c8bde3bd1f0c0cfeca4c89aa5b198",
+  "validation_errors": []
+}

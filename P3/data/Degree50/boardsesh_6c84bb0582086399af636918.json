@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6c84bb0582086399af636918.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Load 1",
+  "setter": "chalkyboi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "DE10E9A0CA2E4FCEAF88B91ED37CF8D8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1157r12p1169r15p1219r13p1223r13p1236r13p1267r13p1300r13p1331r13p1366r13p1380r14p1447r15p1546r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "6f1f070610de69f4785d4643214abe06055f433257e4aa3f5b53174211ef2e69",
+  "validation_errors": []
+}

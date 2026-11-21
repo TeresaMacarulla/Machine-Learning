@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_23311f67bd99a2f66a0a4edf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Caution",
+  "setter": "thijs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "A803C17F2AE74D0581C4A47378E314FA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1198r13p1271r13p1306r13p1308r13p1395r14p1457r15p1468r15p1494r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.95,
+  "ascensionist_count": 20,
+  "quality_average": 3.47,
+  "hold_fingerprint": "64a193867c2839fef080985fba0eab9bde2194e8a8d3cab67b3efa540c18f12e",
+  "validation_errors": []
+}

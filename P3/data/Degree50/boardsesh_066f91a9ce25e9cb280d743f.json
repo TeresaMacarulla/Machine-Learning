@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_066f91a9ce25e9cb280d743f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Hanki",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B67076BAB4FA4A15A1BA330DFDC2A9E9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r15p1168r12p1183r12p1254r13p1301r13p1370r13p1390r14p1508r15p1540r15p1551r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.11,
+  "ascensionist_count": 29,
+  "quality_average": 3.39,
+  "hold_fingerprint": "6b817cb53692a3f5a949f7e8e1c1b3aeecfa356dc1802b9027bf821e7e457efc",
+  "validation_errors": []
+}

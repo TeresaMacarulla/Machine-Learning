@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cc913771855e81c24a17fa16.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Hover Bored",
+  "setter": "tomhwright",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "6F04DF12C8954AE190C222E1734B242F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1134r12p1153r12p1154r15p1200r15p1205r13p1239r13p1282r15p1289r13p1304r13p1337r13p1353r13p1384r14p1386r13p1453r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.04,
+  "ascensionist_count": 552,
+  "quality_average": 3.32,
+  "hold_fingerprint": "e00c06d971c4b362971bd05f74dbc17c95f95f375a3d6cc2684b619c419b55db",
+  "validation_errors": []
+}

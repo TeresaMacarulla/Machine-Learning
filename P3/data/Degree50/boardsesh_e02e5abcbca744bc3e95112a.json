@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e02e5abcbca744bc3e95112a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Snatch n Cruise",
+  "setter": "pumpfriction",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "a9abeb05c49a4595bbe773c4cc0dd2a6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1136r12p1191r12p1203r13p1241r13p1271r13p1272r13p1320r13p1357r13p1386r14p1447r15p1482r15p1491r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e72b845de5bc646e8ca6108293ea256e0f29f7f7edc0e54c26557283483effad",
+  "validation_errors": []
+}

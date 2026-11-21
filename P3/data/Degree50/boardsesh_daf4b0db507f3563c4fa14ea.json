@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_daf4b0db507f3563c4fa14ea.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "fingerjug",
+  "setter": "costandy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3c0cef882d914015b4eba1f5fd63dd02",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1113r15p1162r12p1175r12p1239r15p1247r13p1302r13p1354r13p1391r14p1552r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c5c1cac8a14308d75f8eef766d57192d4d7f7bfda3ddcda55b39b67fad1db80f",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_83dfb6b95af115efae3e080f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Say Less",
+  "setter": "Hero",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "fbc6c906-341c-4d2c-be19-21c65289e617",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1204r12p1188r12p1255r13p1318r13p1315r13p1268r13p1381r14p1447r15p1456r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "4dc06357cde67cb206fde889011dcd55162b2fcc7b2983440fe76cfa25f8d121",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ed11b8144f790190cfe5eda2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "LTraining #2",
+  "setter": "Hacksaw",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1E1AAA5CD58043F79A1D0F180058237D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1153r12p1184r12p1220r15p1254r13p1283r13p1335r13p1351r13p1389r14p1452r15p1548r15p1551r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "fbd2c29be9b3c675bb779ed30e2c4c34c7078304cc5ff22396930ecb56fb6c2d",
+  "validation_errors": []
+}

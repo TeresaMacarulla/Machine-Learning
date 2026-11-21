@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4cf823cfe819f548dd2c1f73.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "one arm campus training left",
+  "setter": "lolodf",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "23aaafc5ab7940e99a1d3f9085dbdcff",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1232r12p1234r12p1302r13p1353r13p1386r14p1389r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 4,
+  "quality_average": 5.0,
+  "hold_fingerprint": "8910611da965f4379bf75658d74252631294c345603c315ed62f0bc5886c1cc0",
+  "validation_errors": []
+}

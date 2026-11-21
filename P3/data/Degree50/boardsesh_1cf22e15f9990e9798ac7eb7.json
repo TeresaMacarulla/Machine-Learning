@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1cf22e15f9990e9798ac7eb7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "SBD 1",
+  "setter": "smusopp",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "72a4840579834103a4fb2c179bb22a85",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1131r15p1137r15p1181r15p1188r12p1200r15p1207r12p1219r13p1236r13p1283r13p1301r13p1349r13p1387r14p1482r15p1541r15p1542r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "81fec4708513e83ba4166623b8b3f43ccd293b7ac9d1b81f270550bd35e72495",
+  "validation_errors": []
+}

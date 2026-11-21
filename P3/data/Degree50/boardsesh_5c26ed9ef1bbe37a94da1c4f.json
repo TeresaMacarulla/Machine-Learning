@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5c26ed9ef1bbe37a94da1c4f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Right to roam",
+  "setter": "Halvorbb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "AF9DC048D53446C4BAB704FEF82F5E04",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r12p1124r12p1176r13p1209r13p1211r13p1282r13p1289r15p1318r13p1319r13p1370r13p1384r14p1461r15p1483r15p1485r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "379fa222fa76ccd5b9d37d9313a4332eaf8693eac1b9b77f0a7f946731fa363b",
+  "validation_errors": []
+}

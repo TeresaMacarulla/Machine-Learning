@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fc53eee7e6ebaa5c04285392.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Golden fried chicken",
+  "setter": "django123221",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "5a4645a8-0caf-49fe-880a-f4128e84bfde",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1079r15p1139r12p1168r12p1203r13p1199r13p1267r13p1130r15p1314r13p1244r15p1383r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 1.5,
+  "hold_fingerprint": "1e7ea7bf3987d8a4e7ac8ba650dc9f9ae4313e18bdfb548a4f598aa377a62a6e",
+  "validation_errors": []
+}

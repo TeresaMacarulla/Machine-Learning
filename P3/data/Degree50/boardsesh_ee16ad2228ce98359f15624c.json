@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ee16ad2228ce98359f15624c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Ligamentemtation",
+  "setter": "Gray12357",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "a776c413dff641939a8f323a898b8b6e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1089r15p1150r15p1175r12p1228r15p1231r13p1264r13p1314r13p1318r13p1383r14p1467r15p1495r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1fd500fcb4e15737fe42f1a19d4e642d04cbe8a1e735d9320ce83eb938d9a6ab",
+  "validation_errors": []
+}

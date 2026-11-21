@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7bcba6cf49ee5d8634bb01da.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Peau de foque",
+  "setter": "confortbenoit",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "e82db26f21004815a887bb816d545860",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1241r12p1272r13p1291r13p1320r13p1357r13p1391r14p1480r15p1509r15p1516r12",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 13,
+  "quality_average": 3.62,
+  "hold_fingerprint": "30fe40827bc04f0a964ffe6b7cdbb59f3a5ace31e41f86797b1412ccdcb7ef8e",
+  "validation_errors": []
+}

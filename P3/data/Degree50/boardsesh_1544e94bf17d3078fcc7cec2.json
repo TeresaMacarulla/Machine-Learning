@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1544e94bf17d3078fcc7cec2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Climbstep",
+  "setter": "Domas",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "4f227df2-0cd3-4910-a472-e810bd883015",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r12p1134r12p1203r13p1257r13p1453r15p1302r13p1269r13p1243r15p1331r13p1330r13p1345r14p1379r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.23,
+  "ascensionist_count": 18,
+  "quality_average": 3.8499999999999996,
+  "hold_fingerprint": "3354ba27dec161b4cf77740b019a2b979c6d8254e511f1f6d992b05829816403",
+  "validation_errors": []
+}

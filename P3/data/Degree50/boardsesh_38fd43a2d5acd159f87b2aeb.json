@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_38fd43a2d5acd159f87b2aeb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "moonscape",
+  "setter": "Actuator",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "57C35FD40707456BAEA582E152811CCB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1110r15p1158r12p1180r12p1230r13p1261r13p1267r13p1313r13p1380r14p1459r15p1502r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.33,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "55b04f6cc62d4a3b76b5c256b51805911fdea30c0f2b26f00e6731003c46e9ea",
+  "validation_errors": []
+}

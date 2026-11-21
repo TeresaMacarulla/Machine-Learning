@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7f8e90ba6984efcc8c9ea24e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Hotbill",
+  "setter": "hotbill14",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "30607daf35f1452eaab2fe871e09301b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1184r13p1237r13p1308r13p1339r13p1393r14p1449r15p1469r15p1554r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.91,
+  "ascensionist_count": 24,
+  "quality_average": 3.5,
+  "hold_fingerprint": "ca6bee20f38f32ef3db6b81dd840805dce0ef0316586c1c039beeeaf01ae97f6",
+  "validation_errors": []
+}

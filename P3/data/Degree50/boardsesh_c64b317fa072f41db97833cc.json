@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c64b317fa072f41db97833cc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Do-Si-Dos",
+  "setter": "eric8851",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0f50ba65571a4a36b2060292fdde9183",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r12p1287r13p1320r13p1324r13p1374r13p1395r14p1486r15p1489r15p1525r15p1534r15p1535r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "7897d6cad8843018c14b803bb6e00889dc1af79f332c7350f65fd3f564a884b9",
+  "validation_errors": []
+}

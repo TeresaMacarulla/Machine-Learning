@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_63cd6f623e7bd4ae3b0cd41a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Pinch N Crimp",
+  "setter": "qietperson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6E937CAB74F94781B0101F05E2422285",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1168r15p1216r12p1250r13p1254r13p1285r13p1322r13p1352r13p1387r14p1457r15p1478r15p1495r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.94,
+  "ascensionist_count": 51,
+  "quality_average": 3.27,
+  "hold_fingerprint": "e1311f7c3b21f0e0547b1f5a9835b09d16fc1e0ee1a51743c34c62ee2945bca4",
+  "validation_errors": []
+}

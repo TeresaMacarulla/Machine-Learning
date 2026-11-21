@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fedb8932087ec7986a04fb9e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "El macarron chistero",
+  "setter": "perolo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "cda88e79da2b47a1b52e8dc1fbdbd9ca",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1084r15p1147r12p1149r12p1233r13p1248r13p1285r13p1315r13p1332r13p1362r14p1496r15p1504r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "b5f2c515865beba2c70db81c16d14977f1afb4439f530dc5a709357e1b2e2195",
+  "validation_errors": []
+}

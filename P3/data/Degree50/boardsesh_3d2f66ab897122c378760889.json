@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3d2f66ab897122c378760889.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Wraithbone Brightlance 2",
+  "setter": "kurisu979",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "A398416BE90B4D62AB3AC8AFAC201EC5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1147r12p1165r12p1230r13p1233r13p1283r13p1287r15p1337r13p1367r14p1468r15p1485r15p1506r15p1531r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "10a0013ffea886003843b4a73210495a50575a72d5ceec6664a7243f686bce7d",
+  "validation_errors": []
+}

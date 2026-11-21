@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dc1be37a3c5f37dbae411723.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Sunday Morning",
+  "setter": "boulderluke",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8d76f3c24c114c3a8ae89c590c56f8df",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1081r15p1150r12p1162r15p1198r13p1203r12p1234r13p1247r13p1302r13p1304r13p1307r15p1390r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.25,
+  "ascensionist_count": 4,
+  "quality_average": 2.0,
+  "hold_fingerprint": "f136f401eea29099dc79833b18b81553cabb4686d18910ea9be20d0caf5021d2",
+  "validation_errors": []
+}

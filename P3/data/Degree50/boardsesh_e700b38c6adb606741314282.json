@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e700b38c6adb606741314282.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "No Right Feet 4 U",
+  "setter": "d.yzzy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8d56c317ce2c4f2db9eb864897159548",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1218r13p1236r13p1284r13p1304r13p1353r13p1385r14p1389r14p1454r15p1457r15p1468r15p1495r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "7dfb70c132b9b2ab94f3168e0d967109e61a661b17846c7fc6c8ea86b0247262",
+  "validation_errors": []
+}

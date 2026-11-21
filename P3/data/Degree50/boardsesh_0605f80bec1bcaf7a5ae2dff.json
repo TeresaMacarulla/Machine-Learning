@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0605f80bec1bcaf7a5ae2dff.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "alberto",
+  "setter": "mattia.besso",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3bc7a90c-5560-407a-a175-7d98dfc67931",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1291r13p1535r15p1269r13p1196r12p1148r12p1202r13p1100r15p1357r13p1386r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 5,
+  "quality_average": 4.5,
+  "hold_fingerprint": "f7d45c6572f9af1ee83cb89b609641ec80b45a209b1fd3388d8ba311ae5a2ea0",
+  "validation_errors": []
+}

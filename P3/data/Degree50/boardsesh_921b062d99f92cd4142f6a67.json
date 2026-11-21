@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_921b062d99f92cd4142f6a67.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Powderful",
+  "setter": "ksmd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "4274b3464a944622b9ad329a462c725b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1170r12p1206r12p1237r13p1307r13p1336r13p1390r14p1481r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7f0edfd0ee0d5b843a56c82b336b5bcd75c3961fdb4d551c038bd1df6f0e01d8",
+  "validation_errors": []
+}

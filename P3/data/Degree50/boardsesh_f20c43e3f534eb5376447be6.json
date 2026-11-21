@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f20c43e3f534eb5376447be6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Road to finger strenght 3",
+  "setter": "JamieBarendrecht",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "524ae81b88d947419a365e0590e16066",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r15p1173r12p1188r12p1241r13p1253r15p1273r13p1293r13p1342r13p1375r13p1388r14p1447r15p1500r15p1535r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "41d86d33e1f5aa9da3d0dc49f686a54a3cd99c047e9c851b7403a911b17f081f",
+  "validation_errors": []
+}

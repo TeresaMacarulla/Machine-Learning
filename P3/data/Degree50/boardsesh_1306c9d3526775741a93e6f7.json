@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1306c9d3526775741a93e6f7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "Schr\u00f6dinger's climb",
+  "setter": "bloop",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 9,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "e6422ca631c24bf4b68d7cf57d527c42",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1098r15p1121r12p1137r15p1167r13p1190r13p1213r15p1216r13p1219r15p1245r13p1283r13p1312r13p1345r14p1472r15p1482r15p1515r13p1530r13p1547r13",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "bc80599bf62095c1eda1fdf3c21b80cf2b9f9e8ad60bd54de048434926b89de8",
+  "validation_errors": []
+}

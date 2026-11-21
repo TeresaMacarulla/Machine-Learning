@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c79249fbb3fca709352ceaed.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "What?",
+  "setter": "dunks",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "b111a59dfa4a4b3393e40176125531b8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r12p1196r13p1217r13p1285r13p1290r13p1325r13p1394r14p1460r15p1464r15p1477r15p1478r15p1526r15p1545r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "8e0cd97b66968ec426cb63408278a6bea1b6f1744af1115bd336f7c9447ab6c4",
+  "validation_errors": []
+}

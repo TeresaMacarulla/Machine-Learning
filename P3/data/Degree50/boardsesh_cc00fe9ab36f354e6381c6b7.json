@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cc00fe9ab36f354e6381c6b7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Crocubot +",
+  "setter": "shapoppling",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "4395EABAACB14B41A13FE5120B869D5D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1117r15p1202r12p1215r12p1319r13p1387r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "75461a1e3f251e08ffb7ea395169a89d8e8d65b61011cfd4b32b07e73451e210",
+  "validation_errors": []
+}

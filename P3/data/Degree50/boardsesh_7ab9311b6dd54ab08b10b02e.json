@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7ab9311b6dd54ab08b10b02e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Ariane 19",
+  "setter": "tim140",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "4630bbc81a9146b397da083dbdc67f99",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1201r12p1202r12p1272r13p1283r13p1387r14p1490r15p1509r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0fb8f15b996a2e08d2a7ecca09b4d886ab7975ced540187bd7f3f26bdb9e2ff7",
+  "validation_errors": []
+}

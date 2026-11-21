@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8cb0c63e8ced7d5260c38185.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "soco eliminate",
+  "setter": "mikkelsommer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "7F3FE94FF9624C51904B8FDF7E08865B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r12p1169r12p1220r13p1249r13p1250r13p1316r13p1333r13p1382r14p1450r15p1487r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.99,
+  "ascensionist_count": 176,
+  "quality_average": 3.38,
+  "hold_fingerprint": "b4728b7b381240e06c6a5daf42c5f33a08873bf08cbc908e659e0016ee22b7aa",
+  "validation_errors": []
+}

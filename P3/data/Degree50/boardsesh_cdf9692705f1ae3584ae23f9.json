@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cdf9692705f1ae3584ae23f9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "campus",
+  "setter": "LAmundson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "f691cb7a-2e9b-4d59-ba89-8353a347adf8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r12p1198r12p1081r15p1096r15p1110r15p1234r13p1284r13p1319r13p1385r14p1286r13p1353r13",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "94896e8d5f23c1812420dbefd34efd67096afcfa8885d7db4ec0d865ae01a08f",
+  "validation_errors": []
+}

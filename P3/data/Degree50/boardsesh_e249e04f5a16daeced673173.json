@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e249e04f5a16daeced673173.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Estoy cansado",
+  "setter": "ims",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "069ce2b4d2b349d69c60506b7e5a8be0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1150r12p1198r13p1218r15p1252r13p1299r13p1352r13p1387r14p1456r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "050689daa7083c96f550bf0d99784f9b1eaec02faa54d278ca62314f56ab912f",
+  "validation_errors": []
+}

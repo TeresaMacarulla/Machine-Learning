@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a7fd11ae9a8b5ff2c5b48acf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "crowd control",
+  "setter": "Gaston.nation",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "b6f11d74-fd1d-4177-b5ec-48031cf2fc70",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1457r15p1455r15p1131r12p1151r12p1496r15p1163r15p1514r15p1201r13p1252r13p1270r13p1239r15p1305r13p1355r13p1391r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.38,
+  "ascensionist_count": 10,
+  "quality_average": 2.88,
+  "hold_fingerprint": "76d2e4996fe95b3c03d0cb62ae93e97b2e1c3bb5dbd604de98623f3dc89d5852",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f87dd677264693324fcb7d13.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Fly Guy",
+  "setter": "importedbean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "45C9CC7FDB954778AC39169F71CB9E17",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1133r12p1167r13p1230r13p1269r13p1334r13p1388r14p1452r15p1457r15p1523r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 52,
+  "quality_average": 3.43,
+  "hold_fingerprint": "39f5bb54cd625387308c852eb9145ccc191e6718f428ed69dd05c4dc90d6a385",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6b8c4996dd1a9b0a4be612dc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "stretched traverse",
+  "setter": "max481",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 9,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "ec741edf-6a6f-43b4-8ea5-cd2590bb03ff",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r12p1212r13p1127r12p1097r15p1228r13p1233r13p1267r13p1271r13p1236r13p1471r15p1149r15p1240r13p1395r14p1324r13p1327r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "4319da521ab26724b03cb389f8a2188b4194050b74e85af575ac9790921b6fc6",
+  "validation_errors": []
+}

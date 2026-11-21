@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0fbfb469e09e9a166ecb8e25.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Vital #34",
+  "setter": "jakemcneely",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "CC7BABE98CAF4102BDE094031A135EA8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1182r12p1195r13p1282r13p1300r13p1305r13p1340r13p1394r14p1455r15p1484r15p1523r15p1532r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b552815af6feb41b68801170da27d28675889d1fbc195f57bd8391c7a42f781c",
+  "validation_errors": []
+}

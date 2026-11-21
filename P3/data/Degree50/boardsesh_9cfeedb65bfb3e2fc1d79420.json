@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9cfeedb65bfb3e2fc1d79420.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Force it",
+  "setter": "Ahnsight",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "53713696A8AF4920A50D5E59CBAFCF19",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1151r15p1183r12p1197r12p1202r13p1248r13p1288r13p1305r13p1358r13p1387r14p1535r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 13,
+  "quality_average": 3.17,
+  "hold_fingerprint": "c20bd4863e404ec6cc6dcc4e328cc85dc0e76bab0a5654d8350534d656f34d98",
+  "validation_errors": []
+}

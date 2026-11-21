@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b2e9e9efdca376320034633e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Campus, 10 move, LC001",
+  "setter": "lemoncurd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 8,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "1C3C9E79BA914477A08639E02AFA614C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1221r12p1223r12p1257r13p1289r13p1303r13p1306r13p1317r13p1321r13p1349r13p1353r13p1382r14p1384r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "0bb83b426b98a988393e66044c8df5231db6080626d9a35be4600b937c2d0ef0",
+  "validation_errors": []
+}

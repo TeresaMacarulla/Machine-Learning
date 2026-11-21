@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a3deba90a80309cccd4d2238.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Mini Wheats",
+  "setter": "vincent.lec19",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2B995EA9A09444CA8496C40DA2EF9578",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1134r12p1138r12p1220r13p1250r13p1267r13p1314r13p1369r13p1386r14p1449r15p1521r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.99,
+  "ascensionist_count": 221,
+  "quality_average": 3.45,
+  "hold_fingerprint": "3446a8f6b2a8b001188e35e4490696c442865356d8bece31659f516b8ab8a897",
+  "validation_errors": []
+}

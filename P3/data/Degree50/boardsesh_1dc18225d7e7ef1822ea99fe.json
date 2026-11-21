@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1dc18225d7e7ef1822ea99fe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Gastoned up",
+  "setter": "eldridgej",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "597dc39f75764c47b149fdc1a6ba7720",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1085r15p1147r12p1162r12p1195r15p1215r13p1246r13p1249r15p1299r13p1348r13p1385r14p1495r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "0a8d062e657000aa6545c17ea69659fe658d51c6a4bc0fd13ed2655cfd739f42",
+  "validation_errors": []
+}

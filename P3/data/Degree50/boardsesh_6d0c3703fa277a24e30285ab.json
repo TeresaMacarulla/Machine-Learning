@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6d0c3703fa277a24e30285ab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "reach for my peach",
+  "setter": "gavinio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A191597876244E509A2A2769CD296BD6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1144r12p1178r12p1201r13p1268r13p1307r13p1392r14p1483r15p1487r15p1535r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.5,
+  "hold_fingerprint": "4d96bf2c2f88222c2c7c6e0e8e18b68eb7a53bb02eb506f880027b690535646d",
+  "validation_errors": []
+}

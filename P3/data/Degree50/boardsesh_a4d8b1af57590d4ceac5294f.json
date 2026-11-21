@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a4d8b1af57590d4ceac5294f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "jump harder",
+  "setter": "ericterral",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "300AC7B3AFE740D690A94EBB27DF6B3B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1075r15p1106r15p1171r12p1207r12p1276r15p1308r13p1340r13p1353r13p1383r14p1385r14p1541r15p1553r15p1571r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "93db754f03220aa0680352bb3103c77f4fa5ecfc582398d5a08f76b238c6f5ee",
+  "validation_errors": []
+}

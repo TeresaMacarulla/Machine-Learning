@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6114b4e24a75a402ea1d3f10.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "british bombs",
+  "setter": "jabby",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "50c23c20214749619cac46415ad1d336",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1175r12p1244r12p1294r13p1363r13p1380r13p1383r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "fe5eea44decd76f9e0ba71c8b97e68215bb2c83ae1e6d72ad4db139bcafca196",
+  "validation_errors": []
+}

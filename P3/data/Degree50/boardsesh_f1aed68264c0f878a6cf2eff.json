@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f1aed68264c0f878a6cf2eff.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Stokander",
+  "setter": "pajd0xx",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 9,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "aad2fc70297540cd84fce94f6ccd17f5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1126r12p1150r13p1180r13p1206r13p1214r13p1217r13p1218r13p1271r13p1305r13p1326r13p1361r14p1463r15p1484r15p1486r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4823fc7938300361fecea57ea0c5273a4d0bfc9e7fffbd282ab73f35f91d5098",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_172c4c315ddf43bbc3a0ef5e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "miarda",
+  "setter": "eprice",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "5EC5623B8A7649D6BF8376A69DD5B0CB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1199r13p1235r13p1288r13p1339r13p1394r14p1454r15p1459r15p1504r15p1535r15p1559r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "831495b6a2944d867a4a78104ad301e8be051721ba416266455c3685d38e0eb7",
+  "validation_errors": []
+}

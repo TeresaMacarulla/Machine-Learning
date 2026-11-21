@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2c0b853613c4ae487fefe99e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "shwip bam",
+  "setter": "macclimbsplastic",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "f341278d-8a87-4f3b-8708-7a59bc13b8ba",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1197r12p1131r12p1302r13p1272r13p1206r15p1308r13p1394r14p1234r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.33,
+  "hold_fingerprint": "22f044de9d8d7093b2a05f4a47e5bfb71934b48d14007a06b3ccdb2428a06022",
+  "validation_errors": []
+}

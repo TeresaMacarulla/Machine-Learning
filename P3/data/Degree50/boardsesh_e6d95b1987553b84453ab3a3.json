@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e6d95b1987553b84453ab3a3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Goin'101",
+  "setter": "MichielN",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "825ab05b16474b67a6da54d35b4eac49",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1197r12p1198r12p1221r13p1258r13p1356r13p1395r14p1493r15p1500r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.75,
+  "hold_fingerprint": "bff51e026c3b24cb3653dd57221560d6c007d086b0520587b34b8fc206d387b9",
+  "validation_errors": []
+}

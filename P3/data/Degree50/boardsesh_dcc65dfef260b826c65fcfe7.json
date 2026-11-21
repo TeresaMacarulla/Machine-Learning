@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dcc65dfef260b826c65fcfe7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Kilter Campus 2",
+  "setter": "dferolin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "273B786CCBC34BB9966FC62FCB483D29",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1273r12p1305r13p1339r13p1386r14p1525r12",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3ed3b452669239dbeb82e4a565a426a92c155eb0e1e7364f5d3b8fe828b456b5",
+  "validation_errors": []
+}

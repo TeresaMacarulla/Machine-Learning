@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ece1ea62afb2c69387f6c74e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Big Green Tree",
+  "setter": "finnpacheco",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E958E89881144AC89A0D85C34D610DD8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1152r12p1153r12p1201r13p1254r13p1284r13p1337r13p1386r14p1449r15p1468r15p1505r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.8,
+  "ascensionist_count": 42,
+  "quality_average": 3.45,
+  "hold_fingerprint": "258431a89acf8c9ac6f3371a32f7596c644ff2e7bac6ff81c9981d372dfed7a2",
+  "validation_errors": []
+}

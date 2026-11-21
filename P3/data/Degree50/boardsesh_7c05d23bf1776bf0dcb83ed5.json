@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7c05d23bf1776bf0dcb83ed5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "foot up",
+  "setter": "maxcaudle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "CD062F65AEE646468972362F43936C39",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1219r13p1267r13p1321r13p1387r14p1456r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "42952f118da35356753883d6135981880e068bbf9a148b5a066b9b26f8ab7dfd",
+  "validation_errors": []
+}

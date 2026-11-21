@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3d37d444c83d4f7b967f3fa0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Luisabi2",
+  "setter": "reinmiller78",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "c5947bc29be14ff5b3e903d41b03d497",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r12p1153r12p1219r13p1222r13p1256r13p1287r13p1323r13p1337r13p1392r14p1454r15p1472r15p1508r15p1532r15p1562r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "ae008749c52b71c60c210be64ff58336d041866b4c7e9ce653c316a9b8c0735e",
+  "validation_errors": []
+}

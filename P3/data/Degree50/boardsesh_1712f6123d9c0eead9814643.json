@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1712f6123d9c0eead9814643.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Degloved",
+  "setter": "jakedotclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "AF90A9378FB3480499AB2F481740C4F9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1162r15p1163r15p1164r12p1187r12p1199r13p1270r13p1272r13p1336r13p1390r14p1526r15p1541r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.92,
+  "ascensionist_count": 25,
+  "quality_average": 3.42,
+  "hold_fingerprint": "3a655ce40dd429a3dc7ed9551cb92620e028842481093b1fdad4f7cfe3194d9d",
+  "validation_errors": []
+}

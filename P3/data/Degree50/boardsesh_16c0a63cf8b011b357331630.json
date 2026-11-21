@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_16c0a63cf8b011b357331630.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Sundown",
+  "setter": "AStone",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "7df4cc001d89446fa0430e5a918519e6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1133r12p1234r13p1265r13p1277r13p1282r13p1329r13p1346r13p1384r14p1454r15p1457r15p1504r15p1514r15p1519r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1ca3dc5343c5bd3606d3c806eb57b6f17ad6c7547ee0cd8aefe5c8193870f93b",
+  "validation_errors": []
+}

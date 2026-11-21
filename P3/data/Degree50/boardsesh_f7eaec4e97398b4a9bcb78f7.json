@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f7eaec4e97398b4a9bcb78f7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Einstein Foot Fale",
+  "setter": "FJK918",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "BC459FF6D044440BA9F8CBEFF5C0A72A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1177r13p1197r13p1231r13p1269r13p1300r13p1337r13p1385r14p1466r15p1543r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d34bdecfc295e27c85b88edc6663f9ff4e919083ab3e51fc102e2bc9ec4fe469",
+  "validation_errors": []
+}

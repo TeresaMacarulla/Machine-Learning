@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2a9f5d402120c0720ea071a0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "billr4",
+  "setter": "billr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "12DA7657B57043E6AF500D24D5CB9BF8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1144r12p1163r12p1215r13p1234r13p1284r13p1300r13p1331r13p1384r14p1529r15p1547r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.1,
+  "ascensionist_count": 70,
+  "quality_average": 3.32,
+  "hold_fingerprint": "4c1c7182969042ae2ffc6c5c99e497ddccdf2f1d7b9b33a0c7adcbe997978bab",
+  "validation_errors": []
+}

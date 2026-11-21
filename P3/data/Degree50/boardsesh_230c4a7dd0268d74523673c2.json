@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_230c4a7dd0268d74523673c2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Beerpong",
+  "setter": "CNNcoon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2d374108c99347bc871d217216904d67",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1163r15p1167r12p1234r13p1242r15p1289r13p1321r13p1356r13p1388r14p1454r15p1567r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "1fa5fd9e37f0fecf53d31cc83f3718f1ce492c964e39dbce63f6f4262c490792",
+  "validation_errors": []
+}

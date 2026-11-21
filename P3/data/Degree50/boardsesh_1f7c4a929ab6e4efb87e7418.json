@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1f7c4a929ab6e4efb87e7418.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "swoop d swoop",
+  "setter": "atombomb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "AF92DA4AB45A440283D2C068C2EC09A0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1121r12p1122r12p1207r13p1208r15p1235r13p1304r13p1368r13p1384r14p1448r15p1525r15p1533r15p1552r15p1583r15p1592r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6dd07f66f4fe6c0cff5dc274ccb4e17901f3ee0efa7a86061f36506047edcc15",
+  "validation_errors": []
+}

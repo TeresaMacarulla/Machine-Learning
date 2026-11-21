@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_04adc3d18ea52e86c80a40e3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Blue Bishop",
+  "setter": "NikTop",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "36aeb7c5-c667-4c11-b929-b2d3d92fcd71",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r13p1215r13p1162r15p1455r15p1252r13p1306r13p1489r15p1149r12p1535r15p1340r13p1391r14p1292r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.71,
+  "ascensionist_count": 29,
+  "quality_average": 3.0,
+  "hold_fingerprint": "126cf6434d3cbb1944b19640b14dfdd2c320b1dde4ba19d2c9961fcf82742900",
+  "validation_errors": []
+}

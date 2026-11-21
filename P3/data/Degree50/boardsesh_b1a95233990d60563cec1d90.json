@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b1a95233990d60563cec1d90.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Kanelbulle ",
+  "setter": "Eric Karlsson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "bfd4a513-723f-4007-a042-270839b82e61",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1214r13p1096r15p1267r13p1181r15p1301r13p1340r13p1219r15p1239r15p1324r13p1327r14p1133r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 4,
+  "quality_average": 4.25,
+  "hold_fingerprint": "2f9b9fde689994c4870d12ca28ef20840bfbec154ce2dc9503dd2a24d2a9cd47",
+  "validation_errors": []
+}

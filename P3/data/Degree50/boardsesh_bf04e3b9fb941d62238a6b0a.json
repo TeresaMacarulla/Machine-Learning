@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bf04e3b9fb941d62238a6b0a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Roundabout Collision",
+  "setter": "nick_climbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "4BA503B2E0EC4806B448A8DC9ECAAE16",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1083r15p1112r15p1119r12p1184r12p1235r13p1264r13p1314r13p1328r13p1387r14p1503r15p1511r15p1519r15p1528r15p1530r15p1540r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.73,
+  "hold_fingerprint": "d1cb7a3cda428f60c4816f623971e1a30ca263164236652d5ed2a5cfa4c0ba59",
+  "validation_errors": []
+}

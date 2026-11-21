@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_190771fcf0b4a606dfa490c0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "under jump",
+  "setter": "1234444",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "80BF8B09DB9D4DD998C286AFD2FD3C2E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1132r12p1233r13p1235r13p1306r13p1389r14p1457r15p1526r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.33,
+  "hold_fingerprint": "37d727fb811582606d9ceee51b3418fbb910faf2e307d2e41c3759b429130079",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_836add879c02ffddd434cf1a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Pro\u2019s and Conners",
+  "setter": "dmix",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "6F9540A0E3564813AC44550D9FA4495A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1155r12p1189r12p1237r13p1288r13p1301r13p1335r13p1365r13p1383r14p1450r15p1491r15p1526r15p1540r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.87,
+  "ascensionist_count": 152,
+  "quality_average": 3.97,
+  "hold_fingerprint": "dea110ae766fb848ef845f4e17a22f310a3bbc6f57a3c85354df49fbb838be3c",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ca8e45a0aaf57e08375f81ba.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "ki x11",
+  "setter": "Greger",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "4ADD3BDF88B24D80B89C6914E854E6F6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1184r12p1185r12p1248r13p1281r13p1282r13p1338r13p1370r13p1392r14p1470r15p1471r15p1487r15p1510r15p1572r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "41e3ff9a678a2bdf8002496d4a8bff3d92deec715f35e70db1eec0f76009efaf",
+  "validation_errors": []
+}

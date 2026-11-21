@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5b0388bb67705f6562b1d040.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "C dog",
+  "setter": "Jamerson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "939b7e36-e1c6-46ac-9108-fad013171ba9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1198r12p1215r12p1493r15p1302r13p1322r13p1268r13p1503r15p1496r15p1562r15p1354r13p1239r15p1387r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.57,
+  "ascensionist_count": 40,
+  "quality_average": 3.21,
+  "hold_fingerprint": "38f5f76b8c1e2b027abcc59029d2477838fbdd4f64d9da4c6c6674116534d3a8",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b72c8ac8f0e6128b9da83dfc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Aleviten ",
+  "setter": "Fjk98",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "86e8bfff-57d7-4d89-9516-69e7722fb4f7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1153r12p1074r15p1220r13p1235r13p1322r13p1488r15p1335r13p1368r13p1534r15p1381r14",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.75,
+  "ascensionist_count": 5,
+  "quality_average": 4.75,
+  "hold_fingerprint": "9891c64acec1b596e8cabe681577cf15d55276a669c9778502524aab183f1983",
+  "validation_errors": []
+}

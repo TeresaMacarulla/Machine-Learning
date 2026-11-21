@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e0605083becce0fbafb98e32.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "finger rest",
+  "setter": "bridgeraston",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "426137656A6D4430A3AAE1BE56809309",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1264r13p1282r13p1352r13p1387r14p1512r12p1521r12",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.2,
+  "hold_fingerprint": "989166ac267a7548e21da8343344aa72c254e892da20eb09d3d813a208b69b0a",
+  "validation_errors": []
+}

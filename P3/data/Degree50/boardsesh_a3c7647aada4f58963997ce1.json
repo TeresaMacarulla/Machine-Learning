@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a3c7647aada4f58963997ce1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Tokyo Power",
+  "setter": "Torstein",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "eeed364228c548de9c04ec7302c69af3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1109r12p1180r12p1249r13p1265r13p1295r13p1348r13p1379r14p1506r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.5,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "f162c03296f6232ce380e16333b571ca00405a97572baaa32d809a1bb3c57313",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1b754eb8fa1c14c8c959f1da.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Sonntagsliga",
+  "setter": "NZO97",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1196F44D119B4C04B4A590AE1FCD0CD5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1143r12p1216r13p1228r13p1283r13p1322r13p1325r13p1338r13p1395r14p1534r15p1536r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "4b36c349dcb64035450e03429024a6a919e159268818b9ab0213131ec9e1a486",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8df7f8c4fd93bfa58ceb0ff1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Gaaas",
+  "setter": "JStreet",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "EF87E4B8AE104384A35CD85093EF8D39",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r15p1201r12p1217r12p1304r13p1352r13p1370r13p1382r14p1487r15p1496r15p1525r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d7fd37d40f0a0c0fae0da326afe79b76d2a5191a8b83db9aab4f59d287920313",
+  "validation_errors": []
+}

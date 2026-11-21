@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f4c5d42555c43c7401056e6c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Beep 3",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "CD2B4A225D8F4F3B82DC4D6E7FD884AE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r15p1136r15p1180r12p1186r12p1268r13p1290r13p1390r14",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.0,
+  "hold_fingerprint": "65a8a2d2b34733374995c2213d5788e1dac545c26407e6347a811b06136385aa",
+  "validation_errors": []
+}

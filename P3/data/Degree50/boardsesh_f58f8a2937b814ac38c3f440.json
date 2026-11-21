@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f58f8a2937b814ac38c3f440.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Halfway Pinched",
+  "setter": "Slangford",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "27CEE3306AA940CD99D137848C39CAFE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1137r15p1186r12p1216r12p1254r13p1285r13p1300r13p1319r13p1386r14p1387r14p1504r15p1530r15p1561r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "7751801df6fbc09e5ea9af0b031542cb1c19d38d1f37c5a92de03fe6a841a039",
+  "validation_errors": []
+}

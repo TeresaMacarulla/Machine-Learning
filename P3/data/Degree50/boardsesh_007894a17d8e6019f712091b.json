@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_007894a17d8e6019f712091b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Hypoxia",
+  "setter": "apnea90",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "0E2BF0137F28404D81474851F709D60D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r13p1191r12p1241r12p1254r13p1285r13p1291r13p1357r13p1387r14p1473r15p1478r15p1481r15p1488r15p1515r15p1527r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "fd764861fbe7c422c7e5e7a17e28fdeb7933c771420104cce321a67be77edb5b",
+  "validation_errors": []
+}

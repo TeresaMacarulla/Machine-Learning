@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5f4fa182aad8c35d2017172a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Pinch forged",
+  "setter": "elldog2000",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "b7a25ef6-886e-42bc-9719-49f38b04e5ac",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r13p1241r13p1357r13p1291r13p1451r15p1447r15p1172r12p1101r12p1470r15p1285r13p1500r15p1535r15p1344r13p1395r14p1339r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "1a79cdb2f560e8273f8b1960ada190f322c1d275667e5ae67014d3c929793875",
+  "validation_errors": []
+}

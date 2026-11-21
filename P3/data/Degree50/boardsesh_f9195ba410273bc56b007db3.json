@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f9195ba410273bc56b007db3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Drill machine",
+  "setter": "BoulderFlo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "ABC4AC58C4BA4672998E22E60FC97696",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1144r15p1181r12p1215r13p1230r13p1301r13p1304r13p1373r13p1395r14p1534r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "32d9a4d81d22a7a5205daa031ab11358442eb02de683b46164fb00483587d90c",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1f5b10c23cdfcc4874ee27e5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Poker Face \ud83d\ude35",
+  "setter": "ksmd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "f4da8af4e4714251977903f1e2794676",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1184r12p1188r12p1254r13p1285r13p1299r13p1304r13p1314r13p1383r14p1513r15p1529r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 19,
+  "quality_average": 3.32,
+  "hold_fingerprint": "05bfe218c38751fa7d0025ab535ac5c49cf0f6c9b928ec4d3d3d8ccaebbb55be",
+  "validation_errors": []
+}

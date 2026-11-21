@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_75fd760385c3b76eb0543d37.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "right right left left",
+  "setter": "quentinrichard02",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "AA030D22EB1243C8A6727D3570C1BFB7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1136r12p1169r12p1213r15p1234r13p1239r13p1287r13p1302r13p1315r13p1317r13p1369r13p1382r14p1451r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "ccc0fec92809e3e318ebfe1e030e5c0514719a5006c2a990bb550e4dcf50b0d9",
+  "validation_errors": []
+}

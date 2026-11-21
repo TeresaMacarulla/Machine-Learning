@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a1089cb00d0df2da5b58c9ea.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Round Turning",
+  "setter": "markheal",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "BE7C2FBD9C544801831840AD595D79BC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1188r13p1220r13p1304r13p1368r13p1383r14p1454r15p1471r15p1509r15p1561r15p1596r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ab95b3196b527125c9d9c88fc25f77a81297e88bac4db8bb4bcb91098a9b2db8",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_905367ef9c08edea8535291a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "TiMa_1",
+  "setter": "Till_Machleit",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "07A8DECDC0E74235943F5BAAD443B6E2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1123r12p1190r12p1202r13p1254r13p1286r13p1336r13p1383r14p1447r15p1481r15p1522r15p1541r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.75,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e1df283d4836a574a1d2975b16e4f280c0ab87f332d7ea503491cb331a9e28dc",
+  "validation_errors": []
+}

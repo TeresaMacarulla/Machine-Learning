@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b6cb4dfd87b446da3e669968.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Easy Bake",
+  "setter": "RiverTulloss",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "B26E66C9A190491D9E8A6F397641C34D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1126r12p1127r15p1182r12p1196r13p1248r13p1285r13p1290r13p1303r13p1357r13p1391r14p1458r15p1516r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "4f08ee5b308e1233369ef7876b95012c579cc34bb5d5c46ceb922512d38a04db",
+  "validation_errors": []
+}

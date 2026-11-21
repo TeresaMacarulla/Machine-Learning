@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1fc9f9e641512146057d50df.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "ligstart",
+  "setter": "talokun",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "7EE329C6036D46C68FB8E3938F4D7D50",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1117r12p1120r12p1171r13p1203r13p1250r13p1254r13p1304r13p1352r13p1389r14p1478r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "dc3ce65710e4bc6d2cf56af2c7d332227b47cda16a47a3f43b2fd1cd3985994a",
+  "validation_errors": []
+}

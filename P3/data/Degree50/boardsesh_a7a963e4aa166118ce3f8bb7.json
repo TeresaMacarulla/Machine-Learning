@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a7a963e4aa166118ce3f8bb7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Back On Shift",
+  "setter": "zanep",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "C7BB4DDBB3B34B04BDDC1A4EF5C14F9C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r12p1186r13p1197r15p1223r13p1252r13p1305r13p1353r13p1385r14p1447r15p1482r15p1496r15p1526r15p1557r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1e78ad8b542989a329b47e029f102eb7e94df47480d530b5c56c16e48ac5c3a4",
+  "validation_errors": []
+}

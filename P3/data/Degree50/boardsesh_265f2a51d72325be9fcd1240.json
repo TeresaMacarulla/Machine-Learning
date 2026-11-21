@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_265f2a51d72325be9fcd1240.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "HALYARD",
+  "setter": "TomCallewaert",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "6E499EEB1BB34F6CBA828374DE1160ED",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1139r12p1169r12p1238r13p1307r13p1320r13p1387r14p1453r15p1473r15p1491r15p1518r15p1541r15p1543r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "546baf5851c9ff8f7c6740b4b5db5948f50a68a175b587be0c6121a708881d2a",
+  "validation_errors": []
+}

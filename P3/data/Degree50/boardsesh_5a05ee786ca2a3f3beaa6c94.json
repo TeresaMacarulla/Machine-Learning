@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5a05ee786ca2a3f3beaa6c94.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "splagaat maatje",
+  "setter": "busko_010",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "72ad5b739ca446ccb390aef0ea15e70b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r15p1187r12p1203r12p1236r13p1289r13p1301r13p1354r13p1367r14p1557r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "695dc70d12dc95b5682e06c74a1c93b8be9aa32a2a18b79e1a75c1ab944df272",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_32320d44bb719b0ebbcc2bcd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "set city",
+  "setter": "washkill",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5BD5312853C640388DB3B3AC15FC92F4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1155r12p1240r13p1242r13p1309r13p1340r13p1388r14p1500r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "3c464522e885ce8021d455763592d66e51b29d496269228587482bbdd636ec82",
+  "validation_errors": []
+}

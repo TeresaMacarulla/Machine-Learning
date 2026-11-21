@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a6a1acf64b1727f0b52becaa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Campus Me",
+  "setter": "brennanroa",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "0E293466102F49989AF22D5212231A97",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r12p1234r13p1282r13p1319r13p1353r13p1390r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b2b54ecba76f3f11cc721931c4ac72fdef13d127c45f930dbd904e7969017419",
+  "validation_errors": []
+}

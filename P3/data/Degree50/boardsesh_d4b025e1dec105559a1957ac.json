@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d4b025e1dec105559a1957ac.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "paddle bug",
+  "setter": "nikkepikke",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "A0CEA65599AA4E1F8AF0FFF27576C946",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r12p1158r12p1194r13p1249r13p1264r13p1335r13p1385r14p1389r14p1458r15p1531r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.29,
+  "ascensionist_count": 12,
+  "quality_average": 4.57,
+  "hold_fingerprint": "5a94f7600941992831b3a101eec9ee823ab659788591faedd29bf5b57c4acb3b",
+  "validation_errors": []
+}

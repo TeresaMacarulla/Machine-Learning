@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1a4d4300c733233deffa3af4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Pletnev 1",
+  "setter": "MartinxPy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5fa7cea10d1948ab8613d57e9a96eab7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1216r12p1228r12p1285r13p1351r13p1389r14p1504r15p1506r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.5,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "bf25c8939e9debd1946f1f495faadc7febc0364ed4850556f79e37dab36eed19",
+  "validation_errors": []
+}

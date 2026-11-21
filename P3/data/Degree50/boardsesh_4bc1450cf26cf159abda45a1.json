@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4bc1450cf26cf159abda45a1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Vecchio Simone",
+  "setter": "core.nelius",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "acaf4785f23a49699c6e19aae6256d52",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1167r12p1202r12p1214r13p1283r13p1317r13p1370r13p1390r14p1498r15p1506r15p1507r15p1551r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.96,
+  "ascensionist_count": 24,
+  "quality_average": 3.4599999999999995,
+  "hold_fingerprint": "d999c4f2f4b82f2a65ecdc9dc69d89e80803a73e4dd86e45f09f2df083c2bb67",
+  "validation_errors": []
+}

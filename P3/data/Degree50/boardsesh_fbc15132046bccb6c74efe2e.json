@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fbc15132046bccb6c74efe2e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "High-Step Contraindicator",
+  "setter": "kurisu979",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "44506F9227E0438F8EF0BB386AE80F06",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1154r12p1169r12p1206r15p1221r13p1239r15p1275r15p1286r13p1308r13p1356r13p1394r14p1472r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "151390764e32e1da80559c17d94d307d824b429a56cff439c1f2fc91fb12b474",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8aee9b257ef14b4f45e26e79.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "ou shii ",
+  "setter": "climbalexclimb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2403a21a-5a8f-436a-b6cb-da2c873616a8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1187r12p1450r15p1168r12p1453r15p1253r13p1191r15p1272r13p1339r13p1535r15p1359r13p1392r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.67,
+  "ascensionist_count": 15,
+  "quality_average": 3.89,
+  "hold_fingerprint": "dd0b2bd43019b436bbae7a0ea200d983dd4d666d95f27d0d48d8e044e3cdf58a",
+  "validation_errors": []
+}

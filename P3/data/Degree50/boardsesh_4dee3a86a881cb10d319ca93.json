@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4dee3a86a881cb10d319ca93.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Clean cut",
+  "setter": "Vash",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "16879E82E27649529EE44849BF4EC0AF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1154r12p1169r12p1221r13p1235r13p1267r15p1289r13p1302r13p1353r13p1385r14p1453r15p1455r15p1472r15p1488r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.92,
+  "ascensionist_count": 8344,
+  "quality_average": 3.3408758248350328,
+  "hold_fingerprint": "977c90b26eca71e22a0e973a1a598d6b4e48690caa24ba93cdea04cf73e266db",
+  "validation_errors": []
+}

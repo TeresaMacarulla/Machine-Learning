@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8053da707677a37be0fb6ae3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Sink in",
+  "setter": "TofuClimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "c40cc481-319d-4002-bbd1-e900ea893468",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1138r12p1157r15p1518r15p1340r13p1355r13p1242r13p1447r15p1224r13p1276r13p1253r15p1385r13p1297r15p1379r14p1383r13",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 4,
+  "quality_average": 4.5,
+  "hold_fingerprint": "8eb9deed645412ad6eb2ec8c4f8581b9eb4f1a630fa0a9933aea3a5591f041e6",
+  "validation_errors": []
+}

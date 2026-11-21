@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_75b8d44796e6811ecf9b2cbd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "bonne grimpe",
+  "setter": "isaacleff2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5BD431FD3AE8495AA901A5BBAC6143D6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r12p1185r12p1249r13p1250r13p1317r13p1338r13p1389r14p1391r14p1452r15p1470r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.82,
+  "ascensionist_count": 39,
+  "quality_average": 3.46,
+  "hold_fingerprint": "a2e6e222aeb667b6ea143b1605f1ce4901e65c5a3f1c01c4454ee1720655fd07",
+  "validation_errors": []
+}

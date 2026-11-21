@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d3f683d954123be737005aa5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "jenga style",
+  "setter": "JimiHendrix",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "AA9C54949B454B8FB0962B5E4EBE9DBB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1213r13p1248r13p1299r13p1304r13p1335r13p1373r13p1395r14p1461r15p1532r15p1537r15p1543r15p1553r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.88,
+  "ascensionist_count": 363,
+  "quality_average": 3.65,
+  "hold_fingerprint": "793542ff0943b98b29807500255eb15b3b8bf56537434970a13f95a677f3bc20",
+  "validation_errors": []
+}

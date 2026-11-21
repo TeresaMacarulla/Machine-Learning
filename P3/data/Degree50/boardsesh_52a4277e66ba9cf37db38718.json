@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_52a4277e66ba9cf37db38718.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "crimp-z",
+  "setter": "mattbradley",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FE87768ED246444C904AFF5B09175A9D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1209r13p1213r13p1263r13p1316r13p1351r13p1388r14p1461r15p1464r15p1502r15p1531r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "997b8e3e4dda328b011c4cd243e71970ec0045bbb6c901d090963c849a4087e8",
+  "validation_errors": []
+}

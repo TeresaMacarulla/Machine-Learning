@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5c176d8f5ddbe986f839cd3f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Energy Efficient",
+  "setter": "dk_caliroosta",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "960D05098556491C968F407F8F40B80A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1133r15p1160r12p1163r12p1231r13p1255r15p1269r13p1319r13p1339r13p1390r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "aa94d082588cecb7c329bedaad2937e80ddb4e23c3d066d0168849870df0164b",
+  "validation_errors": []
+}

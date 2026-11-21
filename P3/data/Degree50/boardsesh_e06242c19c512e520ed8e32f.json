@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e06242c19c512e520ed8e32f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Der Boulder",
+  "setter": "Boulderer26",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "ff95f949-98ab-425a-b66a-555682e3364b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1461r15p1175r12p1163r12p1247r13p1285r13p1559r15p1353r13p1391r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 9,
+  "quality_average": 4.33,
+  "hold_fingerprint": "67aaeb095ef556aa34d6d8a1eac785360689ab1878155f4b9c27841c09696f68",
+  "validation_errors": []
+}

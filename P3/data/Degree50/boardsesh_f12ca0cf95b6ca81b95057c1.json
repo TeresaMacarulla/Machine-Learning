@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f12ca0cf95b6ca81b95057c1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Flat Earth Boulder",
+  "setter": "JoelHaefliger95",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "35b40688-c495-4970-8c2c-88f824002f0f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r12p1164r12p1234r13p1458r15p1289r13p1543r13p1494r15p1516r15p1353r14p1322r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "15307d2a68a2b5faf0ed02cd3aa3def9777acd02d19e6fba68b1d4fbdc778afc",
+  "validation_errors": []
+}

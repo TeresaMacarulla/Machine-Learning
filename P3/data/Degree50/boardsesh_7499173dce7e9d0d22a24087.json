@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7499173dce7e9d0d22a24087.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Flows Nice",
+  "setter": "bkbskilterboard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9831FBD962654D329DA216CC6E7664B2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1172r12p1241r13p1254r13p1291r13p1320r13p1336r13p1348r13p1382r14p1450r15p1471r15p1500r12p1540r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ba0821f684e0ed1eee8ace4ebcdd95244b09ff4098f4128fadfe25a6ce33e42e",
+  "validation_errors": []
+}

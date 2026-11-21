@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8962f1515be7e3014c8a4b1f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Slow Joe Hoe",
+  "setter": "paul_brouard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "ccd45a28ecc744899d3fa815f059aef8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1171r15p1185r12p1212r15p1220r12p1252r13p1266r13p1284r13p1315r13p1383r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 693,
+  "quality_average": 3.3699999999999997,
+  "hold_fingerprint": "6438d9cc7e1ad3e4869270db95322f6a38d9a1b6bc56a10238c6761af281634b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9acc5219c0dd464e92072f2e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "gross campus",
+  "setter": "Hazen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 0,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "f5921cfed87a4bedbc22d0d7b5ddd93c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1294r12p1312r12p1380r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.08,
+  "ascensionist_count": 29,
+  "quality_average": 3.12,
+  "hold_fingerprint": "facfcbaca160b8c1fe827945a2a48bd872c1a182996005a75a67cd56c495fc3d",
+  "validation_errors": []
+}

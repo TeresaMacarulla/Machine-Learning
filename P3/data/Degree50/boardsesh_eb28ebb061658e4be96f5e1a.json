@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eb28ebb061658e4be96f5e1a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Never Seen Before",
+  "setter": "steil_boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "A913510167294CDAAD25514BD6AFE19F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1111r15p1143r12p1209r13p1269r13p1282r13p1322r13p1386r14p1465r15p1501r15p1552r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.94,
+  "ascensionist_count": 64,
+  "quality_average": 3.11,
+  "hold_fingerprint": "0122065d5ef843b77a2cac8d3cb8b84384d003693773a7047813ea82d9451e21",
+  "validation_errors": []
+}

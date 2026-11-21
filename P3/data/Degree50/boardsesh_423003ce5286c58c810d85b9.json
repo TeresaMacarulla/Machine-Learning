@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_423003ce5286c58c810d85b9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Avoidance",
+  "setter": "shep_dawson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "486F8A5E80F5429F8BC330E1A1FF19B0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r15p1197r12p1254r13p1286r13p1357r14p1372r14p1495r12p1532r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "687de494c05924442ce2dc5e71bab5ae351b456a4bf271944b78cbbbd4a92f58",
+  "validation_errors": []
+}

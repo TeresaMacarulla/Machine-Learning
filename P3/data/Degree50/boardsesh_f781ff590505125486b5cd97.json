@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f781ff590505125486b5cd97.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "superfresh",
+  "setter": "adam.pendrith",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "9c1468a04eff453495b813450322b464",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1149r12p1234r13p1255r13p1302r13p1341r13p1391r14p1392r14p1458r15p1471r15p1505r15p1513r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "26bb0ee3933e972ed13232c62f0b4440754dfe796d729911f869637020a91bdb",
+  "validation_errors": []
+}

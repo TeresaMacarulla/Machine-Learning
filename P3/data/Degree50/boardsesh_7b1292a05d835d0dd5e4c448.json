@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b1292a05d835d0dd5e4c448.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Ich will aber",
+  "setter": "BeSchmiert",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b344fa9a-3aa6-4d43-999b-e93574215301",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r15p1252r13p1554r15p1357r13p1305r13p1201r12p1164r12p1387r14p1288r13p1242r15p1536r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.83,
+  "ascensionist_count": 15,
+  "quality_average": 3.83,
+  "hold_fingerprint": "a8dd7aeea8926852151e3536d9fd01472d1b5992160c6f61bc7f7d7b047c4858",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e38a262fe399eab8a4947869.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "one small step for sam",
+  "setter": "BoardWarlord",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "4778E9D2F74D4EBB8C08DDE35967BB61",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1257r12p1259r12p1306r13p1320r13p1354r13p1385r14p1518r15p1541r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.38,
+  "ascensionist_count": 8,
+  "quality_average": 3.75,
+  "hold_fingerprint": "ee1c5d62d56e7252448a4c39fa626d910bc293439c2f50fd292d6c81d0842bd8",
+  "validation_errors": []
+}

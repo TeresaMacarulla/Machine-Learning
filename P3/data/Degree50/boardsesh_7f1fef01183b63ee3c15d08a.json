@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7f1fef01183b63ee3c15d08a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "V-cent",
+  "setter": "Juiu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "00e3a6c0f9794f77a6d61b97b554d66b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1112r12p1126r12p1180r13p1197r13p1233r13p1283r13p1304r13p1320r13p1325r13p1394r14p1458r15p1461r15p1485r15p1506r15p1544r15p1554r15p1572r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "528fefbdd86d24fd17d9f7a18ca5bbdc019942cba668be8c70fe6b55d586afb0",
+  "validation_errors": []
+}

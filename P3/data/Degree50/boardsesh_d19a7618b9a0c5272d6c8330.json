@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d19a7618b9a0c5272d6c8330.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "labubu",
+  "setter": "gavinio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7D114B34AFE74B1798DBC66BE5B57FCE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1144r12p1163r12p1185r13p1204r15p1232r13p1242r15p1287r13p1289r13p1322r13p1385r14p1388r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "8a2b21bca76f5b38cc1f51c07d8d8bf2a2aa3bce364b98e78433479174cc967b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e8677e6cf8f07809cc8e09f5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "mofly 5.0",
+  "setter": "alexmofly",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "C4ADDF82A1D54119912755C9B56A66A8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1119r12p1134r12p1189r13p1216r13p1237r13p1266r13p1277r13p1281r13p1364r13p1379r14p1449r15p1453r15p1482r15p1488r15p1504r15p1537r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e8a32454f213bbbb24e6a4a72faa355025a4ab96119e1af79399f87bff1de729",
+  "validation_errors": []
+}

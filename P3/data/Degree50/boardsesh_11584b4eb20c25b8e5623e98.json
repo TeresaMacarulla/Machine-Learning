@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_11584b4eb20c25b8e5623e98.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "underslip",
+  "setter": "xanndr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "626b52c17d284cf78fe7574a7ae29572",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1118r15p1164r13p1185r13p1215r13p1255r15p1268r13p1335r13p1384r14p1455r15p1459r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 15,
+  "quality_average": 3.53,
+  "hold_fingerprint": "17ab3e6cb41ca7f79b177c2ec261af021ba3910b841ef785012fbed05b8eedd3",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7d3bdd6762eac5c7fe62c74f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Moonwalker",
+  "setter": "jchongsends",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "F2B675BC3AEE438BAC9204BCA6ADC62B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1108r15p1175r12p1214r12p1261r13p1268r13p1271r13p1300r13p1306r13p1326r13p1391r14p1536r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.07,
+  "ascensionist_count": 14,
+  "quality_average": 3.71,
+  "hold_fingerprint": "3d524ca47fedf6d16cfe839594c4923ccf93a05e745c59fffd7c938ede8f450c",
+  "validation_errors": []
+}

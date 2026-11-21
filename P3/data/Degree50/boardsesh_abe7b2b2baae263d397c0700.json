@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_abe7b2b2baae263d397c0700.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "board shoulder 6 (08/25)",
+  "setter": "lilymoss922",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "9A473AFEADAB40C4A108D626B91E2651",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1140r15p1151r15p1165r15p1187r12p1189r12p1213r15p1237r13p1267r13p1317r13p1348r13p1385r14p1532r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a5a49c013cf3bead1e86ac1b5d5e69ef4e3aae66bf9ed550e36332894ff376f9",
+  "validation_errors": []
+}

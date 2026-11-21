@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cfb670969e787b3a9e0edcaa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Parallel Kick",
+  "setter": "jblanco",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1C115BE526564A25B7FBCCCC14E6C5BB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1152r15p1178r13p1182r13p1249r13p1259r15p1270r13p1320r13p1358r13p1391r14p1454r15p1457r15p1504r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "8efd0d890ba458f459c4a6d86c4e07edfc3b7c23af6798c30d9ac5ce38a1d0b5",
+  "validation_errors": []
+}

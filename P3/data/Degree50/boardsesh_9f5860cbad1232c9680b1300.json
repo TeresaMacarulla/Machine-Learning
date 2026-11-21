@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9f5860cbad1232c9680b1300.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "superfly simulation",
+  "setter": "cts2003258",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4F57C2958EB9473E85FFAFFB593B90BE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1099r15p1116r15p1133r15p1147r12p1163r12p1195r13p1231r13p1252r13p1269r13p1300r13p1321r13p1353r13p1387r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "992cece28be2df3f71dbbcd6dacf6e677a15ef087f997082343b2391fac8e11a",
+  "validation_errors": []
+}

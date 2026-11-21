@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2ec4cffb4560985b868f61c1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "psychosis",
+  "setter": "bonk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2E8639CCAEDD4DE3AB6DEC2AC9728126",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1157r15p1169r12p1257r13p1302r13p1313r13p1316r13p1379r14p1456r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "478183a1583c0b774506d5e90878cb9b882eb09bcae8b90b3be259f0c3c99e85",
+  "validation_errors": []
+}

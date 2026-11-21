@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bda3600240d696139091d194.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Fade",
+  "setter": "Hamiter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "58540374eac14ef981df040ed01d500b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1233r12p1234r12p1239r15p1302r13p1353r13p1390r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.9,
+  "ascensionist_count": 32,
+  "quality_average": 3.26,
+  "hold_fingerprint": "6d8ac9b33e0c944a45c3315c7896b961fd444d615b47e378f98a9e1a9d34e752",
+  "validation_errors": []
+}

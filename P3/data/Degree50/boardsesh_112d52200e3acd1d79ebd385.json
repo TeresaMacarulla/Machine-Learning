@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_112d52200e3acd1d79ebd385.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Mansplaining",
+  "setter": "sawysauce",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9539978C3DFF426A948F4F27C572DA76",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1152r12p1153r12p1200r13p1234r13p1282r13p1302r13p1351r13p1389r14p1450r15p1453r15p1505r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.91,
+  "ascensionist_count": 22,
+  "quality_average": 3.45,
+  "hold_fingerprint": "cea7ef8b57512a21689be27c1393df62eb071e74807e0e43d0c3bc9d79c8afcb",
+  "validation_errors": []
+}

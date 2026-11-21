@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a683f8781194b1551a45d8a4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "BRB 1.4",
+  "setter": "brentonbostwick",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "887FC7133E4D4F468ECAFB28B8C48ADC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r15p1156r12p1169r12p1199r13p1236r13p1248r13p1279r13p1300r13p1347r13p1379r14p1450r15p1456r15p1520r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.67,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "b1ac15533e1ce8fbe14ee024fcb6d7ade2ace5694b6001e2c7242464fca6313f",
+  "validation_errors": []
+}

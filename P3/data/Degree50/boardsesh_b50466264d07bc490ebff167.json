@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b50466264d07bc490ebff167.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "fish climb",
+  "setter": "theshorttone",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B1BCA6C9421C4D3D9A7C5C1224F1C8FF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1129r12p1131r15p1160r15p1163r12p1229r13p1235r15p1249r13p1266r13p1317r13p1319r13p1388r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.17,
+  "ascensionist_count": 6,
+  "quality_average": 2.17,
+  "hold_fingerprint": "98d744564037385ef16e2f596242c113dedf0313d157c4210cfb7113b338908d",
+  "validation_errors": []
+}

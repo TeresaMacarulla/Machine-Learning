@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c2136aa1d5afb31da8d051a8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Sounds of Death",
+  "setter": "markusleebV",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "24492D77A9D84578BD9F84DCE0966E3A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1198r12p1236r13p1283r13p1290r13p1325r13p1388r14p1493r15p1518r15p1536r15p1554r15p1587r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.0,
+  "hold_fingerprint": "0e3ded989953646bf8d8de6f320389eeebd28c6c3ddafaef9b032de8879538d1",
+  "validation_errors": []
+}

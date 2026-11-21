@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7ef831c1c2990c6cd864c2ce.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Anti-Anorexia",
+  "setter": "tjarkmaass",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8FB544ABA0A9455E94F16D992CBCE6B4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r15p1176r12p1177r12p1208r15p1281r13p1290r13p1305r13p1325r13p1376r14p1474r15p1590r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "232b8a776c0981b5844f28942b050fffbd002a2389e2b4456f728a32c98b2747",
+  "validation_errors": []
+}

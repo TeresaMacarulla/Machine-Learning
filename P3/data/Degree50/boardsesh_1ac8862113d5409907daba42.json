@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1ac8862113d5409907daba42.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Urgency",
+  "setter": "bkozina",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "7377FDBBA5A2410AB3E508731B11918D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1146r15p1147r12p1186r13p1221r13p1235r13p1286r13p1304r13p1332r13p1383r14p1452r15p1454r15p1461r15p1508r15p1531r15p1539r15p1558r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "3a9ccff51ad1930d57a9ea33f2b0393ee4aa4685daabf49ad0224218889fe417",
+  "validation_errors": []
+}

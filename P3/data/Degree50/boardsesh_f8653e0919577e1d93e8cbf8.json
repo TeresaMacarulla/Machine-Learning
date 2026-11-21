@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f8653e0919577e1d93e8cbf8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "SBB#28",
+  "setter": "smexyclimb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "9F4EF978D4A246349826FDD8583752AC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1142r12p1163r12p1214r13p1229r13p1300r13p1315r13p1387r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a2a113ce47dfb55903044715f5bc185ecc504cd1faf3c01ecbf6b618f2f5b24f",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c7de20c91271543970383b80.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Left turn ",
+  "setter": "antoine.schohn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "9aee2805-8356-4e1f-b3c9-2d55ae4216a9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1110r15p1215r13p1248r13p1280r13p1347r14p1132r12p1198r13p1456r15p1266r13p1457r15p1192r15p1160r15p1345r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 10,
+  "quality_average": 2.43,
+  "hold_fingerprint": "bd8ebd5ed54d2bd03604582b8ea5e0e51dd594e5479dcab397ce0a0145297fa5",
+  "validation_errors": []
+}

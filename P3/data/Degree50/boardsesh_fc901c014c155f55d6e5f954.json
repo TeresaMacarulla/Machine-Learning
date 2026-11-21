@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fc901c014c155f55d6e5f954.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "uncomfortable experiment",
+  "setter": "ethbckly",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "805F6FB9A39149D0BFA2891CBA8A2023",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1174r12p1239r13p1268r13p1272r13p1321r13p1334r13p1389r14p1449r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ce06251dae6eb3f28d779c21969e6b9ec8dc9dc76fb622e1ea10559bd626f776",
+  "validation_errors": []
+}

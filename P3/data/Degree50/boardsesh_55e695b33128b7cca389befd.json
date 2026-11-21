@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_55e695b33128b7cca389befd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Mantis Style",
+  "setter": "mr_van_tastic",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ca210a0c14b84202826a81054ba00097",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r12p1246r13p1264r13p1299r13p1337r13p1339r13p1392r14p1486r15p1493r15p1513r15p1529r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "7c911ab241c81a5e91871037d2fd7685de99ac416fc91c41700223925a7caa0a",
+  "validation_errors": []
+}

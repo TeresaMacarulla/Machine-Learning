@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b6e104f0f625950e131baf0c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Ello",
+  "setter": "KimDeWolff",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "AF4E9C9CB5A344C98E11AF779A402FF7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1158r12p1160r12p1260r13p1277r13p1299r13p1325r13p1336r13p1395r14p1535r15p1537r15p1547r15p1553r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "dc2025f102b215ca552074b5300ec0e4f3aa781b523a0d49a04d711d483519d3",
+  "validation_errors": []
+}

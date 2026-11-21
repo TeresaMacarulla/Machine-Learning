@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e07f026d162b4dd134b6cc87.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Street Ball",
+  "setter": "cwschwartz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "698140051D7A4967A05C81EB66114207",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1174r12p1204r12p1254r13p1304r13p1318r13p1385r14p1489r15p1532r15p1559r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "443deb0a8ec62659ddc7e800b0edd67d54c0996efdef6de2de4d4be3047b8660",
+  "validation_errors": []
+}

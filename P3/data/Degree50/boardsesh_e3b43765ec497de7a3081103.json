@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e3b43765ec497de7a3081103.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "DLG Style",
+  "setter": "marcoderrien",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "a75f014cf54b47c3b9196ea1a9f79bc7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1162r12p1200r15p1217r15p1227r12p1268r13p1271r13p1282r13p1352r13p1389r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.33,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "ed29295afcb0e7ff26ab92c33b0d17497631b2606ae7c01f9aa399865c99f496",
+  "validation_errors": []
+}

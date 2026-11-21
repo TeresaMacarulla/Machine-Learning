@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3f3d63e7fc04064b3cc82127.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Cornnuts",
+  "setter": "mikey.light",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0FB066D225C8432985500A21151F98BA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r12p1175r12p1197r13p1215r13p1253r13p1270r13p1324r13p1391r14p1464r15p1476r15p1515r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.98,
+  "ascensionist_count": 3509,
+  "quality_average": 3.330951566951567,
+  "hold_fingerprint": "65f976ad7e8b72523a5471d93c606571762b2e489401cbb8a94b962c3dcffe91",
+  "validation_errors": []
+}

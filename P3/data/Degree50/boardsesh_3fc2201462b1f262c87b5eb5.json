@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3fc2201462b1f262c87b5eb5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "double dyno \ud83e\udd2f",
+  "setter": "Johanblast",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "E7EE93A06DE14549B1A875B82B634B89",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1202r12p1234r12p1302r13p1317r13p1383r14p1385r14p1470r15p1479r15p1530r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 4,
+  "quality_average": 2.0,
+  "hold_fingerprint": "c8b2e1e49b6ff971b203e9b58c98886d61a155b759e6e468022a64b9f1243637",
+  "validation_errors": []
+}

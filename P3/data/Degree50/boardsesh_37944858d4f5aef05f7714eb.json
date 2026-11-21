@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_37944858d4f5aef05f7714eb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "virtical distancing",
+  "setter": "dale_anderson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7142F7B343204A15B47B8C2B82B02B93",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1146r12p1163r12p1230r13p1250r13p1301r13p1320r13p1341r13p1392r14p1467r15p1514r15p1543r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "d72bc3c983e1ab33312f557f4643ab7f54ea128cb807192ae903b0944197338d",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6ae219d9b54ccde55312537f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Faire du bloc",
+  "setter": "JudeC",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "B98142EAC8964C16ABCFDD514B470E63",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1187r13p1190r12p1254r13p1267r13p1295r13p1300r13p1332r13p1345r14p1447r15p1480r12p1551r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4d42a147d55203beea6e529aa218244b382d6452a80f88034916583fb7104da4",
+  "validation_errors": []
+}

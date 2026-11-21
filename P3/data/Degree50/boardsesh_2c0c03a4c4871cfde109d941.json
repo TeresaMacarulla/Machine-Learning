@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2c0c03a4c4871cfde109d941.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Beta Blocked",
+  "setter": "importedbean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "E2F41EA8A91F4590AE5A20D425076EF5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1175r12p1177r12p1245r13p1246r15p1264r13p1315r13p1336r13p1388r14p1483r15p1521r15p1555r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.89,
+  "ascensionist_count": 9,
+  "quality_average": 4.11,
+  "hold_fingerprint": "6ef65b9e5810e06c555046e91f88cd9888e8dd11c0c5b6240e4d785f37f6b846",
+  "validation_errors": []
+}

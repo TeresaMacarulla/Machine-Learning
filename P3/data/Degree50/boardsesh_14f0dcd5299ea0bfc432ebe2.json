@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_14f0dcd5299ea0bfc432ebe2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Moon rider",
+  "setter": "cmcateer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "FE725B45A1A546FA8510988154ED65CB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1235r13p1254r13p1283r13p1323r13p1391r14p1453r15p1487r15p1504r15p1507r15p1521r15p1522r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "396df310f6349a86b2689a7154de95d92a5ee9663134a511757b5e7e55b4e36f",
+  "validation_errors": []
+}

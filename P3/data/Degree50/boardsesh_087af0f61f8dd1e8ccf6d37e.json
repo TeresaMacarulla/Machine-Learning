@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_087af0f61f8dd1e8ccf6d37e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "lock it off",
+  "setter": "Davo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "134b603d-2b17-48a9-bccf-a5696eef2db9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1447r15p1220r13p1471r15p1267r13p1215r13p1497r15p1511r15p1316r13p1349r13p1380r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "e819e722c9cba69f66ad843e379f93e15d0143f7acd11f49ac253cae5386c2b7",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7f6970de88b199dd226b45ca.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Knuckleheads",
+  "setter": "Riptile",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "C4EC25BDC88341F8B38FDE7A924D9A22",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1163r13p1164r12p1215r13p1264r13p1282r13p1349r13p1380r14p1459r15p1468r15p1502r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.44,
+  "hold_fingerprint": "c200c158ec70a989762d573f61ad06861f0265307f1d59a25b3bfaa54327f9d9",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cf1404f042f01c7bd19c77e6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "unicorn machine",
+  "setter": "alecberarducci",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2BDDB5E7C0404A08AD9AB8AF9BACE82D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1167r12p1169r12p1194r15p1250r13p1263r13p1314r13p1352r13p1387r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8b57076be4245c942873ea58cdb0e38dca67cddb13fc0be71ecff0d89d0c2850",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b0c90ed3845c82ec216f3d54.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Projekt Smak",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "A99B4E69B3FE479F9220DF89CD9AB3E1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1112r12p1193r12p1233r13p1249r13p1321r13p1373r13p1393r14p1459r15p1506r15p1553r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.1,
+  "ascensionist_count": 59,
+  "quality_average": 3.4,
+  "hold_fingerprint": "c680dd770a6d7a6023ba27e74f4623c1bc16a778e3e89069c3d3f1ff40c1b8e4",
+  "validation_errors": []
+}

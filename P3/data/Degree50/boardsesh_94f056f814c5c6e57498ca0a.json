@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_94f056f814c5c6e57498ca0a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "big sock",
+  "setter": "climber_doggo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "22e9874ffcc44abbb0ff5f89d7ba2306",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1137r12p1220r13p1232r13p1266r13p1314r13p1384r14p1453r15p1455r15p1486r15p1511r15p1538r15p1546r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.98,
+  "ascensionist_count": 1775,
+  "quality_average": 3.2,
+  "hold_fingerprint": "4c167f5d45078241228c84e4142093d2b842751e60f966978c516329b8e2c0df",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_536ce0aceb51123bbe354bab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "kebab",
+  "setter": "frodirtbaggins",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "FBEF66E7793C4DA8A5D070A962EF947C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1131r12p1171r15p1198r13p1202r13p1251r13p1288r13p1302r13p1335r13p1385r14p1456r15p1462r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "62b6de4f52a7ed12ccb4e159f9f376621fbb2f0fe2da4a4cad023cc62404b0bb",
+  "validation_errors": []
+}

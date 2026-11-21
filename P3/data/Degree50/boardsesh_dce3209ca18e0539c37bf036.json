@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dce3209ca18e0539c37bf036.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "shortest morpho climb",
+  "setter": "notpeterhu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 0,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "0EEC0E194D954AF0BEDA0E0F8BE1408A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r12p1217r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.29,
+  "ascensionist_count": 8,
+  "quality_average": 4.14,
+  "hold_fingerprint": "a57c20f4e9394600e01da88429e5cbbb38f72be68c26f0989fe29cff1086df29",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f06cf4cac7edb24bf25012cf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "juggy kun-fu",
+  "setter": "ego_xen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "447362BDA8694BE8893C96CF35FBEB3D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1075r15p1155r12p1257r13p1285r15p1292r13p1319r15p1340r13p1387r14p1391r13p1499r15p1518r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.33,
+  "ascensionist_count": 3,
+  "quality_average": 3.33,
+  "hold_fingerprint": "87647ff92ae88f3557eb48dd613ceceb121391fe966d46f1451d2194bdac295b",
+  "validation_errors": []
+}

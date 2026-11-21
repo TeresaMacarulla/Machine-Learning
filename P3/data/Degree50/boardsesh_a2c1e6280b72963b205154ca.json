@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a2c1e6280b72963b205154ca.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Propers proj",
+  "setter": "Lewin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7CC955AF5E974108B15D489219EF4E6F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1138r12p1170r12p1182r13p1230r13p1250r13p1278r13p1346r13p1379r14p1451r15p1473r15p1492r15p1498r15p1556r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0ada62fdca06b49ad7d598b14aa6f1026822cef7b1c700e08cb69f255db4cc11",
+  "validation_errors": []
+}

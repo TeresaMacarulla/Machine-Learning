@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8499021b261c9de654419c28.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "bird on a wire",
+  "setter": "bparzich",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "89806ac73d5944af80e6b43664d629a8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1171r12p1174r12p1257r13p1276r13p1353r13p1359r13p1380r14p1384r13p1450r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.7,
+  "ascensionist_count": 262,
+  "quality_average": 3.79,
+  "hold_fingerprint": "4848c9807b31cef31d353020a9406cf52bb952a5434f02a7853d6aab9ab6d02b",
+  "validation_errors": []
+}

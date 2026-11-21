@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_231c3b1b78d41327fc3780f7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "20kg bench press",
+  "setter": "xlgreen85",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "86F094E249E5404F899701C9DA20D6A6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1115r15p1153r12p1204r13p1236r13p1264r13p1283r13p1318r13p1385r14p1389r14p1454r15p1470r15p1472r15p1521r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.99,
+  "ascensionist_count": 2413,
+  "quality_average": 3.24,
+  "hold_fingerprint": "771f1ef69d960c8908886fcb92d323b56c11bf2b7d304f9d444c2f063c90fb00",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5dc9bb90a3a48a38e73930f7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Swingy end",
+  "setter": "Tuni",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0eef81d49eb94f849248ebf6f8c99497",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r15p1166r12p1236r13p1271r13p1273r13p1306r13p1343r13p1395r14p1454r15p1456r15p1506r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3d0f08aa527d7191065be181bbbb0a69757290e10bf01c237140ca980a03db5b",
+  "validation_errors": []
+}

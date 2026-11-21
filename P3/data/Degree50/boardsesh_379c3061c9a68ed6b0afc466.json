@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_379c3061c9a68ed6b0afc466.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Dr. Oz",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "124A9C032F634DA386597FEFB2ED3571",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1108r15p1143r12p1214r13p1230r13p1286r13p1339r13p1360r13p1395r14p1460r15p1511r15p1568r13p1572r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.1,
+  "ascensionist_count": 21,
+  "quality_average": 3.6699999999999995,
+  "hold_fingerprint": "021d37b3b2df9d70a523efc2de53fbe795862b86fbe5da65bd5aa5489d3507d9",
+  "validation_errors": []
+}

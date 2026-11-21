@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_62558ac5fe9dcb535dd509e5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Right Side Neglect",
+  "setter": "jmcminn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B8567D30E6F24F3FA646ACF521A457B6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1160r12p1226r13p1263r13p1315r13p1330r13p1383r14p1460r15p1461r15p1485r15p1530r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.81,
+  "ascensionist_count": 51,
+  "quality_average": 3.48,
+  "hold_fingerprint": "66577a2541e9692791a580800dc0f27931323f53f11bd6558d9399bbcfd10ea5",
+  "validation_errors": []
+}

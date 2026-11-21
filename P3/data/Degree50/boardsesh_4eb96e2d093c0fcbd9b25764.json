@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4eb96e2d093c0fcbd9b25764.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "FiftyDegree with 50 Degree",
+  "setter": "Steffen_23",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b857710c1b194060a28edd9fef8fc890",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1168r12p1197r13p1214r13p1262r13p1299r13p1307r15p1334r13p1370r13p1389r14p1456r15p1477r12p1501r15p1528r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3274e10be302e36c6036d8420df389aa5f6e1c306b238506d6d82b3307372964",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5f054182756406d423efd54d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "biggy movez",
+  "setter": "RuneS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "e99c08d95f9947ecac978258eeefa703",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1097r15p1221r12p1234r12p1302r13p1332r13p1389r14p1521r15p1570r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0070d213b378d37b3b0260c40060b2299e6d67a6e2ac75ffcb733c82052bc7b5",
+  "validation_errors": []
+}

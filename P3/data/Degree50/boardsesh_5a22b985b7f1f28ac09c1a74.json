@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5a22b985b7f1f28ac09c1a74.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "real-pamplemouse",
+  "setter": "Hangar18Rancho",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "89A8F3CFC5E64A4EA519F4B963C59F70",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1180r12p1185r12p1198r15p1266r13p1268r13p1350r13p1390r14p1470r15p1477r15p1488r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b64fef73b04c2e215ff0669a6764895c72fbea59607150cedc86cfbbb51dd13e",
+  "validation_errors": []
+}

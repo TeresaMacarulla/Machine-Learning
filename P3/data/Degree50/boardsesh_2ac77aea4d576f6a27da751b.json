@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2ac77aea4d576f6a27da751b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Skeletal Worm 2.0",
+  "setter": "nick_dt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "038505AC620B4A0EB2754288E60C9453",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1141r15p1147r12p1199r13p1210r13p1266r13p1278r13p1347r13p1383r14p1502r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "fcd8235d520524323cccf049e16e1f4a5b0f2cb58a664e08d0db0185eee86eaf",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_75aab3f93f07bd5816e1147f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Board Battle Problem 2",
+  "setter": "conor.piercon3",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "5A8055BF2EFD46E1B795E51283F99785",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1148r12p1216r13p1228r13p1245r13p1281r13p1316r13p1387r14p1458r15p1459r15p1465r15p1484r15p1528r15p1531r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c96bf4a1dd56f15f0db960aa5c31e52e3ed5b61442725c58dd12966d19658742",
+  "validation_errors": []
+}

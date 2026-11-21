@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f2210966aa8948f2cac46348.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Crimping basics",
+  "setter": "hendrikcd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "f81fe429425046fcb9505a40931594b8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r12p1166r12p1218r13p1249r13p1267r13p1297r13p1333r13p1364r14p1456r15p1459r15p1469r15p1471r15p1519r15p1521r15p1555r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "edcd38c38dd099d75f918b5055cb871b8b523a15111f8f3edc78fb8e26eface3",
+  "validation_errors": []
+}

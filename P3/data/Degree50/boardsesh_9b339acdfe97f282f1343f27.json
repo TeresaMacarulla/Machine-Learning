@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9b339acdfe97f282f1343f27.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Take A Look Around",
+  "setter": "PJP",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6CBCCC35802146A58CDABADDF95E8C94",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1171r15p1185r12p1204r15p1215r12p1236r13p1252r13p1289r13p1302r13p1337r13p1385r14p1389r14p1468r15p1493r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 8,
+  "quality_average": 4.0,
+  "hold_fingerprint": "8727f7a4c34ae9112d16b797b6bdd5ba7100fbd64ef2d029cc96f043ed51c80d",
+  "validation_errors": []
+}

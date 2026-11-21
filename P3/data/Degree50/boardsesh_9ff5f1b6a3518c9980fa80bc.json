@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9ff5f1b6a3518c9980fa80bc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "CTYI",
+  "setter": "plastictoucher",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "38d5992e-8b81-45fb-91ba-a51127ace874",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r12p1151r12p1184r13p1222r13p1543r13p1291r13p1305r13p1339r13p1541r15p1454r15p1459r15p1104r15p1518r15p1370r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "eb60eba314741a2bfa8b67e1f9280c55dad5d8fd7fb3040d364e348ca0e64130",
+  "validation_errors": []
+}

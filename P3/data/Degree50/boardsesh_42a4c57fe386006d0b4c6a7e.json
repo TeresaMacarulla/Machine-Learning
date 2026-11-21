@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_42a4c57fe386006d0b4c6a7e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Abfahrt",
+  "setter": "Zylinderkopf",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "ee9551ef09744a478ebd626321400bf0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1133r15p1155r12p1168r15p1169r12p1191r15p1223r13p1235r13p1256r13p1286r13p1308r13p1340r13p1374r14p1392r14p1482r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1e5794bc77a4168c39dfecbc2b359ee0b71975d5cec61a00f4089e27dfa14bd5",
+  "validation_errors": []
+}

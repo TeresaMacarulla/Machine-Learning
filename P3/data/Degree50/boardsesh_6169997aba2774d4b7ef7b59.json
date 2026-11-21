@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6169997aba2774d4b7ef7b59.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Standard Protocol",
+  "setter": "purplexpurple",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "C2765264984F48E5AB82CFCDCF991C1E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1187r12p1269r13p1333r13p1388r14p1472r15p1481r15p1506r15p1508r15p1530r15p1559r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.92,
+  "ascensionist_count": 12,
+  "quality_average": 2.67,
+  "hold_fingerprint": "7856ec574b5534bd027620b04a04f7c58a6c4f897da25534fa0bc30b910a6007",
+  "validation_errors": []
+}

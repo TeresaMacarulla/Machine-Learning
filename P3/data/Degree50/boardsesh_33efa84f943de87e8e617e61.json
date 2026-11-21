@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_33efa84f943de87e8e617e61.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "life is like a board of chess",
+  "setter": "ericterral",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "24A28EDDE5A54AA7B88071A536FFB156",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1156r15p1166r15p1213r15p1239r13p1255r13p1268r13p1286r13p1314r13p1351r13p1383r14p1452r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "0801d4660cb9347dd632bb5188c27d0930eb939881d46c15e5a9ec4e1dea21be",
+  "validation_errors": []
+}

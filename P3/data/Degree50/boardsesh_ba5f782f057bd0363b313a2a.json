@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ba5f782f057bd0363b313a2a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "More random forest please",
+  "setter": "fdatri",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "b20abaf2-c70d-4875-be4d-045dc898edd3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1215r13p1297r13p1078r15p1151r15p1162r15p1362r14p1345r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "3d76741ba42101c6d9d5d23b3ea43c9ea98b55d92bc406ab9b85dee52b846129",
+  "validation_errors": []
+}

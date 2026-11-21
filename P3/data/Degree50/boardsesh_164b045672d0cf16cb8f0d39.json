@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_164b045672d0cf16cb8f0d39.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "clickbaiter",
+  "setter": "andrewclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "13FB4E74CD694DD19875091155D63C49",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1147r12p1232r13p1261r13p1297r13p1353r13p1371r14p1459r15p1462r15p1484r15p1504r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "b75f7e5db8cfba14507b5326f02288e0d7bedc9ca4f9bc2df7f10f29b21ff7d6",
+  "validation_errors": []
+}

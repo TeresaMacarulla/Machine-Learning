@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_896bd48dea47423d214eee32.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "50 fahrenheit challenge",
+  "setter": "xiMaarten",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2F271521B79F4A9BB912CBA75C1E33B5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1163r12p1195r12p1247r13p1267r13p1299r13p1302r13p1353r13p1387r14p1485r15p1523r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.92,
+  "ascensionist_count": 42,
+  "quality_average": 3.34,
+  "hold_fingerprint": "627973eeacfb93194480ffce2e0770df9968a21c0f96507504259075576a3e9b",
+  "validation_errors": []
+}

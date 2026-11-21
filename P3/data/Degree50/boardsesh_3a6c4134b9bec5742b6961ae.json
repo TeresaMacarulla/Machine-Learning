@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3a6c4134b9bec5742b6961ae.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "baby feet",
+  "setter": "bscorpiio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "48A9772618954C4B81F749654587F9A5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1157r12p1207r13p1222r13p1273r13p1300r13p1302r13p1331r13p1383r14p1447r15p1515r15p1555r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "75d9044e0b9e3b63739e920e44320d0b5bdca2e97138933eac7f3a25d14edc54",
+  "validation_errors": []
+}

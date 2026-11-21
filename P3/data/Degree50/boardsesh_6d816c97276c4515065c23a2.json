@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6d816c97276c4515065c23a2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Crossant\ud83e\udd50",
+  "setter": "LazooR",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "a1ace9b6b5ed4540936f270522e898a8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1081r15p1083r15p1149r12p1156r15p1202r15p1234r13p1256r13p1274r13p1324r13p1355r13p1371r13p1385r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "5c281216173690c26c07f04b32d2c8a96e80a220f499cfc7323659fe3a13cdb9",
+  "validation_errors": []
+}

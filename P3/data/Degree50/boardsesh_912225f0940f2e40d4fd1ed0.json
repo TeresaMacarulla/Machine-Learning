@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_912225f0940f2e40d4fd1ed0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Brownian Motion",
+  "setter": "nrodgers",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "938d349d227b4a809e774eb7929f84b0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1181r15p1221r13p1234r13p1287r13p1320r13p1357r13p1391r14p1394r14p1454r15p1489r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "523fb23dbba62172365fbf64e1bb3af7dd4825fa3e9276af3c1edf6079de4ad8",
+  "validation_errors": []
+}

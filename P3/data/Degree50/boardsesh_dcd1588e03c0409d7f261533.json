@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dcd1588e03c0409d7f261533.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "No Match For You",
+  "setter": "nickwedge",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7A3029A3CBE84F82A1D2180B7FF29F82",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1145r12p1163r12p1247r13p1319r13p1387r14p1458r15p1521r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "10072419011bb640deb0ad2ce273835227de7306b6c462f7962523fbedbcb0dd",
+  "validation_errors": []
+}

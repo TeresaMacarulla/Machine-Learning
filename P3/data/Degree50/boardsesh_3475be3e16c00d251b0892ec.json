@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3475be3e16c00d251b0892ec.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "combat hang",
+  "setter": "jul789",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "9036792e708643a18c8df3fecef21302",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r15p1144r15p1147r13p1164r13p1179r13p1186r13p1197r15p1201r13p1223r12p1225r12p1248r13p1257r15p1263r13p1292r15p1351r13p1385r14p1460r15p1501r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.67,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "58fb6fe9ab548f5341516ee33cacf9e0952daa93c8cc63b71463ba69f031160e",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ec697d49a39ef25d0832b00f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "big moves for a lil dude",
+  "setter": "OverGripper",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "20D126EC88F746B493701D952AF4813E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r12p1184r13p1250r13p1356r13p1395r14p1457r15p1488r15p1542r13",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "09a77e0b5b95e135c10e74ea7a5739cd21ef883a26180a6105e786b563759d70",
+  "validation_errors": []
+}

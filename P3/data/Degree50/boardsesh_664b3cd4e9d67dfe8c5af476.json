@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_664b3cd4e9d67dfe8c5af476.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "skrips",
+  "setter": "i2345678901",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0F42887606FD41CB86922235B17C028E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r15p1188r12p1200r12p1271r13p1285r13p1302r13p1372r13p1375r13p1377r14p1505r15p1563r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.33,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "b84d7727b6a2375d0c0da9a42bc6dd9aa2274bb8ab9995b2ada09ed7e9bd99f7",
+  "validation_errors": []
+}

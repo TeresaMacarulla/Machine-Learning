@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cdb6badf346ec7eb715e92ff.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Male gaze (original)",
+  "setter": "ilegalalien",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "09472f87-9fdf-46d2-8771-1b082c029b1c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1153r12p1100r15p1131r15p1241r13p1500r15p1191r15p1271r13p1290r13p1286r13p1242r15p1355r13p1352r13p1384r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "ded25ae4cc759c0e269d8ceed962f5df6cd118544b1f8a7c0c25be277125de4a",
+  "validation_errors": []
+}

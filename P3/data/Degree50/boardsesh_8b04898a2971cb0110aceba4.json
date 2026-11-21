@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8b04898a2971cb0110aceba4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "pinch train0",
+  "setter": "rexchiwing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "46D619A3A3B541C1A68C79B9838513CD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1131r15p1148r12p1169r15p1181r15p1183r15p1186r12p1212r15p1216r13p1234r15p1254r13p1283r13p1285r13p1332r13p1367r14p1452r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.95,
+  "ascensionist_count": 40,
+  "quality_average": 3.3600000000000003,
+  "hold_fingerprint": "e2fb7ef6a51c045f8ca7e999d7d0433586086455fcc21aed2808855110cfb73f",
+  "validation_errors": []
+}

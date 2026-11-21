@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1cccbd341addfa1302c606b9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Swarm",
+  "setter": "OliverBarry",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "db157aace4ad49e281a73a743cfdcbcf",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1161r12p1198r13p1212r13p1233r13p1247r13p1300r13p1319r13p1353r13p1387r14p1460r15p1464r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b30ffd154e3a06a7162bc48efa05bc51131e929c254c8a91a7e0ebfc54ba9594",
+  "validation_errors": []
+}

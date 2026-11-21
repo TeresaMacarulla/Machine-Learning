@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f2dcc1855ed9a39bd4d0d359.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "\uc6b0\uc720",
+  "setter": "cozmo1234",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "48CED5DF9D354446A120DB1ECF5BA948",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1270r12p1301r12p1338r13p1373r13p1392r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f8a249f7aed4abf6f520d8aea8d2c6b5b89c7090aa73f52181f348840582adb0",
+  "validation_errors": []
+}

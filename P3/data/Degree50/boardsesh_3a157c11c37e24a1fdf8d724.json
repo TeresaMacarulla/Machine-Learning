@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3a157c11c37e24a1fdf8d724.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "V3 for the tillerman",
+  "setter": "lylagrice",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "83A44C064A3645E5A7D2DA946C93EBA5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1151r15p1164r12p1200r12p1234r13p1272r13p1302r13p1350r14p1353r14p1469r15p1470r15p1516r15p1543r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.25,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "c80e0f7ef1a8cf42d9cf030e70fa0ecb3031812e3ea4628282de3fd4ff78bff2",
+  "validation_errors": []
+}

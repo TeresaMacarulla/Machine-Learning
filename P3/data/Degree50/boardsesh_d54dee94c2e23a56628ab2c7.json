@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d54dee94c2e23a56628ab2c7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "po-TAY-toe",
+  "setter": "sfarley",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "230AC73DA18F4DCDAE0C783C55623E2B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1162r15p1182r15p1184r12p1201r12p1235r13p1273r13p1303r13p1304r13p1371r13p1386r14p1550r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.89,
+  "ascensionist_count": 19,
+  "quality_average": 3.4200000000000004,
+  "hold_fingerprint": "0704435b0f142dba29fc3461535229bddc875cfc7e1ab7074e6251c08a453373",
+  "validation_errors": []
+}

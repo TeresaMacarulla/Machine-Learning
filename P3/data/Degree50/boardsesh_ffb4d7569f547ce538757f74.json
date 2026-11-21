@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ffb4d7569f547ce538757f74.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Dr. Pimple Popper",
+  "setter": "christoph.braeuer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "49061ECE2E024E0DAA7641B7232AB54E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1216r12p1222r12p1285r13p1291r13p1354r13p1366r14p1479r15p1490r15p1535r15p1568r15p1570r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.99,
+  "ascensionist_count": 161,
+  "quality_average": 3.2599999999999993,
+  "hold_fingerprint": "690379a363988048b8f50c9b1c9a562499e5dbac355401a7866f384e9ba23dd4",
+  "validation_errors": []
+}

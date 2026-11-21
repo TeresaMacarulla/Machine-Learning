@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6081a214b899e7e7342eeb59.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Drone Heel",
+  "setter": "Jorn0910",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "028ba9833a224301a39f9723a01a3004",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1102r12p1120r15p1183r12p1187r13p1190r15p1269r13p1305r13p1353r13p1380r14p1383r13p1532r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "62f1710375d9a9d3c7084f2ac13d8d6b87330d7da4c6a337bb15597079ffc643",
+  "validation_errors": []
+}

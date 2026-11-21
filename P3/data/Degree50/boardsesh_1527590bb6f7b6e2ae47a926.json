@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1527590bb6f7b6e2ae47a926.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "plinko balls",
+  "setter": "woodywanker",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "AF0A73798F624154940C1C3500033A20",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1148r12p1238r13p1254r13p1291r13p1372r13p1388r14p1457r15p1461r15p1499r15p1513r13",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 12,
+  "quality_average": 3.33,
+  "hold_fingerprint": "db455933905052bef6c3514b2bcfa9fb2864a20a03f726fcb09f3596e44ae983",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2dd8027d01e3d18f20d8ba95.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "stokes reibung",
+  "setter": "derwelt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0fa8926964a740a7aad2baf0a77b47f1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1167r12p1233r13p1265r13p1318r13p1351r13p1389r14p1452r15p1469r15p1506r15p1513r15p1551r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 17,
+  "quality_average": 3.53,
+  "hold_fingerprint": "1ea9ac5ab7d689201f6ca01ed5ac5355b32127a7874b8062e15e03b53979f07b",
+  "validation_errors": []
+}

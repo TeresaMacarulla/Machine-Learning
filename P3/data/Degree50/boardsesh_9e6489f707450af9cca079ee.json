@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9e6489f707450af9cca079ee.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "Misters Before Sisters",
+  "setter": "griffinwhiteside",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "d556796f89744db2b7de0ea37960ebea",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1112r12p1176r12p1199r13p1283r13p1320r13p1352r13p1372r14p1462r15p1465r15p1510r15p1532r15p1539r13",
+  "display_difficulty": 30.0,
+  "difficulty_average": 29.92,
+  "ascensionist_count": 270,
+  "quality_average": 3.28,
+  "hold_fingerprint": "4ec044fcbc9213fe16b5770fd3ccdf11fe57f7845a477c7d823e0f2bef1c3b8f",
+  "validation_errors": []
+}

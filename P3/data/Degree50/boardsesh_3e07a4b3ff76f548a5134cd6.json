@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3e07a4b3ff76f548a5134cd6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "yanmar",
+  "setter": "Saltydogbouldering",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "D2CFB4AF994D4FB8B14C6224D5256EC1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1138r12p1169r12p1218r13p1248r13p1301r13p1331r13p1383r14p1453r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.57,
+  "hold_fingerprint": "a6bd3a417feef88f8a715610d5616c5a5bea0aeb01cf37cef6c54246504b1f80",
+  "validation_errors": []
+}

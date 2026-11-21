@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c19b1d48d8a769fb239de194.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "group therapy 7x10 edit",
+  "setter": "hwilly",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4ee4ff9a02e049ed9f556345899fcc7c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r15p1149r15p1215r12p1236r12p1283r13p1287r13p1319r13p1334r13p1354r13p1389r14p1495r15p1515r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "89b4ad6b3901957614c49cb9315107e2259cf21f8222efba2ac91381b78043d9",
+  "validation_errors": []
+}

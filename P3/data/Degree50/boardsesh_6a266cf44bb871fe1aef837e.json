@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6a266cf44bb871fe1aef837e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Flumbo",
+  "setter": "Elihamilton",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "ebc06c07-b94b-4eb6-b050-39b8f5e60a36",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1387r14p1093r15p1262r13p1388r14p1214r12p1144r12p1317r13p1365r13p1097r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.29,
+  "ascensionist_count": 11,
+  "quality_average": 4.43,
+  "hold_fingerprint": "9c45b8065231adc8043ee63570718a49307bcd41fd7d47556bd5262a79479772",
+  "validation_errors": []
+}

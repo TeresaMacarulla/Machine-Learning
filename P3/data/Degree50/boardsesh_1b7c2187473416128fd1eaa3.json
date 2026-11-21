@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1b7c2187473416128fd1eaa3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "I left the stove off",
+  "setter": "gabvisenio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "B954A9654D2C4DC8888C03A12DECDA12",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1130r15p1155r12p1201r13p1202r13p1205r13p1215r13p1267r13p1317r13p1353r13p1388r14p1450r15p1452r15p1453r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.08,
+  "ascensionist_count": 13,
+  "quality_average": 3.46,
+  "hold_fingerprint": "2bbb27074fa959c68615a72ca8011c1f02c536e9bc5ca6c1f6063b6a82dbaac4",
+  "validation_errors": []
+}

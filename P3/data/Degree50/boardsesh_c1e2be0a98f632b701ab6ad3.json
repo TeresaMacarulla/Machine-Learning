@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c1e2be0a98f632b701ab6ad3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "ONDRAs KNEE",
+  "setter": "Thatsprettybrad",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0DEEB9CA10C1413B889FA4E96F169094",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1184r13p1201r13p1214r13p1264r13p1265r13p1333r13p1334r13p1387r14p1452r15p1468r15p1503r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e6dd2ba069b15213ac290accaca6dd9fdc62baedfc89d348df4a437d341737e3",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2f77ed56a43bcd73b4768ba8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "burly",
+  "setter": "eltigre",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "275496E3B1F84A34844FA805835370C2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1166r15p1171r15p1187r12p1191r15p1216r15p1250r13p1254r13p1320r13p1358r13p1391r14p1471r15p1482r15p1553r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.44,
+  "hold_fingerprint": "223d15dc84dfc2224fbf68625511e4248289fc771cb3b3037249d2c809da6536",
+  "validation_errors": []
+}

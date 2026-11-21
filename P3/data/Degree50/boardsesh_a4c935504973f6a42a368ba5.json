@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a4c935504973f6a42a368ba5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "prof BN",
+  "setter": "campistron",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "C4729603AC8C4879A6141FA2E5E00C68",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1177r13p1230r13p1250r13p1283r13p1320r13p1372r14p1467r15p1483r15p1530r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.8,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "c7d9a2c578af4d8fc3cc369e72df2ee9cada98dd367401382c5349f953ae10c0",
+  "validation_errors": []
+}

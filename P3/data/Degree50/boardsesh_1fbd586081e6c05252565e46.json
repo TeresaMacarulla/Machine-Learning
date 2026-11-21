@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1fbd586081e6c05252565e46.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Cive Diving Simulator",
+  "setter": "maxd122",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "a9f808e8-f796-46af-bf5b-2ceeb7a9f6c9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1128r13p1089r15p1161r13p1229r13p1267r13p1269r13p1273r13p1395r14p1340r13p1532r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 8,
+  "quality_average": 5.0,
+  "hold_fingerprint": "b081bbf63f9b96683307e249f16bc9fa9b1072883a60966e149569bd6ec166e5",
+  "validation_errors": []
+}

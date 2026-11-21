@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ac3b78bc7995c149484f1106.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Highgarden Direct",
+  "setter": "Chris.Schweiger",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "ADDEC9773B2841A0A0C8564F7F3430E3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1142r15p1178r12p1195r12p1266r13p1269r13p1387r14p1461r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.0,
+  "hold_fingerprint": "0c1e5e2ce4b1eaf081cea19f850705600b08b7682cfd0e8f4b9d1923203522ff",
+  "validation_errors": []
+}

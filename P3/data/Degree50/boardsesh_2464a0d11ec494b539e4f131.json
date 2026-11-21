@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2464a0d11ec494b539e4f131.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "experiment #45",
+  "setter": "adoherty8a",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "90057E7C285441A7BA7CF5C072B16932",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1075r15p1173r12p1242r13p1274r13p1326r13p1340r13p1391r14p1482r15p1500r15p1516r15p1542r15p1560r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 6,
+  "quality_average": 4.0,
+  "hold_fingerprint": "2411a6d32bc1985b3c91ee00d51c27a431bac093ad78b53f6edbb6da4e7836e1",
+  "validation_errors": []
+}

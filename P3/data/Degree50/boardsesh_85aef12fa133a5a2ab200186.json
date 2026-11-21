@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_85aef12fa133a5a2ab200186.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "sakura",
+  "setter": "ryotaroro",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "27298275-7124-43f1-abdb-57e68d464287",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1177r12p1085r15p1465r15p1197r13p1214r13p1496r15p1252r13p1269r13p1289r13p1532r15p1339r13p1359r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 1.0,
+  "hold_fingerprint": "387eb20cb34ce91e7895fbfc0def1a437f33cd71450d96b0d5cfefa8b5a5015b",
+  "validation_errors": []
+}

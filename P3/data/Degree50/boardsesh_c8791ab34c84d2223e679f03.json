@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c8791ab34c84d2223e679f03.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Scotch",
+  "setter": "jrfaynor",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "00385C5A52E247E9A91710EF5840B9B8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r15p1169r12p1174r12p1240r13p1289r13p1343r13p1359r13p1394r14p1451r15p1527r15p1554r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.0,
+  "hold_fingerprint": "990b2f30c5cbaf0f4f90f0fb7a515a8359c2c84125cad0cae22f6df0f7f75228",
+  "validation_errors": []
+}

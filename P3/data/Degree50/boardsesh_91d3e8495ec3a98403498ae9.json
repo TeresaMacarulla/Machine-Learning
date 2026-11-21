@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_91d3e8495ec3a98403498ae9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "V2 Fingers",
+  "setter": "VadimDelakian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "8842696E03A54A69A3403B9035845F62",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r15p1203r13p1287r13p1322r13p1372r14p1497r12p1513r12p1542r13p1543r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 22,
+  "quality_average": 3.18,
+  "hold_fingerprint": "8171194da1e4939b276804aa5384405de67a751de5e564da23efe1717fae22e1",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f9dad7aff0b014a5cb5515bd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "awkward encounters",
+  "setter": "bkbskilterboard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "E70D70A0794746529148840A3E18F8BE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1118r15p1185r12p1199r12p1236r13p1270r13p1306r13p1337r13p1373r13p1391r14p1392r14p1489r15p1495r15p1496r15p1532r15p1534r15p1549r15p1580r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.99,
+  "ascensionist_count": 101,
+  "quality_average": 3.38,
+  "hold_fingerprint": "c56e3afdfb155c1b1b1c680f3a55aacb9b2c955aaadfc36bcaf55d0dbd6d8047",
+  "validation_errors": []
+}

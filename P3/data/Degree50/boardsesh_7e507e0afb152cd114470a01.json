@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7e507e0afb152cd114470a01.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": " leapfrog ",
+  "setter": "Austin_explores",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "15419f71-c914-48a8-a670-419dd4c0c437",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1114r15p1107r12p1127r12p1175r13p1244r13p1311r13p1381r13p1349r13p1353r13p1390r14p1395r14p1318r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "18521cb59c71a20f7d44bd55c5f8003a41c2bd4b6e4de0bc534a4392a5553ac0",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_58b5cabbf3cc5946ab91e40d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "JYRoute1",
+  "setter": "JYoung",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "3c24c897bc994c45aa0dfe5f5e009af5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r15p1125r12p1127r15p1163r12p1200r13p1243r15p1253r13p1299r13p1308r15p1315r13p1356r13p1367r13p1373r13p1394r14p1470r15p1557r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0b7c1835c7064bd331a1ba65de34311e0446eb48cc508b71df84a7ef6b724378",
+  "validation_errors": []
+}

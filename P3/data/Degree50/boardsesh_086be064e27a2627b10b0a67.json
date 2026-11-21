@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_086be064e27a2627b10b0a67.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "No, my fridge is walking",
+  "setter": "t_smezy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "5980ac5f-92ff-4f59-a517-af644c27350e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1215r13p1114r12p1210r13p1485r15p1468r15p1278r13p1345r13p1379r14p1575r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.67,
+  "ascensionist_count": 3,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7512a267ad705bfb925f35062570edd4fe9c06884e61a14abb48bab230d5f34a",
+  "validation_errors": []
+}

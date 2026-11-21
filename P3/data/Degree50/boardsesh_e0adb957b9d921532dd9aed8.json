@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e0adb957b9d921532dd9aed8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "jump for it",
+  "setter": "Emmaclimb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 10
+  },
+  "source": "boardsesh",
+  "source_uuid": "3D4A66B3219A4B15ADA84B3562167359",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1187r12p1188r12p1219r13p1232r13p1267r13p1315r13p1382r14p1383r14p1452r15p1455r15p1469r15p1487r15p1494r15p1512r15p1529r15p1541r15p1558r15p1565r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9e8764e57bc1d48fec1a0e809f4e74d9dcff154d4c0dd81235cba6d4cfef5f48",
+  "validation_errors": []
+}

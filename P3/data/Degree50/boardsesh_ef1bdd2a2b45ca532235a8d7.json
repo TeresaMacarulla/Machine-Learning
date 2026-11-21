@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ef1bdd2a2b45ca532235a8d7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Array of misbehaviour",
+  "setter": "Johann1400",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "d08b0735-c562-455e-be25-387e37a11b7a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1230r13p1248r13p1266r13p1320r13p1371r13p1392r14p1145r12p1083r15p1086r15p1484r15p1511r15p1513r15p1547r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "a15b09a54674d36c5b72f8a07b13bf0c83a8fb50e8a6804b06f6db0472036837",
+  "validation_errors": []
+}

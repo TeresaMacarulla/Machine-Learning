@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_99a76b3f0be2f2c0dbe8859a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Long for it",
+  "setter": "yalymodan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "d3be9c39-d6b5-4826-a067-c794645bdb9d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1254r13p1340r13p1541r15p1386r14p1081r15p1515r15p1196r13p1285r13p1148r12p1129r12p1487r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "02b6e7fc1a4715f6262646d7557c9e98b35da2563430b8719a7c1140fe6e368c",
+  "validation_errors": []
+}

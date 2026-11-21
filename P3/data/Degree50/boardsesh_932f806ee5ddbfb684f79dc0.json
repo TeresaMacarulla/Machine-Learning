@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_932f806ee5ddbfb684f79dc0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "The Trebuchet",
+  "setter": "JustReach",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9E8D12FDF95847D3AEA1E7FEFE66E8F0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r12p1149r12p1233r13p1280r13p1383r14p1456r15p1472r15p1511r15p1586r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f591367278d72e2a228cadcd3759ab1c3481870c8c0638e3ef5ff027e49d18a1",
+  "validation_errors": []
+}

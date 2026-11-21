@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bf36d6d2d9eb7725e081be7e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "under over and again",
+  "setter": "bebankes21",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "D96602EE615C4656B43603415E884C51",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1167r12p1169r12p1234r13p1268r13p1299r13p1353r13p1389r14p1451r15p1454r15p1513r15p1558r15p1561r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 14,
+  "quality_average": 3.43,
+  "hold_fingerprint": "06b13aefa536b2f7f1bfad1c73bc620fef6f93b617ccf24bf5a88fa7a306a36e",
+  "validation_errors": []
+}

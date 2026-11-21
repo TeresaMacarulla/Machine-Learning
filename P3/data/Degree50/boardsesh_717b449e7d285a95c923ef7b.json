@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_717b449e7d285a95c923ef7b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Waiting for JMSAG",
+  "setter": "dave77",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "7168BB03644C486289FC6FED68675F19",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1214r13p1216r13p1283r13p1321r13p1324r13p1325r13p1338r13p1395r14p1459r15p1461r15p1506r15p1534r15p1536r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "da6e4ad25e479f598ffba53d6ea719aea6e3f52a891dce1cc5b4ab8373f338e2",
+  "validation_errors": []
+}

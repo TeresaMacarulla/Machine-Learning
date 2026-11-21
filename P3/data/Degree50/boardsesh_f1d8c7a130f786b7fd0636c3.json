@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f1d8c7a130f786b7fd0636c3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "echo",
+  "setter": "rogue344t",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "fe7603a466ad4d04b30d3cb607630a5c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1203r12p1216r13p1229r13p1250r13p1315r13p1387r14p1510r15p1515r12",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "098790acf796368db1e724b190f2d8c5adb33986e465bb4e798e4ea7ebcd51ab",
+  "validation_errors": []
+}

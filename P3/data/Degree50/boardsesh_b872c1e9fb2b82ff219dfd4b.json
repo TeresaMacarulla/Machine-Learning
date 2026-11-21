@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b872c1e9fb2b82ff219dfd4b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "flowShow",
+  "setter": "Sebifail",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "03af849d05bd4c1caaa3ebd64bbc1518",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1162r12p1208r15p1229r13p1234r13p1286r13p1308r13p1359r13p1395r14p1457r15p1483r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "fd2fd2c02b6ce1971fe4e147cd9c7b92fc99df6ed67a6ec9c818638e8e99ae33",
+  "validation_errors": []
+}

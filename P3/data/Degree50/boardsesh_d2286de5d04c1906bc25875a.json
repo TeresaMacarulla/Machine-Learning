@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d2286de5d04c1906bc25875a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "JM-Steil",
+  "setter": "JonasMygiakis",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "14A8BF8232014983B174B009EB096F87",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1145r12p1231r13p1267r13p1310r15p1320r13p1321r13p1371r13p1392r14p1506r15p1532r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.57,
+  "hold_fingerprint": "e37a36131d5a60639f6e80361bdfbdf5225e9cb3edb3f5f880bf995b824d8dfd",
+  "validation_errors": []
+}

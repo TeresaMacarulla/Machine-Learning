@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ff63175660f29e565242d96a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Crouching Tiger V8",
+  "setter": "austinsivo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C3D80162F72541F6B12398C5F902E3B8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1197r15p1217r15p1218r13p1255r13p1286r13p1304r13p1334r13p1368r13p1383r14p1516r15p1547r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 945,
+  "quality_average": 3.33,
+  "hold_fingerprint": "6df16e8745bc1db29d329f4b0adbfa9e2a67b15f5d2968cab3ab544d290b20cb",
+  "validation_errors": []
+}

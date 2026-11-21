@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_94dca0548bc82fab86ea8c33.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Remote Controlled",
+  "setter": "JonBrock",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "451D6DACBFB94912A942B76996B883D4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1183r12p1252r13p1337r13p1391r14p1469r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "80910b6bd57e00f50ac5f4fc05db32c830913506f0e5cd3cdeaa85d1b78910a9",
+  "validation_errors": []
+}

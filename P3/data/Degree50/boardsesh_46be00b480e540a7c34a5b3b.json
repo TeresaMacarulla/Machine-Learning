@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_46be00b480e540a7c34a5b3b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Weezing",
+  "setter": "JLDyer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "9B28292FFF97465FBA5817DD31AAAA91",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r15p1111r12p1147r12p1160r13p1215r13p1248r13p1281r13p1319r13p1387r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "067ec87ec7bd26e04605fe3e36a91ce006280782c862cc2acdc6ce05e448b81c",
+  "validation_errors": []
+}

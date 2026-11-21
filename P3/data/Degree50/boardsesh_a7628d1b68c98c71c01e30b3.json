@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a7628d1b68c98c71c01e30b3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "JugGlar",
+  "setter": "J8aG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "c9f49984afba41619398c290c4d9ab7d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1120r12p1201r12p1235r13p1241r13p1308r13p1393r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 21,
+  "quality_average": 3.3999999999999995,
+  "hold_fingerprint": "4cd5eafab760b83f355221fc523d74a50e68954aeff815277f4991d0dd12146c",
+  "validation_errors": []
+}

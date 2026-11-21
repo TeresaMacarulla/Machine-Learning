@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8fa0e73765c5967ca67f2cf6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Click Claim ",
+  "setter": "jkassay",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "dd7f1c81-9225-419a-8390-60ff33c491b3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1192r12p1143r12p1108r15p1210r13p1245r13p1161r15p1501r15p1296r13p1315r13p1331r13p1546r15p1547r15p1382r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.33,
+  "ascensionist_count": 7,
+  "quality_average": 4.0,
+  "hold_fingerprint": "54cf32a38d6482307fade6ec67bc2f7558890ee9227fdf8a0782cc300c695b86",
+  "validation_errors": []
+}

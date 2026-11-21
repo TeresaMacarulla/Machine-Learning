@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_04e2b5a677ecbd7cc96f185d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "bourrinland ",
+  "setter": "m.rouelibre",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1e929886-8c54-4641-b637-65f14340f51a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1447r15p1258r13p1137r15p1305r13p1321r13p1299r13p1523r15p1382r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.5,
+  "ascensionist_count": 3,
+  "quality_average": 4.5,
+  "hold_fingerprint": "7d65563ab6cb4e14834f2a711c5cd00bb1b682421ee8534152c9f898a7cfc213",
+  "validation_errors": []
+}

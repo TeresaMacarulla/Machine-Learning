@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a22fe2e84354be6bfb0628af.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "smoke",
+  "setter": "lorenz45",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "10748d3d-f26e-4cef-a9a0-f95de7243770",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r12p1198r12p1254r13p1283r13p1285r13p1314r13p1350r13p1379r14p1494r15p1244r15p1511r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 4.0,
+  "hold_fingerprint": "6e28b56dcb314fddca76c5ab7e3d6dc3b9c0634145d1c570b6516c1e16166e18",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e1666d5a19564fd1fd4c861d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Center Shock",
+  "setter": "fabi7i77",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "995AD767187942D78AF85DA0C01B14F2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1134r12p1139r12p1202r13p1210r15p1280r13p1283r13p1312r13p1368r13p1389r14p1454r15p1523r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.86,
+  "hold_fingerprint": "492057333c50d86f49a2ed7febe4b63994267dd6d5c8cd4de49afe21b4b717cc",
+  "validation_errors": []
+}

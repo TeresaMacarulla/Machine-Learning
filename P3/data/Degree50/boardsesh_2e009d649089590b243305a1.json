@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2e009d649089590b243305a1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "crunch",
+  "setter": "thijs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "A3BF88BB571E452C9F7EC711319AC7EC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1129r12p1132r12p1235r13p1254r13p1291r13p1326r13p1395r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.93,
+  "ascensionist_count": 16,
+  "quality_average": 3.4,
+  "hold_fingerprint": "894657edc401a3c22ad9b6a60c2fef97877fd803e146b6b7cd61531d78950ca8",
+  "validation_errors": []
+}

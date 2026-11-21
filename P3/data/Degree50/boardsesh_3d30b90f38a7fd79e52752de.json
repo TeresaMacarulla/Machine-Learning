@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3d30b90f38a7fd79e52752de.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "kran @hyaenen",
+  "setter": "DimitarKarski",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b8baee28f9fe47e3b711db377f8a77b2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1107r15p1126r12p1143r12p1211r13p1228r13p1300r13p1332r13p1387r14p1493r15p1532r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "024d89a47460ac30ef7cecf9b2b89be99773cc92cfd49e5baa484caea1deb2f7",
+  "validation_errors": []
+}

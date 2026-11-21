@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6d67f86ea3d484a80bc27d85.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Tilter",
+  "setter": "Groupert",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "c0800dc147414271a7c5fd51e67cc9bd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1203r13p1238r13p1302r13p1313r13p1316r13p1347r13p1379r14p1450r15p1451r15p1452r15p1499r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "30e07ff6a6d859be991fff6e725301c6541c195cfd0a0b9615d4c6c0f8cb477b",
+  "validation_errors": []
+}

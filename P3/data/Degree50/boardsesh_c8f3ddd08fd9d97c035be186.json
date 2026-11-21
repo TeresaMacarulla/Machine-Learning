@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c8f3ddd08fd9d97c035be186.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "pinch evasion",
+  "setter": "CrunchSamways",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9A99B6138EFF445BAAB1B85DA97D97C2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1191r15p1245r12p1247r12p1274r15p1288r13p1291r13p1302r13p1342r13p1395r14p1519r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "9c82928bf09cf2366d08e1a03527a9281255f468f3242dc96534f7712be30887",
+  "validation_errors": []
+}

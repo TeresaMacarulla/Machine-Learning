@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d9ac7b1842ba2e427ead0a65.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "WDL",
+  "setter": "Arne",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "21b83bd58a214356b55e8bd92b947bbb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1083r15p1182r12p1184r12p1250r13p1252r13p1334r13p1338r13p1387r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.0,
+  "hold_fingerprint": "473248783117e2d5cc3f10a3da3d314472278cde80ef755caa6317c47ba57ef0",
+  "validation_errors": []
+}

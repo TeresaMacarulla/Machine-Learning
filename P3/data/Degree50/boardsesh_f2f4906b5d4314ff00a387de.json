@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f2f4906b5d4314ff00a387de.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "breakingbeta",
+  "setter": "guillestk2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "70804E12EFA04D66AABA431869395CF4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1134r12p1222r13p1233r13p1235r13p1264r13p1332r13p1380r14p1449r15p1520r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "7fe8b402cfb7182ea22dd95238522708a5519f533e7c373375f6a29bdba4ce1d",
+  "validation_errors": []
+}

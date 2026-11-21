@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7eafc36d404a39b6b9675d0a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "pretty owl",
+  "setter": "smedegaard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4be2c435196b442c95201a1ec96d150b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r12p1184r13p1187r12p1271r13p1272r13p1321r13p1351r13p1354r13p1383r14p1453r15p1480r15p1534r15p1558r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.36,
+  "hold_fingerprint": "7ecc811c13769f78ebb6075afb5ac9fed6748a1d531c5d34c8d397690527560d",
+  "validation_errors": []
+}

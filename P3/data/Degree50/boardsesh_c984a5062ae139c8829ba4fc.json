@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c984a5062ae139c8829ba4fc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Intertia",
+  "setter": "J8aG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "dfe3f8e407c74fb3bfebd50372c06a0a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r15p1166r12p1238r13p1306r13p1308r13p1392r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6e8a339e28df21dd138274f698a9dcd9310dd9bce93e9baf4687d63312bfec04",
+  "validation_errors": []
+}

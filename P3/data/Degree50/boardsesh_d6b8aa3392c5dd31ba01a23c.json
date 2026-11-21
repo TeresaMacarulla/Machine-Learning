@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d6b8aa3392c5dd31ba01a23c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "TensionToi",
+  "setter": "jy2tong",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "23A35859D84449AD8B1C749CD688B34E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1146r12p1161r15p1163r12p1232r13p1238r13p1270r13p1319r13p1322r13p1388r14p1476r15p1498r15p1513r15p1531r15p1533r15p1569r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.67,
+  "ascensionist_count": 3,
+  "quality_average": 4.67,
+  "hold_fingerprint": "e6816572d9394fc258f2efbdc0ed98cad12141cd341583fe3ae6c44c4a51fe33",
+  "validation_errors": []
+}

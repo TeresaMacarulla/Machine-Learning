@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a339ae00a37cdbac708ebba5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "target dog",
+  "setter": "Constant_Classics",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "6B0F4D3BCDD24AB1B63A0870518C9806",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r15p1161r12p1178r12p1198r13p1263r13p1295r13p1297r13p1345r13p1382r14p1495r15p1539r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "69a0059b70520a405ec59a3f913ae611a0e1f8236bfdc7a11b06034a777b247c",
+  "validation_errors": []
+}

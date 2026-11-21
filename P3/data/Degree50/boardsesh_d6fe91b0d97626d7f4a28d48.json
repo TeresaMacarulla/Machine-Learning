@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d6fe91b0d97626d7f4a28d48.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "stretch and cross",
+  "setter": "yono",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "1f0bb0c55c874f21977c63f90c012f91",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1188r12p1191r12p1258r13p1307r13p1341r13p1372r13p1383r14p1385r14p1389r13p1447r15p1450r15p1481r15p1534r15p1540r15p1557r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 14,
+  "quality_average": 2.75,
+  "hold_fingerprint": "16958d88440d246efaa14b69f80dcd3ac5c504bf70cdf80d8bb3bca30e69eff7",
+  "validation_errors": []
+}

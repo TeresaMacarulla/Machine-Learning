@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fb3fc718ca8e537c1f42bba5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "short but sweet extension",
+  "setter": "jlueth0518",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "BBDE284DFBF94817A9A30988CC2D1940",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r15p1166r12p1214r13p1217r13p1221r15p1283r13p1287r13p1309r15p1320r13p1338r13p1373r13p1395r14p1456r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "4070f4c9282c11ce10ac87189ba65a4da6f5fe8f67717c4af98c815866452ce9",
+  "validation_errors": []
+}

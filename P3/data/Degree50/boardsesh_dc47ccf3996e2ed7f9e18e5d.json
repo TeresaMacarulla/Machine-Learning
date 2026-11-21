@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dc47ccf3996e2ed7f9e18e5d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "CrossingGuard",
+  "setter": "sterling.movray",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "19F7CB2B8183498EA7D85170CA4AE384",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r12p1144r12p1213r13p1246r13p1296r13p1328r13p1379r14p1464r15p1474r15p1477r15p1537r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "09a32bee0ca8bc9b28529688db754d325b0fa9a31e35f2dbc805e4f4622d38f8",
+  "validation_errors": []
+}

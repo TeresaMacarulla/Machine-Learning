@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_90c66f4cfbf9752ed747a672.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Little feet only",
+  "setter": "ben.wilko",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "e86181d74a384c69a740306932d23e67",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1189r12p1220r13p1258r13p1289r13p1305r13p1336r13p1369r13p1385r14p1449r15p1491r15p1506r15p1516r15p1531r15p1534r15p1560r15p1575r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4923798d20fab2975134910f03d0090716dc05e7c8a49ee70f70a5a7ff371751",
+  "validation_errors": []
+}

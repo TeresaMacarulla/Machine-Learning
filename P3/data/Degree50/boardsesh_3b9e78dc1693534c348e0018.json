@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3b9e78dc1693534c348e0018.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "shoulder blow",
+  "setter": "Raichi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "2c591760141649618f07bd7ed5ccf3eb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1154r15p1217r12p1254r12p1302r13p1315r13p1352r13p1379r14p1382r13p1506r15p1521r15p1556r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.75,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "ad2d5a12fd204b4830ad9f61b5853a488ea7980f97d893aeae7cb2a5cf159b68",
+  "validation_errors": []
+}

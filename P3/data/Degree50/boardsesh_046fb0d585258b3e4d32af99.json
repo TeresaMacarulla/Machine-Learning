@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_046fb0d585258b3e4d32af99.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "understaffed",
+  "setter": "mikkelsommer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "25A60AB4C61143B5AF2F899E643E09A9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1129r12p1163r12p1215r13p1221r15p1234r13p1302r13p1356r13p1387r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 210,
+  "quality_average": 3.38,
+  "hold_fingerprint": "55d089378187bcd89c3f3c226cc887310d6c8a332a8dc1dcdaf48963a119dbb0",
+  "validation_errors": []
+}

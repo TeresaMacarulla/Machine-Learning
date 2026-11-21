@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5c7737a53fed37fc0cce4a5c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "stay tighter",
+  "setter": "Lewin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1089240FFB954BB191416A9009FECAB5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1178r12p1180r12p1230r13p1235r13p1286r13p1339r13p1351r13p1382r14p1465r15p1530r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.29,
+  "hold_fingerprint": "f9f6a87904deb4e015cba99afd4780d4e3c4b91216b8ceff1cc2033e7785f951",
+  "validation_errors": []
+}

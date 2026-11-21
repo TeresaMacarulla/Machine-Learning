@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_67ecd5169b6b62e8171c73de.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "injury maxing V2.0",
+  "setter": "marinobanino",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0e224fe877714d4b9ef2e902c3d2d220",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1268r12p1302r13p1387r14p1494r15p1498r15p1532r12",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "526b0c7a2e389c641bc1a98eb7750c5cd2cb414fa3edb36b38fb18ad6cc6c1b4",
+  "validation_errors": []
+}

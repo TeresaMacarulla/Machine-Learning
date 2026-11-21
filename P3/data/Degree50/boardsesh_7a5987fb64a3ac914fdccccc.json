@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7a5987fb64a3ac914fdccccc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "cinnabunz",
+  "setter": "brixly",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "F2749EDB6E704F7A8F6D3AF87CC6183F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1133r15p1142r12p1197r13p1231r13p1302r13p1332r13p1383r14p1461r15p1464r15p1467r15p1514r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "ee788c33c71b62d9a2c76b158bbfdf5d5dd080c0a01718ca2419a72e034bb8dc",
+  "validation_errors": []
+}

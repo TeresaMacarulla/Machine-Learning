@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f57f6c574140f3e9d525d8ac.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Greg let me do it",
+  "setter": "danieljordan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "C03F828F4B22491C93175CA01EE9C91C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r12p1142r12p1163r13p1215r13p1236r13p1268r13p1305r13p1340r13p1394r14p1462r15p1531r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 9226,
+  "quality_average": 3.3201519591881037,
+  "hold_fingerprint": "bb79b9006d12e44474901e8d6e92b594f1b90c570f243fee9f782aab568f5c33",
+  "validation_errors": []
+}

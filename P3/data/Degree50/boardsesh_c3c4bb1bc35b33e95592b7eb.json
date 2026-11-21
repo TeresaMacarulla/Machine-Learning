@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c3c4bb1bc35b33e95592b7eb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Little Dyno",
+  "setter": "JamesRobinson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "292BAC9F0AE6487795BA132399BD5EAD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1087r15p1161r12p1179r12p1212r13p1214r13p1247r13p1299r13p1300r13p1387r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.09,
+  "ascensionist_count": 11,
+  "quality_average": 3.36,
+  "hold_fingerprint": "5e440c46b02d0d712124dced2b5838c87414a076b10c97382da36e58445eda59",
+  "validation_errors": []
+}

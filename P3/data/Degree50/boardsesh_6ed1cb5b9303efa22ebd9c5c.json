@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6ed1cb5b9303efa22ebd9c5c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "ganz und rosen",
+  "setter": "jablabla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "f9d4ed763b104562a96019e4c45c89bb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1134r12p1146r15p1184r13p1197r15p1269r13p1299r13p1369r13p1383r14p1456r15p1504r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a6a76cebb0aca01a3c17b1d66abdeff1c125dda3a1ab8bbf7ba6ecedf946e465",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cf102535e3592b4088371a97.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Spiny Saga",
+  "setter": "phatpotato",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "431151ed80034fd18d5707695b238520",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1176r12p1182r12p1260r13p1297r13p1304r13p1319r13p1345r15p1358r13p1394r14p1395r14p1461r15p1466r15p1543r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2e012695f2fb85701b42f9c5687efc5b4231da935ffe32df4e23d5ebd5a3658b",
+  "validation_errors": []
+}

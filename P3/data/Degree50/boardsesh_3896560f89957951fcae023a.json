@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3896560f89957951fcae023a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "RustyHolds",
+  "setter": "bendelamotte",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "BC8CD0F76DDF46A28017BFC0D9D25A73",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1173r12p1218r13p1220r13p1286r13p1303r13p1331r13p1332r13p1379r14p1456r15p1503r15p1529r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 46,
+  "quality_average": 3.5599999999999996,
+  "hold_fingerprint": "d2106e4d0f1b523f6f014102defc8f74c7950250a1b62076d95a3abfe1bcc918",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0bc39d6f4b5a423e62c3b053.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Hold teit",
+  "setter": "brnesk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "4503AC19388A4AF3970970C9A60966AB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1172r12p1256r12p1276r13p1309r13p1325r13p1355r13p1371r13p1385r14p1518r15p1527r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.04,
+  "ascensionist_count": 27,
+  "quality_average": 3.31,
+  "hold_fingerprint": "14436e3bbff8d5f87a4184c8dd3432079453f4e235f1b2d29d4ab61d05299e31",
+  "validation_errors": []
+}

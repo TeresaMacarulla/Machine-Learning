@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7e1124b11a103c573e4b8f75.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "shambhala",
+  "setter": "gianiclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3d2adcb446af45bdbc91d68b3f6382ef",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1112r12p1149r12p1196r13p1198r15p1232r13p1269r13p1335r13p1381r14p1385r13p1459r15p1493r15p1561r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b4441dda704ec51d8a02f438c95c53aed3aa72f73bbcdf1bdc52f673f8796297",
+  "validation_errors": []
+}

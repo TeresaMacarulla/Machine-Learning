@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1baec02dfe842f51728d1131.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "MN822",
+  "setter": "MN82",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2A5698762116439AA30005689019BA18",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r12p1228r13p1232r13p1249r13p1254r13p1271r13p1291r13p1320r13p1357r13p1388r14p1467r15p1504r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 13,
+  "quality_average": 3.62,
+  "hold_fingerprint": "c01873e6a7bf4ad0af32d0b0de983944fb0288e6da3f85a199ffe523f561bb3d",
+  "validation_errors": []
+}

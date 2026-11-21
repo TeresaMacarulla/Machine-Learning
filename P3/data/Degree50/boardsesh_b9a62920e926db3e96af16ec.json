@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b9a62920e926db3e96af16ec.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Boulder Shoulder 2",
+  "setter": "calvinyeung",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8eda3d85-784b-4781-8c52-5e47d74ce2a9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1246r12p1214r12p1297r13p1165r15p1330r13p1215r15p1284r15p1366r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.67,
+  "ascensionist_count": 5,
+  "quality_average": 4.67,
+  "hold_fingerprint": "664f359005cc251577d5a74b3973700cf911cd5a6a0b49a2097ea3a64b5c3e5a",
+  "validation_errors": []
+}

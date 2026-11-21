@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a3c32857620d4afaeac0b66b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Side to side pull",
+  "setter": "HPclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "9c1f5f64-0f1e-4b2a-a0e3-1dcc1603b18d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1202r13p1201r13p1239r13p1480r15p1289r13p1359r13p1391r13p1389r14p1081r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.67,
+  "hold_fingerprint": "72a7c76a1743d66883641fd4c5fe31c16237abfa9fcab0efb3f50cfa7e837930",
+  "validation_errors": []
+}

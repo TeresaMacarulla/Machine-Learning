@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9e52bc46866aba69ea496fa9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Ford focus direct",
+  "setter": "brnesk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "C752C0A1A1DA467996D8F4E42C901F7B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1141r12p1154r15p1163r13p1198r13p1236r13p1239r13p1308r13p1391r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.05,
+  "ascensionist_count": 163,
+  "quality_average": 3.3700000000000006,
+  "hold_fingerprint": "9f942acb1a6fbceab0d7c2dfe4772fab6f41b179aa6c09a5fa550b579fff71dc",
+  "validation_errors": []
+}

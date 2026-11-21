@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_20c503033c65f0354d151167.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "cudi hum",
+  "setter": "c.anico",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "92342D0BE65E429F8999A1AA72E2A933",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1149r12p1200r13p1229r13p1233r13p1280r13p1316r13p1382r14p1456r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f27d028336095236bc69ebe89586629a5b3a87a022726ba9824853875012cec0",
+  "validation_errors": []
+}

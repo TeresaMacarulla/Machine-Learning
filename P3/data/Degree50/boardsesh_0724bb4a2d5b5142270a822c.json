@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0724bb4a2d5b5142270a822c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Factory racing",
+  "setter": "isaac_dunk_climb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "3073BD13F5E841F2BC483BFEE376F863",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r15p1171r12p1185r13p1235r13p1323r13p1388r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.02,
+  "ascensionist_count": 162,
+  "quality_average": 3.1999999999999997,
+  "hold_fingerprint": "b1e3ab26c4176355e0613c7cebbb9f86b6e167b0bad70840a30f89e38ad3bf29",
+  "validation_errors": []
+}

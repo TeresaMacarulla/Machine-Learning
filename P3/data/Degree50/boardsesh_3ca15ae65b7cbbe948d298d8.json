@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3ca15ae65b7cbbe948d298d8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "no feet only hands",
+  "setter": "brendanc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "9C10800FDB1C47E393B258A78E1BAEEA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1260r12p1262r12p1297r13p1300r13p1333r13p1336r13p1353r13p1356r13p1374r13p1394r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ce437e1c6bd32736fc146e3958349851008537c0c659f064e07fbf67246f0067",
+  "validation_errors": []
+}

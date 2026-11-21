@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2721a65eb078f5195cb78d5b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Subzero",
+  "setter": "@ndrewxplores",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6f7e6b96-c591-4b40-8f5e-8f7796ec6a66",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1186r12p1454r15p1216r13p1271r13p1287r13p1385r14p1372r13p1373r13p1325r13p1242r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "dbb1b1f2d2b5b9082f177dc8957b3641230fe5086d2804d599890620e3dec8cf",
+  "validation_errors": []
+}

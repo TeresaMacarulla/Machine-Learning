@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_90e18f40675157627db07119.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "ATU MAL",
+  "setter": "Zuf",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "ae1f9774cf024389a58a26f4750fa7e5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1081r15p1134r12p1138r12p1145r15p1203r13p1210r15p1230r13p1232r13p1253r13p1279r13p1332r13p1380r14p1566r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "764c7b88791095f3310fccc58db39351c45f0850c715149c41dc137ead5694cb",
+  "validation_errors": []
+}

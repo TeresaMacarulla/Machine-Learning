@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e0c4a79109ed2a812255888c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Warm Up Circuit #3",
+  "setter": "GirthQuake",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "DDE2FFBBB98D4E27AE81348424460DCA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r15p1200r15p1234r12p1236r12p1300r13p1335r13p1353r13p1391r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.09,
+  "ascensionist_count": 11,
+  "quality_average": 3.55,
+  "hold_fingerprint": "f616148d655e1ff04547e07ce022b5a15aa589010dc192f8c37a44a4f9698101",
+  "validation_errors": []
+}

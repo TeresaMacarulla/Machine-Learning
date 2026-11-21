@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1800d43ce086c2060b1bcba9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Straight Down Straight Up",
+  "setter": "kilterjackie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "A438631A43494C03BB984AF6F8F0EE04",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r15p1166r12p1220r13p1252r13p1288r13p1303r13p1321r13p1336r13p1355r13p1370r13p1388r14p1514r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.93,
+  "ascensionist_count": 15,
+  "quality_average": 3.13,
+  "hold_fingerprint": "c6f012bfa8d82e9894c1b77012efb392e36dca852e62127a48731740d8423697",
+  "validation_errors": []
+}

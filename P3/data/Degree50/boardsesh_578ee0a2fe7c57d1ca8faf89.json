@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_578ee0a2fe7c57d1ca8faf89.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "foot upz",
+  "setter": "afonsorodrigues",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "ad9e5099ab6f4d258b78fb892a9616ed",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1219r13p1268r13p1304r13p1387r14p1457r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "fe7ab873e24248e672b6b1a2c1d1c733785f96121901df249a221c67b4540785",
+  "validation_errors": []
+}

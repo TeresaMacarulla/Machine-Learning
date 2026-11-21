@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1ef1d5a17fc1b143f347955e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "joint eforts",
+  "setter": "orz24",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4abd8d55448c42bb88018d98daab3aec",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1155r12p1156r12p1166r15p1188r15p1242r13p1270r13p1274r13p1291r13p1317r13p1321r13p1370r14p1531r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "ae2e5b1d9223a1cec6d9b5bc71b2f205bf43647c9a253a61753e472554144098",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_14bd72258136656ea1f664e6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "spray",
+  "setter": "saignc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "000A8FB432394843BA82158700591688",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1139r12p1169r12p1231r15p1240r13p1256r13p1285r13p1291r13p1337r13p1349r13p1381r14p1452r15p1482r15p1518r15p1546r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "fb978a5d0efc8bdab79f68e56240c2079c9d8eb81e9c510fc321e59be9c01c92",
+  "validation_errors": []
+}

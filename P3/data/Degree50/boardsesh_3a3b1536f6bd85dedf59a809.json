@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3a3b1536f6bd85dedf59a809.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "necromancy",
+  "setter": "tytaft",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "00ACF92885774C36AC715864541BC9FB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1102r12p1140r12p1186r13p1191r13p1254r13p1285r13p1296r13p1299r13p1329r13p1379r14p1447r15p1537r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ac8a445ff6e9b81e4caf0f17e62bc070f22bab78b766b37a70949a18037a55e4",
+  "validation_errors": []
+}

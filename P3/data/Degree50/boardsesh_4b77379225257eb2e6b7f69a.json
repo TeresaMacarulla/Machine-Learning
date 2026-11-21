@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4b77379225257eb2e6b7f69a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "crimpy\ud83d\ude33",
+  "setter": "archgill",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "EAF416E3E5044DB29B22729923F4680E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1183r12p1199r13p1203r12p1230r13p1250r13p1317r13p1365r13p1380r14p1456r15p1485r15p1556r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a317a4a0fe17e03a3520db23c3bbb52f3731b5bb1c225fa581c58c3a0da4d915",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bbd88e37e87b8825a427f829.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "shaker team cut hands",
+  "setter": "marin.carlson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "D8C10A85E6CC4377A77BAE29E20751C4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1133r15p1152r15p1165r15p1183r15p1234r12p1236r12p1250r15p1269r13p1286r15p1301r15p1302r13p1319r13p1353r13p1386r14p1506r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "fd38a462eb2cfa77fdff5375d00e78d0ea590544f97805ca359b7e9e97fc703d",
+  "validation_errors": []
+}

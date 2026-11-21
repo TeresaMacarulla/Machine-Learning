@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f52f90bd9646eaba9e3deeab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "steil +1",
+  "setter": "maxdeelen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "C1AC46AFA5944F31A6A1CF412869B522",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1126r15p1128r12p1283r13p1352r13p1384r14p1468r15p1503r15p1523r13p1540r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "9c806984d30537e4d25815d50d87e0fa1f96032611a8efbf5a455c8a3b2fc3c4",
+  "validation_errors": []
+}

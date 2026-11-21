@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5a4d6cec77f88faa8ce0fe1e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "step on down",
+  "setter": "charliecruse",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E6318BF1CB4D484D9EDFF728F9F7D66A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1146r15p1197r13p1222r13p1249r13p1286r13p1295r13p1380r14p1453r15p1473r15p1519r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.75,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "37d0f283d77c21eb1ee91ac1232835a6cc44827982015ac205da722b07db675b",
+  "validation_errors": []
+}

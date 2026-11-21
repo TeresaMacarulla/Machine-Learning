@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_712259ec276bd62125ff93ec.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Click and spin",
+  "setter": "xienclimb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "38ba930f-1193-401d-b750-246dcb340574",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1271r13p1241r12p1447r15p1216r15p1165r15p1218r13p1266r13p1318r13p1331r13p1379r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "badc90331b76ef09a429a7d1f9d9139520a1243c3242425f26d1a616a887f16d",
+  "validation_errors": []
+}

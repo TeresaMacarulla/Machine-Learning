@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_afdf133c819a1b8230abf5ab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "twisty bum",
+  "setter": "walker_jack",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "DC7E774B663A4FF4911DFF8C0D24B425",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1192r12p1210r12p1215r15p1244r15p1245r13p1281r13p1315r13p1350r13p1387r14p1501r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.0,
+  "hold_fingerprint": "09b615d339afd39f9bf27ca81e2acdf7cda3f8b981845c376653d3fbddc8a641",
+  "validation_errors": []
+}

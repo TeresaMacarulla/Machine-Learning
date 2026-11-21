@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3b77e77fff51aa81b5916ede.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Proof Stage",
+  "setter": "conordube",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "45DFFB9290D84568B7ABB6BFA5CE6E0D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1167r12p1180r12p1220r15p1233r13p1249r13p1301r13p1337r13p1373r13p1393r14p1488r15p1561r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "9b95d08913b4d9aaabcde9dda5e46c6df57eca4325693dd34cb5c5ee6b029682",
+  "validation_errors": []
+}

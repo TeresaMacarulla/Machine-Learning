@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cbb8b99d13f00ab3c8095ee7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Pity Pinch",
+  "setter": "Tofu_05",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "CDA0BFAFD87946C784FCD3B8467886FA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1137r15p1147r12p1153r12p1186r13p1198r13p1252r13p1254r13p1308r13p1340r13p1394r14p1456r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 3,
+  "quality_average": 4.5,
+  "hold_fingerprint": "e6bdc1a9845a3feb0fbd29fb49b737678573cff53ea9267bdcd978dc06c3a260",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d6da950f2f925849ef0d9e3a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Tarzan's transition",
+  "setter": "TEFlak",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8F55A88AEBF648C9AD7D0480C2A20737",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1161r12p1163r12p1229r13p1233r13p1300r13p1302r13p1323r13p1387r14p1460r15p1544r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ef2415c869a9c328e1d859dbbdabf5eb5a728ba0ce74cb70474a834c69c701d7",
+  "validation_errors": []
+}

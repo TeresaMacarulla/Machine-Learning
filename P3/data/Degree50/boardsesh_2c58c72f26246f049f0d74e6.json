@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2c58c72f26246f049f0d74e6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "ANOVA",
+  "setter": "Cuckovich",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3EC4A30DD6C34F5FA470DE2DA779E00D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1162r12p1195r12p1233r13p1266r13p1301r13p1313r13p1330r13p1380r14p1467r15p1477r15p1537r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.07,
+  "ascensionist_count": 49,
+  "quality_average": 3.510204081632653,
+  "hold_fingerprint": "f5b60aad299998c4f3a8f0f02b753d0281e5f95acf114ae48f001381f99a5352",
+  "validation_errors": []
+}

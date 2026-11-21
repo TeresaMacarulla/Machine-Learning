@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e20f1fd7fc6fce40cd1d109a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "\u82b1\u63d0\u706f",
+  "setter": "teregen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "65595F4747AF4A2BB64CCB4DAE839F8F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1147r12p1150r12p1234r13p1265r13p1287r13p1337r13p1385r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2965011298c03f470434be69f56253468e292eb86f16b4e956948670777487c4",
+  "validation_errors": []
+}

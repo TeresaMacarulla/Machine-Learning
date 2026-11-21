@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b26d0125cf3884ed9640332f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "#### Sitzsack",
+  "setter": "Lovis_Ha",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1f161b8bf8bd47f2996536091e9e636c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1137r15p1149r12p1214r15p1236r13p1302r13p1353r13p1384r14p1456r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e21a6aaeaad4e393f8be08a266ab94b2c6b63755749b9fa81d52abdbed24297a",
+  "validation_errors": []
+}

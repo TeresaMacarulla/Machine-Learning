@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1e33e441a2e3a8807f8311ba.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "crimps + tootsies",
+  "setter": "edornoff",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 8,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "3d3bfa07-09b6-49cd-a320-bf838dd776cd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1121r12p1447r15p1208r13p1205r13p1240r13p1255r13p1170r15p1219r15p1288r13p1302r13p1249r15p1336r13p1334r13p1384r14p1382r14p1157r12p1252r15p1297r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.6,
+  "ascensionist_count": 10,
+  "quality_average": 3.2,
+  "hold_fingerprint": "4721914500e476d8b8bf33236f1938fc38bae2d6e95ebd6f06fa5a2b6dd26c2e",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3e145e578695fb60959385dc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "PDA (Priest Draw Action)",
+  "setter": "griffinwhiteside",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ce22d2db84ce495cb551669ebac5f753",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1132r15p1168r12p1169r12p1235r13p1271r13p1279r13p1281r13p1284r13p1295r15p1348r13p1379r14p1504r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.29,
+  "ascensionist_count": 7,
+  "quality_average": 3.43,
+  "hold_fingerprint": "34373f3ddc8aaad16702185b220f2246721827d7c44667b7ea003883a39112e2",
+  "validation_errors": []
+}

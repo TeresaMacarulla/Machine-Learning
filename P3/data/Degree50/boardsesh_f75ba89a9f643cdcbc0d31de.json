@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f75ba89a9f643cdcbc0d31de.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Lock Left",
+  "setter": "eltosso",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8408d6d6e98b457a921a8fa253189f54",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1131r12p1133r12p1180r13p1183r13p1215r13p1246r13p1247r13p1260r13p1297r13p1331r13p1382r14p1483r15p1502r15p1520r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5bf82ec5dea7be0d218ec53560a6a4c891f571ed9ba07df38617ba7a9d6939f7",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_da174f0f1cb724ccd5d468fe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Flint and Steel",
+  "setter": "carlo.dgh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "56F4B11ADF364021A85A775F9C186E25",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1192r12p1278r13p1294r13p1379r13p1380r13p1383r13p1385r13p1389r13p1391r14p1464r15p1588r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "392ec178617f4c0f8298dd5340138d9b93f301e5eb3e19ffbba66e76f25e62d3",
+  "validation_errors": []
+}

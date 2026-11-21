@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c66c6d433b4650050cef8bd1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "CAAC mfbp 3",
+  "setter": "vinhy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "dbe1f7e9-306d-46cb-9733-95980fa74ba8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1236r12p1198r12p1268r13p1170r15p1319r13p1315r13p1246r15p1384r14p1382r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.25,
+  "ascensionist_count": 14,
+  "quality_average": 3.5,
+  "hold_fingerprint": "640fef779981d9827a50077646bfba08f449dde8fbb644915558cfa648f22f55",
+  "validation_errors": []
+}

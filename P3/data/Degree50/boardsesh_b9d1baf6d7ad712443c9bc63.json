@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b9d1baf6d7ad712443c9bc63.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "kick in the air ",
+  "setter": "max481",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3b53d990-47ff-4c6f-bc14-adb80f45569b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1503r12p1467r15p1246r13p1300r13p1245r13p1217r15p1353r13p1389r13p1589r15p1391r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.25,
+  "ascensionist_count": 7,
+  "quality_average": 2.5,
+  "hold_fingerprint": "dfe6f1f1b701bb14f80ea91bac9ee6ea2de3d27f815f8c15d501c0dff795c86d",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_acc6a614067e5b9b552626b0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "gaucho",
+  "setter": "johann.bjrd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "8DA24A2A3B3C4ECE9C610ADB0BAB9B55",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1127r12p1142r15p1181r13p1196r13p1233r13p1266r13p1279r13p1331r13p1379r14p1459r15p1477r15p1503r15p1520r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "834b9724d0904d6136dc895c99baf9488473ed2b1fc7111df5f2ad2165950add",
+  "validation_errors": []
+}

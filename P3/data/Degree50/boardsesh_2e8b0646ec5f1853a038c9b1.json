@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2e8b0646ec5f1853a038c9b1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Azkaban",
+  "setter": "KilterConnor",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "850EAA78B5FD41DCA069609302997200",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1162r15p1198r12p1254r13p1271r13p1272r13p1339r13p1357r13p1387r14p1515r12p1516r15p1526r15p1533r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.98,
+  "ascensionist_count": 92,
+  "quality_average": 3.55,
+  "hold_fingerprint": "b539b4c1b1e156b703fbd14719e38d68f510b3f2162ec4968831135b998b78e7",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aac8192e6eb4ab5442702eff.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Advanced ",
+  "setter": "markussleeb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "947d3c4d-44f9-4ebe-b50c-52194568ec4a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1192r12p1090r15p1231r13p1315r13p1382r14p1097r15p1163r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.33,
+  "ascensionist_count": 3,
+  "quality_average": 2.33,
+  "hold_fingerprint": "dc727e0e7d6a65bd736e852cb0f8345a4471699615604b9b066551cd24e705e2",
+  "validation_errors": []
+}

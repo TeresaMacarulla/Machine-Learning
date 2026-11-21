@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_17fd0039d2bd017fc241923a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Introduction",
+  "setter": "kantzn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "c6d36bdcf6c54acea270d425d8546e6a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1124r12p1143r12p1228r13p1265r13p1298r13p1333r13p1385r14p1461r15p1467r15p1483r15p1504r15p1529r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f5c7163a7d058fe3dba565f18c08ac834d6bbbc845af752138eaa005a3e2d88d",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_15a859a57d154ddd0836dc77.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Nofoot Noshoes Part2",
+  "setter": "julia67",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "b8d0c2baae2d40f6b80df80a827257bf",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1257r12p1289r13p1302r13p1331r13p1335r13p1348r13p1380r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "03826e1761fd37a723fcc8df71425714ee9938c6b32c31618ebd7ae660f89843",
+  "validation_errors": []
+}

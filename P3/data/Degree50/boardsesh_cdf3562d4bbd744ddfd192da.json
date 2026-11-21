@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cdf3562d4bbd744ddfd192da.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "tira y afloja",
+  "setter": "ilegalalien",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "b2c9e95c42d043498eb29685fd6b1c9c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1189r12p1216r12p1257r13p1343r13p1373r14p1391r14p1454r15p1515r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "c4e3e12d7e6d46039d70a4ff1ae36fc376b97cddc8250a90180a895b2c8c2273",
+  "validation_errors": []
+}

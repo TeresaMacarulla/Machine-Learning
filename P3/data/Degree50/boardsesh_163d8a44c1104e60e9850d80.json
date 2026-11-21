@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_163d8a44c1104e60e9850d80.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Inclusivity",
+  "setter": "afonsorodrigues",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "784a3d84d21043ff9d1dc0aa24493fb8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1179r12p1209r13p1226r15p1263r13p1284r15p1311r13p1348r13p1384r14p1458r15p1462r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f56689a22a6c591508bac2d11b7644a91e8c4ea5949c3150e81ad7ebc15a4cf8",
+  "validation_errors": []
+}

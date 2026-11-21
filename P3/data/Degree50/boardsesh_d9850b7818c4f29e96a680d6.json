@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d9850b7818c4f29e96a680d6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Hotel Ruando",
+  "setter": "dgineblasco",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "f4bfc8ad36e04f4b8f61decd6aa79509",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1148r12p1183r13p1232r13p1287r13p1335r13p1352r13p1384r14p1459r15p1476r15p1486r15p1570r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "5242784fd53eaa9b177fad456a233812b3d4279751c44fffebdcbbad497ce54b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5ae448fa0a8ddb7fc71e2aee.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Wawater",
+  "setter": "magonzo14",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "781CE2E160A4460F88CFC44134ECCADA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1094r15p1180r12p1181r12p1248r13p1250r13p1303r13p1370r13p1389r14p1495r15p1525r15p1534r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "be8ea444ff82bfc291d252128dabb069c09ae1d616a63b76cc6da98a0c4420a4",
+  "validation_errors": []
+}

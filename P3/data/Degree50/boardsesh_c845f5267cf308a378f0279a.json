@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c845f5267cf308a378f0279a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "hand meets foot",
+  "setter": "brygotweezy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1747309A61D446A4BE7028A7800CDC5F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r12p1144r15p1192r12p1246r13p1247r13p1268r13p1288r13p1291r13p1359r13p1395r14p1514r15p1517r15p1534r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "0c67b03d19ccab1ae417e0fc7de540f3acf42bac782bd0240d9ffe0fa54051dd",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c5381285a28d4bc30ce2cf6b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Tiny Spring",
+  "setter": "KilterStudio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "98787CC4F8574A888270CD7004A57A9F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1259r12p1288r13p1299r13p1321r13p1329r13p1333r13p1381r14p1517r15p1522r15p1539r15p1542r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 1.5,
+  "hold_fingerprint": "fd6abed86f0d97f076869ed446690fc6aa30cd3b98a474ce88a5ea350012a8a6",
+  "validation_errors": []
+}

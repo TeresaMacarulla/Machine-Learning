@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3a6dadf6de4ce1459aa94310.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "REDR",
+  "setter": "enleevisht",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7562020c-bc51-4285-a62e-4390e6cfa4e1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1119r12p1121r12p1447r15p1222r13p1251r13p1472r15p1516r15p1250r13p1281r13p1352r13p1369r13p1392r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1f0fef09c86cee827d495c3c25572a659bb4c44ce886454b6fc20055c0b9637c",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d6fc95f5b2bd60bf6656c833.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "assisted pinch",
+  "setter": "elldog2000",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "cc54fa10-174b-4371-a79e-7face8008475",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1148r12p1460r15p1457r15p1196r13p1216r13p1228r13p1092r15p1146r15p1159r15p1265r13p1295r13p1213r15p1382r14p1332r13p1345r13p1226r15p1263r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.6,
+  "ascensionist_count": 5,
+  "quality_average": 4.0,
+  "hold_fingerprint": "6b3378b1a8bfc7beecdbd471c1f482d2e683c3c63a07cc098cd846028d0e7131",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2cfd60493b4d2e8944509cce.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Blue Matter",
+  "setter": "StaticMax",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 9,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "6592c171742443c1bea3af96c132540e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1076r15p1138r12p1153r12p1179r15p1216r13p1240r13p1244r15p1246r15p1247r13p1248r13p1261r13p1265r13p1270r13p1314r13p1349r13p1384r14p1510r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ae2c1daf8708bc797d341e9e586c107409b8afaa65bd124e763cd091acafc56c",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4b745544f8c0e973fb7c0425.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "mister twister",
+  "setter": "Sendatron_3000",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "6A8CD5ACB67B47E0A30979F5C15D3FAB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1162r12p1168r15p1208r15p1210r12p1249r13p1265r13p1272r13p1309r13p1338r13p1350r13p1380r14p1383r14p1504r15p1506r15p1516r15p1543r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5ac188686611782f599ba336216ab33fe4501097a57ba44e6d114f79a0e38d96",
+  "validation_errors": []
+}

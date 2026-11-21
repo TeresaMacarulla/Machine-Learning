@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_10de16b7853b1824c9d2e5fb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "rumel",
+  "setter": "zach_lerner",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2BA8292F71744DC79C6FA2832CDF439C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1136r12p1184r13p1255r13p1314r13p1320r13p1332r13p1336r13p1380r14p1513r15p1546r15p1548r15p1551r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "8fcac9ffe3720f6dadd9babeaf18153fb403ce655ce76996c02278af3880a9fd",
+  "validation_errors": []
+}

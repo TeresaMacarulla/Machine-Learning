@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b1028abfdbcdc087ed301063.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Risk factor",
+  "setter": "45er",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "CDDD46E833C84A149433111BADB82464",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1098r15p1106r15p1136r12p1162r15p1222r13p1235r13p1250r13p1299r13p1334r13p1383r14p1450r15p1542r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.91,
+  "ascensionist_count": 11,
+  "quality_average": 3.55,
+  "hold_fingerprint": "4ea1dff741458ed71be6c4d1d8284f2c693710a537dcce642e7e4dd75cf6b26c",
+  "validation_errors": []
+}

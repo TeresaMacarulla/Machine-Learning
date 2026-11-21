@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c9f514cdc7cc65906b1d6d21.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "One Dry Scoop",
+  "setter": "scro",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "702CC7CB1A314E3284A412591497EF7B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1118r15p1165r15p1169r12p1172r12p1236r13p1247r13p1281r13p1328r13p1379r14p1512r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.97,
+  "ascensionist_count": 68,
+  "quality_average": 3.54,
+  "hold_fingerprint": "442820ac2b266ae55b30a9e08a9ea9b875fddf8c2066d3331559277329ef496e",
+  "validation_errors": []
+}

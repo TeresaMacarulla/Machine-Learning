@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e9b18298e8c98692ab6a31ce.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "kilter slop 1",
+  "setter": "supersam10191",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 0,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "d7afba2f-6c44-45b2-a511-15a610ff7f45",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r12p1355r14p1131r15p1169r15p1236r12p1168r15p1151r15p1165r15p1353r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f5238ce292aae7c3785b638ba91793cc8129b6f9eade482f1eea322d079877a5",
+  "validation_errors": []
+}

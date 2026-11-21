@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2ec917c63cac77d591b5b658.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "SFJ",
+  "setter": "pipix",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0456414BA12D4E4F871D8ACFED1B2AF9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1094r12p1129r12p1180r13p1199r13p1220r13p1270r13p1291r13p1336r13p1340r13p1369r13p1383r14p1460r15p1464r15p1466r15p1499r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "1872d0aa288acf2ecb52aaa426022cebf8d5b0f3d1d5ee617d6835f1b58ced1a",
+  "validation_errors": []
+}

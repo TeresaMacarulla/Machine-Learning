@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2b3062ed6f48257521a9a028.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Soft for the grade ",
+  "setter": "Pino1789",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "99ec3288-1d12-4e12-b01b-0d8ec97ae698",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1250r13p1287r13p1322r13p1339r13p1392r14p1203r13p1136r12p1494r15p1073r15p1454r15p1571r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.67,
+  "ascensionist_count": 4,
+  "quality_average": 4.33,
+  "hold_fingerprint": "0a0f83e4802fe28d968dcf4417b2e73c12c1aa5b6ea615f045cc346f1303d5b7",
+  "validation_errors": []
+}

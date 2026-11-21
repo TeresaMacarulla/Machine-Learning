@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5a21a0faa95269ec7fb9e781.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Flying Fergie",
+  "setter": "ZackWF",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "b8338572f1704d30bd90ac4fd2dc8e86",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1146r12p1192r15p1231r13p1243r15p1280r13p1312r13p1315r13p1319r15p1345r13p1383r14p1459r15p1461r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "7d33de334eeea1fda58ce8398ecf2c24bb195b9485ddfe859d5a8e547041e00c",
+  "validation_errors": []
+}

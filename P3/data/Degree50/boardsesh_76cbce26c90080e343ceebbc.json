@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_76cbce26c90080e343ceebbc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Fizgig",
+  "setter": "chasmophyte",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "c582ff32adfa4a22a40b510725a88647",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1144r12p1163r12p1214r13p1249r13p1298r13p1353r13p1385r14p1520r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2db6d5045b9fd586a1c485b48a70f729a2322671580df03ce29763b1f7b34c6c",
+  "validation_errors": []
+}

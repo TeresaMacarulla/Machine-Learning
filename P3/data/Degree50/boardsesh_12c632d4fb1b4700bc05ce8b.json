@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_12c632d4fb1b4700bc05ce8b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Snag",
+  "setter": "richiec4",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "db3a7568-41f9-40cd-b7f3-e5cb9f7b16ca",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1242r12p1307r13p1255r13p1516r15p1183r15p1267r13p1318r13p1349r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ccad9068d8d4599ae0dd5d5b1ba3f37811c317b5759cfc22560cedfc91185d92",
+  "validation_errors": []
+}

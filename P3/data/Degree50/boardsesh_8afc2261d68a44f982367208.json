@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8afc2261d68a44f982367208.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Appa yip yip",
+  "setter": "ContagiousZ",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6567cc929f9141b98f998347868123c2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1133r15p1154r12p1163r15p1168r15p1169r12p1239r13p1268r13p1353r13p1389r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.99,
+  "ascensionist_count": 200,
+  "quality_average": 3.3,
+  "hold_fingerprint": "7d8e6ae5429f57a8ec25bf0ccc4b0a762a4a108f4a2c18506f754a96f1cb5996",
+  "validation_errors": []
+}

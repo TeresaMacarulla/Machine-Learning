@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b601e3b209378cb34b9d57c1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Sunset Boulevard",
+  "setter": "vincentdohna",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "98112264ca074348a6a090e5b89cf2ba",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r15p1202r12p1247r12p1300r13p1353r13p1372r13p1391r14p1547r15p1548r15p1561r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "05802b011d542b24cafc53070e9ad69eb27b2ce48a000dccdf081950ad3eec96",
+  "validation_errors": []
+}

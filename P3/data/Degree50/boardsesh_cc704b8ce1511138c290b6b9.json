@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cc704b8ce1511138c290b6b9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Toe addiction",
+  "setter": "mikebann",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "acc268e3954c45429ae97c0948cf7224",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r12p1133r12p1154r15p1163r13p1185r15p1201r15p1213r13p1229r13p1265r13p1299r13p1301r13p1385r14p1479r15p1487r13p1574r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "175f5b13e32cfcaacc9b3b90b0ae2cd997008dcbc71e28fed20bc6b61ba97670",
+  "validation_errors": []
+}

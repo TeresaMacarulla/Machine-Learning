@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e8a0a502e66e8f812ed6b9e4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Swing Life Away",
+  "setter": "EMPA",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "139EFE24259743519E18FA810038645C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1210r13p1236r13p1257r13p1264r13p1276r13p1300r13p1395r14p1509r15p1526r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f8229989172ee2f2be11457343702a5081b98ce40b25f72da7401bae269b32df",
+  "validation_errors": []
+}

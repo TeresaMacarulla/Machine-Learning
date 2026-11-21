@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b12d50fa95ee91084bfd56a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "SACC",
+  "setter": "con321dude",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "3A711E012EA4405289D0F13E1B976092",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1157r12p1189r13p1254r13p1258r13p1341r13p1371r13p1386r14p1449r15p1497r15p1515r15p1544r15p1554r15p1560r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1d96062459681b042f9a38741e16fbf6f69c98574d3a6ac3c362e711e7ed39d9",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e76b1268f9c8794f0b84b04f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Medea\u2019s Departure",
+  "setter": "moradomundo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "D5040A4FFC694D3A99007CF268132A20",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r15p1224r12p1236r15p1242r12p1289r13p1308r13p1354r13p1359r13p1371r13p1385r14p1500r15p1568r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.09,
+  "ascensionist_count": 35,
+  "quality_average": 3.44,
+  "hold_fingerprint": "c32ca398fdefd4a16805242fea2ec8f4dd938b628b10be14754086d3e536b0ec",
+  "validation_errors": []
+}

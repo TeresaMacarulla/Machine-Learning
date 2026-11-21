@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4bcdc2a4501c52219c13a9d2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Pressure point",
+  "setter": "rikischwark",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2b0a5c5d70974bf99562f719c4366406",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1164r12p1232r13p1271r13p1325r13p1338r13p1395r14p1511r15p1553r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.5,
+  "hold_fingerprint": "2cc409215ead3b39cbaf9e04afcfbc08e6e52afe30ac39d226b52a776eda4e31",
+  "validation_errors": []
+}

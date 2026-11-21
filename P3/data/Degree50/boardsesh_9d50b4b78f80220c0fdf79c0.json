@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9d50b4b78f80220c0fdf79c0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Comes Full Circle",
+  "setter": "jonathans2002",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "221ADB2AD011416D834BFB73285DB65F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r12p1181r12p1199r13p1255r13p1304r13p1321r13p1335r13p1347r14p1468r15p1508r15p1516r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.2,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "7f5c6d29710213fa2c09acfefcb08f09e5e9c3fa7c6b5effca1e439ebb5398b0",
+  "validation_errors": []
+}

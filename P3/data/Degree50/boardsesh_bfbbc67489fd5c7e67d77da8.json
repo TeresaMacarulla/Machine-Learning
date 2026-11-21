@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bfbbc67489fd5c7e67d77da8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "bicep warmup",
+  "setter": "ryley",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8d8d0427-01a4-4c1b-b812-66db7fe995f6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1233r12p1304r13p1290r13p1320r13p1204r15p1376r13p1535r15p1392r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": null,
+  "hold_fingerprint": "b97c302d714f21cd8eb4adb70727fb79e307cf3579f2bf7d3e95059cf8eccef1",
+  "validation_errors": []
+}

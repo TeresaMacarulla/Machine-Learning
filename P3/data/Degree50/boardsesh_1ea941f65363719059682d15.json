@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1ea941f65363719059682d15.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "PinchNCrimp",
+  "setter": "provenzod",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "512FCE027C0A496BB4F74A1E2D252C47",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1176r13p1216r13p1263r13p1352r13p1382r14p1462r15p1511r15p1539r15p1558r13",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c8a002cffef7107601cbdfbb6e2c631fc36bec21f650147face04f2f7d184f7d",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ff3a1dd4e1d009178353d774.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Last Resort",
+  "setter": "GirthQuake",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "EEE74A7CF33448D1BFFF419234D9DE6A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1187r12p1202r12p1258r13p1276r13p1316r15p1343r13p1388r14p1392r13p1473r15p1480r15p1491r15p1500r15p1554r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 7,
+  "quality_average": 4.25,
+  "hold_fingerprint": "fb7477ec45fc1e8e05014dd7c1cb61ba59e6e28411f8c84134040f168c06d44a",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8d5d0337a9ffb48ed51bc5f4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Mudborn (KG #3)",
+  "setter": "oderi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "d20cc01bf26047e698a35364c98b1fe9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1171r12p1203r12p1254r13p1286r13p1321r13p1334r13p1386r14p1472r15p1478r15p1505r15p1540r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "ec64e926bc0683eb961c772ad0d41a6f74dfc28fd11c6ba48436c179167aa2a8",
+  "validation_errors": []
+}

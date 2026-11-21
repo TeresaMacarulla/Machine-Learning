@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ef27af26b176723bf4f202ce.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "EXCALIBUR_L",
+  "setter": "Shinji.Kohsaka",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1D8E267261FF41669AE76D260FC0BD05",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1152r15p1166r13p1214r15p1234r13p1302r13p1319r13p1387r14p1455r15p1456r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.33,
+  "ascensionist_count": 3,
+  "quality_average": 1.67,
+  "hold_fingerprint": "17ef617346bd81b4e1ad7c9fb3abef90165fa83c48ea6fae74bb969ff6fc5e9a",
+  "validation_errors": []
+}

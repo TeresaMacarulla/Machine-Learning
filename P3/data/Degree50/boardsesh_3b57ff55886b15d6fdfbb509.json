@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3b57ff55886b15d6fdfbb509.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "E set",
+  "setter": "GeorgeFoerster",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "35185FF1B3074C589199E368D0430FE9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1161r15p1179r12p1233r13p1255r15p1299r13p1339r13p1354r13p1361r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "94d807158a9da4e5c87835a72fe91673cc9892bd31a6d91bd9219865d1bf33a2",
+  "validation_errors": []
+}

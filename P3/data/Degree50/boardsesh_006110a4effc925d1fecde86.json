@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_006110a4effc925d1fecde86.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "8B\u00fbche",
+  "setter": "Roch.O",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "7b9c4f7f7df448a5ae58cf069a6655da",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1269r13p1271r13p1299r13p1352r13p1379r14p1447r15p1451r15",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "a92dc3178388fc9a3f2b03a441556dd61363280d78fe9be3403bd9da7d11d776",
+  "validation_errors": []
+}

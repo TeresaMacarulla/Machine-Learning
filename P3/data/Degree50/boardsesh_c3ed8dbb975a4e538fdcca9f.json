@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c3ed8dbb975a4e538fdcca9f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "shoulder reconstruction",
+  "setter": "thisisafakeaccount",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "67288c067cb5466c97e5f7b1d5eeb20c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1187r13p1188r15p1246r13p1250r13p1252r13p1315r13p1328r13p1381r14p1451r15p1499r15p1532r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "461943969a880deec63459da839e7ca3c7f1c7d29c094b7651a0cf40ca76ddbb",
+  "validation_errors": []
+}

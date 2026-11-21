@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dab078199f0eb5d5e786d7b7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "ToeHooked",
+  "setter": "bentaylor_",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "4B6A0B0829E6448CA5F0D88C4F2ECFD2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1166r12p1187r13p1255r13p1286r13p1291r13p1337r13p1385r14p1496r12",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.66667,
+  "hold_fingerprint": "ff954f6130720ad776668b9a4a97710343a7696aa2ee16064f732b5e58fbaad1",
+  "validation_errors": []
+}

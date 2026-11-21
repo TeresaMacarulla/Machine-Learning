@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_660da3f7faff08ad6a1b52ab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "pinch please (stand)",
+  "setter": "et_han",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "34ea81585dc5489b98445fedb98d81a8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1222r12p1223r12p1285r13p1357r13p1386r14p1500r15p1513r15p1518r15p1530r15p1544r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d56aaba17b2fd8d92122204ec8cbc6d40256c10f4d1ad957c3b7b99c87efdb58",
+  "validation_errors": []
+}

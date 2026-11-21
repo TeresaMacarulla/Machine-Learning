@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_212c491a42389df3a0a9d97b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Diagon Aller",
+  "setter": "Tom_Wharram",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "18294ab6fca44ca0a81855d5ce04c9f9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1194r12p1248r13p1266r13p1320r13p1338r13p1374r14p1483r15p1494r12p1505r15p1525r15p1550r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ddeace5b171747cfae65c719adac1df0130f5451653a988091a55a582b65b49a",
+  "validation_errors": []
+}

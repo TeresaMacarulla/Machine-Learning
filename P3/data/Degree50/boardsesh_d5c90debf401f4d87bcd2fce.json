@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d5c90debf401f4d87bcd2fce.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Lobster",
+  "setter": "witt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "d48298bb-034f-4d03-96a9-93d0045f54ac",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1451r15p1239r13p1308r13p1340r13p1389r13p1384r14p1154r13p1215r12p1166r12p1151r13p1456r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 10,
+  "quality_average": 2.86,
+  "hold_fingerprint": "8be3020774faf82fcd29c4f94bb878e6a00bf03c6d38ec32d2425dc21a397062",
+  "validation_errors": []
+}

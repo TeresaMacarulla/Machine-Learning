@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7f2da3206cd748c6f2106987.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Gobble Gobble",
+  "setter": "aWatt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "B54A624EE9D24ABE9C4893149FE67DBA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r12p1188r13p1242r13p1308r13p1357r13p1386r14p1447r15p1454r15p1479r12p1500r15p1554r15p1569r15p1572r15p1575r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f08988dbbb353db637038bfb60d8a5f4c42e4093a54d963415fd56cd69f1d485",
+  "validation_errors": []
+}

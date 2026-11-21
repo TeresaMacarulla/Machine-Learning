@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_48775bf5fe3c67012cbdabd2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Crowd Control",
+  "setter": "KilterStudio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "CCA32DBDCD3D47BA9A7F84528E071116",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1131r12p1151r12p1163r15p1201r13p1239r15p1252r13p1270r13p1305r13p1355r13p1391r14p1455r15p1457r15p1496r15p1514r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.03,
+  "ascensionist_count": 3433,
+  "quality_average": 3.210521258008154,
+  "hold_fingerprint": "c1dee9767b70fcf8805d4a8ead15c9eba5fb64559082d99ff45df175202d18f1",
+  "validation_errors": []
+}

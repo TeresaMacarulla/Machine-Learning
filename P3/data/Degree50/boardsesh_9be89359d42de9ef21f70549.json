@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9be89359d42de9ef21f70549.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "cardboard dragon",
+  "setter": "bogbean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1e7146e619f94587b4bf0dbd2e0788e4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1151r12p1154r15p1166r13p1169r12p1204r15p1216r13p1250r13p1268r13p1304r13p1340r13p1376r13p1387r15p1391r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a90903b21cdcc8f0436657e6aab689b40b2a7e9bcdc3ce82edbc544b75496b1a",
+  "validation_errors": []
+}

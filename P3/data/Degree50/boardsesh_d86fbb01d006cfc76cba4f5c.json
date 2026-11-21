@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d86fbb01d006cfc76cba4f5c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "wrm uppp3",
+  "setter": "mochri",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "2137E86BF4B1413E956ED9F5CB48F167",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1150r12p1165r12p1220r13p1269r13p1303r13p1334r13p1386r14p1455r15p1480r15p1487r15p1531r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "5f4b2142e06eb29dd8b0e0004d9e1e622f7bc4831896a83c5a4fe4390f5ce1e9",
+  "validation_errors": []
+}

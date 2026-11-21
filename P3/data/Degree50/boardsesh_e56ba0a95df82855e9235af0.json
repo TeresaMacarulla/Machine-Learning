@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e56ba0a95df82855e9235af0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "sewage pipe",
+  "setter": "oscargronhauglol",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "dd5e0bf8-927c-479a-9b4e-3dbb48e3b6eb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1217r13p1286r13p1532r15p1307r13p1392r14p1167r12p1180r12p1504r15p1460r15p1454r15p1468r15p1118r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "d702fff722c692877bcf65b5ece91210f6bc2552df38e0e0801ab27cafb6affc",
+  "validation_errors": []
+}

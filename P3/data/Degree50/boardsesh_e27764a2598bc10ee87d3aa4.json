@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e27764a2598bc10ee87d3aa4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "real route",
+  "setter": "rutabaga",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "117DDE4C18C24A528A5992D9A5E9AF51",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1099r15p1149r12p1181r15p1200r12p1234r13p1254r13p1286r13p1306r13p1356r13p1388r14p1507r15p1544r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "3ebcdd53faaf270747e8dee0abc3279e146b3428d4b7dbba52d5369665af87f6",
+  "validation_errors": []
+}

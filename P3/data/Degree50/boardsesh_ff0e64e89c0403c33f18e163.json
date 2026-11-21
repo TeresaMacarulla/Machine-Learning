@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ff0e64e89c0403c33f18e163.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Ford Mustang (Eliminate)",
+  "setter": "justclimb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b5cce60a7c9d48209d6be5368195b926",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1157r12p1169r13p1181r15p1222r13p1269r13p1270r13p1299r13p1384r14p1453r15p1547r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 6,
+  "quality_average": 2.0,
+  "hold_fingerprint": "e68c866dd8fd89427b32785b947d53e09127384b5c9f4f13d84c5af7df3ef9de",
+  "validation_errors": []
+}

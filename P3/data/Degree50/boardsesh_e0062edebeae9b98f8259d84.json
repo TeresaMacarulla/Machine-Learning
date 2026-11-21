@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e0062edebeae9b98f8259d84.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "climb for meat pie",
+  "setter": "leemiho2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "db6ce92a-c74f-44d3-a431-838577184aac",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1144r12p1198r13p1236r13p1093r15p1269r13p1305r13p1337r13p1373r13p1389r14p1391r14p1170r15p1532r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.86,
+  "ascensionist_count": 20,
+  "quality_average": 3.9300000000000006,
+  "hold_fingerprint": "899a17ef92be19732cda76d0e0ac7a896d6add72f0cb934d453039816188bf34",
+  "validation_errors": []
+}

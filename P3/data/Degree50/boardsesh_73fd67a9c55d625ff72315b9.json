@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_73fd67a9c55d625ff72315b9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Heli's Stern",
+  "setter": "markussleeb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6b2901fd-cd8d-4b65-a57f-96ce291440af",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1165r12p1117r12p1267r13p1180r13p1093r15p1315r13p1384r14p1459r15p1456r15p1210r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.6,
+  "ascensionist_count": 6,
+  "quality_average": 3.4,
+  "hold_fingerprint": "b0695044b6c6ec09da050c8eda970b492bdff75451d8b474adb5f412e08d6dbc",
+  "validation_errors": []
+}

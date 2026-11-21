@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e4d85dee408aebd03138ebf8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "amber current",
+  "setter": "dnnydam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "bed503a6-f4d3-4f55-a349-02783e74c596",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1188r12p1201r12p1270r13p1264r13p1576r13p1174r15p1471r15p1520r15p1529r15p1352r13p1372r14p1488r15",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b60921002172a80ca5c6160ed5693a7cf24ae0563913626d966c78f6b5da3749",
+  "validation_errors": []
+}

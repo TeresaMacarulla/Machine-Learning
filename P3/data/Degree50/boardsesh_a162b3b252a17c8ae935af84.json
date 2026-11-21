@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a162b3b252a17c8ae935af84.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Grinch\u2019s Pinch",
+  "setter": "milessheridan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "B34E8910EE0E4550983819C2860B7488",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1155r12p1156r15p1223r15p1239r12p1242r15p1257r13p1308r13p1344r13p1394r14p1453r15p1516r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 5,
+  "quality_average": 2.2,
+  "hold_fingerprint": "3819ddcd52a2e5183f2baa379abc7f26eda08d19850300cc0efc35ddbbaca029",
+  "validation_errors": []
+}

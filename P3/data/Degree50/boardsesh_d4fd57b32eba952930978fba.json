@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d4fd57b32eba952930978fba.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "sharp shooter 2",
+  "setter": "ryanneedles",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "fbbe6e439d264135867db1d04b9c800a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r12p1147r12p1154r15p1248r13p1265r13p1283r13p1304r13p1388r14p1495r15p1497r15p1510r15p1541r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.97,
+  "ascensionist_count": 31,
+  "quality_average": 3.03,
+  "hold_fingerprint": "7fb74d7f6053d685e5c773eb8c5a9b8e71704baa807cf56c04a8ef01f5cba927",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_86568d821447bfcac90126fb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Understaffed mirror",
+  "setter": "brnesk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "24C543978AEC404B8C908F2D2273C022",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1169r12p1202r13p1213r15p1234r13p1302r13p1350r13p1387r14p1452r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.9,
+  "ascensionist_count": 61,
+  "quality_average": 3.38,
+  "hold_fingerprint": "80ecf129daccd98cd29e746bf5a08680c083842c408d44df7f516a89a6f2da1f",
+  "validation_errors": []
+}

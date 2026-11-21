@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f300f0f5119d9d3e11dd8f95.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "jumbolove",
+  "setter": "thijs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "F9F5B731249241BDB9F903ED3066E77C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r12p1134r12p1167r13p1265r13p1298r13p1338r13p1389r14p1452r15p1520r15p1542r13",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "242006030686f09f4137d0a6976ca30b392d9fb5ba56ca2104974f1d19deca7c",
+  "validation_errors": []
+}

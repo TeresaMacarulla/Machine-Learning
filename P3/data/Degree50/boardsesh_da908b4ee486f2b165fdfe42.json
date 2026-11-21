@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_da908b4ee486f2b165fdfe42.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Pinch L1",
+  "setter": "notadding",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "32D92A34279E43B8A1756C90F253711F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1090r15p1127r12p1131r12p1162r13p1176r13p1179r13p1181r15p1228r13p1233r13p1283r13p1285r13p1332r13p1387r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 5.0,
+  "hold_fingerprint": "092a16b10cb0cfe401b6cab5c257eb7b08df03d13260e7347fa49f6efe825fc6",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b11321e0eebd7a886cc560d5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "The Pinch Cycle",
+  "setter": "marshalldvorak",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "ca565450a67b425c85fc033de8bd17f7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r12p1124r12p1216r13p1228r13p1285r13p1287r13p1357r13p1375r13p1395r14p1461r15p1464r15p1506r15p1534r15p1572r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 6,
+  "quality_average": 4.0,
+  "hold_fingerprint": "e28f96dd06176eda20fc991c55a974e978c4796971445f9d28170eb03a34d4f2",
+  "validation_errors": []
+}

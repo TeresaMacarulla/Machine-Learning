@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7c63f935b2095cd704ac8bd0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Hey Hey Hey",
+  "setter": "Junghan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "50CAED37962640C7AE08DE0E08E364C2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1154r12p1219r13p1256r13p1305r13p1340r13p1354r13p1387r14p1389r14p1478r15p1544r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.67,
+  "ascensionist_count": 13,
+  "quality_average": 2.75,
+  "hold_fingerprint": "adcf15cd52e368eb9af433ae6503e110714522dcc1ed41d33436a0e5dfcd5137",
+  "validation_errors": []
+}

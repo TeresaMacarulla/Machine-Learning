@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b06f9aa8bb33b14e9c28638.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Maki Saki",
+  "setter": "garrettlewis",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "bbd68996-c32b-467a-9784-4bd977d4916f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r12p1169r12p1100r15p1150r15p1221r13p1289r13p1327r13p1394r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.83,
+  "ascensionist_count": 7,
+  "quality_average": 3.3300000000000005,
+  "hold_fingerprint": "a675cc158e0f36f74bd19608f7ccec248129c63d3edc81e3e796376dfaa399c7",
+  "validation_errors": []
+}

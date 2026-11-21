@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eac110b58b5dbe4866fef8bf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "steal helicopter",
+  "setter": "imaad03303",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "296e7faf272a40ff92d19aa3da81195d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1259r12p1292r12p1350r13p1353r13p1359r13p1379r14p1384r13p1499r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6ed21ca9b056f7e81e5de92168646eb9e9d1ac7dc1e44bc819f41281c8c5abaf",
+  "validation_errors": []
+}

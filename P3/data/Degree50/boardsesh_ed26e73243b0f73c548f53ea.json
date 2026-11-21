@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ed26e73243b0f73c548f53ea.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "ousmane.fix",
+  "setter": "Matthew_Sze",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "2ffc9e41-06d7-4c53-9c5d-2edb4ebfe733",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1182r12p1284r13p1083r15p1126r12p1222r13p1322r13p1385r14",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.8,
+  "ascensionist_count": 5,
+  "quality_average": 2.8,
+  "hold_fingerprint": "f797889b7cacceb04721ed6e43db0da6358ee1917b0f0986c646ce4de9268a97",
+  "validation_errors": []
+}

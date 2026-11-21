@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b45d85b34ca2ad489b74991f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Joes Valley Prep",
+  "setter": "sr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "FC3722F79FE14D0F9F415A2A275281EE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1212r13p1233r13p1235r13p1271r13p1273r13p1340r14p1458r15p1462r15p1497r15p1498r15p1507r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8ceb271e99788708269b5c33126bb666f6a7debe608b8684d26f1db7e1485010",
+  "validation_errors": []
+}

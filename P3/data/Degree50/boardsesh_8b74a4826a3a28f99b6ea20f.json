@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8b74a4826a3a28f99b6ea20f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Cho chasseur",
+  "setter": "jojou",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "D9D3A2242050473095623198A90A2552",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1110r15p1128r12p1160r15p1182r13p1247r13p1302r13p1336r13p1390r14p1461r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "c9059df71ede7bfffedc3a1b420d6f9517164d7a0613c455375e916720e8f7c3",
+  "validation_errors": []
+}

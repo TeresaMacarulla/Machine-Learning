@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b8dcf09bb5898220d0f8f7e7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "StumpfSchlumpf",
+  "setter": "FloW95",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "37e69ab695dd47dcad7bf785a9b11c4f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1123r15p1186r12p1191r12p1254r13p1296r13p1318r13p1326r13p1334r13p1357r13p1383r14p1489r15p1500r15p1522r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.08,
+  "ascensionist_count": 12,
+  "quality_average": 2.92,
+  "hold_fingerprint": "692f7cc26f8a7771bd9ab6761ec584b3019c35939627937d365726aa245d8b20",
+  "validation_errors": []
+}

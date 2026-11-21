@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b5a7281aa9d4bf1f821a25b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "renox go go go",
+  "setter": "llughan2012",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "c198563900e24c4eac9591c5c1faff5a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1111r15p1162r12p1176r12p1197r13p1228r13p1281r13p1314r13p1366r13p1367r13p1376r15p1389r14p1391r15p1538r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "445c72b6f6bdeaf4fe9a523c0eef5d4e3f99d1a7580ab4ddbc8568b500415f90",
+  "validation_errors": []
+}

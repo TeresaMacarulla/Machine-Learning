@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d90e0350f3fcb820230ce005.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Cyanide",
+  "setter": "Hamiter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "54ee29ecca8d4f148371ac4e3b84a78a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r15p1154r15p1187r12p1188r15p1263r15p1287r13p1317r13p1368r13p1382r14p1543r12",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "de4329c70259e843ccf19aa392de04f14115bea3fc1492ef03e984d49000fd02",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_62b3ecc45a3a900e07e92b60.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Armor Up",
+  "setter": "RavioliTriceps",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3B1873DB90ED44C2AFB4FBB2BF150A77",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1082r15p1118r15p1134r12p1202r13p1232r13p1302r13p1371r13p1392r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.95,
+  "ascensionist_count": 22,
+  "quality_average": 3.38,
+  "hold_fingerprint": "59a4cd6b909943ea897d38d62cc6e3505e4fbb1818089b7e71a0a85b374bdaec",
+  "validation_errors": []
+}

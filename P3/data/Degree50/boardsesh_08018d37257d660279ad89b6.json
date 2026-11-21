@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_08018d37257d660279ad89b6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Gremlean",
+  "setter": "maxlamenax",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "d4d12667f0124064a8b646e7adc88fd6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1163r12p1198r13p1236r13p1284r13p1304r13p1356r13p1394r14p1461r15p1553r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "0846909824405c4299bda719b030bd92b64f0c21ef197f5ba9c57ed7167185b3",
+  "validation_errors": []
+}

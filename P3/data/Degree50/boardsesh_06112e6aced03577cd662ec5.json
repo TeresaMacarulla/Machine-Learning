@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_06112e6aced03577cd662ec5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Data Display Dance",
+  "setter": "Jbigotes",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "b6990e16435f4a91809938c04abb31e2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r12p1134r12p1202r13p1233r13p1268r13p1336r13p1367r13p1382r14p1454r15p1488r15p1504r15p1530r15p1547r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8d51fabd4f23542f88bd5d3f651a4762fdca2ae9dbd311a6f10229fd02b4214c",
+  "validation_errors": []
+}

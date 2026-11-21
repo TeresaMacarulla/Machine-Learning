@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_60af5fc75def24200f8e1401.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Probably Softer",
+  "setter": "JohnC",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8C26A120C26D44D397C35B554EE67AA3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r13p1143r12p1193r12p1232r13p1250r13p1334r13p1357r13p1391r14p1393r14p1465r15p1477r15p1484r15p1521r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.29,
+  "hold_fingerprint": "227b3beba319d6402f282fb6d96d19d9017332744971607a45ed67006ea1b202",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e0dca8037e1a7e7fafe26b59.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Kasbladdn",
+  "setter": "Sleverin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8932C792CBAF4E269ECAE61148220E6A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1183r13p1199r13p1237r13p1307r13p1309r13p1394r14p1459r15p1476r15p1479r15p1527r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.91,
+  "ascensionist_count": 50,
+  "quality_average": 3.38,
+  "hold_fingerprint": "011c2fa92f31e6a1f08f740e3499069fdb242f526eb4afab561c29d8b0276a64",
+  "validation_errors": []
+}

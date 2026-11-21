@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ced2fa63cf6cb86ede21a805.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Cross of death",
+  "setter": "ArneFarestveit",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "FFC7DD94F5644E808358B16112D557E3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1113r15p1168r15p1198r12p1200r15p1202r12p1243r15p1267r13p1300r13p1331r13p1382r14p1383r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.57,
+  "ascensionist_count": 53,
+  "quality_average": 3.4699999999999998,
+  "hold_fingerprint": "cb730d67208ce6dff84a70d36f6061368484ad459fc317154f29bfa211c9428a",
+  "validation_errors": []
+}

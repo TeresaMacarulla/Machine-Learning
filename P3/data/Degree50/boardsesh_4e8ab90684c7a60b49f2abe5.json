@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4e8ab90684c7a60b49f2abe5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Barrel roll (campus)",
+  "setter": "jasperj",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 8,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "BE14A02072104B088935DE621D9E18E3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1209r12p1210r12p1257r14p1260r13p1275r14p1312r13p1343r13p1345r13p1382r13p1386r13p1390r13p1394r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 47,
+  "quality_average": 3.45,
+  "hold_fingerprint": "5779361a0296b0a9576294c2db783244fa14c1b927931e3963695016a51bb3c1",
+  "validation_errors": []
+}

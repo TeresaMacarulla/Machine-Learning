@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_71ca6c6d85a348b0a893415f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "bodycontrol",
+  "setter": "peterschwab",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "3e7bcd33c79b44d59d517080e6c2df10",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1186r13p1254r13p1318r13p1320r13p1321r13p1332r13p1383r14p1452r15p1456r15p1489r15p1508r15p1530r15p1531r15p1534r15p1548r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.99,
+  "ascensionist_count": 170,
+  "quality_average": 3.26,
+  "hold_fingerprint": "ca4f2ab9a437353ee43c4041bc6ac39183a9b17e18745fe9d64c3769e8b61529",
+  "validation_errors": []
+}

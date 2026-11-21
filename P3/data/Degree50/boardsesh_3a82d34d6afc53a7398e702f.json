@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3a82d34d6afc53a7398e702f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "smena's boulder",
+  "setter": "smena",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "ac5f0ae39be0429aa8e793af21f45a89",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1115r12p1142r15p1147r12p1231r13p1278r13p1316r13p1385r14p1459r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.17,
+  "ascensionist_count": 18,
+  "quality_average": 3.22,
+  "hold_fingerprint": "84569c0f75d8cb9db161c971e92d2edac2e53909ce2b706e36635a84e46da4b9",
+  "validation_errors": []
+}

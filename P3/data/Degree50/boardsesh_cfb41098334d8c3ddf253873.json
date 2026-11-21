@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cfb41098334d8c3ddf253873.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "ZILLA 9.0",
+  "setter": "rikischwark",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "797efc98e8c744f7af5b224541ff597b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1148r12p1196r13p1212r15p1228r13p1298r13p1349r13p1383r14p1457r15p1463r15p1502r15p1505r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.67,
+  "ascensionist_count": 3,
+  "quality_average": 2.33,
+  "hold_fingerprint": "db66d44d0eeb742b768996dbfb5278cb60a3e42a0fa9f4f6a140a3142b126298",
+  "validation_errors": []
+}

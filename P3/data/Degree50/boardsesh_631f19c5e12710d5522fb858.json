@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_631f19c5e12710d5522fb858.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Bingo/Bongo",
+  "setter": "fjk918",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "DEE986A01EDE49AE9ED5FA06F5D45F01",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1175r12p1177r12p1201r13p1249r13p1270r13p1293r13p1358r13p1386r14p1483r15p1503r15p1536r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5f88f50330a36c30861db278ce876f4fd621f3ab21da09b92cc9f5db0ab3226e",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_745aa466a440e66f6a96a2e1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Timeless G",
+  "setter": "lucadupont",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "ae571205-d3fa-4192-ae0d-2d0cf7ebffb2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1164r12p1196r13p1233r13p1249r13p1497r15p1287r13p1355r13p1370r13p1382r14p1466r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.43,
+  "ascensionist_count": 8,
+  "quality_average": 4.57,
+  "hold_fingerprint": "7b23a860d4b2bfc6947cbddd31fecc908e35631b07b0bc664fe82b49c7073b11",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3cbde4e1068566dce6343f26.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Where Legends Are Made",
+  "setter": "RyanKing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "B83AC9894490434FAD4A27B7C764844C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1133r15p1162r12p1163r12p1199r13p1200r13p1212r15p1232r13p1234r13p1266r13p1302r13p1315r13p1384r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "62a8de0514fe097f3ee293cee6e1ce0d19495b8d9e758764873ec51b3f902aab",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6d2cee7368f31ff875b92f82.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Mat train",
+  "setter": "titiboule",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "8FF596C12E7C4B83904A022996E0C3E1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1207r12p1239r12p1283r13p1305r13p1387r14p1473r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.92,
+  "ascensionist_count": 12,
+  "quality_average": 3.83,
+  "hold_fingerprint": "f8762e1c255be9b808dc82aa1d2773b4c9f57654c831024e14ffd918ed647a35",
+  "validation_errors": []
+}

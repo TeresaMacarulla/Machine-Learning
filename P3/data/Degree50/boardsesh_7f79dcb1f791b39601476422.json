@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7f79dcb1f791b39601476422.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Potato Pancakes",
+  "setter": "tomheslam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "D13E5AA2ED19494998FAFE2327133E7C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1151r15p1165r15p1233r13p1235r13p1268r13p1305r13p1306r13p1357r13p1388r14p1454r15p1457r15p1544r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7f545d9fc55b9e38c00704b8338894a9f803710531e76dffc56b828c0026886f",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_def3007f3e13a1f209f99025.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Lun",
+  "setter": "KassePerson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "b1ec3187-b015-4d6f-9c6b-a3e2bf658fbb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1166r12p1456r15p1198r13p1177r13p1108r15p1131r15p1247r13p1245r13p1501r15p1300r13p1353r13p1219r15p1387r14p1389r14p1561r15p1317r13",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.33,
+  "ascensionist_count": 3,
+  "quality_average": 2.33,
+  "hold_fingerprint": "2335b44c60514c0c905bdddee1193c528f06bc6bd29a36c5720825b76aed7e48",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_76cc097b394ff0868e74b0f8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Interpolescion",
+  "setter": "Matthew98",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "92e3c3e1ccad4b2eaf74616971daf9dd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1105r15p1157r12p1207r13p1222r13p1256r13p1270r13p1300r13p1302r13p1350r13p1383r14p1447r15p1509r15p1536r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 4.67,
+  "hold_fingerprint": "21ef3e62c672556b6fb583d79c3a1678ad9463b41dcbaad96123f5896660c9e8",
+  "validation_errors": []
+}

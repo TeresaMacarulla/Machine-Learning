@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3db2051f525da5710d01598c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "bucket of honey",
+  "setter": "SimonClimbsHard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "FE358B889FA347BD84CE6523D92AA58E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r12p1143r12p1209r13p1246r13p1294r13p1348r13p1382r13p1385r14p1387r14p1460r15p1464r15p1519r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5a66296678631922d150ffe51cd4a2d1910020d9c877d8790a0f03dcded923ba",
+  "validation_errors": []
+}

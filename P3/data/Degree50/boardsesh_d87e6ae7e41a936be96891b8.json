@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d87e6ae7e41a936be96891b8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Hindsight Bias",
+  "setter": "ABenAbides",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "392102945afd4af09b831b67d3058f8d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r15p1148r12p1162r12p1201r15p1215r13p1255r15p1263r13p1301r13p1351r13p1371r13p1390r14p1458r15p1460r15p1467r15p1549r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.92,
+  "ascensionist_count": 37,
+  "quality_average": 3.8399999999999994,
+  "hold_fingerprint": "3d2db47dd01eba272fac6f4446804c670730e4d914847c67598de75cae761aba",
+  "validation_errors": []
+}

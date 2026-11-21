@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_57557a59abb24b1630e0107b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "A25",
+  "setter": "loekmansv",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0e68e51a-c17e-477d-b4d5-22838945ec4d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1201r12p1288r13p1223r12p1514r15p1305r13p1335r13p1386r14p1157r15p1255r15p1558r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.67,
+  "hold_fingerprint": "29ea5c4543206d4bb7fc5dd12008ac2ee6746e612b40433dd609993995a52a69",
+  "validation_errors": []
+}

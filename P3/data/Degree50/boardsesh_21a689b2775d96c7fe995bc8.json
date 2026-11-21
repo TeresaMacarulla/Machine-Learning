@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_21a689b2775d96c7fe995bc8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Brush Thy Holds",
+  "setter": "Riptile",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "050045C6F4794E6DA009563D8D93733E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r12p1169r12p1220r13p1252r13p1307r13p1324r13p1377r13p1395r14p1453r15p1561r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "eaee6b1d1a7ede0874f306c469f228f5c8dbb4b681726e3ef9ab88f93f5c8930",
+  "validation_errors": []
+}

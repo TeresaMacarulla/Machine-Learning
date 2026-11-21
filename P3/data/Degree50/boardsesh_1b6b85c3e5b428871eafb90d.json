@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1b6b85c3e5b428871eafb90d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Differentiation",
+  "setter": "lochlanmac2554",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "EBF2BCC01F034D5FBAE3E8742C102B0B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1169r12p1202r12p1253r13p1306r13p1338r13p1374r13p1387r14p1454r15p1489r15p1553r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5540d08080db3fe68cde35457a4f1a792bc92b98330cd32702d86e86b360c17c",
+  "validation_errors": []
+}

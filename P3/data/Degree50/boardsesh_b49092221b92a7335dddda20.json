@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b49092221b92a7335dddda20.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Mediocrity",
+  "setter": "stubbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "954f6cba16804655b35981af15c7a1ef",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1092r15p1126r12p1127r15p1145r12p1178r15p1198r13p1267r13p1297r13p1335r13p1387r14p1531r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 13,
+  "quality_average": 3.1499999999999995,
+  "hold_fingerprint": "3b2cda356850b2d7cb0c0a5d35d3349bb134d4833424ff139969be153074a7d6",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ab4898c44c7bfe99c44b8e69.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Bicicletta",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E3B3EB23E7464F11A3AA87ECF75E7F56",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1184r12p1185r15p1202r12p1248r13p1266r13p1281r13p1366r13p1382r14p1479r15p1490r15p1532r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.06,
+  "ascensionist_count": 17,
+  "quality_average": 3.31,
+  "hold_fingerprint": "d617d2eae67489bc1a5b4709221facb0de2806669825a01dcffce57e83ce7fc2",
+  "validation_errors": []
+}

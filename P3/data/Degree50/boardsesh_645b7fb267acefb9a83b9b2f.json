@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_645b7fb267acefb9a83b9b2f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "ali",
+  "setter": "samsamson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5f9f460b438b4c18a06c9e5184b41a68",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1180r12p1182r12p1233r13p1284r13p1299r13p1337r13p1386r14p1476r15p1503r15p1530r15p1560r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "07f23869b3981b6ea13d7ef5cb4e769e4c82bfac7ee9a28c568045d5fe82e09c",
+  "validation_errors": []
+}

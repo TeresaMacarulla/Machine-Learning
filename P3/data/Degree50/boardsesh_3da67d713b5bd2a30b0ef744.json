@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3da67d713b5bd2a30b0ef744.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Sneaky Link",
+  "setter": "berrickmiller",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "c8cfff6de2cb42f690b73161c255e66d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1149r12p1214r13p1270r13p1322r13p1344r13p1395r14p1476r15p1497r15p1513r13p1543r15p1545r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6c2510b2e41c9ffacd40745c29514cc9bef6d8ab07c1c00f7b0e434fcc615493",
+  "validation_errors": []
+}

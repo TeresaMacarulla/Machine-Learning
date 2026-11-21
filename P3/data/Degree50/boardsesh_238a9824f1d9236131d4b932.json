@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_238a9824f1d9236131d4b932.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Too many right feet",
+  "setter": "lucasberthelsen2660",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A29E51BA9EC3403CA1D92B96EFAA3C8F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1138r12p1170r12p1222r13p1237r13p1287r13p1335r13p1390r14p1447r15p1473r15p1488r15p1534r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.81,
+  "ascensionist_count": 39,
+  "quality_average": 3.43,
+  "hold_fingerprint": "40113a3a63a1fd50ccc4a1b033a8c451e3232c464914dd3b95f891fe60938088",
+  "validation_errors": []
+}

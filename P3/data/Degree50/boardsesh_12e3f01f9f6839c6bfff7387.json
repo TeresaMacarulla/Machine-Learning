@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_12e3f01f9f6839c6bfff7387.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Spiassegget",
+  "setter": "tomasij",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "c6c4d3fa9a0e4762a88c63f09dfc52f1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1164r12p1182r12p1221r15p1250r13p1259r15p1282r13p1287r13p1322r13p1339r13p1375r13p1395r14p1456r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "eecf6ecb0f547c206354d09e9ff8460c6de7cd182bd67677e26595e0eec6a103",
+  "validation_errors": []
+}

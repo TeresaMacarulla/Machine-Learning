@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a30e6de3b747ae688b3f39c4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "melapela",
+  "setter": "ronny.esc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "d0d7d3e6-c382-47e2-86e9-545a4f2edd12",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1203r12p1153r12p1269r13p1576r13p1386r14p1481r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "87efa7b6bb7807348569fe83890f59aae1589946739dc4d24abcc44be60c762b",
+  "validation_errors": []
+}

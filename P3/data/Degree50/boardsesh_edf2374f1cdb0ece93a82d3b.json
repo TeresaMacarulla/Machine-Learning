@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_edf2374f1cdb0ece93a82d3b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Propera Parada",
+  "setter": "MarceSilva",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "E6AC5A55D6D5456E851B874E6C46EA68",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1169r12p1200r13p1236r13p1243r15p1266r13p1296r13p1300r13p1313r13p1345r13p1381r14p1453r15p1469r15p1495r15p1521r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a159b85ff3c7b79d1f4dd5b19b4f3b58cccbd4a68133f99775025ee8b2d7a0be",
+  "validation_errors": []
+}

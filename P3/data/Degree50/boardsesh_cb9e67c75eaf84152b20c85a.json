@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cb9e67c75eaf84152b20c85a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "In case of emergency",
+  "setter": "Xerat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "17416207619448b5985e7545f43a7385",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r15p1245r12p1265r15p1269r15p1294r13p1350r13p1354r13p1366r13p1389r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0961b7010a256046e6b2a186aaf4b36850b88aad41dff670f4145128df3221d2",
+  "validation_errors": []
+}

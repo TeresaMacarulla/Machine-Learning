@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_852de42c2693308af85b0639.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Mito stand replica",
+  "setter": "von_z",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "41710d898aa449b0b7ee97a9829b586f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r15p1230r12p1261r13p1298r13p1317r13p1369r13p1388r14p1502r15p1521r12p1557r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0efa698ff154dc711091dbd234b68c792aba4ea20c83f493c76318f74afd55ba",
+  "validation_errors": []
+}

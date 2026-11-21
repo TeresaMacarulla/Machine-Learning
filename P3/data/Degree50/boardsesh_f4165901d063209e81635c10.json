@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f4165901d063209e81635c10.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "shoulder hinges 2.0",
+  "setter": "Thijn01",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 9,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "62657d7c75464dc7b2f2c51cf2fb364e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1168r15p1215r13p1236r13p1251r13p1287r13p1302r13p1355r13p1356r13p1377r13p1391r13p1395r14p1454r15p1457r15p1523r15p1558r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.75,
+  "ascensionist_count": 30,
+  "quality_average": 3.68,
+  "hold_fingerprint": "14ff0013afed78a9e43e8f492890eba0701615aa75d62c57632c77d4282f419e",
+  "validation_errors": []
+}

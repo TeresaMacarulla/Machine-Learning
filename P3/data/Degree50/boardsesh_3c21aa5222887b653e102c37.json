@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3c21aa5222887b653e102c37.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Move your Gaston",
+  "setter": "La_lex_31",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "12BE315626D347B49A1DAAF65BA3D13D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1149r12p1222r13p1235r13p1290r13p1320r13p1371r13p1383r14p1468r15p1486r15p1499r15p1508r15p1540r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "035303cc700cc8ec8666d48f7c108db3e8168dea11ad15b584527a07773b5325",
+  "validation_errors": []
+}

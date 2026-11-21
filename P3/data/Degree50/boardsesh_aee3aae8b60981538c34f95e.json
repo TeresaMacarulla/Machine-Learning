@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aee3aae8b60981538c34f95e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Like riding a bike",
+  "setter": "bsinger",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "b8b4bc75bb90469ea7abc1175d8d7abe",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1082r15p1149r12p1150r15p1235r13p1236r13p1285r13p1289r13p1340r13p1391r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.04,
+  "ascensionist_count": 196,
+  "quality_average": 3.4,
+  "hold_fingerprint": "b13c00ff700fdbc66b10d7f4a18d91b367298e318d952f46ca8d7bb913e71e3f",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2793aea7d1fc1b8d3bd22a25.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "One hand job",
+  "setter": "Kruder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "252a4d7acd7f4da3b9cb4356580228ef",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1129r12p1171r15p1198r13p1286r13p1290r13p1308r13p1392r14p1464r15p1469r15p1514r13p1554r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.67,
+  "hold_fingerprint": "e8ab32fcc4f20a5a1d6a04e80aa49d5bed12658d09627bd13cb6949ce1ce951f",
+  "validation_errors": []
+}

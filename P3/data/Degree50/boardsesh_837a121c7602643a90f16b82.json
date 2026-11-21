@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_837a121c7602643a90f16b82.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Campus strength benchmark",
+  "setter": "Ham_",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "E54A7471954A41AA9E1C67EBCBE7A67A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r12p1231r12p1302r13p1306r13p1308r13p1394r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3957aefc345e6270f21fe6d19a0feb111a61ec48d2ce15016e5b21da8d20be68",
+  "validation_errors": []
+}

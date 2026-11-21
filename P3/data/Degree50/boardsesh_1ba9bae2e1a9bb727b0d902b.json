@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1ba9bae2e1a9bb727b0d902b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Angry pebble",
+  "setter": "OscarThearle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "6ffbc29ec5a0472fa573a1cbc6219bf8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1108r15p1130r15p1141r12p1144r12p1188r15p1194r13p1213r15p1214r13p1216r15p1242r15p1263r13p1267r13p1283r13p1302r13p1308r13p1342r14p1461r15p1464r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.75,
+  "ascensionist_count": 4,
+  "quality_average": 3.25,
+  "hold_fingerprint": "b197c587740cac5d142b156189d7905a62c93fe97f56d69201b4416be4157a1f",
+  "validation_errors": []
+}

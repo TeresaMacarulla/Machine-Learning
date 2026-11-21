@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ad3585c40147b9788e18214e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Shai Hulud",
+  "setter": "kmierek",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "AFD35AF92C0F47B0B4C749DE3664DF88",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1189r12p1204r12p1256r13p1270r13p1304r13p1336r13p1370r13p1385r14p1481r15p1489r15p1506r15p1532r15p1552r15p1559r15p1569r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 2.0,
+  "hold_fingerprint": "82893ee7966bcd6f7085f7eb43605c91c77600f8ed300ed9005cc9f714ddfea4",
+  "validation_errors": []
+}

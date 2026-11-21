@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5de6e25f93c37190b3cdf39a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "AMS",
+  "setter": "florenz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "6B6B74E762F445E89C33954C990F7800",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1306r12p1308r12p1340r13p1356r13p1359r13p1371r13p1387r14p1559r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "52ef11106d7fd3fd3c9efc02324eb7085718b206615c6df96f9d8e52f5c7bf06",
+  "validation_errors": []
+}

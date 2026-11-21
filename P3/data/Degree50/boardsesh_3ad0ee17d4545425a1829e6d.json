@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3ad0ee17d4545425a1829e6d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "feetception",
+  "setter": "ilmo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "a0de7de92626419fb983e094063e3451",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1096r15p1147r13p1152r12p1169r12p1199r13p1230r13p1246r13p1280r13p1335r13p1387r14p1452r15p1454r15p1466r15p1510r15p1541r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "002e988eb8408b074ef5c657923115685ae30b20d6aecd3116623bf78a6ad10e",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1bce173dae28f7e63f0dfb9f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Tremor",
+  "setter": "will_avelar",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "EEF649ADF1A24327B43A86C0D7EAB8E3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1162r12p1214r13p1252r13p1269r13p1305r13p1334r13p1386r14p1540r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 13,
+  "quality_average": 3.31,
+  "hold_fingerprint": "2398f679ed9c6dd3ade75c0fb1829a2480dd26a7d36a114fdc9abf3c974f7c28",
+  "validation_errors": []
+}

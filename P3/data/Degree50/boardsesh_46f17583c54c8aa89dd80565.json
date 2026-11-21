@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_46f17583c54c8aa89dd80565.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Bribe the dragon",
+  "setter": "andersb_",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "a6070dc2-ad64-41c1-b2ff-f38fc320ef3e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1192r12p1294r13p1300r13p1302r13p1304r13p1257r13p1259r13p1289r13p1534r15p1359r13p1395r14p1210r12",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.33,
+  "hold_fingerprint": "e47da8363c8ecec6160f62be4df13cd355f9b3215a50537cfa62aee480c41586",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ac6c4a7348d8dab85a54258b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "the pentagonal animal",
+  "setter": "BLpat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "49bf0fb8266145de90eca172aef402ae",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r12p1214r13p1248r13p1261r13p1278r14p1452r15p1492r15p1523r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "dab72133f38eff246bcdbd73149c425b8f92c4ae82cfd969744835b004021028",
+  "validation_errors": []
+}

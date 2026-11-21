@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ba0e3bc8944fa90071449aeb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Monkey Bar Action\ud83d\udca5",
+  "setter": "V8climber",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "69511c36-1a79-445d-bc4c-1978da60b63d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1182r12p1184r12p1096r15p1231r13p1263r13p1277r13p1519r15p1512r15p1363r13p1390r14p1342r15p1384r13p1352r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "52345dbe65d4c3ffe49c4ccc5e203b572e6054da61d7d622ac5b7ce2098eb134",
+  "validation_errors": []
+}

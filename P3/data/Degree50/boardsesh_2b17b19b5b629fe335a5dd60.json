@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2b17b19b5b629fe335a5dd60.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "something idrk",
+  "setter": "morris.walker",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5f5457a62d904284abc2f9fa9e76334d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1165r12p1166r12p1234r13p1288r13p1353r14p1455r15p1457r15p1498r15p1540r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "93b0687215ede51081afc3480b4fcd2b476fc5c47867d1937200231ea8a61394",
+  "validation_errors": []
+}

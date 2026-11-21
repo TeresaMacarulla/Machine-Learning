@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f73974bb47da25f2ef2f2599.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "David\u2019s shoulder",
+  "setter": "jkim.climbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "64cd273f-20c8-456a-a7a8-23a70a798ecd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1202r12p1231r13p1165r12p1479r15p1081r15p1281r13p1347r13p1558r15p1384r13p1387r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 1.0,
+  "hold_fingerprint": "02aff9f104ce01fc7f57ae447fb3bf967200e19a7404882944bbb5a39e876a2d",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a69af71039c78eb33f456891.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "redman",
+  "setter": "eprice",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "1FCC22D1F61A4EFE95753BF63A58EDE8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r12p1169r12p1199r13p1203r13p1250r13p1297r13p1332r13p1365r13p1387r14p1451r15p1454r15p1470r15p1476r15p1495r15p1504r15p1547r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "8107939c5ad530eb02285ee82460d78634f1130cf4d29152c2dc310a5cf2e6df",
+  "validation_errors": []
+}

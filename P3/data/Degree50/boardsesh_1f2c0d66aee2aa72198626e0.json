@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1f2c0d66aee2aa72198626e0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "long/ short way home",
+  "setter": "timassmann",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 10,
+    "foot": 12
+  },
+  "source": "boardsesh",
+  "source_uuid": "3b5cac626d98495d976c729a983534ce",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1086r15p1089r15p1091r15p1131r12p1135r12p1144r13p1150r13p1163r13p1175r13p1192r13p1246r13p1260r14p1296r13p1311r13p1347r13p1382r13p1385r14p1479r15p1485r15p1494r15p1497r15p1529r15p1546r15p1557r15p1583r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "bc38ec535782c05388b328c87292db984d35cd24f7523fceda379de91dad6435",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8f8393967593c7f6f9c4a806.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Fingerhouse",
+  "setter": "ande2354",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5F0A936469B54EC99440FC24C75B2858",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1180r12p1231r13p1267r13p1303r13p1320r13p1357r13p1388r14p1475r15p1493r15p1504r12p1543r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "47bd30c461812f47caa1722f9ada1c5a3d4f22f06560e0f980c376bc8f6ae75e",
+  "validation_errors": []
+}

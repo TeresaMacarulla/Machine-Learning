@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0e4dc626dbda9342ea910cdb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Idle Walk",
+  "setter": "pooboy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 10,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "e38e675e20954d6d8f10b86bb77ec0ef",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r12p1146r12p1147r15p1172r13p1218r13p1241r13p1246r15p1292r13p1301r13p1326r13p1341r13p1375r13p1381r14p1385r14p1480r15p1531r13p1592r15p1593r13",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bc425fa66cba346ea6db5452f0146975ffbb462c0d451f2bb6fffe55a039f4e9",
+  "validation_errors": []
+}

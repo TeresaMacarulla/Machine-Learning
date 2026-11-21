@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_296abdc8c312763357f87dd1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Beep #2",
+  "setter": "scro",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "832A409CABC34A2B9AF82A001FFFE93C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1153r12p1203r13p1273r13p1323r13p1339r13p1370r13p1371r13p1383r14p1454r15p1489r12p1506r15p1553r15p1566r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 9,
+  "quality_average": 2.33,
+  "hold_fingerprint": "64f17cfe4f0aa8ff91eac8cc0341d5f941543ef5878f35091bb4a0b31e39a22b",
+  "validation_errors": []
+}

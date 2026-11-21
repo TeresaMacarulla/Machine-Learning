@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8f7c1235279fd156e523055c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "L town bloc",
+  "setter": "Cornelius.kilter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8d0386cc66194ae5b8db665919776936",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1150r15p1162r15p1179r12p1217r13p1263r13p1319r13p1390r14p1568r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8baada708d1adddcf9190b4832608642991066c47bb2614772ef11b6202b9bec",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_76fba353334840ff44dc6ff0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Motor Lips",
+  "setter": "maxlamenax",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "32e828b9d7094709b07c85f835a9d7ce",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r15p1227r12p1249r13p1284r13p1339r13p1340r13p1394r14p1538r12",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.5,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "753e87c493395c53ccba70661551c0d814a1fafde0c6e04b7664cae86827c953",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b56195eea39e201b8a30da9c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Get under it and cling",
+  "setter": "bkbskilterboard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "B31821290F7546FC88A7A2B37A334E4F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r12p1153r12p1166r13p1185r13p1268r13p1284r13p1350r13p1389r14p1450r15p1452r15p1456r15p1524r15p1532r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "e16e33a7ec2ad9364c6ce26c06c3dfbe0634cf5cb394876a4a211e07835fd377",
+  "validation_errors": []
+}

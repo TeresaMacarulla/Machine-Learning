@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_105f6e04f46bc2d198ae67e8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "nbd",
+  "setter": "cfineburg",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "9bb7aefa85bf4e9fa71ece88b8ce7985",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1202r13p1266r13p1270r13p1322r13p1342r13p1389r14p1454r15p1455r15p1456r15p1513r15p1526r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4da975d02af7abc41584f650f106682b82bc56d0c75b1a7fce9cec93c953d7e0",
+  "validation_errors": []
+}

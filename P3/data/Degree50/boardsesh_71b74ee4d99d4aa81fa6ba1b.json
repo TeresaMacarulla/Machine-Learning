@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_71b74ee4d99d4aa81fa6ba1b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "tomoa",
+  "setter": "AndyY",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F2D3CA46A01948C4A4D2234E3722AD33",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r12p1199r12p1216r13p1266r13p1283r13p1298r13p1387r14p1469r15p1506r15p1511r15p1530r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4f0cdb87603bdca36aa531efa46bb4c56a0107e6d16fdbbbcf9c8e0352ecd34f",
+  "validation_errors": []
+}

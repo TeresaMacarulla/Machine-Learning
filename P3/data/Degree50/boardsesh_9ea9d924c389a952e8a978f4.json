@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9ea9d924c389a952e8a978f4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "the trolls traverse ",
+  "setter": "Gav",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "c499bcec-f52f-4e14-ac03-6bf0b0d5b791",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1244r13p1521r13p1460r15p1314r13p1298r13p1465r15p1337r13p1371r13p1143r12p1360r13p1395r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.75,
+  "ascensionist_count": 5,
+  "quality_average": 3.75,
+  "hold_fingerprint": "e754d33cda27ef3934123176f64ed6d65a748857a8aa6ec5d8b6384c7a71d55d",
+  "validation_errors": []
+}

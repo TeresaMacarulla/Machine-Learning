@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_869ea988fe2ca0f4259eb7db.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Bichitos Move",
+  "setter": "sarameend",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "44F7274B3BEF4BDE8AF1EE60326615DF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r12p1208r13p1221r13p1272r13p1303r13p1336r13p1367r13p1380r14p1447r15p1508r15p1540r15p1546r15p1556r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "e30373434d91f6f14dbf1ad6192b50217ed3d702619167a575b0729da7a9452c",
+  "validation_errors": []
+}

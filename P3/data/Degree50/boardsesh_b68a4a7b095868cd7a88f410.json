@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b68a4a7b095868cd7a88f410.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "burden of dynos",
+  "setter": "kitkatporty",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "990DF9222BC64A1A9B4C853EC6F4B79E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1169r15p1198r12p1232r15p1236r13p1281r15p1302r13p1350r13p1387r14p1467r15p1496r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "3762f3a2b7b6db90337b276dc28fef1c7dcaf758cc5c0e181bf2dbcc66039bb1",
+  "validation_errors": []
+}

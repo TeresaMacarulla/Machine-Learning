@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_61b5ab02875792d517686a25.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Flame Shock",
+  "setter": "landfill",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "e63891dca465460f8e1b6afc40298122",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r12p1114r12p1162r13p1179r13p1245r13p1296r13p1384r14p1457r15p1485r15p1510r15p1528r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e0cdbe9dd9c566b590b9c1ecb0c7333c3c7273bbda3670da879891a820b5a8ff",
+  "validation_errors": []
+}

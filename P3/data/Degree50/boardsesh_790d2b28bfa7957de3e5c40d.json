@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_790d2b28bfa7957de3e5c40d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "SHLTR trainer 2.0",
+  "setter": "shep_dawson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "4B1BBA882A7B443C8C4B4C66A9683DC8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1203r12p1204r12p1307r13p1320r13p1392r14p1470r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.75,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "c0178bdc4ed4cb38085de16cbee3a8b52fb8a68883c7d272574e54d56658edf4",
+  "validation_errors": []
+}

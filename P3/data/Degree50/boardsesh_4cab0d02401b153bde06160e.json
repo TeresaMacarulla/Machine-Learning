@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4cab0d02401b153bde06160e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "Flex up",
+  "setter": "isaac_dunk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B6E445797A3F4F97ADD7F2BFA6F32F3F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1157r12p1217r13p1224r13p1228r13p1318r13p1363r14p1447r15p1480r15p1497r15p1569r13",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "56d167a386ca544a41c43593356386202f015bd5ef6f139a738358825b60f207",
+  "validation_errors": []
+}

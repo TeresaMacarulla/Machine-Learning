@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_24f3f1608d0ebcb764a0689a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "float like a jellyfish",
+  "setter": "Z.triestoclimb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "D3C56BC679514C8BB97A13C67729585F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1194r12p1214r13p1226r12p1231r13p1270r13p1305r13p1359r13p1395r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "5c7f6299a5e2b8aa0b0b74ae69444d65e5e4469e3772fd4365ec8503793bcf04",
+  "validation_errors": []
+}

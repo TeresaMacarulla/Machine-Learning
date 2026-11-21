@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b266d69f4404ba01a41d76a3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "entzugserscheinung",
+  "setter": "derwelt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "b32b712a2b8145a691f694f89c4de4c2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1129r12p1199r13p1256r13p1323r13p1360r13p1395r14p1462r15p1476r15p1488r15p1496r15p1509r15p1517r15p1545r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.86,
+  "hold_fingerprint": "871631ca3151ef5e229ee733aa0b98cc16e9a35332e94de7bc7a9832df0d9d32",
+  "validation_errors": []
+}

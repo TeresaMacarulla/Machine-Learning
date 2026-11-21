@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0506d6f2f57a64134f1cd1bf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "pinch Child",
+  "setter": "dylan_67878",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "8c971f3ca8b34f029eefaea18cd75822",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1176r12p1216r12p1228r13p1283r13p1295r13p1332r13p1345r13p1380r14p1466r15p1477r15p1495r15p1502r15p1530r15p1546r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "4b55a78127da7548296ff26ebbd75fa5214427e6233d83dc55b31679d91c7bc5",
+  "validation_errors": []
+}

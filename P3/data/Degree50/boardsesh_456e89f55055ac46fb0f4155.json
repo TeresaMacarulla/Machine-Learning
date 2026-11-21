@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_456e89f55055ac46fb0f4155.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "ford focus",
+  "setter": "samgtmeyer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "6a20d537b66e4738b0010f921f117349",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1085r15p1109r12p1121r15p1141r12p1154r15p1163r13p1198r13p1208r15p1224r13p1236r13p1239r13p1259r15p1308r13p1360r13p1391r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.97,
+  "ascensionist_count": 4035,
+  "quality_average": 3.2818844532605995,
+  "hold_fingerprint": "d521bd216b7fddd5620b30f9fbf1dc095b8258265340e041104651a773f4d48c",
+  "validation_errors": []
+}

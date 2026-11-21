@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d6977abae4088a1b1c895c6a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Tension 2.0",
+  "setter": "RenzoNL",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b2a5c194-476b-46f1-b710-02c5d4637bf1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1268r12p1505r15p1507r15p1319r13p1534r15p1371r13p1541r15p1386r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 10,
+  "quality_average": 2.5,
+  "hold_fingerprint": "305a4a29147fe20212a1d11d9e310df0053a41ea2105b41f7c6901bdfcb71a4d",
+  "validation_errors": []
+}

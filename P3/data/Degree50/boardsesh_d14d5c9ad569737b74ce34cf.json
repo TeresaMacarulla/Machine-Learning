@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d14d5c9ad569737b74ce34cf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "water pump",
+  "setter": "moeghanem",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "473ec1e8100042d4ae69f665d6ccdcc1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1114r12p1198r13p1247r13p1283r13p1285r13p1337r13p1388r14p1456r15p1458r15p1511r15p1532r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "10a22c0380e111f02c295558b10e6476853615dd5259a15b7da898a7c3ca633e",
+  "validation_errors": []
+}

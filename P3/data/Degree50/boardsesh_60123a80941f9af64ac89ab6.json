@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_60123a80941f9af64ac89ab6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "umalla",
+  "setter": "aswin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "19cb3c48757e4d7d8333f72d22928a85",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1184r12p1202r12p1204r15p1210r15p1267r13p1280r13p1301r13p1349r13p1381r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "657b422d815b9ee0daf2a1652028553b7e830425a60a90e4d5e269e6980f6382",
+  "validation_errors": []
+}

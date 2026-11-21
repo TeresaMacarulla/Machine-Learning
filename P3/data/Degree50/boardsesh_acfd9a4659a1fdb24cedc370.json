@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_acfd9a4659a1fdb24cedc370.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "MrWidges",
+  "setter": "mrwidges",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "124eebb746704faf81c7dbe9ad5186a8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r15p1133r15p1168r15p1190r15p1200r12p1221r12p1237r13p1257r13p1308r13p1343r13p1393r14p1394r14p1453r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ec69390f4d07187435a5f2b2f143a4343e9653e28359652a9725b158b4a2ac6d",
+  "validation_errors": []
+}

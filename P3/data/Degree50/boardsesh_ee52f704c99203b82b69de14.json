@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ee52f704c99203b82b69de14.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "T3 Just Tank Only",
+  "setter": "T3ddy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "71abbf63175b495cb48c97e2e7de5e88",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1161r12p1192r13p1246r13p1299r13p1348r13p1380r14p1521r15p1523r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b2cac5ee9316ecc9f9d1dba80dbc5e6023b9af1486ece812a4a1eba22de688b5",
+  "validation_errors": []
+}

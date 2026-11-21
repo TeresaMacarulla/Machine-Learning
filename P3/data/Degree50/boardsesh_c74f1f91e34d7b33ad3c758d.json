@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c74f1f91e34d7b33ad3c758d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Tundercling",
+  "setter": "ice_pops1837",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "240A1EDBC1CC4861838D6F763089B9DF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1120r15p1144r15p1168r12p1185r12p1215r13p1268r13p1317r13p1347r13p1350r13p1379r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "a3ab87f9589a76d9ec6188191480dfa132b11a8c5ae16df9f73f0ec52a334b9f",
+  "validation_errors": []
+}

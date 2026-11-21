@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2e80337dfc850289908810e7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Silence 9c+",
+  "setter": "PeruUrkola",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7A5CEC21C3844A0D83E39AC22AD60991",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r15p1185r12p1198r12p1269r13p1286r13p1324r13p1342r13p1395r14p1457r15p1513r15p1543r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bc0f1bdec88474bd7ed1786a49d91d0b7a12f444b496d6d9ead91bf758dd3710",
+  "validation_errors": []
+}

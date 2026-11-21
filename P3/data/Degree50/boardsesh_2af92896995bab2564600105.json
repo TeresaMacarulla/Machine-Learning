@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2af92896995bab2564600105.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "B4 - 200",
+  "setter": "CRG_BC25",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 7,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "9401FAEBBAFB4B8993CEE4E01FB5E4E0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1111r15p1118r15p1133r15p1161r15p1181r15p1201r12p1212r15p1215r13p1220r12p1247r13p1251r13p1300r13p1315r13p1350r13p1369r13p1384r14p1386r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "5db631eb3fe11b3895c45432952bf1c0aaf5a80af1bf960a9444d8342c032acf",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e60fc13689ba7cdcf9e45800.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Genkidama",
+  "setter": "FloW95",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0823f04545e84636bd1c9baab870ac3a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1100r15p1129r12p1199r13p1222r13p1306r13p1351r13p1352r13p1357r13p1382r14",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.86,
+  "ascensionist_count": 7,
+  "quality_average": 3.29,
+  "hold_fingerprint": "7ceab4fdd71585bfbcc90d06836c5377b6370b7c0b04d919d535563ed4edfca3",
+  "validation_errors": []
+}

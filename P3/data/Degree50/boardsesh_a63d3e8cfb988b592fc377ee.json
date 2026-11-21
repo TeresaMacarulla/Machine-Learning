@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a63d3e8cfb988b592fc377ee.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "HIDARI",
+  "setter": "suggy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "E1F98C0CB9FB446DBA587B8367146542",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1143r12p1226r13p1279r13p1330r13p1363r13p1379r14p1462r15p1519r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "6055a766d1f144ace3e021ff0ff1dd0042833ca13de3bcd9a17561d949eef10f",
+  "validation_errors": []
+}

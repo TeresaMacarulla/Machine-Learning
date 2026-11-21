@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_792a8e0ea213f3653d1f7ca3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "powerplexus",
+  "setter": "taylorprobst2000",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "76EECB8687BD41F0A1D07F32FCE1B7F3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1170r12p1188r14p1202r12p1214r13p1227r13p1281r13p1382r13p1477r15p1502r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "efc9a8ae6efce36f56c96e1cf403697191aae07e7bf545dc3e4551f3838f3197",
+  "validation_errors": []
+}

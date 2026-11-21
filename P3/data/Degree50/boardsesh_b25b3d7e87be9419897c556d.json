@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b25b3d7e87be9419897c556d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Scorpion1",
+  "setter": "kotor",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "cd51689ef7d348078b197b815b8bc440",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1231r12p1234r12p1303r13p1308r14p1476r15p1497r15p1523r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c5e91119a083b5677dcbe94bd98af796d1432b1c538ef0d776579fc4a9a1751a",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4c8b63cbf54b11e16b53957b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "flying high",
+  "setter": "ericterral",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9DDE54306CCA41AB81E217F75EB19E22",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1166r12p1269r13p1285r13p1323r13p1390r14p1470r15p1516r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "1fd5f7b26c2ed3964e283e8c2d0b7e9bd5043052d72c5431c82686faabca7a14",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_03f30f529771382b2faf065f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "splint",
+  "setter": "forestfox98",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "E8B0030E88484E699B08FFD5C6867CB8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1127r12p1163r12p1214r13p1236r13p1270r13p1303r13p1317r13p1387r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "528ba412902950825300eb1f296da7043d4e92fe08117b1089ac1e213a8baf0a",
+  "validation_errors": []
+}

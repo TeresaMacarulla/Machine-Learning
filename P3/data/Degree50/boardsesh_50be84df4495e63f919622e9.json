@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_50be84df4495e63f919622e9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Soft V3",
+  "setter": "Guacamole",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "555f87c94f754591ae1218ca81ac1895",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r15p1153r12p1172r15p1202r12p1232r13p1287r13p1301r13p1373r13p1391r14p1472r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d1d0cda9d1c4645f87940120b24c0b3d2855326967548bda77c08e8c69f4f4f2",
+  "validation_errors": []
+}

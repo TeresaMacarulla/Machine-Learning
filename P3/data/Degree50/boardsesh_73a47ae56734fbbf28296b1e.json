@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_73a47ae56734fbbf28296b1e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "jbo3",
+  "setter": "Swarm01",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "086C5313216649B2AF517CF444D66EBE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1136r12p1140r15p1189r13p1207r13p1242r15p1258r13p1289r13p1355r13p1374r13p1395r14p1572r15p1586r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "f96398f9bb91783a02d36d9d9fad9cf34663f1a47030582373c4841188cb0af4",
+  "validation_errors": []
+}

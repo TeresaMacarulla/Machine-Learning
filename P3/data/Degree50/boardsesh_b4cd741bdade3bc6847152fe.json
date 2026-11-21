@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b4cd741bdade3bc6847152fe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Chemical Selection",
+  "setter": "VadimDelakian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2ACB08F6F4D8492B8C6D644A24278CCA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1112r12p1164r13p1197r15p1235r13p1284r13p1320r13p1332r15p1372r13p1391r13p1395r14p1475r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 90,
+  "quality_average": 3.0599999999999996,
+  "hold_fingerprint": "f7ff1084ad51bb90d6fe991b919f82da3ae472c27e40c1540c96adf9aef44da4",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dd02a177c297aab3caade0a0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "drom",
+  "setter": "s_mitty",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F085CFEC00DB49E18F3F3AD18A18283E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1133r15p1162r12p1163r12p1202r15p1214r13p1252r13p1286r13p1307r13p1356r13p1374r13p1387r14p1544r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8eee758fbea3af0b4be2369762667e3893b76fe13f63a7c93342cfa3ee56efd2",
+  "validation_errors": []
+}

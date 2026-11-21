@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4f7d211705869e0c2a74da38.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Redman",
+  "setter": "J8aG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2eb24dbc4a15470faf385235fe99fcd4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1144r15p1147r12p1232r12p1303r13p1334r13p1384r14p1559r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.6,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "0b473c79c48987d891a520baa46a44ced8618c44056d9e35c2d697c7352f7227",
+  "validation_errors": []
+}

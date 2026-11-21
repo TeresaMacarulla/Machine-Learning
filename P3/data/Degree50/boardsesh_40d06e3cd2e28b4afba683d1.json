@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_40d06e3cd2e28b4afba683d1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Cat in the Hat",
+  "setter": "eric8851",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "055e76b17c624f8694a66f82b15c8c9d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1163r13p1179r13p1215r13p1231r13p1266r13p1285r13p1336r13p1355r13p1386r14p1460r15p1477r15p1514r15p1551r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.0,
+  "hold_fingerprint": "0749f79db1a0dbdb75d037d8911099a372cb331cfa102a4973b7af7dc348242f",
+  "validation_errors": []
+}

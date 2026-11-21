@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_65dc2a89a95d0eb06351c2ce.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "b(sh)oulder",
+  "setter": "4bplus",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "9c8700cb18c6452893f59da9d1f99da3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1164r12p1177r12p1206r15p1249r13p1270r13p1320r13p1335r13p1385r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "7827e853feb723daf7cf401316d8967c5ff23505af30c0d03c914f32fc696871",
+  "validation_errors": []
+}

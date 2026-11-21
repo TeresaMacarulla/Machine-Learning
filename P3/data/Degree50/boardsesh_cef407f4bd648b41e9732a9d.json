@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cef407f4bd648b41e9732a9d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Dungeon of Doom",
+  "setter": "mitchcrossy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9D250FC41E2B4EFEB544CEF8421405D9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1206r12p1254r13p1307r13p1357r13p1368r13p1385r14p1478r15p1509r15p1542r15p1557r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.67,
+  "ascensionist_count": 4,
+  "quality_average": 3.67,
+  "hold_fingerprint": "a54ad2a0f9a8e26248c8add3b3c01f120083146d33654c81e9cdfc2468185fd2",
+  "validation_errors": []
+}

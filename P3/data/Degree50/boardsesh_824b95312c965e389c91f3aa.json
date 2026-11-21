@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_824b95312c965e389c91f3aa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Cruise crimps",
+  "setter": "steil_boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "84970A5342E4481A87CC8313EE1C78B8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1143r12p1230r13p1250r13p1314r13p1369r13p1371r13p1392r14p1465r15p1485r15p1493r15p1520r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.99,
+  "ascensionist_count": 549,
+  "quality_average": 3.36,
+  "hold_fingerprint": "c2098f8fa36a38354617d1fd89289bdce6bf973b1158ff4fcebe475462ce5825",
+  "validation_errors": []
+}

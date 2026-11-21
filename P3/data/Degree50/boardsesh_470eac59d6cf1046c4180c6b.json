@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_470eac59d6cf1046c4180c6b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "madness 1",
+  "setter": "yevyevquest",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7391E547F4604E33915D82C1272BF6E7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1145r12p1181r15p1213r13p1250r13p1282r13p1316r13p1349r13p1384r14p1458r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "dbdfb301b123c20c199bee13a1f0f0c7efbdf6f591b1b98ca481842cb1b2ddc2",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bbcdf8a07e216ee3ed9d43a6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "hip dysplasia",
+  "setter": "jorge.cadia",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "50a516b480a546c5a21b2a239209835e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1111r12p1126r12p1182r13p1216r13p1238r13p1276r13p1287r13p1342r13p1395r14p1464r15p1479r15p1518r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.97,
+  "ascensionist_count": 97,
+  "quality_average": 3.56,
+  "hold_fingerprint": "22f7a63ff8632f09d6f39b2fbb1a80931454a12835cef7702bfeba665a099dec",
+  "validation_errors": []
+}

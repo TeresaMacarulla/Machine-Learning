@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cd6e24a8c783387273d7c316.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Just a pinchy V2",
+  "setter": "novazhao",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "61B0234CFF2E49D0A89746A1E0746673",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1145r12p1228r13p1265r13p1295r13p1347r13p1381r14p1457r15p1460r15p1467r15p1483r15p1519r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.06,
+  "ascensionist_count": 72,
+  "quality_average": 3.33,
+  "hold_fingerprint": "9a660a9e9671766ec1c2ec43af3d24a0a8e0612865d2158701237d69708d068b",
+  "validation_errors": []
+}

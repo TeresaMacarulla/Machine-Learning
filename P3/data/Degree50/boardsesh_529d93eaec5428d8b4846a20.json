@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_529d93eaec5428d8b4846a20.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "St. Perfects Day",
+  "setter": "jwilder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "05B87C71D86E43B7883F630E0039708D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r15p1164r12p1178r12p1233r13p1270r13p1271r13p1291r13p1355r13p1384r14p1466r15p1468r15p1504r15p1535r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1ad63b860474744865b746b64579b728329c473ce78fd0cf0a72e4bd6be03c17",
+  "validation_errors": []
+}

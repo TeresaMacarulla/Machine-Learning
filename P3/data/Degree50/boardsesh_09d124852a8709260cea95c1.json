@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_09d124852a8709260cea95c1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "tra\u00eener 1",
+  "setter": "ghonda",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "883D806F7DA44B8E8E30A0EE3E08E2CE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1187r13p1203r12p1207r12p1271r13p1283r13p1304r13p1372r13p1394r14p1500r15p1509r15p1531r15p1534r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "98eb06942365a7d4ca2e2960de33d47123c02610825a6e111be26cd5cbf9f09c",
+  "validation_errors": []
+}

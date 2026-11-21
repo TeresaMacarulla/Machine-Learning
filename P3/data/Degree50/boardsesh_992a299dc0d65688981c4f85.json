@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_992a299dc0d65688981c4f85.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Door (semiopen)",
+  "setter": "JoelHaefliger95",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "51a8948e-a070-4e90-b531-39b0c0dd34df",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1270r13p1187r12p1163r15p1201r12p1454r15p1283r13p1521r15p1336r13p1385r14p1531r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.53,
+  "ascensionist_count": 26,
+  "quality_average": 4.0,
+  "hold_fingerprint": "ff1cf219b8abb18ee1c6805fbe4579bae11098b7d9204aaeab71ec0d09c2f9a1",
+  "validation_errors": []
+}

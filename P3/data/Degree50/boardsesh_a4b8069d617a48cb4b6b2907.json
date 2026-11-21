@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a4b8069d617a48cb4b6b2907.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Orientifold",
+  "setter": "SebR",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 8,
+    "foot": 10
+  },
+  "source": "boardsesh",
+  "source_uuid": "cbb50d6187e34b0184b4446e6bc9fabe",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r15p1114r12p1132r12p1197r13p1215r13p1228r13p1255r15p1263r13p1278r13p1329r13p1330r13p1367r13p1389r14p1391r14p1455r15p1459r15p1462r15p1477r15p1483r15p1519r15p1541r15p1542r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "159504434f979e9312e11bfabca6686feae52011e8a840fd47983e2d5a1f6689",
+  "validation_errors": []
+}

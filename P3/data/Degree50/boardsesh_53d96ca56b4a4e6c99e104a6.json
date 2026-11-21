@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_53d96ca56b4a4e6c99e104a6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Lock her off",
+  "setter": "GW_Kilter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5C448899980D4EBC8D0EB41A4A7E292D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r12p1140r15p1153r12p1168r15p1203r13p1273r13p1339r13p1392r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.02,
+  "ascensionist_count": 165,
+  "quality_average": 3.25,
+  "hold_fingerprint": "912732b2e9df74b2a075107829b7a622b0356f1bdba3715e85c26d341cf27cb1",
+  "validation_errors": []
+}

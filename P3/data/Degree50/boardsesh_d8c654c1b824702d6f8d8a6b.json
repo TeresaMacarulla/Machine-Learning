@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d8c654c1b824702d6f8d8a6b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "elevators go up",
+  "setter": "bigharry",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "E8AFBAD7FBB841BD96D655E25D2BF6F4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1233r12p1235r12p1300r13p1371r13p1391r13p1395r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "9a20002f375ba77012b6f9c0fdac6be17c4e82176ff6b402ed1737aa11b954fc",
+  "validation_errors": []
+}

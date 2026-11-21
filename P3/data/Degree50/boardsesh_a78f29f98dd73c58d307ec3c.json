@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a78f29f98dd73c58d307ec3c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "1-800-blowfex",
+  "setter": "john.polo4",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "CD2BA4A5508145C28D298A0E11C723F1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1167r12p1169r15p1250r13p1263r13p1314r13p1329r13p1383r14p1456r15p1494r15p1519r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.93,
+  "ascensionist_count": 371,
+  "quality_average": 3.42,
+  "hold_fingerprint": "28eb15a8d25af3a46d5b0a229851400df280d0ddae223f848e5704035e7e54e4",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2e0f50afb7be69de0817fdb5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Apnez",
+  "setter": "sbo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "d601ce356a714861971e91289e5db4b7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r12p1150r12p1222r13p1238r13p1249r15p1290r13p1320r13p1372r13p1386r14p1451r15p1518r15p1536r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "0b28a6a2ebf2ffa7ea377fe6b8f5cef28807feb60eaf192a68aee5920350d3ca",
+  "validation_errors": []
+}

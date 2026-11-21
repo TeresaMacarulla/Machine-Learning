@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0dfbd1ff9eea87e5b1de1c9d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Simulation",
+  "setter": "Depresto",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4CD6E6286D0E4A0CBF1D9485FD547ABE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1142r15p1163r13p1164r12p1212r13p1219r15p1247r13p1269r13p1301r13p1351r13p1382r14p1457r15p1459r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "64ddb6b77eec62567e7fdab9fac8e0c371901f047e84bbe7824503e5a506bc1e",
+  "validation_errors": []
+}

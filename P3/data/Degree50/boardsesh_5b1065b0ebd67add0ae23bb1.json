@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5b1065b0ebd67add0ae23bb1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Honest Joe",
+  "setter": "nikclimb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "9A83681083E54B39A7D4894FB88462D5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1160r15p1177r12p1197r12p1249r13p1267r13p1270r13p1320r13p1358r13p1391r14p1483r15p1553r15p1578r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b86d814672f3221465077e95c5682aa07b86a91d7dfd741e0a2da8c8ed17cdcc",
+  "validation_errors": []
+}

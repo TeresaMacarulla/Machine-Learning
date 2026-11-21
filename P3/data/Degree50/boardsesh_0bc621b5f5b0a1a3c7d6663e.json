@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0bc621b5f5b0a1a3c7d6663e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "one legged bandit",
+  "setter": "ElysPaul",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "f1bfd8accd9e4893abdcc4bacc8bcb4b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1243r12p1246r12p1262r13p1282r13p1289r13p1300r13p1302r13p1306r13p1308r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8caae55a4309b12e00cbab832f8e44a9b44491b41278e42625cf0d817fe75389",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3293e636cc2180ac068c5ead.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "hard cruise missle",
+  "setter": "joeyderksen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 11,
+    "foot": 10
+  },
+  "source": "boardsesh",
+  "source_uuid": "b57fd0b8-293f-44bf-9569-1d467165eb09",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r13p1148r13p1230r13p1177r13p1573r15p1296r13p1314r13p1335r13p1587r13p1357r13p1309r13p1310r13p1395r14p1354r15p1242r15p1305r15p1270r15p1501r15p1092r15p1082r15p1469r15p1453r15p1136r12",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "a0784a2e642215ee768a45961d4a97df5294ff73f07de60b4ed7aff19efd1594",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_788a01dc12694bec0947c3dd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Burden of naps",
+  "setter": "fdatri",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2295bfd6-0d8c-4dda-b2e1-64ce5bf124ff",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1178r12p1513r12p1250r13p1461r15p1083r15p1169r15p1301r13p1388r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.92,
+  "ascensionist_count": 18,
+  "quality_average": 3.77,
+  "hold_fingerprint": "24563b0cc912df09e15df533e5328bfcc92a95ec00e4f826b41632c0b5d9ba42",
+  "validation_errors": []
+}

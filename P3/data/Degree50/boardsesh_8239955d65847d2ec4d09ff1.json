@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8239955d65847d2ec4d09ff1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "beep III",
+  "setter": "patinaeater",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "735627C9F14941D6ADC4D359A3A5EF3A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r15p1180r12p1204r13p1272r13p1320r13p1352r13p1383r14p1468r15p1475r15p1490r15p1504r15p1505r12p1508r15p1532r13p1576r13",
+  "display_difficulty": 30.0,
+  "difficulty_average": 29.91,
+  "ascensionist_count": 67,
+  "quality_average": 3.08,
+  "hold_fingerprint": "471e592da33ee13eecf0e9bf3a1c58b3ca46ad48b142b4e33bd206b251035fca",
+  "validation_errors": []
+}

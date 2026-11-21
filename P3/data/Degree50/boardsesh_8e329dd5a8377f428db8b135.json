@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8e329dd5a8377f428db8b135.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "bonglab",
+  "setter": "kryyyypipe",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "e9cbeced-b963-4994-983e-bc0469ad461d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1164r12p1198r12p1252r13p1269r13p1323r13p1339r13p1393r14p1469r15p1476r15p1503r15p1516r15p1553r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.5,
+  "hold_fingerprint": "7e180aff9350772652a7cda68674936c50930efd28105ed5813d573b2efc5df2",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_006d90519851d6d3f9e8b901.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Tinted Windows",
+  "setter": "lcprdc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "d3996f2f795c424d9ec7cf6cc2438ea0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1130r15p1195r12p1233r13p1266r13p1318r13p1331r14p1461r15p1465r15p1514r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "12a8c4f277f817114a9c6dfbdffe2d231e5f46e31a0ef1999f36107ab885cbbc",
+  "validation_errors": []
+}

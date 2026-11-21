@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_388e2361471185b43f5ef5ef.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Better Door",
+  "setter": "chawki22v2.2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "121ce62e-ea38-43f7-a4a5-14a3f2959b7a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1073r15p1241r13p1472r15p1289r13p1190r15p1133r15p1302r13p1264r13p1194r15p1385r14p1281r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "306ac280c277adaf47b9014e2731f1d0dd54f241475004ba9e7bcff4711a6ab2",
+  "validation_errors": []
+}

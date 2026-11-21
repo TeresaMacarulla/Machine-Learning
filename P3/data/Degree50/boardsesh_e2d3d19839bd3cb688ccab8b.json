@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e2d3d19839bd3cb688ccab8b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Man about town",
+  "setter": "abrown98",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5884299C29054DE7982210536F63E754",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r15p1171r15p1191r15p1222r12p1250r13p1273r13p1304r13p1334r13p1383r14p1385r14p1480r15p1514r15p1544r12",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "02564a252ca70f3eb69106d6dd462e6efe3de3679647479c1a32a82c715d5a9c",
+  "validation_errors": []
+}

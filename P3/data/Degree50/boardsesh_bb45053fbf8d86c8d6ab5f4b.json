@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bb45053fbf8d86c8d6ab5f4b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Mason xampus 1",
+  "setter": "Climbering",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "B1EF10380F874C238242009A60C1DA0D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1237r12p1303r13p1321r13p1369r13p1387r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "22e7265fa84b9f17c2825d7e12834bc0f1ca3299416cdf097d9bb75566a4c457",
+  "validation_errors": []
+}

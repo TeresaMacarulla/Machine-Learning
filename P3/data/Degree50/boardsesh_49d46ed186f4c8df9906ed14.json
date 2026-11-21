@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_49d46ed186f4c8df9906ed14.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Dumbledown",
+  "setter": "TripleHeadedSheep",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "885cc491de1d402eb1c7190e2545eae9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r14p1149r13p1165r15p1198r13p1206r15p1236r13p1257r13p1270r13p1308r12p1327r12p1455r15p1459r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8a223b9f3125296dd719be10627fe01f9d04bfaec9d0fd3ebabb0699060343f5",
+  "validation_errors": []
+}

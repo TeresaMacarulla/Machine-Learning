@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eb27636f29e1f1534ed2147a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "doors closing!",
+  "setter": "tenhundfeldc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "30A97035A6CF4E7EA319233F23E31F31",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1184r12p1232r13p1281r13p1283r13p1350r13p1380r14p1476r15p1522r15p1555r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "2b414c7df7a655ac0cca5f64b97e41f355d90d14b5a31c13cbfade6720ccb59c",
+  "validation_errors": []
+}

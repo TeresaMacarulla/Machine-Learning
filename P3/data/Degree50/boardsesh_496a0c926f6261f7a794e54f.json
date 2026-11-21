@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_496a0c926f6261f7a794e54f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Break72",
+  "setter": "Felixphillipwolf",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "876f2a4a-a98c-4fbe-b67d-5790605ffcad",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1127r12p1178r13p1244r13p1316r13p1380r14p1531r15p1459r15p1464r15p1485r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "680c020d93768186179b45dd77a9973b57dc0dd24b6ff71c9f20d7a62712e4d3",
+  "validation_errors": []
+}

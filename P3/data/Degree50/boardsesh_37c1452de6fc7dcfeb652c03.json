@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_37c1452de6fc7dcfeb652c03.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Hozer",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "547958607CEE41BFA65D8582B3372AF7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1161r15p1165r12p1180r12p1250r13p1280r13p1349r13p1351r13p1355r13p1390r14p1475r15p1476r15p1528r15p1568r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.01,
+  "ascensionist_count": 3185,
+  "quality_average": 3.27,
+  "hold_fingerprint": "bbc61008cb3adc6a6732c1b49a386bc63b38ab79a77d88b68c8ebd28c9002532",
+  "validation_errors": []
+}

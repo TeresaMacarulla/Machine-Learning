@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fc1358db5ea609e6ad926207.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "narasaki flight",
+  "setter": "JuniorJr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "57BF44C4DD1E420AA27F5C5A9F4322CE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1143r12p1175r12p1262r13p1282r13p1303r13p1372r13p1392r14p1505r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "37375cec0ca5d32e38ae18dd1b08a9c28dbda182de0335c41e2e21257daf76b7",
+  "validation_errors": []
+}

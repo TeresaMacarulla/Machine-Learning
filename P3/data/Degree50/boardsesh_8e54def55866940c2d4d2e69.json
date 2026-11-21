@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8e54def55866940c2d4d2e69.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "vs project 4",
+  "setter": "villesandeen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "5F79DB5B0D714B8CA467D9DBF691370D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1157r12p1168r15p1204r13p1257r13p1288r13p1308r13p1359r13p1393r14p1447r15p1451r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 7,
+  "quality_average": 2.43,
+  "hold_fingerprint": "e5ac6df53cc3238dafb39cab9f918a47369b84b518e46d22024fbd16b24985d1",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b1ff3aeafb1dd6235c15a775.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "1 pogo",
+  "setter": "d_connor",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 0,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "3252617686E04B35BFBAD550368A6489",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1236r12p1301r12p1387r14p1505r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "38ea8f6e3a7018cffc3c58eca8d0d1e49acfe78cb2f6904ad28abc440942a4fc",
+  "validation_errors": []
+}

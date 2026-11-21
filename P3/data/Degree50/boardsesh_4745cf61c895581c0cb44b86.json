@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4745cf61c895581c0cb44b86.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Soot",
+  "setter": "dispositiv",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "C9ACE498E6484826BE415DDAEA0BFBBF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1155r12p1157r12p1204r13p1214r15p1234r13p1236r13p1284r13p1319r13p1353r13p1389r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 12,
+  "quality_average": 3.67,
+  "hold_fingerprint": "850f8d32b4f9e2077f335a215ad575be241fb930234b9eab5106e293b647027b",
+  "validation_errors": []
+}

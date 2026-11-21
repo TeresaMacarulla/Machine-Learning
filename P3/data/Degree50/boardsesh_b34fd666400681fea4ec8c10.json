@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b34fd666400681fea4ec8c10.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Tropical Punch",
+  "setter": "rodrigo.hanada",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "FD916E65DA584174B2117205C9A9E4E3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1124r12p1227r13p1283r13p1368r13p1389r14p1463r15p1476r15p1503r12p1514r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3966d51b5ecb20fda336c9b92a2f914b65e0c0e53256f4d9a452ef7d46c7fc36",
+  "validation_errors": []
+}

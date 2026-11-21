@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_04fcace89ab4aaa3f2b94c7a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Dont Cut",
+  "setter": "Joshco",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "7859faf8284b417f91faabf1abdd3cc9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r12p1169r12p1239r13p1270r13p1301r13p1305r13p1353r13p1385r14p1389r14p1453r15p1456r15p1489r15p1523r15p1541r15p1569r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.82,
+  "ascensionist_count": 23,
+  "quality_average": 3.41,
+  "hold_fingerprint": "550a6f39e7b6e5c64ecacc42a6e11161c5810486fcc63df9a4e3accc8459137d",
+  "validation_errors": []
+}

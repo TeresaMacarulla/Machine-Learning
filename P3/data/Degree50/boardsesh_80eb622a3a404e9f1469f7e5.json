@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_80eb622a3a404e9f1469f7e5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "space monkey model",
+  "setter": "kieran22",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "615f8ecc-d05f-40a0-b6bb-9be29505995b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1134r15p1470r15p1189r12p1222r13p1238r13p1252r13p1269r13p1184r12p1201r13p1156r15p1355r13p1392r14p1301r13p1203r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 7,
+  "quality_average": null,
+  "hold_fingerprint": "2ef2fb44f570aca900f97fb8b00691a6fe16cdcf2b5cb30e3a6690144dcc5264",
+  "validation_errors": []
+}

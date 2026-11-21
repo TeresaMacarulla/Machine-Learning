@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6eae96c6261b9413dabee495.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "switch back",
+  "setter": "JJE",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "E2F0E4E0423946DB92252BF79EA19067",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1163r12p1197r12p1217r13p1286r13p1307r13p1339r13p1394r14p1542r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "22509c80f8b585eea161bf339b87cc9eb324ab56dd8a84ddaea78ac34ba1791d",
+  "validation_errors": []
+}

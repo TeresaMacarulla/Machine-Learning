@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e9bb6c22e9970630e4ad6770.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Sloppy Fingers",
+  "setter": "kr.klimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "ddfba73a-b56f-4bea-8ada-e904f6379576",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1180r12p1234r12p1133r15p1248r13p1146r15p1265r13p1299r13p1183r15p1335r13p1369r13p1388r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "ae3f83af9d6f95fa8d3bb37f99e35dc83b0bb57f1bf6dac40baafd84e9414c5d",
+  "validation_errors": []
+}

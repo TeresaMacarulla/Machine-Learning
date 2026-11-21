@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9b636b2a125901de978b9926.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Steep warm-up",
+  "setter": "Espenher",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "fc18666074a34e168589fab841b50dc5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1126r12p1129r12p1163r13p1210r15p1213r13p1249r13p1280r13p1317r13p1349r13p1384r14p1460r15p1463r15p1476r15p1484r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "ec60d21f570d022ed81a95e6206a401b53adbb618b6fd487ab4b3945c59f0c91",
+  "validation_errors": []
+}

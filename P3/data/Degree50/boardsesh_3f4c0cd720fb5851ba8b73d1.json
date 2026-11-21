@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3f4c0cd720fb5851ba8b73d1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "long short",
+  "setter": "lo2002",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "7B339B7ED81A472B9675A788F03CB52A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r15p1163r12p1230r12p1266r13p1274r15p1287r13p1322r13p1387r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 20,
+  "quality_average": 2.53,
+  "hold_fingerprint": "f2bac0e9c2db5c745d223a98e64efb3cd1ad27a049e1f0d76758c89c57f229f2",
+  "validation_errors": []
+}

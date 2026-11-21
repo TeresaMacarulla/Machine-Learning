@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4d68a48e442840b9d6ecfad4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "shoulder controller",
+  "setter": "kennyMerx",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "84E16163167D487EADD682F8A74F4F9E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1134r12p1164r12p1233r13p1249r13p1286r13p1320r13p1325r13p1358r13p1395r14p1506r15p1535r15p1548r15p1554r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "99c587942e4f47f25a0998158171ec1f28dec88808015d363580cfd86c1e871a",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2d3f02c21eca4cc7fa5c0803.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Hermes",
+  "setter": "jlatassa",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "7A2FC58260B245269F43E965CDF606AD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r15p1108r15p1166r12p1178r12p1231r13p1263r13p1301r13p1334r13p1388r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.95,
+  "ascensionist_count": 85,
+  "quality_average": 3.41,
+  "hold_fingerprint": "fe7172aaf7a2fcc1be9fa191851559bbf31f2001a8fad95fc923ecd7c3d8e11e",
+  "validation_errors": []
+}

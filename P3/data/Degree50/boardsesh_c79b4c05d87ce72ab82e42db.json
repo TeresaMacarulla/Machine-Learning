@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c79b4c05d87ce72ab82e42db.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Symbolic Death",
+  "setter": "bensebald",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "991F9DE9800849ECB6EF9F87BF0FF3E7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1155r12p1166r15p1220r13p1237r13p1246r15p1268r13p1336r13p1350r13p1385r14p1453r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e5626d421596d15e1e28b69f46c6a9362db26aa74043629567e6e941aead2202",
+  "validation_errors": []
+}

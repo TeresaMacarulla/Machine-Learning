@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_766f247567c521d4bda67208.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Hella traverse",
+  "setter": "ChiaraErler",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5E44068A825843F9956005F26DEFE6F6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1159r12p1197r12p1214r13p1251r13p1284r13p1300r14p1504r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "fd0b129fe807c41aec27c41d371358a510d00ad32128c8240125015e11ccbd24",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f7b0e77cab488c3eae83187a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "feline",
+  "setter": "masteroogway",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 8,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0b4e3c10d97340e8bf314f3c311d0c44",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1145r12p1199r13p1202r13p1266r13p1318r13p1365r13p1386r13p1388r13p1390r13p1392r14p1395r14p1455r15p1459r15p1578r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.88,
+  "ascensionist_count": 8,
+  "quality_average": 2.25,
+  "hold_fingerprint": "bb5e69b72030400d17a2e98c4495e384392816ee65377f90040dc21b977ba648",
+  "validation_errors": []
+}

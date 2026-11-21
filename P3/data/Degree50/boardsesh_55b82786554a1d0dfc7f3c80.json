@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_55b82786554a1d0dfc7f3c80.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Get In",
+  "setter": "climbcentral",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "65DE577D88254F3FA803BE0CB5680AF7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1153r12p1184r13p1254r13p1283r13p1285r13p1314r13p1366r13p1379r14p1498r15p1522r15p1529r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "b9a0275b7ebaa601ab795ee469832c73faaf2c4ccb0ac3847dcaccdd9d5f6ec9",
+  "validation_errors": []
+}

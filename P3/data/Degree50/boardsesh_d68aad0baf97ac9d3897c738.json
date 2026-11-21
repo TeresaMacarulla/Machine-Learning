@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d68aad0baf97ac9d3897c738.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Ozymandias",
+  "setter": "markussleeb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "67fb09fd-c6c1-4472-aabe-ffe5f4a1a857",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1216r12p1228r12p1245r13p1141r15p1313r13p1351r13p1312r15p1368r13p1389r14p1107r15p1359r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.67,
+  "ascensionist_count": 11,
+  "quality_average": 4.33,
+  "hold_fingerprint": "43e93214160078d25bad50978894a4bc6ebd0ef60a9a8c6f2ab97cb3d4ee6d77",
+  "validation_errors": []
+}

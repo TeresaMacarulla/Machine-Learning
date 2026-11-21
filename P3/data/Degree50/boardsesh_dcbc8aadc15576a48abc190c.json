@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dcbc8aadc15576a48abc190c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Shouldering the Bird Den",
+  "setter": "kfyoung",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0AD65502B0204602BCCF2052FB718392",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1152r15p1167r12p1214r13p1286r13p1318r13p1371r13p1373r13p1395r14p1533r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.97,
+  "ascensionist_count": 157,
+  "quality_average": 3.3099999999999996,
+  "hold_fingerprint": "ed7293b3e28c9a6b1c804c6de0b4cb31c8e30e6d16e4e7cfb63bd90774bbc550",
+  "validation_errors": []
+}

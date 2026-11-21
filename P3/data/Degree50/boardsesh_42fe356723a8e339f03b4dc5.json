@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_42fe356723a8e339f03b4dc5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "swipes",
+  "setter": "kilterian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2DF05CB6AB1541459170FA2975439E23",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1255r12p1256r12p1324r13p1355r13p1392r14p1515r15p1544r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.89,
+  "ascensionist_count": 9,
+  "quality_average": 2.33,
+  "hold_fingerprint": "6d6fb737766032cae99e46a0abcb373b9a3df7cd714b7841f8275f61a361b490",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a6af6e1fd6d1fad545968ab0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Waschmaschinenanschluss",
+  "setter": "Tarekrobrahn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "b6e910d60e344348af710c714546c411",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1145r12p1229r13p1299r13p1351r13p1371r13p1391r14p1394r14p1461r15p1537r15p1566r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9baf864c643da54c5f5e280aa68b3638cd473510edf8e7235bdd984a733c154d",
+  "validation_errors": []
+}

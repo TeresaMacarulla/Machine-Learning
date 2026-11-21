@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e87147ec3e55935b853d97bf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Find a Way Direct",
+  "setter": "gainward",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "c1e3d6f4c32d4d1190e27acd7a63890b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1187r12p1205r12p1270r13p1273r13p1303r13p1389r13p1391r14p1470r15p1472r15p1542r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "700fdf3b3211fb90af514034077f740815475f9844c5addf9c87147d21d5e96d",
+  "validation_errors": []
+}

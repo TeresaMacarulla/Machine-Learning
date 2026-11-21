@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9c63ff569aee2be8060e83fd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Fingery training",
+  "setter": "janklot",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "dc58f3b027f54f68af3cc26a6ecc4cf0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1139r12p1171r12p1188r13p1199r13p1201r13p1203r13p1250r13p1282r13p1316r13p1365r13p1386r14p1449r15p1455r15p1485r15p1538r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.7999999999999994,
+  "hold_fingerprint": "a7c25fc7887038c7bdd9deec715994158082f9547ad2d3321815829063851ad0",
+  "validation_errors": []
+}

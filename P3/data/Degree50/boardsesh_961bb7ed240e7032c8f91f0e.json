@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_961bb7ed240e7032c8f91f0e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "shoulder training tension",
+  "setter": "Deathmian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "c49984b7-2d5e-41e3-b736-4de1f666ef52",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1199r13p1248r13p1522r15p1284r13p1287r13p1323r13p1344r13p1395r14p1176r15p1464r15p1195r13p1143r12p1318r13p1525r15p1535r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "627c71c28c1d5ec09f9511fd9a52eec241da02297bef7b205741530f88e53fe8",
+  "validation_errors": []
+}

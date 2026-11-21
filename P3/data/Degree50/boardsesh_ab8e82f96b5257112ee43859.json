@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ab8e82f96b5257112ee43859.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Third Dimension",
+  "setter": "brianr3697",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "cf81758b4a6840c6a80be32f65a2c618",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1090r15p1144r12p1163r12p1178r15p1192r13p1212r15p1245r13p1248r15p1311r13p1331r13p1351r13p1383r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 1.0,
+  "hold_fingerprint": "080fa38b15e8d76b970dfe74c9d4f2cce8d3e0d052299bc51ce21fa39f7957f4",
+  "validation_errors": []
+}

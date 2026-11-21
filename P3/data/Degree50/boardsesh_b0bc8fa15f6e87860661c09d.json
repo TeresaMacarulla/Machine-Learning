@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b0bc8fa15f6e87860661c09d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Campus AD",
+  "setter": "egoitz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "47fdd7d3b459416ca3d267484df6b18f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1178r12p1197r12p1230r13p1250r13p1283r13p1303r13p1334r13p1351r13p1382r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a86532b17584c070c6a72b7c956edc13c7d232397b91681dceb4b92d9aec602c",
+  "validation_errors": []
+}

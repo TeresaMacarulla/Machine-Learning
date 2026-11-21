@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ca8349e8ddee55d3d0483b3b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Whale of Life",
+  "setter": "JoshChillington",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "C71C2139B2134F3F97ACB7D4300C243C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r12p1203r12p1250r13p1285r13p1316r13p1352r13p1383r14p1471r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "323db193bf3b64fbfced067a1493e304ca99edaa013f441081f8d658c3b2ac74",
+  "validation_errors": []
+}

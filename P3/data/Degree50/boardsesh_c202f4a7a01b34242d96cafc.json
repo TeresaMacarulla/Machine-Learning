@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c202f4a7a01b34242d96cafc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "Arti",
+  "setter": "jules_marchaland",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "711CF5E0DF55422CBA481D9EB17BD22C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1084r15p1085r15p1117r15p1184r12p1196r12p1253r13p1280r15p1335r13p1368r13p1380r14",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "160548c28a84a962354e1ae1d4fae4e2830b19f12684971869039487a6686909",
+  "validation_errors": []
+}

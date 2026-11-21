@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ec255ed7e83bf8ce1fe0487d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Matching This Hold Sucks",
+  "setter": "Aquilarion",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B78F8B86B1D74766A33D95DCA8270937",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r12p1106r15p1169r12p1191r13p1214r15p1256r13p1286r13p1333r13p1387r14p1454r15p1456r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b625ab31ec5e97d1926acc69499c796df858d983c4b5291477e4b9889513ae64",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_60849c9c0286a4c01c01256b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "mr whatsit",
+  "setter": "washkill",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "3A53F9958D194FCD92276DFCC72AB795",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1102r15p1166r12p1179r15p1220r13p1270r15p1287r13p1318r13p1352r13p1383r14p1499r15p1507r15p1552r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "2c0e47d172cc78839908b312306c6f2e4a4d9ea3b67e618c43694c501f28513c",
+  "validation_errors": []
+}

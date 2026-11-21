@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d12a46d8d37a3049b2167634.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Tired",
+  "setter": "Junghan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "B1BCABFECF484DD49966FE8DCB11EEFD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1234r13p1247r13p1300r13p1367r13p1385r14p1389r14p1455r15p1476r15p1511r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.5,
+  "hold_fingerprint": "d85a8e832ee102ddd6380ad40be38fab3ad7c09f59809cd549f206ed1e9d1e70",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_38d67acc2f4db52864c8d6a0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Full Gas",
+  "setter": "pajaro",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "315e4ae6d60e49ee8d9099eddc087b6d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1179r12p1228r13p1283r13p1332r13p1382r14p1475r15p1501r15p1528r15p1530r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ab7db98100b4a14ac806b8ab411e6fc5790985d9b3f9f0c75106884309702e09",
+  "validation_errors": []
+}

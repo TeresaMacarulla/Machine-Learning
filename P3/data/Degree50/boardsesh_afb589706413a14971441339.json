@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_afb589706413a14971441339.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "reach",
+  "setter": "peterhayssen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "2E0C112BD402411E84E791DCF4B6880C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1252r13p1316r13p1387r14p1451r15p1490r12",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.03,
+  "ascensionist_count": 324,
+  "quality_average": 3.32,
+  "hold_fingerprint": "d06b57ef35da9a281f1518f4bd97ed886cbe36c2259913b3c4d3d2d5feb01a53",
+  "validation_errors": []
+}

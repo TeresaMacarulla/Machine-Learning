@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b2148cb0e7e4e1c9621309f3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Gloriak",
+  "setter": "j08",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "8155dc4a-2219-499d-8a21-c32770ce965f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r15p1133r12p1145r13p1180r13p1179r13p1250r13p1299r13p1353r13p1385r14p1097r15p1461r15p1463r15p1466r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 4,
+  "quality_average": 4.5,
+  "hold_fingerprint": "749c540dc9ce698a2410189d285add8fc9dcf12bb4377dab4b2434686a6bd1ff",
+  "validation_errors": []
+}

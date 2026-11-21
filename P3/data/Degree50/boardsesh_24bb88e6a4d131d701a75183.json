@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_24bb88e6a4d131d701a75183.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "hungry",
+  "setter": "lachlan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1461F7E8666B4DE0A862579A0E62C003",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1154r12p1169r12p1219r13p1251r13p1284r13p1287r13p1336r13p1387r14p1450r15p1455r15p1471r15p1504r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "51976229d6e9a437199a8acfcf7d4ecdd0fe2a799aa6640b84977042b11d8be0",
+  "validation_errors": []
+}

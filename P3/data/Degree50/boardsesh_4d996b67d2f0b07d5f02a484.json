@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4d996b67d2f0b07d5f02a484.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Cellular Roadkill",
+  "setter": "whitehawk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "373357460BF7462490FE964480BFC0FD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1197r15p1213r13p1269r13p1338r13p1357r13p1371r13p1393r14p1457r15p1460r15p1485r12p1515r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.93,
+  "ascensionist_count": 31,
+  "quality_average": 3.37,
+  "hold_fingerprint": "5103ca84c22715c3d5cc27836f37d516ce0426b8f24e8779011bd16ef5c92b77",
+  "validation_errors": []
+}

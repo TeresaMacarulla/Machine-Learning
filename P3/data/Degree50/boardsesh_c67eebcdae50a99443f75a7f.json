@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c67eebcdae50a99443f75a7f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "boulderbar Quali 12",
+  "setter": "boulderbar",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "88c4939d4a234125ac3c2fbc4006bcde",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r15p1204r12p1223r12p1235r13p1236r13p1257r15p1267r13p1304r13p1338r14p1340r14p1481r15p1500r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.98,
+  "ascensionist_count": 101,
+  "quality_average": 3.38,
+  "hold_fingerprint": "c399efe885eaa36877adeb59af97b6d69e03ea4a93395efc85498ff7aae785b1",
+  "validation_errors": []
+}

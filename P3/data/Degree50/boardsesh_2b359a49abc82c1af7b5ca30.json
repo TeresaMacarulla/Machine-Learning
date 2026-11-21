@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2b359a49abc82c1af7b5ca30.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "369 boules",
+  "setter": "Lucas18",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "01D305F16B464FDE9B487351396A0209",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1177r12p1193r12p1247r13p1302r13p1322r13p1326r13p1342r13p1395r14p1475r15p1483r15p1501r15p1544r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.94,
+  "ascensionist_count": 34,
+  "quality_average": 3.47,
+  "hold_fingerprint": "407d1f8e6bafcfe4493c0704eece5fd04b3fcf4b42790b7c9e733543118e6213",
+  "validation_errors": []
+}

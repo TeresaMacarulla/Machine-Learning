@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_82ade07aacdcc99e258d1b86.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Plushy",
+  "setter": "Secnar",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1373435AAD6B4CEB81F86EF5A1ADACBB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1170r12p1188r12p1201r13p1236r13p1267r13p1304r13p1353r13p1389r14p1450r15p1478r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f1efdc575e96c02a4e4b6499c588abc6a58e3fe9ed6d7c3357d0346be9d29f24",
+  "validation_errors": []
+}

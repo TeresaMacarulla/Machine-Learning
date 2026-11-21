@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1d639d5ed1299cd117684bcf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "RD15",
+  "setter": "Blokbobby",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "341fcef07a6f446f935ba2653c07d884",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1139r12p1154r12p1257r15p1352r13p1391r14p1482r15p1500r15p1541r13p1543r13p1559r13p1578r13",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "32eee888c89c0534a4a563a66af19d2f302a2fb0480da8a1b05b77531933b232",
+  "validation_errors": []
+}

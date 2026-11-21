@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7bf3d9bd7b46f6b274326aa5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Colour of Time Mimic",
+  "setter": "tt2pham",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C89D57159AB44DBB9DE0604B83AFEF3F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r15p1181r12p1218r12p1266r13p1284r13p1334r13p1347r14p1512r15p1529r15p1541r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.89,
+  "ascensionist_count": 20,
+  "quality_average": 2.68,
+  "hold_fingerprint": "42195d9e90edf2c764f4c122cab42d5ec63feef92727e90120ae4eec59e536b7",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ae989fdd1cff8d8dddccb53b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "3 Million Aura",
+  "setter": "El.B",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "c1c8a563f0bd47a8b9dfb554f5649903",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1169r12p1171r12p1221r13p1237r13p1257r13p1307r13p1308r13p1340r13p1394r14p1535r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.67,
+  "ascensionist_count": 4,
+  "quality_average": 2.33,
+  "hold_fingerprint": "d86c0a555a17b8491ee47fa7901f65d827e4a21487dd4bdc1d8b0722b944581c",
+  "validation_errors": []
+}

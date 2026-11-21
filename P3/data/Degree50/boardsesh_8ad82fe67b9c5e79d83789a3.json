@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8ad82fe67b9c5e79d83789a3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "ODAC 11 (40 degrees)",
+  "setter": "ZiYi1234",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0C2C62EA367642A6B4279323C1E2C4E5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1104r15p1169r12p1174r12p1201r15p1219r15p1257r13p1289r13p1356r14p1449r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f8491bf6a8eab5c6a1244f0f42540fe7b67528254339ef4bfcbaaa33426fe3a4",
+  "validation_errors": []
+}

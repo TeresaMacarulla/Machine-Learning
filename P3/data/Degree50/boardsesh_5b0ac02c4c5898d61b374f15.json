@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5b0ac02c4c5898d61b374f15.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "k siempre",
+  "setter": "slim_setter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "C011D9E61C8C48F5B65C91FDD46002D8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1152r12p1187r13p1204r12p1235r13p1269r13p1318r13p1320r13p1387r14p1505r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "03f285e4180d9328656920c2207fe563d9b28b0197c6be8af5730c1cd3bfc7ff",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8259019cba235fa4801bb96b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Tigger!",
+  "setter": "CampusBeta",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "06243bc8274940589c95db24d255f70b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r12p1212r12p1267r13p1315r13p1370r13p1371r13p1392r14p1460r15p1477r15p1561r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.98,
+  "ascensionist_count": 216,
+  "quality_average": 3.529074074074074,
+  "hold_fingerprint": "d691b8ac2574af71d53ce1e2842fb3e761b5ec9be08f8ee54f903f77132d1fd9",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2bcf0d9595510cea4c0cc759.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Eoka",
+  "setter": "ltsapp007",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b23bdc00-305b-493a-bbef-8a8dc6bb32ca",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1457r15p1454r15p1148r12p1178r13p1195r15p1246r13p1247r15p1313r13p1366r13p1385r13p1389r13p1356r13p1357r13p1393r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.5,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "047986313b477d7f13b29552e831ac479821418ad83858a435b5e415557f6d72",
+  "validation_errors": []
+}

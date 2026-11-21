@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cdfbcab1d4c45b8d003afa3c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Stuck Inside",
+  "setter": "ido.ilouz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b7b9362ce56049dcb414b3ed14655d34",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r15p1169r15p1185r12p1215r12p1265r13p1277r13p1379r14p1495r15p1503r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "d09261c81297815fd955b147711109cd7d3905fdbd89c5af6e38314713a2a308",
+  "validation_errors": []
+}

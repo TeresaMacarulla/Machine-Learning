@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7bec8e04bf66371feabe7816.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Ros\u00e9 (campus)",
+  "setter": "GaldalfTheSender",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "3f8064ccfafd48ef8a6cc4e75aedf413",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1195r12p1197r12p1234r13p1237r13p1273r13p1305r13p1355r13p1386r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 9,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f24b93ee03686e0b651676723607c8e2d228895a9c64cedf4de962b0d53f6405",
+  "validation_errors": []
+}

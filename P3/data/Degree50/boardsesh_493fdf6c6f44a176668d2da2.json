@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_493fdf6c6f44a176668d2da2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Gaston Central Station",
+  "setter": "tomheslam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "7A783BE1D62546B5B820F60E8C647BFA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1182r12p1184r12p1251r13p1268r13p1299r13p1351r13p1386r13p1390r14p1455r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d08713eca19bcddb5f65bacecd3273950859128ee3af8beeea3acbfcf5920510",
+  "validation_errors": []
+}

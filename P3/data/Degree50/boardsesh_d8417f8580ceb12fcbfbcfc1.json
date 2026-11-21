@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d8417f8580ceb12fcbfbcfc1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Volcano Fresh",
+  "setter": "volcanohk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0DCCFBD2236048148C677EA5CEF87606",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1163r12p1195r12p1216r13p1237r15p1267r13p1301r13p1304r13p1355r13p1391r14p1475r15p1477r15p1505r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.64,
+  "ascensionist_count": 14,
+  "quality_average": 3.57,
+  "hold_fingerprint": "09b3d709f04c90d22958328bfbbaa27f19b6f5a600716f45b5dab1331a224c3d",
+  "validation_errors": []
+}

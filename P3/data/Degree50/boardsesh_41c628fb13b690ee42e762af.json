@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_41c628fb13b690ee42e762af.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "twist & shout",
+  "setter": "srhwn101",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "2ACC10993809431DA36BC5CA97E9A066",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r12p1139r12p1169r13p1221r13p1269r13p1287r13p1301r13p1353r13p1385r14p1447r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.29,
+  "ascensionist_count": 7,
+  "quality_average": 4.0,
+  "hold_fingerprint": "80ea53fef6288c346514135a62452c57e9534e0eff793a7ea4f21e60d580d1f9",
+  "validation_errors": []
+}

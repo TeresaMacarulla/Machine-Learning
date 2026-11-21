@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f313d56af57b0fbae7961f27.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "bosh (campus)",
+  "setter": "JasperDudley",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "5DE6122B5D42456391A254B6E76719A4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1246r12p1262r12p1300r13p1317r13p1353r13p1355r13p1356r13p1393r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "fb34c2d82b1884fea61f0acde7f07148b3fe0b1c7da8fafab220ca8bb677d7dc",
+  "validation_errors": []
+}

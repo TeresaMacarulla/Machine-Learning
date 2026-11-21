@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e7b0c477b77d201f6e6d2850.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Han-Tyumi",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "55194150f70f4614802277aa237b4b1e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1197r12p1214r12p1263r13p1300r13p1317r13p1336r13p1369r13p1390r14p1503r15p1506r15p1510r15p1532r15p1566r15p1570r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "857cb8f4d53d0fda6a85e70e186760956da5acc4e314d333a8883ceca823b6f2",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_248831e41866e463e5acca9f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Traverse right->left",
+  "setter": "alvarowier",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "DD93CFCC3D7C4380BB53EA4B1344F428",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r13p1149r13p1163r13p1166r13p1169r13p1171r12p1174r12p1186r13p1192r14p1196r13p1198r13p1447r15p1452r15p1453r15p1457r15p1462r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "579418e42f51330d3c3d444bd539015ad3612f16baf8ae59337cfc579261a4d6",
+  "validation_errors": []
+}

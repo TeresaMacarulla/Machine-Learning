@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d3efc2350507e18559d33f04.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Seashell (Campus)",
+  "setter": "wstkdm",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "3584DA354C0E4DFFBB692702E6158D72",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1223r12p1235r13p1236r13p1247r13p1300r13p1331r13p1382r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b7cb03ba2f14b677b4c89c7eff3102838f49839d3a320666f81bd7a7965640da",
+  "validation_errors": []
+}

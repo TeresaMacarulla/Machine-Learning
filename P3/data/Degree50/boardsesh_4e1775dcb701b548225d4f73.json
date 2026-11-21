@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4e1775dcb701b548225d4f73.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Make some noises",
+  "setter": "harringtonkristian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "CE54FB58B8474B0E844A3550B27A413C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r12p1127r12p1166r15p1177r13p1197r13p1265r13p1282r13p1336r13p1384r14p1464r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6511b5587bb694b4fd3bfd97b320b0b7fe0f8e09d1e44a888000c5c53268dc44",
+  "validation_errors": []
+}

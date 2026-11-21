@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b297d47a53a25a47b5de82cc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "merli",
+  "setter": "Merlijn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8F4EE557D970480581228D76E19A8582",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1096r15p1145r15p1185r12p1198r12p1267r13p1316r13p1353r13p1388r14p1523r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "126616b8fb64e5715059659166be1c91ecfd9aed5f97e54292e49ed5857ffab0",
+  "validation_errors": []
+}

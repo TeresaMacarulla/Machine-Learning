@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a570510b0e2c98d32a25d305.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "yaka yaka yaka left leg",
+  "setter": "cwlester",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "C83E08D009EA421FBCA6E553211667D7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1179r12p1192r13p1260r13p1296r13p1315r13p1347r13p1385r14p1464r15p1574r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1dce07e9419767a05e6de5999a8527c881e622f70a8b9ea2d607a7f9a83ecd56",
+  "validation_errors": []
+}

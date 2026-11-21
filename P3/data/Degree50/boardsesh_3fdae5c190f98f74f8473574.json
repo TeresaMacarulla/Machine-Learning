@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3fdae5c190f98f74f8473574.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "ollie is short",
+  "setter": "macca_climbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "a276bd4441cf4fd588175ff357ff28da",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1133r15p1163r12p1166r15p1170r15p1177r12p1205r15p1208r15p1234r13p1288r13p1308r13p1395r14p1456r15p1462r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "8a1f9f28c85e3397fc59ec6425fffecc997da3ef781375674d9dd431ab1a270c",
+  "validation_errors": []
+}

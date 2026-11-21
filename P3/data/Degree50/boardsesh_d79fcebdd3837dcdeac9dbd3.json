@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d79fcebdd3837dcdeac9dbd3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "campus Axel 2",
+  "setter": "AxelPeak",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "848E3D07941248D7ACCE87435ECFE3C2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r12p1215r12p1234r13p1267r13p1302r13p1317r13p1353r13p1385r14p1387r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 85,
+  "quality_average": 3.1400000000000006,
+  "hold_fingerprint": "3f806ade26d3d60700197912f744f6e41e08f8bef3106cd37526f9d72783a2da",
+  "validation_errors": []
+}

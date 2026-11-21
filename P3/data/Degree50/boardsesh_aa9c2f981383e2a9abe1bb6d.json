@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aa9c2f981383e2a9abe1bb6d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "corona final",
+  "setter": "steil_boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "32C8BA587E654010A5254505BAD4259E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1191r13p1254r13p1291r13p1344r13p1357r13p1358r13p1387r14p1447r15p1480r15p1515r15p1572r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.36,
+  "hold_fingerprint": "6ef1612714be80146194ad92ef9bcb3226eddcfb5eb561d6fedc4b336bc691f9",
+  "validation_errors": []
+}

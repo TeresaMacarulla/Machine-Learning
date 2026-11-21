@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8dc1d2ca1009b9048fea9a51.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Naked Groove",
+  "setter": "ohadb500",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "8CBF41F9F62F41D399DEF7C308D55A5A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1234r13p1266r13p1304r13p1353r13p1390r14p1455r15p1486r15p1488r15p1525r15p1561r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4aac22d3bc2d54009cb59eb7b7a1b9800e5262b22fac92c6431a482c0e74c938",
+  "validation_errors": []
+}

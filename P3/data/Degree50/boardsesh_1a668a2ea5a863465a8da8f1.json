@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1a668a2ea5a863465a8da8f1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "bandiera verde",
+  "setter": "jack17",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4834DD3001D04D8DB4BC82801C1C74D2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1132r12p1144r15p1185r12p1198r13p1235r15p1266r13p1281r13p1333r13p1384r14p1480r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e48db7add099dd00abd94dc2cbbf2f3c305fc4e7ec5911c6a619bcd8076f7ac0",
+  "validation_errors": []
+}

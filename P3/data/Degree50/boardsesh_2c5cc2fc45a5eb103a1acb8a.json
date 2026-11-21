@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2c5cc2fc45a5eb103a1acb8a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Not my feet",
+  "setter": "ewicexclamationpoint",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "ca96abcb61ec41bf98f73a333d520e93",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r12p1137r12p1201r13p1239r13p1286r13p1337r13p1368r13p1385r14p1452r15p1456r15p1487r15p1507r15p1513r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5114aadbd19255246056e1866b5de93c8e5e42e70ef329b33a5fe26703411705",
+  "validation_errors": []
+}

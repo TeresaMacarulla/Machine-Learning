@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_85f9a393db4c1dd282061848.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "hawk",
+  "setter": "SaxonCasi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6c60177afc8b48578ff957d14c3f42ce",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r15p1154r15p1160r12p1163r12p1202r13p1203r13p1215r13p1240r13p1256r13p1272r13p1339r13p1392r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.92,
+  "ascensionist_count": 12,
+  "quality_average": 3.5,
+  "hold_fingerprint": "1d828e66da5f20a8d158d9cfa9fa58dc5cee89af6a1ad95b13368645f0644db2",
+  "validation_errors": []
+}

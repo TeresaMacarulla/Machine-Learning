@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1565f9d51d7eae9135a2a9d3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Canary Crossing",
+  "setter": "goatybeef",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "CE8AB19118034076A9796B97E6AB5C45",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r12p1140r12p1168r13p1202r13p1267r13p1299r13p1312r13p1383r14p1447r15p1453r15p1520r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9ecc5ef75959b387c77d733475d028c16f91a507b72b11bb2c05646415272c7f",
+  "validation_errors": []
+}

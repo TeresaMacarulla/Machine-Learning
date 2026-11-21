@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_33cc5243883216b616879711.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "BK cross hand 01",
+  "setter": "nerd.cave",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3AB0D0C02B444AAE8AE2F88E160669CB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1157r12p1173r12p1205r13p1236r13p1240r13p1288r13p1302r13p1331r13p1332r13p1335r13p1380r14p1522r15p1531r15p1546r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.22,
+  "hold_fingerprint": "0713995feeba54d4d94b6b6541e7b2e4eeee4ffc849c2b486478c85a43a89466",
+  "validation_errors": []
+}

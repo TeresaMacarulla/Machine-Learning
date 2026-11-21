@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8f4cde9da578966fa51a3e48.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Squeege",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "071657FAAB9F40EF8C04903B49DCB388",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1145r12p1150r15p1216r13p1217r13p1229r13p1254r13p1284r13p1323r13p1371r13p1389r14p1532r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.01,
+  "ascensionist_count": 443,
+  "quality_average": 3.3836568848758466,
+  "hold_fingerprint": "5054ce6b1b7950c358957eedb871fb1a6f9cc0b992a8814cce060380c8eedef6",
+  "validation_errors": []
+}

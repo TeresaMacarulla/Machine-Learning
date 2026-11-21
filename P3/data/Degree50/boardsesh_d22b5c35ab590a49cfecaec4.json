@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d22b5c35ab590a49cfecaec4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Overture",
+  "setter": "markusleebV",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A3E163814AD24B398423F452B3A87572",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r15p1169r12p1239r12p1256r13p1267r13p1322r13p1387r14p1497r15p1512r15p1527r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "2d8f22dd325602ce800c7398f5b6509df4b31a021cb01fe16de021c9ea85e4ed",
+  "validation_errors": []
+}

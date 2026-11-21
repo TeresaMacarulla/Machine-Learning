@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f68a429c18b0a19e609456e5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "bear toes 1",
+  "setter": "Jeff",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "64a81f657cd640dc8dd02fa96e5ba28c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1126r12p1163r12p1204r15p1219r15p1228r13p1249r13p1266r13p1287r13p1306r13p1341r13p1371r13p1387r14p1463r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "558aaaa23dd5d7860e76d39167318a986e4cb3eb448a90b899521541f0b60dc5",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_76f715437859800b2097a1fe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Nus",
+  "setter": "maxlamenax",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "65c2b677ea55453290d5e3c34713a754",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1139r12p1186r13p1232r13p1287r13p1305r13p1344r13p1389r14p1452r15p1478r15p1504r15p1554r15p1599r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 5,
+  "quality_average": 4.2,
+  "hold_fingerprint": "0ddf4c0e0145d990d3cc4535ab57a16bf3419ddc2c4ba0b49ff8a029198c46e8",
+  "validation_errors": []
+}

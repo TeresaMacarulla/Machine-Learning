@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ed8d5aee6812ed072c34432f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Adult Start",
+  "setter": "NoamAradGever",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "d9811144366f423bb3a6ee0838959f82",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1075r15p1171r12p1197r15p1241r12p1286r13p1320r13p1352r13p1374r13p1393r14p1482r15p1530r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.89,
+  "ascensionist_count": 9,
+  "quality_average": 3.8899999999999997,
+  "hold_fingerprint": "735168d38d26962aa0bc6628cefe13187bc49fd48124b8dff1005745c799df2a",
+  "validation_errors": []
+}

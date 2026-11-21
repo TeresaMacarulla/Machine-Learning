@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0bedb21d398476707864382e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Chili",
+  "setter": "tomheslam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "305818AA24FB4EAFAAB461C431CB3EB8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1119r12p1120r12p1188r13p1201r13p1202r13p1217r13p1248r13p1317r13p1351r13p1388r14p1450r15p1495r15p1504r15p1541r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7e7bd3739aecb23d60e9d2a77973086e3b47f3130fd2ea29d7b1aafe8cd87e89",
+  "validation_errors": []
+}

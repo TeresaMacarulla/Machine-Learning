@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ba76267b188f8d36fd6aae0d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Zoltraak",
+  "setter": "noeller",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "30f76646dad240a7b5b3b59dba519afa",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r12p1171r15p1181r15p1204r15p1239r13p1272r13p1285r13p1304r13p1336r13p1387r14p1450r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "5e887a805665e5b16d69f05026bf5e7d85da93995c61477454604f467c8dd090",
+  "validation_errors": []
+}

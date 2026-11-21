@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e1eb53bcef8db00c9957f71a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "shoulder in crisis",
+  "setter": "Lewin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2E17380A9E4D4144A6DB966311AD4FA4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1184r12p1188r12p1269r13p1322r13p1335r13p1366r13p1372r13p1383r14p1451r15p1509r15p1571r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "70ba20bf564e619f2b473fae2a6160560f0d4b469c964abe2d3b487147edb539",
+  "validation_errors": []
+}

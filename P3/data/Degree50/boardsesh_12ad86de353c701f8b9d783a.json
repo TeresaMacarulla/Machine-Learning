@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_12ad86de353c701f8b9d783a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "sid campus",
+  "setter": "pfs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "3758BC81376D4832ABCD21D55E47C903",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1228r12p1233r12p1287r13p1300r13p1319r13p1373r13p1391r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "99b5a0d1d39b1f39bd896a19249a85dcf5e9e05f7dfcbed13fb7fb93feb1f7d8",
+  "validation_errors": []
+}

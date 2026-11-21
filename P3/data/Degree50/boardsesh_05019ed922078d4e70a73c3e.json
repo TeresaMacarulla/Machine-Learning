@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_05019ed922078d4e70a73c3e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Campus after tension (don't stand on start)",
+  "setter": "Deathmian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "a21fcffc-79f3-44b2-8579-25e46e8aab91",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1235r13p1266r13p1350r13p1387r13p1390r13p1393r14p1459r15p1503r15p1302r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "c0674dc2731b1c5a3e9d5c72e7a85760984fd74c4584087af4d076d96aa85ca7",
+  "validation_errors": []
+}

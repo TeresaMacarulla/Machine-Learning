@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cb9183dfef1fa5473f554cdb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Roberts' Rotators",
+  "setter": "deadsea02",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "c87cbb1b9ef0415ca9160a466d6187ab",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r15p1146r15p1149r12p1204r13p1268r13p1290r13p1353r13p1383r14p1456r15p1506r15p1542r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 2.0,
+  "hold_fingerprint": "c308102e06b7dfcb5505e9ebe735ce03902662cb3831240274ce3ddc1ad3e621",
+  "validation_errors": []
+}

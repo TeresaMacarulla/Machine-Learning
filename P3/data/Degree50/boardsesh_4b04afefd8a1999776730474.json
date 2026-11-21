@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4b04afefd8a1999776730474.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "v for victorian",
+  "setter": "gordonsea",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9da9a92868804eecab3e1b2901ee08fc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r15p1189r12p1207r12p1214r15p1269r13p1273r13p1304r13p1332r13p1334r13p1383r14p1472r15p1515r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e8d1ede77b66fa7aadde178d842eb8d5401e51e21e6cdfa5e544152c94e4072a",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2202911c4189001f0369fea5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Th Bicycle Shop",
+  "setter": "importedbean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5313B514A481468CAB0094ED90903E25",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1144r12p1163r12p1166r13p1184r15p1200r13p1214r15p1217r15p1220r13p1234r15p1255r13p1303r13p1323r13p1390r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 9,
+  "quality_average": 2.0,
+  "hold_fingerprint": "6a8fd3cae70e6238e790c8057c80248b16d3e34376fba0ee4cd430bb1bf0a331",
+  "validation_errors": []
+}

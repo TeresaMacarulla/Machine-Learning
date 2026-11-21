@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8a95abd42a7b1b8eb8de56e9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "#100",
+  "setter": "jwilder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "11974F7989554A2FA7B70CAA8AA3ED97",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1147r12p1150r15p1182r12p1217r13p1230r13p1232r15p1301r13p1320r13p1352r13p1387r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1094b14c69065eda9f5656efe0bb33d3ad1867f983d704006f189370c27e531d",
+  "validation_errors": []
+}

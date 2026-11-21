@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_079172741f08effb0b77fa13.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "pressure release",
+  "setter": "Alexmar01",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "c72edbe8-fb54-4f4f-aca3-75b475702410",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1271r13p1187r12p1240r12p1267r13p1173r15p1163r15p1178r15p1282r13p1347r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "7b5f87e66f700c32e165d56004494e0fb4e2aee71484fcfc65d5c2d973910342",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1f13a263c09b86fa33720266.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "unit",
+  "setter": "Remmelt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 1,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8F602B12BD6F48D8827AF49C65F54245",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1268r12p1274r15p1352r13p1383r14p1506r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "782cf53822020bf5ee5867c195a8c74858ad05b7408003ad567cd2405ee7f503",
+  "validation_errors": []
+}

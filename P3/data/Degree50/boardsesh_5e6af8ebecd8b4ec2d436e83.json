@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5e6af8ebecd8b4ec2d436e83.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "the airport stripper",
+  "setter": "orcen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2928C417C1994BB4AFAC5FACD5274B99",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1111r12p1132r12p1163r13p1200r13p1234r13p1270r13p1306r13p1320r13p1356r13p1391r14p1392r14p1459r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.77,
+  "ascensionist_count": 35,
+  "quality_average": 3.54,
+  "hold_fingerprint": "6d6d63727e25a6c2b515a9d6a52a9fb65385b57752e63ee0ad0bebf292af0137",
+  "validation_errors": []
+}

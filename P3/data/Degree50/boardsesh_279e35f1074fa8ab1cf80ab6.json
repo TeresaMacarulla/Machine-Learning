@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_279e35f1074fa8ab1cf80ab6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "sprain train",
+  "setter": "vkoko",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "D0F34F6F3EE54CBCB9831EE5C4959970",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1182r12p1198r12p1261r13p1267r13p1278r13p1328r13p1381r14p1494r15p1519r15p1537r15p1549r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "645808e42def8b5efe7119784e3d337447ebcd68207e33eec57a09e16cbc0e69",
+  "validation_errors": []
+}

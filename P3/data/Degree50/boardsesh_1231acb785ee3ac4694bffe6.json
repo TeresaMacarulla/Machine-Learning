@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1231acb785ee3ac4694bffe6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "felix power",
+  "setter": "Covret",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7023c9ecad044af4b423f5c71ac0a3af",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1148r12p1197r13p1227r13p1279r13p1297r13p1346r14p1457r15p1474r15p1529r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f5b21bbe047d4d4a48d4a9043bf7d97381c354787fc4936a31ebdd0eb98d2f88",
+  "validation_errors": []
+}

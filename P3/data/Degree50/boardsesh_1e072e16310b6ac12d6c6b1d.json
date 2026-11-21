@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1e072e16310b6ac12d6c6b1d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Stay Cool",
+  "setter": "vukyle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "873cb48ac0434d5aa52af3f34f3ea0f0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r12p1196r13p1202r13p1235r13p1273r13p1288r13p1339r13p1352r13p1389r14p1458r15p1461r15p1508r15p1516r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.44,
+  "hold_fingerprint": "e9b0d49ac36926df444907123e330c87d543d4d056eea91fdedd57d369f75043",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7f065fb14dcb667f912fc9c2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "twist em ",
+  "setter": "frazam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "52aa5381-6088-44c4-86d3-0041b26a60a9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1343r13p1191r13p1169r12p1140r15p1076r15p1373r13p1371r13p1385r14p1285r15p1257r13",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 5,
+  "quality_average": 4.5,
+  "hold_fingerprint": "be32ce73cb35822f0da3ca77a9619cef04ffa344923f3126c2e0721258e3dcbe",
+  "validation_errors": []
+}

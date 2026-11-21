@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0b4cb923dbe17f4677e19649.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "la",
+  "setter": "Rowan-",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "643ee2b3-b793-49c8-8483-aeacdb56b79a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r12p1128r12p1460r15p1458r15p1198r13p1505r15p1250r13p1286r13p1533r15p1337r13p1339r13p1388r14p1390r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "05620ce4d07afc6277d2c90d737e70de6fd77e6068a288857333956228862173",
+  "validation_errors": []
+}

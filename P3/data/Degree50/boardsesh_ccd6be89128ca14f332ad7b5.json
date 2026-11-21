@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ccd6be89128ca14f332ad7b5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Michael's shield",
+  "setter": "grimml",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3bc21a0624cd4293910e2c67b84acd11",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r15p1170r15p1236r12p1252r12p1299r13p1337r13p1338r13p1369r13p1380r14p1530r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.57,
+  "ascensionist_count": 8,
+  "quality_average": 3.57,
+  "hold_fingerprint": "b54a2f902f12c80e8729d070fcd7f8360d57c2b194110c4ae517a377c9b9e42c",
+  "validation_errors": []
+}

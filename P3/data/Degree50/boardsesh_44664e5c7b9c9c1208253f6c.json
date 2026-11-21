@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_44664e5c7b9c9c1208253f6c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "No Game Changer",
+  "setter": "steil_boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "6AFB8F6FE6FF4562BAE5AE0A06621AB6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1153r12p1199r13p1250r13p1298r13p1338r13p1387r14p1451r15p1476r15p1479r15p1494r15p1511r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.07,
+  "ascensionist_count": 15,
+  "quality_average": 3.53,
+  "hold_fingerprint": "669fb831df2ab467cd47264ea1d5af49e108168cea41e996e4ba48c03cd83358",
+  "validation_errors": []
+}

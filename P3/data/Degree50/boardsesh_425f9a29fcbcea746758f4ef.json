@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_425f9a29fcbcea746758f4ef.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Con-Air",
+  "setter": "dmix",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "319F3C649A4345069C69FF8DE45E5E5C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1143r12p1192r12p1281r13p1314r13p1353r13p1371r13p1393r14p1464r15p1510r15p1581r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6b40ca2f716aa10f56aa56d417ab02e4fb2d273a5f0cd42246eaece214a7fe2a",
+  "validation_errors": []
+}

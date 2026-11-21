@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0f2655e06b0fd60967914f15.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "False Light",
+  "setter": "theunaphotobomber",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "8c7bb3f997c74e28b8fb57e70df50189",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1155r12p1174r12p1218r13p1222r13p1238r13p1284r13p1301r13p1314r13p1382r14p1451r15p1490r15p1509r15p1521r15p1530r15p1538r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9ae01edc6be60a83e54df4965c20ff9dd1517db7489169616c285e31fe5fb2c8",
+  "validation_errors": []
+}

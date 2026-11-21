@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2824685be61974261c6286be.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "highpower pinch training",
+  "setter": "ryotaroro",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "26319a28-1580-470f-94f0-f30d61023a06",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1186r13p1074r15p1077r15p1148r13p1080r15p1232r13p1287r13p1298r13p1487r15p1523r15p1366r13p1345r14p1243r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.2,
+  "ascensionist_count": 5,
+  "quality_average": 3.6,
+  "hold_fingerprint": "ea8ef36dc77c5c0fca3cad7b937b26b4a2019591a47ece48b24ae70e776fc057",
+  "validation_errors": []
+}

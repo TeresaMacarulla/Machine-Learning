@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d5e273defda969d9e8dde8e3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "cut loose and grab",
+  "setter": "benoprisu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9F84FA374C144ED58C5219C1CA641C63",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1250r12p1279r13p1300r13p1363r13p1381r14p1489r15p1511r15p1528r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2072d9ee810b4f0500994aaf6dde0307ddee9093ef0d98afdfb220d4c3b3dbba",
+  "validation_errors": []
+}

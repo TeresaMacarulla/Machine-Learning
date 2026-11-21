@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cf6f5830c9cdd997ef66212d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "whip it",
+  "setter": "boddha",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6E4BC57168C241BA95F93A5F9563A09B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1128r15p1175r12p1193r13p1226r13p1244r13p1261r13p1315r13p1332r13p1335r13p1387r13p1391r14p1557r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "032ae316343783f4af2d5cd1faa0e3d8d571fb71a7a2940de6c8defa961835a6",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_87d147fc2fa307678844e8a0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "typical campus car",
+  "setter": "zealot",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "0BE77DB425384F41991755F2E845146F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1151r12p1184r13p1185r13p1232r13p1270r13p1309r13p1324r13p1394r14p1459r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.33,
+  "hold_fingerprint": "7646d8a626e75ea074e403b069fad8a83a37f0a3433a0befb8336700efcf16ff",
+  "validation_errors": []
+}

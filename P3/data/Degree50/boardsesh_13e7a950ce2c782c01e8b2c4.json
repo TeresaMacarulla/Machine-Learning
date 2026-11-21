@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_13e7a950ce2c782c01e8b2c4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "SIDE ENTRY",
+  "setter": "lukey_mcc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "690E9A9702A14D9ABF3462DB2679E08D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1101r15p1118r12p1130r12p1135r13p1182r13p1202r13p1219r15p1267r13p1302r13p1385r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6b35eca0aa3713bd7409be9b099d4fff7bb0f8ae2f85a17f2f2b1a83860eac6c",
+  "validation_errors": []
+}

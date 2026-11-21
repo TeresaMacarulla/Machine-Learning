@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3d612a62974a17324099aae0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Acrobatics",
+  "setter": "colinclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0D6F1806202E4B09A29FC239B4574BFA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1163r12p1278r13p1294r13p1387r14p1458r15p1459r15p1460r15p1461r15p1462r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.0,
+  "hold_fingerprint": "306487d14ea92451920d7376a3e42aff216a64c497cc2ce993ec7f0ab20136fc",
+  "validation_errors": []
+}

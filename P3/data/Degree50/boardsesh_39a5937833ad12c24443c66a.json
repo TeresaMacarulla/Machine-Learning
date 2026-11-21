@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_39a5937833ad12c24443c66a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "gd1",
+  "setter": "danielcohen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "CBFC0357902A4140B8F3D0014B7C6BAC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1170r15p1187r15p1217r12p1269r13p1299r13p1335r13p1382r14p1542r12",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "998fcf2ecc6e3b1fe814c9efde4c5f0794203be378acccd772cc137979c0562b",
+  "validation_errors": []
+}

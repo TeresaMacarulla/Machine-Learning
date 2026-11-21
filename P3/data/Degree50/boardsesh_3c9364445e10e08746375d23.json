@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3c9364445e10e08746375d23.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "FTR 4",
+  "setter": "GdeSardes",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3d0e2379-9226-41c2-971d-3c6205598489",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1250r12p1230r12p1286r13p1307r13p1506r15p1520r15p1374r13p1394r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.7999999999999994,
+  "hold_fingerprint": "f3c5e4a29b8614a60d6b135d1737bd3241656041b0e3e6e5ce3c4ecac4185c32",
+  "validation_errors": []
+}

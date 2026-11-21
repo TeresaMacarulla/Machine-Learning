@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2f255800f3963217b10ec03b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "LM Is Closed :(",
+  "setter": "williambeta",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "C2EDA8491A5248AAAFC315C4BD39B12C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1115r12p1131r12p1186r13p1237r13p1287r13p1334r13p1384r14p1452r15p1534r15p1577r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8cd064c07e3aabc20be7663b5e3172fc0123ed7cf05e8a2fa2a69d0f2b277db5",
+  "validation_errors": []
+}

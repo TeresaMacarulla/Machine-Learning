@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e800a52cf1858688da56291a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "No.31 \u26a1Beast of the Board\u26a1",
+  "setter": "core.nelius",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "26af5ed76aff4bb6bb433d30525f60e2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1185r12p1203r12p1253r13p1267r13p1268r13p1335r13p1354r13p1389r14p1391r14p1479r15p1480r15p1513r15p1551r15p1561r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.99,
+  "ascensionist_count": 124,
+  "quality_average": 3.25,
+  "hold_fingerprint": "7ab403fcf13184528df2919bfe9f1448c4c3c1e9c2374d8d2b01790ec15ebda2",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c4ef43b169bdd78d816e1d61.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "gekkenhuis",
+  "setter": "jesseh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "71607c2981cd4f6cb84ce2e6611995dc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1228r13p1275r15p1282r13p1299r13p1323r13p1338r13p1375r14p1465r15p1484r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "22a4001274a63f82d8434c4b566e9c3d8c68555251fbe3ba58693796614949bd",
+  "validation_errors": []
+}

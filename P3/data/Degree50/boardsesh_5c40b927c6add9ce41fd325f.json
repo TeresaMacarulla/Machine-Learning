@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5c40b927c6add9ce41fd325f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Overshoot Day",
+  "setter": "steil_boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "2B6CD2A64C59442F961AC9F6D0020F71",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1143r12p1209r13p1265r13p1286r13p1298r13p1352r13p1389r14p1462r15p1528r15p1529r15p1532r15p1547r15p1588r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 4,
+  "quality_average": 2.75,
+  "hold_fingerprint": "e7cd1878e6e661a71a695bed94f1980819b06ae0696adb4c3ed2925fc410e061",
+  "validation_errors": []
+}

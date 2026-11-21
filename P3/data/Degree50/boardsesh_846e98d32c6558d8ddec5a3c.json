@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_846e98d32c6558d8ddec5a3c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "la croix",
+  "setter": "patinaeater",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "74919EF6F9F048ECA612BB0D2DEC0021",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1101r15p1120r12p1184r12p1216r13p1232r13p1284r13p1320r13p1358r13p1390r14p1468r15p1487r15p1521r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6e7fda7139940ee4e6aefaef656bb0e86fdbf536bb66d756942eb61bdf271b1e",
+  "validation_errors": []
+}

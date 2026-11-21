@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_608dfe246ab439cd353a79ce.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Tighty Whities",
+  "setter": "tomheslam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "19A7B510EA514A5D81B3C882D1164A25",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1149r12p1201r13p1239r13p1286r13p1287r13p1299r13p1333r13p1382r14p1453r15p1458r15p1539r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "18c9de981e464424f61ace312126cf000b195a249eb59970c0f90873bb63724b",
+  "validation_errors": []
+}

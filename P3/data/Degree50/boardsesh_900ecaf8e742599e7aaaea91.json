@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_900ecaf8e742599e7aaaea91.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "dermax",
+  "setter": "Lewin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5C9B5912085249619DE863E73B7F2D60",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r12p1181r15p1198r12p1248r13p1254r13p1263r15p1319r13p1320r13p1368r13p1389r14p1455r15p1487r15p1551r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "79b1dc21c6342f0b46ccccde9fcd6422747186c5a75d66f890c2d25f2487e12e",
+  "validation_errors": []
+}

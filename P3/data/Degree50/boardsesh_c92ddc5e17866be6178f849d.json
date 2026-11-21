@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c92ddc5e17866be6178f849d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Clampus",
+  "setter": "dbarks",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "DE529F9B8C0A4E15AB90384362D89989",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1112r12p1129r12p1186r13p1216r13p1319r13p1332r13p1383r14p1456r15p1486r15p1565r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.88,
+  "ascensionist_count": 8,
+  "quality_average": 3.5,
+  "hold_fingerprint": "0c9a97668d0245cd8f7aa318748d7d01ed4e00d7b4f7e52cac21ec88ea592c8b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7d62095931f5b904e21ec7e5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "STPB 4",
+  "setter": "Loncho",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "D26CD2D30B8D4BEA8949E45B10DE964A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1130r12p1168r15p1214r13p1215r13p1218r13p1257r15p1286r13p1307r13p1358r13p1392r14p1572r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e7d2fc464ff4359c31ae4e570792c1fbd1bd937ef155e08f753e218c21c410e0",
+  "validation_errors": []
+}

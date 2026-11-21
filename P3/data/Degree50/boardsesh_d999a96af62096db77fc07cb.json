@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d999a96af62096db77fc07cb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Rainbow ROAD",
+  "setter": "RyanKing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3EC67ED460894BCE8CBDACA1B94CF33C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r15p1203r15p1231r12p1234r12p1284r13p1302r13p1304r13p1353r13p1371r13p1390r14p1561r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.91,
+  "ascensionist_count": 43,
+  "quality_average": 3.2599999999999993,
+  "hold_fingerprint": "54ac8aaf60c059e41f00e5bae538ac1eff412878e65001e9b80fcff86abb6f65",
+  "validation_errors": []
+}

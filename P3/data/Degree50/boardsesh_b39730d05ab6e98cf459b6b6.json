@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b39730d05ab6e98cf459b6b6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "tesselation",
+  "setter": "brianclanton",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2965dbc790e54f61a5c92a7d4aaf9ff2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1171r15p1198r12p1236r13p1269r13p1306r13p1340r13p1392r14p1459r15p1470r15p1513r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 3,
+  "quality_average": 4.33,
+  "hold_fingerprint": "05594542635f36f0f729dd743090c513917377b2fd19ef2ffe8049c9b7fb064e",
+  "validation_errors": []
+}

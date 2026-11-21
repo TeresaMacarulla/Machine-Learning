@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a9ef87b2a58c1e192ab38b3d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Pinball 7x10 edit",
+  "setter": "hwilly",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1ffd11c507144397b3cbb1dc9018495c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1165r15p1182r12p1231r12p1267r13p1284r13p1288r13p1305r13p1341r13p1374r13p1389r14p1533r15p1552r15p1560r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "ce76c631ec156306489ebc9b4a7f72d65d6d9da0a1854f090b82987ff227a47b",
+  "validation_errors": []
+}

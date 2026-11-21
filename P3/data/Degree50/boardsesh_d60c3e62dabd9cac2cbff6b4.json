@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d60c3e62dabd9cac2cbff6b4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "jumpman 360",
+  "setter": "mikkelsommer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "99319E829B9F46EAB5E4E7EB7EFE3A55",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1076r15p1155r12p1223r15p1257r13p1270r13p1302r13p1315r13p1347r13p1380r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.05,
+  "ascensionist_count": 43,
+  "quality_average": 3.43,
+  "hold_fingerprint": "a739c0bc2853f642fa34aded1446025eba3b7b85057f56da4640db0a35eabf9a",
+  "validation_errors": []
+}

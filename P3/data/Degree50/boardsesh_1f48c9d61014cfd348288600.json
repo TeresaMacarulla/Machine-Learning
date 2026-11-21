@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1f48c9d61014cfd348288600.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "MindControl",
+  "setter": "itzanarchy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1fd56b9755f4458bb1c1518d7281ff81",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1245r12p1268r15p1279r12p1317r13p1350r13p1354r13p1355r13p1390r14p1510r15p1519r15p1529r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "550c827188f1f83f4525ef2466e44c093ad319b44f4dc2757af65ee8b04e459b",
+  "validation_errors": []
+}

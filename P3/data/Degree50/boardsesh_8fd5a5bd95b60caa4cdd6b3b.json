@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8fd5a5bd95b60caa4cdd6b3b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "4g",
+  "setter": "tibo_my",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "D27A01BC3CA14A3A9756F446BA22FF2A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1091r15p1193r12p1213r12p1274r15p1294r13p1315r13p1337r13p1350r13p1375r13p1388r13p1395r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5d28a3db728a3dd35d2ca669d445e2bb52af2691bfeafafc5662b60ae9cc5300",
+  "validation_errors": []
+}

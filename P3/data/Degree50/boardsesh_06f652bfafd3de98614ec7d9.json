@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_06f652bfafd3de98614ec7d9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "AD keep tension",
+  "setter": "leonxleon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "53a500c10c83455dbcd7f8d0ef5eed04",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1163r12p1177r12p1233r15p1248r13p1250r13p1286r13p1317r13p1388r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b7c9a0f36c82c900ebb805e8607cad03340af96cb69a8f742a9d915407c55b34",
+  "validation_errors": []
+}

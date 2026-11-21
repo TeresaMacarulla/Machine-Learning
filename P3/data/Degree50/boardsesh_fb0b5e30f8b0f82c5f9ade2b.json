@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fb0b5e30f8b0f82c5f9ade2b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Acl Campus 2.1",
+  "setter": "greazzyg",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "4C965D3B2533440D93FCDB7CD89A460A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1195r12p1214r12p1231r13p1252r13p1302r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 4,
+  "quality_average": 5.0,
+  "hold_fingerprint": "a03e61ee3d03a70ed3ba3b65dcdaddcb6caffb677bbaa879e86c8a0fa051a628",
+  "validation_errors": []
+}

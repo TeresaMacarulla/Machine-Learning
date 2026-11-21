@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ec1f26f8aa03937bb3b27917.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Zig,Zag",
+  "setter": "hg8820",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "ab3099c9-9722-442c-98fd-f2e71f419422",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1464r15p1462r15p1141r12p1142r12p1192r13p1092r15p1210r13p1243r13p1385r14p1246r13p1144r15p1162r15p1296r13p1348r13p1230r15p1382r13p1282r15p1302r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.25,
+  "ascensionist_count": 11,
+  "quality_average": 2.5,
+  "hold_fingerprint": "c9b2561785334a199a0ffb11391ad2a88d4ed7f4253723958d931d05e84e2447",
+  "validation_errors": []
+}

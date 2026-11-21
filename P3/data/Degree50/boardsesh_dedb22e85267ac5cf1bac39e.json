@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dedb22e85267ac5cf1bac39e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "il dit qu'il a plus de genou",
+  "setter": "qboehler",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1865af9c56c44c6292cd4d14955bd477",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1215r13p1264r13p1318r13p1384r14p1458r15p1493r15p1520r15p1551r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1a99d38cc74c8a624d1401d4b907db72db06071c9ef89ff9bc4d91934da04a34",
+  "validation_errors": []
+}

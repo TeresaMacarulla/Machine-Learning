@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_90d72ec9bb89ff264ff39dc0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Braj RH",
+  "setter": "thosearentholds",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E8B6EE60C03542F398F9AA272B572E5D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1104r15p1138r12p1150r15p1186r12p1187r13p1216r13p1254r13p1353r14p1498r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.5,
+  "hold_fingerprint": "90815f1125b7e2353f0b7fa255e73fce18f7f130cc4f72dd05804e14e887806d",
+  "validation_errors": []
+}

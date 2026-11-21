@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7830acf99e4b03b446c63d58.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "nofoot4",
+  "setter": "felixleblanc624",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "FAB746B07C8B400F81D54387A1374BA2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1235r12p1271r12p1284r13p1319r13p1352r13p1387r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6ab5c9b1d698444f69f0a10b2e9ea5de8eeba42d45a001cc7dd966c6f402bb21",
+  "validation_errors": []
+}

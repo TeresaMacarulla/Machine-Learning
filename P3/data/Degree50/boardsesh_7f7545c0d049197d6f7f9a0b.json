@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7f7545c0d049197d6f7f9a0b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "pinky fingar",
+  "setter": "deteu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "536F69CE7CF44700A8487451208B5017",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1165r12p1183r12p1265r13p1318r13p1352r13p1375r13p1393r14p1476r15p1542r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e2907bc02cfe3d1d4a42cc8a2bddde1b0836a7e84995fa6883632db7303d8b34",
+  "validation_errors": []
+}

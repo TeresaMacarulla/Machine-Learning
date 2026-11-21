@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f6652c04b971d0af8e15ad19.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "WTVR",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "AA2AF93446DA4E20AD69F22CC9F7FB5F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r12p1169r12p1198r13p1236r13p1246r15p1300r13p1334r13p1365r13p1382r14p1452r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.05,
+  "ascensionist_count": 277,
+  "quality_average": 3.36,
+  "hold_fingerprint": "fee1b6d621cda8452f3917436cbd2f832520e84dfefcd5642d858287c5d11693",
+  "validation_errors": []
+}

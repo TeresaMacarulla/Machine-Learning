@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_923aac268d02b8b1a19d879f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Wo ist der Stock",
+  "setter": "tjarkmaass",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "F953F21A27844F97B8F960D061DEB5D5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1241r13p1288r13p1392r14p1449r15p1506r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.86,
+  "hold_fingerprint": "228edc58e3b21bf15360288586a2aba704f9dc98ac9a1a16fb5ba27265e5810a",
+  "validation_errors": []
+}

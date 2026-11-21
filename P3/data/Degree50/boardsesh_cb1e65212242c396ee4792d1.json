@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cb1e65212242c396ee4792d1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Vital Bellingham Q32",
+  "setter": "alexmar",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "FF4E2FC7DA9E4A52B0237AAC2C169E66",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r15p1159r15p1180r12p1194r12p1264r13p1277r13p1317r13p1355r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "439a1f42fb9887c80b0a55400e561b47da0b478bef3fb75887505081e6ec2833",
+  "validation_errors": []
+}

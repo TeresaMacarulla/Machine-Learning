@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0037a5788fa4a35423b55a78.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "acorn",
+  "setter": "nik.vukovich",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "02D5BCFCC41F45BDA1884B0343B1DF42",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1133r12p1215r13p1269r13p1316r13p1387r14p1457r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e7a601e7fbb5e973d9f9c4ebedf5d35ac224721f015c53f1bfb3efd4ae0f067d",
+  "validation_errors": []
+}

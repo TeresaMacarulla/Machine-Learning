@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_349ea90e687f5d14f9047a55.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Feacalibrium",
+  "setter": "sheg",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "7bbb2693ec2547f585cb02a28cffc01f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1198r12p1236r12p1284r13p1319r13p1334r13p1335r13p1347r13p1379r14p1469r15p1487r15p1489r15p1505r15p1516r15p1546r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.88,
+  "ascensionist_count": 8,
+  "quality_average": 3.5,
+  "hold_fingerprint": "09d29e6e53fa4fb443cbff16f396870ea5d82dad6a9a774250dedc3498fe9471",
+  "validation_errors": []
+}

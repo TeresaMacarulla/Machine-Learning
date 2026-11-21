@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2f2845628913cc41d3f3210e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Contortionist",
+  "setter": "will_avelar",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "67A5BE3BFF254780AE8B8A11C57D0FAB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1204r15p1216r13p1233r13p1253r13p1320r13p1389r14p1457r15p1588r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 13,
+  "quality_average": 3.46,
+  "hold_fingerprint": "34618562f455fcd6ce1ee8832f294a037c2b6f8e7b15591d53a8c7ebd525e616",
+  "validation_errors": []
+}

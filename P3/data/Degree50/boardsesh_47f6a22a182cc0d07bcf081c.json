@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_47f6a22a182cc0d07bcf081c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "forarm crusher",
+  "setter": "pander",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "cc25c8c4361e4ea08eebecbd2ad346f2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1206r12p1255r13p1307r13p1320r13p1354r13p1385r14p1480r15p1515r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "51c78d20c686732e76071504ed0b89cd58b351a064f0a997f249b99d04c9f4ab",
+  "validation_errors": []
+}

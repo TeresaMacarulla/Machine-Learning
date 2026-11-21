@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8d9abc07d3147dae6b2a5ebf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Hugo #1",
+  "setter": "icyvapes",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "44894eeeb9dd43a5bacdba8e340066a6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1157r15p1180r12p1184r12p1202r13p1222r13p1256r13p1274r13p1308r15p1323r13p1357r13p1372r14p1545r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7f0dd96937105eee6faaccd661ece5e1cf29cb022e5de6db6035f766acc92cad",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4710ba92e548490ed2e6fb8e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "A swing and a miss",
+  "setter": "samsned",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "69B7DEAB65FD413084765909943B1D6E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1127r12p1163r12p1216r15p1247r13p1298r13p1311r13p1380r14p1457r15p1546r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "17de707341e2df1afcb83d95c0d8cc8e23a1afd74048287bd11a2bf100e8fb9e",
+  "validation_errors": []
+}

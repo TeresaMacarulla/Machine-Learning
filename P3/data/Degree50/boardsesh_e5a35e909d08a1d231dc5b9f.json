@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e5a35e909d08a1d231dc5b9f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "4theWin",
+  "setter": "elevator0131",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "2902F3EEEFBD47E39404FF349347C9EB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1083r15p1149r12p1163r13p1200r13p1234r13p1287r13p1315r13p1317r13p1335r13p1347r14p1507r15p1547r15p1556r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.75,
+  "hold_fingerprint": "9743d50b0a575a43d04f8f4cf4912f7518c4ad0f68af8362809933145384053e",
+  "validation_errors": []
+}

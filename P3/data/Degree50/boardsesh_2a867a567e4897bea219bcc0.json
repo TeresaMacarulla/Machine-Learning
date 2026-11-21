@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2a867a567e4897bea219bcc0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "ACL#3",
+  "setter": "BLpat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 10,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "7c5d68651b034bf598009f7e9bae6b39",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1097r15p1105r15p1140r15p1141r12p1142r12p1143r13p1162r13p1168r13p1169r13p1179r13p1182r13p1189r13p1195r13p1199r13p1205r13p1242r14p1452r15p1461r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "b05697953b932d5f1bc4e914b5fe6a171f0d28a7a5634df0226d28e376c160fa",
+  "validation_errors": []
+}

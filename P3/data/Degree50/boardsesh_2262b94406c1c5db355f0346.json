@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2262b94406c1c5db355f0346.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "wake up v2 rev",
+  "setter": "eggywlrd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "9B4E47143A2C4B0D97E65D3FC29DB4B6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1175r15p1228r13p1230r12p1280r13p1301r13p1332r13p1388r14p1483r15p1510r12p1522r15p1537r15p1547r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.3333,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "a283b453231b24a11113359e72d88272fa6660e947918faa137c465a9124be1e",
+  "validation_errors": []
+}

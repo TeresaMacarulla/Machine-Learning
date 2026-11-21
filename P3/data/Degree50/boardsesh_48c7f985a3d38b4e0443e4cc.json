@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_48c7f985a3d38b4e0443e4cc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "JDG1",
+  "setter": "Delire_PB",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "9d5802413baf43dd819b5b72878656a9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1192r13p1243r13p1284r15p1298r13p1331r13p1387r14p1462r15p1464r15p1503r15p1530r15p1538r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9757766b39ec323fb3205f036404d3f4e34317f4601e98c77ca5e72c75814067",
+  "validation_errors": []
+}

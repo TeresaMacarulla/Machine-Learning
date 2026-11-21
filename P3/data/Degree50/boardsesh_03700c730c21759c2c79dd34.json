@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_03700c730c21759c2c79dd34.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "pendelum",
+  "setter": "connor.kainalu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "E7EFFE6521904999B47359B5F20EF708",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r12p1179r13p1203r12p1215r13p1220r13p1262r13p1316r13p1335r13p1371r13p1390r14p1447r15p1466r15p1467r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.11,
+  "ascensionist_count": 9,
+  "quality_average": 3.8899999999999997,
+  "hold_fingerprint": "be924d93ce041b38754e152d1b3a2d47400f47f823627e8a3b56403d0b8e9470",
+  "validation_errors": []
+}

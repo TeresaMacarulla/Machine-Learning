@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fda45371178ac1e3b30940e6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Elbows Up \ud83c\udf41",
+  "setter": "nlun",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "392da30163e14e21a72b1998240f840b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r15p1146r12p1183r13p1201r13p1229r15p1271r13p1301r13p1314r13p1348r13p1379r14p1468r15p1555r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ea9868d1d622c03d329632ff48f12664c3d1bae6d11de8e0ef4c9a3f627fa0c3",
+  "validation_errors": []
+}

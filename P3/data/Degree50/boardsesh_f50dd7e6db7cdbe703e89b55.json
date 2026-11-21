@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f50dd7e6db7cdbe703e89b55.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "sendbag",
+  "setter": "jul789",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "23894b403a984baca1835ea2f7f5acfa",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1189r12p1191r12p1235r13p1258r13p1271r13p1336r13p1389r14p1482r15p1513r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "969f614e4657c8c7a4bd60a70781cfa772891caeab307c2323f0da530088c2fa",
+  "validation_errors": []
+}

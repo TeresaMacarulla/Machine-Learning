@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ba0a87790adb357239bc5bda.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Recumbent",
+  "setter": "BKreinbrink",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "D751AF43FE1346C9ABC3B310A5AB1E4D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r15p1147r12p1152r15p1182r12p1204r15p1246r15p1248r13p1269r13p1299r13p1322r13p1350r13p1354r13p1385r14p1530r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.95,
+  "ascensionist_count": 308,
+  "quality_average": 3.39,
+  "hold_fingerprint": "d9a264a31318e801a40f3178c0bba7ae4130477ec4676bd5c4569201c398310b",
+  "validation_errors": []
+}

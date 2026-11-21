@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a6da7984ff710e60bd1c5486.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "malario",
+  "setter": "oben0",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "AB4C75B2EDA14C66B04E0269B26A1F38",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1108r12p1163r12p1247r13p1289r15p1302r13p1335r13p1387r14p1467r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.96,
+  "ascensionist_count": 76,
+  "quality_average": 3.8299999999999996,
+  "hold_fingerprint": "2352b77f456aa2afa360985f6975d81e1b79d99ea04ddd1b533e153da9a701af",
+  "validation_errors": []
+}

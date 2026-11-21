@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f8be92d29e3b8051cae4fc9b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "I hope the saftey lines at boulders don't snap",
+  "setter": "DannyA",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "a67d33254ae34dbbb39d1ff96548558f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1185r12p1214r13p1265r13p1296r13p1383r14p1452r15p1497r15p1499r15p1537r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.29,
+  "hold_fingerprint": "049f47afb7604a5dceaae74bdabd71b1ac54f593fab1d66e166554433f4ccbf3",
+  "validation_errors": []
+}

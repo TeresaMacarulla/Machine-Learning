@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_be49cc4e36846d8d3f935745.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "trina no2",
+  "setter": "trina",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "f294e4d99b324258ad5f0cd694ff63ca",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1156r12p1200r15p1204r13p1234r15p1240r13p1288r13p1306r13p1320r13p1355r13p1386r14p1447r15p1507r15p1551r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.67,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "b86f5f6c1f3830d471112179df564825a13fcc90502636fb57cec1dc96f7291b",
+  "validation_errors": []
+}

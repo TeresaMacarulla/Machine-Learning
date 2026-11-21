@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c43aa22d8f880bf36afbe10a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "el facil",
+  "setter": "danielrudolph",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E3EC577639DB42B7BD875DD40D56F861",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1083r15p1130r15p1161r15p1166r12p1198r13p1234r13p1247r13p1267r13p1281r13p1317r13p1349r13p1384r14p1386r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.97,
+  "ascensionist_count": 36,
+  "quality_average": 3.33,
+  "hold_fingerprint": "d80d51d1ba2bcb03c82ccfd69ec6d8b75f3fd295d4be8602275c1a49ae51568e",
+  "validation_errors": []
+}

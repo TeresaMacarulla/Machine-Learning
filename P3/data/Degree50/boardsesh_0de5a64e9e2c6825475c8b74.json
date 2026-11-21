@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0de5a64e9e2c6825475c8b74.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Oodles of Boodles",
+  "setter": "jwilder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "6C4828037EE342F9A8F4E378183A9221",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1082r15p1146r15p1149r12p1203r13p1235r13p1266r13p1287r13p1335r13p1384r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.01,
+  "ascensionist_count": 93,
+  "quality_average": 3.2382795698924736,
+  "hold_fingerprint": "cfb877ded10f2d5cb4b1bacaf835a9fed69e6180e3d21da4c64ba770689f9576",
+  "validation_errors": []
+}

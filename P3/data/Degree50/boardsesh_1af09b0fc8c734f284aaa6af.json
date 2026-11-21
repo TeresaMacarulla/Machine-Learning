@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1af09b0fc8c734f284aaa6af.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "lord unlimited",
+  "setter": "steil.boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "D2284628034D4B05BEEF0ED9A2D8874B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1167r12p1237r13p1264r13p1322r13p1329r13p1334r13p1379r14p1454r15p1512r15p1520r15p1521r15p1527r15p1547r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.96,
+  "ascensionist_count": 26,
+  "quality_average": 3.64,
+  "hold_fingerprint": "0f1be8411f328c97aea656375fa32b7226023a6dedc34620f0be509a3f599861",
+  "validation_errors": []
+}

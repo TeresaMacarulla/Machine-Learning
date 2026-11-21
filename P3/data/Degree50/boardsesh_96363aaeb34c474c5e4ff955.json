@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_96363aaeb34c474c5e4ff955.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "ACL5",
+  "setter": "BLpat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "b97c6dbfa0064942aa5291a0b6886c03",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1111r15p1113r15p1120r15p1143r12p1155r13p1169r13p1193r12p1197r13p1198r13p1202r13p1208r14p1448r15p1451r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e7990c7b62988e5cff6326aec18c08575b4f13e1ef9c1197225bac9dbb424667",
+  "validation_errors": []
+}

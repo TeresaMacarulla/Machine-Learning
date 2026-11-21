@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_50b2163f589c264d7aeefd2f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Night fever",
+  "setter": "lukimayerhofer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "df6b5e8e8ce547ddab383d8f1e8a9598",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r15p1170r15p1176r12p1232r13p1324r13p1394r14p1464r15p1477r15p1494r12p1540r13p1542r13p1543r13p1553r13",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 42,
+  "quality_average": 3.44,
+  "hold_fingerprint": "bc3fd744fea4647fa7ed68e00017d1906850bccfa69767f7b97eb4301fed1a54",
+  "validation_errors": []
+}

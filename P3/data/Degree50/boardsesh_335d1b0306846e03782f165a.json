@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_335d1b0306846e03782f165a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Do you watch basketball?",
+  "setter": "bennykuttler",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "46869152F0E14A3BA89067D93435B620",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1111r15p1144r12p1145r12p1214r13p1226r13p1278r13p1312r13p1350r13p1385r14p1389r14p1502r15p1547r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.2,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "fa6f7f7903f92a3922a06f6b3d1dfcd2afd5a34d341fc9d5ce07518f14781955",
+  "validation_errors": []
+}

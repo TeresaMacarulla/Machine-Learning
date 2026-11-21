@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0c019e987b516b16a5178381.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Broken Latt",
+  "setter": "RobinDonders",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "E7C12D0941934F4F8EDA758BB5BD4415",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1155r12p1258r13p1271r13p1272r13p1338r13p1389r14p1506r15p1507r15p1508r15p1553r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e590fabc6a796a64195d3c75a36ffd91af1c9f40fdff16a602ed660d40c2d0da",
+  "validation_errors": []
+}

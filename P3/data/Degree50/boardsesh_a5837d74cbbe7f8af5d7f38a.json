@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a5837d74cbbe7f8af5d7f38a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "\u00c9chelle dynamique",
+  "setter": "nequewo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "b9119e2ee3a14b659d33495616ae5669",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1155r12p1156r12p1239r13p1272r13p1305r13p1357r13p1388r14p1447r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 4.67,
+  "hold_fingerprint": "5a4f53bef6c1d51ac84b683dfc5b58a733aaff9325d50f0ef2ae1ec8bf671c88",
+  "validation_errors": []
+}

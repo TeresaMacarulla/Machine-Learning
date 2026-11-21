@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fc314becaa2ae59f42a82a6b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Undercooked",
+  "setter": "Cuckovich",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3992D8A1FF134D98A1417D2D6262E602",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1143r12p1163r13p1215r13p1221r15p1234r13p1255r15p1302r13p1356r13p1390r14p1460r15p1485r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.02,
+  "ascensionist_count": 11712,
+  "quality_average": 3.1905701829372544,
+  "hold_fingerprint": "9fec023e4ce4d8582aaa896ad50885bd7e4c43e21189aa92091f94c313dcf21b",
+  "validation_errors": []
+}

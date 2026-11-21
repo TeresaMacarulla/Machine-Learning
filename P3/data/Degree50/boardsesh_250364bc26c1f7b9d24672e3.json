@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_250364bc26c1f7b9d24672e3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Bop it, Twist it",
+  "setter": "Dom53",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "95BB85867FE64FBFB751AFE0641D61A3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1182r12p1229r12p1285r13p1335r13p1372r13p1390r14p1510r15p1542r15p1552r15p1559r13p1561r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "00248d32d69060059eb70cc4e574505c85a4e005af5a2ab85e229ba050c39a52",
+  "validation_errors": []
+}

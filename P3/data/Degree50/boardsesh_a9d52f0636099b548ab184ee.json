@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a9d52f0636099b548ab184ee.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Grumpy Daze",
+  "setter": "calmather",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "f96ccd0f0af842bbb616161f19a32311",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1126r12p1152r15p1163r12p1185r13p1198r13p1236r13p1244r15p1284r13p1287r13p1315r13p1319r13p1349r13p1380r14p1459r15p1525r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "6263cfbefcbd0a68b27cec60c9ff789e1c824311cc62d1e7a741f5ba3839987e",
+  "validation_errors": []
+}

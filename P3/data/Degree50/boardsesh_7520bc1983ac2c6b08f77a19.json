@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7520bc1983ac2c6b08f77a19.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Combed Over",
+  "setter": "endz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8F5DD474771642C5A3A19496D22B7A81",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1130r15p1149r12p1184r12p1235r13p1256r13p1270r13p1322r13p1353r13p1385r14p1516r15p1576r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 32,
+  "quality_average": 3.41,
+  "hold_fingerprint": "3ab407dee60407ae6f605c8ba4c7acd844c7ffe7c4ec9ab9c1ad1d09a388be0c",
+  "validation_errors": []
+}

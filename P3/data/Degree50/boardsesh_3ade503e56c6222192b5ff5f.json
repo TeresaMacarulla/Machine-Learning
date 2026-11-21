@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3ade503e56c6222192b5ff5f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "sblocco",
+  "setter": "joshmo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0d587e2d60f14ccaa2e16242f3b642d6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1132r12p1198r13p1203r13p1231r13p1283r13p1315r13p1387r14p1459r15p1496r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8b00b69d0f53efa5ea7356a897c6ac32228c0f14b17ef26a8d2c52fa67a596f3",
+  "validation_errors": []
+}

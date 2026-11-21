@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a54894393996bbd3de544001.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "journey",
+  "setter": "mondragon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "04953C15D7D043538488A4B3A77E2297",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1137r12p1169r12p1206r15p1252r13p1255r13p1322r13p1336r13p1354r13p1384r14p1452r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 60,
+  "quality_average": 3.62,
+  "hold_fingerprint": "90edbb678fe9aef5711843a25e9b52a3bc2b50b197f7caac9c965cc927f5562e",
+  "validation_errors": []
+}

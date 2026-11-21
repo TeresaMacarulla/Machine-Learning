@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_148b51381090be03a1c3c711.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Stand by your hand soft",
+  "setter": "liesa_hergeth",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "AB4BEF39436445D7BCBB3516EC5126C8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r15p1155r12p1157r12p1221r13p1234r13p1239r15p1252r13p1302r13p1350r13p1387r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 75,
+  "quality_average": 3.38,
+  "hold_fingerprint": "c149705c81df1f90eb5d4c8711787fb5588242a7abe01369408f0910b5ce328d",
+  "validation_errors": []
+}

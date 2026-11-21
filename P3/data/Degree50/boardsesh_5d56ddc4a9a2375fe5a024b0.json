@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5d56ddc4a9a2375fe5a024b0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Malhalla",
+  "setter": "JamieBarendrecht",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "d9359fb441e44ea59575fdea027095ca",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r12p1152r15p1155r12p1187r13p1241r13p1291r13p1321r13p1357r13p1391r14p1447r15p1479r15p1535r15p1571r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.85,
+  "ascensionist_count": 13,
+  "quality_average": 3.46,
+  "hold_fingerprint": "c74262c7783e33460f5e0f7e8fc8854899805d57c74f381d905d722092d0ed2d",
+  "validation_errors": []
+}

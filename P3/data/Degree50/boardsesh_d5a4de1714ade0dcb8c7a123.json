@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d5a4de1714ade0dcb8c7a123.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "crimps bro (not really)",
+  "setter": "BKBChicago",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "00ECDB37306543A380E253A943B5B5FD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1218r12p1220r12p1286r13p1290r13p1339r13p1352r13p1383r14p1387r13p1487r15p1489r15p1508r15p1535r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "23467b206ff1e6a49783a3b4a7395135fa51098c9dbe37617dee8b335bc6ee70",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ea5758646ddde807d292e1ab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Hold it, right",
+  "setter": "Fushi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "7e71e917e15242b487d61ee91f8d05fd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1086r15p1133r15p1145r12p1197r15p1234r13p1255r15p1284r13p1304r13p1336r13p1356r15p1383r14p1387r14p1458r15p1459r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "784c1135cf41c38afe9e640ff492b4b204417119816cc739731d7579c23fbacc",
+  "validation_errors": []
+}

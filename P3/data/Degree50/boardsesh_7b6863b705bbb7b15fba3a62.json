@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b6863b705bbb7b15fba3a62.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "2015 Toyota Corolla",
+  "setter": "joha_kilter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "b6a91acb-60ad-4a14-9875-ec56242ce22a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r13p1143r12p1487r15p1264r13p1086r15p1476r15p1300r13p1199r13p1166r15p1371r13p1391r13p1361r14p1288r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.33,
+  "ascensionist_count": 4,
+  "quality_average": 1.67,
+  "hold_fingerprint": "0f7b15b3d2edfa36bb0c392e09a98f3d693bf63f8467144d1e33625407d47164",
+  "validation_errors": []
+}

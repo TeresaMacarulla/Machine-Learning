@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_16d80877d93e07a730cc2830.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "scorpion 2.0",
+  "setter": "titiboule2.0",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "441dd227-c1d1-473f-a8c0-cdaff0e873ce",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r12p1135r12p1075r15p1222r13p1238r13p1286r13p1352r13p1385r14p1383r14p1191r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "ed2bfd8c78f40eced81296291167186a41f864bf19b5b37cc537bd99410716de",
+  "validation_errors": []
+}

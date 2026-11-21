@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_abcfd4569aff1772fa5d5bb0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "ist es \u00fcberhaupt legal?",
+  "setter": "brene",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "e11d2ae178a44c6a83bb1131dfa2a7fa",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1180r13p1215r13p1283r13p1304r13p1338r13p1391r13p1395r14p1460r15p1476r15p1502r15p1503r15p1543r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.86,
+  "hold_fingerprint": "481a2b26dd977ea690908672c2053b469ba0e04a75b5725bc27297a0c6a99398",
+  "validation_errors": []
+}

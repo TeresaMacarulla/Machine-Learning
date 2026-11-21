@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5172d3e030a17a4403da04fa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "hell",
+  "setter": "sliderf2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "065b01ad-21a7-4af6-8f1e-278f2eabb5f8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1469r15p1470r15p1387r14p1372r14p1150r12p1166r12p1200r13p1236r13p1524r15p1531r15p1550r15p1551r15p1568r15p1269r13p1302r13p1337r13p1577r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.33,
+  "ascensionist_count": 11,
+  "quality_average": 2.5,
+  "hold_fingerprint": "3317b1613c67fb8a9d2e99ee887108330011e7411ded69eca10a92513c1fecf6",
+  "validation_errors": []
+}

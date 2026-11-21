@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5bbd47533ba597532b498acc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Blow the French",
+  "setter": "dry.rosty",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "E2818FA1E38F46D6AE39198FFB3922E2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1157r12p1169r13p1181r15p1221r13p1267r13p1269r13p1270r13p1300r13p1312r13p1383r14p1451r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "322abb604a4a0aac6368dbba019cc619f70da3a4e10aaf6f395c7f1140580c63",
+  "validation_errors": []
+}

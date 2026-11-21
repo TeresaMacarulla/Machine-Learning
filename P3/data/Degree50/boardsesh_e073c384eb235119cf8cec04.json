@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e073c384eb235119cf8cec04.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Shoulder crafter",
+  "setter": "Felix_H",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "c198aeb20dff42538acc847847fe1032",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1236r13p1289r13p1340r13p1395r14p1454r15p1457r15p1532r15p1560r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e0585b2336570b76a5b68d18df5e2876deade07cd9de543896ace1b5925b8e7f",
+  "validation_errors": []
+}

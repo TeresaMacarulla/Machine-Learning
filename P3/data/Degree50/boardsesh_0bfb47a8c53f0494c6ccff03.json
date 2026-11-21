@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0bfb47a8c53f0494c6ccff03.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "7B-2-Mover",
+  "setter": "45er",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "B4F3D67A65BE4804BA548866FE525A4E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1248r12p1318r13p1347r13p1379r14p1503r15p1520r15p1540r12",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ae2faa81e52f92dbf153ed5c18902cecf4f507a5ad38a5af88e88db1b29d25ba",
+  "validation_errors": []
+}

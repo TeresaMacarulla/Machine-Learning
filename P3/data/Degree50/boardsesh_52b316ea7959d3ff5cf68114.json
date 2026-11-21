@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_52b316ea7959d3ff5cf68114.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "3xCoffee",
+  "setter": "madts",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "AC130E6A257B4487ACAECA60434F7E59",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1144r12p1163r13p1170r15p1198r13p1202r13p1252r13p1304r13p1336r13p1387r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "77598a42d82e582b288681b20acedb2f5f13dab666b1a82cddef038061bc7e91",
+  "validation_errors": []
+}

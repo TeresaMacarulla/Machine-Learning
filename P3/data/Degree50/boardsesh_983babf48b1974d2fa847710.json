@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_983babf48b1974d2fa847710.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "weakness x 2",
+  "setter": "elivarnum",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "C9D8CA104B594382AD82513CD7274310",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1136r12p1137r15p1202r13p1284r13p1322r13p1391r14p1452r15p1470r15p1504r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "0f17c630026c08df8c7b7666ece64ddb928223e4b5f367a7aebe2e06104a06ff",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b9852186b3eaba4803f4209e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Sturmfrei",
+  "setter": "LJP",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0EBE490B38B44822A3456D67A66D46CE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1144r12p1163r12p1214r13p1233r13p1235r13p1269r13p1274r15p1306r13p1320r13p1357r13p1387r14p1467r15p1496r15p1516r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "90127757989cb826847ebbf7d23ecaa2c72685e0a261d8af34070c312377555c",
+  "validation_errors": []
+}

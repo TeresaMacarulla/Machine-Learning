@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_df25eef0d4312370aa11ff99.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Ground_Zero",
+  "setter": "Suyang",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "BF42C0A513434EDC946483123D3FB405",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1138r12p1168r15p1169r12p1223r13p1302r13p1305r13p1316r13p1379r14p1383r13p1385r13p1387r15p1453r15p1480r15p1500r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.81,
+  "ascensionist_count": 45,
+  "quality_average": 3.5,
+  "hold_fingerprint": "b92ce7c345654578230dad01d1d5fa1e73bedeba07810a3a55a216e2cadbad8b",
+  "validation_errors": []
+}

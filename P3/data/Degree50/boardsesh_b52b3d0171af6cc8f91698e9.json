@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b52b3d0171af6cc8f91698e9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "need that foot",
+  "setter": "psash",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "70236048CBFB48CFB43EF67F81F9468E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1198r13p1234r13p1247r13p1281r13p1331r13p1351r13p1368r13p1388r14p1454r15p1455r15p1456r15p1457r15p1476r15p1485r15p1530r15p1540r15p1569r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5d4aee3b05ae389481715bcfff4fe7440ba3a8c1beeaa1b56fcb18c175a1c9ca",
+  "validation_errors": []
+}

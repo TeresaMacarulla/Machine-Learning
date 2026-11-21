@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b5384670fe0cf8b728efa6a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "polulesenka",
+  "setter": "\u041a\u043e\u0432\u0430\u043b\u0435\u043d\u043a\u043e",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "ef6a0df1-e2e4-4298-8487-3e0f38d821ba",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1103r15p1078r15p1169r12p1189r12p1223r13p1257r13p1308r13p1340r14p1376r14p1237r15p1206r15p1156r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.5,
+  "ascensionist_count": 4,
+  "quality_average": 2.5,
+  "hold_fingerprint": "b4bcfdfb62375bd549a3a6c267d5bebea1415199ad7252a269b1a1de69886012",
+  "validation_errors": []
+}

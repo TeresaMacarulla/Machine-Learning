@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1669acf9c6a0e965d41483aa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "The longest",
+  "setter": "max_65",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7510158651094b758253c7ae3e8e0450",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1183r15p1221r12p1252r13p1278r15p1319r13p1332r13p1382r14p1516r15p1559r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.6,
+  "ascensionist_count": 7,
+  "quality_average": 2.6,
+  "hold_fingerprint": "d56c6be25362b065ed58963656dc1722c8ef614214c77a11a620b58d0147e6d2",
+  "validation_errors": []
+}

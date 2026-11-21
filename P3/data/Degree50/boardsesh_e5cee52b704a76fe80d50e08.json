@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e5cee52b704a76fe80d50e08.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Green Man",
+  "setter": "importedbean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "36B5C329F47E4682A8FA391AAB1C5CCA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1187r13p1218r13p1254r13p1283r13p1336r13p1383r14p1451r15p1482r15p1498r15p1505r15p1509r15p1521r15p1568r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.99,
+  "ascensionist_count": 384,
+  "quality_average": 3.39,
+  "hold_fingerprint": "be6179a97c8a3cb9b828a543ec2f08f7c3952d3d5d587a98ab3514d61181d09d",
+  "validation_errors": []
+}

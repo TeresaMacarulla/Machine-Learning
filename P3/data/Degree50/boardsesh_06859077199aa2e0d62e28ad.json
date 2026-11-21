@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_06859077199aa2e0d62e28ad.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Zepher Jump",
+  "setter": "Hangar18SC",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "A726B6E7C9B64680998F28DD21432E7D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1136r12p1151r15p1173r12p1204r13p1239r13p1308r13p1340r13p1386r14p1390r13p1450r15p1454r15p1527r15p1550r15p1569r15p1587r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.76,
+  "ascensionist_count": 17,
+  "quality_average": 3.47,
+  "hold_fingerprint": "01e428eeeba78aeb6d0ef95d335aad1e164178dfcd77cd946a5f7d20350a285f",
+  "validation_errors": []
+}

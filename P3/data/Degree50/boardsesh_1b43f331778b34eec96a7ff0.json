@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1b43f331778b34eec96a7ff0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Joint efforts",
+  "setter": "dfried",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "B88AC542060D4F6A846022C99C9F30ED",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1155r12p1156r12p1166r15p1188r15p1214r15p1242r13p1263r15p1270r13p1274r13p1291r13p1321r13p1334r13p1387r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.01,
+  "ascensionist_count": 2844,
+  "quality_average": 3.461626187961985,
+  "hold_fingerprint": "c91c1eedb26e1a841e7d027f8a2e83d0ef29621ec70cf4c7c1025207ac9c84fd",
+  "validation_errors": []
+}

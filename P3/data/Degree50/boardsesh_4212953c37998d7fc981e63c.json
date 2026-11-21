@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4212953c37998d7fc981e63c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Stabile Schulter",
+  "setter": "markussleeb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "57282556-8dca-4d16-8a69-23dde5c8a124",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1190r12p1482r15p1189r13p1273r13p1270r13p1320r13p1506r15p1335r13p1385r13p1379r14p1576r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": null,
+  "hold_fingerprint": "39dc048090dd8d9c4b03858cc5978ee12d4bd67c301e3c1efad01c3620b6b92c",
+  "validation_errors": []
+}

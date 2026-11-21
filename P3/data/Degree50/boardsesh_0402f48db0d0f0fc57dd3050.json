@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0402f48db0d0f0fc57dd3050.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "protein synthesis",
+  "setter": "owenbarrett",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "A8D1B0D1E6F34E52A11EB00A984986A6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1145r15p1150r15p1165r15p1193r12p1197r12p1200r15p1244r13p1257r15p1264r13p1268r13p1271r15p1282r13p1321r13p1371r13p1392r14p1458r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 6,
+  "quality_average": 4.0,
+  "hold_fingerprint": "e895beb806769dd370ac0e6b70ac10499abfc8ab401bf325834d1b26ee77a5ed",
+  "validation_errors": []
+}

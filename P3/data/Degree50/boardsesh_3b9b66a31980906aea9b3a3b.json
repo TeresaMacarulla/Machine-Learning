@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3b9b66a31980906aea9b3a3b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "My swamp",
+  "setter": "Thibe_Pieters",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "3ab2768c-74f1-401b-b61c-7afeae50e224",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1237r13p1236r13p1205r12p1224r12p1103r15p1106r15p1284r13p1150r15p1120r15p1337r14p1163r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.5,
+  "ascensionist_count": 5,
+  "quality_average": 3.0,
+  "hold_fingerprint": "01d65004e33ed46251e66117427b6e1f278de63668be4ed207e8fb56257cb7de",
+  "validation_errors": []
+}

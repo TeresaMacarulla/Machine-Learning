@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_26c23add7c20cffe61fe79a6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "first one",
+  "setter": "ZFL",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2e76c90c-116b-49fc-bafb-f238098a7aa7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1173r12p1077r15p1286r13p1250r13p1203r13p1493r15p1333r13p1387r14p1117r13p1513r15p1522r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.5,
+  "ascensionist_count": 5,
+  "quality_average": 3.75,
+  "hold_fingerprint": "e7e8bf29ae2487bd99365f47fe8e75cbd7c074888fcff8ae2adab4f9ed4eea4f",
+  "validation_errors": []
+}

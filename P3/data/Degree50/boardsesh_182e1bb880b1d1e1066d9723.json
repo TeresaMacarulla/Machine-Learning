@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_182e1bb880b1d1e1066d9723.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Bomboclimb",
+  "setter": "rootfinlay",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "6DCF7E0DBD6C4A51873E01E9A2771D4B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1136r15p1161r15p1166r12p1198r13p1251r13p1284r13p1300r15p1304r13p1371r13p1387r14p1524r15p1552r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "9896747c2ca5a881b65410d24395b677a9871a865a348853089d5443bd5dab1e",
+  "validation_errors": []
+}

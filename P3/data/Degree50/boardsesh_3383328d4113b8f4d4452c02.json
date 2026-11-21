@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3383328d4113b8f4d4452c02.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "some assembly required",
+  "setter": "michl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5ce3b5c7cd8d4d5b8a331ee84db95dc0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1168r12p1169r12p1231r15p1234r13p1287r13p1320r13p1357r13p1389r14p1452r15p1472r15p1504r15p1570r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1fe89fbf27481e2a2db1b5a46cceba57b3807a3e8b34d7cd98e12287f90000b5",
+  "validation_errors": []
+}

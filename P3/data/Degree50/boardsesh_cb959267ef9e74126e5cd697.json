@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cb959267ef9e74126e5cd697.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Houston, we have V0",
+  "setter": "Philbothegeek",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3de0416e-0a5b-4954-9adb-5cc7b4980590",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1212r12p1484r15p1281r13p1513r15p1315r13p1335r13p1386r14p1541r15p1244r12",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.5,
+  "ascensionist_count": 13,
+  "quality_average": 2.2,
+  "hold_fingerprint": "ab2457a16000df123e24f61321ee55b562ecdd5d239f2632c07d6656f7218f4b",
+  "validation_errors": []
+}

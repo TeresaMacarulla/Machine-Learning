@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f51f5904ca79fd1432b439a0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "CORRIDOR DU Z",
+  "setter": "Xuelan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "b72863b672e04c899ad198d816917290",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1103r15p1136r12p1140r15p1156r15p1187r13p1189r13p1253r13p1269r13p1307r13p1342r13p1394r14p1449r15p1489r15p1516r15p1533r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "087735bee4e70d8d7040a728f067d3437fecfb1b0d41665734002150f97d57b6",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ea150bf2363fe6565b09f846.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "No, use the left hand!",
+  "setter": "rdjansen91",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "281a2e54fc86469f9faee82e275320a1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1081r15p1146r15p1153r12p1184r12p1231r13p1234r13p1257r15p1302r13p1356r13p1392r13p1395r14p1454r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7bc0add88b0a75793865271204904257388f460bb0019f4c5a6f5bb85ee0fa04",
+  "validation_errors": []
+}

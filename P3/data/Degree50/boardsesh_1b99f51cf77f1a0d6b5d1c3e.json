@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1b99f51cf77f1a0d6b5d1c3e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "yeouch",
+  "setter": "theory",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "069c8c96-878b-4b6f-85cb-3e458706d3a5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1459r12p1455r15p1179r13p1304r13p1283r13p1388r14p1255r15p1236r13p1102r15p1131r12",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": null,
+  "hold_fingerprint": "a653135f3778476a81269d3572abd922c96f34e9d4e174fc2d2bbb8805e68485",
+  "validation_errors": []
+}

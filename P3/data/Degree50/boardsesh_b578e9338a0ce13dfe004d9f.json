@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b578e9338a0ce13dfe004d9f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Ursa Minor",
+  "setter": "ethankelsall",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "96A0BB85F20A4E259DCFE4790C04D10E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1154r15p1155r12p1173r15p1223r12p1257r13p1259r13p1303r15p1340r13p1359r13p1387r14p1389r14p1447r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "315d65ae05068f538b734f123f3493b986cb1fe4d6603b4e4b6b026ac9cfe6ad",
+  "validation_errors": []
+}

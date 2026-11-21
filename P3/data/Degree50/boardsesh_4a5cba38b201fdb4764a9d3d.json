@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4a5cba38b201fdb4764a9d3d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "pilot",
+  "setter": "SjorsFarnold",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "1E7A6B33C33C46D9AD5CE486AB40C508",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1156r12p1170r12p1219r13p1256r13p1303r13p1339r13p1387r14p1449r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "e3889a03eb88d2ddcda091b5bce3fea6b7def3e55eb6b75aa5347f55f257117f",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6c32f8336b93621d99165f2a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Cahoots",
+  "setter": "griffinwhiteside",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "ffba1eb4a6174d57b317990c2539c6b7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1251r13p1272r13p1288r13p1358r13p1391r14p1484r15p1526r15p1563r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.05,
+  "ascensionist_count": 66,
+  "quality_average": 3.18,
+  "hold_fingerprint": "d0de846aef0c7109659d10c41e48670bc3283dea8bd3f04cfdc0e29620712c91",
+  "validation_errors": []
+}

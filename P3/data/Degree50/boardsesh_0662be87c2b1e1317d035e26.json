@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0662be87c2b1e1317d035e26.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Go home after climbing",
+  "setter": "kanachan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "663F01DFA2AC4BD88C81BD9690C55619",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r15p1141r15p1146r12p1175r12p1260r13p1281r13p1282r13p1286r13p1337r13p1339r13p1392r14p1523r15p1538r13p1552r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 14,
+  "quality_average": 3.36,
+  "hold_fingerprint": "9efc751e9470dfb0300f55f4932e9a42d8e4bb936b3fda3aa1a806d1b8a3726d",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ec146afd31ec6d3d2f9f5835.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "fire exit",
+  "setter": "jinxiong zhou",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8bb40c97-e9ae-477e-85e5-9e1951d89bcd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1257r13p1308r13p1306r13p1356r13p1389r14p1204r12p1169r12p1137r15p1100r15p1156r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.38,
+  "ascensionist_count": 29,
+  "quality_average": 3.38,
+  "hold_fingerprint": "6980ef15d234790a2f143fb0dd5c3fe28976bab4ae35be517128da5dc3e680f8",
+  "validation_errors": []
+}

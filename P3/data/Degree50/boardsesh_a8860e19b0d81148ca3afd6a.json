@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a8860e19b0d81148ca3afd6a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Is this desire?",
+  "setter": "felixjbrown",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E0BF74D7581F46A08D7465A53D03EB29",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r12p1230r13p1253r13p1286r13p1339r13p1352r13p1370r13p1382r14p1462r15p1492r15p1507r15p1573r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ac8957e7915387a695c5036aa5ddb3f6bc0409410a7d844dbe49666f1b0500cc",
+  "validation_errors": []
+}

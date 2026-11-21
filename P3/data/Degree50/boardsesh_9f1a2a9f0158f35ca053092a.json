@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9f1a2a9f0158f35ca053092a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "BOFF special",
+  "setter": "Daniel239",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "F1837BBC5E30459FB1319C78EE43A87A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1078r15p1157r15p1190r12p1204r12p1241r13p1268r13p1272r13p1284r15p1289r13p1317r13p1331r13p1380r14p1523r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "a6de8bca0101e37e0a38eaa0407079b6b1c5a3ed0baf8b27940b737a471c17dc",
+  "validation_errors": []
+}

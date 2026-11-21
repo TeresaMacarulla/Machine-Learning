@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4cfb0b6144386fb054493285.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "pon de float",
+  "setter": "tlandman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "4419E9BB79E243EFB26EDA294E486A84",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1138r12p1188r12p1254r13p1258r13p1341r13p1369r13p1370r13p1381r14p1500r15p1515r15p1518r15p1554r15p1566r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.33,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "a241e5ab5acef7f060c66817a4778fb45547c152e7f54e2f1896e91783070f13",
+  "validation_errors": []
+}

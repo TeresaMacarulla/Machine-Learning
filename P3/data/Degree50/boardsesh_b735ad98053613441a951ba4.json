@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b735ad98053613441a951ba4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Tossing N Turning",
+  "setter": "Suyang",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6906DFD5E34743C2B55F1C879D29C5AF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1143r12p1163r12p1205r15p1234r13p1242r15p1272r13p1289r13p1309r13p1373r13p1379r14p1381r14p1384r13p1387r13p1460r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.77,
+  "ascensionist_count": 15,
+  "quality_average": 3.23,
+  "hold_fingerprint": "ea218dd9480f3e6c3b37dbc4a3406aa4137e09bf38ddee7a3a4d3dfde34774ef",
+  "validation_errors": []
+}

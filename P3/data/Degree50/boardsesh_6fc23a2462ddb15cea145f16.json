@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6fc23a2462ddb15cea145f16.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "cross through gaston",
+  "setter": "rootfinlay",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F89B761EA0A74C77A79CCAFF0897BE28",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1210r12p1260r12p1263r15p1271r15p1302r13p1313r13p1315r13p1353r13p1391r14p1501r15p1541r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.88,
+  "ascensionist_count": 8,
+  "quality_average": 3.75,
+  "hold_fingerprint": "90639dd88a94951010ca2a6f5423bd080ae9cd7d387887c559631d3a6371c2ab",
+  "validation_errors": []
+}

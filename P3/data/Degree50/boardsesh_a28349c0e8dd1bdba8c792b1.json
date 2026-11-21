@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a28349c0e8dd1bdba8c792b1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "beep beep beep",
+  "setter": "ijpc43",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8728A5323FA24960865CF2A434D00E1A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1096r15p1145r12p1214r13p1231r13p1234r13p1302r13p1371r13p1387r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 14,
+  "quality_average": 3.79,
+  "hold_fingerprint": "263ff8ff77b16a906925fa72c1efc2e5446d0b2ebd935f01d166c1bc4f4fb5de",
+  "validation_errors": []
+}

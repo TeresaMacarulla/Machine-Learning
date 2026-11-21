@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_001553003f12eb6a011a95bd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Sleeper Cell",
+  "setter": "Eliasdem",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E7240245E29C4479958D8F7D1C4CC861",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1197r12p1215r12p1252r13p1266r13p1299r15p1319r13p1349r13p1366r13p1379r14p1467r15p1547r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6e5ac45e3962cee675b7dc346f468735132a09285f286dcf5d8cfe3aeb63615c",
+  "validation_errors": []
+}

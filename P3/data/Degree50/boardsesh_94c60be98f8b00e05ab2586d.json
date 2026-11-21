@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_94c60be98f8b00e05ab2586d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Nr.1",
+  "setter": "PrinzPinch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "7EBCB9E8EFC042A390BD0C86E82F352A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1145r12p1195r13p1197r13p1201r15p1250r13p1267r13p1304r13p1355r13p1390r14p1468r15p1484r15p1514r15p1534r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "333953bde2997aa2caa60794c24bef054ea67072f0a3c026bb59dba1722de1db",
+  "validation_errors": []
+}

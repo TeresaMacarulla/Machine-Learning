@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1e7f5a140d6727f159dc02e1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "nickspicks 2",
+  "setter": "hasslepassle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "35B0EB36856C4B2990B688B20E40F4CB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r15p1183r15p1198r12p1234r12p1266r13p1300r13p1331r13p1387r13p1390r14p1529r15p1569r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.08,
+  "ascensionist_count": 12,
+  "quality_average": 3.5,
+  "hold_fingerprint": "b8ec2042756b308fc93b33c8f8c6df52fcb99519b3cef52098885fcf7eff5ba0",
+  "validation_errors": []
+}

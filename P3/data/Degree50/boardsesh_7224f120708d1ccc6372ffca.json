@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7224f120708d1ccc6372ffca.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "stanfield",
+  "setter": "gabe_climbsv2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "D8AADE61EC8A4C22BF631FB1F7C31C9F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1215r13p1263r13p1348r14p1458r15p1461r15p1495r12p1504r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bf594034e91ce669b0b4ff7fe7f6cdfc8cd2e10f6cbcf4b6a76c3f85bb7d54b0",
+  "validation_errors": []
+}

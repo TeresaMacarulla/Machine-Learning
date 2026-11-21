@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_35ce3455535b2209615dc897.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "missed calls",
+  "setter": "BubsMcGrubs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "A7149684EBAF4546B5952CDED530822A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1145r12p1160r12p1197r13p1200r15p1204r15p1239r15p1247r13p1287r13p1303r13p1375r13p1392r14p1458r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "748c77302d5d300575d5b7e2ee611e999df4fbaf0d005a77e65cc7c7ebd49f9a",
+  "validation_errors": []
+}

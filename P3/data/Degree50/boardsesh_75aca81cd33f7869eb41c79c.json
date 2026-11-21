@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_75aca81cd33f7869eb41c79c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "walker",
+  "setter": "botsy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "83312613A2F043B0B9F240890725F2AB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1205r12p1219r13p1236r13p1266r13p1301r13p1315r13p1366r13p1382r14p1450r15p1454r15p1472r15p1495r15p1512r15p1539r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.96,
+  "ascensionist_count": 346,
+  "quality_average": 3.3600000000000003,
+  "hold_fingerprint": "9356f23c2f9f741491d14088f039b17c74b3487347eed35a025915b07a8ca875",
+  "validation_errors": []
+}

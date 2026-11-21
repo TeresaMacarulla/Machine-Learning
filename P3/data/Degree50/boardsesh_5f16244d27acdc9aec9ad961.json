@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5f16244d27acdc9aec9ad961.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Instant Dissassembly",
+  "setter": "mondragon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1710A32CD868405B9B65AFAC429C0BE7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r15p1130r12p1165r12p1187r13p1232r13p1270r13p1273r13p1307r13p1377r13p1392r14p1455r15p1467r15p1471r15p1508r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.96,
+  "ascensionist_count": 1567,
+  "quality_average": 3.4200000000000004,
+  "hold_fingerprint": "5f55e8b0f7eca1e7ed77d0c1486c4a4b933a1be0929b3976e5ae3ea3b179214d",
+  "validation_errors": []
+}

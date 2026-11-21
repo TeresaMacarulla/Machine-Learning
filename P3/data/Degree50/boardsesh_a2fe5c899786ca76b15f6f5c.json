@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a2fe5c899786ca76b15f6f5c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Laptrance",
+  "setter": "CorvinD",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "492D7A78CA9A4E198CCDBF938FE52E83",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1078r15p1136r12p1201r15p1205r13p1253r13p1287r13p1299r13p1351r13p1390r14p1499r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "b37cd8641d1bfd4eacb34d7577a6d54615e086662d5b95deda498db8c50a98c7",
+  "validation_errors": []
+}

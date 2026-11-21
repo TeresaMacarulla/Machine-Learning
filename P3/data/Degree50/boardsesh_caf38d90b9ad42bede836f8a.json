@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_caf38d90b9ad42bede836f8a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Hunger Strike",
+  "setter": "nlun",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "8db8f6c0717e48f195c8473832cee072",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r12p1134r13p1156r12p1188r13p1237r13p1286r13p1322r13p1371r13p1392r14p1453r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "6a46140feb360d005017e3c29882f723576150c14c8f4335f862bf21c9c50820",
+  "validation_errors": []
+}

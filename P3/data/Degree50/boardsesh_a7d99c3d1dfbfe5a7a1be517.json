@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a7d99c3d1dfbfe5a7a1be517.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "stretch & catch",
+  "setter": "jensen_gg",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "AF55217C0398405C96402868F6A949C6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1238r12p1253r12p1305r13p1314r13p1336r13p1351r13p1380r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e05901e69e7007f1305e97ea84139db022a138628efefa2191c115ddff84088b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_840471f26345aa6e3e041140.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Tunnel of Despair",
+  "setter": "nuggopps",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "184B23072C1D447091170DE7E6A4B84A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1200r15p1217r15p1231r12p1264r13p1268r13p1304r13p1391r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.14,
+  "ascensionist_count": 8,
+  "quality_average": 3.29,
+  "hold_fingerprint": "df28e9c0386f7564af6968135d4347bb592f06a2345b8dfaa5631218e574df10",
+  "validation_errors": []
+}

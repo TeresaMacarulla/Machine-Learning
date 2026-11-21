@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cd1ea1cd3b32f61ef011931c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Playtime",
+  "setter": "uncledaddy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0C76237589214EB5AE41132A68A5F61B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1184r15p1186r12p1190r12p1266r13p1271r13p1279r13p1283r13p1329r13p1381r14p1511r15p1513r15p1529r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 12,
+  "quality_average": 3.67,
+  "hold_fingerprint": "19a26b800b96026718f6650cd661c1b9564e2e43a9563dd529169a007b82337a",
+  "validation_errors": []
+}

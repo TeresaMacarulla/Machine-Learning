@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f20bdb9d995e5215618a5b4d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Burly 2",
+  "setter": "leow2023",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "98C2742B449242E1AFBEEBDBFE20E769",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1190r12p1204r12p1285r13p1290r13p1357r13p1386r14p1451r15p1500r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.33,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "626f2154618fe75312b06de4beaa71c8c18b304e5de3d336c674df7cda8b883f",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_085f63e6df46e3cec63b36de.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "climb3",
+  "setter": "lorewile",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "58d5bfd6-7ff1-4672-b854-1ff921387a24",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r12p1160r15p1083r15p1233r13p1283r13p1287r13p1338r13p1388r14p1534r15p1532r15p1495r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 5,
+  "quality_average": 2.75,
+  "hold_fingerprint": "c88e81730adfe6a9d6b93fe0e1d6a5026c1ea6b35427d77e79e27668e8200891",
+  "validation_errors": []
+}

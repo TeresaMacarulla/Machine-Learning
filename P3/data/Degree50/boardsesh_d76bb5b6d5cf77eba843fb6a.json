@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d76bb5b6d5cf77eba843fb6a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Digits",
+  "setter": "wills",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "E16B84CC9DBE47499B3E509D2FC8D05B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1176r12p1197r13p1263r13p1281r13p1363r13p1379r14p1461r15p1462r15p1467r15p1502r15p1521r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.94,
+  "ascensionist_count": 18,
+  "quality_average": 3.6100000000000003,
+  "hold_fingerprint": "74e83418df0c7b44794767a11deda58373061f18a0fbf66ab7b0fbaace88b2dc",
+  "validation_errors": []
+}

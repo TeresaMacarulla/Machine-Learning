@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_54b1658212ffb1500edd9d69.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "SDIYBT",
+  "setter": "jamescor",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "aeab017ddb924fb1937379d47508cdf2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r15p1199r12p1206r15p1287r12p1353r13p1391r14p1584r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "ce470417bd2e6a63787dcc4f8938c6aacaec5fc172547cd4f26de226c2271a91",
+  "validation_errors": []
+}

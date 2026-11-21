@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5f997cd0dc03c1e49521f3a4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "ez boulder #6",
+  "setter": "EthanZ",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "965C8704B2DD4E2087D4690CEE324A12",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1185r12p1203r12p1212r15p1254r13p1266r13p1283r13p1334r13p1357r13p1373r13p1394r14p1507r15p1532r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "c1d94db3e985cc3af5508cedb84b03870199c899b6bfca4805fd034955966fb9",
+  "validation_errors": []
+}

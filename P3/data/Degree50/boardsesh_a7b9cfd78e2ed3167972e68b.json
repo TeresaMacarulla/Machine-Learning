@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a7b9cfd78e2ed3167972e68b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "Lots of maybes",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "A765988139334AE5B56B5E06DAAC6FD0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r12p1153r12p1228r13p1285r13p1298r13p1345r13p1379r14p1451r15p1507r15p1508r15p1523r13p1550r13",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.22,
+  "hold_fingerprint": "3185c356ebfc85f02d1cab419e0ff630aa4da737e1aea9034dadfa97253aba9a",
+  "validation_errors": []
+}

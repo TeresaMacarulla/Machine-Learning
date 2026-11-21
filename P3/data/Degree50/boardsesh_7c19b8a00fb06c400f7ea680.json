@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7c19b8a00fb06c400f7ea680.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Royalty",
+  "setter": "Joakimm",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "60954da1-8874-4eaf-b512-a1d6f1b57538",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1192r12p1143r12p1475r15p1212r13p1262r13p1528r15p1503r15p1300r13p1550r15p1350r13p1575r15p1386r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "dc3c1fa86c0a2405302cf20cdccf2c05c965cbcfda3ee6500f44c1563800999f",
+  "validation_errors": []
+}

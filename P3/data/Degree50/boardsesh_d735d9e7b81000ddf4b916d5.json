@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d735d9e7b81000ddf4b916d5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Super Hop",
+  "setter": "ChiNNe",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0010CA0AC94E4F5CB9B01E2CB244C909",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1192r12p1226r12p1282r13p1283r13p1353r13p1385r14p1504r15p1514r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ad1f50d6a3c5c4ff60c0bd514fb52cb62048cdf774f413942575ca2a49e0113b",
+  "validation_errors": []
+}

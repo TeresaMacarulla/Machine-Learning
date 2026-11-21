@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aed572f588f47d09fc560276.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Anatomy Park",
+  "setter": "jwilder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8F3C4CB853434E63AF74A3BB461857EC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1108r15p1160r12p1177r12p1205r15p1239r15p1247r13p1254r13p1283r13p1322r13p1339r13p1394r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e38515c67e534f3d17c8ec65deb90aa2ad47073a4f8402419bae28da97aad2a1",
+  "validation_errors": []
+}

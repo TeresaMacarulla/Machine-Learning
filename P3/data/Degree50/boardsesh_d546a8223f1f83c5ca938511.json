@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d546a8223f1f83c5ca938511.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Samo2",
+  "setter": "samo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "018FF83CAA9B41A3BD84FC493BB1CB7E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1149r12p1181r15p1216r13p1236r13p1284r13p1337r13p1388r14p1454r15p1457r15p1479r15p1523r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 344,
+  "quality_average": 3.28,
+  "hold_fingerprint": "f9c142b592e2174ddf70fd40810a93827aaed6da61bf096e7812bf721e231db5",
+  "validation_errors": []
+}

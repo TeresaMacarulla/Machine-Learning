@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_43dc6af2a1e6e47c65b1870b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Shifter",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "E144FCB3D92E4CC1AB0FE8E81E7F61D6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1153r12p1183r12p1253r13p1339r13p1378r14p1508r15p1513r15p1549r13",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.98,
+  "ascensionist_count": 65,
+  "quality_average": 3.23,
+  "hold_fingerprint": "2408eee14d0447c117cda9f38194882cad15763926eecf53f24031a506ae0148",
+  "validation_errors": []
+}

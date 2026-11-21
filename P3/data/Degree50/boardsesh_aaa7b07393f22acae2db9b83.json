@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aaa7b07393f22acae2db9b83.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "clzum8",
+  "setter": "170",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "62baa3c2-87c4-4c2e-9356-a4e14a2ac6b3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1144r15p1192r12p1245r13p1279r13p1268r13p1272r13p1340r13p1361r13p1394r14p1181r15p1203r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 5,
+  "quality_average": 2.25,
+  "hold_fingerprint": "5a6f677678354443327aeb55b00193a3bceacbab998f1839672dc80e131dd4bc",
+  "validation_errors": []
+}

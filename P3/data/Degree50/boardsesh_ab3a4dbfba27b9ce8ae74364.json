@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ab3a4dbfba27b9ce8ae74364.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Logging Road",
+  "setter": "potionwizard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2532907BC4634BE28FDBA05F78282BC7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1239r12p1256r13p1291r13p1334r13p1339r13p1368r13p1382r14p1482r15p1518r15p1536r15p1540r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a7e7984467bb9a2239e14e2ca461b12edd2cc8d7b29fd5bbe4cf842847d1e684",
+  "validation_errors": []
+}

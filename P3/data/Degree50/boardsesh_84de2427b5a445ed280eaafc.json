@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_84de2427b5a445ed280eaafc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "DRILLA 1",
+  "setter": "scottfear",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0d7666b7240e4ced80f84a68c4d70492",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1184r15p1242r13p1270r13p1274r13p1291r13p1322r13p1334r13p1371r13p1384r14p1451r15p1471r15p1499r12p1548r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b4d5d968acc2f79b30c831fd23b8d013473c4d04d688632157edd18e1f5016ee",
+  "validation_errors": []
+}

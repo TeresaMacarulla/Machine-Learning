@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e25f83c039badbb2d2504b48.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Try Not To Spin",
+  "setter": "MGChino",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "69e607d28add42719f80eacf34878393",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r15p1154r12p1201r13p1270r13p1302r13p1340r13p1372r13p1392r14p1452r15p1525r13p1543r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3b33e537665f7709707b7f53bbfed7ce7ea5f6cbe061b61303bf7b86c52cca03",
+  "validation_errors": []
+}

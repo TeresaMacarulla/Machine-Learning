@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ff91bfe999ecf5fc1fd5d735.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "metrika",
+  "setter": "castix",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "7c701d8557624217ba632f2798877a23",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1105r12p1136r15p1153r12p1204r13p1216r13p1264r13p1285r13p1350r13p1382r14p1447r15p1511r15p1529r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.5,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "0e7b1169dd958b34b163e4158d2e6e53aad632a266fea5c4ad729c193509582f",
+  "validation_errors": []
+}

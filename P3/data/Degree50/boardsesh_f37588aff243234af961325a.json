@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f37588aff243234af961325a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Combo",
+  "setter": "Chater",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "ab679a2caef749d5b46b165b21f11796",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1134r12p1147r12p1190r15p1236r13p1269r13p1321r13p1335r13p1387r14p1458r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "db52ff13e05539953358482c2cc12e65b8463032d17b093b3140ccc31bc708d5",
+  "validation_errors": []
+}

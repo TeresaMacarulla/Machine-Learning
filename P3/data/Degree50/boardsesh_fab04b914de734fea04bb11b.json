@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fab04b914de734fea04bb11b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Please Clap",
+  "setter": "Ledmund",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "c2644cdd11034e76ae6be604d6e5b974",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1162r12p1194r13p1247r13p1300r13p1353r13p1389r14p1461r15p1554r15p1563r15p1571r15p1580r15p1588r15p1597r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "a3bd13d653a888183f092e710aec9c784396b2e7c74a65eec9d9923e125f39bd",
+  "validation_errors": []
+}

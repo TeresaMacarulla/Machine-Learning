@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f874d41b51a4adfd2c349642.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "El perro de Nathaniel",
+  "setter": "weaverc10",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "78D751404C8A455081B9172638EACCA4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1154r12p1189r12p1256r13p1309r13p1356r13p1357r13p1387r14p1451r15p1482r15p1500r15p1536r15p1543r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "41d3570501f5afed3c24c3768ea0d8637c084f06f48313f2bc41cc185917ded4",
+  "validation_errors": []
+}

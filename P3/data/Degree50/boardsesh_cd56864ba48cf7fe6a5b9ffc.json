@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cd56864ba48cf7fe6a5b9ffc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Taugt",
+  "setter": "_abc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "4C8EEB1EC0CF46D4AE7308FF6312B613",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1161r12p1212r13p1233r13p1298r13p1304r13p1320r13p1389r14p1461r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d17b4c9b65bb42b0dd18ce2a95b55211c9d819c751c39ecb43c60b5baf182f05",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_70e9fd9def93060b74fc4731.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Space Cadet",
+  "setter": "jarrodp",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "343A055451AA4D9F9DFB5766387100B6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1098r15p1130r15p1162r12p1163r12p1169r15p1214r13p1234r13p1251r13p1271r13p1306r13p1335r13p1341r13p1353r13p1382r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e19f98c9a20f3977a0e34df718cdb5cd844b5c4f0d915eac2245193f8fb792b3",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b5a376a56f363e492dc45a82.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "blocs on rocs",
+  "setter": "CRANK",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2A4BA78F498741DBA85CA1D86926B4E8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1191r12p1203r12p1230r13p1269r13p1332r13p1388r14p1451r15p1482r15p1503r15p1529r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 17,
+  "quality_average": 3.47,
+  "hold_fingerprint": "f94e392ca292cc3f8e1b06c6dee335cd2fc13477c33e71f8f801805126cd4a8c",
+  "validation_errors": []
+}

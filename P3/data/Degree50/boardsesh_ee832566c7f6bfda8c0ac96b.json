@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ee832566c7f6bfda8c0ac96b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "BrushTheHolds#4",
+  "setter": "lifabapla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "6DB8C9EF97904F7A9D18A6AB592D163E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1137r15p1180r13p1186r12p1216r13p1246r13p1263r13p1328r13p1366r13p1385r14p1459r15p1496r12",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 2.0,
+  "hold_fingerprint": "17d68cb5c9f81dd817c428cf483bb808671237f16290895de7440c33dc869a61",
+  "validation_errors": []
+}

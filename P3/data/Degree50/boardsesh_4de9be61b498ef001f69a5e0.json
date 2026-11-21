@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4de9be61b498ef001f69a5e0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "life",
+  "setter": "leopold45",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "871d8e8a-95ed-4d31-8e57-48c45d0809e4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1268r12p1200r12p1494r15p1323r13p1308r13p1394r14p1526r15p1327r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 5,
+  "quality_average": 2.0,
+  "hold_fingerprint": "1988ebb7d09eddf5007dd47adc3399f64af0313e07726db00430b76f6d51c4d0",
+  "validation_errors": []
+}

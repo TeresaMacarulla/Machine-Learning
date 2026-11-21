@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6e0f887ade55e3fb1b3e7c77.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Bricorama ",
+  "setter": "Nathan gg",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3006b636-5963-46ed-bf66-302f1cde354f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1271r13p1293r13p1203r13p1199r13p1146r12p1092r15p1147r12p1514r15p1361r13p1562r15p1395r14p1534r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "4fbe271a4575034ed9068e6d91a984e44341931834a0b97c98430cc1d742ebce",
+  "validation_errors": []
+}

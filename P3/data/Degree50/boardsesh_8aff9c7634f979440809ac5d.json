@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8aff9c7634f979440809ac5d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "No Ins and Outs",
+  "setter": "Elihamilton36",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "B1252DC82A3640AA8378C1A90C4E4E3C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1096r15p1141r12p1214r12p1262r13p1300r13p1331r13p1384r14p1485r15p1521r15p1531r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "fe07e69f12dca946ae99316f3b50dc0c2355bcc4346843a8224d229aad3c44da",
+  "validation_errors": []
+}

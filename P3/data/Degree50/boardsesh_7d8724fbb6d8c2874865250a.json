@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7d8724fbb6d8c2874865250a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "shun",
+  "setter": "thewarman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "766A600363F14D06B2E7A13BE752C477",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1144r15p1155r12p1220r13p1248r13p1249r13p1334r13p1387r14p1451r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 17,
+  "quality_average": 4.75,
+  "hold_fingerprint": "03ce920bde364e2a90ac811b16b79c71a6534f59280966c0f352174926c51785",
+  "validation_errors": []
+}

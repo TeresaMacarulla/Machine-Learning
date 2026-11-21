@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7a0d364ec553e7d1a36e971e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Nantucket Sleighride",
+  "setter": "BenT",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b6de4f11-1bd8-4943-8ef1-8ff5f6713d5d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1165r12p1497r15p1252r12p1302r13p1304r13p1321r13p1257r15p1210r15p1347r14p1315r13p1558r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.9,
+  "ascensionist_count": 11,
+  "quality_average": 2.2,
+  "hold_fingerprint": "5c500b481958babc0a8d09520bececace74359777a84a0708a55cdc75bb54526",
+  "validation_errors": []
+}

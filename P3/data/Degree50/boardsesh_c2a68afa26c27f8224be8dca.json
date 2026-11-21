@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c2a68afa26c27f8224be8dca.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Floculate",
+  "setter": "AlvaroPaez",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "fcb2d31d-dd70-455a-aede-b313a7fc2872",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1189r12p1499r15p1272r13p1578r13p1203r12p1481r15p1535r15p1373r13p1394r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.33,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "f6cd240217a8635ca9ecdb5907532194190fc20ca0a1e17a8d2215d382248052",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_512d82c8965195e0f99d3946.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "in too deep",
+  "setter": "ryotaroro",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0E6DD5313B4740ABAEDA954A3CAE0F48",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1146r12p1195r12p1233r13p1302r13p1323r13p1391r14p1394r14p1485r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "61a63d15a16a7f768dbc88c2fe7b689a6eb6cb74d6602aecd53864f7f9f52cc3",
+  "validation_errors": []
+}

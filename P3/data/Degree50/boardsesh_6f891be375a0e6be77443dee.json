@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6f891be375a0e6be77443dee.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Where is the tension?",
+  "setter": "christoph.braeuer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "201B9894FDF34535AD61E24554839E1D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1170r12p1187r13p1235r13p1266r13p1271r13p1299r13p1368r13p1389r14p1473r15p1499r15p1506r15p1511r15p1546r15p1575r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 16,
+  "quality_average": 3.75,
+  "hold_fingerprint": "9ba7119bdc256a5545864d60837130853e28b8e5460992193a3028e8a95bfb28",
+  "validation_errors": []
+}

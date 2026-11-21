@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_29ec5bb403c42b6d07b61bd3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "True Triangulation",
+  "setter": "tortesla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "E9392E79CE5143199F2D739FEBFDA84A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1247r13p1249r13p1253r13p1255r13p1282r13p1288r13p1345r13p1379r14p1482r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "462e810e2f6d86501ce18de7be7108f449cd1269c83891abbc39d8e8607093a7",
+  "validation_errors": []
+}

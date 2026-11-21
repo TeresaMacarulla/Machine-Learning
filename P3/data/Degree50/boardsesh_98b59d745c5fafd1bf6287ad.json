@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_98b59d745c5fafd1bf6287ad.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "keep clear",
+  "setter": "bendelamotte",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "02f31e06-6ff1-4667-8330-6c1739d553c4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r13p1132r12p1098r12p1459r15p1260r13p1347r13p1351r13p1371r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1f1e1641b4f009a78f2ce3551c173c4021a47568f56295ba85ddd7bc03e641c7",
+  "validation_errors": []
+}

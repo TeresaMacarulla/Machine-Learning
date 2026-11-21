@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_86f6c6984aa44d522d9653d7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Sommarrosor",
+  "setter": "pajaro",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "31181ff50483437ebb0f40e482bc07d5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1167r12p1204r12p1233r13p1242r15p1249r13p1322r13p1342r13p1395r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 13,
+  "quality_average": 3.62,
+  "hold_fingerprint": "6098cff3390106ee906be6891c456aa3c02f00c647dea53092af4b666014c1b6",
+  "validation_errors": []
+}

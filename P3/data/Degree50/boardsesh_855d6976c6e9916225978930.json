@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_855d6976c6e9916225978930.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "maximal",
+  "setter": "bkbskilterboard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7AAF3F13B3E74BCAA1EE8DD70771EC88",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1162r12p1192r12p1212r13p1246r13p1277r13p1297r13p1312r13p1347r13p1380r14p1464r15p1467r15p1484r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 5,
+  "quality_average": 2.0,
+  "hold_fingerprint": "03946fedb0bcd539a49c2f403eafc4c2d8474aac648067e61b61b29797b16595",
+  "validation_errors": []
+}

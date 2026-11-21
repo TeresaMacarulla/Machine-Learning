@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4eafce5ce9867e39375bf4f0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "NoiseFlow",
+  "setter": "christoph.braeuer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "AF001061D1D94CCCBE1844F901806FDF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1082r15p1149r12p1216r13p1247r13p1264r13p1265r13p1335r13p1385r14p1487r15p1521r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "62fff1cbe53e1058bee131fc981aacbd9936aeaada86f9c1f1dc0e91b27160e2",
+  "validation_errors": []
+}

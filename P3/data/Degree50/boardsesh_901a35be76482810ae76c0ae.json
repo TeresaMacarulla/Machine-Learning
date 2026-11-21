@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_901a35be76482810ae76c0ae.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "kick back",
+  "setter": "jakedotclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "CCA339468B3B4047BC458FDF39A36F04",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1086r15p1195r12p1197r12p1199r13p1202r13p1220r13p1304r13p1357r13p1369r13p1382r14p1470r15p1508r15p1526r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f2d31851a624723f772b571bfd82db1bf4f76cfba578b9d9d2192543ce59ffcb",
+  "validation_errors": []
+}

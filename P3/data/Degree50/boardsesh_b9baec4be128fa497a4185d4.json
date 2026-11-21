@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b9baec4be128fa497a4185d4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "V3 g",
+  "setter": "Randall02",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "9c317e861f8342f2ab0345729cb1fab0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1108r15p1113r15p1133r15p1137r15p1163r12p1229r12p1234r13p1236r13p1239r13p1289r13p1308r13p1359r14p1506r15p1508r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "efb2e83a3ec09e99926ca95172a392b2df98f107fd35c56d9cc15eb2eb00b64c",
+  "validation_errors": []
+}

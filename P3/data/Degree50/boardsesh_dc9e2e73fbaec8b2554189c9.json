@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dc9e2e73fbaec8b2554189c9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Master Chief Mirror",
+  "setter": "Riptile",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8151062C3E79476A87DFCF9FBCDB49DB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1169r12p1219r13p1231r13p1267r13p1317r13p1387r14p1450r15p1456r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "c185f6c28c1b0de513ce13c61e77ab8f606d3b8014e62663f9f4ca555a49f766",
+  "validation_errors": []
+}

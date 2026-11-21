@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ffd5a118b4b29ac1928a34e5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "AGR03",
+  "setter": "afonsorodrigues",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "bcd34a17577544ca913dda1b4f424755",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1163r12p1228r13p1299r13p1300r13p1387r14p1459r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "81a2591b02b5522183683b5710656adc93343db7d3277eb80e35d3b22a7fd87a",
+  "validation_errors": []
+}

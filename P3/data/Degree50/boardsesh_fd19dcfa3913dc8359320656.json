@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fd19dcfa3913dc8359320656.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "\u26d1",
+  "setter": "tortesla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "B1D40131B0384593B7026FB5B15D142F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1231r15p1242r15p1254r13p1285r13p1357r13p1385r14p1451r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.93,
+  "ascensionist_count": 105,
+  "quality_average": 3.38,
+  "hold_fingerprint": "2bc5d08781f194304c47a5733d4b508b4cb368c868d6b5852aefcd6aa35bfd75",
+  "validation_errors": []
+}

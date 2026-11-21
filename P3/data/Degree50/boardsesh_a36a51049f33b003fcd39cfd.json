@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a36a51049f33b003fcd39cfd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "gyro",
+  "setter": "l437jess",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "37E23391E13948218173232DCCEFF4F7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1091r12p1145r12p1181r13p1220r13p1234r13p1287r13p1317r13p1353r13p1389r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "84e67b24ae583f9e40a362fd3654d4263bcf09ba609ae148d294424542795ca1",
+  "validation_errors": []
+}

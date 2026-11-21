@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fbf588a74b0f8b2e9974d616.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Scene of the climb replica",
+  "setter": "goonther",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2BEAF309E8D04766A620D2EE2FE84C7E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1177r12p1178r12p1230r13p1277r13p1347r14p1475r15p1483r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "83ef3ffe061c9d60196bf181501e47c4a09efe9d92bd254c97ff33ea3368b0f8",
+  "validation_errors": []
+}

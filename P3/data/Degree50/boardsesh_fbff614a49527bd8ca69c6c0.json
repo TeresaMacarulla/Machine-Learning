@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fbff614a49527bd8ca69c6c0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "DAOLDA #1",
+  "setter": "DannyHolas",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "87fda6008f6148f48deefdcb7470fd73",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1206r15p1228r13p1249r13p1272r13p1283r13p1287r13p1357r13p1391r14p1483r15p1528r15p1534r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.33,
+  "hold_fingerprint": "7cc687d077244851a18660b15b33856f91a3c789e110b5eee41893698af6c9ff",
+  "validation_errors": []
+}

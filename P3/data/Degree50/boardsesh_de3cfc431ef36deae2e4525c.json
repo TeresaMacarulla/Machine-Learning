@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_de3cfc431ef36deae2e4525c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Face Pull",
+  "setter": "will_avelar",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "26B5D3AB9E2A44F99D8B332FD1982A22",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1208r12p1241r12p1253r13p1282r13p1286r13p1334r13p1365r13p1380r14p1500r15p1507r15p1508r15p1521r15p1547r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "acd13f312a9c54adfa9e77f9b4853eee4397d5b67c80bddf45ae47bd0d16a4fb",
+  "validation_errors": []
+}

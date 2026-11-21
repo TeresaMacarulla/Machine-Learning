@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_768f45f4d780f0f544f913ba.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "TLFTS \ud83d\udc1d",
+  "setter": "Burcu44",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "5120509DD1C94074A62230F8CDBEAFFE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1137r15p1153r12p1155r12p1202r13p1205r13p1254r13p1302r13p1357r13p1391r14p1449r15p1472r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "3fe4fd1e5b79c0a413a8f3888f3bfad130c13a29b5f938d7a9eab8b94e830d02",
+  "validation_errors": []
+}

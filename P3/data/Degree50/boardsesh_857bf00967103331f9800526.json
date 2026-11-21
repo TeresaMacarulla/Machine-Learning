@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_857bf00967103331f9800526.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "FP max2",
+  "setter": "paulflamm",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "39D805CCA1F442F5A240B4B3EDCC881A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1143r12p1196r13p1234r13p1284r13p1319r13p1387r14p1461r15p1464r15p1467r15p1474r15p1496r15p1523r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e1e5cacfa748ece5bfc96083618da0f344dff1017ff6f2ed9be27a4c5632241b",
+  "validation_errors": []
+}

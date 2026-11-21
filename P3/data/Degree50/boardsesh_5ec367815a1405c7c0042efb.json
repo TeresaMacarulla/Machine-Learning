@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5ec367815a1405c7c0042efb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "One Giant Leap",
+  "setter": "KilterStudio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B0C7DD1459D349C3A627CBAA2F21C796",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r12p1231r13p1270r13p1291r13p1305r13p1392r14p1458r15p1506r15p1526r15p1530r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.06,
+  "ascensionist_count": 119,
+  "quality_average": 3.55,
+  "hold_fingerprint": "6e274b69cca8b3475d4e723b2ceaea9762c561017aeaf94a2a4ba4f9e85b0be6",
+  "validation_errors": []
+}

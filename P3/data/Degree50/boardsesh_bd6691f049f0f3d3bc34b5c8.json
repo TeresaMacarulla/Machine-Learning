@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bd6691f049f0f3d3bc34b5c8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "(A) warmup circuit",
+  "setter": "bigA_61",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 18,
+    "foot": 14
+  },
+  "source": "boardsesh",
+  "source_uuid": "8f155c67861e49b1a9e8f874a4e733f8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r14p1152r12p1153r12p1161r13p1176r13p1196r13p1203r13p1221r13p1227r13p1246r13p1271r13p1290r13p1296r13p1297r13p1341r13p1349r13p1350r13p1359r13p1368r13p1388r13p1389r13p1449r15p1452r15p1461r15p1463r15p1490r15p1494r15p1517r15p1519r15p1527r15p1539r15p1546r15p1548r15p1568r15p1577r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "557c2652fcd3b7872d21e94fa0a51a82c0fd910f1161df656fb2ef49edf6307c",
+  "validation_errors": []
+}

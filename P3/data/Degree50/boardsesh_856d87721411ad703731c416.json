@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_856d87721411ad703731c416.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "kackboulder pinch 2 go",
+  "setter": "tomtoell",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "93612FC07B0A431CA37304B13BD38F08",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1228r12p1250r13p1283r13p1305r13p1322r13p1359r13p1395r14p1483r15p1492r15p1502r15p1511r15p1521r15p1530r12",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "61298222c62969c96a91b784ce6ad3701986512d2e9c906da872aa2875d9d283",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7d7b2e903d2b1639cd035bd7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "first small hold",
+  "setter": "kanachan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3CBE4EA3E74E421EB3B247791B50D6ED",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1197r13p1228r13p1264r13p1265r13p1318r13p1384r14p1502r12p1503r12p1523r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6a5d673ae32d4468054b5bd21d12614301b51ce02b19a54151b5b83667cc3c78",
+  "validation_errors": []
+}

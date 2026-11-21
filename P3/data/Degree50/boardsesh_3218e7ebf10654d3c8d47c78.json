@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3218e7ebf10654d3c8d47c78.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "High Feet 2",
+  "setter": "NonoBerthier",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B8CDA912DFB643C7AC8FC59EF54A1671",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r12p1153r12p1218r13p1269r13p1298r13p1318r13p1368r13p1388r14p1449r15p1482r15p1534r15p1540r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 14,
+  "quality_average": 3.46,
+  "hold_fingerprint": "8650ae3f007cf07c465214383abd4ca84e07422f12d3241bc3fd27ca740004a6",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c8575e58fbcf5f07d0a9a26c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Face to Back",
+  "setter": "EthanHunt125",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ae5ce2d32ec746eb8862d8e48d85c88c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1127r12p1165r12p1230r13p1239r15p1286r13p1304r13p1325r13p1358r13p1395r14p1520r15p1531r13p1572r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.9,
+  "hold_fingerprint": "5ad7fba083c244986b74c0539177971a2f1fa54fd4842ab6a899d9a64364789c",
+  "validation_errors": []
+}

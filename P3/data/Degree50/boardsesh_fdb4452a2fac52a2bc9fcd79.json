@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fdb4452a2fac52a2bc9fcd79.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Chain Grease",
+  "setter": "GirthQuake",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "EE2A70A0A0F24C7EB01ACB62ACEBB4F8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r15p1232r12p1236r12p1284r13p1319r13p1350r13p1386r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 17,
+  "quality_average": 3.35,
+  "hold_fingerprint": "4882e1ba1e473d5c836a04732fade11245a2db08bef005682a76161420563c00",
+  "validation_errors": []
+}

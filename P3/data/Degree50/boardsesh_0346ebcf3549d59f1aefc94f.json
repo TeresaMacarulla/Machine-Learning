@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0346ebcf3549d59f1aefc94f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "enh? 1",
+  "setter": "campusescalade2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8c5ba512abe14308a8d02d657425fcdd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1131r12p1199r13p1230r13p1250r13p1283r13p1320r13p1352r13p1387r14p1458r15p1485r15p1506r15p1540r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4f7cc9fe223349441ed4d3c4aac3201a250869b9d5183dcdd9b9cfd848cf94a1",
+  "validation_errors": []
+}

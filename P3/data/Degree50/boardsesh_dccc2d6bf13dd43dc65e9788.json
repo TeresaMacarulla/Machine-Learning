@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dccc2d6bf13dd43dc65e9788.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Vortigaunt",
+  "setter": "ABenAbides",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "1b392f525d8b473186770d51aaa496fe",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1092r15p1145r15p1163r12p1179r12p1218r13p1232r13p1274r15p1287r13p1337r13p1390r14p1506r15p1514r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "10d0fa38cce7f06f76cebc89b8087892ac3a1d0d64839cb74ad6859ba3103161",
+  "validation_errors": []
+}

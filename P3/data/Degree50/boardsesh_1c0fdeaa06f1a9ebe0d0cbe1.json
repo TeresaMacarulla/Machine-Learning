@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1c0fdeaa06f1a9ebe0d0cbe1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "cabin in the woods",
+  "setter": "sandals",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FB3D7E7BBC094C2C8CDE197E0269A7AC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1201r12p1250r13p1283r13p1339r13p1373r13p1395r14p1478r15p1506r15p1507r12p1521r15p1550r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.8,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "0beb68798d2128e6f7e9250b19c7239e1e4e9a4666300da411f625661bd5bb15",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2bd76417f4c418dd841529e6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Bibitalien",
+  "setter": "Roch.O",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "aa7839e71ee742f1abe2f676466b8793",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1148r15p1157r12p1186r15p1187r13p1201r13p1217r13p1265r13p1283r13p1314r13p1365r13p1379r14p1539r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "5a67be80cc2d3a3bb740625c1ab2794ac922eea9c0649ad76e1004033bec0f9c",
+  "validation_errors": []
+}

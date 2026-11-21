@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fc6c278e05d5ef56de5056f2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Holy Diver",
+  "setter": "TSD setters",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "cc656188-00b9-4098-be51-96a6529682b9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1178r12p1465r15p1230r13p1235r13p1286r13p1320r13p1352r13p1516r15p1389r14p1501r15p1523r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.33,
+  "ascensionist_count": 5,
+  "quality_average": 3.3299999999999996,
+  "hold_fingerprint": "5e3c9132e6aa8d0db5be2de0716e0d99b09c3e86a3f4ea69967480e3218aacee",
+  "validation_errors": []
+}

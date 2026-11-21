@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bfbb3e28c478d74c676203f7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "ContactZ",
+  "setter": "ziki",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "ac8008ab-1df8-4493-a71d-602e918f9dcf",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1180r12p1202r12p1288r13p1375r13p1388r14p1476r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "1a0d57892c0bf1f07aaf266fb22d10a95b9e61f499d6a59e71ca2e3a51eb4459",
+  "validation_errors": []
+}

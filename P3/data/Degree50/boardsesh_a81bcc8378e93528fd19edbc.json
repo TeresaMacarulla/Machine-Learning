@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a81bcc8378e93528fd19edbc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "baku madarame",
+  "setter": "angrylittleman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ADF1B2AF53F84E4393155649C2465388",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1136r12p1144r15p1184r15p1203r12p1215r13p1228r13p1252r13p1265r13p1299r13p1351r13p1386r14p1487r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "566b4ebc834749d30da352b24c16dd69770dc9a5e3a695007fea764b717f3ddd",
+  "validation_errors": []
+}

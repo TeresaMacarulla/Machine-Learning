@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_21ae3639b0ed5749242fae01.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Beekeeper",
+  "setter": "wjracer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "C4995F82D47642C1B11872431AECEE71",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1171r15p1223r13p1236r12p1248r12p1251r13p1308r13p1394r14p1509r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f383707b34067411119acb6f2a88ed5a69eb3c60aaba71df46010454722d33fe",
+  "validation_errors": []
+}

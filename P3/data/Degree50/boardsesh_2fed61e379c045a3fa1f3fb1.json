@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2fed61e379c045a3fa1f3fb1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Derek Approved V3",
+  "setter": "climbcentral",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "EE741441B112487E8BAC413EAD654FA2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1195r13p1210r13p1229r13p1250r13p1299r13p1316r13p1329r13p1380r14p1461r15p1465r15p1546r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9d72e473e91d4671acb5fda3c7a73eaadf3edef19e9e2ead8fcb542200dbaa36",
+  "validation_errors": []
+}

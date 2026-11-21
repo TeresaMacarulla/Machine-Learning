@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4cc9d08393a97cc97a435068.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Sort Magi",
+  "setter": "Albinoso",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9D0C2D702D8C4AF7B55201624AAF0FF6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r15p1134r12p1153r12p1157r15p1219r13p1232r13p1254r13p1299r13p1301r13p1348r13p1383r14p1521r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7e25d0e40f855b097d9275a2d90852a2bdd396d3dcbddc0fc8b3438b287857c4",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_988cf95f91af79cfce8030d9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Substructure",
+  "setter": "tuyokunaru_man",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7B99F19296C74B0C8D482C0A0B22858D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1089r15p1147r13p1186r13p1208r14p1210r13p1215r13p1226r12p1235r13p1240r13p1452r15p1459r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "b450b8b14f36f28d83d1dc1fb86c9a7b0d359455f7b621bd7282437ac174a623",
+  "validation_errors": []
+}

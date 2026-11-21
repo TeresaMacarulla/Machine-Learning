@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7c11f0036b73342c7977587a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "dicke finger",
+  "setter": "Ines",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "3A526A2AF2D843DA90128B704F25972E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1227r13p1274r15p1296r13p1304r13p1314r13p1336r13p1357r13p1392r14p1463r15p1483r15p1519r15p1532r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "62ad5be62dd1170a701fa6e8258fa1789cf623cb63281e236284cadff0c6db1b",
+  "validation_errors": []
+}

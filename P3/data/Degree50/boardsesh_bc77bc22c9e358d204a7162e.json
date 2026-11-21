@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bc77bc22c9e358d204a7162e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Glass Jelly",
+  "setter": "ksmd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "cf07d3967686450587570c0d90ab9eee",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1134r12p1153r12p1197r15p1201r13p1231r15p1236r13p1301r13p1334r13p1382r14p1455r15p1471r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "de1c2883d328cf66b4955a3ae6a74afddf0659a7451e2ee4b9f7fd18e76bae5a",
+  "validation_errors": []
+}

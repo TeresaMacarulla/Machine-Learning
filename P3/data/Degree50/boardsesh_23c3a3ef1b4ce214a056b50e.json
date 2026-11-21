@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_23c3a3ef1b4ce214a056b50e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "CH01",
+  "setter": "calebh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "85C7C534EC704D0492B84BC1F094BDCA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1131r12p1137r12p1150r13p1171r15p1181r13p1233r13p1235r13p1271r13p1307r13p1339r13p1394r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.67,
+  "hold_fingerprint": "9ba780c057723bb3c23a1ea00636f0ec93c90e8ecee5e46568ca28fc5fc77eb2",
+  "validation_errors": []
+}

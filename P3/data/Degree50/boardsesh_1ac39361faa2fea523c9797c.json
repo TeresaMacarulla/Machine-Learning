@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1ac39361faa2fea523c9797c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Wide Right",
+  "setter": "cecilia_climbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "71FB38B822BE4767AB2F9E5622205984",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1198r13p1266r13p1304r13p1320r13p1357r14p1455r15p1460r15p1493r15p1506r15p1533r15p1544r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "f6a616c575833ff5ad3a12467688d1676724e10de2b274fafe5388ae2fad80c3",
+  "validation_errors": []
+}

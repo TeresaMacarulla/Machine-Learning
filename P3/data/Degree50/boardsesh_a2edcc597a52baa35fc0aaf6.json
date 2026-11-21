@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a2edcc597a52baa35fc0aaf6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Anti matching holds club",
+  "setter": "egongu90",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "AE7E7A326D434A0EB15B999C302A03F6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1112r12p1141r15p1143r12p1195r13p1214r13p1297r13p1302r13p1355r13p1359r13p1395r14p1464r15p1572r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f96c2e0d611c485b11ceb7353bd2cdc030db3db204c402756b6af34f17495ed7",
+  "validation_errors": []
+}

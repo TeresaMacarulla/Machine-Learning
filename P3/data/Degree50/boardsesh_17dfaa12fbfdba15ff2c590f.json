@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_17dfaa12fbfdba15ff2c590f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "PowerUpSession#10",
+  "setter": "DasElektra",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B48BF7EAF2834028B272CF51B9F173CD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r15p1193r12p1210r12p1248r13p1255r15p1299r13p1338r13p1388r14p1510r15p1520r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "8833c1fa6aec9fa1e0d1962e31d1cf91553607339fd51913f1f54275516db348",
+  "validation_errors": []
+}

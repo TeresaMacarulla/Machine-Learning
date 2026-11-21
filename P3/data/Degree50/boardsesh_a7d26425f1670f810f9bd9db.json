@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a7d26425f1670f810f9bd9db.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "true double dyno",
+  "setter": "sorato",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3D4F417FCDAA4EAEB8AE43383318ED27",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1133r15p1198r12p1202r12p1318r13p1320r13p1385r14p1389r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "adf9084b4a746654fcdc4d8213481bd9bc2c9a2cfc7a15cf3bdb5783360613fa",
+  "validation_errors": []
+}

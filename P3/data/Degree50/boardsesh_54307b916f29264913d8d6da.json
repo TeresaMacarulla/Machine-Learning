@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_54307b916f29264913d8d6da.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Jordan simulator",
+  "setter": "JakeSully",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "dd1150581855423d8167b47c3ba5fd91",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1164r12p1230r13p1269r13p1305r13p1360r13p1395r14p1460r15p1485r15p1525r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "0687cfc8b95ecdd31ccbc99c0f494eb7a724ff8e130d9c666813b6453af78b2e",
+  "validation_errors": []
+}

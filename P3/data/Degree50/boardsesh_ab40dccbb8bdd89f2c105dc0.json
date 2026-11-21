@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ab40dccbb8bdd89f2c105dc0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "fern",
+  "setter": "SaxonCasi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "d9c679e721b94c8c83357bac864ac635",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1173r12p1206r13p1258r13p1273r13p1309r13p1324r13p1377r13p1392r14p1450r15p1473r15p1499r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.58,
+  "ascensionist_count": 42,
+  "quality_average": 3.53,
+  "hold_fingerprint": "d3a7f1ace53c12c1bf010187bd9144c80bdfbbf1f2fc9df6d067642ad45ac3c3",
+  "validation_errors": []
+}

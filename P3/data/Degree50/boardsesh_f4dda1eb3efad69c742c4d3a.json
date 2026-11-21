@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f4dda1eb3efad69c742c4d3a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Oh Kay",
+  "setter": "ruhtra",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8bbc996b-81ed-4c75-84c0-0838561aef46",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r13p1183r13p1186r13p1239r13p1128r12p1462r15p1120r15p1083r15p1273r13p1327r13p1391r14p1518r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "5b455d3ff4f23c2351d6af8195295bac9b61cbddaecc41347c2a6982902d3f00",
+  "validation_errors": []
+}

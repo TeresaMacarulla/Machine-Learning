@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0555059ce2c4a5eca355a7f3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "RG Don't match, just jump",
+  "setter": "SebastianG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "17f1a23315ba41cda77d4a5e3aeddba8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1101r12p1118r12p1186r13p1187r13p1241r13p1255r13p1308r13p1324r13p1390r14p1391r14p1480r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c4d6c54f1468790dac0cedf5d0a4ad1e9bb0e82116c5e820385f444e360720e1",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b47cf4609cf9ce6d5fa5b629.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "clear objectives",
+  "setter": "bogbean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 1,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "94d1c8ba32154d3a95970f4a199bf58a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r15p1268r12p1334r13p1383r14p1523r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "08922a847f98bc68be9b9518874efe90c544fb6b38686aac6194103b29ea7916",
+  "validation_errors": []
+}

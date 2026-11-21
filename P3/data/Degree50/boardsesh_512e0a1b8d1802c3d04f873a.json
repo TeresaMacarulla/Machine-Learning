@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_512e0a1b8d1802c3d04f873a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Jump into camp",
+  "setter": "jakedotclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "B5B0676DF3834877979C8381C7C0B306",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1237r12p1317r13p1324r12p1336r13p1382r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.09,
+  "ascensionist_count": 11,
+  "quality_average": 3.18,
+  "hold_fingerprint": "f9021c94c16e8e2a9d41b02b837793c4468ddeb3bb4a4c1f65302260c3c8e98a",
+  "validation_errors": []
+}

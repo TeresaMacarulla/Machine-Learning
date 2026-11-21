@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3802890ae3159a6ad85b7e0e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "swingy ",
+  "setter": "solman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2c7307a3-908a-44c9-ab12-5385aaf1e085",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1187r12p1239r13p1132r12p1079r15p1471r15p1309r13p1527r15p1339r13p1550r15p1390r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "ea4049a3d62921ec6369a1ff79486216fd0c4b168ca6c32d9f0fbc43524a8251",
+  "validation_errors": []
+}

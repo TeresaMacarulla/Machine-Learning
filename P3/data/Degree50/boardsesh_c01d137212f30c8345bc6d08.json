@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c01d137212f30c8345bc6d08.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "Bodega Beast \ud83d\udc1d",
+  "setter": "Burcu\ud83d\udc1d",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "45cc4bb9-7ed6-4439-b494-562155ae0a54",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1153r12p1523r13p1214r13p1455r15p1332r13p1298r13p1496r15p1547r13p1352r13p1304r13p1325r13p1219r15p1544r15p1394r14",
+  "display_difficulty": 30.0,
+  "difficulty_average": 29.5,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "84c12d25e5b1df2d4758941ba7c4758cdd428bd61b3e3cb23aea903ac5df49c7",
+  "validation_errors": []
+}

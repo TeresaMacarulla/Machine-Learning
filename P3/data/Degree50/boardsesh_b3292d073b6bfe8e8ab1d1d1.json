@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b3292d073b6bfe8e8ab1d1d1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Freja cool",
+  "setter": "Ymer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1C37A63DA60B41D19C293A1DF50D46E6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1138r12p1152r12p1203r13p1270r13p1323r13p1369r13p1386r14p1454r15p1514r15p1553r15p1572r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "42d605d169a7c7168c21b968998b45a1bc06deb3d40a35efd5dcbd0b61acb38f",
+  "validation_errors": []
+}

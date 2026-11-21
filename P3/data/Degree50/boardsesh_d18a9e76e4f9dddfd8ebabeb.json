@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d18a9e76e4f9dddfd8ebabeb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "the joozard problem",
+  "setter": "jpeaker",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "f3b77aea863648208b9a8bacdbfce8ed",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1083r15p1149r12p1166r15p1218r13p1239r13p1274r13p1326r13p1340r13p1390r14p1499r15p1515r15p1518r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.36,
+  "hold_fingerprint": "a5d97c778c8b51a32799ba5d920fc9ac7700789e7488442f487e781310571695",
+  "validation_errors": []
+}

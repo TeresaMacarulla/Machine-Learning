@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_adfb028ec0b79628d23077fe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "lock lock lock",
+  "setter": "kin_onn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "5E0C6BFCC86B4C76B8FB5D76CAC7B6EC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1145r12p1151r15p1163r12p1201r13p1205r15p1214r13p1252r13p1269r13p1306r13p1322r13p1359r13p1392r14p1457r15p1460r15p1553r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "46bf129fbe5ed79fbd0d47f4e673b2e10b33f208bf62ac6f66db0a2f5dea1765",
+  "validation_errors": []
+}

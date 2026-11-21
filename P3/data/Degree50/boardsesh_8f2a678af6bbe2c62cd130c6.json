@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8f2a678af6bbe2c62cd130c6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Smeg",
+  "setter": "VadimDelakian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "0E6846D7F45E4DB98290E9776D6A50F9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1115r12p1129r12p1167r13p1222r13p1235r13p1290r13p1320r13p1372r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.8899999999999997,
+  "hold_fingerprint": "1b21831e7f7215f0060993e66424119ec9a733b1db43bee972ab425b126d9203",
+  "validation_errors": []
+}

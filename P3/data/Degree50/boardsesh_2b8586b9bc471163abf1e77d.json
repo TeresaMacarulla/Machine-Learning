@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2b8586b9bc471163abf1e77d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Get Upz",
+  "setter": "ameenh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1E873A41680F46B080A02C77556500BC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1201r13p1254r13p1330r13p1336r13p1352r13p1380r14p1453r15p1508r15p1557r15p1558r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.99,
+  "ascensionist_count": 189,
+  "quality_average": 3.27,
+  "hold_fingerprint": "4e4907e330bc98091f63ec0e7d32d75adee5625da02bf5e79e71f7c537bbae6c",
+  "validation_errors": []
+}

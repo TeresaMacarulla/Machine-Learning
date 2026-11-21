@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f8a8af496cd21b42f7a4aaba.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "positive flapper experience",
+  "setter": "Stevenbabs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "837001663cce4a9fba428aaa031e7250",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1117r12p1145r15p1170r12p1199r13p1214r13p1218r13p1248r13p1302r13p1386r14p1387r14p1452r15p1453r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "fb9b54adb78b1d210daf13b6dc41e276f79297597c7afba294b67cd40b6e434d",
+  "validation_errors": []
+}

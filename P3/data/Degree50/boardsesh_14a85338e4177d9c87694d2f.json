@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_14a85338e4177d9c87694d2f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Sebastian",
+  "setter": "grep",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "f9c88313-fd60-4b53-9362-fc408e1fdbbe",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1214r12p1262r13p1178r12p1476r15p1086r15p1298r13p1279r13p1351r13p1384r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.89,
+  "ascensionist_count": 12,
+  "quality_average": 3.89,
+  "hold_fingerprint": "f72ee3d3acb16bd1ef7f53b24350829869adef181dcd92f812abd4f388b6c622",
+  "validation_errors": []
+}

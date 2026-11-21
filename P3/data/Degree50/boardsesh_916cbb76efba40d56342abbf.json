@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_916cbb76efba40d56342abbf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "popknee",
+  "setter": "cevans20",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "AB1C69CA659140008AF65E261F3585FA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1098r15p1115r12p1161r12p1170r15p1206r15p1215r13p1249r13p1287r13p1307r13p1327r13p1394r14p1462r15p1506r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "3affb2aa46a222ca253a28b175632d36c9556e0d57ef667bd79c07911cd3e94b",
+  "validation_errors": []
+}

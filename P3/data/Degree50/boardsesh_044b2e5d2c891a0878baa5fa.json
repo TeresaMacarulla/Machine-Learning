@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_044b2e5d2c891a0878baa5fa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Mamba Man",
+  "setter": "StaticMax",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "dcdbd4a71e9e44f28aac9b42290d22b3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1161r12p1213r13p1239r15p1252r13p1253r13p1338r13p1385r14p1516r15p1523r12",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "fdf4e24595ab9cb94e4d8ce88bad62b9be68a08452dbd7ec8a786b232bd5fd36",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_03ee247f1087fba9c76b808c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "left foot",
+  "setter": "clifftrotter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "a31ea78c82954c60ab36dff4fffc3232",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1165r12p1183r12p1231r13p1287r13p1288r13p1334r13p1385r14p1460r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ed4dcda670a8027a37fb7b95e4d08eddcb4d6b6ceb5756cdf569e25cfa2a2ffc",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b9f6e1ce79ee8762959beb2b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Open hand",
+  "setter": "mscho",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "d4d353da-2632-4bed-bdfa-23772f958a48",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1235r13p1290r13p1320r13p1384r14p1118r15p1338r13p1148r12p1186r12",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "1ebd97afa49c44c5759d4bece64b48753c3a60e9fd34f13891e280ccf4628011",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7e5368271c24a229d8b6d219.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "low moto",
+  "setter": "ianjchurch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "D5B1FDBB5B9047579871DF57249113C8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1147r12p1166r12p1216r13p1235r13p1267r13p1304r13p1372r13p1392r14p1533r15p1562r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "4fdd54ecac6691de75f63ab16a83cf7f1ec9addce83624c5a51495dfde8eef28",
+  "validation_errors": []
+}

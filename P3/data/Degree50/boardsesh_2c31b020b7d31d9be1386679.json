@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2c31b020b7d31d9be1386679.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "word cross",
+  "setter": "eli12k",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "60B993403A6F49628561C1DF9021EC0E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1143r12p1192r12p1210r13p1246r13p1278r13p1315r13p1365r13p1386r14p1485r15p1512r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "35975412043e751e8c2e0456b4adcc4d3d8d08548f7a2da188b3b333115c7d44",
+  "validation_errors": []
+}

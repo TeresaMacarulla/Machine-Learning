@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ac07cf7fb95b22bdfb7acf49.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Taros Junp",
+  "setter": "Laurenz123",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 12
+  },
+  "source": "boardsesh",
+  "source_uuid": "1809b6ec58e446d39b2f3bdff5eae456",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r12p1236r12p1302r13p1356r13p1388r14p1469r15p1470r15p1477r15p1478r15p1479r15p1487r15p1488r15p1495r15p1496r15p1497r15p1533r15p1561r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 7,
+  "quality_average": 2.86,
+  "hold_fingerprint": "ba7414e609efdf625a3d059f784bdfec94cca8fef7b97a9a125093ce54b594b6",
+  "validation_errors": []
+}

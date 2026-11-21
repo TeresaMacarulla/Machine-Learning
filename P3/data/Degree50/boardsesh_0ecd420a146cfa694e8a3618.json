@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0ecd420a146cfa694e8a3618.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Automatic Drilling",
+  "setter": "J8aG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "801977625142427692071af3c69bc389",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r15p1311r13p1383r14p1492r15p1503r12p1513r12p1521r13p1540r13p1547r13p1556r13p1583r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 5,
+  "quality_average": 2.8,
+  "hold_fingerprint": "061f4538660aaa4e712d0743e308201f5f4cab31ed9090629b5798dfc46a9b90",
+  "validation_errors": []
+}

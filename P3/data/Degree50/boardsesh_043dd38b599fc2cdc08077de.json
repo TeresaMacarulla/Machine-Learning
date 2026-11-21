@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_043dd38b599fc2cdc08077de.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "180??",
+  "setter": "Nathan_Collard_",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "E0B721DC534646F69C8AC140BBC8D312",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1095r12p1176r12p1188r15p1215r13p1237r13p1273r13p1276r13p1395r14p1462r15p1464r15p1484r15p1518r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1a1c95f90cf6913d4d1f50ceda35c16bfab41cdb8bd1ded4f2a06f334d477cd3",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d69e33ef3a9ba9e3fa91cb2d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "train #4",
+  "setter": "Tristan_Dumais",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "EBD67D3E12AF43ABA2BCABBDF6E4279B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r12p1148r12p1184r13p1188r13p1256r13p1320r13p1357r14p1374r14p1452r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d2806fdbcc90eaaf863f60bb6190b175813404a7fc6c5691fdf3e6dd669efd4f",
+  "validation_errors": []
+}

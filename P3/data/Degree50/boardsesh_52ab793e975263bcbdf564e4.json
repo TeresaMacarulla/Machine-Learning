@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_52ab793e975263bcbdf564e4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Show Me Your Moves",
+  "setter": "TrainingToGetOverIt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "58780AC93CB74AD58838620F2DFC0DD0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1097r15p1149r12p1171r15p1204r15p1233r13p1235r13p1269r13p1272r13p1323r13p1343r13p1394r14p1395r14p1536r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.1,
+  "ascensionist_count": 10,
+  "quality_average": 3.6,
+  "hold_fingerprint": "c6247fbb6be62fddeee51f85efccfad4ce0dc82a57a249eba3653604cfa03010",
+  "validation_errors": []
+}

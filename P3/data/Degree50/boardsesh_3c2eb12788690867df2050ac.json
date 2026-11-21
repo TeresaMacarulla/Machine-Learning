@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3c2eb12788690867df2050ac.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Conway's game of life",
+  "setter": "SebSteph",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1949ada4bb52427f93aeea690a97c67b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1146r15p1149r12p1191r15p1219r12p1258r13p1289r13p1297r15p1358r13p1371r13p1382r14p1386r13p1553r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "180526eaa29c88773127aa0445b5d1efae1ec2e2560662973ed44db33edfdd04",
+  "validation_errors": []
+}

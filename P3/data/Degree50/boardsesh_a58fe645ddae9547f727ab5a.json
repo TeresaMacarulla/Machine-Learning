@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a58fe645ddae9547f727ab5a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Hand Me My Drill Please",
+  "setter": "crisgo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0927AF6AC72F4316B93D270F38DF377E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1148r15p1197r13p1229r13p1281r13p1329r13p1381r14p1458r15p1461r15p1503r15p1556r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.33,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "47a31fdd98cd0956a0f0a371e1eec9ad93a3fe9d767cef20e219ea479e68512e",
+  "validation_errors": []
+}

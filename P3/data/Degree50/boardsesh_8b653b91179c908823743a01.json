@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8b653b91179c908823743a01.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Steamroy #41",
+  "setter": "Steamroy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "7e247cc5a95a4b29a0e382067d125d89",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1106r15p1152r12p1157r12p1173r15p1204r13p1254r13p1257r13p1285r15p1308r13p1340r14p1453r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.11,
+  "ascensionist_count": 9,
+  "quality_average": 3.44,
+  "hold_fingerprint": "e355cfd5c0a1f8da62bdbf40fb5d2a1b2d7775d8f828452e12d692c08fbd6410",
+  "validation_errors": []
+}

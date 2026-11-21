@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b06d1ceea4c1c7c47f22dabb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Closing Time",
+  "setter": "ksmd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "f7eef800fae04d29b2d12f2358a3feec",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1144r15p1166r12p1181r15p1198r13p1215r13p1231r15p1244r15p1247r13p1281r13p1331r13p1351r13p1385r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.22,
+  "hold_fingerprint": "573a83d1c053ea2c19851256c9f483cd9b7110022bd5d70eefdba4f40ef07203",
+  "validation_errors": []
+}

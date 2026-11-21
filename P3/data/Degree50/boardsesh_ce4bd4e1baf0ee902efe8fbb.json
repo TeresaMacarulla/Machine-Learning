@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ce4bd4e1baf0ee902efe8fbb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Mwnci 360",
+  "setter": "bendelamotte",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "0EC70225462C4D99BCA094B24FBCFE29",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r12p1111r12p1124r13p1163r13p1228r13p1302r13p1339r13p1390r14p1464r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "48f8b0ed6355b546efb88c25574b6e6576a68a53e724404bd9577ad87c2dce63",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a5931c01cf9bd0cd712d9ffc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Reactivo",
+  "setter": "J8aG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "84ac8c73cf124255b3766ba430def721",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r12p1133r15p1145r12p1182r13p1232r13p1308r13p1377r13p1390r14p1542r13p1543r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "76fce432d20b295fc99152172c83914d7a035db04e530e9f2794deacb84613c2",
+  "validation_errors": []
+}

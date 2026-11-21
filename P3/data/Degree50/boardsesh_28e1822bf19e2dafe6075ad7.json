@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_28e1822bf19e2dafe6075ad7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Spam Random Holds",
+  "setter": "Archb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "2c8a776998f943cbb3bc12867bc7921e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1161r12p1177r12p1212r13p1245r13p1246r13p1297r13p1316r13p1350r13p1369r14p1466r15p1467r15p1475r15p1476r15p1492r15p1503r15p1522r15p1548r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "c1a4c188c48c4cd9a0d24bb98d2bd9fec8a7d8a4fde62eb86f2a4043027c020d",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7ef4b74f322f50ea562e9db6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "pickels",
+  "setter": "patn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "A563AD8373244F5A821EEE3BACF3C196",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1077r15p1187r12p1190r12p1256r13p1288r13p1320r13p1340r13p1389r14p1489r15p1533r15p1541r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2e14a3c8bc000bbf372ed202a1562661d3243bc9702c0e2779b5d3e3d9654d88",
+  "validation_errors": []
+}

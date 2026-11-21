@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fc97c09a086032e05af5819a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "blue leafed",
+  "setter": "okla_boulder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "68D493930B374890B387562BC0387FC9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r15p1203r12p1233r15p1271r13p1291r13p1323r13p1336r13p1359r13p1386r14p1532r12p1554r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "2586b54659bc021c1fd924781791a430a6d072104812f7904c3eb919b1793457",
+  "validation_errors": []
+}

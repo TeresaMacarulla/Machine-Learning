@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e63a9e5736e271006b0e0edc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Otto 1",
+  "setter": "otto_f0x",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 12
+  },
+  "source": "boardsesh",
+  "source_uuid": "49DAD3DC65874BD4BEADE8EBE704EB4C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1150r12p1200r13p1235r13p1268r13p1286r13p1302r13p1304r13p1320r14p1470r15p1477r15p1488r15p1505r15p1514r15p1524r15p1532r15p1542r15p1550r15p1560r15p1561r15p1568r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "415ee68f8300a41d916dd3f0ce4c29ec2449bcf65a97a0079a5ee9b8041fd0ab",
+  "validation_errors": []
+}

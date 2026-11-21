@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9315b2c36cd96dc3357f9919.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Rubble Rumble",
+  "setter": "mitchcrossy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "83cf08a8bc8a486d8a123354ed646202",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1152r15p1179r15p1180r13p1231r13p1270r13p1272r13p1315r13p1320r13p1380r14p1464r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.67,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "667e5ad60a977f15d3ca2f392c0db6ff83082a1ac7045a592ea2a6eb522434f5",
+  "validation_errors": []
+}

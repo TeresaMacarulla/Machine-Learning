@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7c7e76460e8272f176c07357.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Shortkings",
+  "setter": "toby9168",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "9C39B513F57D4138B620DF5C13A6058B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1230r13p1236r12p1250r12p1263r13p1270r15p1329r13p1367r13p1369r13p1372r13p1391r14p1394r14p1520r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7a6fd60ac6e41e333f3368bd712dba06d0f28c57befe67dc0a214d943da64757",
+  "validation_errors": []
+}

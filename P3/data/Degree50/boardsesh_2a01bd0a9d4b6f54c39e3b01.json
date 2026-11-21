@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2a01bd0a9d4b6f54c39e3b01.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "buns",
+  "setter": "pascalg",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "a7a30a81-7ab3-4bf0-ba82-96a88806094d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1210r12p1483r15p1110r15p1300r13p1367r13p1389r14p1570r15p1262r13p1143r12",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "ff89cab4d5547f2d72c642b254cc9a736d20cd57a6833a5cb29c16d9c54ddbfe",
+  "validation_errors": []
+}

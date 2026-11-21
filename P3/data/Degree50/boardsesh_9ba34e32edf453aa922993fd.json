@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9ba34e32edf453aa922993fd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Maserung",
+  "setter": "Tarekrobrahn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "dd1626f9894944378d9e55b0e7617e17",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1138r12p1140r15p1152r12p1238r13p1286r13p1357r13p1391r13p1394r14p1453r15p1535r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "2fd9eae2ccd0aa0072f2649ab67156b6700b3f5100572df9f2bad3b3f902f082",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d77889dfc9a510b3f84f70b9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "turning right round ",
+  "setter": "natalia_c",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "3de90cb1-ff01-42d4-90da-b033692f438d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1133r12p1542r13p1236r13p1302r13p1317r13p1385r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 7,
+  "quality_average": 2.0,
+  "hold_fingerprint": "1e97de39305ae155e8ac6e6455a843c9b2b24bdd3584e8995f0939e78f332b7a",
+  "validation_errors": []
+}

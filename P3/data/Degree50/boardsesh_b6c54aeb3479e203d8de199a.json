@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b6c54aeb3479e203d8de199a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "shouldnt be hard start",
+  "setter": "dylanjones",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "be9f0edbe6d34764a2c1c41a7fe7cc6a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1161r15p1170r12p1187r12p1234r13p1250r13p1264r13p1317r13p1347r14p1449r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "c1062f06c036801d19ff883f73720313b0819421f43d1fcdd110bb4efd3fa726",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_754cddef2d9e54e507d1f2b7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "spiky",
+  "setter": "Tjomsland",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "503FDD264CD94C929826874A7655EE3F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1087r15p1179r12p1250r13p1264r13p1318r13p1332r13p1385r14p1485r15p1503r15p1522r15p1530r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "083ac4200ea8c632ce2b188f40cfa5de13254de22f913bc749974a775d264987",
+  "validation_errors": []
+}

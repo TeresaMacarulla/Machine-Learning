@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fb9d81df9d4eb35a0256de1b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Roller",
+  "setter": "krimdogbillionaire",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B26A20E881EF49D4ABC26A027D011B98",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1201r13p1202r13p1239r13p1256r13p1270r13p1323r13p1387r14p1454r15p1496r15p1509r15p1566r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.2,
+  "ascensionist_count": 6,
+  "quality_average": 2.6,
+  "hold_fingerprint": "49eb9e947d42879ce1c7f3757a95925afa41c575fc5fd4c0511bb2a922c6907a",
+  "validation_errors": []
+}

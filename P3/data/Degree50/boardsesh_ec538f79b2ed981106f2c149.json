@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ec538f79b2ed981106f2c149.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "actualy good1",
+  "setter": "devin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "9e1af34d1c7747998ec0a29f2e66dd28",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r12p1163r12p1231r13p1236r13p1256r13p1270r13p1308r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b641972d4bf905d87acf84a09643a596018270913c3912cdd0686c1bfab37f5b",
+  "validation_errors": []
+}

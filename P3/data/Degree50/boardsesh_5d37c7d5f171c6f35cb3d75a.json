@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5d37c7d5f171c6f35cb3d75a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "dknee",
+  "setter": "FreestyIer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4B7698A2090F4E6F820805B13DA9A305",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r15p1156r15p1184r12p1189r12p1218r13p1238r13p1289r13p1302r13p1304r13p1387r14p1449r15p1506r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6b19ad7c280b297248842da13687286f68a189cfdca498289b8bc51d0d754f7c",
+  "validation_errors": []
+}

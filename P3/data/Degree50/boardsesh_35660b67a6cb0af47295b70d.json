@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_35660b67a6cb0af47295b70d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Hot Wax",
+  "setter": "langmack",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2C2F22212E1243EAA5F4F2F1ACAF11F0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1165r12p1203r12p1266r13p1322r13p1390r14p1476r15p1529r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.89,
+  "ascensionist_count": 65,
+  "quality_average": 3.53,
+  "hold_fingerprint": "6423b729b64c8ac23599d79f443637e580f33c3e297855cd549da7bb2e52a674",
+  "validation_errors": []
+}

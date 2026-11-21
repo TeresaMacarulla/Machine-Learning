@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eb4c73477b5c84c16ad3ad6d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Psychedelics",
+  "setter": "OLC",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4eafd122-bf4d-49e0-b1ff-8365cc262398",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1194r12p1464r15p1232r13p1192r15p1281r13p1264r13p1332r13p1555r15p1329r13p1380r14p1086r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.5,
+  "hold_fingerprint": "f67c0cecdba72ecd2a856d16837aeeee5fb21ac4a5543a31b8da02bfbe83ef16",
+  "validation_errors": []
+}

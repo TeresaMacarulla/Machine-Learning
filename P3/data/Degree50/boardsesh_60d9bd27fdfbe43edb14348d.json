@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_60d9bd27fdfbe43edb14348d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "HB1",
+  "setter": "Hazen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "59d2eb6bdd84411c903a46137b1b53a9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1180r12p1182r12p1228r15p1252r13p1324r13p1388r14p1597r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.94,
+  "ascensionist_count": 84,
+  "quality_average": 3.3800000000000003,
+  "hold_fingerprint": "d0267f1c55fc93909c24d206e04aab5e7c682bb20c15b2e2b00a548c450739ad",
+  "validation_errors": []
+}

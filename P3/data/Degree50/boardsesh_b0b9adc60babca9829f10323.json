@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b0b9adc60babca9829f10323.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "DIY haircut",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "cc5d1b2dd50640ed8de803be5f03bd3f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r15p1166r15p1200r15p1214r12p1220r15p1231r12p1268r13p1289r15p1304r13p1371r13p1392r14p1559r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.02,
+  "ascensionist_count": 43,
+  "quality_average": 3.6,
+  "hold_fingerprint": "288391a09c208e735ad7286f0a92b4f31cee9d62808fc09a408bdfbd670ff09b",
+  "validation_errors": []
+}

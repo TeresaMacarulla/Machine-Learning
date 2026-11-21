@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1ee1dad96accb0fe9ba8f5ab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "dyno thingy",
+  "setter": "Arch13",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "EEC797365FD74895904A3831945CAA29",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1135r15p1157r12p1208r13p1257r13p1306r13p1337r13p1389r14p1447r12",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "2944905f69c386b0f3ee871f9bf7ead62dfe56e9584efca89683d5d0ca158d42",
+  "validation_errors": []
+}

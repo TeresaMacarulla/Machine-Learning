@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f2e143595af3d53ee2aa45b4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "envision nails",
+  "setter": "Constant_Classics",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "5D1A3D4B7C734137A6EE3E235454BFB8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1144r12p1180r12p1233r13p1263r13p1264r13p1318r13p1349r13p1380r14p1462r15p1520r15p1523r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "45643afb0b138419063a2aca63b83bb985d0718f4c09be12581ab56135b98a4b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_60a842c4de5e0653414745bc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Raton Location",
+  "setter": "marcoderrien",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "19ce2abd-f2f8-4150-95f7-a2492bdf462f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1300r13p1338r13p1339r13p1508r15p1271r12p1185r12p1533r15p1392r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.6,
+  "ascensionist_count": 12,
+  "quality_average": 3.9,
+  "hold_fingerprint": "79011e7d309a4a9cfd21685f51d1ad1f66a32bc6600326fd015d6ac22b32b5cd",
+  "validation_errors": []
+}

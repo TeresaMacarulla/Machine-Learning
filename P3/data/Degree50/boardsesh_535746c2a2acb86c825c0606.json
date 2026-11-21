@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_535746c2a2acb86c825c0606.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "force harder",
+  "setter": "rmnclimber",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "1d99acc61184419591e6c9bd73cc4575",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1172r12p1271r13p1302r13p1316r13p1329r13p1380r14p1452r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.6,
+  "hold_fingerprint": "64b8488be2e475ca876b81c2cdd86afc4f32086b9ca2cc32543e384ed0038a44",
+  "validation_errors": []
+}

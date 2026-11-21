@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_444660bed21cda392916d7c8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "one arm pull up",
+  "setter": "louis.trlet",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "f4ed0eba-37cd-4cdc-8cdc-f0b111aa8fad",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1302r12p1352r13p1390r14p1183r12",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.13,
+  "hold_fingerprint": "933ede983e84a5b93cb9f309ae4c9989e01d46fe3d06f23bcba35248166424ce",
+  "validation_errors": []
+}

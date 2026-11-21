@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ecee6592ef4b8e58fd74df40.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "pogo to the left",
+  "setter": "smelliott.",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6663f455-eefd-4aed-80d7-927275bb1ae2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1302r13p1304r13p1220r13p1221r13p1169r12p1154r12p1078r15p1566r15p1385r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 8,
+  "quality_average": 2.5,
+  "hold_fingerprint": "942f0485a2fc6e199427bcb2b7f8f0a30dd780c284ddbff4c64e44db1de82691",
+  "validation_errors": []
+}

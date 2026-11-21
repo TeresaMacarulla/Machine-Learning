@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_51d3c44007cf2141c670912d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "swing a rum here",
+  "setter": "angusdavidson93",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "09388ad9d9734b25b3bb47a97fc5d698",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1110r15p1145r15p1169r15p1198r12p1206r15p1236r13p1254r13p1272r13p1275r15p1341r13p1375r14p1513r12",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "1eefc05fa55ad7bcdd05adba4077380510d6da77713f62927f76d319f402281d",
+  "validation_errors": []
+}

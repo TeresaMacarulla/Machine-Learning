@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2223a5f89a172ea33ff5690e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Slow and Steady",
+  "setter": "tomheslam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "27F27F93D5404CEFABEA707A2B589423",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1163r12p1230r13p1253r15p1268r13p1272r13p1273r13p1324r13p1372r14p1460r15p1485r12p1507r15p1508r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6f29c2b8a3f4f867b6976063366bdc3285ea501e60ccd3183091d1278cc47595",
+  "validation_errors": []
+}

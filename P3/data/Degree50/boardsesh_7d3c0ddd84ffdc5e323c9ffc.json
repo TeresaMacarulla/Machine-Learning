@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7d3c0ddd84ffdc5e323c9ffc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Spinach",
+  "setter": "RJClimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "a15abbad4d314ae69a840a05250a5250",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1128r12p1165r13p1232r13p1253r13p1281r13p1286r13p1333r13p1345r13p1379r14p1459r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "e7d450b58b8673769ac9d95f4c391a5f3ab2a5e2661052cdeeb73c2220341f70",
+  "validation_errors": []
+}

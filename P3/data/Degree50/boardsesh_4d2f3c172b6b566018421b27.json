@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4d2f3c172b6b566018421b27.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "undercling of doom",
+  "setter": "Xander.ritter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "22982e6f7ed64174942f80e794ceb856",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1166r12p1199r13p1213r15p1217r13p1282r13p1303r13p1349r13p1366r13p1380r14p1468r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ad2168e2eca3a10e2c1194a27a8c8f4ed7c30f6d0e7f6851b9a087f1229f5dd3",
+  "validation_errors": []
+}

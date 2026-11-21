@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6c60b5ac1d9da88f8e9a6b24.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Tom Hanks in Big",
+  "setter": "fordj06",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "a56a119344ee48f58b23da3fbc360b32",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r15p1171r12p1172r12p1240r13p1253r13p1266r13p1270r13p1331r13p1335r13p1383r14p1482r15p1531r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "de1d018a5348b31a2a7770b3f5619c1d903bd79b131dcafb2a5614a83659bcdf",
+  "validation_errors": []
+}

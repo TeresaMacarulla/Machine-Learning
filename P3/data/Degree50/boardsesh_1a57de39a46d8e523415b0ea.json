@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1a57de39a46d8e523415b0ea.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Ralle hat power",
+  "setter": "lukas202",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "cc95e3f3df184192b6c44c179fed2699",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r15p1164r12p1182r12p1185r13p1235r13p1272r13p1306r13p1325r13p1358r13p1395r14p1554r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7656c06e4fc971c8e1a1901cb868525b120938b91b54ae0278dc26fdd8ce66f0",
+  "validation_errors": []
+}

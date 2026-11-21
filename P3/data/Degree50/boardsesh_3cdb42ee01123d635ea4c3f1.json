@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3cdb42ee01123d635ea4c3f1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Pixies Ballet",
+  "setter": "CalvinAngove",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "650F7DBF93D146FABFA9E42E79A625A7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1113r15p1160r15p1163r12p1195r12p1200r15p1231r13p1247r13p1271r15p1302r13p1353r13p1389r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.82,
+  "ascensionist_count": 28,
+  "quality_average": 3.5,
+  "hold_fingerprint": "80664bef5730d98a79153872e900d9e7e84bc17a80a9d70f47c89a54b1f72349",
+  "validation_errors": []
+}

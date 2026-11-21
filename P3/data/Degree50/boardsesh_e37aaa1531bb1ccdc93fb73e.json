@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e37aaa1531bb1ccdc93fb73e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Shmerg",
+  "setter": "SergSends",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "04c7e05f-431e-424a-a248-53a73c76cb8e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r12p1177r12p1093r15p1246r13p1130r15p1297r13p1261r13p1353r13p1389r14p1315r13",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.5,
+  "hold_fingerprint": "67fc4ed0ad1ace025f7a4b6f6ca85bce354c1dd5cb4d0533ad15ff95e975b9d5",
+  "validation_errors": []
+}

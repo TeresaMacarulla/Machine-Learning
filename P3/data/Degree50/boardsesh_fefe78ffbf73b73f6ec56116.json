@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fefe78ffbf73b73f6ec56116.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Lumos maxima",
+  "setter": "yarden.pilpel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "a5fa6465d2dd4bf59caac846b818a2df",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1122r15p1139r12p1169r12p1212r15p1217r13p1238r13p1283r13p1284r13p1314r13p1382r14p1481r15p1495r15p1498r15p1509r15p1541r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "9ae5d0414479f0758d3889d247ba9324b8c40ac7706170c735edb4d780b3d390",
+  "validation_errors": []
+}

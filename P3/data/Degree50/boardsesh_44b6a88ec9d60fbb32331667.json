@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_44b6a88ec9d60fbb32331667.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Bad Wheel",
+  "setter": "trendyrendy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "39F7F25DBBC34107BEB7AB539D28142E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r15p1186r12p1216r12p1254r13p1270r13p1324r13p1368r13p1373r13p1374r13p1384r14p1477r15p1478r15p1548r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.01,
+  "ascensionist_count": 110,
+  "quality_average": 3.49,
+  "hold_fingerprint": "1ebec77be39a9a9c48824273d136d4a89fdd1872da43d2a677a3f0ab069181ac",
+  "validation_errors": []
+}

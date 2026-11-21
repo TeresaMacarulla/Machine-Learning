@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5a3c3ec976b5eea6e114e759.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Biception",
+  "setter": "theunaphotobomber",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "04066666577c42ff8be6379d8a6263db",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1085r15p1144r12p1163r12p1183r13p1198r13p1236r13p1268r13p1317r13p1354r13p1387r14p1476r15p1540r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1349,
+  "quality_average": 3.31,
+  "hold_fingerprint": "2761bc6d2109a15e454d0a672f8ba3b733ce4fc406be8ea996b35ecad5537677",
+  "validation_errors": []
+}

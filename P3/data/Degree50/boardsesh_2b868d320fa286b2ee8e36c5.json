@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2b868d320fa286b2ee8e36c5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Haizahn",
+  "setter": "Ralle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "63c017c2ba604a54afe2698b525b757f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1170r15p1219r12p1283r13p1287r13p1298r13p1314r13p1330r13p1362r14p1523r15p1549r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "7469ff8a1134e295c76e5ce58a5241c9affa8d61dbc6678bca0383144f35b707",
+  "validation_errors": []
+}

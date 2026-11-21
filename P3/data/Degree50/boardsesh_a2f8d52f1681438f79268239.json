@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a2f8d52f1681438f79268239.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Under X",
+  "setter": "kakeru_nx",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "44C36EE88F154C92B5A2422DC6604923",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1164r12p1217r13p1231r15p1270r13p1304r13p1351r13p1383r14p1457r15p1478r15p1494r15p1534r15p1586r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.86,
+  "ascensionist_count": 7,
+  "quality_average": 3.57,
+  "hold_fingerprint": "ce7b5e88ed9e3d102a0ffa4d8b8b6d4ab769df7871fad02ffc281a6f0f4115fa",
+  "validation_errors": []
+}

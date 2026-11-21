@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a85fca709efff19c7ec0cf95.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Campus Only 001",
+  "setter": "Neo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "fbdc3c02-dd92-4bb1-9743-97dc79ec71ec",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1392r14p1371r13p1322r13p1284r13p1236r12p1198r12",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "da2cd705e79ec292cf7e1e34845f097e4cd2192b4e2885bdc039f71611419aaa",
+  "validation_errors": []
+}

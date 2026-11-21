@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c214f5ed64d808f78fa4e062.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Hip Therapy",
+  "setter": "endz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "8105527247AD4492BFC4B362B212CBC8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r15p1118r15p1147r12p1185r12p1236r13p1271r13p1301r13p1334r13p1348r14p1383r14p1506r15p1508r15p1532r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "37e3d2297b9f1fb8aa059ab1bb7401f204dcc6084aae342d25056c5f71d69104",
+  "validation_errors": []
+}

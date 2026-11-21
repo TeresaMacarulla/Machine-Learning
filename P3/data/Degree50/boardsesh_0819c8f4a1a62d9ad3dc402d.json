@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0819c8f4a1a62d9ad3dc402d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Right up the wall",
+  "setter": "jamesjoyce1202",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "dc4f2db50cee4ae1a10d738700f09441",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r12p1204r13p1223r13p1276r13p1308r13p1361r13p1393r14p1447r15p1471r15p1481r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "24093f7acb9ce114365041f1ddc032472265909d81749dc1754850ccdec7ab49",
+  "validation_errors": []
+}

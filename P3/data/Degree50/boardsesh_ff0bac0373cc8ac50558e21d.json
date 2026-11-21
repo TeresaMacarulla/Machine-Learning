@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ff0bac0373cc8ac50558e21d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "wing spannn",
+  "setter": "royal.G",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0F92ECAFEEBE4D9C8DF7D936C96840DC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1156r15p1187r12p1189r12p1218r15p1271r13p1282r13p1317r13p1348r13p1384r14p1531r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8b13713e8566e7f0ca48cde5a00f0f5ad0b2954eb9b90ab4887249e295cd4d96",
+  "validation_errors": []
+}

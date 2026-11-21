@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_96260a8e4ccb69f3dc94e1a6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Shoulder Flame",
+  "setter": "JaschClimb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "f6ccf8a3d9c8420fb4a5d21748169bc9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1111r15p1158r15p1179r12p1181r12p1248r13p1296r13p1334r13p1384r14p1547r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "87770778246d19cbaf3d873173d402ed895eeab165243062df58847781a2cf0f",
+  "validation_errors": []
+}

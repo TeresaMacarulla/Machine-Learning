@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0607ef3f9c10b8e43af537f4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "elderbeast v6.0",
+  "setter": "bkbskilterboard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "02C536C580604133899BECC23ECECC23",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1179r13p1230r13p1250r13p1283r13p1322r13p1339r13p1360r13p1392r14p1458r15p1503r15p1525r15p1554r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.93,
+  "ascensionist_count": 15,
+  "quality_average": 3.07,
+  "hold_fingerprint": "781b4951ff2059242b7158a3ba314cbc66b558938ea446d72834c6e3b365268a",
+  "validation_errors": []
+}

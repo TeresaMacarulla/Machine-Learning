@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_38c1e94f7813de114786e7bf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "clamp town",
+  "setter": "Mproctor",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "C3D9C6384B7E4137BDC8C7661FA760B1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r15p1196r12p1216r12p1250r13p1283r13p1285r13p1306r13p1341r13p1395r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "868db9bfa3e2d5b718ef395321bc50202676055f1fb1076e0fa0d28e87472c44",
+  "validation_errors": []
+}

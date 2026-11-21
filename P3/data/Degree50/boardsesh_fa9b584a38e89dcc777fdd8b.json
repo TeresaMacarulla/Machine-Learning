@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fa9b584a38e89dcc777fdd8b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Hoog",
+  "setter": "thijs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "1B998655C6424726B8D81B49D33A7ABA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1229r13p1268r13p1320r13p1325r13p1394r14p1522r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9a50f5cb5d1e6e7876959bc17b984dddc0a661e7e904813c28052c7267eec73f",
+  "validation_errors": []
+}

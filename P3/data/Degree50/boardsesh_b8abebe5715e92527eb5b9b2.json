@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b8abebe5715e92527eb5b9b2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Stand Start Circuit #4",
+  "setter": "GirthQuake",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3F63AFE02E574D768F33C5393A2CC635",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1164r12p1168r15p1219r15p1231r12p1268r13p1269r13p1321r13p1334r13p1355r13p1385r14p1389r14p1513r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a4ac39c49860d9f768a5ee59f84088d63e5066ca1dd36779e13ea896b3fc0804",
+  "validation_errors": []
+}

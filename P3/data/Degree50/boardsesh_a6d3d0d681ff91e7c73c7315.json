@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a6d3d0d681ff91e7c73c7315.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "the friendly realtor V0",
+  "setter": "joanmarieswanson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5DBE8DB8893C409AA24AC77E3BE08D4C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r15p1171r15p1173r15p1257r12p1259r12p1305r13p1308r13p1337r14p1339r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "f0f56b47f76f8a52ce41d7c251d178ce1e136936330a6ecc5cc3369c0aa501a5",
+  "validation_errors": []
+}

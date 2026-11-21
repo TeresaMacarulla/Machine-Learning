@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f10259fbb2fa1f48ef35ac28.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Kilter Mania",
+  "setter": "GusCarter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "4AF865EF4CA0405A89EC1A807AA6AC9D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r13p1077r15p1155r12p1181r15p1189r12p1235r13p1269r13p1324r13p1393r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8b23380be3ecbe31e2914ac59c95c9d5871e15b55ddaa466fda0a9b59763dce0",
+  "validation_errors": []
+}

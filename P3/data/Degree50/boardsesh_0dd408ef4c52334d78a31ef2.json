@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0dd408ef4c52334d78a31ef2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "walls dancing",
+  "setter": "alber9",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "789e56882cf94f89b5126b25dc25f0c7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1168r12p1171r15p1214r15p1236r13p1284r13p1321r13p1353r13p1385r14p1456r15p1531r15p1534r15p1583r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d037ddc8a8847170d026fb21e4b73fa468a8a354ed661a77bf35912f97a69b25",
+  "validation_errors": []
+}

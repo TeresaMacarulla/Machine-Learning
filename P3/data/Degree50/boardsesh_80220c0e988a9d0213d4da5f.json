@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_80220c0e988a9d0213d4da5f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Weapon X",
+  "setter": "sammyd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b1b3c5eb13e944cc92aa5117b0895547",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1219r13p1249r13p1285r13p1287r13p1323r13p1360r13p1395r14p1451r15p1453r15p1457r15p1506r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1fc31d6111902023bade5a7f2e522b41f09dafb526effed5b2b4c10714261e22",
+  "validation_errors": []
+}

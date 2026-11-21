@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_96780c4085c41e5211e38b0a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "10:40",
+  "setter": "Tomgotboard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8a84a66d-e470-478e-8a3f-5fd44d405dca",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r12p1232r13p1264r13p1502r15p1085r15p1466r15p1314r13p1555r15p1328r13p1345r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "c0979d3dce79d4d87ee595e6fc62b99e1e2921813cc8c27d99bdb55c1f8f9d86",
+  "validation_errors": []
+}

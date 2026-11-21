@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_416c34c6e3c2a4472b1962a3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Helicopter \ud83d\ude81 Helicopter \ud83d\ude81",
+  "setter": "AidanHenn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "30CC9AD9805E46DCB3A742E04AB7800B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1151r15p1216r13p1230r13p1300r13p1353r14p1454r15p1504r15p1521r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f973c23d7307e4c6ea14570057c0a604267840b5deb681f5f92eb163de28297c",
+  "validation_errors": []
+}

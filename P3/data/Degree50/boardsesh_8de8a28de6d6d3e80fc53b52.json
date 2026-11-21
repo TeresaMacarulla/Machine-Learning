@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8de8a28de6d6d3e80fc53b52.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "it\u2019s a climb",
+  "setter": "torc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "7e51e8cd-2f0e-4b0e-94ae-98193e920291",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1169r12p1149r13p1457r15p1454r15p1455r15p1451r15p1450r15p1200r13p1233r13p1269r13p1204r15p1299r13p1353r13p1388r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.2,
+  "ascensionist_count": 14,
+  "quality_average": 2.8,
+  "hold_fingerprint": "6d1e096535b2eb1cb39b7cdbbb52ae18dadb98f81bceb0acc4e8d2287b52debd",
+  "validation_errors": []
+}

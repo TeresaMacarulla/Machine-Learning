@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fcc29d20974bc7093b54a0e7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "VariationABC",
+  "setter": "KletterMan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "19cfcb9d29be41ae846351a72ffb5344",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1164r13p1169r12p1215r13p1283r13p1286r13p1320r13p1357r13p1389r14p1457r15p1493r15p1513r15p1559r15p1571r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "dab2e3a80d789b97389d1c566d94d0eefde0c8b2683a320d2c27e920a28782d9",
+  "validation_errors": []
+}

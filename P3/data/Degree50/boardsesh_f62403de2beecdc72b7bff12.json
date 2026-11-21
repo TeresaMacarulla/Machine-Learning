@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f62403de2beecdc72b7bff12.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "No Biceps1",
+  "setter": "GW_Kilter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9F86CD8920C94027B924D27A6AC5C908",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1113r15p1162r12p1178r12p1216r13p1239r15p1266r13p1302r13p1303r13p1356r13p1390r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.02,
+  "ascensionist_count": 695,
+  "quality_average": 3.2900000000000005,
+  "hold_fingerprint": "46bfe6f7e2c299f27acd927dee4dcf7d60611f988127c15a2d603b2fc63a3732",
+  "validation_errors": []
+}

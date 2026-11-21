@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e510b8b128b36daa0cf9e8ad.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "the big lebrodski",
+  "setter": "RiverTulloss",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "A1F20254A215480D869F20224DFA80A8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1155r12p1157r12p1170r15p1204r13p1223r13p1256r13p1270r13p1308r13p1340r13p1394r14p1489r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.86,
+  "ascensionist_count": 44,
+  "quality_average": 3.24,
+  "hold_fingerprint": "d1921f9a5d8ae8edb0671e8884905763f5d22032321cad68453333615d5af4d4",
+  "validation_errors": []
+}

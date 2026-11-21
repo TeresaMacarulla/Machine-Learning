@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b02c5b65bbdd4d617d6cab36.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "THINK Bagel",
+  "setter": "EvanPowers",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "db895b0db15e48df9516371c3d2bfd0e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1173r12p1205r13p1218r13p1272r13p1320r13p1387r14p1482r15p1517r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ac544dc65022e6e1651386f0b0887493f5ea0e4a7f7507ef9594d1cd6eed8292",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d7ee09536daef5918a469316.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "BallisticMissile ",
+  "setter": "wannabegorilla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "6011e1f8-0d09-4863-bb21-1c4fea611185",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1334r13p1385r14p1383r14p1189r13p1140r12p1101r12p1447r15p1547r15p1269r13p1236r13p1153r13p1074r15p1499r15p1508r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 3,
+  "quality_average": 4.5,
+  "hold_fingerprint": "43e9b6f5f557ba40c8049b46f2eb428870d55d5934a97182427914fffa64d611",
+  "validation_errors": []
+}

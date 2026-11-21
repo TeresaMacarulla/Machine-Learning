@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_279e50189764bda35b01629e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "dance with palms",
+  "setter": "clayclimb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2FB9945C561A4BA493059136E93F1FFF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1075r15p1138r12p1139r12p1151r15p1204r13p1241r13p1269r13p1270r13p1283r13p1353r13p1388r14p1447r15p1504r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3e8b1dd3e83ab51205dd7ee1c961b443cd775046885984cd2713b27a1d245b94",
+  "validation_errors": []
+}

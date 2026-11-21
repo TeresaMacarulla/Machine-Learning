@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1d47fd7824f046faf7a80021.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "2 for 1",
+  "setter": "will_avelar",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "92AFE5C1C4AB48AF96ADDD24693E5604",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1163r15p1201r15p1236r12p1268r13p1301r13p1353r13p1385r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 26,
+  "quality_average": 3.23,
+  "hold_fingerprint": "238cb8c888deaf664778a5c510d59e8770783ab97165682ec6f7d73848edd4fb",
+  "validation_errors": []
+}

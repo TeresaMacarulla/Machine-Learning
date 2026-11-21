@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e19dc08bdbe5331fa028acbf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "zero-gravity",
+  "setter": "eddie.perez_",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "27A5C9EEF2BB49A8A594D1E8E62129AF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r15p1107r15p1144r12p1231r13p1297r13p1308r14p1353r13p1391r13p1526r15p1562r15p1570r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9e84952d42d11d4d57877870d8de8595cc722f5834ff30edeb7b40673942c94c",
+  "validation_errors": []
+}

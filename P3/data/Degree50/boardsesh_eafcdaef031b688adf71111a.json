@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eafcdaef031b688adf71111a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Power Spot Me",
+  "setter": "toddstebbing11",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "50BCE0750A92485FACB7F77DA585BC7B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1137r12p1172r12p1187r13p1203r13p1214r15p1252r13p1269r13p1299r13p1387r14p1447r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "6fb15446bbe6ac27fde53d94c8cd332d4091a2706b1c56b92a49558509f525d9",
+  "validation_errors": []
+}

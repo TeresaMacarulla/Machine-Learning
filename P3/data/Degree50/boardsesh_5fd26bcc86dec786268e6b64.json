@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5fd26bcc86dec786268e6b64.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "reicht schau",
+  "setter": "Serry_Jmith",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "462491cd10af4cdb93cc2ba33b646447",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1204r12p1205r15p1208r15p1221r12p1306r13p1308r13p1391r14p1394r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "fd410ea7c502d1aa8c8bcf2b8742232fd1584b099cd8cc1df2c445016d9e4994",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_86c3beb438eb73f7a34e445d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Tap Tap Tap",
+  "setter": "will_avelar",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 13
+  },
+  "source": "boardsesh",
+  "source_uuid": "A58DB7F97A3844FEA8CA81EADA7D9598",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1198r13p1234r13p1247r13p1280r13p1300r13p1331r13p1384r14p1454r15p1455r15p1457r15p1467r15p1469r15p1477r15p1485r15p1493r15p1511r15p1521r15p1532r15p1547r15p1549r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.01,
+  "ascensionist_count": 2681,
+  "quality_average": 3.240657452372058,
+  "hold_fingerprint": "a3d0dc6e2060f4dd87092b443bdd538ce85ed77f69b9e85d4ca4c74fc7ebaf3f",
+  "validation_errors": []
+}

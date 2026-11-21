@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f47d7e1bc7c46887ff9367d2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "aquiver",
+  "setter": "kurt_",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "f6c6c53718804843bf4cc11a3e912445",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1167r12p1237r13p1268r13p1337r13p1368r13p1389r14p1479r15p1505r15p1549r15p1570r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.99,
+  "ascensionist_count": 106,
+  "quality_average": 3.3962264150943398,
+  "hold_fingerprint": "547bc4a693dee9a6cbdb9e12c2de36e2f2aa329d337a43caebce2f3e000fc8b6",
+  "validation_errors": []
+}

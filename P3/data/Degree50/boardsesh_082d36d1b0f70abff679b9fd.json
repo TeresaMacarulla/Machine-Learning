@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_082d36d1b0f70abff679b9fd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "Off The Couch Sit",
+  "setter": "NikolasKarolides",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "A567BD60F78E4E7DB2D36A083497E110",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1121r12p1222r13p1282r13p1286r13p1314r13p1381r14p1447r15p1482r15",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 17,
+  "quality_average": 3.8799999999999994,
+  "hold_fingerprint": "01c8d34828ddbecd9d8a4399d68223dafdfe47c0998af48b385d91e4110bfec3",
+  "validation_errors": []
+}

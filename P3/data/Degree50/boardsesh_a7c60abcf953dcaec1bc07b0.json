@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a7c60abcf953dcaec1bc07b0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "zange for power",
+  "setter": "Albertf13",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "BCAC4373495B4BFF8E3CD11F99338C7A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1182r12p1185r12p1221r13p1235r13p1271r13p1291r13p1341r13p1394r14p1479r15p1499r15p1518r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "fd8b09f3f6de0fe6ef456ee0a9b1c63ccfe4d07359f67b10a1883c3c5b7d98c6",
+  "validation_errors": []
+}

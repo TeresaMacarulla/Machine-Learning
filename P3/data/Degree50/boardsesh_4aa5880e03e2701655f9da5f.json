@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4aa5880e03e2701655f9da5f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Stay Yo Distance.",
+  "setter": "nogoodnolan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "827386FCD8204443A7E381832F5E8209",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r15p1163r12p1231r13p1270r13p1305r13p1357r13p1387r14p1458r15p1516r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.29,
+  "hold_fingerprint": "47f4648b0782f1961f08da16081cd6150a2261fd6876c375d963f2def1bfe517",
+  "validation_errors": []
+}

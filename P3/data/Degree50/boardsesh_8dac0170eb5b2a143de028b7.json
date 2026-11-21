@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8dac0170eb5b2a143de028b7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "alpine",
+  "setter": "masteroogway",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "cc9703ab22f4464d8e0a91e780247b9a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1160r12p1194r12p1214r13p1248r13p1252r13p1303r13p1324r13p1342r13p1378r13p1395r14p1464r15p1465r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.98,
+  "ascensionist_count": 189,
+  "quality_average": 3.77,
+  "hold_fingerprint": "a116a8e7d7b6e96e4c45fddd788e7487516273d6950442bcd330c5704fe220ec",
+  "validation_errors": []
+}

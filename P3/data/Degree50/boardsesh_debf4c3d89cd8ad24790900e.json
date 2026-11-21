@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_debf4c3d89cd8ad24790900e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "twist the hip",
+  "setter": "lli",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "9760B6077699402CBC8FFB415F28518E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1149r12p1197r15p1199r13p1235r13p1286r13p1322r13p1371r13p1386r14p1459r15p1476r15p1486r12p1493r15p1553r15p1558r15p1568r15p1579r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "49ee83167045567675719d5a8c30bec67213a863c3386f3c286aa6ac7521a49e",
+  "validation_errors": []
+}

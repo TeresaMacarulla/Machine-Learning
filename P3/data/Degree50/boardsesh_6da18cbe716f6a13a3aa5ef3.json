@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6da18cbe716f6a13a3aa5ef3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "finger eater",
+  "setter": "MVMTSCA",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "926FD142A2D44021BEE454512A479E02",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1117r15p1187r12p1219r12p1231r15p1234r13p1239r15p1302r13p1350r13p1387r14p1389r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "001ff724162b7d15960f01859e38924dbe255b4466140786da0a1fca849e0f8b",
+  "validation_errors": []
+}

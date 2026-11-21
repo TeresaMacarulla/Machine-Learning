@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9a33d9188e34c4e679faf902.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Bayside Testpiece",
+  "setter": "ned.m",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "acf4d6fa700248e983cc325306bad432",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1233r12p1235r12p1266r13p1318r13p1370r13p1374r13p1393r14p1486r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bc1a5059c4f85fa56769ae1eab5e8d66dbe8019c56bc635b5094571e9a5cbeca",
+  "validation_errors": []
+}

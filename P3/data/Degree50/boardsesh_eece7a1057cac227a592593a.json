@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eece7a1057cac227a592593a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Ben Yart",
+  "setter": "Joanes",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "31F8DEC0D8A54CB7A147EE847FF74E07",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1191r13p1256r13p1305r13p1335r13p1385r14p1447r15p1482r15p1500r15p1532r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.82,
+  "ascensionist_count": 994,
+  "quality_average": 3.41,
+  "hold_fingerprint": "5795ef71ada3ed8d0d182456214e986b884be13cd0c6005574479141cef7cf56",
+  "validation_errors": []
+}

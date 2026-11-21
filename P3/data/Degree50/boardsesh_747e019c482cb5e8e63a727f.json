@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_747e019c482cb5e8e63a727f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "climb 1",
+  "setter": "sadil",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "cc7db40c-fc96-4cbd-8569-2f154bb7f658",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r12p1120r12p1450r15p1170r13p1153r13p1470r15p1522r15p1386r14p1184r13p1284r13p1236r13p1337r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.67,
+  "ascensionist_count": 9,
+  "quality_average": 2.33,
+  "hold_fingerprint": "6da984f8f88a6e6caa989ca3b28cdc70c67f99a85bb6125659575713a8ec6aa9",
+  "validation_errors": []
+}

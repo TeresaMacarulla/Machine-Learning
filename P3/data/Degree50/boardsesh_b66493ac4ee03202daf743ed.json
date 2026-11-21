@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b66493ac4ee03202daf743ed.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Dynamic Dilemma",
+  "setter": "JoelHaefliger95",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "fbb5f07b-7b15-486b-b259-e04d65472273",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1151r12p1134r12p1218r13p1182r13p1230r13p1455r15p1142r15p1469r15p1299r13p1353r14p1300r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.25,
+  "ascensionist_count": 8,
+  "quality_average": 4.5,
+  "hold_fingerprint": "fc6b2b1abf04ed69e7bb1d5f8c7d4f3b9cf78e24062d49ce79c002e9f787ff76",
+  "validation_errors": []
+}

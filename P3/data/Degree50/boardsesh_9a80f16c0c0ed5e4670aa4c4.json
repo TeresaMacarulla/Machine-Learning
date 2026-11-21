@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9a80f16c0c0ed5e4670aa4c4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Cortisone",
+  "setter": "AlePalma94",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0ac7e9d7440f4ba4a3a496bdc9f1f56c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1098r12p1116r13p1201r13p1258r13p1292r13p1378r13p1391r14p1456r15p1459r15p1518r15p1568r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "755dcc1bc7f91dfefcbdcc9bf131b40aff07244692809ca7c2b6cfc6aeedfee2",
+  "validation_errors": []
+}

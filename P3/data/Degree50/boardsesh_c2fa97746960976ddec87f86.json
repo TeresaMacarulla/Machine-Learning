@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c2fa97746960976ddec87f86.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Willy Bonka",
+  "setter": "LukesBoardAccount",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "fb3802f8-f43e-45d4-b381-e4d6abab17e0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r12p1157r15p1168r13p1140r12p1482r15p1181r13p1249r13p1506r15p1250r13p1317r13p1363r14p1576r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.75,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "20fa51add62fdcadcdbafb34939307fce08ba339aa965e130a5aab0224695f6b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2093e9384dadf4513677a569.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "Power ",
+  "setter": "IstMirEgal",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "83822fff-af8a-4ae8-a6d9-1e40d1d71586",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1186r12p1452r15p1103r15p1471r15p1099r15p1283r13p1182r15p1339r13p1385r14p1560r15",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9e2d0b093004b5a8b11189f62bec09723d42081717d1779af481d70a4387fa10",
+  "validation_errors": []
+}

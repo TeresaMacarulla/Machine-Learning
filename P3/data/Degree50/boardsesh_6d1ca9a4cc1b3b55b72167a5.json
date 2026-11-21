@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6d1ca9a4cc1b3b55b72167a5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Busy Bee",
+  "setter": "spin.matt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "F2BCE352A8B84E1592B21D313754B948",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1163r13p1194r13p1231r13p1269r13p1270r13p1291r13p1340r13p1393r14p1461r15p1465r15p1494r15p1505r15p1516r15p1553r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.03,
+  "ascensionist_count": 158,
+  "quality_average": 3.39,
+  "hold_fingerprint": "48b91677695337d9021867c6f4950d5dfb2be3b88addf399e94a849d716a10af",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5bd53608e495ec969ad61fa0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "C7",
+  "setter": "juligris",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 10
+  },
+  "source": "boardsesh",
+  "source_uuid": "c19918994e014213b5eff02e6e39ca16",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1145r12p1177r12p1215r13p1229r13p1233r13p1281r13p1295r13p1330r13p1379r14p1462r15p1474r15p1483r15p1511r15p1520r15p1528r15p1537r15p1546r15p1556r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.77,
+  "ascensionist_count": 13,
+  "quality_average": 2.46,
+  "hold_fingerprint": "d10ccad54f0e1565c14f3f4214c9594eb45e3df2112364a1f7e7418a254bbf78",
+  "validation_errors": []
+}

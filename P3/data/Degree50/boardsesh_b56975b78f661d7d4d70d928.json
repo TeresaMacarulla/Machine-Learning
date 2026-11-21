@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b56975b78f661d7d4d70d928.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Notausgang Treppe",
+  "setter": "Tarekrobrahn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3c3400e4b4e74337a6ee11b51d6cde6c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1145r12p1195r13p1232r13p1283r13p1337r13p1357r13p1371r13p1394r14p1461r15p1505r15p1553r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8567ceb7153f49f5c35bdd7e90a96b614a0fde762296ed9674b8db414be508b5",
+  "validation_errors": []
+}

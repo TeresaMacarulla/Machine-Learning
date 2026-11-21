@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8c9f428fbd87c7dc2ccc097c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Warm Up Tension",
+  "setter": "gvimpe",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "8E1B033AB9754049AA8069FA6E6E2722",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1163r12p1195r12p1218r15p1246r13p1296r13p1299r13p1300r13p1353r13p1387r14p1465r15p1485r15p1495r15p1501r15p1540r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 16,
+  "quality_average": 3.5,
+  "hold_fingerprint": "0f7b2e1824348f06f6872dc52ddab0661d8977bac4f7a76d5ca3e29669641ba1",
+  "validation_errors": []
+}

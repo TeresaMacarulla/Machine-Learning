@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e2d70facb3ba5e1eb5f0c7da.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Catch the Jug",
+  "setter": "Dave_Ceciliano",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "a9631fd17d6947a7b942938a80020518",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1142r12p1143r12p1194r13p1215r15p1243r13p1245r13p1283r13p1331r13p1387r14p1460r15p1501r15p1512r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "98ecc6fca7b51422b512545849154223438aa50dd225d14651aeb24400861a20",
+  "validation_errors": []
+}

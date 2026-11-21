@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_444dc55feff20263bf226d82.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "patisstim",
+  "setter": "tim140",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "b2711fb326cc488889d4567b22df2cb3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1189r12p1197r15p1204r12p1217r13p1271r13p1282r13p1334r13p1368r13p1390r14p1472r15p1482r15p1487r15p1529r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 22,
+  "quality_average": 3.76,
+  "hold_fingerprint": "35d2bd517c34ddacfd0150576a4f07ca4293095847fe9e9f186e4c293ea9a12f",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aa93fd3e8f25c5529bad6164.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "TBNK #2",
+  "setter": "benmwilder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "230ACD3325304F22970870B775C09185",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1140r12p1170r12p1185r13p1238r13p1264r13p1269r13p1318r13p1385r14p1387r14p1479r15p1503r15p1532r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "c35b3ce5be87dc15b69e1fe2e0d138beb29757f19ae226c072e9411e3899209b",
+  "validation_errors": []
+}

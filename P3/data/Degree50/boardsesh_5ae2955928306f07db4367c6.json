@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5ae2955928306f07db4367c6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "DBOOM",
+  "setter": "grockim",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 0,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5FF8AC2BD78D40588304235F66CB015B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1218r12p1234r12p1353r14p1479r15p1495r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "a460e2c50834b34c417ea0f3d82e6b2d9f9c649b797e4e16334a44a64acf4adf",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a65f82e11dab375594445d8a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "miun campus only",
+  "setter": "ohade",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "BADC20C47E5343CDB0E1E04F0DF33EE7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1231r12p1234r12p1237r13p1239r13p1257r13p1289r13p1324r13p1356r13p1390r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "5ead16de5217e34c784dccdb75d37ee64c49b065bf9fdaa129878d93070c0972",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3a5a1ffd5038e0c3a20f8a32.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Trollpopel",
+  "setter": "Fluxgen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7354f8e2-e3e6-4173-aced-5a1e5a84ab43",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1180r12p1503r12p1474r15p1484r15p1230r13p1250r13p1283r13p1548r15p1352r13p1373r13p1391r14p1321r13p1505r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "ae4c64e83bbf95e616f23cf5955fa29749efd055806fc5f74f55eede025bbb39",
+  "validation_errors": []
+}

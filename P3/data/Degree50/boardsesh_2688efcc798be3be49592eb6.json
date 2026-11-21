@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2688efcc798be3be49592eb6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "shoot un ministre",
+  "setter": "la_Mass",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "6dcfddf62ad142d9a7ae97c569b53f67",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1155r12p1217r13p1225r12p1266r13p1271r13p1352r13p1370r13p1376r14p1478r15p1486r15p1496r15p1554r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 6,
+  "quality_average": 4.0,
+  "hold_fingerprint": "d05d6d03590c7f9421d89fd50a71781402ea395b2448b144218a4d4be0a0f7f2",
+  "validation_errors": []
+}

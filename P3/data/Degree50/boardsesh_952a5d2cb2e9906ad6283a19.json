@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_952a5d2cb2e9906ad6283a19.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Centripetal Force",
+  "setter": "NGS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1E5CBDB0543E4012861E07B1CD388FC1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1207r12p1239r13p1267r13p1269r13p1273r15p1370r13p1373r13p1395r14p1500r15p1516r12",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.8,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "92beebc415ae417ea84a2f1b94babf12dff8a4d71b04728d67b892e1fe4937a0",
+  "validation_errors": []
+}

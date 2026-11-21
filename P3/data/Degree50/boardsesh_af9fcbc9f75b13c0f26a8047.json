@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_af9fcbc9f75b13c0f26a8047.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "elevation sickness",
+  "setter": "notmk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "596E4321D35D46B895A6BAFB2BACD2AB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1102r15p1149r12p1189r13p1235r13p1272r13p1338r15p1340r13p1395r14p1456r15p1508r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "0ef01e118ecb266e6d85697d26cbc9171bc870ff45be0470c5d8d0632f41a268",
+  "validation_errors": []
+}

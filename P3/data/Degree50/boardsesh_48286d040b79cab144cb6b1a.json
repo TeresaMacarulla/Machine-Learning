@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_48286d040b79cab144cb6b1a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Megatations",
+  "setter": "Aboudi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "E950BD4AE72F441798266FB50A5AE661",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1170r15p1191r15p1222r13p1228r12p1232r13p1248r13p1254r13p1273r13p1308r13p1361r13p1392r14p1557r12",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4e70d60d1f7cf8215099df039f10ff73eec14104f55e7533cd7561ecea847479",
+  "validation_errors": []
+}

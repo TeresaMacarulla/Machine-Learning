@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c875d46b8c5e7467ffdb7b42.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Jib",
+  "setter": "RobinDonders",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "55608130951347E4B3A2AD5523A1CD4F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1124r12p1143r12p1228r13p1250r13p1268r13p1352r13p1382r14p1514r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "cf9726f5f078e0dc6821d7972600fd802f9abd37be4b52975f6cfd0ad47f662a",
+  "validation_errors": []
+}

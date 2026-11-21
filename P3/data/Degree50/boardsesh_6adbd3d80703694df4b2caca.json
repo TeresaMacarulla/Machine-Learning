@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6adbd3d80703694df4b2caca.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "drg campus",
+  "setter": "michl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "21e140a8-e96b-4f01-b9be-92fc705f5993",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1218r12p1269r13p1301r13p1337r13p1368r13p1389r14p1390r14p1534r12",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 2.5,
+  "hold_fingerprint": "bfd4e309206f03fd9bd391a0fafe8ed4f52493b583b10223e367e4b910f7a148",
+  "validation_errors": []
+}

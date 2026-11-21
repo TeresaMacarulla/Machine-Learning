@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ab8423e200c1b6551202dfab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "side slinger",
+  "setter": "E.2.d.2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "F7EAE232CFA746898ABD35F725B3C93A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r15p1144r12p1163r12p1231r13p1266r13p1283r13p1286r13p1334r13p1388r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.55,
+  "hold_fingerprint": "9a85a5aed9684534c38a86ab37641459d27fc6c9dacdac895027a2e4447ac7e7",
+  "validation_errors": []
+}

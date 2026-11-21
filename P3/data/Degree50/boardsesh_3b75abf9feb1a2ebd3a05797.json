@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3b75abf9feb1a2ebd3a05797.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Brunt work",
+  "setter": "zschaw",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "A22659706D48438A92624FF132A73E6F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1125r12p1197r12p1230r13p1267r13p1316r13p1387r14p1476r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "08e7516b2b94d25905db3f37d621cb4cc008844507dab31b29d27c5f1aa3ed16",
+  "validation_errors": []
+}

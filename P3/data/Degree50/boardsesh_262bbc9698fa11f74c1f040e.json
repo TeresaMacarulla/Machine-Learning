@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_262bbc9698fa11f74c1f040e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "BURP",
+  "setter": "lfoub",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "c28d0c8f-4912-44bb-99dc-4c2c853254f6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1167r12p1097r15p1479r15p1301r13p1250r13p1521r15p1544r15p1339r13p1357r13p1394r14p1321r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 7,
+  "quality_average": 4.857142857142857,
+  "hold_fingerprint": "729a5045cbbbb78615930c7bcaa01a063e976c129efa6891e43e566b3b2e51c5",
+  "validation_errors": []
+}

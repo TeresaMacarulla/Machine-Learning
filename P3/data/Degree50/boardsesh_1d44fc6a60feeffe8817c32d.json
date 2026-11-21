@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1d44fc6a60feeffe8817c32d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Belay On??",
+  "setter": "HunterG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "02B674E9C66240E3A527A47CC30CCB4F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1204r15p1234r12p1269r13p1278r15p1300r13p1350r13p1379r14p1382r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a9b38ae79775241ecc723f883dfb672d8d0711734267bdea9a97a9027f1f60af",
+  "validation_errors": []
+}

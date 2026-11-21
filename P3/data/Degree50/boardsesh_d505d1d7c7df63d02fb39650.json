@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d505d1d7c7df63d02fb39650.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "pupillometry",
+  "setter": "MDNunez",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9005fa03-8bcf-4583-b6b1-8ac3bd194e66",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1223r12p1480r15p1255r13p1509r15p1308r13p1516r15p1340r13p1553r15p1377r14p1392r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.19,
+  "ascensionist_count": 41,
+  "quality_average": 3.5,
+  "hold_fingerprint": "51f795afc42a730279fe4c9ac5256f3ebfe7ae64ead3982ccd6599e589110815",
+  "validation_errors": []
+}

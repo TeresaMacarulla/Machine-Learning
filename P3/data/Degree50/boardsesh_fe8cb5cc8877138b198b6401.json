@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fe8cb5cc8877138b198b6401.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "undercut",
+  "setter": "aaronkebb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "bdf7b0fd-7b2a-421b-a7be-18b111d8b30f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1268r13p1234r13p1317r13p1168r13p1185r13p1155r12p1451r15p1118r15p1516r15p1336r13p1385r14p1218r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.22,
+  "ascensionist_count": 17,
+  "quality_average": 4.22,
+  "hold_fingerprint": "9f351d78aa8ef28b49ac153da0dec186a5b8f53029a2f737c94bde48648d636d",
+  "validation_errors": []
+}

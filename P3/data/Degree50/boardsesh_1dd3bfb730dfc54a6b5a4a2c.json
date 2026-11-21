@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1dd3bfb730dfc54a6b5a4a2c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "Amalgam",
+  "setter": "jaames_climbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "B97ECF9BDEC248BDA1759D1B4AA8886D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r15p1160r12p1185r13p1232r13p1254r13p1290r13p1358r13p1363r14p1385r13p1389r13p1483r15p1536r15",
+  "display_difficulty": 30.0,
+  "difficulty_average": 29.97,
+  "ascensionist_count": 35,
+  "quality_average": 3.09,
+  "hold_fingerprint": "f3c952cc6b48d50e8a66dd7e5edbd8be50f50fa1c15a00163f7a16c3fafa9dcf",
+  "validation_errors": []
+}

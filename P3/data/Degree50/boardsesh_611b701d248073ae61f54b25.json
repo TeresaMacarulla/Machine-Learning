@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_611b701d248073ae61f54b25.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Pucker your lips like this",
+  "setter": "ketch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "e1502a47-f9b7-4b77-92ff-288267bb5941",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1130r15p1231r13p1267r13p1281r13p1218r15p1353r13p1382r14p1383r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 4,
+  "quality_average": null,
+  "hold_fingerprint": "fef9e58aaf944a1cab813731a551a90b8d2d55c1b1ac2dea9b9528235d10b0cc",
+  "validation_errors": []
+}

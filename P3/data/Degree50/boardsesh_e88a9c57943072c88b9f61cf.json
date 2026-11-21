@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e88a9c57943072c88b9f61cf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "EMR 3",
+  "setter": "eroll",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "43e94b162f3d4cb5ae708a81647793e3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1181r15p1220r13p1255r13p1321r13p1357r13p1387r14p1453r15p1471r15p1576r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.75,
+  "hold_fingerprint": "c221c5a9751ffe05f1d230c4785211e05992f419e55857cd5f135e27063795d2",
+  "validation_errors": []
+}

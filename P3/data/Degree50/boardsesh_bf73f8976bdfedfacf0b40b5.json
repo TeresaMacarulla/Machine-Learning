@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bf73f8976bdfedfacf0b40b5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Lola Bug",
+  "setter": "dbarks",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "D5387A9334B34788972D3160463AF442",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1147r12p1153r12p1253r13p1322r13p1335r13p1352r13p1383r14p1488r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.4,
+  "hold_fingerprint": "a84b4a3bdfd8e1e6c495d7fa16d0ac09d36fbeb2bc23564c9182449d35c3212c",
+  "validation_errors": []
+}

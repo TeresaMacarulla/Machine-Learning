@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5f30ab82753dd801eaf0646e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "shoulder physio",
+  "setter": "boulderhannes",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "35F550667E1C4DA7BC316672E0C57EA1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1220r15p1223r12p1269r13p1270r13p1282r13p1312r13p1315r13p1379r14p1472r15p1482r15p1495r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "93f31c20b7c01075271f178a3f635f088cd8dd2ed1745dff7dc82280a70d6849",
+  "validation_errors": []
+}

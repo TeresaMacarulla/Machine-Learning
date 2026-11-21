@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6efa184cd7357a561c39c0d4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "wonky hands",
+  "setter": "dewaranch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "93c5e7687c0e4e95ac9b81d1a25d085c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1122r12p1153r13p1204r13p1236r13p1240r13p1307r13p1325r13p1339r13p1392r14p1447r15p1453r15p1490r15p1496r15p1517r15p1543r15p1554r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.0,
+  "hold_fingerprint": "827d6452076f311f62e2e4f5e6f1c7e873ec55033d8d12644bcc35f113022441",
+  "validation_errors": []
+}

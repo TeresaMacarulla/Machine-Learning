@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c6c4dcb4b5ed13ef25bb48eb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Zamba 2.0 (short kickboard start)",
+  "setter": "Towns",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "b8361c8d1f0b474dbbb11327c635e7e4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r15p1137r12p1184r12p1269r13p1334r13p1352r13p1382r14p1452r15p1456r15p1506r15p1539r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.67,
+  "hold_fingerprint": "108a01d2d0f80aa12ba4c3599fdd19a1447d766ea9501feb3eae9adacf6f8b58",
+  "validation_errors": []
+}

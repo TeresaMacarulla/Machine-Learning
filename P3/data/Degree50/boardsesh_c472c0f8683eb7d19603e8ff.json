@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c472c0f8683eb7d19603e8ff.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "ezupp",
+  "setter": "knucklesadt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "81c6ded9875d4e4f80d05bf426395544",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1150r15p1169r13p1190r13p1231r15p1236r13p1237r13p1284r13p1306r13p1353r13p1388r14p1453r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f0bf474d07b1ac2c70d3cdecf764b78a7ecb0b6277b1d2ce9b339ce6aa0c419a",
+  "validation_errors": []
+}

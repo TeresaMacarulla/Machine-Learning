@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bd289895abfdca6121915b5a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Dragon's Kata",
+  "setter": "climbing_ryu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "74d08f2eab5943f0b959d99f999e0878",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1173r12p1222r13p1241r13p1306r13p1323r13p1335r13p1351r13p1380r14p1500r15p1547r15p1553r15p1570r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.11,
+  "ascensionist_count": 9,
+  "quality_average": 3.22,
+  "hold_fingerprint": "6fa366c97c938c180ed6c3a0a4aecfe10d86951fc92ab15362a418b9aa883767",
+  "validation_errors": []
+}

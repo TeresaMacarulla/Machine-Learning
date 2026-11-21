@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ac0705f65189cf488a1f6cdc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Genu",
+  "setter": "Laspartuu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "FA2CF943DCF743E5AF0710E12E1DD3E9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1085r15p1127r12p1159r12p1179r13p1228r13p1232r13p1283r13p1287r13p1321r13p1325r13p1393r14p1526r15p1534r15p1545r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e8ce3878208743bcd8cef1abf3262387455c9b09b128ffb960361ad7736b766b",
+  "validation_errors": []
+}

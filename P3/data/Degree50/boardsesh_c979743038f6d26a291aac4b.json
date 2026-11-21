@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c979743038f6d26a291aac4b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "juliko 20",
+  "setter": "Juliko20",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "BC3EBE30DEAA4B7E8EF67D462300DC42",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1186r13p1216r13p1254r13p1267r13p1287r13p1371r14p1455r15p1459r15p1478r12p1495r15p1514r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "794e7cbdf7762d4d52665b6c9a8f9fa5aee97a94304ddc38b96d4e237fb3c626",
+  "validation_errors": []
+}

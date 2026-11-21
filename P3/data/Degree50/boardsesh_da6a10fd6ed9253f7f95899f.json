@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_da6a10fd6ed9253f7f95899f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Maxwell Boltzmann",
+  "setter": "aberickhuss1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "F008703C5961408F8A85BC831C928B75",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1160r12p1163r12p1247r13p1286r13p1302r13p1306r13p1359r13p1395r14p1458r15p1461r15p1514r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 17,
+  "quality_average": 3.38,
+  "hold_fingerprint": "e00054e2c6b3b39c3255d36af6e4cc695bacb97884a465d6fa018438969fa0bd",
+  "validation_errors": []
+}

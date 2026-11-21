@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_81b168ee4fbce8d25fb7c91f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Olkap\u00e4\u00e4ss\u00e4 ottaa",
+  "setter": "Toivo8a",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "E9AC3F5372B343F4A8C827F795CDF275",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1177r12p1226r12p1279r13p1331r13p1336r13p1354r13p1391r14p1465r15p1519r15p1548r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "c3100e447aec60db49b73212bf80611dad4613057c79f0185d899564173330ad",
+  "validation_errors": []
+}

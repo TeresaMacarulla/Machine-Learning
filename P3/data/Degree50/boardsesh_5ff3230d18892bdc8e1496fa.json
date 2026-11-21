@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5ff3230d18892bdc8e1496fa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "frame mogged",
+  "setter": "preston0408",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 18
+  },
+  "source": "boardsesh",
+  "source_uuid": "2816D5CFE0D946EE95F55BCD97EC521C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r12p1180r12p1217r13p1270r13p1321r15p1322r13p1323r15p1325r13p1338r15p1340r15p1343r15p1355r15p1356r15p1357r15p1372r14p1378r15p1389r15p1390r15p1391r15p1393r15p1394r15p1395r15p1497r15p1550r13p1554r15p1599r15",
+  "display_difficulty": 30.0,
+  "difficulty_average": 29.67,
+  "ascensionist_count": 3,
+  "quality_average": 3.33,
+  "hold_fingerprint": "7ec94872861460a4f3d48f694be7ac7e7618d9bdecbecdb3e339a73e530c12fe",
+  "validation_errors": []
+}

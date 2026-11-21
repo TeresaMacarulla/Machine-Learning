@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7521f74f1c788882c3dc5cec.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Aragon",
+  "setter": "importedbean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "5AEF4701AAF042BBA13E2255CAD78634",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1214r13p1263r13p1336r13p1383r14p1460r15p1477r15p1510r15p1519r15p1585r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "11900472b2cb36ecc4f5752d9779ce02f78a6f1a394afada9295622de8162766",
+  "validation_errors": []
+}

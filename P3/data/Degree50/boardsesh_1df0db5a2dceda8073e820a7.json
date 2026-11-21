@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1df0db5a2dceda8073e820a7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "gnx",
+  "setter": "Yahtzii",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "95D1516FAC264082A9B9E9BEABD936C3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1251r13p1281r13p1353r13p1391r14p1454r15p1457r15p1468r15p1478r15p1503r15p1514r15p1570r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7e5f395f92ec8c9124fad045060eb9b1ec4cb2b3244668a26f7be38edb96b75f",
+  "validation_errors": []
+}

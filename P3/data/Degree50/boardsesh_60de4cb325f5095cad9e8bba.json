@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_60de4cb325f5095cad9e8bba.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "50 up #4",
+  "setter": "isaiah.kottke",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "ad65aa4b-6f59-41f0-8a11-d4ae899f4bb4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1458r15p1088r15p1213r13p1302r13p1250r13p1357r13p1391r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.14,
+  "ascensionist_count": 7,
+  "quality_average": 4.0,
+  "hold_fingerprint": "9e25944a6fa0d7ee9f705577e26bb1633390e28ebba94434128ecf49329b09fe",
+  "validation_errors": []
+}

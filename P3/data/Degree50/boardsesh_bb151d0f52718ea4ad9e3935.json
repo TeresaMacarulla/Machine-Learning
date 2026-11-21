@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bb151d0f52718ea4ad9e3935.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "dunks on deck",
+  "setter": "bergondy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E8E2671995AF41EAB25FB8F3C9A2F2E3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1090r15p1130r15p1177r12p1178r12p1227r13p1249r13p1267r13p1316r14p1484r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b638f3338010eceb35920b7c2a590ff4fc4453ac8ad78f999824e0cfa024c2a5",
+  "validation_errors": []
+}

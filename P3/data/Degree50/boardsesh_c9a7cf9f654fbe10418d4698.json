@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c9a7cf9f654fbe10418d4698.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Tension board",
+  "setter": "mxtl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "acec1a22-39a6-4c9d-90cb-4f546dd181ad",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1272r13p1217r13p1189r12p1202r13p1155r12p1500r15p1473r15p1518r15p1265r13p1552r15p1318r13p1329r13p1379r14p1505r15p1286r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e1f863ea43e926c38ab98887b04697ad5b3f48b11d63fa4c9e45a8afe52744e6",
+  "validation_errors": []
+}

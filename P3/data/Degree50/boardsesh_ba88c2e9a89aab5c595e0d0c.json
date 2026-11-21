@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ba88c2e9a89aab5c595e0d0c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "double hand campus dyno",
+  "setter": "big_G",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "4ec4a0cc-e8b4-439d-8f55-2f679fc2bad5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1306r13p1372r14p1389r14p1299r13p1279r12p1302r12p1300r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 1,
+  "quality_average": null,
+  "hold_fingerprint": "432bcd3322f2dedd146db36185b43e1954708ffdf0b843eda0ffd03676539654",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4ca7f3cd72d529ea4614c7b9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "rustiekje",
+  "setter": "thijs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "E0763BBA6AFE41D18341EB7AFD3B65A9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1112r12p1177r12p1228r15p1233r13p1318r13p1350r13p1390r14p1474r15p1539r13p1576r13",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "0a0fbef0472a284281645709eb6ac2aff6130a7aabf3c51611a8a65d08f09f70",
+  "validation_errors": []
+}

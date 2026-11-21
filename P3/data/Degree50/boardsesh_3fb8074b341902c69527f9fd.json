@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3fb8074b341902c69527f9fd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "zamagama",
+  "setter": "zupon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "c1d57719885441bc9e45abdeece7580c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r13p1109r12p1143r13p1192r13p1249r13p1261r13p1265r13p1294r13p1347r13p1380r14p1477r15p1504r15p1555r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a99b950cc0b765ec43ac694e68994fee9bbd2ac0268f988ccc47158c3f4fc04b",
+  "validation_errors": []
+}

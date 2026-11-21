@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bfe957bac2234d136c92d739.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "June #2",
+  "setter": "Fac.hri",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "fbec1749-cd9c-4406-950e-63f61b1d4f92",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1222r12p1204r12p1478r15p1469r15p1494r15p1511r15p1199r13p1250r13p1280r13p1349r13p1547r15p1384r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.44,
+  "ascensionist_count": 10,
+  "quality_average": 4.44,
+  "hold_fingerprint": "1101a0d1aef82d72131622eca489e7da2049fdeeaa567cfe1f3acc89bb22f3d9",
+  "validation_errors": []
+}

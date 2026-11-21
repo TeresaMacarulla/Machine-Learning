@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bbf60df7155ed8fd44f4d7d0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "warm jar",
+  "setter": "JFlood1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "f5a116c9-07d1-4a8e-afc8-528c85197062",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1149r12p1181r13p1457r15p1218r13p1219r13p1255r13p1151r15p1286r13p1302r13p1200r15p1334r13p1387r14p1250r15p1096r15p1471r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.25,
+  "ascensionist_count": 8,
+  "quality_average": 2.75,
+  "hold_fingerprint": "8a7266ba6d2b03683ca0bbc84277efecad7ef93ccb0bb1234ec6d30b1b3196c3",
+  "validation_errors": []
+}

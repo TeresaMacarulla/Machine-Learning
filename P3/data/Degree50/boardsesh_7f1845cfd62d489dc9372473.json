@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7f1845cfd62d489dc9372473.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "500 or Bust",
+  "setter": "GirthQuake",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "76A522D975054D2B80216B77EB974DE1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1166r15p1170r12p1187r13p1255r13p1271r13p1283r13p1285r13p1314r13p1383r14p1491r15p1503r15p1514r15p1531r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 20,
+  "quality_average": 3.53,
+  "hold_fingerprint": "6cd7fc319094bcb8f9da79ebc2959c6bdbedada1f376a22b27a64ded20eb2e9b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_56325100c81743d466e6dd6e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Gaia 2.0",
+  "setter": "AMorris",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "282E7F0C002A4C35B9A629BC09D46544",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1250r13p1281r13p1351r13p1369r13p1389r14p1454r15p1497r15p1514r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 32,
+  "quality_average": 3.45,
+  "hold_fingerprint": "22c204089ff05ba865ebec43912b35f7f7755acb51a0e3ac37ca222f97287844",
+  "validation_errors": []
+}

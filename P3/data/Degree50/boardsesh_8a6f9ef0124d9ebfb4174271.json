@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8a6f9ef0124d9ebfb4174271.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "sho/1",
+  "setter": "shiguchi1215",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "4C47B52807154C15880C824262955B17",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1137r12p1188r13p1201r13p1215r13p1253r13p1294r13p1300r13p1379r14p1450r15p1487r15p1521r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 2.0,
+  "hold_fingerprint": "861db517330e1d9ccd1d74676d3cbaed1134e0fcf165bd8bfc350dccac44bbc3",
+  "validation_errors": []
+}

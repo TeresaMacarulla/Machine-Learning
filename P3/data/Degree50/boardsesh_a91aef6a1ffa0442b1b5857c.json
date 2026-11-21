@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a91aef6a1ffa0442b1b5857c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "pinch left ",
+  "setter": "pd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "3ff28ab1-b317-40c8-81df-1f0c7731984c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1461r15p1459r15p1216r13p1196r13p1228r13p1096r15p1092r15p1246r13p1295r13p1332r13p1345r13p1379r14p1519r15p1181r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 3,
+  "quality_average": null,
+  "hold_fingerprint": "a41583fc329d9f9dbf1fbf03af1c56a0a758e59ac682fdbedb90f3af55414b63",
+  "validation_errors": []
+}

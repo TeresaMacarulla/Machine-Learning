@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e6a00c3b19ffd6c08f56f49a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "How, hi are you?",
+  "setter": "chrisontheboard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2E3BDA2BF7154AF5AA2AD9FC1A600E51",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r12p1214r13p1217r13p1286r13p1290r13p1358r13p1391r14p1466r15p1488r15p1503r12p1535r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.92,
+  "ascensionist_count": 13,
+  "quality_average": 2.77,
+  "hold_fingerprint": "dee380dcb50cce8268b608f4b074176e8c66aaea4b762187772f82ab7061637f",
+  "validation_errors": []
+}

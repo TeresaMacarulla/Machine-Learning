@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7bdc099368ecdebede32f485.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "hophop",
+  "setter": "tristan1216",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "6449C700B3174E8B97A982F4EF6C7024",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1082r15p1142r15p1152r15p1166r12p1167r12p1212r15p1234r13p1247r13p1300r13p1331r13p1348r13p1380r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.14,
+  "ascensionist_count": 22,
+  "quality_average": 3.32,
+  "hold_fingerprint": "c87a514fc3bc5c4020ffd1db999c825dc5e36c7322516ef3301e3f2f689c46e1",
+  "validation_errors": []
+}

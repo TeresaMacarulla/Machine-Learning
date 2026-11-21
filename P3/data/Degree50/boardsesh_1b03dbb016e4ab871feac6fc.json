@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1b03dbb016e4ab871feac6fc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Calentar #6",
+  "setter": "scro",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FF7E2283B1484DE1A087CB13C2C305E9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1131r15p1161r12p1162r12p1212r13p1219r15p1249r13p1271r15p1300r13p1354r13p1388r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.09,
+  "ascensionist_count": 11,
+  "quality_average": 3.36,
+  "hold_fingerprint": "83936f0bd749555fdcf83b499d2187f82ff2fefe30a81b23c168e65493e97a28",
+  "validation_errors": []
+}

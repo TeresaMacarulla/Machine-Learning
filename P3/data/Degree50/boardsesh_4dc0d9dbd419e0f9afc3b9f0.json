@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4dc0d9dbd419e0f9afc3b9f0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "plastic swing",
+  "setter": "bigjerm",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "75E0BA37741842D1B98A15F5B4367861",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1203r12p1250r13p1267r13p1332r13p1386r14p1472r15p1521r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "78e495b64ea0385f5cb504b8d0556a3620dd52822bf098391d4f2ec62193a6cc",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c8ba884e62f75422da760681.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Unarmed robbery",
+  "setter": "BLpat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7896cff745374c16a78923052c4ebf79",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1160r15p1180r12p1187r12p1233r13p1266r13p1277r13p1330r13p1368r14p1497r15p1564r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.75,
+  "ascensionist_count": 4,
+  "quality_average": 2.25,
+  "hold_fingerprint": "d8b1648877878d256e2a9d602da9bd2a6e23e6979170b8610d98c8aa32f050f8",
+  "validation_errors": []
+}

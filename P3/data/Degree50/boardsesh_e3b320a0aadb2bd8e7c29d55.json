@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e3b320a0aadb2bd8e7c29d55.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "campus x3",
+  "setter": "hellarad",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 19,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "D9C2A9E7153E40399FFD101CEFCE4A75",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1192r15p1194r15p1221r14p1223r14p1232r15p1234r15p1239r15p1240r15p1243r13p1255r12p1257r12p1262r13p1267r13p1269r13p1294r13p1302r13p1306r13p1308r13p1317r13p1340r13p1347r13p1353r13p1359r13p1369r13p1380r13p1381r13p1387r13p1391r13p1394r13",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "33ecad34bd2b6698ee392da52b8df794fc31abb26d2985b8ecd49391faa83d2f",
+  "validation_errors": []
+}

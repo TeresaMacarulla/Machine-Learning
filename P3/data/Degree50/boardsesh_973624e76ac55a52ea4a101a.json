@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_973624e76ac55a52ea4a101a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "ilosiid",
+  "setter": "Eli_Climbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "D131DDB68F5C46E7ACA963F83D48F50C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1119r12p1148r12p1217r13p1238r13p1320r13p1387r14p1454r15p1457r15p1471r15p1498r15p1506r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.86,
+  "ascensionist_count": 7,
+  "quality_average": 3.86,
+  "hold_fingerprint": "e136a0b024ed1cce2f8628cec5e21f52c856ad2d057347702bfc61c6e269142d",
+  "validation_errors": []
+}

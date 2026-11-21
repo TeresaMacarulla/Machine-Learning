@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_468cb78d5389183d6efb9469.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "shoulders for breakfast",
+  "setter": "johnbuyt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "0f98f32d-16cf-4d59-aacc-45f617d493af",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1210r12p1215r15p1263r13p1349r13p1387r13p1390r13p1392r14p1196r12p1278r13p1299r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.44,
+  "ascensionist_count": 10,
+  "quality_average": 3.56,
+  "hold_fingerprint": "070f2c4ca6ac0a90b7dcfc5e70f5e11280871f736884897e00dd12db59d6a5dc",
+  "validation_errors": []
+}

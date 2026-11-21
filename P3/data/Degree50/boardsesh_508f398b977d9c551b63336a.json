@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_508f398b977d9c551b63336a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Left shoulder testpiece",
+  "setter": "fdatri",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6e24d56d2a8447f9b86e0920d6589a0d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1189r12p1272r13p1325r13p1389r14p1472r15p1482r15p1509r15p1544r15p1553r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.67,
+  "ascensionist_count": 9,
+  "quality_average": 3.56,
+  "hold_fingerprint": "cb5756f55f4c70fc9ea49970f65855be96d25e2707fea8ae73b746dba213b669",
+  "validation_errors": []
+}

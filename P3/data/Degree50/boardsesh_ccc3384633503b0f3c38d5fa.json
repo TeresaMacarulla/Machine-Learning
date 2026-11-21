@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ccc3384633503b0f3c38d5fa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Walking Baloo",
+  "setter": "chalkchaser",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "c8562626601948a7a8c8371e02d8b8a3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1149r12p1151r15p1234r13p1237r15p1267r15p1268r13p1319r13p1354r13p1387r14p1470r15p1513r15p1515r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ebaf6721e1533c992126079c2b248923ba7e602184e4c690b1bcad0d9b3ee775",
+  "validation_errors": []
+}

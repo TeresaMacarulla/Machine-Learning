@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_820112a827dcd57814138879.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Pinch-Pinch",
+  "setter": "putswirinok",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6573B089AC694CF7805A376CCCB36803",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1143r12p1196r13p1209r13p1216r13p1218r15p1229r13p1300r13p1317r13p1338r13p1387r14p1461r15p1502r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "88825bc70e24a46cda90334cca9d5f250f7dd8a477b397c4d7ef3a4872254ae2",
+  "validation_errors": []
+}

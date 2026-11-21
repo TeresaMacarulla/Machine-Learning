@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cbf292f5112d99d64b6b3222.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Engage those toes",
+  "setter": "adair1902",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "308b4cd1d35e4e2d8eae6ef340cda23f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1215r13p1269r13p1299r13p1338r13p1371r13p1391r14p1457r15p1459r15p1494r15p1521r15p1542r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.67,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "31e825ae42e91d11d4cedeb897ac3a326549a200a3f0ffafd23fab812e8f14ba",
+  "validation_errors": []
+}

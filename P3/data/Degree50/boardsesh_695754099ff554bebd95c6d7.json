@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_695754099ff554bebd95c6d7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Shaker dyno",
+  "setter": "y9oq81al",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "f697fa068d484e43b26a0f2eea8e8191",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1110r15p1163r12p1180r12p1233r13p1267r13p1270r13p1387r14p1389r14p1514r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "dc4d96dfd278a580208ded6899a6bc6b58e8441ba015dfb1174708eab3c1ae6f",
+  "validation_errors": []
+}

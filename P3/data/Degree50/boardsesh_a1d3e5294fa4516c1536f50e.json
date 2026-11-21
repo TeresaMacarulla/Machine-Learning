@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a1d3e5294fa4516c1536f50e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "New Gen",
+  "setter": "jdubclimb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "544CF46DF5104BB8A6A5411384B92BB0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1186r12p1191r12p1211r15p1271r13p1295r13p1318r13p1352r13p1379r14p1507r15p1552r15",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "1d1ffcfd62aee2b626f878e80d2184207c3119936b27c38eb89bc50d3a4be6c4",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ce94103a357bb05b28ae2407.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Taco Bell",
+  "setter": "Grinchman69",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8d5b0d8cafec4f028a364016c9ea0569",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1147r12p1166r12p1187r15p1219r13p1234r13p1284r13p1287r13p1337r13p1350r13p1386r14p1456r15p1459r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.95,
+  "ascensionist_count": 102,
+  "quality_average": 3.2,
+  "hold_fingerprint": "97b1aa174e12b8bb0f55563f29b20814abc8c5159ee27648b4dbe02175c358ea",
+  "validation_errors": []
+}

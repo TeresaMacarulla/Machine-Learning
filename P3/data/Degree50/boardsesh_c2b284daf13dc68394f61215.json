@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c2b284daf13dc68394f61215.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "V3 will test thee",
+  "setter": "EMPA",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "CCD8FDCD75A842E0BD217BE414A72F0A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r15p1178r15p1246r12p1260r12p1281r13p1294r13p1379r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 16,
+  "quality_average": 3.29,
+  "hold_fingerprint": "3f46593dd5e5586574730128cb98aafc2dd00eb3e26077219f774d9210e9c0ad",
+  "validation_errors": []
+}

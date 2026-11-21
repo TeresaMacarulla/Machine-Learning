@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_80a9d79fe8d03e95043851f9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Bolt Thrower",
+  "setter": "1416",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "228A9E6C3813421BB7B86D49C3F2C745",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1171r12p1174r12p1221r13p1276r13p1305r13p1394r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "deaf9e05eea6ee4927992ff4d43692910370f68edb2c731d4c641f48502acdbf",
+  "validation_errors": []
+}

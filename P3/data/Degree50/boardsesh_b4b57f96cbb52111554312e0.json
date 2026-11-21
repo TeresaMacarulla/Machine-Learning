@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b4b57f96cbb52111554312e0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "The power of my right arm",
+  "setter": "NGS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "B1D1201EE39D4D3C945E2FE8328D1473",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1189r12p1212r15p1225r12p1237r13p1283r13p1334r13p1380r14p1473r15p1482r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.08,
+  "ascensionist_count": 14,
+  "quality_average": 3.62,
+  "hold_fingerprint": "3dbd07d36077c51ec38204adedbeda657215e692ccca3dab181b690f32564c22",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1737e6b7b263881668073978.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "GG KI",
+  "setter": "oskar1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "c52bcaa1a0ad40aabcfed5438abb2cba",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1187r12p1257r13p1259r12p1308r13p1340r13p1359r13p1388r14p1391r14p1464r15p1500r15p1536r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 1,
+  "quality_average": 2.0,
+  "hold_fingerprint": "b050971b5d375944d860334f64a388b1a7d6257500ad9e99eac7a8f811c53b88",
+  "validation_errors": []
+}

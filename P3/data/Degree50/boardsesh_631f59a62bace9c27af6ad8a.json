@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_631f59a62bace9c27af6ad8a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "eden shoulders",
+  "setter": "rmnclimber",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "b900c5ef56c14bf5b6f46573f5151959",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1168r12p1198r13p1246r13p1247r13p1297r13p1319r13p1389r14p1391r14p1453r15p1455r15p1519r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "de5e835db85748aca55287ca1b36f1d7199be1aca29aa44fc3aa04bec73eebb2",
+  "validation_errors": []
+}

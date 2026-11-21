@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_638da46a6aa743a0b12b12db.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Compression Ladder Var",
+  "setter": "PJP",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C5A57BB59F0249628189FC7244AB76E7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1119r12p1169r12p1216r13p1238r13p1284r13p1322r13p1334r13p1389r14p1450r15p1454r15p1490r15p1532r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ec2cc765164c89db44058d512461ee5b1277580cf2a09c9ccfe2f978232b08d7",
+  "validation_errors": []
+}

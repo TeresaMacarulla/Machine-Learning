@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6c83d1bf42bc049b83cd4c63.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "starving",
+  "setter": "leemiho2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9ac608cb-955d-41ce-870f-56a6a64c7cfe",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1340r13p1394r14p1359r13p1304r13p1268r13p1215r13p1234r13p1163r12p1126r12p1459r15p1203r15p1259r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.78,
+  "ascensionist_count": 15,
+  "quality_average": 3.33,
+  "hold_fingerprint": "f6083bd105569c95ed63ef08d48bc522380143788037ee4f9a5b35d3f5288f8b",
+  "validation_errors": []
+}

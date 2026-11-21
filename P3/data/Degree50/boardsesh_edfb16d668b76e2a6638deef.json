@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_edfb16d668b76e2a6638deef.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "O faz fomeca",
+  "setter": "AfonsoRodrigues",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0dd3c285-b280-472b-9d58-b4c14e718a98",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1143r12p1461r15p1096r15p1192r13p1245r13p1144r15p1294r13p1347r13p1382r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.67,
+  "ascensionist_count": 8,
+  "quality_average": 4.33,
+  "hold_fingerprint": "5de48d6350f741604a20e52c4afa70579133aaaac1c4c0887cd9d4263ac7f8f3",
+  "validation_errors": []
+}

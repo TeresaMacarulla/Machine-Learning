@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_202d7dcd2ef10089b6446cf9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Das Jugfest",
+  "setter": "thomashochman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "25F0F8DE04CD4358A9F39CB709209446",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1149r12p1236r13p1267r13p1353r13p1382r14p1505r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.33,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "136da00a6ad9829d6092304519481780751838522b1cac02c0127d541a19bd6b",
+  "validation_errors": []
+}

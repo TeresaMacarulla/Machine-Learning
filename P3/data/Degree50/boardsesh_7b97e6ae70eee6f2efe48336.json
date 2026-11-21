@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b97e6ae70eee6f2efe48336.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "a pinch here and a pinch there",
+  "setter": "jeroul",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "5D5013663B2C4BE695B994A5479FE9D6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r15p1163r15p1202r12p1206r15p1216r12p1254r13p1291r13p1305r13p1341r14p1469r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "c8a1a2484afe5309aa35de167a53f29721cd75451bb9bea7699628e904e6fd6f",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_402185bcf661c4a4bbc3bec4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Raspberry Mochi",
+  "setter": "daxxta",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4e18bfa17c404943bfd2769de45b8242",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r12p1148r12p1186r13p1235r13p1301r13p1357r13p1392r14p1456r15p1495r15p1514r15p1543r13p1562r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "a3f870219a3163d36aaf03c8868413182ce3a0a0f29874bac346fc888bc82fba",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b128b5b45eb6a72b37f7c740.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Medium Poppa",
+  "setter": "bennykuttler",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "79EA5B45E1F14BDCB33646F4668383E5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1096r15p1197r12p1212r12p1300r13p1386r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "a5c64e7503c8e4cf083575c182672e6b08c9f974a375494e99b2a02eecae7052",
+  "validation_errors": []
+}

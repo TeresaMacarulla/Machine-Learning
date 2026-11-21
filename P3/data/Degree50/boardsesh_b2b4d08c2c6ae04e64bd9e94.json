@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b2b4d08c2c6ae04e64bd9e94.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "kackboulder soft 123",
+  "setter": "tomtoell",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "692980D99CC14F8E80D391213548829B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1152r12p1223r12p1263r15p1269r13p1273r13p1274r13p1283r13p1286r13p1353r13p1385r14p1389r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5f622f84e9674e4d1a150ae398e801ee510615b48e08bd8497f4a536140cb0b8",
+  "validation_errors": []
+}

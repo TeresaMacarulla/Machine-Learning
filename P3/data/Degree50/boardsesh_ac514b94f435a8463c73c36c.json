@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ac514b94f435a8463c73c36c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Pinch ladder (7B+?)",
+  "setter": "J2Slick",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9b97d70404aa48d1a40051cdb9cb92d3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1093r15p1143r12p1150r15p1228r13p1250r13p1254r13p1283r13p1339r13p1387r14p1504r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.83,
+  "ascensionist_count": 6,
+  "quality_average": 4.0,
+  "hold_fingerprint": "2a22c62ba0c32a8d9805a5cd1924bcb243244e81211da4eea278b97ec74cdcc1",
+  "validation_errors": []
+}

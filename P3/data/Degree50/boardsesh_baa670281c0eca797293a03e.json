@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_baa670281c0eca797293a03e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Goblin Grenade",
+  "setter": "wingings",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "598EBEC53541411FA33A86D9A73A6D88",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1166r12p1200r13p1217r13p1234r13p1268r13p1319r13p1353r13p1385r14p1389r14p1455r15p1456r15p1477r15p1478r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.98,
+  "ascensionist_count": 61,
+  "quality_average": 3.16,
+  "hold_fingerprint": "4b14aa6a62e02bd734ac4eb578d7ede2153f1aded33daa746773670292766d84",
+  "validation_errors": []
+}

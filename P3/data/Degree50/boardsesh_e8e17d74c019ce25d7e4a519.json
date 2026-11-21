@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e8e17d74c019ce25d7e4a519.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Batman vs magneto",
+  "setter": "spyderseb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "D2F2AA640A96461182C58D6493E6A4FB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1111r12p1131r12p1169r15p1180r13p1200r13p1267r13p1305r13p1355r13p1385r14p1456r15p1459r15p1534r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "c0a0887c512e8542ca78f276e24919cb36af33bcca07237d2046e3e7c5868dbc",
+  "validation_errors": []
+}

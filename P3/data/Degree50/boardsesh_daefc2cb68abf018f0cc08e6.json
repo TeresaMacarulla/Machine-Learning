@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_daefc2cb68abf018f0cc08e6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "rounder",
+  "setter": "samtwilson97",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "67C19B9F743F416E8802B5C004A02E87",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1147r12p1188r15p1218r13p1252r13p1303r13p1316r13p1366r13p1380r14p1456r15p1558r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.5,
+  "hold_fingerprint": "575456ab0709b652f662c67c57b01d53ab02ed2ec053f09d3e8e5ce52794da76",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b87334de409e22a539365220.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Boktor",
+  "setter": "nino_smets",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "4fa5807a63a34936bc2defe556c685fb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1145r12p1216r13p1249r13p1287r13p1288r13p1325r13p1375r13p1395r14p1460r15p1516r15p1517r15p1535r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "38b9050f05ceca9d0f17bddbd43d0fc6aff5010aa22d655491524012ce1c7d3d",
+  "validation_errors": []
+}

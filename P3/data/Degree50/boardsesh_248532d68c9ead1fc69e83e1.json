@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_248532d68c9ead1fc69e83e1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "50\u5ea6\u6700\u8f6fV3",
+  "setter": "JinxiongZhou",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8f211fdf84204db38d28718fa217c93e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1169r12p1173r15p1204r12p1257r13p1306r13p1308r13p1356r13p1389r14p1391r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "f58aca47d20e4246d46de15c4232ce8d06b97b182c9e48a77b082cb1b8a0b2e1",
+  "validation_errors": []
+}

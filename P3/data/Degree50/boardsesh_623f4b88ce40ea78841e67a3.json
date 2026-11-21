@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_623f4b88ce40ea78841e67a3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "trumpsgrundle",
+  "setter": "CoastalClimbing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E554660702294613BADD39641C076F50",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1149r12p1242r13p1254r13p1255r13p1322r13p1334r13p1335r13p1381r14p1454r15p1458r15p1555r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.01,
+  "ascensionist_count": 1297,
+  "quality_average": 3.2400000000000007,
+  "hold_fingerprint": "2ba8e30e3ed223da0a7caae10778b197bd8ede0247e4ad4425c8ddecb61b9d32",
+  "validation_errors": []
+}

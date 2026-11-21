@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bf02062e112af06e96dde29d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "rat on a skateboard",
+  "setter": "blob100",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "341991D6A47248C3BFA6D2B33135BCD9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r12p1287r13p1305r13p1374r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c848134546fcd22f3b3833943379767164ee109b7461c7cc3d41b3cefc7b7305",
+  "validation_errors": []
+}

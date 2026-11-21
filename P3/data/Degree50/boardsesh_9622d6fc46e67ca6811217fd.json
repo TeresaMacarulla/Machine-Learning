@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9622d6fc46e67ca6811217fd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "stretch the mag",
+  "setter": "climbing_rox",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "289AAC703AE84AEFAD2DBE1C45C09298",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1180r12p1252r13p1301r13p1372r13p1383r14p1456r15p1570r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "f838972bd6dc05907689a6e7d8155345f9380c80662af24c76b49ca55afb0f5c",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_16cfb623732d6f6559285732.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Bellala A",
+  "setter": "jochill",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "b1a08d5b-6ede-4a27-bac2-069766afdec1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1203r12p1201r12p1165r15p1250r13p1550r13p1264r13p1352r13p1385r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "1fed6c547305e19c744b5b20aba955c17c30747a4cd3ebd5023b2d2a09f59c62",
+  "validation_errors": []
+}

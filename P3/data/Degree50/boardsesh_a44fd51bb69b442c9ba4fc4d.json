@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a44fd51bb69b442c9ba4fc4d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Ascentipede",
+  "setter": "tridan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0137B4C0687C412CA808158011C6523C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1075r15p1155r12p1156r12p1224r13p1242r15p1272r13p1290r13p1352r13p1353r13p1382r14p1482r15p1517r15p1561r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "631d0f48400fbbb7f32a661ab20ee86c1d5411b47188bc5c29dcf1d650bdb26a",
+  "validation_errors": []
+}

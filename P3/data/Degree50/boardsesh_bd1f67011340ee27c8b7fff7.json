@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bd1f67011340ee27c8b7fff7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "ver",
+  "setter": "thijs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "4DFF1F564CDA4D9F91722AFDADC2414A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1199r12p1202r12p1353r13p1393r14p1478r15p1497r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 24,
+  "quality_average": 3.58,
+  "hold_fingerprint": "0d1a457644bfc3f9935dd535e1b784695260d22189c839a1188c5feb5783943b",
+  "validation_errors": []
+}

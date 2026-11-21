@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9cc504a13bb52c61e0dbe564.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Hyper Fang",
+  "setter": "ratclaw",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "4419de2322f44e728174bc3ec5d7feb6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1167r15p1182r15p1203r15p1216r13p1217r13p1227r12p1230r12p1287r13p1290r13p1392r14p1522r15p1524r15p1526r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 31,
+  "quality_average": 3.45,
+  "hold_fingerprint": "73bf845fc3d0b9615891b6237bed74f866d94406d07ffbc6f4131d7e52cf2e44",
+  "validation_errors": []
+}

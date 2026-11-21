@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a086cb5df23bc3c7f2d015be.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "maxi1.0",
+  "setter": "jonibl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "176711245a164ecaadbac6078a32a5e8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1178r12p1249r13p1257r15p1266r13p1272r13p1287r13p1338r13p1387r14p1483r15p1486r12p1517r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6109f0f3c85b7db8d58840bb18e72ca55f2e31281f3b80fc4f0c56f07f0afa41",
+  "validation_errors": []
+}

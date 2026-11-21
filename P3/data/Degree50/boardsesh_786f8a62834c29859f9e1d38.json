@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_786f8a62834c29859f9e1d38.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Eiersatz",
+  "setter": "Florinator",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b88f101e154543bfa7b33f33bb65222b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1184r13p1197r13p1248r13p1278r13p1330r13p1365r13p1368r13p1370r13p1390r14p1454r15p1457r15p1519r15p1570r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "23c6e8aeac4009a9926f19575928ba890c047daf50fa56263c2429d7518fc738",
+  "validation_errors": []
+}

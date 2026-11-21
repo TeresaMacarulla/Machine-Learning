@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d86a5ef453da1bbf1f075757.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "wingardium leviflowsa",
+  "setter": "hwilly",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "572e5266041f453db3ae02f4271d4861",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1151r15p1154r15p1215r12p1236r12p1270r13p1305r13p1336r13p1387r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.09,
+  "ascensionist_count": 60,
+  "quality_average": 3.39,
+  "hold_fingerprint": "9e99b4170c3f6ba2c61bdcc862ff8beb57f561cc37af1920ebbd1b6d778d32f5",
+  "validation_errors": []
+}

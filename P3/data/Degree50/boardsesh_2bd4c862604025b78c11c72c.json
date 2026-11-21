@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2bd4c862604025b78c11c72c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "French bug",
+  "setter": "nikkepikke",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "ACECC1F3676E4240BE4AECF84DE9BF9F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1199r13p1237r13p1303r13p1336r13p1383r14p1460r15p1508r15p1533r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "d0491f1dee2cf112fc8dee20fd4b0bbe53808d808da6557f5721232c2657e880",
+  "validation_errors": []
+}

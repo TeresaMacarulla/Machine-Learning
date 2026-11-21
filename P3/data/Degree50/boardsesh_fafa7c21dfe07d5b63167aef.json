@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fafa7c21dfe07d5b63167aef.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "between v2 and v6",
+  "setter": "nhodder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "e24907ee-1e75-4539-a7cf-6bd61bedc1ec",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1192r12p1143r12p1231r13p1264r13p1195r13p1335r13p1331r13p1382r14p1381r14p1089r15p1107r15p1260r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.67,
+  "ascensionist_count": 3,
+  "quality_average": 4.0,
+  "hold_fingerprint": "825fd4b369492d52123270cfe87129f6d740222f7daffd760c5432322f97a4bb",
+  "validation_errors": []
+}

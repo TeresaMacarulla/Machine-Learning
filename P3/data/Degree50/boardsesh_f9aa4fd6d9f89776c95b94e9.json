@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f9aa4fd6d9f89776c95b94e9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Unique",
+  "setter": "peteio415",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "677341804EEE445B9018F2ED7DDDB0E2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1140r15p1166r12p1222r13p1272r13p1291r13p1337r13p1349r13p1381r14p1498r15p1536r15p1586r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7759564528adc20b32e96e9cc00296e16e70c268a4a7f49cdf7c6e0af106c6ea",
+  "validation_errors": []
+}

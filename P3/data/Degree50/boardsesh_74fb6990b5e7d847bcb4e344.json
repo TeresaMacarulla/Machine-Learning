@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_74fb6990b5e7d847bcb4e344.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "pretty back",
+  "setter": "skilledCOW",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "7DCBA8CD48334C179AC05654FA592251",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1132r12p1170r15p1200r13p1254r13p1271r13p1289r13p1336r13p1389r14p1453r15p1458r15p1469r15p1543r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7e4cb68eced7dbfa34692ce9eb46874ca3009c24fc4417648f3026d25dd09566",
+  "validation_errors": []
+}

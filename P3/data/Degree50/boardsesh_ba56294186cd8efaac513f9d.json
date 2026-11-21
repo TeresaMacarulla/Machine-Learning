@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ba56294186cd8efaac513f9d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "chossy tossy",
+  "setter": "kohenc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "e20b9fa1-c727-4a37-8c73-c441a2531210",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1099r15p1156r15p1202r13p1234r13p1513r15p1485r15p1230r13p1280r13p1347r13p1384r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 10,
+  "quality_average": 4.33,
+  "hold_fingerprint": "3181951d19004251ecba227700623fa4f63513a3b43ecc3db33865c2f2d1d3b2",
+  "validation_errors": []
+}

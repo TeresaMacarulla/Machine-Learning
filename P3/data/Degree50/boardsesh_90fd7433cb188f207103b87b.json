@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_90fd7433cb188f207103b87b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "warm up dem fingers",
+  "setter": "samclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8db85a3b-74f1-4ecb-9340-3671d004ce2d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1191r12p1169r12p1447r15p1257r13p1157r15p1307r13p1355r13p1392r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.2,
+  "ascensionist_count": 8,
+  "quality_average": 3.6,
+  "hold_fingerprint": "32d9d1dadce7a6f8d9c5f320725c372255f2aac153e2d16c64033d32822e376f",
+  "validation_errors": []
+}

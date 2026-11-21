@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3c9d51951d80468911f01054.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "A Dead Man",
+  "setter": "markussleeb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "03765e0c-b727-4a0f-939f-9744d2548de4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1121r12p1499r12p1152r13p1271r13p1453r15p1447r15p1300r13p1237r15p1381r14",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "35cd3cecc6f6ffed12033e6f62c20b759ff585483c91f8005c6244220b8b205c",
+  "validation_errors": []
+}

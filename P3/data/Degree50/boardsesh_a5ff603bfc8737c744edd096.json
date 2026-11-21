@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a5ff603bfc8737c744edd096.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Crazy Hamburger",
+  "setter": "Leo_Kiemer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "000129b8e8ba4c7690bf62209cff45bf",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r13p1179r12p1252r13p1291r13p1324r13p1375r13p1392r14p1454r15p1458r15p1459r15p1461r15p1518r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0c1dc0d49a12da64c8419831c0688cec3569b85d30e5d88b2f0a6fd8b0b069ca",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6deab2ffd0ee85244854716f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "fake sheriff",
+  "setter": "Armino",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "AD2F17ACBA274C1DA4B83539A1217158",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1141r12p1154r15p1162r12p1181r13p1234r13p1257r13p1259r13p1359r13p1386r14p1391r13p1500r15p1568r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 14,
+  "quality_average": 3.71,
+  "hold_fingerprint": "5ece5881dcf0b78c698d4782b25a229752ab1dcad31db7825632f76b470abe68",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_68f0d7d56d27da66eb5607ad.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "small peoples problem",
+  "setter": "pile",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "83c42d6f0f774c9fb3f5bea5ce251cc3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1155r12p1156r15p1257r13p1292r13p1359r13p1393r14p1451r15p1527r15p1536r15p1563r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "91db556172de1fe2a27cfebbcee50b32b7e71f9005cf7a894697b318378340a7",
+  "validation_errors": []
+}

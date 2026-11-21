@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_857638464e5e23719d10fe19.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "frankonian paddle",
+  "setter": "simdelrieu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "835D6484C68B4E888736674788388206",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1075r15p1157r12p1173r12p1239r13p1270r13p1302r13p1315r13p1347r13p1384r14p1447r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 4,
+  "quality_average": 5.0,
+  "hold_fingerprint": "c21d368576386ee0099d7cda3b59aced7000108dd13436cdeebbe6cf985b59bf",
+  "validation_errors": []
+}

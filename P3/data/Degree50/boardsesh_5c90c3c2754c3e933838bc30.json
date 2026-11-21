@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5c90c3c2754c3e933838bc30.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Hop, Skip and Gaston.",
+  "setter": "tomheslam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "BADA2409319542F78BE0254B684D7F0F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1187r13p1235r13p1268r13p1318r13p1320r13p1369r13p1382r14p1450r15p1452r15p1489r15p1524r15p1542r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 14,
+  "quality_average": 3.57,
+  "hold_fingerprint": "2611a7a3faf238d3ae69dd77716ea00cf00861fc880d0cd8278b40efae4a3359",
+  "validation_errors": []
+}

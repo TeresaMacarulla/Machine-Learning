@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b265f0edd85e988a4dbc5bd2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "BangerBane",
+  "setter": "hamdensovset",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "042294f5-2269-4d4e-971b-9a7301050a9a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1198r12p1083r15p1084r15p1234r13p1144r15p1247r13p1131r15p1300r13p1181r15p1331r13p1212r15p1353r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.5,
+  "ascensionist_count": 5,
+  "quality_average": 4.5,
+  "hold_fingerprint": "5c04e2caebcd3486d03838d3f73dbcda407875d4bbfe3f025422c9f5e340feb2",
+  "validation_errors": []
+}

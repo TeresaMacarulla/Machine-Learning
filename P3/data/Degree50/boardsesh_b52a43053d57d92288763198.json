@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b52a43053d57d92288763198.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "La Flotabilitat",
+  "setter": "Hanmma",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 9,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "524a05040c0b49f59b1ff00bcaf77280",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r15p1160r12p1175r12p1198r13p1202r13p1212r13p1215r13p1236r13p1273r13p1321r13p1358r13p1374r13p1395r14p1464r15p1514r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "30e7bd2c2e764ad0e2a82576c79c595d18802ed85afab18909a475c316c9ac23",
+  "validation_errors": []
+}

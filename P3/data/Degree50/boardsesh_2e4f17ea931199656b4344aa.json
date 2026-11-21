@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2e4f17ea931199656b4344aa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "graded rough",
+  "setter": "nevsboardaccount",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2c6cd3eb-0277-4790-8a78-566a5818467b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r12p1086r15p1124r12p1267r13p1513r15p1281r13p1270r15p1367r13p1379r14p1573r14p1196r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "cebd232d094e93e128498774e907d7d7e09d44143a35381b763fa6d7423defd9",
+  "validation_errors": []
+}

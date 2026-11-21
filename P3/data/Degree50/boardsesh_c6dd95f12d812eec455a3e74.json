@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c6dd95f12d812eec455a3e74.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "NKVD",
+  "setter": "adriankask",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "9b2c174187e74e2c9fa16749de8f561d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1285r12p1291r13p1320r13p1393r14p1504r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 15,
+  "quality_average": 3.27,
+  "hold_fingerprint": "d27d8947ec0a9b9ed9486c19497439f7147df1821c34712ccacf8c82b508bb1d",
+  "validation_errors": []
+}

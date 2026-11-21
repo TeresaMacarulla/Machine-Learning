@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c9177acc68f8c50ace60b7ae.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "semi classical lqc",
+  "setter": "tobiasiding",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "D2D07CCFCD20452EA6A0DB16643E2AA4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1128r12p1216r13p1265r13p1320r13p1368r13p1390r14p1494r15p1497r15p1506r15p1521r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "9c28740a042365897a35ac68e28cd3590f931e24d00815f5a2c8f620160e3746",
+  "validation_errors": []
+}

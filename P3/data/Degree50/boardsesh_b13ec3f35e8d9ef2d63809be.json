@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b13ec3f35e8d9ef2d63809be.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "MK2",
+  "setter": "Michal",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0AF2BC7A88C840EBA20C8D0EB3A8E54C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1113r15p1179r12p1249r13p1263r13p1316r13p1334r13p1387r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.09,
+  "ascensionist_count": 11,
+  "quality_average": 3.73,
+  "hold_fingerprint": "a099fe58ed304ef43fa4cc0ec252ef98974c7ca6bb23ae1e5a25f56cddca7f3a",
+  "validation_errors": []
+}

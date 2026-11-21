@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8d9283955d1d6f05a25ed4b8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Bicepes",
+  "setter": "benmwilder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "F8F654FB9E6A4F3A9C2A80456E809D8B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1216r12p1254r12p1271r13p1274r15p1304r13p1352r13p1382r14p1385r13p1543r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f137b1fb178389e385f07e242e53284d3e988f4d2ce906439b630b5d040992b5",
+  "validation_errors": []
+}

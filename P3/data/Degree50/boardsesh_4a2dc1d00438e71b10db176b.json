@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4a2dc1d00438e71b10db176b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Little Traversing",
+  "setter": "kimchizzle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "d70ba0e23cd34338bc47fef28756ebe0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1093r15p1096r15p1100r15p1106r15p1202r13p1221r12p1225r12p1226r14p1229r13p1236r13p1246r14p1249r13p1257r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c221d314171df633bc3edef20e08dae1843692ebb6b3f392806335c294755a3b",
+  "validation_errors": []
+}

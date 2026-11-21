@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a2196f4b575371747e48d5d7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Sodium power",
+  "setter": "antuan321",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ef8028c8-e11e-45b8-997a-cfe872d5b670",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1470r15p1487r15p1199r13p1084r15p1149r12p1254r13p1270r13p1302r13p1367r14p1564r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e3084deafe1d10d3a7cbde8e185f955ceec7720ac17fe991d03fdb1845fb375b",
+  "validation_errors": []
+}

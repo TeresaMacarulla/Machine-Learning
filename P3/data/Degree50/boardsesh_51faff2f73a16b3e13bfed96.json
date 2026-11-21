@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_51faff2f73a16b3e13bfed96.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "the wheel of gunbarrel",
+  "setter": "CRANK",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "4FE7A779661C4E74BDA846DFA422DE33",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1179r12p1192r15p1250r13p1332r13p1352r13p1373r13p1392r14p1486r15p1503r15p1538r15p1566r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "b5858e148d4cf3cd9759f61ab343326a610f719392d668000ea4cd398ab4e517",
+  "validation_errors": []
+}

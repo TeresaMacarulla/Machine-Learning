@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_45f532435e71dc979b49cb03.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "cherry 3",
+  "setter": "jr02",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 10,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "0b381138-8609-4339-b391-29f98e0a97e5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1168r12p1219r13p1221r13p1288r13p1305r13p1302r13p1319r13p1334r13p1369r13p1387r14p1099r15p1079r15p1183r13p1218r13p1154r15p1188r15p1251r15p1265r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.5,
+  "ascensionist_count": 3,
+  "quality_average": 2.5,
+  "hold_fingerprint": "a14e66e095d008659e37799bab026251ee47f62ddbac1462bc58bbd6e79e0af0",
+  "validation_errors": []
+}

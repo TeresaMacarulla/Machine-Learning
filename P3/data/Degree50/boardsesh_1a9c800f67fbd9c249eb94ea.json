@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1a9c800f67fbd9c249eb94ea.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Absolute",
+  "setter": "wills",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A6C7A5FCF649428B91AFE8AF530C36B0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1179r12p1214r13p1263r13p1351r13p1383r14p1468r15p1477r15p1503r15p1559r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.8,
+  "ascensionist_count": 5,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ef65d85977dd357940377cd08193b9d10e211724434a0a0cf418b91861dfa32b",
+  "validation_errors": []
+}

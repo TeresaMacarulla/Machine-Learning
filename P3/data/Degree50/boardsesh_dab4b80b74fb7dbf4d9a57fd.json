@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dab4b80b74fb7dbf4d9a57fd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Next stop",
+  "setter": "Hosuk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "497CF3F2E3924FE3A2F5666DEDCA9A12",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1126r12p1144r12p1198r13p1200r13p1269r13p1317r13p1387r14p1462r15p1486r15p1495r15p1497r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c227586c5a1b56f31f7213b640c6a5f6cf7de1371dfcd5cd26842c824b19dee9",
+  "validation_errors": []
+}

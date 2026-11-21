@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_22cb3ebc460c2b73f52ef33b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Heads up 7 up",
+  "setter": "flandrotaylor",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1bb3358902644735bbeb2ee10c1083dd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1195r13p1215r13p1232r13p1254r13p1301r13p1357r13p1392r14p1455r15p1470r15p1476r12p1487r15p1562r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 13,
+  "quality_average": 3.77,
+  "hold_fingerprint": "e6a14822e280f66158b3e1de57571028d1709319308d2dcae6c7a456d106fb1e",
+  "validation_errors": []
+}

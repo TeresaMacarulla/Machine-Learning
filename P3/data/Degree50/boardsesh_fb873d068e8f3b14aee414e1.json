@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fb873d068e8f3b14aee414e1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "70 Degree Steering Wheel",
+  "setter": "Ivangreene",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 10,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "bf870f8941c149cab234e1470b9f2e63",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1157r12p1191r15p1197r15p1202r15p1212r15p1233r15p1240r13p1242r15p1257r13p1264r13p1268r13p1272r13p1289r13p1302r13p1308r13p1315r13p1335r13p1382r14p1383r14p1447r15p1450r15p1551r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.28,
+  "ascensionist_count": 67,
+  "quality_average": 3.5119402985074624,
+  "hold_fingerprint": "c2b8ad9f5ec9e020cc342e369b4900d10822323f5ee776c60b9becc8a60157aa",
+  "validation_errors": []
+}

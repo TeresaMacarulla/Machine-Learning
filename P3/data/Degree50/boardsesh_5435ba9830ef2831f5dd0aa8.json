@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5435ba9830ef2831f5dd0aa8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "v to the knee",
+  "setter": "orcen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "8E727DA73FAE4BC8BCDB3F0245A8CB27",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1188r15p1202r12p1234r12p1272r13p1321r13p1373r13p1386r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "533f2eb0a296b6796df5bbe32bb7932391cedf7283a2daac7217eb6b3ffbe0eb",
+  "validation_errors": []
+}

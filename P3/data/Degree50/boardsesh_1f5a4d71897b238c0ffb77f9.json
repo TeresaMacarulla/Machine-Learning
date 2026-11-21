@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1f5a4d71897b238c0ffb77f9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Warm Up BN 1",
+  "setter": "bennorman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1f3146f4e0bb46a3a28139d6f32f4ae1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1145r15p1163r12p1195r12p1234r13p1267r13p1268r13p1336r13p1355r13p1387r14p1505r15p1514r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.99,
+  "ascensionist_count": 317,
+  "quality_average": 3.39,
+  "hold_fingerprint": "b818f637238ec8d39d4d871c760dc0031045a398074b81a8df07591a4b80423a",
+  "validation_errors": []
+}

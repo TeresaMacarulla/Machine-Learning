@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e31869fd6b151233a283d777.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "dyno(:",
+  "setter": "jellepieters",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7bbe2e80145649f89a4946415b762ac7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1156r12p1157r12p1216r15p1257r13p1268r13p1271r13p1353r13p1387r14p1447r15p1450r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "97a724bce1b25d45db6d165c84c22de6587945448462dda62779ff439b537350",
+  "validation_errors": []
+}

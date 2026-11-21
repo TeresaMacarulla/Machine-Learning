@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f4a439edd04e99cd12de2183.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "campus",
+  "setter": "skotto",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 11,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "22abfe1b-0291-455f-b8b5-5f17e09b8c05",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1221r12p1223r12p1257r13p1259r13p1308r13p1327r13p1341r13p1359r13p1374r13p1390r13p1387r13p1384r13p1382r13p1380r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "ebef6c936a6d2b901bee2069ab2eac17a23735db9284f079fe1f33d8d1c01cdd",
+  "validation_errors": []
+}

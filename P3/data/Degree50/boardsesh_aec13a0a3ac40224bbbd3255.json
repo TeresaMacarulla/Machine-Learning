@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aec13a0a3ac40224bbbd3255.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "TC Troubles #2",
+  "setter": "dcalfy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "7F0F5A6244804FF3BC59146CD148048B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1188r12p1191r15p1250r13p1254r13p1339r13p1368r13p1382r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "08e33803146aea60ee470d5fec0ed56c287a7925102d254c058c7c012ce75005",
+  "validation_errors": []
+}

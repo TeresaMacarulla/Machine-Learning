@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9c854c666e5311a3627b7eb6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "back in pack",
+  "setter": "raudu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "76ae3eb8-0a5a-4326-9cd1-17bc58c47bb7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1153r12p1075r15p1079r15p1218r13p1230r13p1283r13p1503r15p1337r13p1387r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "f8263b8bf533e1ca0d268d50769cc9a78607e40d84b31f59716e847221f9eea2",
+  "validation_errors": []
+}

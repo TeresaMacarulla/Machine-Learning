@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a87d92ebfcd8ce7fec62c238.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "who needs finger strength.",
+  "setter": "gsmith.00",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "35FD9D85F756456E9A3F9AD8C1CE971E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1145r15p1151r15p1166r12p1216r13p1254r13p1302r13p1387r14p1508r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "7541fb0b83d00687c19b84908acb68ff6c116c7c21e8d8eff70d1755f760be0d",
+  "validation_errors": []
+}

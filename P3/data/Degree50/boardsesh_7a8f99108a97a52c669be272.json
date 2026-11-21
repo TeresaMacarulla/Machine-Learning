@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7a8f99108a97a52c669be272.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "robotboy",
+  "setter": "Abe_S",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "379642c4d10c4f5495bd523f39d1a311",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1140r15p1150r12p1188r12p1220r13p1291r13p1303r13p1338r13p1386r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a18a15c593fff9e61498ea28cb631f51bb5a6b73eada9154054e7ed48ac6ddb5",
+  "validation_errors": []
+}

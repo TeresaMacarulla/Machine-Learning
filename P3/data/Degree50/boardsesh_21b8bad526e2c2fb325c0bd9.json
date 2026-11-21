@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_21b8bad526e2c2fb325c0bd9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "brut",
+  "setter": "OlivierBock",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A12E92B4FE6540D18954930A3D04C87B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r15p1135r15p1166r12p1198r13p1202r13p1234r13p1302r13p1353r14p1454r15p1457r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "28e76569bf368a25b478219b59e9a0b6291c83214ad18ffa408a62a04d96cf07",
+  "validation_errors": []
+}

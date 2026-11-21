@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_59ddc5720277888fd4ee0e9b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "pogoflip",
+  "setter": "rbailey",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "bdd6605a-2c4b-418b-9014-3df65aca4743",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1281r13p1264r13p1301r13p1365r13p1246r12p1175r12p1492r15p1513r15p1383r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.67,
+  "ascensionist_count": 5,
+  "quality_average": 4.0,
+  "hold_fingerprint": "25925110033811a1aaf9a0bad4b2fbde5a67b314d6a978e6674ba37b1ca63d9f",
+  "validation_errors": []
+}

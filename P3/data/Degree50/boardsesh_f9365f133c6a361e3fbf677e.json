@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f9365f133c6a361e3fbf677e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "UP ONE",
+  "setter": "BuenoUeno",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "D0193F8C5D1743369BAC63CD65FEEAEE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r12p1234r12p1271r13p1289r13p1308r13p1356r13p1392r14p1494r15p1504r15p1554r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.88,
+  "ascensionist_count": 8,
+  "quality_average": 3.25,
+  "hold_fingerprint": "8af163ec0a6f4010e9f3e435ea842c8b91e02a3b965a35e27e7c1528b459026a",
+  "validation_errors": []
+}

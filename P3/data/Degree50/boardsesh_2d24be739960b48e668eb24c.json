@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2d24be739960b48e668eb24c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "JLkilter v2",
+  "setter": "JLFromDaKilter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "bdecb373-16d6-4066-a729-3e6c412add97",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1157r12p1221r13p1234r13p1236r13p1247r13p1073r15p1131r15p1210r15p1166r15p1300r13p1331r13p1383r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "0c2d373bf2bab6550a02200e762686508e3824c3cfdb67402b843b766af1444c",
+  "validation_errors": []
+}

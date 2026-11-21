@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a5df4fb77f9bd5b182736db6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Left Leg Only",
+  "setter": "limp",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "4C4D1DA0A8B04C62B682FAD08103C057",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1126r12p1131r15p1144r12p1165r15p1194r13p1214r13p1247r13p1269r13p1284r13p1319r13p1349r13p1367r14p1464r15p1514r15p1549r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.88,
+  "ascensionist_count": 60,
+  "quality_average": 3.36,
+  "hold_fingerprint": "0fda4224bf5420992b936c76ff62ca61a36e9d0b9153e3f7cf1832544c7622a2",
+  "validation_errors": []
+}

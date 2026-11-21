@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_194cf12d8a0198ebf95b867e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "moisture",
+  "setter": "BKBChicago",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "2437FF7AFB23405C8C188DD9279A18F3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1192r12p1212r12p1234r15p1246r13p1280r13p1316r13p1319r13p1354r13p1390r14p1392r14p1475r15p1512r15p1579r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.75,
+  "ascensionist_count": 8,
+  "quality_average": 3.75,
+  "hold_fingerprint": "269965ca7cca85b1da4adf30237a8beaed13d1afddb677d9fc1fb7c9228317fc",
+  "validation_errors": []
+}

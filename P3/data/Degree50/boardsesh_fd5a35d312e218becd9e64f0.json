@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fd5a35d312e218becd9e64f0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "woupadoula",
+  "setter": "oelyziht",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "07e80b9a-4729-4122-ad29-1cde6e72f03b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1460r15p1107r15p1521r13p1131r15p1299r13p1304r13p1524r15p1353r13p1390r14p1143r12p1160r12p1177r13p1197r13p1229r13p1464r15p1267r13",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.5,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "58fef47080814143c1f94d0775a019e0ef782b3c397bc95b213db0ac2fe903dd",
+  "validation_errors": []
+}

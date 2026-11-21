@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_da31c4a4a208c59a575f1f05.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Shinigami",
+  "setter": "Tofu_05",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "F7BFADCFA8AC4D12A5E03FDDBEC65625",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1106r15p1136r12p1187r13p1190r13p1269r13p1271r13p1300r13p1317r13p1382r14p1449r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.67,
+  "ascensionist_count": 3,
+  "quality_average": 4.33,
+  "hold_fingerprint": "fb1d19c4ad2cd32750e60d4c2592da8430708b6fee08c3465eb57b0ddc8be25a",
+  "validation_errors": []
+}

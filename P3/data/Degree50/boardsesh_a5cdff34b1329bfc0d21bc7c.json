@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a5cdff34b1329bfc0d21bc7c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Gaston 1",
+  "setter": "paul_brouard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2ba2b8e663fb40908d0232b7c3097909",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1145r15p1180r12p1197r12p1204r15p1235r13p1269r13p1320r13p1335r13p1388r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.99,
+  "ascensionist_count": 171,
+  "quality_average": 3.2842105263157895,
+  "hold_fingerprint": "4208ce8b452c458fee714639dd8fc7a03464288503ff0cdda7fb226df0285b21",
+  "validation_errors": []
+}

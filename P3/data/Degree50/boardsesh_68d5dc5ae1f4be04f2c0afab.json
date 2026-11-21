@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_68d5dc5ae1f4be04f2c0afab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "wheres caden",
+  "setter": "yifanluo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "C8599F2681A14C128736AEA157FF0F99",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1108r15p1143r12p1228r13p1236r15p1239r15p1267r13p1304r13p1333r13p1369r13p1391r14p1483r15p1520r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "2a6f3746ee255fc707b4f03948f5ae04161dbdfddd7da0eef748f029e14ae87d",
+  "validation_errors": []
+}

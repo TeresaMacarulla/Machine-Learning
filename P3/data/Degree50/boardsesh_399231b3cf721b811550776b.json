@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_399231b3cf721b811550776b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "BFF V1 (easy peasy)",
+  "setter": "BffClimb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "960460dbf5424dd3a97e6d7596878c6c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1110r15p1163r15p1198r12p1200r12p1201r15p1233r13p1237r15p1247r13p1267r13p1289r15p1300r13p1319r13p1353r13p1389r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.79,
+  "ascensionist_count": 2069,
+  "quality_average": 3.37,
+  "hold_fingerprint": "5f7c16b508bcd6cdb3fa67c947912eee2ec0840fecaca5f20571879db2a84d97",
+  "validation_errors": []
+}

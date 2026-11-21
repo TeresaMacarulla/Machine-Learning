@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3c6c3c294ce940a8c242b3d5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Double Gas",
+  "setter": "lyricsylvan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "304b7072-2278-4e83-ac65-24092737c942",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r12p1168r12p1250r13p1265r13p1334r13p1352r13p1371r13p1390r14p1154r15p1078r15p1512r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "97765be71ca76225d710607172df0b5e867ef5365f405c85e0a44be80e830eab",
+  "validation_errors": []
+}

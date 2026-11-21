@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dd995911b9765336c1d1456f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Buckets of PFA",
+  "setter": "jjack128",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "29d2233d-9aa1-46b3-aeca-81a5ede21cbf",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1220r13p1455r15p1163r15p1251r13p1517r15p1272r13p1324r13p1343r13p1561r15p1395r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.67,
+  "ascensionist_count": 8,
+  "quality_average": 4.83,
+  "hold_fingerprint": "14c83f86192d2aba972d1c960a88cf8ee8f43ee7c196c35a69ca12ddb4d8d783",
+  "validation_errors": []
+}

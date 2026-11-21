@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e82b1164fbb76048777be548.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Flapping birds",
+  "setter": "Something_That_Nothing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "B96DD248485343C7B5D10FB4B5936091",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1168r12p1201r13p1215r13p1267r13p1315r13p1384r14p1454r15p1456r15p1457r15p1469r15p1523r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "08a4b94b9b5f5198c1b848e7c5b17fdd4d81a4b1598ecd90f6bacc1592a01506",
+  "validation_errors": []
+}

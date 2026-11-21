@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b462ee78c4e50b49038019b7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Pinch Feet",
+  "setter": "GirthQuake",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5DFBCB5371A64B3B860316EB0138091E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1136r12p1148r15p1186r15p1196r15p1235r13p1240r13p1241r13p1266r13p1270r13p1331r13p1333r13p1379r14p1447r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.06,
+  "ascensionist_count": 18,
+  "quality_average": 3.06,
+  "hold_fingerprint": "4ab98d84c37a0801ae2e8338aab1f6dd8a6147076fcc7fac6e70850f0a71887e",
+  "validation_errors": []
+}

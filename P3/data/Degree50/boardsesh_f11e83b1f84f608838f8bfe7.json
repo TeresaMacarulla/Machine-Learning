@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f11e83b1f84f608838f8bfe7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "melk die Schulter",
+  "setter": "Anton_Skoruppa",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "f92c05b4dea54705afca4910ca31e8f7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1163r15p1169r12p1187r12p1188r15p1252r13p1286r13p1288r13p1324r13p1395r14p1470r15p1514r15p1572r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "28619800b5db8a4fcfd1b7d5be3f3e4e227568599afe7f78f19e6f2780356dc6",
+  "validation_errors": []
+}

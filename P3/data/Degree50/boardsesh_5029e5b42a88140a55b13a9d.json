@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5029e5b42a88140a55b13a9d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Sei die Wand",
+  "setter": "koelngacrusher",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "514F53FC4C714D1B8A699AF3A06651F7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1148r12p1181r13p1184r12p1204r15p1214r15p1219r13p1252r13p1285r13p1307r13p1315r13p1319r13p1320r13p1384r14p1467r15p1565r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "dc0b5cf1d2ee9937faa10d7fbd152248b750faa6c1a00c7ce25767bd9625029a",
+  "validation_errors": []
+}

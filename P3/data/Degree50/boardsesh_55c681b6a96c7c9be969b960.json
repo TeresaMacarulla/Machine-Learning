@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_55c681b6a96c7c9be969b960.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Schaufelnase",
+  "setter": "Obi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "3a58cc19-74e0-4934-8f0e-37d9f037a1da",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1365r14p1336r13p1335r13p1308r13p1357r13p1199r13p1130r12p1475r15p1543r13p1256r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "a722e21f6fa9a81b94a67f032fcf2c97983b811b4910f0d767c04352a651523b",
+  "validation_errors": []
+}

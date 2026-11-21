@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6c734a42e2c3a72f2d494444.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "helmudlang",
+  "setter": "thefool",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "fc351ed4-3447-4660-8d96-bc58c7881dab",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1169r12p1302r13p1198r13p1202r13p1476r15p1083r15p1079r15p1231r13p1385r14p1557r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "ac4e655b4a81e51a0c8a8082902cb611f439fa94a56b6607d72b6a19907f931a",
+  "validation_errors": []
+}

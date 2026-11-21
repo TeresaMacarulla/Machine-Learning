@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bbc885e825fa767e9adb9cf4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Budgie Smuggler",
+  "setter": "ArchieBourke",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "cf56a17ebaba43f8a666e1ccac885b49",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1152r12p1155r12p1203r13p1257r13p1271r13p1288r13p1319r13p1353r13p1386r14p1448r15p1452r15p1540r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "f20e3576a7cfc49252600c9c4de9fe4b677719442c71dface727a6cb3691ef3b",
+  "validation_errors": []
+}

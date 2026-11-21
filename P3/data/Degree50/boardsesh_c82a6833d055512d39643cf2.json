@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c82a6833d055512d39643cf2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "storm",
+  "setter": "alexnunnari",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "92B6FFAC7A4A4EE38F06EA87E01BFBF9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1116r12p1147r12p1202r13p1252r13p1281r13p1286r13p1333r13p1382r14p1456r15p1459r15p1469r15p1488r15p1521r15p1532r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "25d4a88764b70d61fe7967a75ca6a01b18018448586b4092d79d8638acf81989",
+  "validation_errors": []
+}

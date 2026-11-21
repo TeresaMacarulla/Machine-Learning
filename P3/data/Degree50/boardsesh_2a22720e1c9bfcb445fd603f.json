@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2a22720e1c9bfcb445fd603f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "ratra",
+  "setter": "Jorge.B",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "797f5039-b07c-4ba9-a092-1f230edf863e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1172r12p1074r15p1239r13p1489r15p1517r15p1324r13p1358r13p1388r14p1389r14p1534r15p1190r12p1273r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 6,
+  "quality_average": 4.0,
+  "hold_fingerprint": "eb2c5c6691de30bfd4d0055bea245db454a11ae523aa76aee50e7071f70da09a",
+  "validation_errors": []
+}

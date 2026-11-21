@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8171fcd33f6558e01b5c4362.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "4-2 rolldown",
+  "setter": "jamescor",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "678643a6211042cfb9d4531ba2f40c28",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1209r12p1230r12p1261r13p1281r13p1311r13p1383r14p1474r15p1519r15p1522r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bcde8ce91d69948db66cb59b57033048491139b4d972e9cb0da7f54358f5bd84",
+  "validation_errors": []
+}

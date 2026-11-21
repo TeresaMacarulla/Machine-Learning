@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8b07900babfe9ec18665fb2e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Last Glimmer",
+  "setter": "markusleebV",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E17DCD1D800A46CCAE85DD93E3764CED",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1158r15p1218r15p1229r12p1252r12p1263r13p1264r13p1314r13p1351r13p1390r14p1511r15p1537r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.8333,
+  "ascensionist_count": 6,
+  "quality_average": 3.0,
+  "hold_fingerprint": "bccfc4a2395ecf81f1c99503399b51f2bf241650570cb5c88ca3cff18f8183a7",
+  "validation_errors": []
+}

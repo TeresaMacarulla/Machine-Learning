@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8700800b769d9f8ef6b77576.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Raisinette",
+  "setter": "mikey.light",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "26F6023FF639429EB948A8015D9EA6F0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1175r12p1246r13p1311r13p1383r14p1467r15p1501r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.99,
+  "ascensionist_count": 572,
+  "quality_average": 3.32,
+  "hold_fingerprint": "e73f74a46fd6b3645e48e558324fdb00dc22f0f7ffe2293959d8faeec6b05ab4",
+  "validation_errors": []
+}

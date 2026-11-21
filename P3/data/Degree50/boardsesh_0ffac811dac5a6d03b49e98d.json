@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0ffac811dac5a6d03b49e98d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "a2inflamed",
+  "setter": "guillestk2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "DE7AC73C5A7F4847AF393FE6F2880B32",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1169r12p1224r13p1241r13p1283r13p1288r13p1318r13p1348r13p1382r14p1473r15p1518r15p1525r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "11940838460e2ee275421fd752ffe94e1f1646fe9423daa2691775355e72b3b5",
+  "validation_errors": []
+}

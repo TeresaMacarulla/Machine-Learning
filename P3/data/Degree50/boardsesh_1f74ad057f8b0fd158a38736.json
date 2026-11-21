@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1f74ad057f8b0fd158a38736.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "kackboulder shoulder soft",
+  "setter": "tomtoell",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "830F9D2D5938435F9291FC3DC467FF70",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r15p1164r12p1218r13p1230r13p1246r13p1298r13p1347r14p1459r15p1515r12",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.2,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "ab6956cc8d3bcf8dc3a79d45880cf21bf4810f0d19a6565a6b5fcfc15d4e316c",
+  "validation_errors": []
+}

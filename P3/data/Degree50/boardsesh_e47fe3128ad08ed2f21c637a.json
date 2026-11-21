@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e47fe3128ad08ed2f21c637a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Swoop, Loop, and Pull",
+  "setter": "Sand_Bag",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1ffceae5e3b143b4a75d27a12f770c79",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1102r12p1153r12p1157r15p1220r13p1246r15p1248r13p1253r13p1286r13p1334r13p1389r14p1447r15p1507r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "049413d4eee2b6944e3a595d3f2a740a76f3fb98c64065aae472fd42ebb85379",
+  "validation_errors": []
+}

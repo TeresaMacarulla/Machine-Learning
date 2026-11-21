@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bda7e8ec6d6c62069a988415.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Leistentest",
+  "setter": "BoulderFlo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "F26EC74230804012BD728ACFB4603A47",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r15p1153r12p1203r12p1208r15p1240r13p1242r15p1270r13p1307r13p1339r13p1355r13p1385r14p1451r15p1499r15p1506r15p1540r15p1566r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 25,
+  "quality_average": 3.3056,
+  "hold_fingerprint": "8dc9dfb86a7fa0addf6bf4ef77866ab602cb3618c88573b07671e1c825fb2e3f",
+  "validation_errors": []
+}

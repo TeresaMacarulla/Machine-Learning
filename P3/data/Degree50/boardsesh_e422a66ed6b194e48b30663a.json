@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e422a66ed6b194e48b30663a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Weapon Beta",
+  "setter": "ldf45",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5E9A708156364CAD8DC838CE91A57993",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1230r13p1265r13p1320r13p1361r14p1368r13p1375r13p1464r15p1486r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6329c133c34725f09afc74410ddc6c87b923563c2b71d3cbe05a19513115e27f",
+  "validation_errors": []
+}

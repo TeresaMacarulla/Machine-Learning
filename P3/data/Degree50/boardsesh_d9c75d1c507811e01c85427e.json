@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d9c75d1c507811e01c85427e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Palkia",
+  "setter": "georgem",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5C0B22905DDB444B950C42213B4E91E4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1216r12p1254r12p1264r13p1300r13p1351r13p1381r14p1488r15p1528r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0f5306baf4fd37bad091e6f084a5b475997ae0d8ac4515f0ba1f3feda50480a6",
+  "validation_errors": []
+}

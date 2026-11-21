@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a5ec90775e1c3c4ecb33c886.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Facile pas facile",
+  "setter": "GuillaumeBP",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8ff00c2c82cc4e58917bad11d0afc576",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r12p1172r12p1204r13p1273r13p1285r13p1357r13p1388r14p1448r15p1523r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b17f549a0e702d99cc83a52792c9d201932835ecc5c429bd283c8029b5de7c06",
+  "validation_errors": []
+}

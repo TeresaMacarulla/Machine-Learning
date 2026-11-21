@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_32698611b3d91c26e07e01c7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Sweet Thang",
+  "setter": "svertm",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 8,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "d715387c267448db937b8130a2e17d7e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1192r13p1210r13p1294r13p1320r13p1347r13p1383r14p1387r14p1458r13p1465r13p1558r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "743df87b94e5e7a18b03754f60d307a0d2129283b7401fe0cec5df57564c54f1",
+  "validation_errors": []
+}

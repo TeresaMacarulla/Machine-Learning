@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dd2b3137ea1bb20da268f887.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "pull and pray",
+  "setter": "wu0o0",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "1384C21DEBF84D5993CD534423478FCC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1214r12p1230r12p1252r13p1267r13p1289r13p1355r13p1381r14p1387r13p1479r15p1485r15p1501r15p1505r15p1516r15p1598r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "14a8f29d696d14eabbcbe073ca9bd0fcfa022abf9ea3e9fcd8688b5294708307",
+  "validation_errors": []
+}

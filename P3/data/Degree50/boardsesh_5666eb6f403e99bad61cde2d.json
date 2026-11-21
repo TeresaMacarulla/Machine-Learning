@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5666eb6f403e99bad61cde2d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "random xlimb",
+  "setter": "climbingsquirrel2024",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "83058671A85D4A17A22929D2F27E3E78",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1147r12p1166r12p1169r13p1219r13p1256r13p1270r13p1306r13p1340r13p1372r13p1391r14p1452r15p1558r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ecb9eb0cf4a215110fbcc6d739a528ac5a5ee2a573f6e65d6a9d3649f6ec5a4a",
+  "validation_errors": []
+}

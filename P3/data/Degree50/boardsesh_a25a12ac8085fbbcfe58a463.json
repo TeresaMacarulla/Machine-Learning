@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a25a12ac8085fbbcfe58a463.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Porta Potties",
+  "setter": "therealrockclimber",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2C93A9A299DE486885B1946E524DEF9D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1165r12p1230r13p1268r13p1301r13p1323r13p1390r14p1467r15p1487r15p1552r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "1ff8e5997943375f183ec5c9ed5414754b64457725fe89ad92856142a589fbfb",
+  "validation_errors": []
+}

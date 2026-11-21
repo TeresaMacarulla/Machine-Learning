@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c844f42b7e7e087f0b723ccc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "rat trap",
+  "setter": "rallyally",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "69368BB2ADBF499CAC7DD19004DC4434",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r15p1160r12p1163r12p1205r15p1215r13p1234r13p1240r15p1284r13p1288r13p1340r13p1392r14p1462r15p1506r15p1514r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.6699999999999995,
+  "hold_fingerprint": "a6867d106e4403b6516a0df5eeb3efef3a04455f233b1ae4c62ec140cdece444",
+  "validation_errors": []
+}

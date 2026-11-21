@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_719db1f34a0d0a4539ca6a7a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Rebhuhnmonitoring",
+  "setter": "mantaray420",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "A8E39C201D2C48C59D33688A7E99E0E9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1143r12p1163r13p1215r13p1234r13p1302r13p1356r13p1390r14p1460r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.08,
+  "ascensionist_count": 13,
+  "quality_average": 3.08,
+  "hold_fingerprint": "670a18288edfb823f7081ef68241a460d78456905290d7ab94880e907b8180c6",
+  "validation_errors": []
+}

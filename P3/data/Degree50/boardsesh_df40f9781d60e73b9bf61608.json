@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_df40f9781d60e73b9bf61608.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "skip on the beat",
+  "setter": "samuelguerrero",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0FEE46BACED24E10861DD83875CE6D96",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1124r12p1177r12p1230r13p1267r13p1345r14p1349r13p1366r13p1503r15p1505r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.89,
+  "ascensionist_count": 628,
+  "quality_average": 3.5,
+  "hold_fingerprint": "1bd82e54f9337643ca69700e0d9aafa2723751f46d179c4454ab81cccb54a95b",
+  "validation_errors": []
+}

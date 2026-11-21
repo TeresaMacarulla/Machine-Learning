@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2ddf30184c9117b733b24e75.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "off the rails",
+  "setter": "casey",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "1CAB2EB8B9074030995DC2E2EFF3B04F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1087r13p1143r12p1194r12p1234r13p1235r13p1238r13p1265r13p1307r13p1354r13p1371r13p1385r14p1499r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.67,
+  "ascensionist_count": 7,
+  "quality_average": 4.17,
+  "hold_fingerprint": "f11b07f29b8895c7e5ec3a24b801bcd493aba1aa3334ea9cade1e581773e1335",
+  "validation_errors": []
+}

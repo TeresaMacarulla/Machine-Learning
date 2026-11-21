@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e5f23f600054ff67d9ff934b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "generic rifle crux",
+  "setter": "metalfire",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "cd28bbc2809e4a33973b89b3a00c4617",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1188r15p1190r12p1219r13p1222r13p1303r13p1304r13p1390r14p1447r15p1450r15p1453r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f08812d01f1bd9487d4aafe84091cbfba25b4c8783f0d10da6acbe44a20fa43e",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ce1badc1325f83c3fdb515b1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Tension Pneumothorax",
+  "setter": "jmcminn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 9,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "363144BB7C63491B8009250E94F5637E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r12p1194r13p1246r13p1247r13p1250r13p1284r13p1303r13p1336r13p1356r13p1390r13p1392r14p1457r15p1458r15p1459r15p1460r15p1477r15p1533r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.02,
+  "ascensionist_count": 2306,
+  "quality_average": 3.2707518470230337,
+  "hold_fingerprint": "1c5ecdf042674de25a1f3044cf7453445bb385c36a35ab9464b0bea9fe9dd897",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ee8f4ce6010943ef21643d2d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "junk mailed",
+  "setter": "jakemcneely",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "F02430A354B84A42974DD138AD1FE176",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1180r12p1185r12p1235r13p1289r13p1338r13p1389r14p1477r15p1552r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.9,
+  "ascensionist_count": 20,
+  "quality_average": 3.75,
+  "hold_fingerprint": "91ab0ab571b634d83321abcccfac12b554f56fcd73a2d9e5f0c2bf606c520115",
+  "validation_errors": []
+}

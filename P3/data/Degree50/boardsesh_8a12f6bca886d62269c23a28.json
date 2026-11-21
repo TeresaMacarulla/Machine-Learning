@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8a12f6bca886d62269c23a28.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "KliMB_Rumpfstabilit\u00e4t",
+  "setter": "goliath",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "C48EF7810E4040F48D47195DD598DCD4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1130r12p1151r12p1181r13p1214r15p1234r13p1282r13p1336r13p1386r14p1455r15p1459r15p1506r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "782a49f0a2a732ee834eae9c0c43a18030dd3e44f4819ce1b4ce50dc5f351447",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_beaeb5d92849fbee8bd64ad7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Space Moquette",
+  "setter": "Pier74",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "BCCEBE82526F4F909651E037D38C33C7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1221r13p1255r13p1270r13p1306r13p1340r13p1393r14p1447r15p1451r15p1481r15p1496r15p1508r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "53c6c5c0b887cbe2ffc6b7895c5cf8098621f2f06a82c5e01a4f0073a99584f1",
+  "validation_errors": []
+}

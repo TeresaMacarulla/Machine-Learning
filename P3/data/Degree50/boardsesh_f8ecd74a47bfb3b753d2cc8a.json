@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f8ecd74a47bfb3b753d2cc8a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Wheel of Fun",
+  "setter": "EmmettDaBoot",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "aa960d99-c91f-42a5-a762-38129dbfc056",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1306r13p1308r13p1371r13p1180r12p1236r12p1163r15p1133r15p1385r13p1383r13p1294r14p1312r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a082ff6ffda940a16065032ef237a8de9b0982449767c231ffc2edf6a814e6ba",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f7398bb8ec3fe245a1025a65.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "crossyroads",
+  "setter": "beachesrockgym",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "7ba9aab0271b4f768026dcede1f02cfb",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1149r12p1153r12p1160r15p1215r15p1233r13p1264r13p1318r13p1352r13p1371r14p1452r15p1497r15p1524r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3c48292a2d815b98b90940abfc71e7afbe31ecc1834ea5e7e4828ffa6489eebe",
+  "validation_errors": []
+}

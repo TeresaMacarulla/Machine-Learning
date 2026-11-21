@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_46ad0f257e5e1e39e5eca919.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Red Truck",
+  "setter": "Hazen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "be062e3dcd2e419c97a5a3fdac8605ed",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r12p1140r15p1188r12p1203r13p1214r15p1256r13p1269r13p1320r13p1351r13p1365r13p1368r13p1379r14p1518r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 33,
+  "quality_average": 3.47,
+  "hold_fingerprint": "10db5b2cdeb9151069b060ae2429ea13bcd853a5d4ca84be2ceb0fb7dc772d16",
+  "validation_errors": []
+}

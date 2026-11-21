@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b195ac581cbb8deead322e99.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Campus Circuit #38",
+  "setter": "CodyAllenLittle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "7c50c8b8fdfd486f8fc026864ded8c28",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1215r12p1269r12p1284r13p1337r13p1370r13p1390r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ed02155ebc0f84b80ce3434850c101fd27b95d8da0a94739471fceb387ebd8e5",
+  "validation_errors": []
+}

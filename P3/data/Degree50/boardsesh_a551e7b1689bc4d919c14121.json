@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a551e7b1689bc4d919c14121.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "progress",
+  "setter": "grainycurd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3FE74838821F42CA95ED9E105A5EC1C7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r15p1197r12p1214r12p1251r13p1252r13p1289r13p1340r13p1386r14p1391r13p1532r15p1559r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "afa9eeef35108afb78dc90d22ff94a8b622387ce49e12514914d32e086526671",
+  "validation_errors": []
+}

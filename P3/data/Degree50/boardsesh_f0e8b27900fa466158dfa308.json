@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f0e8b27900fa466158dfa308.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "small thriller",
+  "setter": "Floris.G",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "011eb0ed-bedc-45bb-8bf8-e80ff88cc263",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1229r13p1299r13p1164r12p1216r13p1132r12p1083r15p1497r15p1485r15p1493r15p1510r15p1531r15p1295r13p1364r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "1d52b317de082d8b1b4d4343b442400d192426049e6109689812ffb1f462e4b6",
+  "validation_errors": []
+}

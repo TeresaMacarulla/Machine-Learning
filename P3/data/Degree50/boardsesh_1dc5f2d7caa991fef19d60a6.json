@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1dc5f2d7caa991fef19d60a6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Protokolliert",
+  "setter": "CorvinD",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "64BAD8A7D8304B7D8921280A9944D286",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r15p1133r12p1185r12p1267r13p1322r13p1371r13p1392r14p1452r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 80,
+  "quality_average": 3.38,
+  "hold_fingerprint": "8ba71308a2d1d951d2761c3b04e4740b36078136274b5801ea6a9f4c4cd8ef17",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f6bf6e2569b28f399a570391.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Glakky Freestyle",
+  "setter": "00_rocketboy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "078B50D9DCBD4FF8989E22E7AA1354C2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1151r15p1176r12p1216r13p1228r13p1285r13p1296r13p1351r13p1380r14p1462r15p1475r15p1523r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.12,
+  "ascensionist_count": 17,
+  "quality_average": 3.35,
+  "hold_fingerprint": "3c5085077f33870fa884deac7c9c8080a5fd15643da050edbdfa728f55a83fce",
+  "validation_errors": []
+}

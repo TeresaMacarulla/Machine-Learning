@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2279f20a1a3f1a3a10359697.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "2I/Borisov",
+  "setter": "Fatman20",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "CF90E94BC6154BB3AA55009D28AF12CE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1185r13p1254r13p1285r13p1357r13p1375r13p1395r14p1450r15p1453r15p1498r15p1522r15p1553r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "dc4dd2cb2919e9fd10d6708be10b519be8bbc75a6f101e1ffc522648d7b3b135",
+  "validation_errors": []
+}

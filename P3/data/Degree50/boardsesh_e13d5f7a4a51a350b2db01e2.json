@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e13d5f7a4a51a350b2db01e2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "High Feet",
+  "setter": "Florinator",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0cc22e1c975743c1b214322ba038ef7a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r12p1153r12p1218r13p1269r13p1298r13p1352r13p1368r13p1388r14p1449r15p1482r15p1534r15p1540r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.98,
+  "ascensionist_count": 1127,
+  "quality_average": 3.3,
+  "hold_fingerprint": "14ce10570dc3302ac400e45ddd07a9979e163fe8ed4d2d9de9ee0d9564103ef8",
+  "validation_errors": []
+}

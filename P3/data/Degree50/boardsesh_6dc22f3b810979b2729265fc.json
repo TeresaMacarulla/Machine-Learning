@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6dc22f3b810979b2729265fc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Slip Out",
+  "setter": "p.tang",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "bbb74622e3bb449f899e261965b35f43",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1156r15p1161r12p1162r12p1215r13p1221r13p1239r13p1310r13p1356r13p1369r13p1383r14p1391r15p1459r15p1493r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "55943b58248a4fa06600b40ddd9a612d3be939864ff8d5553a12370db096507c",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0178a1b567ce01b42a7bcf48.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "kablooy",
+  "setter": "benmclayton",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "b38c944b-06af-44eb-a978-3f132417a302",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1454r15p1221r12p1288r13p1357r13p1353r13p1384r14p1508r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "7a080a78673a525d61e5146e38f2fd1a4edceabf0197077f484200ed0dc8dfbc",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2f45b73a37b044c50f1ec230.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Pendulum Pivot",
+  "setter": "Vash",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1F44C9CCD50F43478E5C4B7AA0BB60F2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1171r15p1214r15p1221r12p1234r12p1269r13p1317r13p1387r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.97,
+  "ascensionist_count": 80,
+  "quality_average": 3.5,
+  "hold_fingerprint": "0f21b4ad7897d4a7c817cd7a54e94dbcc7a99e9a791febd29eb109e1cc705319",
+  "validation_errors": []
+}

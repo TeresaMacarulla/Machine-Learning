@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_15d01d255d3515a067e0a2df.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Swing the feet",
+  "setter": "red216108",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3609032db86247d19f170e7712ab7007",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1158r12p1178r12p1228r13p1229r13p1261r13p1271r15p1297r13p1300r13p1337r13p1355r13p1393r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e009e0784c4a10f22482c319e23c8edbb37c8d5cf71d72d145a521c68b49c74e",
+  "validation_errors": []
+}

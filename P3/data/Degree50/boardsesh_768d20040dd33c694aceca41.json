@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_768d20040dd33c694aceca41.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Jump n Cross",
+  "setter": "stoui",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "fa33c082ad1e4e8088303244b1a1360f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1171r12p1236r13p1302r13p1354r13p1384r14p1453r15p1471r15p1525r15p1557r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.96,
+  "ascensionist_count": 156,
+  "quality_average": 3.44,
+  "hold_fingerprint": "4257a340310fa1ca6085c1ff033af2fb573e33def70e909216e066fe2573cc86",
+  "validation_errors": []
+}

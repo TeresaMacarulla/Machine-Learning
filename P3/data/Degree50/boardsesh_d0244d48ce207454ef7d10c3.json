@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d0244d48ce207454ef7d10c3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Jump to the moon",
+  "setter": "kingboulder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "E18A880778804C5BB1C432D3AF159999",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1196r12p1254r13p1272r13p1357r13p1386r14p1459r15p1474r15p1490r15p1518r15p1554r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b1c163cb99bcf5e9e0e85748139a9d4a6aa90dafcf1330fac598e3efba688c43",
+  "validation_errors": []
+}

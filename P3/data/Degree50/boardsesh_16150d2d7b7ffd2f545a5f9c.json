@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_16150d2d7b7ffd2f545a5f9c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Moumo",
+  "setter": "Nilen181",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "DF8AE396A0FE48BE8FD3350BCCA9F7B7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1156r15p1185r12p1222r12p1235r15p1263r15p1269r13p1281r13p1333r13p1345r13p1380r14p1471r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "6e9d7b698468c732ac4830b44abaa9e9829eb81459f809f38daee6df29ed9e81",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_acacef9baf868b5851b5bb2a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "a over die",
+  "setter": "Yusuke_Nishihata",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4ED5EBADDD88450F885475C899C458A2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1141r15p1149r12p1164r12p1231r13p1262r13p1317r13p1368r13p1389r14p1457r15p1568r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "af0c38e51a57b17a4b3fa467d650bbebe8447fd5f920621f0d272c2e3f2fd6d6",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_487f5307d6e75dedeac87a28.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Toy Story",
+  "setter": "MisterWitty",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "20A6D721685D48EFB548C440E36C25E8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1187r12p1201r13p1234r13p1236r13p1302r13p1315r13p1335r13p1383r14p1452r15p1471r15p1479r15p1549r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.75,
+  "ascensionist_count": 8,
+  "quality_average": 3.75,
+  "hold_fingerprint": "940b8475572d82549bbff91337ef984e6e7dacd110d6d2cc4cc116807ff6a036",
+  "validation_errors": []
+}

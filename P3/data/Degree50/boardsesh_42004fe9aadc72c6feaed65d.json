@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_42004fe9aadc72c6feaed65d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "dragon breath",
+  "setter": "scottyb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "BA88A4DA08EF478A93CB097155B4AE43",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1114r12p1133r15p1183r13p1199r13p1233r13p1247r13p1281r13p1313r13p1348r13p1380r14p1456r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.57,
+  "hold_fingerprint": "a4ddd91cade8e7856c790500aa6f7937fb8663224a8936489b498c6acbf1a2dd",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f0f7f86a84479d38b014215e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Womb cut",
+  "setter": "steil_boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "E2B792931F7246E488C4B0FD331B74FA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1190r12p1258r13p1271r13p1339r13p1389r14p1447r15p1482r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "0d32caed6970285de74ea89f4ed91cd5fc90255f39ecac85fe403a161182001e",
+  "validation_errors": []
+}

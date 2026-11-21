@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d11c100ccc9a3287642a8f4f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Depth Strider III",
+  "setter": "wayden_hard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7b03adf6-ac1f-405f-aa93-e164c0e22202",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r12p1203r13p1199r13p1250r13p1230r13p1134r12p1453r15p1096r15p1493r15p1263r13p1317r13p1349r13p1386r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": null,
+  "hold_fingerprint": "5c877b8a39a4adc0709f29225ac27bf6174427f9dd4f115b3040cf739ef0a564",
+  "validation_errors": []
+}

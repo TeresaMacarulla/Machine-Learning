@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b694eb98c91701158b4f0448.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "pinch the loaf",
+  "setter": "RiverTulloss",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3EE807F93C0F4148BBB69FD2FFC936BC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1112r12p1148r13p1159r12p1180r13p1216r13p1230r13p1254r13p1284r13p1291r13p1340r13p1395r14p1459r15p1484r15p1513r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "01ce59b784f864e9df0f73c7e2df9190308aa91d9a1ed0b84692d1309cf1b625",
+  "validation_errors": []
+}

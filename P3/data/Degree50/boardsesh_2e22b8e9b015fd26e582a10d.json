@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2e22b8e9b015fd26e582a10d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Argus",
+  "setter": "vitalsetters",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "d70f39b32d954d599830a81f707817a0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1151r12p1156r15p1172r12p1185r13p1210r15p1238r13p1269r13p1298r13p1369r13p1383r14p1449r15p1587r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.99,
+  "ascensionist_count": 200,
+  "quality_average": 3.35,
+  "hold_fingerprint": "8e7f007ebdc38ba8d2585a0c4d35cfcc4586f19f4c9db80f2210cd1a99b07800",
+  "validation_errors": []
+}

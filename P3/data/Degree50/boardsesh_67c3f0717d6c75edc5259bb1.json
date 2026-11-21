@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_67c3f0717d6c75edc5259bb1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Blargh",
+  "setter": "FluffytheCat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "B06B961E93E44E619413F4F1D5EAC630",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1144r15p1149r12p1183r15p1199r13p1214r15p1268r13p1271r15p1301r13p1356r14p1456r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d672993bc87cdc22d489c45bcd1b43b7570597c974188285d2a14f754fcdb702",
+  "validation_errors": []
+}

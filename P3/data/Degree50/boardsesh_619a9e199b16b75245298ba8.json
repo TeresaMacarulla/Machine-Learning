@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_619a9e199b16b75245298ba8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Volnutt",
+  "setter": "ABenAbides",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "ede6b2f09d76416884c99d6957f85ba2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1166r15p1169r12p1185r13p1197r13p1250r13p1283r13p1304r13p1371r13p1386r14p1453r15p1457r15p1534r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "52cce5ebbc3c40d86f47e13b846ea230454ee1341e4e7dac2b287a910cad3c71",
+  "validation_errors": []
+}

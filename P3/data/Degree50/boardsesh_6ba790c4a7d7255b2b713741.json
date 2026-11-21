@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6ba790c4a7d7255b2b713741.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Hot Cross Bao",
+  "setter": "kalvinh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "b53ed7a760d54053973cb885ed6013c1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1154r15p1163r15p1200r15p1219r12p1231r15p1239r12p1253r13p1284r13p1300r13p1351r13p1371r13p1388r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.03,
+  "ascensionist_count": 71,
+  "quality_average": 3.38,
+  "hold_fingerprint": "74794f902b49ec0f0ebc90d65774909b6062dad21659d9585b9aa6d764d6da95",
+  "validation_errors": []
+}

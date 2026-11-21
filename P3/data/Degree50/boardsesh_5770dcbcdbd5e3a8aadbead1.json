@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5770dcbcdbd5e3a8aadbead1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Counter Clockwise Shoulder Explosion",
+  "setter": "costoff",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "9A60B22A07F04680900D493019EE19A6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1201r12p1271r13p1304r13p1325r13p1387r14p1478r15p1513r15p1516r15p1526r15p1533r15p1545r15p1553r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "09ba6be18e69a6804e31aa6dbaadeb6f72211e118df16acb52d8bb0498c20ab1",
+  "validation_errors": []
+}

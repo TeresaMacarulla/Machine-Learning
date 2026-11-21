@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9d7204291332d53f359fe7d1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Deprivation",
+  "setter": "45er",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "9679B4FF3FC74D0E90C0D79212F3A6B0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1164r12p1202r13p1254r13p1266r13p1323r13p1339r13p1357r13p1368r13p1385r14p1455r15p1593r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 22,
+  "quality_average": 3.0,
+  "hold_fingerprint": "10017f488ec337f554ed7521cfb74c15183acef2a835cf973182c085bccba069",
+  "validation_errors": []
+}

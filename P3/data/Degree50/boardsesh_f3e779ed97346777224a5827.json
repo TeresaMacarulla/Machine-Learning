@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f3e779ed97346777224a5827.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Dynamic move",
+  "setter": "zuzu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "19a5ca4228ce40ba964557efe3126a60",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r15p1163r12p1230r12p1266r13p1287r13p1322r13p1387r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0252627487f20620396ef778c2f9712a0b4e152cf32bc16bc1f8a95a926ef450",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f9cede773213e50220dac853.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "typical pulling and crimping",
+  "setter": "tomue",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "ab1fc9b766ca45748afb22e5587fc1f7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1094r15p1146r12p1182r12p1232r13p1263r13p1335r13p1339r13p1352r13p1390r14p1479r15p1504r15p1532r15p1543r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 883,
+  "quality_average": 3.26,
+  "hold_fingerprint": "ee4ad3c1542af7d551d37feeb232fefc960b9b7f69fa98d957211477d7ea9531",
+  "validation_errors": []
+}

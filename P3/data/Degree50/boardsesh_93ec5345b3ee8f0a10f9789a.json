@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_93ec5345b3ee8f0a10f9789a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "nicotine dry-heave",
+  "setter": "Emazura",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1ad9b8f40cdb46089eb12a2d23d23c87",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1125r12p1143r12p1210r13p1230r13p1264r13p1318r13p1335r13p1387r14p1485r15p1511r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b283833e948d0e094fc6963e2759dcefa8e5ecd7abf1ca3d88ff075a5cc42f5d",
+  "validation_errors": []
+}

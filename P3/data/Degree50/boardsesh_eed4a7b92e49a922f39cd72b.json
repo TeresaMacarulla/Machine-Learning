@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eed4a7b92e49a922f39cd72b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "brodaz",
+  "setter": "Cer3erO",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "89b7435fddc64163a5fb65decdef6d46",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1192r12p1246r13p1255r15p1280r13p1302r13p1336r13p1389r14p1483r15p1522r15p1524r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.95,
+  "ascensionist_count": 59,
+  "quality_average": 3.34,
+  "hold_fingerprint": "e92276c52043164940d2386c833d05d877f9da5bed1bad33efc9114ad74fdcdd",
+  "validation_errors": []
+}

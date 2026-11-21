@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7895003dc52005cda97653c4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Krippenspiel",
+  "setter": "ChristophBeer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "60E50B43CFEA4D0F93565AED941B099D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1162r12p1177r12p1216r13p1250r13p1322r13p1374r13p1394r14p1459r15p1464r15p1494r15p1497r15p1506r15p1535r15p1550r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "fcb59ddc3f5b46ef906c299e4e695e39ac90601a009acae182670e1f9767e40a",
+  "validation_errors": []
+}

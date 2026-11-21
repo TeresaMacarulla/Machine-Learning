@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1630a56b1c95ff83cae4f459.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "campus 1389",
+  "setter": "Bator",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "f7f9c6e03e1f427dbfc0274fc89107d1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1227r12p1246r12p1262r13p1300r13p1334r13p1353r13p1385r14p1389r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.0,
+  "hold_fingerprint": "2a89610e3e5d524963e84f1d722515bf7f2d84ab26fef7e1e84fb17468788625",
+  "validation_errors": []
+}

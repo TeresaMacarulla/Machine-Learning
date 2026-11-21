@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_310e0c92e1de09d7a628dc4b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Stand Over Ham",
+  "setter": "joe1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "90f79fe186c04117957b0284db581357",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r15p1138r12p1155r12p1157r15p1221r13p1234r13p1302r13p1387r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "1ce2a4d6519667e1bf237e8aa0f4b7b4dc14a4309df1e02745a9aea5bf0f001e",
+  "validation_errors": []
+}

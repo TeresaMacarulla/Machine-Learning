@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_23cc08195b458ce709aedbc6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "GAME",
+  "setter": "AntoineBern",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "296B7CCF3BA740F39FFC63CCD6C4698B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1237r12p1339r13p1352r13p1386r14p1517r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0f0f2e9de65c0caf1b48082dd245d1653b086d6af1e041bc3794925e83154883",
+  "validation_errors": []
+}

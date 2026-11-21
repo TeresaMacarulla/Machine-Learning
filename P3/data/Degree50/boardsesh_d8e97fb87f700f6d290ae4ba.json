@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d8e97fb87f700f6d290ae4ba.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Adam Proj",
+  "setter": "Trumkin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "605be7c88ee6423bab3031d1bcfda716",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r15p1147r12p1166r12p1197r15p1236r13p1285r13p1322r13p1336r13p1387r14p1458r15p1539r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.67,
+  "ascensionist_count": 6,
+  "quality_average": 3.17,
+  "hold_fingerprint": "f17436120d5246d77174ee1adcfb40b562dad7c20590a746496f937cba01ef55",
+  "validation_errors": []
+}

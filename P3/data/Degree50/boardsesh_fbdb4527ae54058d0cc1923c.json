@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fbdb4527ae54058d0cc1923c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Diep",
+  "setter": "p.tang",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "c7c88de7080f4d6cb4a82c266965ed0c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1152r15p1158r15p1198r13p1200r13p1226r12p1236r13p1246r13p1247r13p1260r12p1306r13p1308r13p1359r13p1395r14p1554r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "20c69dd1df7c82b16925e5f0bc26a272267e94339cb77e96677c8a8b35f62509",
+  "validation_errors": []
+}

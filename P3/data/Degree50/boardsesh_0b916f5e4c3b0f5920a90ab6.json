@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0b916f5e4c3b0f5920a90ab6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Transfusion",
+  "setter": "tortesla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "D5E1D01939DD4E8AB30FC701CA0F6339",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1217r13p1254r13p1307r13p1360r13p1395r14p1447r15p1488r15p1517r15p1524r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "cb2abecdd549126a8d791d9a7d931921dcb395fabdd4c4d05a75054b96ecb5ea",
+  "validation_errors": []
+}

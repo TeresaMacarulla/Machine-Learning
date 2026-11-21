@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_729d7f79a5e9115ebffa3684.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Stand and fight",
+  "setter": "SamSends",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5C333410901C4F40B18884A88E313A77",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1191r15p1259r12p1276r12p1289r13p1304r13p1336r13p1369r13p1383r14p1525r15p1566r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.95,
+  "ascensionist_count": 40,
+  "quality_average": 3.4799999999999995,
+  "hold_fingerprint": "a3cdf24c87e08b5457cd053be94276f82b741a57d4b1cda3ca8b592b0929f72e",
+  "validation_errors": []
+}

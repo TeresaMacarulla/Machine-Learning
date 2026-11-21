@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8d093d8eb90e36bc357041e6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "shoulder breaker",
+  "setter": "fe1ix",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "7D31720B137B47F999EF778F14763124",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1179r13p1192r15p1227r12p1249r13p1270r13p1320r13p1390r13p1394r14p1465r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.14,
+  "ascensionist_count": 7,
+  "quality_average": 3.57,
+  "hold_fingerprint": "062a7dc1a55dd085106191bee47859c49c34178e850dc74265d778b08d9d83c7",
+  "validation_errors": []
+}

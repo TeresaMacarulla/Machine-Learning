@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4b97b1b9a3101c33d287bb30.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "confusion bug",
+  "setter": "nikkepikke",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "E323FAE5A361430BAE217C1BD6DC39A2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1098r15p1107r12p1115r15p1145r12p1177r13p1232r13p1263r13p1301r13p1340r13p1349r13p1354r13p1394r14p1463r15p1537r15p1551r15p1562r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "54af0eb714ea8cd475261df3c4a66087cce8634b8f3bff612a59091153168f0b",
+  "validation_errors": []
+}

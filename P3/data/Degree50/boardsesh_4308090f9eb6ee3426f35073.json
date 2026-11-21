@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4308090f9eb6ee3426f35073.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Make kilter board hard again",
+  "setter": "asamra",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "44C44FB7B1B54814AF88550BE3762252",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r12p1186r12p1217r13p1271r13p1295r13p1318r13p1329r13p1362r14p1487r15p1490r15p1537r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b866fdf52cb97c0c5a5eb89b293915f055f6794e2b914e52817be706bdfd1d55",
+  "validation_errors": []
+}

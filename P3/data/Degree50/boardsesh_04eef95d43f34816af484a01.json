@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_04eef95d43f34816af484a01.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "spin both ways",
+  "setter": "garagegnome",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "9e541a88052f475fa881216ba79bc38d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1257r13p1289r13p1291r15p1297r13p1300r13p1302r13p1308r15p1331r13p1380r14p1448r15p1451r15p1511r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.85,
+  "ascensionist_count": 29,
+  "quality_average": 3.4400000000000004,
+  "hold_fingerprint": "82d56b10ff6769fcee9657dd7a89f97941c2a381adda4d3ed82d91537897fc41",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3fbbb9f9d366a6354d1b7903.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "MANTRA",
+  "setter": "medvis",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "93315c45d61f45f0a4b0afe47b9e04a3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1165r15p1194r12p1232r13p1238r13p1250r13p1286r13p1305r13p1371r14p1388r14p1477r15p1487r15p1506r15p1525r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "22e91c88501b6218c08e9628362502045a3ba3fdde46ada64f4c7ab41f38fc37",
+  "validation_errors": []
+}

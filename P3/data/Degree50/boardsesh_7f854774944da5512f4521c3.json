@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7f854774944da5512f4521c3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Toe in the Hole",
+  "setter": "pockethook",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "da5c3868bde847c397945d4f2743d182",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r12p1187r12p1217r13p1285r13p1332r13p1382r14p1477r15p1479r15p1524r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.04,
+  "ascensionist_count": 24,
+  "quality_average": 3.42,
+  "hold_fingerprint": "6d1a35defacf3602fe97e2471b1415f6e075a33cd8263bb03cfa7af5fc0d095a",
+  "validation_errors": []
+}

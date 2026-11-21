@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9f9b0fbf08198b36bf7d073d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "dboulder #1",
+  "setter": "DanielS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "27f573f2-336f-4688-9446-5342459c96fe",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1190r12p1187r12p1255r13p1106r15p1478r15p1268r13p1495r15p1322r13p1340r13p1531r15p1389r13p1385r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "1dfa26fafc4f6a3579ce8e660aa58227e71e066aa241169de9e7ef1813df6d06",
+  "validation_errors": []
+}

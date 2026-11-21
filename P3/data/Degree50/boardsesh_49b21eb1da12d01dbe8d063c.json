@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_49b21eb1da12d01dbe8d063c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "cat piano dos",
+  "setter": "gullshunter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "f4776857-48a2-4c9a-83cc-47761aca8d70",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r12p1171r12p1079r15p1167r13p1253r13p1283r13p1352r13p1385r14p1521r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.2,
+  "ascensionist_count": 5,
+  "quality_average": 3.6,
+  "hold_fingerprint": "70ccbfa0640c7988308e86b2dbc24c4f1d1e4204468dd5b68249af1502e4ab45",
+  "validation_errors": []
+}

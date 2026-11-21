@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8e4392f3e8022e7759cb5b7d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "readiness signal",
+  "setter": "trackandy89",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "D5D82240E752479A9BED63B288F9826B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1237r13p1322r13p1334r13p1382r14p1383r14p1455r15p1460r15p1498r15p1513r12p1527r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 16,
+  "quality_average": 3.53,
+  "hold_fingerprint": "9088b0fd7e60ecb367311b8b424c064c450ae24f4e05a23c0deafa80e20a3fc4",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_da1ba6c5597f921ab42687c2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Simple Jack",
+  "setter": "Cuckovich",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "4F8252369A5C48E989279B93B67BBC23",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1105r15p1172r12p1190r12p1236r13p1269r13p1317r13p1384r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 16,
+  "quality_average": 3.13,
+  "hold_fingerprint": "68e96afc90d48eac7eab04a485432e9068f51b265dc56a9ee52ad9342f70cba3",
+  "validation_errors": []
+}

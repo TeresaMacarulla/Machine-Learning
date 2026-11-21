@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4a0bfb76395b0e515b6e7e1a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "NACHOS",
+  "setter": "NilsHolgerson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FBC94871CF6747B5BC2088D12A30796B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1082r15p1149r12p1197r15p1234r13p1266r13p1302r13p1353r13p1385r14p1386r14p1477r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "252fe10234face90d4b621794753baf8b1658a59ab458f269921383e4f393976",
+  "validation_errors": []
+}

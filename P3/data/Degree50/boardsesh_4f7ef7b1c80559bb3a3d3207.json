@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4f7ef7b1c80559bb3a3d3207.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "RacecaR",
+  "setter": "Odentheclimber",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "76550DE738A74D319A753B4798E58F72",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1204r15p1218r12p1233r12p1318r13p1352r13p1389r14p1479r15p1523r15p1552r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "8fce4696be779db2091ba487d4f38a4891bc7fd866b9f2ae0bb783910bb3645b",
+  "validation_errors": []
+}

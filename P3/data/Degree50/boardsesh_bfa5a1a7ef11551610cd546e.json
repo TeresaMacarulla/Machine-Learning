@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bfa5a1a7ef11551610cd546e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Bro pulls everything but a crimp",
+  "setter": "Arthur548",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "ff4ec5ad2b1847328ce5a89071202ead",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1178r15p1181r15p1192r12p1194r12p1246r13p1262r13p1264r13p1300r13p1333r13p1347r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.75,
+  "ascensionist_count": 5,
+  "quality_average": 3.5,
+  "hold_fingerprint": "2a0f98133bf34dc4c65e85788034d130d5c06d1c12505790dc66114c5c262874",
+  "validation_errors": []
+}

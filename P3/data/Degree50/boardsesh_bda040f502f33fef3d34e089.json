@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bda040f502f33fef3d34e089.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "project x",
+  "setter": "tytaft",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "00ED3C009B2E42839CBF1D253D670D2F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1180r13p1282r13p1355r13p1391r14p1460r15p1464r15p1540r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "bfe4eeb1fb30c237f7e22512e81f510794f9947e1c99eaa4c061167ec2d20a92",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_79068f0c1b5dac24e5eeccaf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Ankle Breaker 2.0 (Left Foot Only)",
+  "setter": "sheldonaitken",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "F88129EB13604A58BD528482CA827CC0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1203r13p1239r13p1273r13p1308r13p1377r14p1454r15p1489r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "12566f8debb3fbe3454979b20587f2e424bf174640cb0d8979cd60c09de2a3d3",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_39a513756f1c9ea0c03ea19f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Lazor Beam 4",
+  "setter": "colerosey",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "1de39188847a4119825f4f8e46178167",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1163r12p1210r13p1246r13p1278r13p1299r13p1333r13p1387r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "fc1120eabc5f4397f0f48ebf73235637b524bbb12a917d3d9e4319f352877f4a",
+  "validation_errors": []
+}

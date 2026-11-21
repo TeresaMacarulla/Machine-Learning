@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_04feff35c6a195757fa4bf32.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Segev's Campus V2",
+  "setter": "Segev",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "a93a241240414a3f8104fd75405bd703",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1257r12p1259r12p1306r13p1308r13p1341r13p1359r13p1391r14p1393r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.08,
+  "ascensionist_count": 26,
+  "quality_average": 3.1499999999999995,
+  "hold_fingerprint": "21ac09972b1b32948f0fd8df0e490e46e5e023ed07437a0d540393bbcfaaf7c1",
+  "validation_errors": []
+}

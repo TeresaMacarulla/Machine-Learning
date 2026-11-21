@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9438aa1a5770995b7feb3233.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Reach N Pinch",
+  "setter": "stone.gardens",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "31BBD94CD9FF41028A6886E7D9E67C62",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1096r15p1180r12p1182r12p1228r13p1281r13p1331r13p1381r14p1382r14p1484r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "848dc27ccd9d7f1adfb36240773c2a6602a829b03494bc8543bbaba6b824f6cf",
+  "validation_errors": []
+}

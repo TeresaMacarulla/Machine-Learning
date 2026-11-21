@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b435508a770a1c6d35e5011c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "k2",
+  "setter": "kbaldwin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "F816C713B36D44C18494FE16AEB4ADB7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1178r12p1201r13p1250r13p1333r13p1362r14p1474r15p1493r15p1506r15p1531r15p1559r13p1584r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.2,
+  "hold_fingerprint": "98345fd2e1cd449504661555e4b7e37da5e44c03c616c9efd7bf7360a11b7389",
+  "validation_errors": []
+}

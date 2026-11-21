@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5ebb137a6728ef06448f8fe4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Time, Place, and Manner",
+  "setter": "Azuka",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9C0BCC2228D342D2B5F152D0FFB00ADC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1139r12p1153r12p1218r13p1222r13p1252r13p1299r13p1351r13p1380r14p1447r15p1469r15p1482r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "922358ec23310b7bb400bd193c91b4dcb7cf227ceb9c27701ffb09c8b4e0bc8f",
+  "validation_errors": []
+}

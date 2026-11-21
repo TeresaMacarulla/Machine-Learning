@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_60d789b662b6ccfb9de3507b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "pullcrap",
+  "setter": "domifabbri",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "0B883F1136334F679E3B584A32A156C2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1156r15p1172r15p1202r13p1222r13p1250r13p1254r13p1264r13p1315r13p1328r13p1379r14p1447r15p1452r15p1487r15p1495r15p1510r15p1539r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.29,
+  "hold_fingerprint": "8f00b1cbcb25a114411e732aa5cec8ec22c82f794e89a7835b6de40e1335b405",
+  "validation_errors": []
+}

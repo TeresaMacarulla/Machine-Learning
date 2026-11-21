@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_484b740d7009b135e269f50f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Project Shmup",
+  "setter": "krimdogbillionaire",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7E215462E89548D59A1A7D80681A15E3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1163r12p1177r12p1204r15p1248r13p1249r13p1252r13p1286r13p1307r13p1339r13p1369r13p1370r13p1383r14p1461r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.15,
+  "ascensionist_count": 86,
+  "quality_average": 3.5,
+  "hold_fingerprint": "7bb01799b15f2516921ca7524204fef14321f02ca8b593b85285ba7651e7bea9",
+  "validation_errors": []
+}

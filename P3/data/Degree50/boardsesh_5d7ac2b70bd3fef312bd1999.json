@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5d7ac2b70bd3fef312bd1999.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Where's my data kilter??",
+  "setter": "MinMax",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "337623db-a991-4dc5-9926-7c7596dcbb70",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1188r12p1256r13p1257r15p1320r13p1251r13p1214r15p1157r15p1299r13p1385r14p1383r14p1219r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8e453fcf20438c2fadc54d49a98589814ea6886e03188ca99c9b5713cf55047e",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5c55c2e4575b579003f643f9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "wonky",
+  "setter": "roreuss",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "940064b7-35ba-4134-9773-acdd75388aff",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1178r12p1127r12p1460r15p1184r13p1201r13p1495r15p1271r13p1309r13p1536r15p1375r14",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.46,
+  "ascensionist_count": 15,
+  "quality_average": 3.54,
+  "hold_fingerprint": "b3bbe610c0d42c613d23ac67a875e13140f501d189898b59724a2d2d756a46d8",
+  "validation_errors": []
+}

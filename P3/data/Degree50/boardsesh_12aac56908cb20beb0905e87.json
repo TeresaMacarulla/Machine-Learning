@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_12aac56908cb20beb0905e87.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "cbm1",
+  "setter": "wingings",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "C5340CB5D90C41CC97F3A27A59E791C6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1223r13p1256r13p1268r13p1289r13p1302r13p1331r13p1365r13p1380r14p1450r15p1518r15p1521r15p1523r15p1525r15p1530r15p1555r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.04,
+  "ascensionist_count": 29,
+  "quality_average": 3.61,
+  "hold_fingerprint": "50fe4ffb6564f80708ebe66f89cf6f8ec0cd127b14fabfc96aac2af16f89bb0a",
+  "validation_errors": []
+}

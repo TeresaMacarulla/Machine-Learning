@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_24925e574e2b1d5faf100df7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Humanoid",
+  "setter": "Hiro10",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0608eba9137b40e59e859a57779a0c6f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1192r12p1264r13p1279r13p1312r13p1349r13p1354r14p1492r15p1501r15p1521r15p1579r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 5,
+  "quality_average": 4.75,
+  "hold_fingerprint": "c9dd4f70ccbe5651c526d7b86916b85a9b7c2df93da42ada07cbdb2b36b3b3b7",
+  "validation_errors": []
+}

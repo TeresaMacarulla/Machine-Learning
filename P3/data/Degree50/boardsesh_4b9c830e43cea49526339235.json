@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4b9c830e43cea49526339235.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Drop it on the Floor",
+  "setter": "Phipsi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 11
+  },
+  "source": "boardsesh",
+  "source_uuid": "6a5d47cb9a9f484f8ad7066d3e677a13",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1092r15p1130r15p1158r12p1160r12p1169r15p1179r13p1215r13p1219r15p1252r13p1270r13p1307r13p1336r13p1339r13p1386r14p1457r15p1462r15p1464r15p1504r15p1530r15p1548r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "10ceb97e2fa690f1e937b7494c6424818a141ab5e1aa50981aa189256261e9f1",
+  "validation_errors": []
+}

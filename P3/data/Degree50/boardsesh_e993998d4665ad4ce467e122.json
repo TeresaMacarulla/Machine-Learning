@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e993998d4665ad4ce467e122.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Hallucination",
+  "setter": "raechelpeng",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "AC10855E5DDB410C9BA9C77F24DE63BD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1131r12p1145r12p1180r13p1198r13p1234r13p1284r13p1302r13p1333r13p1385r14p1387r14p1497r15p1513r15p1523r15p1576r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 19,
+  "quality_average": 3.4200000000000004,
+  "hold_fingerprint": "f90beeb6e373c6ae76acd33b21d32f41d1165c3d87115112ad900cb3c73d9a3a",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8c8cd33cb60c987f6b7d72ee.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Daphne's working right",
+  "setter": "marcoderrien",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "82efa0d9a8264d79abfbe22d40d88cf1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1222r12p1235r12p1288r13p1304r13p1349r13p1370r13p1380r14p1381r14p1470r15p1534r15p1586r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ce1555f78906f81876f601305bf6b0e4fe4161f914fe205455e1e3df36d8906f",
+  "validation_errors": []
+}

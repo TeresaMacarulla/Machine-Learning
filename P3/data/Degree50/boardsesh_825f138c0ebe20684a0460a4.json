@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_825f138c0ebe20684a0460a4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Pace Maker",
+  "setter": "jkassay",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "8F05DAFBE94F45828370B820901437A4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1152r12p1171r12p1201r13p1230r13p1233r13p1280r13p1347r13p1380r14p1469r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "a62bef6239f121a1ce01d3b973a5b931ddfe28232b4f494b7692f3db0a0c6d88",
+  "validation_errors": []
+}

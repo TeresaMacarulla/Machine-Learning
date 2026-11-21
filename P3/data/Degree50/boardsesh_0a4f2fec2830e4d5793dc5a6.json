@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0a4f2fec2830e4d5793dc5a6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "drifting",
+  "setter": "atari climbing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "91d8d708-e2d5-4a73-b586-b341d88f2379",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1276r13p1189r12p1207r12p1482r15p1481r15p1500r15p1254r13p1272r13p1304r13p1506r15p1335r13p1387r14p1542r15p1499r15p1303r13p1569r15p1552r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "e9c81509d99e6773ed2a8f5e79e26612cefc7269582c15fe17886e5c426419d8",
+  "validation_errors": []
+}

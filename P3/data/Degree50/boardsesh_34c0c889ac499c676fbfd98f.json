@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_34c0c889ac499c676fbfd98f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Dad8",
+  "setter": "Pulliam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "3bd9ae8c-9100-412b-86cd-14350c31cfd0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1198r12p1202r12p1131r15p1113r15p1165r15p1234r13p1117r15p1266r13p1302r13p1197r15p1353r13p1391r14p1390r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.2,
+  "ascensionist_count": 17,
+  "quality_average": 2.4,
+  "hold_fingerprint": "42434c0bea4aa45a9c60b8a735edf5764a0c34713a5d890cef303f12c791a981",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b9cae5fd1b4659185401b6a1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "small box",
+  "setter": "AlexanderMegos",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "D3C1B22C7EBC4D0C8FB1AE0837E86F0C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r12p1176r12p1231r13p1286r13p1326r13p1395r14p1465r15p1572r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 18,
+  "quality_average": 3.67,
+  "hold_fingerprint": "bfd82781979554a888f46e894ddffbb71167ec6f03dd05438adc86b8cd51a5b2",
+  "validation_errors": []
+}

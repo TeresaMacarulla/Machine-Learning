@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f7ff4ad7905de01ea9429136.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "only jambe droite 2",
+  "setter": "robzezlevrai",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1fd0b728-7581-4b6b-9e60-b2c026265f1c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1197r12p1511r12p1506r15p1248r13p1287r13p1338r13p1553r15p1392r14p1559r13p1205r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.6,
+  "ascensionist_count": 5,
+  "quality_average": 4.6,
+  "hold_fingerprint": "faeeacf91fc8c0b89e8ebb6914d3685060f48f21105b307a9bb1ecdb5f6190aa",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9c2451316cac50b369da6d27.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Squirt game 2.0",
+  "setter": "Clem_6999",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "382DA2845D57494BB134FD9CA9354C7F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r12p1171r12p1204r13p1217r13p1218r13p1284r13p1353r13p1373r13p1394r14p1450r15p1488r15p1504r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "4523cee4ba13117acdec7bed60b5a3854997091e0676d1eb46ba6463d7107adf",
+  "validation_errors": []
+}

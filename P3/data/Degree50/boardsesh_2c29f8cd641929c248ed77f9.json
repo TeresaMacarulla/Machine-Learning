@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2c29f8cd641929c248ed77f9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Recycle Campus Ultimate",
+  "setter": "jariger",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "411f2e52344d49ef9c0bd3b3d77dbc6c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1302r13p1311r12p1315r12p1347r13p1387r13p1390r14p1392r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "d7b4974abe402f0d2dfe2aab76f2d0a6ba5bf43715c06e5830bf22cb5abc34e3",
+  "validation_errors": []
+}

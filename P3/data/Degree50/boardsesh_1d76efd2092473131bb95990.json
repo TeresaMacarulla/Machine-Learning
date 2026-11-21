@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1d76efd2092473131bb95990.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Off the Rails 1.0",
+  "setter": "justacceptalready",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "B0D23AC724084D19A96219ABCCD4470A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1144r12p1178r12p1201r13p1253r13p1255r13p1286r13p1304r13p1329r14p1334r13p1383r14p1483r15p1534r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 29,
+  "quality_average": 3.3099999999999996,
+  "hold_fingerprint": "1d817ed9e3276e3201dc01ff047d7be46c9356173231db068d153a365fb4fa8f",
+  "validation_errors": []
+}

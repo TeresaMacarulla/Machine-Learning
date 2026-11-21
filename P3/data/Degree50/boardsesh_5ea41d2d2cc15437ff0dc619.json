@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5ea41d2d2cc15437ff0dc619.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "erlangen freestyle",
+  "setter": "derwelt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8beb15c6b3684e838ead63ca6ba65a72",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1095r15p1125r12p1162r12p1233r13p1247r13p1268r13p1323r13p1375r13p1394r14p1464r15p1514r15p1535r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.05,
+  "ascensionist_count": 866,
+  "quality_average": 3.53,
+  "hold_fingerprint": "40ede817b1c1eae111646742e7e13bc5330b74901ad3c2476444a7abef4022f6",
+  "validation_errors": []
+}

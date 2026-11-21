@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1ec3a5a07f18a4db4ce8e89e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "campus drop",
+  "setter": "thijs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "E79E52C850424A93A938C6441845206F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1253r12p1283r13p1355r13p1384r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.89,
+  "ascensionist_count": 9,
+  "quality_average": 3.44,
+  "hold_fingerprint": "cdb04baff815add225b3a61217f708f1b4bfc815244cfacdb0df5798dbd03ae4",
+  "validation_errors": []
+}

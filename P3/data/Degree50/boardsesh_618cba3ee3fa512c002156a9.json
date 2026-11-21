@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_618cba3ee3fa512c002156a9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Volotometer",
+  "setter": "B_Barthman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "8EE900EEFC9C4554A4902A9B407D0C64",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1184r13p1186r13p1204r13p1224r13p1239r13p1291r13p1324r13p1344r13p1394r14p1456r15p1478r15p1481r15p1500r15p1536r15p1554r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "47226bdcb1c88fd1bcd4cc8d3f457492c2bddeab8a87f295877829d95bf5af47",
+  "validation_errors": []
+}

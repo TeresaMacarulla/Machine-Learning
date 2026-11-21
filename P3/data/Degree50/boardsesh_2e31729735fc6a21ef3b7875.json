@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2e31729735fc6a21ef3b7875.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "jump (fwea)",
+  "setter": "gsmith.00",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 0,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "7AF9DEAA43F04B73A36DAC9C3696D1E7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1302r12p1349r12p1387r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f2e210326c2be8cef31aaa69d0a1d165466c16176acd2755c78e2db108e7b776",
+  "validation_errors": []
+}

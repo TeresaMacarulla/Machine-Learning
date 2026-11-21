@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c59ee5ec7a6f17697227a4e0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Prefabulated Amulite",
+  "setter": "claytonhardacre",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "13D1F0528BD54518B6939E63D46D5A18",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1151r12p1171r12p1237r13p1253r13p1286r13p1337r13p1385r14p1453r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "2b874f3bb87a44b94cfde24421217806da5cf855017e63d6d118f8e062535209",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_42f51dede11c21b0934ef17d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "deload",
+  "setter": "45er",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8F9B31F6E6494C79B232A27D98243253",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1120r12p1131r15p1154r12p1184r13p1217r13p1223r13p1272r13p1284r13p1354r13p1384r14p1522r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6981efee83827ac46c82e99d0c446fa04a2ebb07b510204483d3f46ed67bd515",
+  "validation_errors": []
+}

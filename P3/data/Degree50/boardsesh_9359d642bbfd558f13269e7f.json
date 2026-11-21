@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9359d642bbfd558f13269e7f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "sink that heel",
+  "setter": "dewaranch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ba5cb750e2744cc097c5808758f17273",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1149r12p1150r15p1167r15p1181r13p1252r13p1273r13p1320r13p1339r13p1390r14p1457r15p1507r15p1532r13",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "0f9a71f348f2ee75fdcc2d874983419535908823050a5d6554719d0356fcc267",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b499d90588240c26cd954d4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Birk flosk fluor campus",
+  "setter": "hogbed",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "FCA7DA8A6B62485AAA2B7CC256ACDA18",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1209r12p1210r12p1277r13p1281r13p1313r13p1351r13p1385r14p1387r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "42e024332a2e58d3acdbb9ba54efc11c05aaa667aabc65af908bef5de1dca6f6",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e07c8cc8e641bf47f912491b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "L'albators \ud83e\udd85",
+  "setter": "robin_rg",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "d7ed20dc88314c0d8a5199f6a8f071db",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1168r12p1220r15p1238r13p1241r15p1255r13p1322r13p1334r13p1351r13p1365r14p1490r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2dfc3676752c876bdda7a4593da5e20ff69eea8d00409cd552f01b7eef844d28",
+  "validation_errors": []
+}

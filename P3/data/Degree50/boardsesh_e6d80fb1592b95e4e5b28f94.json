@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e6d80fb1592b95e4e5b28f94.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "gimbap",
+  "setter": "leemiho",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "E23E4F88FDC04C6DBF32697B462747F3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1144r12p1162r12p1214r13p1233r13p1284r13p1304r13p1320r13p1357r13p1387r14p1543r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "0b01884f0c85d4e587d8c60de0f4d10122ad0a70d5f2cc8a6202a52a6cc303cb",
+  "validation_errors": []
+}

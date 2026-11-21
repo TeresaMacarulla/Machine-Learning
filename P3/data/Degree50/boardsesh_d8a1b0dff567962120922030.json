@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d8a1b0dff567962120922030.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Honda Accord",
+  "setter": "JohnC",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "1B38D6A2FBE14CC09FE845DE661C2AD0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r15p1148r12p1163r15p1199r12p1233r15p1263r15p1286r13p1334r13p1383r14p1460r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "afd77ce5c87547efa6b1e95ea6167f9422d51020c342a98c62ceb03f3dfe6a02",
+  "validation_errors": []
+}

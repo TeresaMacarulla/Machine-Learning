@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d2fc0426088876a388381d10.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Hailey",
+  "setter": "RaphaelWong",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "57DFB2ED5E6B465A8D5EE25825676541",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1167r12p1198r12p1269r13p1283r13p1304r13p1353r13p1392r14p1522r15p1534r15p1558r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ef6f7cf3ec38dc6c1e66717e7993f6af50f8265c8ccc0db33bb60c591a133d77",
+  "validation_errors": []
+}

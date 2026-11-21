@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e73100c8231fe4da4e12e605.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Bring your lunch",
+  "setter": "ksuchy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "97054E27381840588568D41FFDA5B004",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1161r12p1163r12p1170r15p1183r15p1198r13p1200r13p1221r15p1234r13p1236r13p1289r13p1304r13p1319r13p1353r13p1387r14p1458r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.14,
+  "ascensionist_count": 8,
+  "quality_average": 3.57,
+  "hold_fingerprint": "cd2f80465e23dab896d32b8f128764496c06d892f68d04d16bec3da63b1a16ec",
+  "validation_errors": []
+}

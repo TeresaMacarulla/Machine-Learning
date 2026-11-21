@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_63d0a53d4e8a76ae2ab332f4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "breafing",
+  "setter": "deadpointer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0861D4B090954339B7B141665411AF39",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1130r15p1141r12p1195r13p1210r13p1249r13p1250r13p1288r13p1321r13p1390r14p1535r15p1542r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f198ffae3ff6b37532aae528cea679e31cffccae49b70e5b8b13c7a3cc7f4e21",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1eb26c0cf0429a784821adb4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "the question",
+  "setter": "thijs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "AEBF1DDF3BF14B5389787392C36BA2B7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1170r12p1216r13p1217r13p1291r13p1320r13p1392r14p1504r15p1572r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "b8b36b8bbdaa89278cf5b8b19ff583aac4a91f023cc7fda6d841addee4647b7b",
+  "validation_errors": []
+}

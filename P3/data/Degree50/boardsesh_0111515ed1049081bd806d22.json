@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0111515ed1049081bd806d22.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "d\u00f6rings torture",
+  "setter": "mote",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "00BE6F2448E945D9898909DDFF8F5D9D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1103r15p1110r15p1131r15p1161r15p1200r12p1203r12p1215r13p1234r13p1247r13p1300r13p1350r13p1386r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.01,
+  "ascensionist_count": 472,
+  "quality_average": 3.33,
+  "hold_fingerprint": "0e180ed6846e8807a23d36bdcb0f8ef49050e8a2b23da524e8b97722c5a08f9d",
+  "validation_errors": []
+}

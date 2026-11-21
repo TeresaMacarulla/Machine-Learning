@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e9ef2aa3a7681f4d867c5b90.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "ninja",
+  "setter": "liam_megos17",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "e0c60171-8138-4a61-9c42-0f05526bdf97",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1199r13p1179r12p1146r12p1232r13p1086r15p1083r15p1270r13p1320r13p1514r15p1373r14p1589r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c635e1462d78fff9b3048be498d9360efe1fc41d8410b9f39b60db1c0ef689fa",
+  "validation_errors": []
+}

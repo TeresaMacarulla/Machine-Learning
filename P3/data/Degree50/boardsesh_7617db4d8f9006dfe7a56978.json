@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7617db4d8f9006dfe7a56978.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Seam Ripper",
+  "setter": "nick_dt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "D5F21C2CA283401887D8D388901B5181",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1202r13p1220r13p1239r13p1274r13p1292r13p1326r13p1377r14p1455r15p1457r15p1472r15p1518r15p1536r15p1572r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "29613b1c8bbb7d4057ab43ed7b80e54ed8e432aad02461c496aae6c091a71dc9",
+  "validation_errors": []
+}

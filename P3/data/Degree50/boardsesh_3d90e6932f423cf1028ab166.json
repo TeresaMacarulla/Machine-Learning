@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3d90e6932f423cf1028ab166.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Goober\u2019s last stand",
+  "setter": "borsom",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "23965D093B0E43A9AEBA7D5E104B7776",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1132r12p1163r13p1214r13p1263r13p1317r13p1384r14p1453r15p1456r15p1510r15p1551r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "81fb7e9d2cb2fd65e5f67941d99348557cbb3d0d4fa6b4da3adf541725d77971",
+  "validation_errors": []
+}

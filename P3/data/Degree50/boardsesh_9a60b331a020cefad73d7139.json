@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9a60b331a020cefad73d7139.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "squeeze",
+  "setter": "rbailey",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "e4a2202f-7686-4071-a356-a9c63b260874",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1081r15p1215r13p1231r13p1262r13p1160r15p1300r13p1335r13p1354r13p1271r15p1385r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.25,
+  "ascensionist_count": 9,
+  "quality_average": 3.5,
+  "hold_fingerprint": "5677b70468dc022c387f7a27319341f90646e7e73c408093e8ac597126a8aa69",
+  "validation_errors": []
+}

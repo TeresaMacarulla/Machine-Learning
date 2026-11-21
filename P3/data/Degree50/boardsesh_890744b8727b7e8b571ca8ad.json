@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_890744b8727b7e8b571ca8ad.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Vegemite",
+  "setter": "dewaranch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "383201615c3e4e5cb81280c8256c3d79",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1165r12p1185r12p1219r13p1271r13p1291r13p1341r14p1454r15p1536r15p1542r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "0efe5e7098963d8e17fa0b29a7d2b033aedc1b97264fe55ce8127699605d9fa4",
+  "validation_errors": []
+}

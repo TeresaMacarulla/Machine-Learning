@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e350a26637ea4202f768c9a4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "LVL",
+  "setter": "sinful",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8CAA531B51B141809136367347E04C62",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1077r15p1154r15p1155r12p1212r15p1234r13p1239r13p1302r13p1315r13p1385r14p1387r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6e8e867660c4c2a3adabe204d0be18ad9c4bb343c473f97d3856e51f25607742",
+  "validation_errors": []
+}

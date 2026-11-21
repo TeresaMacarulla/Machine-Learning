@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c7ddf1e1596bc7a213b781aa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Little Mookie",
+  "setter": "helpjack",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "d1e62c6b6eb7425497a70fca9973b24b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1153r12p1157r15p1187r12p1239r13p1252r15p1292r13p1305r13p1323r13p1388r14p1452r15p1527r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.83,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "ab01b34425b2b511506ec1dec9d123d3368c36f8d807c02b55409c46ccefbdc9",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_325382f0cbd148cf9be0c89b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Wagon lite for Gasverket",
+  "setter": "pajaro",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8477aa4dfc814ade97a503cfe0671ca2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1230r12p1248r13p1321r13p1324r13p1327r13p1377r13p1391r14p1485r15p1510r15p1540r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "060bf25b5d83eb1c6c57e1b8a27b3f6b37bd32394fcb2c87ef4f676175fcbf2f",
+  "validation_errors": []
+}

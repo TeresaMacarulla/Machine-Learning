@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_36a997c47410f7b3d8037327.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Right right, left left",
+  "setter": "jorx",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "a26a7f4564154d92ad2fb57abcc81f95",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r15p1156r15p1187r12p1222r12p1288r13p1336r13p1389r14p1517r15p1558r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b697513f4245b14daf461c612b80e4b5685219dbeff70eee4dd8d4244eeaaf9f",
+  "validation_errors": []
+}

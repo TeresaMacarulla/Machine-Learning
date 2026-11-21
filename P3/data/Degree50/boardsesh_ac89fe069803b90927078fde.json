@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ac89fe069803b90927078fde.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Fun campus",
+  "setter": "choops",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "7597750765654D9E87D76D1987479782",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1257r12p1259r12p1275r13p1289r13p1308r13p1341r13p1393r14p1394r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.67,
+  "hold_fingerprint": "8e5ce77904dff734fb6b96b2b1488eb7aed3381cd7fde2f3609d754a4c3d2606",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2e1487b418a0bc6755b8f2ed.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Moon kicker 9000",
+  "setter": "jchongsends",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4473554C8B03489DB43C6DEDD47C1AAA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1081r15p1153r12p1201r12p1288r13p1317r13p1383r14p1498r15p1530r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.29,
+  "ascensionist_count": 7,
+  "quality_average": 3.86,
+  "hold_fingerprint": "fef96aa84a5a2e68a057547c823a132849ff375d161ee53f912814a9b40dd05b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2f709a2cfdecd637b25e0ace.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "V4 opens the door",
+  "setter": "EMPA",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "458B2B3A17D84777AD12AAA2F142B1CE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1157r12p1255r13p1257r13p1340r13p1359r13p1394r14p1447r15p1450r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.25,
+  "hold_fingerprint": "1d51a0656ee257ecf7e54ae160a5f2be5f0d2e59f13e54bfb2a06a91f1aa6252",
+  "validation_errors": []
+}

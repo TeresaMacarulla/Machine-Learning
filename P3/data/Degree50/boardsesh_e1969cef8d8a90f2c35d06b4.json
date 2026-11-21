@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e1969cef8d8a90f2c35d06b4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Electric Eel",
+  "setter": "zdordai",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "C1BC74AAA4B84158BE154EFA8C3C2A48",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1158r12p1188r15p1204r15p1208r15p1229r13p1252r13p1271r13p1309r13p1326r13p1391r14p1462r15p1483r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.5,
+  "hold_fingerprint": "7d4cff10666103bd24993d65d8decd2703bb89620d1a6cc169ecdd6d751b0617",
+  "validation_errors": []
+}

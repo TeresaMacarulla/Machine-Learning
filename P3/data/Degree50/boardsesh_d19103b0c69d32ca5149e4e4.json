@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d19103b0c69d32ca5149e4e4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "8 penguins",
+  "setter": "grainycurd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "AE394011DAB24476AAD4215B9BF44D91",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1173r15p1187r12p1194r15p1200r15p1204r12p1212r15p1256r13p1282r13p1299r13p1304r13p1305r13p1313r13p1330r13p1380r14p1452r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 4.2,
+  "hold_fingerprint": "ce523d263b5659ff4692a5fc2029858c37da0aee991a5d428ba54a1a883c3937",
+  "validation_errors": []
+}

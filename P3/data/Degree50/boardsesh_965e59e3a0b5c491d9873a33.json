@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_965e59e3a0b5c491d9873a33.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Traverse the river",
+  "setter": "Moritz12345",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "DE67687E25434764B598515ED8A61907",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1161r15p1166r15p1224r12p1289r12p1300r13p1305r13p1311r13p1379r14p1510r15p1519r15p1578r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "64602a5831a8273c21b81e9438d4b860657fb8cc42dce0375b170c5ef896320b",
+  "validation_errors": []
+}

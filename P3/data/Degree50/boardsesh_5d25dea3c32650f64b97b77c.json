@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5d25dea3c32650f64b97b77c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "motomami",
+  "setter": "lewburton",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1359889176DC447C9993F310F6D56A90",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1125r12p1127r12p1176r13p1197r13p1262r13p1301r13p1339r13p1356r13p1394r14p1458r15p1542r15p1572r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "db4c34f7d8ffd5184bbb2222ab3553946b2ec0d225941f257ac5205c89c5012d",
+  "validation_errors": []
+}

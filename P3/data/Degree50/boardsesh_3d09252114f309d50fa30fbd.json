@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3d09252114f309d50fa30fbd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Real Rock Climbing \ud83d\ude18",
+  "setter": "GirthQuake",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "0742BE051B7C4732A3BECBB7EA62808F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1204r15p1233r12p1235r12p1266r13p1304r13p1372r13p1392r13p1395r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "2a63fd2ac3b21bf6611a4e7c65502682f4de7323afa8c2d5263c294ef80a0a71",
+  "validation_errors": []
+}

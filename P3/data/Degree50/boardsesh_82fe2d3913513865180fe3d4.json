@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_82fe2d3913513865180fe3d4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Starfish E",
+  "setter": "E.2.d.2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "7292AB055895426DB140724EA8510C02",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1237r12p1251r13p1299r13p1303r13p1349r13p1351r13p1366r13p1380r14p1498r15p1524r15p1532r15p1534r15p1577r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "ded885012a183e3e5feee37e64ace221284216110738c8458b00fbd41804e334",
+  "validation_errors": []
+}

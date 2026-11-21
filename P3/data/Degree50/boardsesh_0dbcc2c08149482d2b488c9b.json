@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0dbcc2c08149482d2b488c9b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "M and M",
+  "setter": "ryanneedles",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "fb0de8a5f1d74b69aa5d11c6847cc95f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1233r15p1257r12p1304r13p1305r13p1371r13p1387r14p1500r15p1507r15p1508r15p1534r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.99,
+  "ascensionist_count": 3250,
+  "quality_average": 3.240542038805051,
+  "hold_fingerprint": "63de8accb0b849f8155e98e76f4c9a0aa06e0c66d9c6ebb4bb94bfff4d4318de",
+  "validation_errors": []
+}

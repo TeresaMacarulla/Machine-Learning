@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ae86bcb829252e4e0395bab8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "love lasso",
+  "setter": "mochri",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "6AE861C4752D4812B3B6CE41732E9482",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1161r12p1162r12p1214r13p1231r13p1269r13p1286r13p1323r13p1340r13p1392r14p1457r15p1461r15p1475r15p1477r15p1505r15p1507r15p1533r15p1544r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2e041c73adea65b80ef6c387262f78a289dbb3db8180806e454d8c75931c0f15",
+  "validation_errors": []
+}

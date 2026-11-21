@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0c04a2101e87262ab75022c3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Pinch Bloc 101",
+  "setter": "mscho",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "566cbf77-b88e-4a6a-9f8b-7273cc346a5f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1216r13p1228r13p1501r15p1149r12p1454r15p1314r13p1457r15p1282r13p1519r15p1384r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.6,
+  "ascensionist_count": 5,
+  "quality_average": 4.8,
+  "hold_fingerprint": "ba4c34eef06ecadff7ef146cc956e68873c648dda0f9d0c87a707688bfaffed5",
+  "validation_errors": []
+}

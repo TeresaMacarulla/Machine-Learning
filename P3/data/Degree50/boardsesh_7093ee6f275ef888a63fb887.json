@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7093ee6f275ef888a63fb887.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Monday contingency",
+  "setter": "BlakeMaclure",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "11C5680C74FF4A908AA1C6B3A0C75596",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1085r15p1145r15p1165r12p1181r12p1250r13p1271r13p1320r13p1350r13p1354r13p1383r14p1531r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.5,
+  "hold_fingerprint": "bdcab47a6555eddb785b268829b56df8ed58b9e99ad7371b0246f07208c8c20f",
+  "validation_errors": []
+}

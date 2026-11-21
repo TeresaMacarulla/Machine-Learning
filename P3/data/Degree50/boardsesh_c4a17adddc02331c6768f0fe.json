@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c4a17adddc02331c6768f0fe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "bakrichod",
+  "setter": "spherical_cow",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "D607598C394A4F32B954DCF56020D9D2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r15p1127r12p1179r12p1196r13p1221r13p1222r13p1234r13p1258r13p1308r13p1394r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.94,
+  "ascensionist_count": 17,
+  "quality_average": 3.24,
+  "hold_fingerprint": "cbf0ebab9877d24cbad935025627c3f8dfe59fb1ae961fb44fa23e58f31e5619",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_59835f667ff9d41cbff04d29.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "optional ROI",
+  "setter": "maxkoke24",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "55EF623602B3417C9B39C1DDE01D081E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1089r15p1142r12p1143r12p1163r13p1215r13p1236r13p1302r13p1322r13p1389r14p1479r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.33,
+  "ascensionist_count": 4,
+  "quality_average": 2.67,
+  "hold_fingerprint": "44cf55e03d6fe37a31163611d3c745b5675db4b00ed723f65b3d6231f243c1ee",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fb0481d982adf9f4a8df3a6c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "G. Hydraulic",
+  "setter": "Pjottr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0abc4638690b474e8124411130e8e96c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1126r12p1197r12p1210r15p1247r13p1270r13p1320r13p1339r13p1368r13p1383r14p1385r13p1540r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.86,
+  "ascensionist_count": 7,
+  "quality_average": 3.29,
+  "hold_fingerprint": "398c1095775b865b0a276de99beb34cbc73089c9d747eaa37d94bff51da33847",
+  "validation_errors": []
+}

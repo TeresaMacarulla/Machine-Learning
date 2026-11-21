@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0c7774f1f4277a38f69bf36b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "isolationist",
+  "setter": "bentaylor_",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "16634FC2F1874D49969F800E5F30B429",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1133r15p1145r12p1214r15p1250r13p1275r15p1317r13p1325r13p1373r13p1394r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ba15ecb5a985ed482e5f707ace95739263dc3203c479115aca23236ebcadb2b7",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_68b3e0c03cc59071050e9336.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Injury Reserved",
+  "setter": "jkoz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "59CED89FB29A4665850A626D845AA8FD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1145r12p1150r15p1151r15p1152r15p1179r13p1220r13p1234r13p1239r13p1307r13p1360r13p1392r14p1460r15p1461r15p1535r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 12,
+  "quality_average": 3.5,
+  "hold_fingerprint": "8bc7bf9c5f297f8c52d95d7466e2aea21b326bf5b86638e839afe6701f4191a1",
+  "validation_errors": []
+}

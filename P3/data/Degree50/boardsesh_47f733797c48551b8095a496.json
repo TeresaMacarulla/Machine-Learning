@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_47f733797c48551b8095a496.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Alice shoulder trainer",
+  "setter": "alexgomez",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "8A1E489C29F04229A5186A53B11BB6E6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1234r12p1236r12p1289r13p1319r13p1322r13p1390r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "68a1433f7cc82e46dcfe6049bafc6d8e83c22d1c5daf5078fe77e7c93f324a83",
+  "validation_errors": []
+}

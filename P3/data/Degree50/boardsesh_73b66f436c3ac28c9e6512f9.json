@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_73b66f436c3ac28c9e6512f9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Roont Scromble",
+  "setter": "oliverjthompson",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "582FCA7EEB5242F8BD1FD8B018E956A4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1215r13p1281r13p1330r13p1385r14p1454r15p1487r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "043a4a3943be0bb144665bfdfe1d2194f4509cc37f267f4540a47cd92230809c",
+  "validation_errors": []
+}

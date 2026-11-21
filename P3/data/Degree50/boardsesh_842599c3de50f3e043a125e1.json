@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_842599c3de50f3e043a125e1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Schaufelnase",
+  "setter": "nooo27",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1c1a827c-e3ec-48cb-a41e-3a1940607444",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1131r15p1475r15p1199r13p1543r13p1256r13p1308r13p1357r13p1336r13p1335r13p1365r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.8,
+  "ascensionist_count": 5,
+  "quality_average": 4.4,
+  "hold_fingerprint": "5f8b71d349d7843d7305d408ba30aa129f526aca51bf4df0b323672f37adca6a",
+  "validation_errors": []
+}

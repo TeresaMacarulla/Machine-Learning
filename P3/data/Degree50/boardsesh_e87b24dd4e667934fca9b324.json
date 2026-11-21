@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e87b24dd4e667934fca9b324.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Molly",
+  "setter": "KimDeWolff",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F54FCDE40D784CB6B69B02E6BC7229AF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1149r12p1266r13p1283r13p1295r13p1383r14p1470r15p1504r15p1520r15p1543r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.5,
+  "hold_fingerprint": "ba5ce59a173c087db0225eff5dd6d8c468edcd7b60289970bdff21b59483d338",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fcbebca154016788650191a2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "CorndiggityFly",
+  "setter": "CorndigDRG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "9871FED3C8F14755A24413E3776F25E9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1117r15p1130r15p1160r15p1180r12p1186r12p1197r13p1228r13p1267r15p1285r13p1295r13p1348r13p1383r14p1385r14p1537r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "0dd1fd253119659c7ace25654031027f147d07d5c3b580bd124de9de89422c9f",
+  "validation_errors": []
+}

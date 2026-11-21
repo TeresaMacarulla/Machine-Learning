@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f1f5d61c1bbd09a3a741c4fc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "morpho af",
+  "setter": "tobiasiding",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A3441B01D1154B25B00E98B65E0DB62D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1187r12p1238r12p1289r13p1316r13p1335r13p1363r14p1471r15p1481r15p1516r15p1532r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "3a59bf1b4368555d3bfa77f145b803c68f92d13165a69670adb541711215e0bb",
+  "validation_errors": []
+}

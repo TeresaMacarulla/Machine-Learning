@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_24f989a421f204384ca886e4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Full tired",
+  "setter": "MDEMOY",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6ACB665126654F36828F388F19E8080C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1089r15p1145r12p1175r12p1199r15p1246r13p1247r13p1300r13p1350r13p1387r14p1464r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.57,
+  "hold_fingerprint": "841590dab075ad2248382db2a95409ce6b8c386236c899cc81bf8386b030efef",
+  "validation_errors": []
+}

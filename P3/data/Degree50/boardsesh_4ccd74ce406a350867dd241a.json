@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4ccd74ce406a350867dd241a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Loose cut king",
+  "setter": "GaldalfTheSender",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "c73f631464764cb991c8ede485f9eb55",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1153r12p1235r13p1287r13p1301r13p1317r13p1346r13p1362r14p1470r15p1524r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 11,
+  "quality_average": 3.0,
+  "hold_fingerprint": "46003d64c4b36d1b43d9742b3735cd079b66e60f2a9577687b52dd122726b2e6",
+  "validation_errors": []
+}

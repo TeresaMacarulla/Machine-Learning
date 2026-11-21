@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b1e99bb6c933ea176f58b829.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Chalk Lungs",
+  "setter": "nlun",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "7d141718654d477e92f4abc6eb1892a8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r12p1129r12p1168r13p1219r13p1257r13p1304r13p1305r13p1353r13p1369r13p1383r14p1459r15p1462r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.75,
+  "ascensionist_count": 8,
+  "quality_average": 3.75,
+  "hold_fingerprint": "9109ff807273a640cd5eb35ee3fa869da621c10fa8f4ceb63e533d32158618d0",
+  "validation_errors": []
+}

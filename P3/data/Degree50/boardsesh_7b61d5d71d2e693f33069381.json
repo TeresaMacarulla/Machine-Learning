@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b61d5d71d2e693f33069381.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "test subject",
+  "setter": "nevsboardaccount",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "a4ad655d-575c-4ba3-95c1-ab738d4d9da7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1457r15p1452r15p1199r13p1197r13p1281r13p1153r12p1383r14p1345r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d3cdee1b5f61639c067e28ddd2fde71d86dea9b35609a6f4605f27d9d8952290",
+  "validation_errors": []
+}

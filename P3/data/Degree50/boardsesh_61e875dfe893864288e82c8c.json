@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_61e875dfe893864288e82c8c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "physiCOOL",
+  "setter": "alexgomez",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "611BED68F5CD4B3EBE5A8DAA4907C026",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1141r15p1192r12p1200r15p1237r15p1268r13p1279r13p1280r13p1304r13p1339r13p1394r14p1561r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "efce0250c44c6d9e1a1f402071c909169fddaaf2f9dacb68618fd770d5f39db3",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fe8ce64752ff0d973d77050b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Even Lefter Hand Legend",
+  "setter": "algernop",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "c569092eee4e4957ab95bdb5da3a5cfc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1161r12p1193r12p1247r13p1249r13p1287r13p1319r13p1339r13p1388r14p1474r15p1521r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.3300000000000005,
+  "hold_fingerprint": "d0ce99821f98e4b80ba62d76940a0f5e9fb351619119c7e4be654a94073722c5",
+  "validation_errors": []
+}

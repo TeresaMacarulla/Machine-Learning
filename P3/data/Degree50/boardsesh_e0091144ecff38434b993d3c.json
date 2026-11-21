@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e0091144ecff38434b993d3c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "defying gravity sim (kinda)",
+  "setter": "jchongsends",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "4B712704E0D64476A5F1E6B90724C38C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1161r12p1162r12p1249r13p1267r13p1269r13p1353r13p1385r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "705a2c29db244100d585c22c7a001cf8a187e56d075ef03084d239911f311f43",
+  "validation_errors": []
+}

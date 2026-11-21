@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f8f4516caa52a6030f69d19e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "German 7C",
+  "setter": "45er",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "51F1DD6400EB4F769E8A03BFDB7959D2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1196r13p1203r15p1229r13p1269r13p1314r13p1318r13p1385r14p1457r15p1459r15p1474r15p1546r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "02c5b4e9bbde0624122a503d50d0deb20e700f5cc972962cd22bf7a5c819b681",
+  "validation_errors": []
+}

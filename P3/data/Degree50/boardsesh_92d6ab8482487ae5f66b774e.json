@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_92d6ab8482487ae5f66b774e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "right hand trauma",
+  "setter": "oscargronhauglol",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "89b3c4a3-694b-4978-99c1-4a283939f65a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1139r12p1203r13p1216r13p1383r14p1468r15p1448r15p1455r15p1287r13p1299r13p1521r15p1595r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b300cdeec44d97a20918d0c2d74b334ba4b404a3c73b76ed3e70e640b2634264",
+  "validation_errors": []
+}

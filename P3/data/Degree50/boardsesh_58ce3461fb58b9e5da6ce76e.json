@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_58ce3461fb58b9e5da6ce76e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Pelican Step-Up",
+  "setter": "wills",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "0FD327A5B421401EA48F894BD2061FD4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1121r12p1169r12p1186r13p1233r13p1247r13p1284r13p1370r13p1384r14p1451r15p1472r15p1479r15p1494r15p1513r15p1521r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.96,
+  "ascensionist_count": 81,
+  "quality_average": 3.4100000000000006,
+  "hold_fingerprint": "b55a9639c9157a054998fc6759cfb059805459f6a4985836e4d6889567fb13ca",
+  "validation_errors": []
+}

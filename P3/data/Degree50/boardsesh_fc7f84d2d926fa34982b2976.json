@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fc7f84d2d926fa34982b2976.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Kabanus Mode",
+  "setter": "sharmaclimbingmadrid",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A5FED1B8780D461FB5C9850CF91E4800",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1206r13p1244r15p1252r13p1269r13p1315r13p1365r13p1379r14p1447r15p1451r15p1508r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.11,
+  "hold_fingerprint": "d653e0ef61fdbbb689e0be2e932a162f5de3f3b082899cf4371474588bb4c310",
+  "validation_errors": []
+}

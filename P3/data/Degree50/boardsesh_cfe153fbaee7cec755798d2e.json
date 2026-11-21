@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cfe153fbaee7cec755798d2e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "torta pounding",
+  "setter": "isaac_dunk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5963C47413D14A9E8E54507B62F060AD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1126r12p1176r13p1182r13p1264r13p1270r13p1370r13p1393r14p1459r15p1464r15p1477r15p1495r15p1497r15p1550r13",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9c782825e280039a199212404aece5ea836bc8eccf43ef077cf6eb4544056a2a",
+  "validation_errors": []
+}

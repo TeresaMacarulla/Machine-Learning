@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6c810678623d90f84df31c3d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "KilterComp25_boulder26",
+  "setter": "boulderbar",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "A0368A9A870A459D9BDA6FDD5E75EB68",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1202r12p1228r13p1233r13p1237r12p1281r13p1318r13p1332r13p1388r14p1493r15p1516r15p1520r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 26,
+  "quality_average": 3.3500000000000005,
+  "hold_fingerprint": "e64aa289f31844990157cb10f52dda8ded870e34a7be3816e702ca9381be2e6d",
+  "validation_errors": []
+}

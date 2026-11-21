@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4f55598e3506bd4f3ddfc262.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "baguette",
+  "setter": "lachlan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "120972DD237A49FD922E9D0946D5BFE7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r12p1154r12p1184r13p1254r13p1319r13p1335r13p1384r14p1451r15p1455r15p1565r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.5,
+  "hold_fingerprint": "2ff981842d8bae9e75a790cd22b792e27aa63f8b1a639ebda8ec130f6c9f0596",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f59be0948f86e02027c46c30.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "NS 100 LOW",
+  "setter": "nino_smets",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "8157a3cf337949ad9e1fb4b216e860c3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r15p1162r12p1180r12p1216r13p1271r13p1304r13p1372r13p1384r14p1533r13p1578r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.83,
+  "ascensionist_count": 6,
+  "quality_average": 2.33,
+  "hold_fingerprint": "bd72a9b72e972ce83b91fa45dae45b26d87fce893a9e85967d3b6e280dcc9297",
+  "validation_errors": []
+}

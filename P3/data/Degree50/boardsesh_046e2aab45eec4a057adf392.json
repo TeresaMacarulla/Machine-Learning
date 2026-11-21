@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_046e2aab45eec4a057adf392.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "sleeper agent",
+  "setter": "mikkelsommer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "FD6E612D07664A1889CACD405D030EBD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1169r12p1187r12p1231r15p1270r13p1301r13p1305r13p1334r13p1348r13p1380r14p1452r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.94,
+  "ascensionist_count": 694,
+  "quality_average": 3.5861383285302595,
+  "hold_fingerprint": "52bdb8b2895929ba2473bf076a99bce54e8f4e60b7a3393202e919256cf8731b",
+  "validation_errors": []
+}

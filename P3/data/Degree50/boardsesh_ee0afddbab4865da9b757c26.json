@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ee0afddbab4865da9b757c26.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Tungsten",
+  "setter": "grep",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "7fe861b8-b924-458c-ae85-21317122fe0a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1198r12p1477r15p1236r13p1269r13p1288r13p1534r15p1317r13p1334r13p1387r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.11,
+  "ascensionist_count": 13,
+  "quality_average": 3.11,
+  "hold_fingerprint": "3be6899eff432909015038bc552f98190c3060792c80c0e384073896ea0ca14f",
+  "validation_errors": []
+}

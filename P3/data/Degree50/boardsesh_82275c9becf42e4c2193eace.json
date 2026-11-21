@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_82275c9becf42e4c2193eace.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Steep Land",
+  "setter": "C_Rad",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7ACD851CF271491B95EAA75BD81C89F0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r15p1158r15p1160r15p1192r12p1194r15p1210r12p1243r13p1263r13p1279r13p1312r13p1313r13p1347r13p1364r13p1383r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 6,
+  "quality_average": 2.0,
+  "hold_fingerprint": "390d2a3a5227bbf23ce71e4b0556f1a36343212f896424c1c8f13134fff52b40",
+  "validation_errors": []
+}

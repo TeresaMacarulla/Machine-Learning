@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_36be5448d7ed82af2360d71c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Keep Your Eyes Open",
+  "setter": "Riptile",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2F8E8DF87EC44ADDA8B41CA5483E9CD9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1145r12p1182r13p1200r13p1236r13p1286r13p1322r13p1354r13p1385r14p1458r15p1489r15p1544r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.67,
+  "hold_fingerprint": "390644ffec57743b4e66ccef87f9a018ae5cbcbd75ce33f0ac4c99f1a72544e7",
+  "validation_errors": []
+}

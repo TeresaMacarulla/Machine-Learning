@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_de290c0ebc07012a6719b47d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "1389 dynamic",
+  "setter": "Bator",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "85ef1b48234c41d682a45fb3784070f7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1191r12p1221r13p1234r13p1237r13p1257r12p1302r14p1332r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "4167980deb15547410b07511ce1eb57e4d1838db5ae3b6fb9e58b9bd83c8a342",
+  "validation_errors": []
+}

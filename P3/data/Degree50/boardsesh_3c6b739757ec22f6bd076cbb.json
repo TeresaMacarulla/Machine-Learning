@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3c6b739757ec22f6bd076cbb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "twisted dyno",
+  "setter": "tore.strauch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ce188686-e90f-40ac-9c58-6ed6d8cc1d4d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1085r12p1462r15p1199r13p1248r13p1460r15p1302r13p1373r13p1394r14p1530r15p1273r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "753532a694ef3fed6cc93d8c186bddab17c580d6beb387b58c91c02df3d58048",
+  "validation_errors": []
+}

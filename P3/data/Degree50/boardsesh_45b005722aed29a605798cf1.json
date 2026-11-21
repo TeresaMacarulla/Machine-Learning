@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_45b005722aed29a605798cf1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "fox circuit 1",
+  "setter": "jfox3665",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 9,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "2d3fe280e2724012b0df32b0c38a30a9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1144r12p1156r15p1213r13p1220r13p1221r13p1234r13p1258r13p1274r13p1309r13p1373r13p1374r13p1386r14p1483r15p1516r15p1527r15p1544r15p1559r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6e89e1463aea976df0a9be20d5071ea30740f154db916c014c11423ef8a56880",
+  "validation_errors": []
+}

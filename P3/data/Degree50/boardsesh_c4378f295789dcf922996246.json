@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c4378f295789dcf922996246.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "cwimp",
+  "setter": "helloootheree",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "E88534235199416EBB81194C19BDE6AB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1089r15p1141r15p1142r15p1168r15p1177r12p1183r15p1230r13p1248r13p1287r13p1288r13p1359r13p1394r14p1503r12",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.94,
+  "ascensionist_count": 54,
+  "quality_average": 3.43,
+  "hold_fingerprint": "89f5fedbf9776c711f170945f0421ed4ec0054a912bf160d6fb3c80f76cecb13",
+  "validation_errors": []
+}

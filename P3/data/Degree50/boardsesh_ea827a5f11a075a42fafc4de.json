@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ea827a5f11a075a42fafc4de.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "pepperland",
+  "setter": "ChiaraErler",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "47A0030C1FF845C7803A5B417E56930C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1165r15p1197r12p1204r15p1205r15p1214r15p1215r12p1252r13p1269r13p1302r13p1315r13p1384r14p1487r15p1547r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b35420044fc71999ac58dcbd9fc318113e825e31b8d9130bafd7dd633431e50b",
+  "validation_errors": []
+}

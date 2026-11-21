@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4d5925f6f94ac715b9c79f12.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Scimitar",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "c285fe7bc6ee4c8c87280a0e5da8f44c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1190r12p1205r15p1237r12p1256r13p1270r13p1303r13p1338r13p1371r13p1391r14p1509r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "08d154e1bfbdf820d0922deb57732a41d9ebf3eaa94a2782665e7451174e4951",
+  "validation_errors": []
+}

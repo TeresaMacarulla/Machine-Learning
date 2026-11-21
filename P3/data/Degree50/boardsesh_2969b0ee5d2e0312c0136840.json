@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2969b0ee5d2e0312c0136840.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "open hand training",
+  "setter": "damndaniel",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "c1acac4d-ab64-4e36-a219-9d5b557946c7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1168r12p1218r13p1078r15p1457r15p1267r13p1301r13p1231r13p1097r15p1144r15p1321r13p1355r13p1392r14p1274r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 6,
+  "quality_average": 4.5,
+  "hold_fingerprint": "d2a86b5242ecbfa1d0e02a95df27ef6557c61fa1ef3c69ad8584ea286db024cc",
+  "validation_errors": []
+}

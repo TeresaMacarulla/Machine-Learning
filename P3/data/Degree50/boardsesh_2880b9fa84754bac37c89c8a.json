@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2880b9fa84754bac37c89c8a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Juggernaut Jump",
+  "setter": "tortesla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "6D1F03952D204CBD82C433590742E4D4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1171r12p1203r12p1306r13p1387r14p1451r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "27629f6119c7fff17c668fc6bde10a848440783dea50d99580e259fd1cf33e8d",
+  "validation_errors": []
+}

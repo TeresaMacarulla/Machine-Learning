@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_79f4c2f6f16b8e313ffc44c4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Obverse",
+  "setter": "Ds4564561",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FFB14BC3CD4347328AABFD797C1424F3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1123r12p1181r15p1186r12p1241r13p1253r13p1270r13p1283r13p1354r13p1383r14p1452r15p1489r15p1499r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.27,
+  "ascensionist_count": 36,
+  "quality_average": 4.1,
+  "hold_fingerprint": "7e7a0239ac097f6d6202c6b0dabca273a4417aa1e0e8480299b324912ebfd91c",
+  "validation_errors": []
+}

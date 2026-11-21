@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_06a342ad8c9746be70b1273f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "pinch it twice",
+  "setter": "bmacg",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0073a028c7df480db68f07ed2316e72d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1162r12p1176r12p1216r13p1228r13p1249r13p1253r13p1319r13p1332r13p1383r14p1459r15p1476r15p1504r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.05,
+  "ascensionist_count": 22,
+  "quality_average": 3.2,
+  "hold_fingerprint": "ca53e4eb4fe5312799be38053cd599fd16d45a9bd6bdc1c2a8f67aa47aa57f3f",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ee031e0101c8d6feb53cfcf8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "enjoyable",
+  "setter": "zdordai",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "B89457B8C9D0443F9AE74C981D1AFCD3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1178r12p1231r12p1282r13p1303r13p1336r13p1373r13p1391r14p1484r15p1504r15p1561r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "0ed0b25cc4df82495bb3e81ccb84900486ebf291e9547209d3df11a7ec811057",
+  "validation_errors": []
+}

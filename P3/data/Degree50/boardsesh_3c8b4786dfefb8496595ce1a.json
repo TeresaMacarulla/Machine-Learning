@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3c8b4786dfefb8496595ce1a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "poopy climb #1",
+  "setter": "xavierclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "EE0457F00520428097D6547E71E0916D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1173r15p1207r12p1240r13p1326r13p1374r14p1481r15p1482r15p1489r15p1515r15p1525r12p1554r15p1561r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "84b391fda5ffc12064a80fd0d26d788d3283eb88d4784bb1b4579c809f989530",
+  "validation_errors": []
+}

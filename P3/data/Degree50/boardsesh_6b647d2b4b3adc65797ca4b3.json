@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6b647d2b4b3adc65797ca4b3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Juju 1",
+  "setter": "margotmeije",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "BEF6AF4E79A2432BB00CE95A1A200CF4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1155r12p1166r15p1204r13p1213r15p1234r13p1237r13p1284r13p1302r13p1336r13p1388r14p1453r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.5,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ff79b8334bc4c5172ecc47cd3fc50b230767ec0e527117a8e4b7efae971b4e89",
+  "validation_errors": []
+}

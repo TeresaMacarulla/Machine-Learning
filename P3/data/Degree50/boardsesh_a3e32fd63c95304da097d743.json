@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a3e32fd63c95304da097d743.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "super reverse mario",
+  "setter": "pkman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "86a49b18afb84145a447486c7a39a22e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1119r12p1121r12p1202r13p1214r13p1231r13p1277r13p1328r13p1379r14p1449r15p1485r15p1519r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0b2e344d92b71666c854aff01e9d00354ca47f7f5342d4398f2ca76edb1feab6",
+  "validation_errors": []
+}

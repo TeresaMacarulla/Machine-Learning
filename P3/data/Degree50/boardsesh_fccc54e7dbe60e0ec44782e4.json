@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fccc54e7dbe60e0ec44782e4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Banana 1.0",
+  "setter": "Senana.banana",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "72298728dd6a49d0a328542c96d4ee2a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1108r12p1143r12p1209r13p1246r13p1331r13p1354r13p1371r13p1392r14p1463r15p1467r15p1484r15p1519r15p1561r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "c66f5c7997add1cda2b73ad8f5263b36202d9a41a7b58e6f563f7d32bec73751",
+  "validation_errors": []
+}

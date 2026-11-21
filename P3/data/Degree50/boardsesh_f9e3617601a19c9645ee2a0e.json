@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f9e3617601a19c9645ee2a0e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Misfire",
+  "setter": "antoine.schohn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "75897dfd-2f2c-4fb6-8a12-1f7f912bdb8d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1355r13p1267r13p1269r13p1504r15p1263r13p1141r12p1177r13p1464r15p1227r13p1340r13p1343r13p1395r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.17,
+  "ascensionist_count": 9,
+  "quality_average": 4.33,
+  "hold_fingerprint": "24051051694a13334ccf615707daef573c5e57a2c62162908ff83bf7b2ba38d6",
+  "validation_errors": []
+}

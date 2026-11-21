@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cc658b71024d2e1421a111c7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "campus rad",
+  "setter": "joebacci",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "1F848298785941BDB6A8B88130D7848E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1183r12p1200r12p1248r13p1249r13p1300r13p1349r13p1367r13p1386r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ee3bc0d23b438223a3187d9ce2573ec2c654b624c4f86f8037148cd3f94caeb8",
+  "validation_errors": []
+}

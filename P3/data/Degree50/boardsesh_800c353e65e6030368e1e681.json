@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_800c353e65e6030368e1e681.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Rocket Raccoon fire",
+  "setter": "Matthew_C",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "FD0CD923324D4526A4313C318CA5048D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1124r12p1127r12p1164r13p1196r13p1216r13p1254r13p1319r13p1375r13p1393r14p1461r15p1464r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.75,
+  "hold_fingerprint": "b28c8bd96dc1b52b3ba83d05687ccaa05e3ae7961ac7372882d31f7a13f01c25",
+  "validation_errors": []
+}

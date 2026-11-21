@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ac416ac73dec0cd69705ccf0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "CowRocks",
+  "setter": "cowrocks22",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FA6247D9C7DF4E7CB82BEED51BFF85B8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1149r12p1163r15p1219r15p1234r13p1266r13p1304r13p1353r13p1383r14p1386r13p1585r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "fde6590a383105fc87b219a75e8a618a2f93a60c34c68efe3790d835cf7d43c3",
+  "validation_errors": []
+}

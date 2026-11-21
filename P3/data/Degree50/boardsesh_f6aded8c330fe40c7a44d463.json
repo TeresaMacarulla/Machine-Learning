@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f6aded8c330fe40c7a44d463.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "RG LowRider",
+  "setter": "SebastianG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "09fe5af1e90a4657a717fb95f1eeae76",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r12p1115r12p1149r13p1169r13p1200r13p1217r13p1268r13p1287r13p1321r13p1339r13p1391r14p1452r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "64ec4cb0ccce36c2d16c1b30046bc4863e10b86ea7dfde726971d92a7dd652f8",
+  "validation_errors": []
+}

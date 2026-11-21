@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_298c517820d5723ec21c7431.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Avoid Dunwich",
+  "setter": "Necronomicon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "cfdbb1b05bd641c3b48feb5479287f01",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1162r12p1195r12p1249r13p1267r13p1287r13p1321r13p1371r14p1506r15p1516r15p1524r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "1cd53917513fc655ee058fd87878bfb5ac700aa84b3d12bf86aa368cda4925ce",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_efbda8773f59570fa916984e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Beep #1.5",
+  "setter": "steil_boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "84C6885C44104CC6AD1AB85397202705",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1153r12p1203r13p1273r13p1339r13p1370r13p1383r14p1454r15p1489r12p1506r15p1553r15p1566r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "7c4591d96c4ec95444ee897e050547b84004e9d10693c1ee275bff264d13e66a",
+  "validation_errors": []
+}

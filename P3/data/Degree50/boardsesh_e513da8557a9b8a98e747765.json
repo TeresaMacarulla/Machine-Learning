@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e513da8557a9b8a98e747765.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Full Battery",
+  "setter": "DarthMaerd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "001EC76F05BF4E0B9398D6D13AE36AC7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1184r12p1236r13p1267r13p1337r13p1385r14p1389r14p1469r15p1471r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.33,
+  "ascensionist_count": 4,
+  "quality_average": 3.33,
+  "hold_fingerprint": "f24d047c22b29e1a5d7e601c1fc8146f3abeec810b6835552cd96dffd610aa85",
+  "validation_errors": []
+}

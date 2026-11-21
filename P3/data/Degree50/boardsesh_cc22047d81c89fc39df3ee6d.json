@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cc22047d81c89fc39df3ee6d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Smartelligent",
+  "setter": "qbldp",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5B8D3741263244798951CB448F04B099",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r15p1137r15p1152r15p1219r13p1228r12p1240r13p1250r13p1324r13p1375r13p1388r14p1483r15p1492r15p1530r12",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.07,
+  "ascensionist_count": 75,
+  "quality_average": 3.42,
+  "hold_fingerprint": "bade3373297d8df3c3e4506c2e8b881b39043134a87bf3bd3f4599bdf617bdcf",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f59eddf460825b2e7def481b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "dont be scared",
+  "setter": "mathisaubry",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "c9e09ac5-90fd-4952-a86c-9fabfffa753e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1257r12p1259r12p1156r15p1157r15p1289r13p1302r13p1300r13p1315r13p1380r14p1514r15p1214r15p1284r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 5,
+  "quality_average": 2.75,
+  "hold_fingerprint": "35f7cd01319cf703e3badc692fe93a548b3f37351281d2e43f2bbb129b0cd0e7",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cac4647207190181f9be4c2c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "bump bump the Bumper",
+  "setter": "Neo0009",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "e3a6869aa7c5482182148a4bd6964e86",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1122r12p1136r12p1137r15p1154r15p1187r13p1235r13p1288r13p1340r13p1372r14p1451r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5d2c2520515945782b82ab47606ddd0524e1001fa578f449d8b1e068b5ed5e9d",
+  "validation_errors": []
+}

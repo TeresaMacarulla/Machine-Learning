@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f078281584acc3d0c0946f0e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Take a Peek",
+  "setter": "jaylache",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "ECFBAA286AB24DD6A9B3FE25F093C786",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1156r15p1207r12p1240r12p1292r13p1342r13p1371r13p1379r14p1383r13p1385r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0f61fd143a42336b16a62fc98cb98c854f55b6e705ef90f8bca76bbfcffd4161",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e941e5ae4e90eeac024c20ee.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "lie down (zh)",
+  "setter": "Singto",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "24B97480A2C541B385B2C9ECDAE0AAC6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r12p1114r15p1145r13p1199r13p1232r13p1269r13p1286r13p1307r13p1374r14p1516r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4e4575506954f910baca84a8dcc96f45a6a91b7edd43bf38723d603492d11588",
+  "validation_errors": []
+}

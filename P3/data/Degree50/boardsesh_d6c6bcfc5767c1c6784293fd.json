@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d6c6bcfc5767c1c6784293fd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Sandbox Boulder",
+  "setter": "tni123",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "571D6A7132F140789202BDE07408B32A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1155r12p1236r15p1239r13p1268r13p1299r13p1314r13p1389r14p1447r15p1504r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "cb3122be3ee7dc8e26c44da4653d294912c2a6c11174a00277e76d351ccf11eb",
+  "validation_errors": []
+}

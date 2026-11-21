@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3fc2c6f0e1dd11848351061b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "keep it movin",
+  "setter": "mochri",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "21D152A707EB485EB4321D7148E5ED6B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1167r13p1171r12p1188r12p1216r15p1235r13p1272r13p1337r13p1350r13p1354r13p1386r14p1450r15p1548r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.2,
+  "ascensionist_count": 5,
+  "quality_average": 4.2,
+  "hold_fingerprint": "18dc342e0fdf066fbac61455848a9c11a181bd84eca04a6b60a1266365c07f8c",
+  "validation_errors": []
+}

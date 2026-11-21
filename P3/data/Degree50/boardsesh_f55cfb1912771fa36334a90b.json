@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f55cfb1912771fa36334a90b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Ferme ta caisse",
+  "setter": "niccharron",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "2ec9e469-a67a-4596-8305-61054d244778",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1203r12p1187r12p1471r15p1490r15p1273r13p1517r15p1527r15p1536r15p1291r13p1320r13p1566r15p1301r13p1547r15p1539r15p1314r13p1383r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 4.67,
+  "hold_fingerprint": "3d12deb7944047d3c1575af2590e377bc3773a704cd7fd748ea6e2a46bd0e978",
+  "validation_errors": []
+}

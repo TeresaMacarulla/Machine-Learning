@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_629d4a700ae8da1ba9ee05e8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Grab the tooth and think of Cwis",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "942abe7cdaec422b9d1eb1a83a095f52",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1164r12p1180r12p1204r15p1234r13p1281r15p1287r13p1336r13p1354r13p1384r14p1495r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "5f90dcd89a7fd7ef3cb4910e8d24f7f9dbf8460cd8feb70664ae7bf564c53264",
+  "validation_errors": []
+}

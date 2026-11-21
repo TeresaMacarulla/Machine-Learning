@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2dcc2b09db76e8cf56a57573.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "YM 2",
+  "setter": "~MJ~",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "d31448c0-9664-44ba-b6de-0edd7b681f6c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1166r12p1458r15p1455r15p1231r13p1268r13p1319r13p1370r13p1384r14p1204r15p1533r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.67,
+  "ascensionist_count": 6,
+  "quality_average": 5.0,
+  "hold_fingerprint": "f4aaca44ac874ae7407a9db3b2e52cfc8bccbcb9ef41293f3d20cfd4d5421fde",
+  "validation_errors": []
+}

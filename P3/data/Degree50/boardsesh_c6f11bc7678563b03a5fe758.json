@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c6f11bc7678563b03a5fe758.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "under train",
+  "setter": "TerryChan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "C40C2CBE56AD4709B41A92E493F219E2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1137r15p1149r12p1164r12p1202r13p1235r13p1268r13p1271r13p1299r13p1335r13p1368r13p1389r14p1455r15p1458r15p1506r15p1513r15p1514r15p1539r15p1560r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a55a0931047628e5860133f1e95bb9bd2c5cdbdf7f9c21772bf26f4cc2a35a67",
+  "validation_errors": []
+}

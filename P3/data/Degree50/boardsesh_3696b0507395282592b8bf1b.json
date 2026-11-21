@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3696b0507395282592b8bf1b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "jump2it",
+  "setter": "TomJim",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F084F891771A4AFEB27B043AB327F1F2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1104r15p1139r12p1153r12p1241r13p1289r13p1307r13p1373r13p1387r14p1551r15p1553r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "a482b07365616b85c6b62f6b722c0619696535ed9be259b8780b8ecd9e56da80",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_80b736e43ec3fc603cf0e955.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Strange Descent",
+  "setter": "1MPUR1TY",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "edd67ebd8c174f4eb94fed22cba6bbb4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1075r15p1078r15p1092r15p1131r15p1142r15p1143r12p1155r14p1185r13p1187r13p1192r12p1200r15p1212r15p1219r13p1245r13p1268r13p1300r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6de2e724ee81821009f8c7da22f0799a02c9966a5fb7e7c2bc283c3a6f2a53c1",
+  "validation_errors": []
+}

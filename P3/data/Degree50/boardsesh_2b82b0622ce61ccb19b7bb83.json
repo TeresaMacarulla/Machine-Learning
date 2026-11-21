@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2b82b0622ce61ccb19b7bb83.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "tenshun",
+  "setter": "bobdjango",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "c1ee0446cb794cc189862b26ac1154b3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r15p1153r12p1154r12p1202r13p1238r13p1246r15p1271r13p1302r13p1320r13p1350r13p1385r14p1447r15p1518r15p1574r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "44c557a1ee17f2aad88eb93ac0b476355d9840d435e8a373592692ef6c01800e",
+  "validation_errors": []
+}

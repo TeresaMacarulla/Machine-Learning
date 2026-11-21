@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b8c50b6f9915539bf38f016.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "EZECHIEL",
+  "setter": "Xuelan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "05ddf465f9424ac5b71347caaf8ed122",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r12p1138r12p1148r15p1157r15p1163r15p1184r13p1218r13p1268r13p1317r13p1348r13p1379r14p1447r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "acd488a56c1885360966c29ce32e4af0f0b696a5ba880fb10034997b0b6512a8",
+  "validation_errors": []
+}

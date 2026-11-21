@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_31e2af3f355338271514686d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Wings",
+  "setter": "BKBChicago",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F00EB9B9642641BF86BE0A253D1A34A4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1095r15p1144r12p1152r15p1163r12p1197r13p1216r15p1247r13p1257r15p1319r13p1320r13p1357r13p1376r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7d345411d2d767dfbec2bc89619eaf779ded56379dd1ef9685c9456f5193eb51",
+  "validation_errors": []
+}

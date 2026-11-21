@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ab70b33b779d3cd4ae03b314.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "death bug",
+  "setter": "nikkepikke",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "79E48CD42799482289FE78B618C64F5F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1098r15p1099r15p1107r12p1128r12p1178r13p1231r13p1245r13p1317r13p1366r13p1385r13p1390r14p1501r15p1568r15p1574r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 12,
+  "quality_average": 3.0,
+  "hold_fingerprint": "08adc75efaddcbf43222301ac3e5743ddc78843630ad6608ba9cc21b75c43693",
+  "validation_errors": []
+}

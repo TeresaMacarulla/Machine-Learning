@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_df4ffae9036abc1fba2da546.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Jumping to Jugs",
+  "setter": "jfnfbbf",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "E8E2BC816F204A21A3E16FAB8B301235",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1200r12p1247r13p1300r13p1347r13p1383r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "333d1b3ad0389bbae9dafac24e89cafbcfe7d6f3c2edfe1f135d806e5cff7b3f",
+  "validation_errors": []
+}

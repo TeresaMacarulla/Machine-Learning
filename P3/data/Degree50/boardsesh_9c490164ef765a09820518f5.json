@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9c490164ef765a09820518f5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "4 My Armz Only",
+  "setter": "gym_rat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "847D79598CC6494FBA875EA819F77FFE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1135r12p1149r12p1230r13p1251r13p1304r13p1317r13p1388r14p1456r15p1458r15p1503r15p1551r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "748d44f8dde6f53c4ae83006222e9daf5dece4d7cc11e68815d903e70091a6b6",
+  "validation_errors": []
+}

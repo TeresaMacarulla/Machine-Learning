@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c7cc0a246cbd08318fa28ab4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "dextrose",
+  "setter": "thijs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "3C6A508913364266AD9035EB84325DAC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1148r12p1186r12p1254r13p1285r13p1372r13p1394r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 4,
+  "quality_average": 2.75,
+  "hold_fingerprint": "4a4396f906c51b072993aac44dddeff3c2b8d98bbfd2eae03f724f88df18e38f",
+  "validation_errors": []
+}

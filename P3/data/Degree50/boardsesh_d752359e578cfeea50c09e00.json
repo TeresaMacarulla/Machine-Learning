@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d752359e578cfeea50c09e00.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Telekinesis",
+  "setter": "paulnagy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "46DA8CAEC9D44513A2CA87C14B5248DF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1167r12p1199r12p1270r13p1308r13p1322r13p1352r13p1383r14p1385r14p1487r15p1531r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.71,
+  "ascensionist_count": 7,
+  "quality_average": 4.14,
+  "hold_fingerprint": "a71d0e89272ccb5ddf1d198b04df39f240ec53b227f830160b0884a8905830ba",
+  "validation_errors": []
+}

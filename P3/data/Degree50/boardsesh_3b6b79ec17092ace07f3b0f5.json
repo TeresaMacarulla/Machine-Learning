@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3b6b79ec17092ace07f3b0f5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Phantasm",
+  "setter": "yevyevquest",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "E810A5619BA84DB7A1B977D5A2DEB51D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1171r12p1183r15p1239r13p1255r15p1270r13p1304r13p1334r13p1387r14p1453r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.67,
+  "ascensionist_count": 4,
+  "quality_average": 4.67,
+  "hold_fingerprint": "3d6a61eadba497042843a7df63341c11961195ee905a037f421deb4428561aea",
+  "validation_errors": []
+}

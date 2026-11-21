@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_abfce5d8b0eebd2cefd4eee5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Hold the lift",
+  "setter": "benarete",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "F1133FC4CAAC40768CD61721F4D69D12",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1149r12p1217r13p1253r13p1318r13p1320r13p1387r14p1454r15p1469r15p1495r15p1497r15p1524r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0d7a3edc965d66a7f81843248b28ba813a6061eda1691586cc8c9e27cae5f89d",
+  "validation_errors": []
+}

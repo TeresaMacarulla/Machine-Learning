@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_39ed30eec1efa55c6b8e5d0c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "bounce climbing.",
+  "setter": "donghyukkim",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "f17d3347c1ce4447a61f595b727557a9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1178r12p1182r12p1231r13p1280r13p1318r13p1335r13p1385r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.31,
+  "ascensionist_count": 16,
+  "quality_average": 2.38,
+  "hold_fingerprint": "d17d86f64552be0b595bc6b56040366d426aa48590bc82718a4b5a9b8e1d334d",
+  "validation_errors": []
+}

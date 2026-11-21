@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_df4418c6006ce1fa5767ec0e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Choco-pouce",
+  "setter": "Thomas17",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "c979e72fea4f45d1ae25c08367b11f94",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1175r12p1200r13p1213r13p1268r13p1335r13p1351r13p1382r14p1465r15p1496r15p1551r15p1558r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.6667,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "fb2292f8cad1364fee445803d423d50c6f82a26697a8135b3a1a9aa0cb7d79c8",
+  "validation_errors": []
+}

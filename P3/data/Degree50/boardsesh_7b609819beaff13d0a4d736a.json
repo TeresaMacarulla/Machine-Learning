@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b609819beaff13d0a4d736a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Spaghettis ",
+  "setter": "Matthias_Ninja",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1f36a78c-75f3-44a7-a517-b72d436bbe7c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1124r12p1176r12p1179r13p1228r13p1261r13p1283r13p1464r15p1485r15p1501r15p1330r13p1367r13p1387r14p1549r15p1593r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.33,
+  "hold_fingerprint": "e89ff101fb7dabfd02cb435e48680a5b823933d3f722e18c921cb4df8b2b52ae",
+  "validation_errors": []
+}

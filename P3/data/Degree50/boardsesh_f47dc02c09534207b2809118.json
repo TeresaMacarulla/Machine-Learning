@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f47dc02c09534207b2809118.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Fraktur Osna Viculare",
+  "setter": "romanhoe",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "bf77f816-3ef1-4f8f-aad4-23ea9e83135f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1457r15p1235r13p1269r13p1308r13p1133r12p1342r13p1526r15p1146r15p1395r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.25,
+  "ascensionist_count": 4,
+  "quality_average": 3.25,
+  "hold_fingerprint": "a807f0dfeec23b48432de15bd587dc6e5313440872dc904a07365eaa35c63b4e",
+  "validation_errors": []
+}

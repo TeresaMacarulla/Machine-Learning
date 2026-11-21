@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4f688c0fb5d21456a4ce2795.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Bob Kick",
+  "setter": "KilterStudio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "CB9CA061D99D4253BDEB8C3B7ACAF0C3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r15p1189r12p1225r12p1273r13p1285r13p1339r13p1352r13p1389r14p1516r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.99,
+  "ascensionist_count": 91,
+  "quality_average": 3.37,
+  "hold_fingerprint": "e1f951416a634d7d5d18ff1c076530d77eb9cb29aac2839ea04b8de3267bae6d",
+  "validation_errors": []
+}

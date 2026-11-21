@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f8ac8348a903ab7f50b0adeb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Leistenbrett",
+  "setter": "Tarekrobrahn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "f14d57e1811e4f82b6faa708767de267",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1123r12p1151r15p1173r12p1223r15p1240r13p1286r13p1357r13p1365r13p1371r13p1379r14p1380r14p1386r13p1450r15p1500r15p1547r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.29,
+  "ascensionist_count": 7,
+  "quality_average": 4.14,
+  "hold_fingerprint": "d91a4abe01603be2bcb9311590f7ab73f6714cb26f7438068a5d5a9511489134",
+  "validation_errors": []
+}

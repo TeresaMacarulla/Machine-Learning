@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6a45121aa78264748f0f529e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "skin ripper",
+  "setter": "Gino.Black",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9353E5E95ADE4295B4B5B10BE4D933F2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1188r12p1190r12p1223r15p1308r13p1353r14p1449r15p1450r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b9c15e860fa0aa1d36f6265bf5e2b1b0a0ed16f6feecc303424a3fa52ae34b8f",
+  "validation_errors": []
+}

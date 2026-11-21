@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f194b7bd49bf964c645e6a52.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Bigzaza 1",
+  "setter": "poksakon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "f4e6eead-93dd-4b0a-8ffd-aee8f57b8067",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r13p1202r13p1152r15p1120r15p1448r15p1156r12p1453r15p1452r15p1103r15p1104r15p1234r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e2b4ea386f4bd9ae67ff5585c369da5d1ab4b8e822b821e4a0737e0344fb7274",
+  "validation_errors": []
+}

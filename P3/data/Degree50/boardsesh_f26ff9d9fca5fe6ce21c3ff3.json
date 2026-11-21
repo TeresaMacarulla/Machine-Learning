@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f26ff9d9fca5fe6ce21c3ff3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "A rechte Verzweiflung",
+  "setter": "Philip2296",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "D522DBDC51D5400CACFAF3A3E2CBADDE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1077r15p1206r12p1224r13p1271r13p1305r13p1344r13p1373r13p1389r14p1499r15p1527r12",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "e7944b296ace11a89a1b00da39ca6793681f311ad26d290235f3f30a6933ca8a",
+  "validation_errors": []
+}

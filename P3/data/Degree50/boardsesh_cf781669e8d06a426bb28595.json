@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cf781669e8d06a426bb28595.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Campus AE",
+  "setter": "egoitz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "ac6de78cec10452eb7370792075fe64a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r12p1253r13p1270r13p1290r13p1320r13p1322r13p1372r13p1386r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3877a49460a9349dc01a71f38cff0e13d9d6a623f8c4b5642b30d25adcb91a7c",
+  "validation_errors": []
+}

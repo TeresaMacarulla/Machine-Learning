@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5120e31ef4353a7bae163339.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Firulais",
+  "setter": "J8aG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "228f0bd875db4bc7a61258e9d3083f53",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1145r12p1190r15p1208r15p1228r13p1232r13p1233r13p1254r13p1291r13p1361r13p1391r14p1543r13p1580r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.89,
+  "ascensionist_count": 44,
+  "quality_average": 3.36,
+  "hold_fingerprint": "972ef3ea5d42cb651a60d803dabcc3544f461f9607611683c299f09767716d18",
+  "validation_errors": []
+}

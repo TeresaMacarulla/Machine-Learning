@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ccbe0843c9e82c060d2c28a4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "radam",
+  "setter": "tommzd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "7d6e87c7194d436cb1e4e334553156db",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1109r12p1197r12p1227r13p1297r13p1299r13p1318r13p1352r13p1388r14p1461r15p1483r15p1485r15p1520r15p1531r15p1542r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "5c99f8cd893f716d156853771664dec1a456503589737a37fda60f2dfb9b52af",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1f952e2eaccfca0e2baab4a3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Catch your wave",
+  "setter": "ksmd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5c43cefabec94367a51cddc5f9718f0f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1088r15p1143r12p1144r15p1181r15p1210r13p1221r15p1227r13p1249r13p1284r13p1322r13p1340r13p1393r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.98,
+  "ascensionist_count": 173,
+  "quality_average": 3.4563583815028904,
+  "hold_fingerprint": "ffac54b5b51b375a922ed9b8f96cbac86966ee29254000518b60fc5270fa0a7e",
+  "validation_errors": []
+}

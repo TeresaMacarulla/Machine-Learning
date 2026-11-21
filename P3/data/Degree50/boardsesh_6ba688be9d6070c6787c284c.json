@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6ba688be9d6070c6787c284c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Daylight",
+  "setter": "wills",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "CE1CF47B7449426199DA4ED932A18DFD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1095r12p1141r15p1161r12p1181r13p1228r13p1229r13p1295r13p1366r13p1380r14p1460r15p1461r15p1530r15p1539r15p1555r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e30e09c6fd99fcf50a83426a68782d72d1aa71a998553d5eb13af58d57cebbc8",
+  "validation_errors": []
+}

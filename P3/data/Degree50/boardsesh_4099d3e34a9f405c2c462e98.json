@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4099d3e34a9f405c2c462e98.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Levels",
+  "setter": "richiec4",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4148d92f-7c78-40dc-9a57-095a4e543b95",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1455r15p1218r13p1489r15p1238r13p1191r15p1289r13p1342r13p1392r14p1560r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.67,
+  "ascensionist_count": 6,
+  "quality_average": 3.0,
+  "hold_fingerprint": "d18fbb71b86a7ec640db29b3db268602d9adaafd0456755a6d022d215c76210c",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_40f5c5d40ad418973d16553e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Railroad tracks",
+  "setter": "SaxonCasi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8d97917e1dda4ac6a45ee66d2fc14885",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1083r15p1164r12p1167r12p1233r13p1235r13p1268r13p1333r13p1337r13p1385r14p1389r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6877214ab087ea4496e766f136944f85ff841de1c8bc257253291b176da92527",
+  "validation_errors": []
+}

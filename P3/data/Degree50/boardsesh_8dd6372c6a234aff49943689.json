@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8dd6372c6a234aff49943689.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Mortal Kombat",
+  "setter": "tytaft",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "6742AC9B606A4C37B3400970BC39E109",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1126r12p1156r15p1165r13p1201r13p1222r13p1291r13p1304r13p1346r15p1372r13p1384r14p1462r15p1464r15p1475r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.97,
+  "ascensionist_count": 37,
+  "quality_average": 3.44,
+  "hold_fingerprint": "ac25ec6e5fba62689fc322b5c93ff4cd63e982bcd5ed19e402b4e0dafc20901f",
+  "validation_errors": []
+}

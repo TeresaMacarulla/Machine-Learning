@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6ebe97fe3cd99a50d7a69c70.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Compress the Rest",
+  "setter": "ayaan.climbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "D21E0BFCD3864D02ABC25569E1063AA7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1153r12p1235r13p1291r13p1320r13p1387r14p1449r15p1453r15p1534r15p1536r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "e1fa7a608e2cccdb305fbc4b08a5e4888db79f30032b43f2d25fb1da77794fd4",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_83ca78e1d35e352d4a2aaa85.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "dead shoulder point lock",
+  "setter": "BlakeOnKrack",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8085658DAF954DF6A1DA4AAFBAB1F916",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1220r12p1281r13p1283r13p1304r13p1330r13p1379r14p1490r15p1514r12p1532r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "fa04ad62045ed4f182957d193094ba31c901e14d692b3076d908d00de1a0f350",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ec0c48b083ceaef600e26d93.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "when rain turns into fire",
+  "setter": "ND_climbing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "63acc8d4611140c5a43a3b75902bb6f7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1132r12p1201r12p1252r13p1324r13p1325r13p1356r13p1368r13p1383r14p1385r14p1478r15p1554r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.29,
+  "hold_fingerprint": "a88587a19fce4ea11c10c9b84dcc900282decad6c1aa3665f0e27c0ce5c1a23a",
+  "validation_errors": []
+}

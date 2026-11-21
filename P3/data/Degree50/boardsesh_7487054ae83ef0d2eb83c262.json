@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7487054ae83ef0d2eb83c262.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Headspace",
+  "setter": "Bird",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "9BE9DA68352040DCAB41ABF9E7954AE2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1168r12p1189r13p1275r13p1293r13p1325r13p1342r13p1371r13p1386r14p1451r15p1536r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "788d7e265d4435e6024e821ddedf12118116c5159349f9836e0a0f3ba087fff4",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_29016382c1f4ae1bd52ac83e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "jumping jack flash",
+  "setter": "gdevol",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "b8652d0c2f1a4d718ad3583777b4b540",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r15p1131r15p1144r12p1163r12p1171r15p1198r13p1200r13p1234r13p1237r13p1300r13p1302r13p1387r14p1456r15p1461r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d256ec02c5d5921b91778c3aede23e37204f2c45e639041eb6ed08729cde39e0",
+  "validation_errors": []
+}

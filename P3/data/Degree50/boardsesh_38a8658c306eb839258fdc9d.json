@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_38a8658c306eb839258fdc9d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "come down (please)",
+  "setter": "amitaidemayo5",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "58c7c7deacc24a79a932ad5f04097737",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1230r12p1252r13p1269r13p1368r13p1382r14p1539r12",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "6d530dd87e966b7da363988b739bb402b7d3c46f456c531ba6f0ddf265ccdb22",
+  "validation_errors": []
+}

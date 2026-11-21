@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c0e307522cffccb040e6d33d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "chan chan",
+  "setter": "djaplat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "29ADA909AD65439B953C556401E7B821",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1149r12p1197r13p1229r13p1248r13p1279r13p1330r13p1349r13p1353r13p1371r13p1392r14p1455r15p1461r15p1474r15p1501r15p1512r15p1528r15p1540r15p1576r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.25,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "873cbb4914297b0a2f05cc67a76e16c73728b2cc1c77154abe99ccffdd2d066d",
+  "validation_errors": []
+}

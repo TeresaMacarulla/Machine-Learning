@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3ff151c45eb681d6d040f0d7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "hole in the sky",
+  "setter": "macclimbsplastic",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "c95cafe9-014c-4019-a156-2c3c2ea8050a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1164r12p1467r15p1234r13p1082r15p1283r13p1212r15p1301r13p1351r13p1389r14p1588r15p1460r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.75,
+  "ascensionist_count": 9,
+  "quality_average": 4.0,
+  "hold_fingerprint": "1178e803eac52a2e145be71a9a74d3f7642dab92042d3a4ec88e3a24d05cf6f3",
+  "validation_errors": []
+}

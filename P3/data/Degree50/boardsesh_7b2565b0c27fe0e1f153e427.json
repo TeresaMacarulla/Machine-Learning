@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b2565b0c27fe0e1f153e427.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Fake It Till Ya Make It",
+  "setter": "tomheslam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "578C1F64B27D41DF9844DC54432AC766",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1187r13p1200r12p1239r13p1273r13p1322r13p1339r13p1370r13p1371r13p1384r14p1515r15p1541r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a24bfc65278eb7c0067a59b72b477b6672267499a0223782d96c2178b5a7c233",
+  "validation_errors": []
+}

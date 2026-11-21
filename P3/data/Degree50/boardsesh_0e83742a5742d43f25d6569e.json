@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0e83742a5742d43f25d6569e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "KF80",
+  "setter": "rkdtjdrn08",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3DB2CC90D92D4F17A1DA605FE26834FF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1200r12p1236r13p1284r13p1285r13p1353r13p1385r14p1471r15p1497r15p1549r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.17,
+  "ascensionist_count": 24,
+  "quality_average": 3.33,
+  "hold_fingerprint": "b0f50ac692b70ac3a593d422438966fe60537bb3af9496037c7422e30803e603",
+  "validation_errors": []
+}

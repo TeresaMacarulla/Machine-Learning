@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_068f89cbfcbafda29766f679.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Man After Midnight",
+  "setter": "ZachE",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "D919B992DF904409885D02B2A9F94475",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1197r13p1248r13p1264r13p1334r13p1370r13p1392r14p1454r15p1458r15p1485r15p1506r15p1547r15p1566r15p1570r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 10,
+  "quality_average": 4.2,
+  "hold_fingerprint": "d2081bc4ac4fb82434bcfc2290d81e4a383f0b3d94024226624a7d40bed87d46",
+  "validation_errors": []
+}

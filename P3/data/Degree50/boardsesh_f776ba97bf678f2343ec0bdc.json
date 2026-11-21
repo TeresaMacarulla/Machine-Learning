@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f776ba97bf678f2343ec0bdc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Throw that hand",
+  "setter": "wreeves",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0425bf1b72e44a128aa74f0ee02670e8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1096r15p1154r15p1181r15p1185r12p1198r12p1231r15p1236r13p1302r13p1337r13p1368r13p1389r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.83,
+  "ascensionist_count": 54,
+  "quality_average": 3.67,
+  "hold_fingerprint": "0e76dc3f17b8ee464eec6d97116be776464da7c144cc7c0f5451f520a31409dd",
+  "validation_errors": []
+}

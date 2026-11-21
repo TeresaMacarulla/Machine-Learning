@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aca703b9b3254b1a1170eebd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Spisak",
+  "setter": "p.tang",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 9,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "39b161ba7fca4c529f6d57a8d7454a41",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1106r15p1107r15p1110r15p1154r15p1195r13p1198r13p1208r12p1236r13p1243r13p1255r13p1259r12p1278r13p1315r13p1332r13p1385r13p1389r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "12006fcd17810ae2f25a999a1fc71e73bf716b0f7745b0eabc9240b94fd62547",
+  "validation_errors": []
+}

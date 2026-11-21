@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8f93970ad972ccc84b349b31.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Living Metal",
+  "setter": "bloop",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "3e539d875cdc44bfa137366855cd9549",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r15p1172r12p1187r13p1270r13p1281r13p1332r13p1379r14p1473r15p1479r12p1506r15p1513r15p1531r15p1544r13p1567r13",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.89,
+  "ascensionist_count": 39,
+  "quality_average": 4.54,
+  "hold_fingerprint": "1c29352a5f88b8d95e0119140e67189257d87221b20fd86955e15b1ba254d4b9",
+  "validation_errors": []
+}

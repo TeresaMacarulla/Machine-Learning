@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2f6553dcca5777378e1b857e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Vflure",
+  "setter": "ericterral",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "CB3B907200F74CD6A7CB6A2F53184CC1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1143r12p1244r13p1297r13p1314r13p1369r13p1388r14p1460r15p1463r15p1519r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "69f68e2b9bcb48ae6ada32cec97cd115940df94ff68775cc60ddee311a38bec1",
+  "validation_errors": []
+}

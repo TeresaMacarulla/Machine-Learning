@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_092f8648a0b6b94fdaf77450.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "ribbon",
+  "setter": "SaxonCasi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "73a2eac9aa794b1aa09172463b9812fc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1096r15p1196r12p1216r12p1300r13p1347r13p1387r14p1506r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.98,
+  "ascensionist_count": 2698,
+  "quality_average": 3.22,
+  "hold_fingerprint": "e8731aee67a52821c3ba5beadc76393842f7033aa24e4d01acdeb8ce0ba303b0",
+  "validation_errors": []
+}

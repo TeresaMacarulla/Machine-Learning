@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a2d532fb129f7d15dc1d5a6d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "cutting crimps",
+  "setter": "sirgavinofthesea",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "B54B9718941645C3B0269E12D1BDDA99",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1269r13p1298r13p1332r13p1362r14p1456r15p1504r15p1516r15p1521r15p1541r13p1555r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 33,
+  "quality_average": 3.47,
+  "hold_fingerprint": "4768604c9ac0097a78a303c690b721bb0ff6f829b31d5e35b47e8d4aa76949a8",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5efdb5b4ae264aa38f469b3f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "lock and load",
+  "setter": "ArchieH",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1b436572-4021-4b2c-ad40-c0779808c20e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r15p1204r12p1167r12p1269r13p1304r13p1338r13p1392r14p1553r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.8,
+  "ascensionist_count": 9,
+  "quality_average": 3.5999999999999996,
+  "hold_fingerprint": "70ea2c6e451577a06fc4da7e664fc1d2a8e21367212afe60c486bb8ad81c7e84",
+  "validation_errors": []
+}

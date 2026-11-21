@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b17ba534928b17fd1c8efd62.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Shadowland",
+  "setter": "theroofbayonne",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0488a99e80474634a683547b7825bb18",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1247r13p1255r15p1300r13p1304r13p1319r13p1339r13p1342r13p1395r14p1458r15p1510r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9704097a3f7b2422b05b35cf1e96d47c7b259b97d9b1bcc132c7f6c6d6032c77",
+  "validation_errors": []
+}

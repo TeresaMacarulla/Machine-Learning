@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_acb9e26951f3879ea1b98653.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Get To The Chopper",
+  "setter": "Mantle_Toboggan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "2be6204ff00048a5b3563cd1fe9a7223",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1111r12p1180r12p1201r13p1214r13p1235r13p1271r13p1320r13p1391r14p1461r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4051a4510058eba552b22ff95c626130acd359f428d8056c252f52ad9c8de41c",
+  "validation_errors": []
+}

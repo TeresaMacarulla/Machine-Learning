@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9d801f392b4e01b1e00ef360.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "einf\u00fchrung in die kippbrett-theorie",
+  "setter": "derwelt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1fa9a957349b47288352a968124c7cd2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1150r12p1168r12p1268r13p1315r13p1380r14p1454r15p1532r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.06,
+  "ascensionist_count": 19,
+  "quality_average": 3.56,
+  "hold_fingerprint": "e7eda05774e3ead1cd96aebf66b6da570c590f8ecc69c544038f8459f4bb0b30",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f18a50c4058965fd5edfd424.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Tango de la luna",
+  "setter": "piersrueb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "146ee09e-a564-4288-961a-0a7ef4cea888",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1136r12p1447r15p1208r13p1257r13p1307r13p1320r13p1231r15p1302r13p1299r13p1331r13p1382r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.5,
+  "hold_fingerprint": "92067ef9027f24978a28db0d296e0de99ba1da70392a58bfbfaa906431ecf610",
+  "validation_errors": []
+}

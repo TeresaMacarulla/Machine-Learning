@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_da0c235af6282fd56828cde6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Crossyroad",
+  "setter": "ChrisDoyi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FC74F6AA56E6448ABC3EB6B6D8EC9794",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1167r12p1181r15p1185r12p1234r13p1246r15p1287r13p1299r13p1301r13p1331r13p1387r14p1452r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.3333,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "33865ac825829a49ebe4ac8fbf2e93812b02378d62824334b1354a592166077c",
+  "validation_errors": []
+}

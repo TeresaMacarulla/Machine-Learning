@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_468adc8359f4a0e50f73deb1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "2026_BCB_180",
+  "setter": "cchen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "2da6bb62-55ec-48c0-8068-315f2753e39d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1257r12p1259r12p1308r13p1306r13p1302r13p1353r13p1367r13p1385r14p1383r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.33,
+  "ascensionist_count": 7,
+  "quality_average": 5.0,
+  "hold_fingerprint": "b976144c738ede1de67b80110a83a63a0b76b3f0840d87edea9b50b0cad7ff60",
+  "validation_errors": []
+}

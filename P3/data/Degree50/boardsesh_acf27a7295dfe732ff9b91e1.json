@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_acf27a7295dfe732ff9b91e1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Randonn\u00e9 pedestre",
+  "setter": "thort",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "00161daece7b4ff488c3aa0c07b1997e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1118r12p1148r12p1200r13p1232r13p1269r13p1320r13p1357r13p1392r14p1452r15p1488r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "90ad0d07ad67172513ed8f4f1e20e78f631b0749c1b6385635203a631c35cd9e",
+  "validation_errors": []
+}

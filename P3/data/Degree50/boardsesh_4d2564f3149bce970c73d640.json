@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4d2564f3149bce970c73d640.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Dinosaurs Can't Dyno",
+  "setter": "IAmNotADinosaur",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "e0a0a0fe505449d8bb84b62807d0245c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r15p1176r13p1180r13p1263r13p1328r13p1367r14p1465r15p1476r12p1484r12p1501r15p1538r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.11,
+  "ascensionist_count": 9,
+  "quality_average": 3.44,
+  "hold_fingerprint": "752b314ec86c8ac4adbf6bbf9bdf4ca88a3b34675c0dab5738f5c800543c6380",
+  "validation_errors": []
+}

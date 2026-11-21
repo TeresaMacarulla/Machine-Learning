@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1d89c5790d57b323c1419b40.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Mini Scus",
+  "setter": "snador",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1e1194bd4b834c04be9dea68905b76e1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1191r15p1222r12p1251r13p1256r12p1257r15p1320r13p1322r13p1369r13p1386r14p1533r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "876896789c167862ee8a3133cfd8d7a387372d1c083b68781c83d19abeee4d6f",
+  "validation_errors": []
+}

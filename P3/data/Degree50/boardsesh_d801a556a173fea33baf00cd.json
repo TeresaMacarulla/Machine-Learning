@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d801a556a173fea33baf00cd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Forgettable V3",
+  "setter": "Rossetti13",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "990C1CD4B57C487BAA696AE127773EF4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r13p1185r12p1198r13p1210r13p1265r13p1296r13p1330r13p1379r14p1452r15p1457r15p1467r15p1496r12",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "9c725b1d54b66fd067a9c12a34efcef593de33e47e63cc9ffd2018a52da8fa71",
+  "validation_errors": []
+}

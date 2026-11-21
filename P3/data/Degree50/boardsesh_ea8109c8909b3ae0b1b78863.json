@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ea8109c8909b3ae0b1b78863.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "hohenbone",
+  "setter": "benje",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5096187a6a904198bd32dc221d8ba4bc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r12p1187r13p1190r15p1240r13p1305r13p1327r13p1394r14p1447r15p1471r15p1506r15p1534r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "036d7fc78200f2ef107bf68420aec3b2d4e7788af1c8fecdbb303318172058e2",
+  "validation_errors": []
+}

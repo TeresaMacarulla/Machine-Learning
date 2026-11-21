@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c2fcea6e40707a0d89f6d22d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "ODE003",
+  "setter": "karhotto",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "9D7FB334A0294DB2BFBEF7B18A379DD4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1176r12p1200r15p1216r12p1254r13p1283r13p1320r13p1357r13p1385r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b151b2c6bdcfcb8b1e8b3e73981e615e3eff73bf36a4d61d51eb787bdf72b06f",
+  "validation_errors": []
+}

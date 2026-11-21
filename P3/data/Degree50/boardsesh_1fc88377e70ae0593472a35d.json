@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1fc88377e70ae0593472a35d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Panorama Campus",
+  "setter": "einsteinKilterBoardGames2024",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "CB3CFBB237FA49FBAA5A494F9E80EF3D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1211r12p1212r12p1262r13p1300r13p1307r13p1321r13p1392r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.8,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "5fc81f2fa3511b5744d2efe609ad15d3416709962a8f27596fcf05d78a856307",
+  "validation_errors": []
+}

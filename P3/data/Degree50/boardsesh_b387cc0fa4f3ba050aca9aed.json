@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b387cc0fa4f3ba050aca9aed.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "cgs2",
+  "setter": "carsonschultz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "B6A5C274E3A84B5CB41FA718F91E47EA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1151r15p1212r12p1214r12p1219r15p1263r13p1283r13p1314r13p1333r13p1369r13p1387r14p1541r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "3ed6724774ef161c89a47d808568a07d142cbae857fb442cffed744051036bec",
+  "validation_errors": []
+}

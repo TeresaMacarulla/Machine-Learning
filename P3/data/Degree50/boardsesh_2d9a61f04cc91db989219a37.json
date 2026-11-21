@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2d9a61f04cc91db989219a37.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Under where?",
+  "setter": "dunks",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "d42f15b8c152484ab23c242111246ae0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1184r13p1187r13p1203r13p1272r13p1320r13p1325r13p1395r14p1451r15p1455r15p1472r15p1498r15p1500r15p1554r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.8,
+  "hold_fingerprint": "11998ab002cb0b3db7e4739b523abe9532aa9f87173aa072ebb8a80a0732ae4a",
+  "validation_errors": []
+}

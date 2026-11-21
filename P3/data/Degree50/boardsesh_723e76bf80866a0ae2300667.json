@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_723e76bf80866a0ae2300667.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Zoll",
+  "setter": "h.mueller.nh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "E0B9BE4BAB494301BA3524B770D26942",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1102r15p1151r12p1166r12p1187r13p1236r13p1270r13p1301r13p1353r14p1456r15p1471r15p1481r15p1513r15p1523r15p1540r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "060491476aded3bf34a9bdaf86aa594a3ee01031c9ecc940fd9cee262ab1f4c6",
+  "validation_errors": []
+}

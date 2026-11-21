@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a5ea3b385551f1e405e1b0ff.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Brush",
+  "setter": "Jamie_Jenkins",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "752DF11EE11F4642886E1539219E504E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1199r13p1250r13p1281r13p1351r13p1381r14p1451r15p1471r15p1514r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.9,
+  "ascensionist_count": 75,
+  "quality_average": 3.51,
+  "hold_fingerprint": "273816d334e022d0118016839da5c0ed82a251bd40a9ea38ee291881b1710c4c",
+  "validation_errors": []
+}

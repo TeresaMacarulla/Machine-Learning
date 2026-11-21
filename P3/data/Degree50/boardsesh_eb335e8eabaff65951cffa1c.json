@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_eb335e8eabaff65951cffa1c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Got propane?",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F794A925635B4383B802B5D8FF6FD932",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1180r12p1233r13p1253r13p1268r15p1273r13p1284r15p1302r15p1340r13p1392r14p1459r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 23,
+  "quality_average": 3.09,
+  "hold_fingerprint": "eac48d5b5325717e35c7cca8ac9b2c46f9c4722cb40b124b2477e1bc47a99b84",
+  "validation_errors": []
+}

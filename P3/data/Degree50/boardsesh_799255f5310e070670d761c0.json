@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_799255f5310e070670d761c0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Dock Bachelor",
+  "setter": "Bouwstof",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "6C54E8F5ADEF44BDB627EC17F1413E1B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1142r15p1143r12p1161r15p1192r12p1198r15p1235r15p1246r13p1289r15p1296r13p1300r13p1317r13p1354r13p1387r14p1390r14p1464r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "27d7e2456a5a645d239fb7f962657ea9f5b88176f6698c03cbff58899774bf4a",
+  "validation_errors": []
+}

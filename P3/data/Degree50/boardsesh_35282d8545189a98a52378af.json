@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_35282d8545189a98a52378af.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "#dmsg",
+  "setter": "Anian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "0b763b48e3864f91a3cabbbbdcdf83f5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1216r13p1232r13p1254r13p1286r13p1355r13p1385r14p1457r15p1461r15p1476r15p1478r15p1489r15p1505r15p1524r15p1525r15p1531r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.93,
+  "ascensionist_count": 34,
+  "quality_average": 3.43,
+  "hold_fingerprint": "01ae2b97587937e563c73d698ea1e00c378d09c2450f071909d01596a00a2039",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_39985d25b995c22b9350c8ef.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Step2.1",
+  "setter": "KilterStudio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "B341F325349742AA8F37C81813D0EA5A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1115r15p1146r15p1149r12p1163r15p1202r13p1234r13p1251r13p1266r13p1302r13p1335r13p1354r13p1387r14p1456r15p1523r15p1533r15p1561r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.89,
+  "ascensionist_count": 19,
+  "quality_average": 3.22,
+  "hold_fingerprint": "4a6db8384715fee5a2880d3585ede6436cc30827171cf4e9448a38df0b40feed",
+  "validation_errors": []
+}

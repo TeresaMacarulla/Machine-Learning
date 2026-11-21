@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d49e28088142f4617081f430.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "grip and rip",
+  "setter": "mgboy09",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "92da493f4a314859902b18eabf27a5e3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1138r15p1148r12p1186r12p1189r13p1202r13p1239r13p1290r13p1321r13p1357r14p1471r15p1536r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2b03913af3109c5f048b97ee34a968d6e4b2c1e4d5a2660e1b52fe9a03e5d159",
+  "validation_errors": []
+}

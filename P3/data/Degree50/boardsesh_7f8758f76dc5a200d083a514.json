@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7f8758f76dc5a200d083a514.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "hiit striip ",
+  "setter": "b01000101",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "0e77a6e2-7555-4ea6-8a2c-7bb359edb0f1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1226r13p1263r13p1295r13p1328r13p1380r14p1464r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.83,
+  "ascensionist_count": 9,
+  "quality_average": 4.0,
+  "hold_fingerprint": "3da408af7b0a38d5f0d4621a4e070086701681dabccdf5710a62d8678d04d328",
+  "validation_errors": []
+}

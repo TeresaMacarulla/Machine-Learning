@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7524fb2cd48ccc76a0feb9be.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Steeper 4",
+  "setter": "Eliasdem",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ECADE97019124B93A926372BEA2649D6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1118r15p1149r12p1168r15p1188r15p1234r13p1257r13p1289r13p1361r13p1391r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b754be8e12339d8e25e3e9d30b22390c1ad7cd2535f69c35377c58810d85ed79",
+  "validation_errors": []
+}

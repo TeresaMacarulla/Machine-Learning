@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d0090c513d363fadbe4c0c06.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "SSS (swaggysidewaysstart)",
+  "setter": "ajwells",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "92D07C18B028457FB6A0EB039349476E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1124r12p1165r15p1193r13p1198r15p1243r12p1262r13p1265r13p1318r13p1331r13p1383r13p1386r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "320730900400ee8ae551a28265488d4de155cd993eb4b7924b7ad87cfae52267",
+  "validation_errors": []
+}

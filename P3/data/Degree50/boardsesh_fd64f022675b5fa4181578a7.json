@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fd64f022675b5fa4181578a7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "no piedi",
+  "setter": "Marchino",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 10,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1c38fa10b35f407fbad2707391320702",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r12p1208r13p1259r13p1302r13p1306r13p1308r13p1310r13p1321r13p1334r13p1349r13p1351r13p1382r14p1481r15p1482r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6f20b4cd328dcfe5ff6258b88226fb9843d1b31a506c49eb9eb7d995db73a900",
+  "validation_errors": []
+}

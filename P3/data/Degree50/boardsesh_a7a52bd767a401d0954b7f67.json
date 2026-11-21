@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a7a52bd767a401d0954b7f67.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "An easy paddle ",
+  "setter": "pinch.perfect",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "5267de86-fe18-46d3-b8ff-0fdf9250bc43",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1247r13p1294r13p1347r13p1383r13p1387r14p1198r12p1236r12p1096r15p1281r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "4a96d4822ce6c7b38c3b4448969b18a0ef4b5c9e7bf5bfdec8f87dbc50538f80",
+  "validation_errors": []
+}

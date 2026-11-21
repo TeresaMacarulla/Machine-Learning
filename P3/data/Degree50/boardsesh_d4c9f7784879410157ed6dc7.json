@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d4c9f7784879410157ed6dc7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Social Discomfort",
+  "setter": "Jaeden",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8d990551c0834ca49e34324c4f2f7dbd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1180r12p1182r12p1232r13p1253r13p1270r13p1304r13p1352r13p1369r13p1382r14p1486r15p1533r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 104,
+  "quality_average": 3.46,
+  "hold_fingerprint": "cdf57b644eae641b3a4e4e0e23939b06d2475e17a76cddc447bbf247965f79a2",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5881628c4307ee12f5b5c7a8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Finger House",
+  "setter": "rizoman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "DC2DB27A55C04D7D9873CE5B68460F55",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1180r12p1250r13p1286r13p1307r13p1325r13p1392r14p1475r15p1503r15p1522r15p1526r15p1554r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "7fe744f97d75c5fdb366715ae10e10f976dcd65827a5449a33383f34296ae21e",
+  "validation_errors": []
+}

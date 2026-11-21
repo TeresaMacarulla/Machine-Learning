@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0e08d14eacf6ad71ea5e9d31.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Typical crimp ladder",
+  "setter": "channinggray",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2E6FC863A0AC4C94A6CFC3EE214793FA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r12p1166r12p1218r13p1250r13p1303r13p1352r13p1385r14p1452r15p1468r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "797898ab0fbd83f2b103bf24c4cbdc2c90a461758e3f6c2b3e2eae9cc211d307",
+  "validation_errors": []
+}

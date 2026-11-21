@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0321e05968751d5778b0c12c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Legacy",
+  "setter": "RavioliTriceps",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "6361984B666448DBB86858160E943107",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1189r12p1204r12p1222r13p1253r13p1266r13p1270r13p1328r13p1333r13p1379r14p1482r15p1499r15p1503r15p1521r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 23,
+  "quality_average": 3.1900000000000004,
+  "hold_fingerprint": "83a0048a24d14ecef4801fb869d586a2e3be0aa03e01c668544a56a975a5c8b5",
+  "validation_errors": []
+}

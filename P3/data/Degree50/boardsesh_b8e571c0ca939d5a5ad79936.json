@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b8e571c0ca939d5a5ad79936.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "hiking with axes",
+  "setter": "CryingTigah",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "D60BBC49E57640FEBFD6A2E8D3559CBD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r15p1185r12p1199r12p1236r13p1302r13p1304r13p1355r13p1375r13p1393r14p1456r15p1525r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.14,
+  "ascensionist_count": 7,
+  "quality_average": 3.86,
+  "hold_fingerprint": "9b6a1a1e9b41127be352a78c0a5c14dc4b1003ceee9954a6aaebb4866b21ba4e",
+  "validation_errors": []
+}

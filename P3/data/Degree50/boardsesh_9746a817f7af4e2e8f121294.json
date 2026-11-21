@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9746a817f7af4e2e8f121294.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Calambres",
+  "setter": "Noe98_mu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "2cfa327ee40b484e83bcf6f4b763fe1f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1142r12p1143r12p1163r15p1192r13p1200r15p1234r15p1246r13p1247r13p1302r13p1307r15p1353r13p1389r14p1464r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.5,
+  "hold_fingerprint": "dc79f3da28834c77c736c2a93098d1752a10efd32e28a2fe5648a3b3014c9316",
+  "validation_errors": []
+}

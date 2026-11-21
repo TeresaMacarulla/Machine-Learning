@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f18e1b502c7730f40e92a804.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Running on Fumes",
+  "setter": "Riptile",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "476785E39E2E4ED5B0437D3545EEA67A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1121r12p1157r15p1174r12p1202r15p1239r13p1269r15p1289r13p1340r13p1356r13p1386r14p1447r15p1450r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "ead10fab21bc7a07face69d41b1d671014d340dce2f2b095340f875eff8ebe65",
+  "validation_errors": []
+}

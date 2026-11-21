@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_17a097ef08e68c33a16f170c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Smack That",
+  "setter": "BlakeMaclure",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "92D7C5E60BE04FA9AB24100746019F23",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1075r15p1189r12p1190r12p1254r13p1268r13p1351r13p1382r14p1482r15p1505r15p1534r15p1551r15p1591r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 6,
+  "quality_average": 4.0,
+  "hold_fingerprint": "d85a678839ff6990e9f9cb2104bd37b855a215dfb7c36c486b733b8c63679af6",
+  "validation_errors": []
+}

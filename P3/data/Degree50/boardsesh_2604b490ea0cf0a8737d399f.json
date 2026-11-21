@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2604b490ea0cf0a8737d399f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Starfish",
+  "setter": "Lucas",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "5FE1904AFFE044EAAE9547010581161F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1131r12p1149r12p1204r15p1215r13p1220r15p1267r13p1272r13p1275r15p1302r13p1340r13p1377r13p1395r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.01,
+  "ascensionist_count": 771,
+  "quality_average": 3.35,
+  "hold_fingerprint": "e529db292d05243cb5f2078b14e1c0a4b33d147de6a0e4a7c590f98ba06c11d8",
+  "validation_errors": []
+}

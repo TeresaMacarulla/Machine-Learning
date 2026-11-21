@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b1e52bdf2d66588e48d27863.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Daggers",
+  "setter": "pockethook",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "c20b638ffdef45b68444d2d58bb11544",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1186r12p1254r13p1264r13p1283r13p1350r13p1386r14p1482r15p1503r15p1520r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7abe4d2d7561ba5efcd2df0a3c46cbb6d673b6ba3a5c2da3b40aefaf3cc80732",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5f86520c81a275441dc7760f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "bcj direct",
+  "setter": "arnlarch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "EDFDBF8B67324BAC8DA8E12F43B39F5E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1187r13p1190r13p1269r13p1271r13p1299r13p1384r14p1451r15p1491r15p1503r15p1511r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.67,
+  "ascensionist_count": 6,
+  "quality_average": 4.5,
+  "hold_fingerprint": "050113e0d8cc78c2a38850cb3b320ae1d3a5179dc48eb6e61c5e17d6deab5fa9",
+  "validation_errors": []
+}

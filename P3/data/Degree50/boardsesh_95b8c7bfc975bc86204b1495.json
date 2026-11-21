@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_95b8c7bfc975bc86204b1495.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Sit staaaaart",
+  "setter": "RuneS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "3cbae59a678742ab9b6617316dd791a2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r12p1110r15p1143r12p1180r15p1243r13p1255r15p1281r13p1289r15p1331r13p1335r13p1354r13p1389r14p1461r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "450f300e1601ceac8a91d3cd27f33158b1b6e857b9a4c02b954b95e94338fc56",
+  "validation_errors": []
+}

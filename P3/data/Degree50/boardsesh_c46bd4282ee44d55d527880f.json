@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c46bd4282ee44d55d527880f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Just reach",
+  "setter": "c0b_zz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "1D7A40F0F4224BF4A8F924853F15B537",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1198r12p1200r12p1234r13p1263r15p1269r13p1306r13p1320r13p1353r13p1382r14p1485r15p1505r15p1516r15p1558r15p1576r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "35e8b2a57a191fef21523de2ed3eef7f83f3b552df978f7b02582e7759678c8e",
+  "validation_errors": []
+}

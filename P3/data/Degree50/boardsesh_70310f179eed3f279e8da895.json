@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_70310f179eed3f279e8da895.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Precise cuts",
+  "setter": "snsrylss",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "5D518EB963F442BDBE7D4E9F56B67845",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1215r12p1220r15p1302r13p1331r13p1381r14p1468r15p1493r15p1552r15p1555r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "072bc03ff0143f7237c3a3029c21550c9ce4e5d6fec0cf9c4851be980a069bb5",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fce611d6db5485a2b590a17e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Subarashi",
+  "setter": "ksmd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "fbb8361422f44166b12eb259b4680fe2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1097r15p1126r12p1165r13p1199r13p1254r13p1285r13p1290r13p1340r13p1394r14p1460r15p1515r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e2847efe662199b92c2190a872704531a0fd357383b2212ee67faadb6953e58b",
+  "validation_errors": []
+}

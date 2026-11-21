@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d6cfa6495ddf528c910efcab.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "2 move wonder",
+  "setter": "Ben.C",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "54699002-a548-4426-8419-0f971f0cddb6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1390r14p1247r13p1246r13p1317r13p1531r15p1520r15p1081r15p1080r15p1458r15p1165r12p1147r12",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.5,
+  "ascensionist_count": 6,
+  "quality_average": 4.33,
+  "hold_fingerprint": "ec3b8313df92897ef6569c56e51be72446791f677ea912a37ec96552bf330dcd",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4f5255af9dec2b43672fe2d1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Tug",
+  "setter": "Sabo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "E1B67850A07544F09E90584BDE3BC745",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1133r12p1164r12p1233r13p1263r13p1264r13p1317r13p1356r13p1393r14p1455r15p1504r15p1510r15p1559r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "684af05a9df034a69d8ee3d85085e942bb195314fa5694408281daac53180f97",
+  "validation_errors": []
+}

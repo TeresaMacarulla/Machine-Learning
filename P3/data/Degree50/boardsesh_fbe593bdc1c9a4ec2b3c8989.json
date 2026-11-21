@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fbe593bdc1c9a4ec2b3c8989.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Tout ou rien",
+  "setter": "vkannan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7B3F0F20B7E447638581387A2F8EC58A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1075r15p1153r12p1169r12p1258r13p1270r13p1287r13p1299r13p1352r13p1383r14p1489r15p1517r15p1532r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.6699999999999995,
+  "hold_fingerprint": "438259112092cbb1b7f8145c175581fd582c50445870879f0a59cac44a7b92ff",
+  "validation_errors": []
+}

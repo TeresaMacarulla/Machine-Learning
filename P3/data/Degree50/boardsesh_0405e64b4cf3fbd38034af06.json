@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0405e64b4cf3fbd38034af06.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Batman",
+  "setter": "ccwayman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7ab42d69-427f-4361-ac7a-bfc751d11474",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1217r15p1131r12p1133r12p1183r13p1202r13p1198r13p1265r13p1281r13p1249r13p1294r13p1379r14p1519r15p1200r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": null,
+  "hold_fingerprint": "8ce08b4a6129420645047adb2c5ae7afdcd80de97c35180f12105cd68796a432",
+  "validation_errors": []
+}

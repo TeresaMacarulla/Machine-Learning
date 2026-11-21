@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ffe363223055fb7383759522.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "lukus",
+  "setter": "keithbck",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "6C05A5C4CF0A43569E59E614A7BA820A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1202r12p1268r13p1319r13p1355r13p1385r14p1452r15p1479r15p1496r15p1504r15p1531r15p1533r15p1558r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "00f300941d4cb6b160ea9ab6fda928310c5325958bd5fb03a547b28b3cdc07d3",
+  "validation_errors": []
+}

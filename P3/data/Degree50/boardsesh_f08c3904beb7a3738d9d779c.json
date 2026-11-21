@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f08c3904beb7a3738d9d779c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "mind the rack",
+  "setter": "benspannuth",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "19B158E5A9974E42839EE8E7F33D4145",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1115r12p1132r12p1203r13p1232r13p1287r13p1339r13p1360r13p1395r14p1454r15p1456r15p1494r15p1535r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2cb25e37aca4e0625a6f5fc22f0f2d9d982a98169ff616c18b1f5cd8097e46ee",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e341d52ee6f1addc0448c8d1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Shoulder Soldier",
+  "setter": "RavioliTriceps",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "30D76B25B0F0441E9F3B9FC3307FAF9D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1251r12p1269r12p1340r13p1351r13p1379r14p1385r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 18,
+  "quality_average": 3.33,
+  "hold_fingerprint": "c490e5620f19535b0da4feca465ca6f5bd288c39c336aae5f0d10e6090f78a8e",
+  "validation_errors": []
+}

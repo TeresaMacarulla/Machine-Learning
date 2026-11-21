@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f879ad0ccb83be2981b9743f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Morphonite",
+  "setter": "bridgeraston",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "D2403DB849FC482E871AF8F60E8E2FF6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r12p1164r12p1233r15p1253r13p1305r13p1390r14p1457r15p1459r15p1579r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.01,
+  "ascensionist_count": 292,
+  "quality_average": 3.32,
+  "hold_fingerprint": "48c141045f05bae3583ac782be118d4e9a94256d6bc2603167975a84de1fd740",
+  "validation_errors": []
+}

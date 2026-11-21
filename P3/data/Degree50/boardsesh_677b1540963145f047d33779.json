@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_677b1540963145f047d33779.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Feet up",
+  "setter": "Caserz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B55FF53C02534887B460AF7A350AA006",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1292r12p1301r13p1305r13p1318r15p1338r15p1340r15p1342r12p1351r13p1382r14p1568r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d5045f78419409d983cb98cb19d4159a1864627a0b675b21e5b01b8c54505644",
+  "validation_errors": []
+}

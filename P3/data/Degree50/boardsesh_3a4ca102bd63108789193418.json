@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3a4ca102bd63108789193418.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Titans",
+  "setter": "Patch42",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "a7bbd87c3ee1409e806e7e73c09a933a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1150r12p1216r13p1217r13p1220r12p1266r13p1299r13p1352r13p1384r14p1479r15p1511r15p1514r15p1521r15p1547r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.4,
+  "hold_fingerprint": "2c176ab1fb127a9b469d124c39117884dee002d2f89facb73e9195f5767fa03a",
+  "validation_errors": []
+}

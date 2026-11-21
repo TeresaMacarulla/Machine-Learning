@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0b59148a27874b8fa9cbe9d5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "pinchmas",
+  "setter": "JasperDudley",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "D665AC5AF9FB4D57BB4F8744BD7BFFAA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1196r12p1216r12p1239r15p1240r15p1283r13p1287r13p1320r13p1357r14p1457r15p1521r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2a85eb92e6d6ab0014df9f7ebd6487ce9e5796fa1a0db314633b33e1c35f709f",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2eefde6acb7529d7b0b33ddb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "MELT",
+  "setter": "medvis",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "a335d031d75445d1833ec86d9ffaf24f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1167r12p1168r12p1221r13p1255r13p1272r13p1305r13p1356r13p1387r14p1470r15p1471r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 12,
+  "quality_average": 3.5,
+  "hold_fingerprint": "1409da5728be6c0873f4fa21bd206d1fc542403dce87ef23f1ad8dac5005be7e",
+  "validation_errors": []
+}

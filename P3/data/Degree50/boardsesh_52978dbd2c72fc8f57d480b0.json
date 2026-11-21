@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_52978dbd2c72fc8f57d480b0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "decoherence model",
+  "setter": "tobiasiding",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "42D4083724FB4F77B4837DDB1C271EDC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1156r12p1167r13p1235r13p1265r13p1299r13p1328r13p1379r14p1447r15p1478r15p1487r15p1534r15p1558r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 13,
+  "quality_average": 3.54,
+  "hold_fingerprint": "290608d2ad8acc203cf144db34c69146f1efc26d360b90e02a81f2b2962ff3ec",
+  "validation_errors": []
+}

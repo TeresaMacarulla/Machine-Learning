@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0b3d7496fa3d824b012d1dbd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Ogden Ave.",
+  "setter": "joelseph",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "70d8c48ebffd4b4083553e7282ea6c07",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1108r15p1144r15p1166r15p1198r12p1212r12p1233r13p1247r13p1302r13p1356r14p1371r14p1534r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "0c11e767ae09b905c0d02f66d31a5dbbc2d4c659d53efae2c560adc7f34f6d68",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7ca66e9502441427c6b90b02.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "$3 baguette",
+  "setter": "Hazen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "f1258ab762dd4dfba8195c2152d433bd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1143r12p1165r13p1233r13p1270r13p1320r13p1392r14p1461r15p1479r15p1513r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "a1355850dbe39d9fc6010d26ac6bd2804d2974bf1692d45c0a0d3142cbe7206a",
+  "validation_errors": []
+}

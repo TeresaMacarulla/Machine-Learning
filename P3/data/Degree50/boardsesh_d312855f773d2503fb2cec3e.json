@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d312855f773d2503fb2cec3e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "learning to fly",
+  "setter": "TF07",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 7,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "720d9e77-622b-45f3-ac42-385d573b7270",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1257r13p1150r15p1270r13p1187r13p1179r12p1487r15p1500r15p1341r13p1234r15p1389r13p1291r15p1383r14p1385r14p1266r13p1110r15p1228r13p1510r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "78f91be402e561cf7f97baec775c82a0a1d660a67bad84339c72dc360c933666",
+  "validation_errors": []
+}

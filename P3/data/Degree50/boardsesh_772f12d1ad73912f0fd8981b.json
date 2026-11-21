@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_772f12d1ad73912f0fd8981b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Pistol gripped",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3C8108D772194090A45EF2D825A29271",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1162r12p1163r12p1217r13p1218r13p1253r13p1322r13p1370r13p1392r14p1493r15p1495r15p1497r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.22,
+  "hold_fingerprint": "d00dcb843b3dd3d8d2859d4bdc036ca01177230c3c4050623493859cf52601c9",
+  "validation_errors": []
+}

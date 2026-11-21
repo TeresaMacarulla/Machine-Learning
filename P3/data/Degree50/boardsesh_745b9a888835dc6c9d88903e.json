@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_745b9a888835dc6c9d88903e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "time is ticking (campus)",
+  "setter": "Shacked",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "07b08c629c5147d5b6f74a7f4d772c8e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1236r12p1257r13p1269r12p1289r13p1293r13p1359r14p1389r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "eba63e74a4a24b575316c699e25d58829380fef6c0e40a1038ceb00f671bcb5f",
+  "validation_errors": []
+}

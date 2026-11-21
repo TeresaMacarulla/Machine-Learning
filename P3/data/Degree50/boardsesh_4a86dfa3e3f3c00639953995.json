@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4a86dfa3e3f3c00639953995.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "(Forgot the original)",
+  "setter": "LucaKr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2cf8f57d03bc44439db704cb98a24095",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1146r12p1163r12p1206r15p1214r13p1231r13p1236r13p1256r13p1270r13p1307r13p1324r13p1361r13p1395r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6a75c42c0148709ac4657c21fd80b93c0cae3c6bfd0b74367cbb717a363cabb1",
+  "validation_errors": []
+}

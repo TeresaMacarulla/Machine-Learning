@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b97832753c067f203071aa0e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "raw technique",
+  "setter": "core.nelius",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "de18da69c7e04ff38d364829ad152d65",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1157r15p1168r12p1257r13p1320r13p1354r13p1368r13p1383r14p1450r15p1454r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 12,
+  "quality_average": 3.25,
+  "hold_fingerprint": "c4bf086f44d3ae7cd8173846f174b603d16648c7bbd0d4fc43fca6cf87f6cbf1",
+  "validation_errors": []
+}

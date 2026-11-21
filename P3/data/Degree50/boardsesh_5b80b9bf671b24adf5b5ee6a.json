@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5b80b9bf671b24adf5b5ee6a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Lowball Tomfoolery",
+  "setter": "nick_dt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "A42F652BF7EC4CC5BDE8FD53A8C2938C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r12p1111r15p1133r13p1150r13p1154r13p1204r14p1462r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "11a7a8945d8d3f8d8e8b433cfa646ec0c14755248a247a941ac991ea978305c1",
+  "validation_errors": []
+}

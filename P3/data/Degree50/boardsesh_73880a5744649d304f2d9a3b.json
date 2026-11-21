@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_73880a5744649d304f2d9a3b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "worms",
+  "setter": "eorjala",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C081F6AAF29040D09CA7105571B6EF33",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1146r15p1175r15p1210r13p1244r13p1281r13p1299r13p1317r13p1353r13p1390r14p1461r15p1464r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ee3c8a85b1ee5eefe76fef32b55a5ee1f28306ec2fd4513b8ede1bcb0ca32020",
+  "validation_errors": []
+}

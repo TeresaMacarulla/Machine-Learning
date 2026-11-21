@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3104c1cb9eb5ab823a4e324f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "phase change",
+  "setter": "ns_sandbagger",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "EF9E83CE571F4A68AF3CD66935C1E69C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1118r12p1135r12p1138r15p1168r13p1202r13p1269r13p1307r13p1339r13p1392r14p1449r15p1470r15p1478r15p1498r15p1516r15p1526r15p1531r13p1544r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d96d468dfb158cd0856c80ae073265b9f15c489dccc13bab12e5f3ce3e1b7567",
+  "validation_errors": []
+}

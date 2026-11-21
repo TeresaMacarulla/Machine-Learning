@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f8c546edf483e724ccebc25e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Mr. Twister",
+  "setter": "zfolsom",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "BF8306CEFFC94A77B9DCC5FC9E7898A3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r12p1153r12p1235r13p1265r13p1318r13p1348r13p1383r14p1472r15p1516r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "900db0a787f853fce9745d2e9ed2443273ad7ce932ea46ca2c5b766b518b49c1",
+  "validation_errors": []
+}

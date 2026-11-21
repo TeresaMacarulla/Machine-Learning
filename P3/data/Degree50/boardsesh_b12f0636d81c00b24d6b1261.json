@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b12f0636d81c00b24d6b1261.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "mullet power 2.0",
+  "setter": "00_rocketboy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3D5CFB9E70DD4C6B86BFDAA34FDE8107",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1198r12p1236r13p1254r13p1271r13p1276r13p1361r13p1392r14p1479r15p1499r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.86,
+  "ascensionist_count": 7,
+  "quality_average": 3.29,
+  "hold_fingerprint": "b8a528cb07f54a562b91fe0785c0d15919679e96bfb2817844453ffe7980fc4d",
+  "validation_errors": []
+}

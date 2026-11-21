@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_78e96dcc4298564b52f32c5e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Kickstand",
+  "setter": "rexhavoc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "a402ffadfe5d4f3eb39933966e853d90",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1111r15p1143r12p1192r13p1246r13p1315r13p1387r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.06,
+  "ascensionist_count": 20,
+  "quality_average": 2.82,
+  "hold_fingerprint": "babec8a4acac878b1409de6ad97d5a0214fdb1a03b0b64214a5efeafe0a4d572",
+  "validation_errors": []
+}

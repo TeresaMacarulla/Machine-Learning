@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b67ea70867d00612cf06ec29.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "4x4x2sommer",
+  "setter": "mikkelnor99",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "d2d13deb-4b40-4273-86bf-953589febf40",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1248r13p1266r13p1332r13p1538r15p1531r15p1170r12p1220r13p1481r15p1133r15p1493r15p1511r15p1201r13p1386r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": null,
+  "hold_fingerprint": "732471a8ef23053dbea4171b354f1738b9dd501be4bd519bbc94cc14c0f09cb4",
+  "validation_errors": []
+}

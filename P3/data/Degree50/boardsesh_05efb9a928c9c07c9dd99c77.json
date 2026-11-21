@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_05efb9a928c9c07c9dd99c77.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Driving Over Da Median",
+  "setter": "dreben",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A007B0259CFB4145BE045DE1D1950017",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r15p1146r15p1164r12p1166r12p1215r13p1239r15p1285r13p1287r13p1323r13p1356r13p1387r14p1457r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c60a26130d8ae9872416686b887e5a82c564ecef6cd21bf94c5145886998caae",
+  "validation_errors": []
+}

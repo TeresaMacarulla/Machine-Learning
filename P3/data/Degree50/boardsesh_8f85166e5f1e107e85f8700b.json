@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8f85166e5f1e107e85f8700b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Stupid Human",
+  "setter": "SeaOfCzars",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "F5A0670BA56540AE8E404B28CC115DD7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1263r13p1267r13p1269r13p1275r12p1352r13p1382r14p1383r14p1536r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.93,
+  "ascensionist_count": 14,
+  "quality_average": 3.57,
+  "hold_fingerprint": "f19d3071abe251d64885e03a0fd095f60e92712877194aa3ed4a51daa8e9bf7b",
+  "validation_errors": []
+}

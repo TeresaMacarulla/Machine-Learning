@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_669c5a89c486d0b4cd2efbc9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Stop trying to hit me and hit me!",
+  "setter": "TheColonial",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "c35e605a13504bf480be406ff95ea66f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1106r15p1155r12p1186r13p1190r12p1255r15p1256r13p1303r13p1336r13p1384r14p1499r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.6,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "efec2da5ba4a06aabfa0044ffa36c95dc7a1f76523f0f3f51f156fe9eaec56b3",
+  "validation_errors": []
+}

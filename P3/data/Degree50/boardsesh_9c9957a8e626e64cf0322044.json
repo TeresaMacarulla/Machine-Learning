@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9c9957a8e626e64cf0322044.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "el saco",
+  "setter": "juanitoo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "165E79188E7F42B6A18A47F19A665ADF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r12p1207r15p1248r13p1272r13p1286r13p1325r13p1372r13p1387r14p1493r15p1545r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 4.33,
+  "hold_fingerprint": "31b010dd93f421d7719ceaa22ab5f64cfcaabd2a359dbcf3657e7a7a194288ba",
+  "validation_errors": []
+}

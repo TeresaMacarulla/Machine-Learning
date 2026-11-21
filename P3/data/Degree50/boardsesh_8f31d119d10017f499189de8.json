@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8f31d119d10017f499189de8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "corsarm",
+  "setter": "Nitra6",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "458A601803BD41B286C879CBD9C08ADE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1131r15p1163r15p1169r12p1200r15p1201r12p1210r15p1216r13p1234r15p1245r15p1254r13p1283r13p1285r13p1287r13p1298r13p1332r13p1351r13p1367r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6964ab1dca8a9f85126baa93c36432ede55980c6e84b53aaab92b4ea503fe429",
+  "validation_errors": []
+}

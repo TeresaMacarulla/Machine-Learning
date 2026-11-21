@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c1a1f19bb16e7bc3caa6590a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Sharp End",
+  "setter": "nlun",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "08be80ef820642aeb8664fd8203193bc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1213r13p1230r13p1271r15p1284r13p1301r13p1304r13p1325r13p1340r13p1395r14p1463r15p1492r12p1510r15p1531r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "249ca1197cc167cf5d7734334e6070fd61fe5cd0ab3ac7f78558480709301c01",
+  "validation_errors": []
+}

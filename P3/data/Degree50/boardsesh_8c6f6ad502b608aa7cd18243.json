@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8c6f6ad502b608aa7cd18243.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Beef and Eggs",
+  "setter": "AlexKilterBoard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FCC0368BA3464DAC8BB07D6087B04DE6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1128r12p1214r13p1250r13p1294r15p1302r13p1347r13p1371r13p1379r14p1384r13p1458r15p1476r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b8cf391e66cd97abaaf225498cf35f2fa31ffbfabccc23ed1138083a16e91ef9",
+  "validation_errors": []
+}

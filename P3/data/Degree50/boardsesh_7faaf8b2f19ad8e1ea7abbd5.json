@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7faaf8b2f19ad8e1ea7abbd5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "boldis",
+  "setter": "adam_lke",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "3F047AAD1E6C40749B92941DABDC3728",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1144r15p1178r12p1182r12p1198r13p1234r13p1247r13p1251r15p1268r13p1270r15p1300r13p1337r13p1387r14p1390r14p1503r15p1505r15p1540r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1494,
+  "quality_average": 3.26,
+  "hold_fingerprint": "d2b2272fcb3e08d9b3f4305ff29c66fe8dd033928b22b6f07b830c0bba2bb3fe",
+  "validation_errors": []
+}

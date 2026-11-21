@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ce12033ea6e8614cc92cbad1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Internet verbot",
+  "setter": "Tarekrobrahn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "c204efa05d7c42a1ae39af5304b19fb3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r12p1172r12p1240r13p1310r13p1323r13p1373r13p1385r14p1387r14p1447r15p1453r15p1545r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9bcda1ba98d76e5b2f6c78b8dc564a9fd1d72d9eaf120331dcb7a8334d3f1dd0",
+  "validation_errors": []
+}

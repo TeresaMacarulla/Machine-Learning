@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fdbc4478f785799b64fe9bde.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Step Brothers",
+  "setter": "petercrane",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "22D4340B7D3E4F97B4F6A2A1C9EEF6B7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1212r12p1266r13p1269r13p1282r13p1305r13p1359r13p1392r14p1484r15p1513r15p1525r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1f4f8274055e9efe62f9092dbe1088b0bd75e587417e410f5a8a1f303e659362",
+  "validation_errors": []
+}

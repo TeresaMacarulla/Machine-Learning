@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_17b3132a0e0a6493a34f9979.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Leg Elbows",
+  "setter": "mcanniz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "eedf48ce953e4a6eb0514cf377c35766",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1101r15p1184r12p1233r13p1264r13p1334r13p1351r13p1389r14p1456r15p1497r15p1503r15p1508r12p1579r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "351232e9e1529a0c0664d7a27f3ef67f87adf1db6aca57f2404aac7ecacae71f",
+  "validation_errors": []
+}

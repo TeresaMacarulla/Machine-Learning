@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1b2303fcb0c527c2fa2f2193.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Sabo Legs",
+  "setter": "Taran",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "3677789F4FFE4D4C860A892E45318DDE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1183r13p1213r13p1282r13p1349r13p1387r14p1459r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 30,
+  "quality_average": 3.21,
+  "hold_fingerprint": "69d4ab19646651456f4f23969b6a846cf462f65f2ecbf36aa25cad7f784e4d0c",
+  "validation_errors": []
+}

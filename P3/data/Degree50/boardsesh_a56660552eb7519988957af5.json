@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a56660552eb7519988957af5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "daun",
+  "setter": "grainycurd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4D0F3B0F50EA4FD99B14747BB7EE5C4A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1158r12p1228r13p1285r13p1290r13p1298r13p1322r13p1392r14p1467r15p1483r15p1514r15p1540r13p1554r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.91,
+  "ascensionist_count": 23,
+  "quality_average": 3.61,
+  "hold_fingerprint": "f833c30fddfd108c8b1f2da828a9e2b166ff5bfce8591a90e25b755c0239d24e",
+  "validation_errors": []
+}

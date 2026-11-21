@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d9e93932f8b2d0eeaa4d0df7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "gradieeent half descent",
+  "setter": "mario2792",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "40FDE2ED567649F8A27EED46D4493F0C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1202r12p1220r12p1287r13p1321r13p1375r13p1393r14p1489r15p1516r15p1535r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "084eccd7be372884d02666dca5477754e20e7336b91c2849295560b2e4ac6c9d",
+  "validation_errors": []
+}

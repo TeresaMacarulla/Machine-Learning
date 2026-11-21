@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6bc6e7bd0e9d698193cbb6c1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "la media dura",
+  "setter": "5vforest2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "105E3680311F4E4DBA4B8E37C8BCB99D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1131r12p1169r13p1186r13p1223r13p1288r13p1324r13p1375r13p1394r14p1459r15p1500r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1e6f03e892ec13dfb925b3b5adf8a6c5f3cd579e82aa95034bd521cc56c51948",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9b363a2b1847c07cd04e3149.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Get your edge on",
+  "setter": "Odentheclimber",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "07711121EABD46FC9A78C172E2FAB73D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1198r15p1214r13p1298r13p1320r13p1368r13p1391r14p1458r15p1475r15p1528r15p1557r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "4af2da199e5891134e536d0dad4ce65c3c73b972bd698d64284a19635d8ce989",
+  "validation_errors": []
+}

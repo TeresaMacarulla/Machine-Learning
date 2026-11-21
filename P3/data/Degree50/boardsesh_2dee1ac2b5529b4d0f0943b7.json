@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2dee1ac2b5529b4d0f0943b7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": " twist my arm ",
+  "setter": "elivarnum",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "772e384d-67af-4bff-b6b0-ecf8f95d0359",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1177r12p1317r13p1304r13p1357r13p1533r15p1394r14p1179r12p1534r15p1228r13p1465r15p1467r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.5,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "45016021076fc099f9aa7fb19c4f53f337f12434ec0f25893337a89cfa4020e4",
+  "validation_errors": []
+}

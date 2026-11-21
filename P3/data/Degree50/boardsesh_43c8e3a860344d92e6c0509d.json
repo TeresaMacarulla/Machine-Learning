@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_43c8e3a860344d92e6c0509d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "glass 2",
+  "setter": "Hauki",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "3b2440c7-c935-4c84-b1cd-5096cead64fe",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1250r13p1543r13p1149r12p1081r15p1082r15p1323r13p1171r15p1321r13p1495r15p1391r14p1535r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "d6f04c5ab43f19a4433e8c12118787e0ffb0c0366576b9c77e7b2d9d39cb50f4",
+  "validation_errors": []
+}

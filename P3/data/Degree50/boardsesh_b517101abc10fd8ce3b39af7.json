@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b517101abc10fd8ce3b39af7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "mw1",
+  "setter": "MikeHart",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "78093EF0F97D4AF792DABAC8F38B952B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1153r12p1169r12p1177r15p1233r13p1264r13p1330r13p1379r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e5caa2b53208acadae79e0860be0138fb75fed52b552bd8be2e3c92043e96f3d",
+  "validation_errors": []
+}

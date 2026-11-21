@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_230a224eae18c09b754783b0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "20p freddo 2",
+  "setter": "ollyw",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "8E0700A47D024548B801F8251D126803",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1074r15p1075r15p1076r15p1189r12p1289r13p1336r13p1382r14p1447r15p1448r15p1449r15p1450r15p1516r12",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "7a1b8337b0e8954e91b68ae786616933e1d5a6976a536288e990fdde12d5a216",
+  "validation_errors": []
+}

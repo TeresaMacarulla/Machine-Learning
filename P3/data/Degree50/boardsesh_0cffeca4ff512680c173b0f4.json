@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0cffeca4ff512680c173b0f4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Spiderman Pose To Finish",
+  "setter": "johnnyrocket",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2A1FAFECBFE646C8B320C3148AB941BF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1117r15p1131r15p1183r12p1185r12p1215r15p1235r13p1266r13p1302r13p1332r13p1384r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a167f844460b34d2fea86efd15f3591ac65c7ada2387a51cf33cd963530c3350",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_603b9bf371a66aeaed56e625.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "New foot line",
+  "setter": "titiboule",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "43E02F124A2D455DAF49109F0BCBECAC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1189r12p1191r12p1264r13p1266r13p1274r13p1298r13p1320r13p1345r13p1379r14p1482r15p1490r15p1506r15p1513r15p1521r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.1,
+  "ascensionist_count": 10,
+  "quality_average": 3.8,
+  "hold_fingerprint": "c809614ebef7c8b82c2524d579e85bb5679027e9051a5cd1a5f148dc8adecaa3",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2fd9d319a720361443aee4ec.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Blue Dragon Train",
+  "setter": "rkdtns153",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "304DBE5C6BE04967825BEEE51E6859C2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1257r12p1259r12p1272r15p1281r15p1306r13p1319r13p1372r13p1379r14p1383r13p1385r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.29,
+  "hold_fingerprint": "6840e89dc7fe31a1e46c5d80c1252fdc83af4fafca0c2253de2ab5d314256e65",
+  "validation_errors": []
+}

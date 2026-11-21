@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4dddb788b3988dee99204699.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Electro Swing",
+  "setter": "SkippyDonFuego",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "ffb052da9ee14543a61e19f4d6ac8c4d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1181r15p1215r13p1264r13p1269r13p1314r13p1328r13p1381r14p1455r15p1468r15p1520r15p1539r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "f8772e597ab65b95a22970fe3de73f643203809fce56defd4213a3d74fedb41c",
+  "validation_errors": []
+}

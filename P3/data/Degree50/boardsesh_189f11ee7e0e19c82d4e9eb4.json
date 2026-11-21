@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_189f11ee7e0e19c82d4e9eb4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Melanie",
+  "setter": "defectivepotato_",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ECCD90825A234595B044B224EE3F04D2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1103r15p1148r12p1186r12p1216r13p1254r13p1302r13p1317r13p1351r13p1382r14p1524r15p1540r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.96,
+  "ascensionist_count": 134,
+  "quality_average": 3.48,
+  "hold_fingerprint": "44b717d75c6840a9ea7025ef9d817e849355c06359eef404ec4d35e3163a96d6",
+  "validation_errors": []
+}

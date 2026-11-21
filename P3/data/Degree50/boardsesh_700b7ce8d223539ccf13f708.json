@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_700b7ce8d223539ccf13f708.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Straight pulls 2",
+  "setter": "adriankask",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "dbbcfecf44e74263b6a7918c8ba44176",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1166r12p1179r12p1250r13p1273r13p1341r13p1389r14p1560r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.07,
+  "ascensionist_count": 43,
+  "quality_average": 3.28,
+  "hold_fingerprint": "e4163249c1ec42c657012f82b21a8ac2c3cd885ec5b144f8adb62fd22cc07b28",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_efe3c55805efc81858fc9210.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Learned Behavior",
+  "setter": "joeybagofdoughnuts",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "672A587890A340E795C4BDF59F1A049F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1117r15p1143r12p1214r13p1251r13p1252r13p1353r13p1392r14p1458r15p1464r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6fbab73e3b1ce6e61d80b58b40188d71294b6984096fcf7e29f9fbf76563c3a8",
+  "validation_errors": []
+}

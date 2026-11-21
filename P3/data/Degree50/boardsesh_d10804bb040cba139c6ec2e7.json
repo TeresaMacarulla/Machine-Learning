@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d10804bb040cba139c6ec2e7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Tickle Me",
+  "setter": "tomheslam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1DCAAF2E45714C5AA02D4315CEF457D4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1148r12p1150r12p1164r13p1214r13p1246r13p1301r13p1354r13p1388r13p1392r14p1457r15p1561r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "caaeebc3a280e4601b222fda81cf3b8d74e2a307b0be0f2eadf15e28c454a6d8",
+  "validation_errors": []
+}

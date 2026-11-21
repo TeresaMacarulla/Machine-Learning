@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3ac488c88eeeeff747036254.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Corerosion",
+  "setter": "theunaphotobomber",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0a06630738644c72a563f132538aa27d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1206r15p1236r12p1238r12p1271r13p1272r13p1341r13p1342r13p1374r13p1389r14p1392r13p1515r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.87,
+  "ascensionist_count": 48,
+  "quality_average": 3.2099999999999995,
+  "hold_fingerprint": "efefe3c1cc2cbf5e411cc1ec3132004da94491d975576778103c41ff8377b4c0",
+  "validation_errors": []
+}

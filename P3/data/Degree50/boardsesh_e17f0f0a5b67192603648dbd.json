@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e17f0f0a5b67192603648dbd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Lethargy",
+  "setter": "iancb000",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "08388A3092B14894B9699DBD5B9F44A8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r12p1153r12p1216r13p1273r13p1320r13p1352r13p1386r14p1455r15p1479r15p1497r15p1543r13p1548r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "36ac5b15a64d3c5ba6486c4fcc98d86cf2d06aba9db32bf30a1e7827c36f9531",
+  "validation_errors": []
+}

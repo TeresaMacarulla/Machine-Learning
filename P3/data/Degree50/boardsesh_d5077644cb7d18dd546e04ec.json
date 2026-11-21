@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d5077644cb7d18dd546e04ec.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "integration by parts",
+  "setter": "snakedetectionhypothesis",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "551BD1F842574A5EA87B6D51D7B0E844",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r12p1166r12p1269r13p1351r13p1390r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.8,
+  "ascensionist_count": 5,
+  "quality_average": 3.0,
+  "hold_fingerprint": "0662e53c9350291b7b5277e29c8c11b356505f035507b668b776140fd521150b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1b47f3051cd98a5f64f175f0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "delete cliMb",
+  "setter": "jahli",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "c3e7d28d11864dd7986aaee799109df7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r15p1156r12p1221r15p1240r13p1255r13p1303r13p1371r13p1385r14p1447r15p1541r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "3de5be838146f0bb2fb7d6fb7b8ae0b6800adfe3aed5f40a06721911dcc841ff",
+  "validation_errors": []
+}

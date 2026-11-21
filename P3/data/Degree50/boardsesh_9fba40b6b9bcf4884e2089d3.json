@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9fba40b6b9bcf4884e2089d3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "why is 50 degrees harder",
+  "setter": "stateguest",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "13E63C0CF0A34EB383085C88A0E45DBF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r15p1166r15p1197r12p1198r12p1236r13p1284r13p1356r13p1390r14p1467r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.92,
+  "ascensionist_count": 13,
+  "quality_average": 3.31,
+  "hold_fingerprint": "c807257e36f07e2d832f96aa02bf2f172eb08bb4fd635914d16336148422e051",
+  "validation_errors": []
+}

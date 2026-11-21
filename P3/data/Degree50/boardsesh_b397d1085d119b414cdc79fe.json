@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b397d1085d119b414cdc79fe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Explosive",
+  "setter": "Felix123",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "e07641a3fb5f4df38cb4cc6b3e6ed52a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1085r15p1144r12p1163r12p1263r13p1363r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.99,
+  "ascensionist_count": 141,
+  "quality_average": 3.15,
+  "hold_fingerprint": "06e6e7e35ad5d983fcd98a493264e5c9df9df0fcd5f07ff62a30ab5974929df1",
+  "validation_errors": []
+}

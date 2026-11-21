@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0fc4843b6a1038169351485f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Shoulder Moulder",
+  "setter": "Tobinator",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "d6e5fbe8a12a4d3c8e79c00fb3667064",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1197r13p1201r13p1252r13p1268r13p1337r13p1390r14p1456r15p1481r12",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "32544fc9cd29adb0be2ad75cb237d600dccd2eefcfade7d9f7b3407152fb1e89",
+  "validation_errors": []
+}

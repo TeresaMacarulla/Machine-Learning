@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ed23efcb88f3a1f0c68a3723.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "spoon",
+  "setter": "helloootheree",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A1D69D9235B34290BE3B86489910BEE4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1116r12p1157r15p1170r15p1187r12p1220r13p1253r13p1283r13p1285r13p1332r13p1387r14p1449r15p1451r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.83,
+  "ascensionist_count": 12,
+  "quality_average": 3.42,
+  "hold_fingerprint": "3b9195807808f5a3b0fe7dc59f0c634a8a0f076a47fed9724c2ea78996b21f84",
+  "validation_errors": []
+}

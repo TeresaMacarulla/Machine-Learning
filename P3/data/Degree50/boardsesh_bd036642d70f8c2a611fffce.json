@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bd036642d70f8c2a611fffce.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "pmk",
+  "setter": "mifemo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 8,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "41D7D49771A14638A1DDA002631BC0B5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1161r12p1177r12p1212r13p1243r13p1281r13p1296r13p1313r13p1347r13p1351r13p1364r14p1383r14p1461r15p1464r15p1510r15p1521r15p1547r13",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "87f0068cb56c39a408d2bf58ee9f7134a711ad202b7df8532e86433d631cced0",
+  "validation_errors": []
+}

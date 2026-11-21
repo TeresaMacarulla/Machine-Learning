@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1c21f35a315bbcea09934f05.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Leisten Lauch",
+  "setter": "Knoedelbroat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "e1ba26b2-6cd8-434e-9a4a-2093face536b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1205r12p1241r12p1255r13p1273r13p1286r13p1287r13p1301r13p1353r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.67,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "0b39bade12dadb33efb0f219b16872f877292b609a4ee02da9dc1db165fb5d5e",
+  "validation_errors": []
+}

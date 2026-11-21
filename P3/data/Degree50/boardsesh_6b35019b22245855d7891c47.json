@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6b35019b22245855d7891c47.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Dynamic Attachment",
+  "setter": "ZacCohen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "554FAADED3534C72BDD7CA1701E57B10",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1160r15p1192r12p1212r15p1260r13p1281r13p1315r13p1387r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "69faa8fc91245e819d817033cd4d7e1d4e7bc733f43c1cc71d6a1c012aeb683d",
+  "validation_errors": []
+}

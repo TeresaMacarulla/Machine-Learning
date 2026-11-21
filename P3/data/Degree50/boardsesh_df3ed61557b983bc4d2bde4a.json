@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_df3ed61557b983bc4d2bde4a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Back Tear",
+  "setter": "ayaan.climbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "35C14A102CDC462A9B352CE2EC2EF186",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r15p1150r15p1204r15p1217r12p1230r12p1304r13p1305r15p1320r13p1368r13p1382r14p1552r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6ca228ecabf9100a855756f4c99087f4b46e474d84c0e694784d682227c29135",
+  "validation_errors": []
+}

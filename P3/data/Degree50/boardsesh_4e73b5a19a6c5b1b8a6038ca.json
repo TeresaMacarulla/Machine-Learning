@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4e73b5a19a6c5b1b8a6038ca.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Standing room only",
+  "setter": "funnyman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "A0F9A9FBE7854EE3AB75D94BB196F27A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1193r12p1213r12p1233r13p1247r13p1267r13p1301r13p1367r13p1371r13p1380r14p1385r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d6d0c1ff266a0ff496be68e06c2e89c2b8699c97aae285045ec78e227d6a8960",
+  "validation_errors": []
+}

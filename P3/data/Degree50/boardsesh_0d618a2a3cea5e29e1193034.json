@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0d618a2a3cea5e29e1193034.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "pinch your proj",
+  "setter": "mdickey1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b2bfdbeb-3759-4275-8c55-79cd00449de5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1241r13p1186r13p1291r13p1285r13p1357r13p1525r15p1385r14p1332r15p1121r12p1452r15p1500r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 8,
+  "quality_average": 4.43,
+  "hold_fingerprint": "be94f2a577701a690f2c8eb15db473e9d7a055a43bc2302dd7de22404bae0065",
+  "validation_errors": []
+}

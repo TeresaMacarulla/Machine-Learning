@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e14af81de6166aae8af44063.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Footloose",
+  "setter": "craftedsam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E33C42B347A6478D8E7D1EE1DBC96F24",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r12p1138r15p1153r12p1180r13p1183r13p1249r13p1264r13p1348r13p1350r13p1385r14p1499r15p1507r15p1519r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.75,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "ad17507625bedc6de84394f4da9fb3f3e765461db1abeeca58489be6548a6ecd",
+  "validation_errors": []
+}

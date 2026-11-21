@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_54e5cca5dde288a4d7d662fa.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "baby arms",
+  "setter": "Ondo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "88212FB707684D7BB9891973584DE535",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1136r12p1166r13p1216r13p1229r13p1281r13p1350r13p1387r14p1489r15p1503r15p1520r15p1540r15p1546r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c267c85a2800a299c88b85c2ab28086736753a873e2dcd53bc2aa6fdeb3b6d31",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f7448bde4f6cc2c2863d467d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "shrinkydinks",
+  "setter": "henrydalby",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "bda88d4a-1afb-4b2c-ba62-d4b0b6e215c4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1246r13p1315r13p1195r13p1182r12p1165r12p1334r13p1466r15p1081r15p1493r15p1338r13p1390r14p1255r15p1391r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.67,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "a89b9eae9af5423ead610884e3527950da287c2a1b4b00d6f707c8513071adc9",
+  "validation_errors": []
+}

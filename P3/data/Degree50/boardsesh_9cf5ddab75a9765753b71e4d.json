@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9cf5ddab75a9765753b71e4d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "renox no foot",
+  "setter": "llughan2012",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 10,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "341f5539a8f6432b84d65f310049b923",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1190r12p1206r12p1241r13p1274r13p1309r13p1342r13p1376r13p1380r14p1382r13p1384r13p1387r13p1389r13p1391r13",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "97cfd2ec415fcb4e548abd782bfeaa9363e8548daf924f2992f896fa805d93a0",
+  "validation_errors": []
+}

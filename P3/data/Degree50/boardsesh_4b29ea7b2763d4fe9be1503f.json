@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4b29ea7b2763d4fe9be1503f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "boutchou",
+  "setter": "bobito",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 9,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "ca38837e0b38478c90c2310e3ed49c54",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1174r12p1204r13p1228r13p1241r13p1248r13p1251r13p1254r13p1278r13p1332r13p1345r14p1566r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f1e3ddf782f0429c98ca8f19d2c49af9720c1be75d0ce90922f8adb8b697ae32",
+  "validation_errors": []
+}

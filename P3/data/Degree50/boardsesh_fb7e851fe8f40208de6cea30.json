@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fb7e851fe8f40208de6cea30.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Pucker Up",
+  "setter": "importedbean",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "5CC33AC3E87D4AB7B78FCE0C4CB2C343",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1107r12p1144r12p1195r13p1234r13p1302r13p1340r13p1391r14p1464r15p1487r15p1514r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 18,
+  "quality_average": 3.22,
+  "hold_fingerprint": "2ac8c1f897e48d75254889a699bf9b2e8c5eee01a3b414fcdf9006b728f7a412",
+  "validation_errors": []
+}

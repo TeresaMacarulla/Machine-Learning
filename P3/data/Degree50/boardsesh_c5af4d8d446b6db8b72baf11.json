@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c5af4d8d446b6db8b72baf11.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "get footie",
+  "setter": "GirthQuake",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 11
+  },
+  "source": "boardsesh",
+  "source_uuid": "2AD5CF891A46448FA03F3A146E889580",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1179r13p1232r13p1261r13p1314r13p1382r14p1458r15p1462r15p1466r15p1475r15p1483r15p1484r15p1485r15p1487r15p1492r15p1501r15p1519r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.11,
+  "ascensionist_count": 19,
+  "quality_average": 3.53,
+  "hold_fingerprint": "23d89318e2c112f954ba3c8a210ff311232d668e360732442c340d9fbf4207c7",
+  "validation_errors": []
+}

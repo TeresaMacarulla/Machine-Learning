@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d1b197385a1195d7d870bf0a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "doggg",
+  "setter": "gavinio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "F15C407247734610A65E1B0B974C21F3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r12p1153r12p1210r15p1218r13p1269r13p1298r13p1328r13p1334r13p1379r14p1449r15p1482r15p1526r15p1540r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.64,
+  "ascensionist_count": 50,
+  "quality_average": 4.6,
+  "hold_fingerprint": "778862360fc142dc216d3d0cec0425a7de4fd40abcee491d75560dc1719a46f4",
+  "validation_errors": []
+}

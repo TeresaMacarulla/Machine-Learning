@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7ba5a544da11def04b500d6d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "pikkukiva",
+  "setter": "pyry",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6B15A611FAE64980865A2030966F8987",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1133r12p1147r13p1181r13p1215r13p1285r13p1315r13p1367r13p1388r14p1547r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "699f9253850b708a4619419064619a6b82decd4259a2a0fe7d9da208c772a70d",
+  "validation_errors": []
+}

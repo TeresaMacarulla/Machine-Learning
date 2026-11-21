@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b11a4cd65806d05644c08561.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "team training",
+  "setter": "Peterreed",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "83EC62CE376541108EC33EA46E9D7199",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r15p1142r12p1143r12p1152r15p1154r15p1190r15p1213r13p1251r13p1253r13p1291r13p1343r13p1360r13p1390r14p1554r15p1561r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e4a59631c19455580688e941840b861d8fe458dc2f1b2f460109ef9317545ded",
+  "validation_errors": []
+}

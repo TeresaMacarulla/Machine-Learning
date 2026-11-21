@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f81fd4c946701c46cdab3ca4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "A reasonable return",
+  "setter": "maxpenny",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7A5B51AFDB4F44339B0D03EBE269D2A9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1160r15p1177r13p1231r13p1279r13p1332r13p1345r13p1379r14p1457r15p1463r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "9a3f276d9cdb482e463a01467dfc3d3bbb58f3cce19de12db2e35b1616cf438e",
+  "validation_errors": []
+}

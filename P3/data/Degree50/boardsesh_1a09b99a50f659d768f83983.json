@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1a09b99a50f659d768f83983.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "#clenchem",
+  "setter": "Adampling",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "BE5FD36CD45941AF9129623E397960D4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1127r12p1141r15p1159r12p1199r13p1233r13p1289r13p1291r13p1357r13p1386r14p1464r15p1476r15p1536r15p1554r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "a0fa9455ab08564950ed4673b2a8d9d8a161b1fb42d298fd7aa0d2248265d600",
+  "validation_errors": []
+}

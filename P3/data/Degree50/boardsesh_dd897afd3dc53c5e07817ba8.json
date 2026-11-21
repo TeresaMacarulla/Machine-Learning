@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dd897afd3dc53c5e07817ba8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "A muerte",
+  "setter": "45er",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "A7E6D220125344DAB8A4B805B0E24429",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1156r12p1172r15p1204r13p1233r13p1249r13p1251r13p1348r13p1353r13p1380r14p1447r15p1487r15p1515r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 4,
+  "quality_average": 5.0,
+  "hold_fingerprint": "73efdcdbcb9eacc5ea903999bcd7a89e2e27078a42158e6b1c4e4c86df131cca",
+  "validation_errors": []
+}

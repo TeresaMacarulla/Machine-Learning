@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6a71479a7428b76b2d5dcf01.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Solo pinze",
+  "setter": "Piso",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 10
+  },
+  "source": "boardsesh",
+  "source_uuid": "d400089c-3f38-4d7d-8c2d-7e71153c54ad",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1272r13p1310r13p1224r13p1480r15p1220r13p1489r15p1516r15p1334r13p1368r13p1382r14p1557r15p1453r15p1449r15p1166r12p1145r15p1456r15p1119r13p1322r13p1157r15p1536r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "11d4d1a94624872fcf20be159b09035d070571d09bdd93a9b8d07b002c782bab",
+  "validation_errors": []
+}

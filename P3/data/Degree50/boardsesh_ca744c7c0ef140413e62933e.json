@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ca744c7c0ef140413e62933e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "GRANDSLAM",
+  "setter": "E.2.d.2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "3536DC7C8DC540D5881EB8B18F612C54",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1192r12p1263r13p1295r13p1345r13p1383r14p1484r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.17,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "cdbc458f802021a4f1b8392d80d2d70f3a6dd5bd83e4edaf90dbb5fced80adc1",
+  "validation_errors": []
+}

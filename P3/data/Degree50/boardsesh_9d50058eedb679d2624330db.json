@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9d50058eedb679d2624330db.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "kilter warm-up",
+  "setter": "jchongsends",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "97F5BB985B6643E08505DEECE9EB9ADE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1113r15p1166r15p1198r12p1202r12p1252r13p1284r13p1321r13p1371r13p1392r14p1478r15p1533r15p1562r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "f83ca9195b466d801357a3a0df1fbaecf97ad1b46b3c34ac92fa5a9a5f2d37fa",
+  "validation_errors": []
+}

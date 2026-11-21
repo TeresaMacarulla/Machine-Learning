@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2634f67971f2d3a10701520c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Simple Domain",
+  "setter": "PePepto",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ae30d56441a643779f607ea2dfd8cb0f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1160r12p1232r13p1264r13p1274r15p1336r13p1338r13p1359r13p1395r14p1458r15p1484r15p1494r12p1504r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d95c2f523577584ff163c33907e252b3a28d40fd8c6f94b884bd228318b24fe8",
+  "validation_errors": []
+}

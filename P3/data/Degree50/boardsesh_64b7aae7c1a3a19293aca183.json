@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_64b7aae7c1a3a19293aca183.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "2026_BCB_370",
+  "setter": "cchen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5b633188-dd71-4160-b9e5-e208faf69770",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1202r12p1241r12p1191r15p1254r13p1232r13p1233r13p1506r15p1368r13p1299r13p1585r13p1372r14",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bab5d12e61166ef5c33c47b41d7b669e5d5d29da765efa06fcbb952a02980c15",
+  "validation_errors": []
+}

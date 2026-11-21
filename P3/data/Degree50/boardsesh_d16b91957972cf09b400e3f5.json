@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d16b91957972cf09b400e3f5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Twist N\u2019 Roll",
+  "setter": "will_avelar",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "B4ED3D02826F4969946935455D6D8BBF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r12p1181r12p1250r13p1303r13p1355r13p1392r14p1467r15p1469r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 29,
+  "quality_average": 3.14,
+  "hold_fingerprint": "2fcb3c9e751fca342cd23c5ca33c3b1face58137da484695fc5cd0b40e98ae4b",
+  "validation_errors": []
+}

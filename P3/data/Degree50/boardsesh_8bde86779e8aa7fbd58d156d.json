@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8bde86779e8aa7fbd58d156d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "3 strikes you're out",
+  "setter": "jacobv",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "667b8de8-6276-46d3-ae75-6c192eadb531",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1272r13p1309r13p1321r13p1319r13p1367r14p1291r15p1258r12p1250r15p1191r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 2,
+  "quality_average": null,
+  "hold_fingerprint": "20cb48aa8076c2034be0936a874c8a9ed64895aa2c0c2a976775e8ef1c15dcfc",
+  "validation_errors": []
+}

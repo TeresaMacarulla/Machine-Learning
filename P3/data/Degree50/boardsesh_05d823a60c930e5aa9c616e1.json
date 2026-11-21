@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_05d823a60c930e5aa9c616e1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "m",
+  "setter": "Climb for the legacy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1e20f198-eeb5-4b58-a1e6-400ae65c13a4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1464r15p1214r13p1086r15p1302r13p1248r13p1144r12p1371r13p1392r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.75,
+  "ascensionist_count": 6,
+  "quality_average": 2.5,
+  "hold_fingerprint": "c749e74956b69c764349c5eef87621cae0b15b47b923fd76fa963e25e4282f48",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b6beca85764aba43cd19909c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "skypinch",
+  "setter": "thijs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 1,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5D58D1EE163B4297BFD99F8F80857486",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1237r12p1357r13p1387r14p1480r15p1496r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 12,
+  "quality_average": 3.0,
+  "hold_fingerprint": "69297605cae55fa9c0c5fa62fcda8810b9365fec44c73f89be6d2fb685dd3a6a",
+  "validation_errors": []
+}

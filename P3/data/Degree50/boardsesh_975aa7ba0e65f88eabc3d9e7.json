@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_975aa7ba0e65f88eabc3d9e7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Fake Foot",
+  "setter": "JonasRoth",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "7b4185d481114bf592f0cbca1dd95a56",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1153r12p1216r13p1254r13p1320r13p1372r13p1385r14p1457r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "743d2d19489d4c850fea675c8b2c5cd4d0b6ad421f38c7a443d986fb4cc3329b",
+  "validation_errors": []
+}

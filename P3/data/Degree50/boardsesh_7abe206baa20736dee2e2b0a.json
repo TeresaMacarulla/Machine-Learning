@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7abe206baa20736dee2e2b0a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "smooth warmup",
+  "setter": "Xerat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "ef01d004ea54441fb9d88f9aa94263b4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1162r15p1234r12p1235r12p1281r13p1284r13p1317r13p1331r13p1383r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 13,
+  "quality_average": 3.31,
+  "hold_fingerprint": "e58c54ec60360c57df12f0ab7c94282900852951b8d52074a24a271a227dad62",
+  "validation_errors": []
+}

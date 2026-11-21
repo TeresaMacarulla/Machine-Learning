@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2b0e8eedee56dc2c8fc0b823.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Shoulder Blaster Direct",
+  "setter": "jeff.landman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "406351AF15854F9BA1C032D5BE59430F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1119r12p1174r12p1202r13p1254r13p1282r13p1352r13p1368r13p1373r13p1391r14p1449r15p1488r15p1491r15p1504r15p1556r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.33,
+  "hold_fingerprint": "815dc7fea137bc0a6f0e06405b645b9b513eda2560c8d9ddb6a687bfef1ea3b0",
+  "validation_errors": []
+}

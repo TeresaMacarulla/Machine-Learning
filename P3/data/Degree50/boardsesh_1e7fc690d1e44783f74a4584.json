@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1e7fc690d1e44783f74a4584.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Ai Mori",
+  "setter": "CodyAllenLittle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 0,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "f5b94547552f4f9b860a54c09d2ce382",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1301r12p1303r12p1387r14p1513r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "487575103cb0bc109f8505a9be918dfabc163c1fbf12f19f01f96b323eebdf93",
+  "validation_errors": []
+}

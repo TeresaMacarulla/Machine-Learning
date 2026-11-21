@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8bdf882c0063437b94dc310c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Los Alamos",
+  "setter": "Mudhand_89",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "E28568CD50064551AF998FDF9E08F100",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1186r12p1291r12p1320r13p1353r13p1383r14p1518r15p1535r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "767540a959f76e646aa12f9a29165a5adae9c72e12b4581cc6cdb11b6c2395a4",
+  "validation_errors": []
+}

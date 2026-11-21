@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f83677509e298c24e1532c9b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Can you (h)ear me now? (lower start)",
+  "setter": "afabian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "504CA395C1734B2DA570279959684338",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r12p1190r12p1205r13p1240r13p1255r13p1307r13p1321r13p1324r13p1373r13p1387r14p1447r15p1451r15p1473r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.5,
+  "hold_fingerprint": "3d0dbdf92882edc232f58e8cedc375f3c416ca1f176bd5dd701e402a770f796e",
+  "validation_errors": []
+}

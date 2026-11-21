@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1f420c3c3448c7bf94234c20.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "crossing baby feet",
+  "setter": "luap234",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "99A13545D81F4CC0A51C97A4E4BC464C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1147r12p1154r15p1181r13p1200r13p1218r13p1237r13p1288r13p1302r13p1317r13p1349r13p1386r14p1455r15p1458r15p1461r15p1521r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "34c7cb0b7bb55478256d8834884f741e7bc9db8ee00f080403d23c7869e7a24c",
+  "validation_errors": []
+}

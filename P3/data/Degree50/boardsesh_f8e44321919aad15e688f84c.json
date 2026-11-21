@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f8e44321919aad15e688f84c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Ford Ficus",
+  "setter": "Torpedo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "71d60f931f5e4c54bfdf609f10c7fe59",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1109r12p1141r12p1154r15p1163r13p1198r13p1225r13p1236r13p1239r13p1308r13p1391r14p1527r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.68,
+  "ascensionist_count": 45,
+  "quality_average": 3.64,
+  "hold_fingerprint": "66ef73ca10fc6c23e10f149ded27bc6245f8308a26502a9cd7beeef7daba7f48",
+  "validation_errors": []
+}

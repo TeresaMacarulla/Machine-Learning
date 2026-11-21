@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a04230bd1bd67d8399352e8a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Crouching Tiger",
+  "setter": "adubsron",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "610F308CEC5347E7B02C0B41A4189A89",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1140r15p1169r12p1190r12p1257r13p1286r13p1290r13p1339r13p1352r13p1387r14p1518r13p1543r15p1560r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.6,
+  "hold_fingerprint": "9f2d043f28a3f39b712748337656d19262f3cca5e7d871f20146e42674f747ff",
+  "validation_errors": []
+}

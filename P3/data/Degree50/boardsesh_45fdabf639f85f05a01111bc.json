@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_45fdabf639f85f05a01111bc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "La Toupie",
+  "setter": "DavidCarvalho",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "ee2e571f32934e038fcf158452a3852c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1122r15p1140r12p1155r12p1204r13p1236r13p1254r13p1290r13p1308r13p1340r13p1395r14p1447r15p1448r15p1453r15p1481r15p1509r15p1570r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "93bf8f77ef4b615fd8ff773727aa5fc121b5c74adc6fd9708cf135ba04dba349",
+  "validation_errors": []
+}

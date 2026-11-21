@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f00620da211aa11ac4af02df.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "KBL Qualif : B4",
+  "setter": "KBL_Qualifs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "ECDC83944E574DF18721E53C74445F63",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1200r12p1215r12p1236r13p1286r13p1322r13p1336r13p1388r14p1496r15p1498r15p1525r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "235c694c18d143f484e49c7c9f6afdf565901fc72a20cf15165a1576a9794016",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a82b9f5e5538fa727ecaf745.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "V4.5",
+  "setter": "leemiho2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "3a7040e2-7893-4152-9663-f70997a3f514",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1315r13p1335r13p1385r14p1250r13p1266r13p1300r13p1215r13p1166r12p1163r12p1457r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.4,
+  "ascensionist_count": 25,
+  "quality_average": 3.27,
+  "hold_fingerprint": "e1b07c318a307c6ab68c70d0d03388afb501b7d5155854e22181b84233702362",
+  "validation_errors": []
+}

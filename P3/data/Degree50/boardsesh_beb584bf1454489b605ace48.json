@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_beb584bf1454489b605ace48.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Shoulder Warmup",
+  "setter": "mscho",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "fc7c06c2-5444-4165-bae8-7d2f3a280cb1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1270r13p1214r13p1339r13p1386r14p1182r12p1285r13p1151r15p1475r12",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 3,
+  "quality_average": 4.0,
+  "hold_fingerprint": "7b8753d498b53ca30072348b2d8e18347afcd5d54e599d6e2864d247fcdc3003",
+  "validation_errors": []
+}

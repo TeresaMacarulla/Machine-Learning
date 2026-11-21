@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_48a3aac6be0f39252ad7bc3b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "wagon lite",
+  "setter": "keenan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "97933D320DC34C38BA583FF3B7603A89",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1230r13p1248r13p1321r13p1324r13p1327r13p1377r13p1391r14p1461r15p1485r15p1510r15p1540r13",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.97,
+  "ascensionist_count": 743,
+  "quality_average": 3.23,
+  "hold_fingerprint": "f45aa986a9bc67d7bebdd1f6e734c1972e7898b30970704e5928e8ab0e2de4bd",
+  "validation_errors": []
+}

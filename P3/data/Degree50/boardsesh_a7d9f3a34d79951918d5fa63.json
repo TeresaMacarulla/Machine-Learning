@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a7d9f3a34d79951918d5fa63.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Loose Earwax",
+  "setter": "GirthQuake",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0521F8D5E8AA4E8E96F306D09EF35F88",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r15p1203r12p1220r12p1273r13p1286r13p1302r13p1334r13p1369r13p1382r14p1383r14p1490r15p1542r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.01,
+  "ascensionist_count": 2064,
+  "quality_average": 3.3008248423095585,
+  "hold_fingerprint": "78dac76312d5cf3fecb71b213746cd11e408a5cb9b38800a96143542d69fd570",
+  "validation_errors": []
+}

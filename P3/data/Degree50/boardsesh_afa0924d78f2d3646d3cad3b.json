@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_afa0924d78f2d3646d3cad3b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "TL Dynosoar",
+  "setter": "T.Livingston",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "879a973c31984c519210b49399437b6e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1116r12p1153r12p1201r13p1220r13p1302r13p1369r13p1382r14p1452r15p1487r15p1489r15p1558r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f729dc02b645d4a32442a5ff553f40c8a1f8344f36ed85c65d062e69d04cc051",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d43f3363d843b986049bdf99.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Mathe Einstiegstest",
+  "setter": "Laurenz123",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "eac92509696442d080bf0e0aba524670",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1128r12p1160r12p1179r13p1267r13p1349r13p1372r13p1389r14p1391r14p1458r15p1461r15p1505r15p1539r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "35e64610a73e527ff076784c86b037b40c67d830914b8061d3fec1f52e21caf8",
+  "validation_errors": []
+}

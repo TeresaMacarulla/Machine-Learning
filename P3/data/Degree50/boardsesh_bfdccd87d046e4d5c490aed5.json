@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bfdccd87d046e4d5c490aed5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "openshoes",
+  "setter": "KathiAde",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "75fb6daf-625a-4a77-9b9e-a71efcd74aff",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r12p1145r12p1461r15p1195r13p1215r13p1287r13p1320r13p1234r13p1357r13p1370r13p1386r14p1513r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "fa348e55fa812d6f9ebf7c68b03842d2ca9d9310f59ba0c4db50daad61b126f3",
+  "validation_errors": []
+}

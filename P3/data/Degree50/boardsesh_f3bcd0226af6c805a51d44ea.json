@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f3bcd0226af6c805a51d44ea.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "COVID 2",
+  "setter": "giancorti",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "ADF432E285714D49A16DF574D95631DB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1130r12p1196r13p1217r13p1238r13p1250r13p1306r13p1339r13p1386r14p1461r15p1479r15p1497r15p1595r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "3a2dc787cd1eb6b2d4b136e457e9c503b99ef53851ba0fd7b239f6c7a8d3f5eb",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aa5e10da2ef20c8abba11080.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Gargoyle",
+  "setter": "melhigh",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0083ba68-53f2-42c3-aa24-5a8d39f34c19",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1212r12p1211r12p1493r15p1262r13p1279r13p1501r15p1317r13p1334r13p1389r14p1561r15p1580r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.33,
+  "ascensionist_count": 18,
+  "quality_average": 3.67,
+  "hold_fingerprint": "e4710fdf4652ff9d31265be5836da334e0abb880c4bd56b63074b6883dc72ffa",
+  "validation_errors": []
+}

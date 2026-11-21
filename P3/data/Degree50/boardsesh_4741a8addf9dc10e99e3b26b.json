@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4741a8addf9dc10e99e3b26b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "DeltaX",
+  "setter": "peterhayssen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "D2C4D5BA4ECB413CA2155AC0F50228CF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1171r12p1230r13p1269r13p1314r13p1386r14p1511r15p1542r13",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 19,
+  "quality_average": 3.47,
+  "hold_fingerprint": "a9d8f901d97a9185026bcac01b43f9bfc7de536b7a4de6384c922facbc521487",
+  "validation_errors": []
+}

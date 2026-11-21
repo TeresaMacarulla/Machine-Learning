@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_232a5ba79f8a7bbb648060fb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "full value 2 mover",
+  "setter": "conorcrimp",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3d98d0ab-fcf3-43ce-9dd6-1df975c9a55c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1183r12p1181r12p1470r15p1196r13p1475r15p1168r15p1266r14p1269r14p1251r13",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 6,
+  "quality_average": null,
+  "hold_fingerprint": "06490f88212e8db6a3592e2bc8de6d4aa3f3e5263e5b372127f989e1a505d6b5",
+  "validation_errors": []
+}

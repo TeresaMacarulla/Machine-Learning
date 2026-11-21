@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e85f3c7ce9b978818a772f13.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Virtual self",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "ce755cf5713a4ac1bef99d14f6305759",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1083r15p1131r15p1149r12p1169r15p1181r13p1200r15p1236r13p1239r15p1267r13p1304r13p1353r13p1387r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "58bd887a5f7b319040f64ab57674c0fe07a201af84480d312bd45d7fb58e2f9c",
+  "validation_errors": []
+}

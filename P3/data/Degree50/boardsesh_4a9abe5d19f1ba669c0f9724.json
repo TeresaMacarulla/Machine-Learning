@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4a9abe5d19f1ba669c0f9724.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Necrotic Banjo",
+  "setter": "jp.laroche",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "b1643e19d3c743479100ab5ba2aa0ae8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1252r15p1258r13p1308r13p1337r13p1340r13p1387r14p1447r15p1450r15p1490r15p1536r15p1554r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "45447924ce7aa927bcca7feb6ab01d59147289c2df6ba12fc40f6bc3ba6063ba",
+  "validation_errors": []
+}

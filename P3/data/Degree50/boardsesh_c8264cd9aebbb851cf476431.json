@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c8264cd9aebbb851cf476431.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Frog squat",
+  "setter": "OverGripper",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "02B097A92E40482383C750AA8A5A448D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1128r15p1175r12p1214r13p1230r13p1268r15p1283r13p1291r15p1314r13p1370r13p1372r13p1392r14p1465r15p1502r15p1528r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b67b39d1be92ce2a79b07371a512e9b3612b275b994b76f9c5ea258eeecfac9a",
+  "validation_errors": []
+}

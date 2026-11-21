@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f3154f78b9c905b1adc9d825.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "PsyDuck with a bad shoulder.",
+  "setter": "AfonsoRodrigues",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "dd52fcbe-d38d-41ee-9a4e-f4acf331fc78",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1219r12p1215r12p1476r15p1267r13p1315r13p1506r15p1353r13p1389r14p1570r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.8,
+  "ascensionist_count": 8,
+  "quality_average": 3.6,
+  "hold_fingerprint": "e8ac7b5aca528dc6177d2f36fd9eb5a9135bf5459d400b25a696321e99af11b3",
+  "validation_errors": []
+}

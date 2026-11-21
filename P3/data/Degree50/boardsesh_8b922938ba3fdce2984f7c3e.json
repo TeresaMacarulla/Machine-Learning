@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8b922938ba3fdce2984f7c3e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "GrannieGotYourShirt",
+  "setter": "GavinZ",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1CB35688401D4A9D8E8B6BD9C0ABA523",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1191r15p1216r13p1254r13p1271r13p1322r13p1334r13p1352r13p1382r14p1468r15p1536r15p1559r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 23,
+  "quality_average": 3.71,
+  "hold_fingerprint": "a17bbc63422dac249de993ed18c403ed3ccb46f1974103853f361240a9d67ec9",
+  "validation_errors": []
+}

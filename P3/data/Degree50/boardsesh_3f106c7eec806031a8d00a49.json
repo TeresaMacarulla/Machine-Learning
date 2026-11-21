@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3f106c7eec806031a8d00a49.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Spinjitsu",
+  "setter": "Somorjai_Zeno",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "2484f241-9c84-42cf-939d-6465fe12e8de",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1281r13p1317r13p1261r13p1175r12p1177r12p1336r13p1369r13p1389r14p1589r15p1107r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.25,
+  "ascensionist_count": 6,
+  "quality_average": 0.5,
+  "hold_fingerprint": "3602204c725b3ec23999f8fa4795de2e9ae4039730b2bf69071c009adee30d1c",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8bc5b54bec4620c5403aec99.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Viiris",
+  "setter": "Pamu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "CC2C7E93CA2A47F7A0A0BD6440DA2659",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1113r15p1164r12p1165r12p1233r13p1247r13p1279r13p1281r13p1347r14p1458r15p1504r15p1520r15p1530r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "84e31578c254fa995abc22514bf4731eb42d3270df44d7a0dd497740f01f2e9c",
+  "validation_errors": []
+}

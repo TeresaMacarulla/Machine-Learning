@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b3ab933ced38afae70ad6b79.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "flowshow",
+  "setter": "baumeister",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "8dbd4a2f9f014cc6b12b228d377e0e6c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1138r12p1164r13p1170r12p1217r13p1219r13p1283r13p1365r13p1369r13p1380r14",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.09,
+  "ascensionist_count": 11,
+  "quality_average": 3.73,
+  "hold_fingerprint": "efeba9b185105579fb2419718e992a37d30a8b70c20e64939a4bcdb490da26f6",
+  "validation_errors": []
+}

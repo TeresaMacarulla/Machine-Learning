@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_47801f11cb502925cf4a2a72.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Transvaginal Aspiration",
+  "setter": "claudia",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "A3FF5395C1E646449696E022DB1DE140",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1076r15p1140r12p1152r12p1213r15p1222r13p1267r13p1286r13p1298r13p1386r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.15,
+  "ascensionist_count": 14,
+  "quality_average": 2.31,
+  "hold_fingerprint": "fd371532995cd91f663a784d4ed20d0bbd9b31dc971d60b8f92a0604a7305655",
+  "validation_errors": []
+}

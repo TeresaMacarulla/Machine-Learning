@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_73dfceded8b6490e2ee95714.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Pump Dump",
+  "setter": "Alcinous007",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4BD92F39409D40F1857C3F9B1F247036",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r15p1156r15p1169r12p1181r13p1188r12p1219r13p1284r13p1323r13p1371r13p1382r14p1386r13p1469r15p1570r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.75,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "6fd45e17dbf857ff2f3bfa1a1e378fb71170dd375230ddb40ad3e2c986406b9e",
+  "validation_errors": []
+}

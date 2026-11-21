@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7955cd57e5709957d2a0563e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "crimp world",
+  "setter": "gab\ud83d\udcaa",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3c203fd5-20f7-43b7-9b8f-004ab7d279cf",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1202r13p1185r13p1137r15p1452r15p1284r13p1322r13p1131r15p1339r13p1392r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.33,
+  "ascensionist_count": 3,
+  "quality_average": 4.67,
+  "hold_fingerprint": "ea47817f1fb2f7cb51c20524f0921843eec5680edaad9a0afaea9f29e151bbff",
+  "validation_errors": []
+}

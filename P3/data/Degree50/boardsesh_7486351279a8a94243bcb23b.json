@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7486351279a8a94243bcb23b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Air Traffic Control",
+  "setter": "NachoHernandez",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "e8224a2ffdf8465a936049dcfd01cc63",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1115r15p1137r12p1172r12p1185r13p1201r13p1248r13p1339r13p1340r13p1353r13p1375r13p1395r14p1450r15p1477r15p1478r15p1503r15p1581r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "16bd1488d86e883879e60dffd52029a4f62c4b940af30aabaa3890e10da823df",
+  "validation_errors": []
+}

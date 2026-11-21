@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3dbb71cac9099e024dc17fe2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Pinch Per Square Inch",
+  "setter": "afrancis87",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7aa3de459b54414d94ef281beb61d4b1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r12p1149r12p1232r13p1243r15p1285r13p1332r13p1345r14p1367r13p1455r15p1485r15p1506r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "644ec2f64ad7108325a5b6cb788c63ed38ba48d174acc1ad5840146f3f3aacdd",
+  "validation_errors": []
+}

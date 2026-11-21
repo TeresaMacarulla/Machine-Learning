@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c1d181c0479c8c81e997ab97.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "TKMax",
+  "setter": "Gannonfred",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b3e7fdf2f45947f7b7c60f89e694768c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1149r12p1198r13p1231r13p1263r13p1316r13p1347r13p1380r14p1454r15p1457r15p1502r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c6e616d76de26ae7c9966192e335ffc8a7b6a2eebd9b3907246027687cc03c25",
+  "validation_errors": []
+}

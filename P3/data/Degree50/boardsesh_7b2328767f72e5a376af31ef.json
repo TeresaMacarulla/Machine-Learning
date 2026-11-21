@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b2328767f72e5a376af31ef.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Spinat",
+  "setter": "LucaLovesPinches",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9faae248-4e66-4277-9119-e98e1a25fc02",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1162r12p1177r12p1231r13p1279r13p1086r15p1141r15p1317r13p1504r15p1384r14p1226r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.9,
+  "ascensionist_count": 32,
+  "quality_average": 3.5328125,
+  "hold_fingerprint": "7d571ba01ca2d7d20b3fdb7e739f86225864f469cdaa2c037bba6115fe9dce1d",
+  "validation_errors": []
+}

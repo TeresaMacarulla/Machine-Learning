@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7b5a4cf748cae05c65b1d92b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "4x4 Seb #1",
+  "setter": "Ullie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "f8081489e556478c815b06c18067e90f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1079r15p1167r12p1185r12p1220r13p1239r13p1255r13p1307r13p1321r13p1324r13p1336r13p1387r14p1506r15p1508r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "8292435a6bf1d28381a57637ceab2c111692b3a598a2ef01718229032f3b407a",
+  "validation_errors": []
+}

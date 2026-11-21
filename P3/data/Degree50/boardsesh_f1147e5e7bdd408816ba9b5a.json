@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f1147e5e7bdd408816ba9b5a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "barrel roll(campus)",
+  "setter": "Imshuooo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "ea813f44-9951-48ba-b9a5-4b102fb52952",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1244r12p1243r12p1382r13p1380r13p1390r13p1386r13p1359r13p1307r13p1257r14p1345r13p1312r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 4,
+  "quality_average": null,
+  "hold_fingerprint": "12430541ed31f5e2ddc98bdc18c35306bfa6354d52c62a1353a8b4a4f31532b7",
+  "validation_errors": []
+}

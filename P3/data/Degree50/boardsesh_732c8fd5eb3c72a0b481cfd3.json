@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_732c8fd5eb3c72a0b481cfd3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "dyno-street",
+  "setter": "KianJager",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "82A3446072234218854553121CCB718F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1147r12p1179r13p1213r13p1227r13p1281r13p1329r13p1332r13p1379r14p1459r15p1462r15p1465r15p1467r15p1483r15p1502r15p1520r15p1537r15p1555r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "f92adf7515708df8f4e1313b3c814388164588b162162b19e84649e947cc9e8f",
+  "validation_errors": []
+}

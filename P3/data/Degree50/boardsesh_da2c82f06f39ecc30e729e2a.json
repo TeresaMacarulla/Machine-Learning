@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_da2c82f06f39ecc30e729e2a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Another round on the hamster wheel",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "86c8bfb04deb41a78cffc4a3767a2bba",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1166r13p1218r13p1250r13p1287r13p1321r13p1325r13p1394r14p1453r15p1457r15p1545r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bf98b12b00efa65d1eb3963948912c41e5a0d55324bee52e417d53c081171f2d",
+  "validation_errors": []
+}

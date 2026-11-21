@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_519a745b648a15620fd8dffe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "campus night",
+  "setter": "konraq",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "8ba15af0-f701-4ad9-a25a-bcc606b6aebc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1302r13p1289r13p1258r12p1239r12p1331r13p1383r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.75,
+  "ascensionist_count": 14,
+  "quality_average": 4.75,
+  "hold_fingerprint": "561d1bd1c363661125bd355f4179cf98f17058235f1226a791413691719df611",
+  "validation_errors": []
+}

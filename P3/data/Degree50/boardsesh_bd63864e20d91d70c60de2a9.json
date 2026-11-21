@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bd63864e20d91d70c60de2a9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "FLOAT.",
+  "setter": "RavioliTriceps",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "F0F9E44A5E464DB793547AD8ED17368A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1118r15p1134r12p1191r12p1255r13p1295r13p1300r13p1302r13p1379r14",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.96,
+  "ascensionist_count": 48,
+  "quality_average": 3.35,
+  "hold_fingerprint": "a36b8af0af91c8f64fe80daf626338ee0e0c5bd79a9725b259e93e721c1c3f79",
+  "validation_errors": []
+}

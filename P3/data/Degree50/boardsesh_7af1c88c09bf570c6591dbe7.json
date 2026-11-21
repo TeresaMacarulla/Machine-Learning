@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7af1c88c09bf570c6591dbe7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "DUEL WIELD",
+  "setter": "cliff_shredder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "37C96F0A24494337A90F9A3C9674A620",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1162r12p1182r12p1282r13p1305r13p1339r13p1392r14p1497r15p1506r15p1543r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.04,
+  "ascensionist_count": 78,
+  "quality_average": 3.18,
+  "hold_fingerprint": "46561e9dc18d8dc15f5641e6a5d8946993bb4866d2496f95c9a018eb2ef4aeb1",
+  "validation_errors": []
+}

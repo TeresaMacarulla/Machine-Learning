@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_020a9200075585b514b76cb9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "ciasom",
+  "setter": "berg.bend",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "B3BA33C3C75949718E182BE92F1419AA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1126r12p1143r12p1197r13p1230r13p1232r13p1264r13p1316r13p1349r13p1383r14p1466r15p1484r15p1485r15p1502r15p1503r15p1522r15p1556r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.166666666666667,
+  "hold_fingerprint": "4170b72b4f88bb9497f9d9393b44aa39a8115f37a4dc72f1476386249a4cb83c",
+  "validation_errors": []
+}

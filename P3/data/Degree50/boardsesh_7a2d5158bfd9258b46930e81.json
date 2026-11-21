@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7a2d5158bfd9258b46930e81.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "IVOXYGEN",
+  "setter": "matheod",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "882b4e4c-aae3-4b51-a4a1-b90be36330d6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1216r13p1283r13p1254r13p1126r12p1460r15p1291r13p1344r13p1503r13p1468r15p1517r15p1391r14p1536r15p1489r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a59c505fb47f67f29f98a8467a14ffbf5b034ea07f75859de85afae1fd5eea72",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d0501513fc6c8f16acd12e2c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Mister Twister",
+  "setter": "riley_climbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "e126a0d9-02c1-4833-8909-59c7cb62b894",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1461r15p1197r13p1249r13p1513r13p1496r15p1458r15p1301r13p1320r13p1557r15p1368r14p1383r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d59f5155cd9dbb09c6a856b3509df1a6c8f46cae7e690267d15a914f4511d7c1",
+  "validation_errors": []
+}

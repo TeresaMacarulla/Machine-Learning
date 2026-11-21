@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e4d61585d458a6bb73468d4b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Cabin Freezer",
+  "setter": "Hazen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8c2ec3b7f0954c78834e0d9ba840100b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r12p1207r12p1224r13p1291r13p1303r13p1354r13p1366r13p1383r14p1473r15p1500r15p1544r15p1570r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "432b9977ea66e3c041fa5b93ff5c1d2a88b03a43991166b006ebf4bd99561512",
+  "validation_errors": []
+}

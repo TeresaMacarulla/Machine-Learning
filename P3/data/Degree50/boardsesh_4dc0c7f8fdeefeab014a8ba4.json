@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4dc0c7f8fdeefeab014a8ba4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "16 mph",
+  "setter": "fndyclimb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "625648A789964853A58F780184D68ABF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1137r12p1156r12p1206r13p1217r13p1219r13p1223r13p1302r13p1353r13p1389r14p1447r15p1452r15p1479r15p1569r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "ea70947ac7bb2a4bfec3068cef8a78f8c1b72a0a5a4e168993cd84069bd5e321",
+  "validation_errors": []
+}

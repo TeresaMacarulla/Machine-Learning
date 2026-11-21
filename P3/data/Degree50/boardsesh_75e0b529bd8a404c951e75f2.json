@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_75e0b529bd8a404c951e75f2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Kerchow",
+  "setter": "BrimpyBoi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "FCB31BC928504774B0A2E4847DB460D7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1238r13p1269r13p1320r13p1332r13p1384r14p1451r15p1452r15p1456r15p1482r15p1516r15p1531r15p1539r15p1576r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.98,
+  "ascensionist_count": 140,
+  "quality_average": 3.3,
+  "hold_fingerprint": "eb621eb91de18254856eb7f0153f0d832b81c7d3fb1587ccbb786589b5a5a31d",
+  "validation_errors": []
+}

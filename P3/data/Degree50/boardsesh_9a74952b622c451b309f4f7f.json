@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9a74952b622c451b309f4f7f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Digger Land",
+  "setter": "funnyman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "6E112BF1688F4C9CBE5C3A32F10D4BC0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1137r15p1145r15p1156r15p1183r15p1213r15p1217r13p1235r13p1247r13p1249r15p1256r13p1258r12p1267r13p1271r12p1301r13p1355r13p1386r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.33,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "5a3e87de1e1118c99333c860931adc18751505d39b004e2bd4a874fb1a311d8c",
+  "validation_errors": []
+}

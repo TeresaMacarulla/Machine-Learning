@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f166449da58c96bf838f1d3e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Pinch it Off",
+  "setter": "bcaudill95",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "127116d93ee042ecb8c33375e6754f9c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1129r12p1135r12p1186r13p1216r13p1254r13p1270r13p1357r13p1388r14p1456r15p1459r15p1497r15p1571r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.13,
+  "ascensionist_count": 9,
+  "quality_average": 3.5,
+  "hold_fingerprint": "d37ed6867bb6deb7805c2dec4b63499c32cdc81a497726f7e6a8ee5f50c48ba6",
+  "validation_errors": []
+}

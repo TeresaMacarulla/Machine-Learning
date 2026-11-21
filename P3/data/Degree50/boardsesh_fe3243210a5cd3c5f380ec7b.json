@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fe3243210a5cd3c5f380ec7b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Spine",
+  "setter": "nlun",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 8,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "2ed29d08193042a88c479a119c8380dc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r12p1124r12p1162r13p1179r13p1215r13p1216r13p1236r13p1286r13p1323r13p1340r13p1394r14p1458r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "53346d68386bd32b659a3c7bc1e5916c5490088ed94a5e37e1c57690c7c43be0",
+  "validation_errors": []
+}

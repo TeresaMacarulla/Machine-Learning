@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f993a6b6f0e3dac9bbe66d97.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "tension problem",
+  "setter": "Alexis_\\",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "37cf1d2c-8c97-40cd-9cc7-b9abed50f15e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1245r12p1144r12p1333r13p1243r15p1263r13p1383r13p1320r15p1386r13p1389r13p1390r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 3,
+  "quality_average": 4.0,
+  "hold_fingerprint": "e35f3bf147d139f4062bef9f2f5d0590660c51c82bfc255baef1c8e6e112a8b4",
+  "validation_errors": []
+}

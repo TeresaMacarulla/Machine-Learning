@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fd596acde95278762ffb6e0d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Quackbug",
+  "setter": "bobogram",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "6EE8A9B11A134CBF8FB6D7DB933EA87E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1120r15p1146r15p1169r12p1189r12p1210r15p1215r13p1236r13p1267r13p1280r13p1333r13p1349r13p1387r14p1557r15p1578r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.09,
+  "ascensionist_count": 11,
+  "quality_average": 3.55,
+  "hold_fingerprint": "9c43dd3977b9d723228d48f524d622c5e9cbf37c07855916c334e8bc815bf358",
+  "validation_errors": []
+}

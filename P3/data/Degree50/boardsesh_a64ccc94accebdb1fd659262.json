@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a64ccc94accebdb1fd659262.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "subacromial decompression",
+  "setter": "spidermon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "46ed04bf4ab14e6bb692a0b00135a17b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1119r12p1207r12p1232r13p1238r13p1283r13p1351r13p1388r14p1472r15p1500r15p1504r15p1559r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "0692a03da27901ed772f1a390897710128ca1e416f81f10603a70988a2484b6b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a85f6999183aaf8c8575aafd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "jwap",
+  "setter": "45er",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "9779F561106140F7A6F724F7CBCA5673",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r12p1202r12p1249r13p1305r13p1390r14p1479r15p1507r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.04,
+  "ascensionist_count": 25,
+  "quality_average": 3.24,
+  "hold_fingerprint": "5983be61fcc55e29175f75fad8e38d782b81a69aa30e02029c77b3264d3b1e8d",
+  "validation_errors": []
+}

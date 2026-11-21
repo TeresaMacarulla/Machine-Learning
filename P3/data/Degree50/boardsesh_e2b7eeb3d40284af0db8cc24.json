@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e2b7eeb3d40284af0db8cc24.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "spottere",
+  "setter": "arika",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "a84c4d79b80543d5896917464bc9eaa7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1230r12p1315r13p1321r13p1395r14p1476r15p1483r15p1485r15p1528r15p1532r15p1540r15p1578r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "d94739dfb57d85df50e7bdd7cf8c72b6af8076359202a016c534785dd2783fa7",
+  "validation_errors": []
+}

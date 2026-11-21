@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_54d73cb5956a3a841b634635.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Gegen Rechts",
+  "setter": "eolia",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4965AC2715614AE397833544073D04A6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r15p1170r15p1204r15p1218r12p1233r12p1252r13p1267r13p1271r15p1302r13p1335r13p1370r13p1386r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "eff522c4e47091fdf97784d0550c8695527157ca5cb97cd632860928dc147b01",
+  "validation_errors": []
+}

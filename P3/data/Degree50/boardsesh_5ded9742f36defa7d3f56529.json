@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5ded9742f36defa7d3f56529.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "momentum syndrome",
+  "setter": "jakedotclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "C899B10757914DD2BB010185C7742D14",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1179r12p1263r13p1301r13p1386r13p1390r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "7ba5861da19a5b445b6eef21e9f33f30fe12a81e3239f8cce94af51e49701604",
+  "validation_errors": []
+}

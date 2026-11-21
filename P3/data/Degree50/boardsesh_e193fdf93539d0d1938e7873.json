@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e193fdf93539d0d1938e7873.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "one arm campus training",
+  "setter": "ninjanatho",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "B6E33DA5C7BB4DC2908980623001370E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r12p1236r12p1302r13p1353r13p1384r14p1388r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 29,
+  "quality_average": 3.11,
+  "hold_fingerprint": "7b705aa6a8dcb2bc8873b7d3e010b6d122a2e3851eed34ef55706d410b71ad1b",
+  "validation_errors": []
+}

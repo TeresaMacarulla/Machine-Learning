@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_766047c4ccb58b80989a57c0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Slight Pogo",
+  "setter": "NiklasBr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "08aa570cb2ad40fd93375b60c4515c30",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1164r12p1171r15p1236r13p1283r13p1287r13p1337r13p1387r14p1453r15p1457r15p1514r15p1531r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 13,
+  "quality_average": 3.62,
+  "hold_fingerprint": "f84fa5f54befdda0b0d9bd7d27a06ad783bf014246b7e3d8b1c29cd84345d2be",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_867429721d100d8977e94074.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Bjorn to be sliced",
+  "setter": "blpontecorvo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "BC4995053B0A48FE8542D9265771FD21",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1151r12p1170r12p1220r13p1269r15p1286r13p1306r13p1340r13p1392r14p1453r15p1489r15p1490r15p1497r15p1498r15p1507r15p1516r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "142a104ad07a754fe4bf6a53e592a0c2931fa684634d51ed679e26038ee59d6a",
+  "validation_errors": []
+}

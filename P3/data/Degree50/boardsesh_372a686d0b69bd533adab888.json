@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_372a686d0b69bd533adab888.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "siqo mode",
+  "setter": "BKBChicago",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "88AD8FB8497C47478D8AC900F858F8F4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1113r15p1117r12p1153r12p1201r13p1250r13p1281r13p1351r13p1386r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.03,
+  "ascensionist_count": 612,
+  "quality_average": 3.24,
+  "hold_fingerprint": "de958f2ad40b102e6a2ed0b3e883cbfcb701e7cbb74fea0bb4678c3284f21c6d",
+  "validation_errors": []
+}

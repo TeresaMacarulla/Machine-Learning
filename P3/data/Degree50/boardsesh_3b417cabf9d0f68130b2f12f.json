@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3b417cabf9d0f68130b2f12f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Jugs of Joy",
+  "setter": "sdpearce",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "64884AA190B44234B664DBC083D85EA4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1112r12p1144r12p1215r13p1247r13p1249r15p1302r13p1353r13p1388r14p1390r14p1460r15p1462r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 58,
+  "quality_average": 3.47,
+  "hold_fingerprint": "d7cfa177b87729b1aca1c60b0267af0b54b453ca68852c5bf2944e851112833f",
+  "validation_errors": []
+}

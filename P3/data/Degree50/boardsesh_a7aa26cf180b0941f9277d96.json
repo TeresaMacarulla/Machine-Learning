@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a7aa26cf180b0941f9277d96.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Under Pressure",
+  "setter": "romanhoe",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "78c241db-9d92-41f9-a504-f59deedd2d56",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1264r13p1227r13p1298r13p1318r13p1334r13p1389r14p1250r15p1144r12p1177r12p1087r15p1086r15p1537r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "42475f196bfbfac1c338dac53e2b9f37a311814812410185b5eabf29b34682cf",
+  "validation_errors": []
+}

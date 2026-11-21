@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f411f7faef9f72f938cba34d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "lock off top",
+  "setter": "frizz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7bc342ef00dc4166ad311406b86a3a1c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1130r15p1176r12p1214r12p1229r13p1300r13p1302r13p1353r13p1390r13p1394r14p1464r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "1a7a7d9c679f63fe9fd1830974bde264a8ab05aa2f68b31424756a5ba46bd212",
+  "validation_errors": []
+}

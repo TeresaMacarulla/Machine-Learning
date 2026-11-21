@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c79d7ddff10deb7bbea5cd96.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "no lab direct",
+  "setter": "Etienne_V",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0c65572a79f34e7e8a79f51789f9d3b3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1164r13p1169r12p1215r13p1249r15p1283r13p1303r13p1357r13p1391r14p1459r15p1485r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.85,
+  "ascensionist_count": 14,
+  "quality_average": 3.46,
+  "hold_fingerprint": "e989478ad017f225a64e41e2e4764846e3d77e90f0acef711dc77c2f9ccc7321",
+  "validation_errors": []
+}

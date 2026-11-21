@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cd6fc37887aaeac98ced9c72.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Reverso",
+  "setter": "Arne",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "6cbaa6c05e2246f095f11f7eb3105677",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r12p1175r12p1210r13p1244r13p1281r13p1297r13p1331r13p1348r13p1386r14p1462r15p1464r15p1465r15p1467r15p1475r15p1483r15p1503r15p1521r15p1530r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.9,
+  "ascensionist_count": 162,
+  "quality_average": 3.2900000000000005,
+  "hold_fingerprint": "4af6938e74a3159489df4bc6651bf8384a192eec6d9d5d980e19cb93c7e64cfa",
+  "validation_errors": []
+}

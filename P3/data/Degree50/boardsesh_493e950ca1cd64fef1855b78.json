@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_493e950ca1cd64fef1855b78.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Logic",
+  "setter": "CodyLittle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "d8f70f40-b636-4f3b-af3e-154baa8d00ba",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1177r12p1262r13p1213r12p1158r15p1316r13p1350r13p1387r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.75,
+  "ascensionist_count": 12,
+  "quality_average": 2.8800000000000003,
+  "hold_fingerprint": "181089a4818b81b43233f636b409327d30d58a8b7138230220903ad9674b91b4",
+  "validation_errors": []
+}

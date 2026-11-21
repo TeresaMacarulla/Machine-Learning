@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7043f19b3efd7573120f7447.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Forky",
+  "setter": "raulandr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "35ca48c298d74dc6bbc7a0b55f5f52a2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1155r12p1156r15p1161r15p1165r15p1219r13p1223r13p1245r13p1266r13p1269r13p1281r13p1347r13p1379r14p1451r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.93,
+  "ascensionist_count": 14,
+  "quality_average": 3.29,
+  "hold_fingerprint": "94fd4deecf012bf062152dcee838437899f2c785519107080e9b69147dc71b67",
+  "validation_errors": []
+}

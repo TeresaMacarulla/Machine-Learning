@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fa5e419461e89de295543707.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "go blue",
+  "setter": "benoitdeydey",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B7F58FC266724F7F85889181323B3F0D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1133r15p1142r13p1143r13p1144r15p1163r12p1192r13p1243r13p1260r13p1281r13p1347r13p1380r14p1464r15p1521r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "a462e523ffdfc138cab5702c2a3fd956add15ce44ec025b19014f28673ba6a5d",
+  "validation_errors": []
+}

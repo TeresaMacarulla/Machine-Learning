@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_73f3d8b4730a9b7980ac80b7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Anyone Else Spinning?",
+  "setter": "SenatorWiggles",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0A70B68092324C0593591BE55FF5C68C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1189r12p1208r12p1276r13p1289r13p1302r13p1315r13p1382r14p1449r15p1482r15p1530r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 12,
+  "quality_average": 3.5,
+  "hold_fingerprint": "cfe0dfc1fea5d51fddaa9c9a824806f1b61b5672ace77c1727704069928d5749",
+  "validation_errors": []
+}

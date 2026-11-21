@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e40fb02831c48b028cc16ca7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "sheepie jeepie",
+  "setter": "dmata9",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "94976E2EA57D4631BA6EBB8121294387",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1179r15p1200r12p1253r13p1284r13p1335r13p1354r13p1389r14p1457r15p1487r15p1498r15p1541r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "353ecef4649b3dc989bc1d369c34816ce26fb420a410211710b44125b2b08ac7",
+  "validation_errors": []
+}

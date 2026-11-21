@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_277833f2da6bce10c03121ec.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Huawei",
+  "setter": "sb362",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "c43944c0-0397-4768-9351-cafd40f0ea0d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1157r12p1450r15p1155r12p1187r13p1239r13p1236r13p1234r13p1254r13p1191r13p1353r14p1302r13p1073r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 5,
+  "quality_average": 5.0,
+  "hold_fingerprint": "ae49a0bf54ca29c398f00ce1084b08392b8a5244d52b0669f8d8a3d2354e3ed8",
+  "validation_errors": []
+}

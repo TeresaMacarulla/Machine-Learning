@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f1270400a53372b606434542.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "coolone",
+  "setter": "Szymon12",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "CAEAE2DE60054E9B842532C8DF370A6E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1143r12p1213r13p1245r13p1313r13p1333r13p1385r14p1387r14p1460r15p1463r15p1546r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "fb0fddccf391149bcd3f76e6f687419d987056111236851492ef98b88d54a888",
+  "validation_errors": []
+}

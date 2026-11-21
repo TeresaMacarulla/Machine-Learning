@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ffcc0a3261eba10aaf656caf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "the taller, the easier",
+  "setter": "yokabe",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "B16FF07C77E54E448CB4C7B384BA07DF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r15p1125r12p1141r12p1197r13p1198r13p1236r13p1257r13p1291r13p1341r13p1389r14p1464r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "fa17a565d944555f63ce14866b6a6bec5a0b8e60d45fd79a3edccaeb9082bb90",
+  "validation_errors": []
+}

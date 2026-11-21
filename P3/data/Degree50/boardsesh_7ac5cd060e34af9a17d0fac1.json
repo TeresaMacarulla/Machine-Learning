@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7ac5cd060e34af9a17d0fac1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "UnderAndCross",
+  "setter": "MaximusA",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F667D6D5711D44DA9BF0F9212922AD6D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1167r12p1220r13p1270r13p1303r13p1334r13p1387r14p1455r15p1457r15p1478r15p1496r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "c6639e41f78217583ff3756ebc1941ffc55d20f9751d28165176c1a333da55cd",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ec01447c62f780853922e9c6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Rigor Mortis",
+  "setter": "nogoodnolan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "16B8E13154874F4FBDFF099EBB96CCEA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r12p1147r12p1233r13p1264r13p1333r13p1368r13p1390r14p1456r15p1457r15p1495r15p1511r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.89,
+  "ascensionist_count": 9,
+  "quality_average": 2.89,
+  "hold_fingerprint": "1e242528e8e637715c19c1911e8325b8a1e2437e28213ca4b5fa91e4a1068e0e",
+  "validation_errors": []
+}

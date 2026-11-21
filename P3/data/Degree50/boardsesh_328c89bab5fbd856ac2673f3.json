@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_328c89bab5fbd856ac2673f3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "baumeln",
+  "setter": "Benni05",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "9F89BCCA3F8B48419F969834BCF607E7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1173r12p1203r13p1219r13p1248r13p1301r13p1339r13p1357r13p1393r14p1506r15p1523r13p1553r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "50dc947f8ab04c230209fbd96c6f47ec4b6871603b22f9a683436ef6d3f71ef1",
+  "validation_errors": []
+}

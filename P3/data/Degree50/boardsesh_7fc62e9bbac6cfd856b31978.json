@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7fc62e9bbac6cfd856b31978.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "1001 Steel",
+  "setter": "AZAMP",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "DF04BA22C22C49F78CF79691D0411E10",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1173r12p1214r15p1237r13p1268r13p1317r13p1382r14p1450r15p1480r15p1496r15p1549r15p1556r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b08d3d8b7a17545bb01ec0e2296102e6bf045a5e159bc2b8420d25910f736a42",
+  "validation_errors": []
+}

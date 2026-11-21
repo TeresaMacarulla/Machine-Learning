@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_976f3e6b297f29deb432290a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Shoulder boy",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "7696453BC3674D3AA807848A723217B4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1147r12p1165r12p1210r15p1213r13p1262r13p1284r13p1315r13p1379r14p1382r13p1455r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.1,
+  "ascensionist_count": 218,
+  "quality_average": 3.26,
+  "hold_fingerprint": "8a6557c9a881637580234ce83be8e42f0b480ec5df3b2b3668eb08603030b1bb",
+  "validation_errors": []
+}

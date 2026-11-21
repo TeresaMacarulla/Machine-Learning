@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fbe60684629246084e9331a8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Grendel",
+  "setter": "wrightmicahc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1e5b345ebbc547dabdf112da09301605",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1088r15p1144r12p1163r12p1214r13p1263r13p1301r13p1369r13p1389r14p1532r15p1561r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.57,
+  "hold_fingerprint": "81af43711f4c170e541c445bfbe171c2184444eb5ce346bc73181cc626757f73",
+  "validation_errors": []
+}

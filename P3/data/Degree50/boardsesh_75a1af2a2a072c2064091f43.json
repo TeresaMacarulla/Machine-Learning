@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_75a1af2a2a072c2064091f43.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Jug Hunters",
+  "setter": "gym_rat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1E2739CF0CF14D12A2682539BBEC821E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r12p1171r13p1240r13p1305r13p1347r14p1385r13p1389r13p1456r15p1497r12p1518r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.25,
+  "hold_fingerprint": "d366948c7f164141a754e406c16f1b2c1c6bd8d693f1ceb14000959275ec05ea",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b818312a5061c9b1a8ea082e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "bake maker",
+  "setter": "rootfinlay",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 9,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "9B2D0DEEB75344DB856758734D3CFDB8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1130r12p1152r15p1156r15p1198r13p1200r13p1252r13p1257r13p1259r13p1276r13p1357r13p1359r13p1374r13p1387r14p1462r15p1518r15p1576r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.5,
+  "ascensionist_count": 4,
+  "quality_average": 5.0,
+  "hold_fingerprint": "6eebff956e99f933d32b3f6feadef2faee77a099f9888c6e130b7abfd38c5d21",
+  "validation_errors": []
+}

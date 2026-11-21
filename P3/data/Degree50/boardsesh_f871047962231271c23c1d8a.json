@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f871047962231271c23c1d8a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "tension project",
+  "setter": "Stroobach",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 8
+  },
+  "source": "boardsesh",
+  "source_uuid": "e68ea06c7bc74672880a09739713e43f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1128r12p1163r13p1179r13p1215r13p1266r13p1304r13p1353r14p1458r15p1466r15p1484r15p1487r15p1505r15p1532r15p1534r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3387,
+  "quality_average": 3.2710233658680865,
+  "hold_fingerprint": "24fb30f3a942666e8c2c32df07d19d48bbf4a617857d6d8b64138f3412c1af4b",
+  "validation_errors": []
+}

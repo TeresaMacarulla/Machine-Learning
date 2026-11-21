@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b560a60a3e7a745fe55c539e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Almost a Dyno",
+  "setter": "scrunchybunch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "c6bc1d33a17c488b8914f95cdd50165f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1149r12p1237r13p1291r13p1335r13p1353r13p1383r14p1454r15p1457r15p1515r15p1518r15p1559r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "d08dd42747409877229636229884eff740ecfd02de9f6d84d31461562ceeddc0",
+  "validation_errors": []
+}

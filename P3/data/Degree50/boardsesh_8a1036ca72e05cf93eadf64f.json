@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8a1036ca72e05cf93eadf64f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Lo-Hi",
+  "setter": "Orion_",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "23560ec9d34a47faa6fcdf2b7bb18f05",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r15p1106r12p1169r12p1197r15p1223r13p1242r15p1252r13p1274r15p1307r13p1334r15p1338r13p1353r13p1383r14p1500r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "f7f62a649ae8ff1c11556107280d7f34dfb9c753a2909c57f29cacfe57e448ee",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f6631daa998f43a190debc8e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Neurons and Biophotons",
+  "setter": "gustavomoser",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F2C0F5985352465D90A51D2354C737C0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1082r15p1157r15p1166r12p1188r13p1218r13p1240r13p1252r15p1274r13p1293r13p1340r13p1341r13p1387r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "145594e55ad4a4df6fc87468641ae694954614363aac56f175d436d2f11c89b6",
+  "validation_errors": []
+}

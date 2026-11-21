@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0f8b334e8a60fce16cc2d09a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "V GIGGLES",
+  "setter": "Wolfden",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "b87f3b5e-853f-4e29-99af-a04239c4e67c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1170r12p1219r13p1236r13p1284r13p1353r13p1384r14p1452r15p1470r15p1489r15p1508r15p1505r15p1512r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 4,
+  "quality_average": 5.0,
+  "hold_fingerprint": "80587dc9b0f8a91f3a05aabe1969026f90eb0695d3ca0fa114a8828434187fe2",
+  "validation_errors": []
+}

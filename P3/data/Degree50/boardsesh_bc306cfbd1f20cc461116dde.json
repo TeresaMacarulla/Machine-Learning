@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bc306cfbd1f20cc461116dde.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Khazan \u062e\u0632\u0627\u0646",
+  "setter": "Adrenaline.Factory",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "90C033C2C9354BD38530E8F483043562",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1111r15p1142r12p1227r13p1281r13p1315r13p1336r13p1371r13p1393r14p1464r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.75,
+  "hold_fingerprint": "0811d58d6fa11f346a148d2da2a7e3c3ddcda4b64e53762fcdcc923b813c776c",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9cf48e328b885431de70f369.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "pinch bump",
+  "setter": "JasperDudley",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "F2C20B45B3254F518E55919CC9193E18",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r15p1237r12p1259r15p1324r13p1357r13p1390r14p1478r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "9477381066a29e55b6398b2670ca38c0c94ba05ab6f450b5ffda0e3496b5cbe9",
+  "validation_errors": []
+}

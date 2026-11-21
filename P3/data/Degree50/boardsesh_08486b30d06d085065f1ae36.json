@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_08486b30d06d085065f1ae36.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "No Pain No Gain",
+  "setter": "ksmd",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9ec6f6f8d1874a41981577fbc410a5aa",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1133r15p1169r12p1174r12p1236r13p1283r13p1285r13p1334r13p1388r14p1451r15p1513r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.95,
+  "ascensionist_count": 25,
+  "quality_average": 3.73,
+  "hold_fingerprint": "65c5702e99f8f24b3e8177947e34f84e36f7608caf54485b65785218850bcd3c",
+  "validation_errors": []
+}

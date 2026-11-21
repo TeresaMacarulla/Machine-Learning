@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e5aa4baf8a35f4afe3465862.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "carousel",
+  "setter": "patinaeater",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "9AE5F04549EA476E86974A7BEB794AA1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1161r12p1180r12p1232r13p1305r13p1307r13p1341r13p1357r13p1385r14p1459r15p1461r15p1543r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "450fb0a48ba6f2005ed4089d3157f0508245627f6806aa0b24b6f5e128e9619f",
+  "validation_errors": []
+}

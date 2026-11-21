@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_af1710cb2b568e7553121cb9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Sofa Kingly",
+  "setter": "alookatommorow",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "B9F074A060BD46D0A26D1CB69D348064",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r12p1199r13p1231r13p1266r13p1303r13p1369r13p1390r14p1460r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a9cfbfd1e9bd86a529de8b3684f09748c76cff3f3a78fb7037410377acaa7fff",
+  "validation_errors": []
+}

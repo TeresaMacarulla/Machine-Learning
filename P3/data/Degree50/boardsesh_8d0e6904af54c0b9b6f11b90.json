@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8d0e6904af54c0b9b6f11b90.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Chicken",
+  "setter": "cmccrary",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "CD811866272E4E8C9D054E60C424D3EC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1163r12p1266r13p1272r13p1356r13p1389r14p1493r15p1508r15p1526r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.95,
+  "ascensionist_count": 60,
+  "quality_average": 3.27,
+  "hold_fingerprint": "f86a7da2160d28ead63f59ebaab48051ff79d4b8e92ac9c6b485e9197c3c45fc",
+  "validation_errors": []
+}

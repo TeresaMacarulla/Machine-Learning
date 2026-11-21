@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c2f22ec298489201bc1c9748.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Ping Pong",
+  "setter": "Munro Sproul",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "a7e049ad-2979-4bcf-ac17-5a0650ba5fae",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1221r12p1305r13p1323r13p1257r13p1155r12p1453r15p1387r13p1500r15p1384r13p1382r14p1281r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.09,
+  "ascensionist_count": 13,
+  "quality_average": 2.73,
+  "hold_fingerprint": "065d0998db027b6eecf5cc5d4df8a493d235f29926fe8d59ace5a874dacaa544",
+  "validation_errors": []
+}

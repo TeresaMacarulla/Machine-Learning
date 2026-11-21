@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f8499ed59ae254ec0020fee0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Renox\ud83e\udee1",
+  "setter": "llughan2012",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "557238c1eea047059703393ac4a9aabc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1267r13p1287r13p1339r13p1358r13p1395r14p1456r15p1457r15p1469r15p1495r15p1513r12p1523r12p1543r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "debda30b66e9875737057b70bf6dffe493c0acd9b7aeaa0c7214462a54dfd864",
+  "validation_errors": []
+}

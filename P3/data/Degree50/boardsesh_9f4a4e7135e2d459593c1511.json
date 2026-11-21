@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9f4a4e7135e2d459593c1511.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Flying free",
+  "setter": "Fangui",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "f5c38d07016d46ba9a7281882a548e67",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r12p1215r12p1302r13p1387r14p1486r15p1488r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "d3325f678e427d6c8f580a3f0c92f86e9e57a874e9e5952c95be97f5f2f65784",
+  "validation_errors": []
+}

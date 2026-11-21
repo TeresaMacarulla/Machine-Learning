@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d912c05c75a033d53245d30b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "minion juice",
+  "setter": "DanielWeller",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "94FCAE4123AC43A09166499EA33071E8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1136r12p1151r15p1163r15p1171r12p1195r15p1218r13p1233r15p1254r13p1283r13p1317r13p1349r13p1384r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "1182cbeef8e36c249c2d7e2ae73bc3b6e291f5ed9867533fdc9775c77e44e976",
+  "validation_errors": []
+}

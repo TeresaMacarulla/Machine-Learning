@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f80f428a2614ddb952ecec41.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Barrel Roll 2",
+  "setter": "Fac.hri",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "bc37b022-0dd5-487c-8a48-5b0f3268213c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r12p1136r12p1082r15p1237r13p1504r15p1303r13p1335r13p1298r13p1547r15p1382r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 11,
+  "quality_average": 4.67,
+  "hold_fingerprint": "65a72bb556786d121e5d9ece79946beeb8d4e18d6572eeac5df0e06217bda779",
+  "validation_errors": []
+}

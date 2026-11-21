@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2ba35a5a49f81eb2fc592a79.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "shoulderz",
+  "setter": "FelixHellmeier",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "35D8544F5A8E46C7B54D82DE1BC2BFF6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1153r12p1156r15p1169r12p1199r13p1203r13p1233r13p1264r13p1301r13p1303r13p1339r13p1391r14p1476r15p1489r15p1504r15p1506r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "daf3d4bfc771b1b371c6635c46f46ac29c3219c41e77460333e8c1164ad69771",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a83159ebc305ace27efca4c0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Grunts (campus)",
+  "setter": "JasperDudley",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "36D3D4587B4546AC9EA5646B472074E5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1234r12p1237r12p1302r13p1333r13p1387r13p1390r13p1393r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "d35601365a76fc706f8fb8fda7971620d5e761c486726ccd9600aba3f15bd5db",
+  "validation_errors": []
+}

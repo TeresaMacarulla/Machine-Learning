@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_600e3cb13b26f6e66ff537c3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "When its raining",
+  "setter": "Cornelius.kilter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "b08399f9ea0f43e19f247be5a09c741a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1143r12p1152r15p1213r13p1226r12p1234r13p1236r13p1257r13p1308r13p1342r13p1391r14p1499r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "215dcf1884c1d40a5ba33e29f9e627511a1f712b5fb17f58707d90cda35bb2f7",
+  "validation_errors": []
+}

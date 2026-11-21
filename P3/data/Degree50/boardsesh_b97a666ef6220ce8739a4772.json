@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b97a666ef6220ce8739a4772.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Halebopp",
+  "setter": "christoph.braeuer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2E763013513542C698C9FB05A7EA08CC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1101r15p1129r12p1135r12p1228r13p1232r13p1295r13p1332r13p1382r14p1459r15p1485r15p1504r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "771fc080cddec1008847f260b24fe42334cf1a1119f828483f11afbc287fd214",
+  "validation_errors": []
+}

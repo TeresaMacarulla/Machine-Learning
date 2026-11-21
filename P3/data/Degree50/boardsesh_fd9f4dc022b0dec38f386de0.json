@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fd9f4dc022b0dec38f386de0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "minion",
+  "setter": "iirenemar",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 9,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "66F6FBCAF979481DA14383EAAA4E7B86",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r12p1160r15p1164r13p1169r13p1202r13p1228r13p1232r13p1244r13p1297r13p1314r13p1335r13p1385r14p1449r15p1467r15p1469r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8cc2a69c5faaf2f58cabd3c44a82631d1a2adbbab25fcc6ecf1e4b919e28a244",
+  "validation_errors": []
+}

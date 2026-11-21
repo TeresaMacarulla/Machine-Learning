@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a45ddd488bf4a93d4c283082.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Left foot dyno practice",
+  "setter": "snsrylss",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "118A8B00E58E4C39BD880673E05F6862",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r12p1141r15p1163r12p1229r13p1235r15p1246r15p1300r13p1305r15p1317r13p1387r14p1458r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.95,
+  "ascensionist_count": 24,
+  "quality_average": 3.16,
+  "hold_fingerprint": "54da90de2224b58fc0108b6740400b4d49b28e33f145a9c3a19e1fbf0bfe5594",
+  "validation_errors": []
+}

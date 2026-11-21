@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ccb1b1a600f16230f2551004.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Frosted Tips",
+  "setter": "wills",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "C750C404ACAE4B6592BCF6D8D98AEE39",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1147r12p1216r13p1228r13p1317r13p1382r14p1455r15p1459r15p1467r15p1492r15p1504r15p1513r15p1556r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "336ed6d1fbc848b37a1abac124dc7f74914c813bb7d178fab0cb3114f92b7799",
+  "validation_errors": []
+}

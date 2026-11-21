@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bef039bd8997adf16a6c57a4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Under The Water",
+  "setter": "core.nelius",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "0338f028d1804056b30333771a73d9c0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1143r12p1211r13p1221r15p1228r13p1281r13p1286r13p1304r13p1339r13p1387r14p1483r15p1485r15p1537r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "cd7816511420bfd20d37f08ead53b4c61e784d5e372d4025c0770bf90c56ef20",
+  "validation_errors": []
+}

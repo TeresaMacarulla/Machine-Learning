@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6a415698b35b75075eb918d9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "power from the earth",
+  "setter": "yoavnave",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "c894a1fad7464314879a1e28a361edd6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1151r12p1165r12p1267r13p1282r13p1355r13p1373r13p1395r14p1454r15p1505r15p1553r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.03,
+  "ascensionist_count": 36,
+  "quality_average": 3.5,
+  "hold_fingerprint": "77b28700fb6aa616c044c35944406147e8259c5d504a1277b85abdcf88ff5ef4",
+  "validation_errors": []
+}

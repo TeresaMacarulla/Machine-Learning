@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5f0f518fc1bfd7a5b6bf4ff6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "soldier shoulder eliminate",
+  "setter": "wonjames",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "37BD3B16A6D14F55BDCCEAC99B4972D2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r15p1140r15p1187r12p1225r12p1239r15p1289r13p1300r13p1369r13p1382r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "e37179e90ed63aebd02694514736bcf7e04cb873997fb3cb1c4799cc43136789",
+  "validation_errors": []
+}

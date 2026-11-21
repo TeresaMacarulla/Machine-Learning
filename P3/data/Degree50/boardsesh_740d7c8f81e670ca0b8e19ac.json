@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_740d7c8f81e670ca0b8e19ac.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "only wrong beta light",
+  "setter": "Michal.Zuska",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1E5CA35100B14E75B1ECC73B914DD371",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r13p1160r15p1169r12p1187r12p1233r13p1249r13p1263r13p1332r13p1349r13p1387r14p1450r15p1454r15p1531r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "28ef028a0eaffbff21fa1ed41d9bc072d9e0996ff62bc3cd8990fab20b72c7df",
+  "validation_errors": []
+}

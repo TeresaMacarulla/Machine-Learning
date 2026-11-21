@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_63c2c56f196b965870b6143a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "crimping_shoulder",
+  "setter": "jakobschwechten",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "F73B4ED4D2A241F9AFB13E21867AF07C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1114r12p1135r12p1202r13p1250r13p1270r13p1301r13p1337r13p1384r14p1456r15p1521r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8dc7146863e86481671286414df5b212ef9b5a3cfd69867f7d73cdbfa897d9e9",
+  "validation_errors": []
+}

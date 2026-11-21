@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_806555dfff6c0696bd273fe2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "inlaw",
+  "setter": "shiguchi1215",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6E18FBE7FE724230BBCF0389F321C761",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1137r12p1168r13p1199r13p1250r13p1264r13p1316r13p1347r13p1379r14p1449r15p1455r15p1469r15p1503r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "041c1c0df8f3d29d5603ce5ee43fa408f0867e798f973ecb4f6e25edb56fc65a",
+  "validation_errors": []
+}

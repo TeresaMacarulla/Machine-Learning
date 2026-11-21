@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_da9de72f1006fb5d7f219988.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Alero",
+  "setter": "pipix",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "79D3CC29D9734B7A842F684EC81D3068",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1179r13p1231r13p1235r13p1236r13p1274r13p1291r13p1341r13p1393r14p1461r15p1464r15p1487r15p1518r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5991fa48636373d0f6bce6441923a2e390ae51dcd0296453c51234cf5e28c0bb",
+  "validation_errors": []
+}

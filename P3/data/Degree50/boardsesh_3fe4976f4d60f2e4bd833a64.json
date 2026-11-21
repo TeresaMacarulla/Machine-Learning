@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3fe4976f4d60f2e4bd833a64.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "rapide",
+  "setter": "PC",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 0,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "bd994d05-8bc9-4263-b7cb-a39c1a1ff560",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1457r15p1454r15p1181r12p1136r14",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "83e5c78cedae34f119ed6e153a7882166fe431c624ed0bbd0b5e57b2ee2c04f9",
+  "validation_errors": []
+}

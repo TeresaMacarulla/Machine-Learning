@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f57576e2d44c78d38876e599.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "flauw",
+  "setter": "thijs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "68430ECECD6E4AF09D54F5C1B0255D84",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1164r13p1189r12p1207r12p1228r13p1233r13p1235r13p1295r13p1311r13p1345r14p1482r15p1494r15p1501r15p1512r15p1537r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.92,
+  "ascensionist_count": 13,
+  "quality_average": 3.62,
+  "hold_fingerprint": "ff6da8e75c6660f467c373ff910a32531daa9009b0f186cf88a1ee873dffee86",
+  "validation_errors": []
+}

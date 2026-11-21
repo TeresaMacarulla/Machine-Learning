@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1e830ab9e8b3bff7af0fe8a5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Magik",
+  "setter": "RavioliTriceps",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "BDF47F77E0D34D0AA50165D6BECD7640",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1198r12p1252r13p1270r13p1305r13p1342r13p1394r14p1494r15p1513r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.07,
+  "ascensionist_count": 14,
+  "quality_average": 3.64,
+  "hold_fingerprint": "0968a235b7f19e9325be7f972f8303598a0263971fbecf8d6923bbfe30cb0506",
+  "validation_errors": []
+}

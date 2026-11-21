@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5a61bea281ce7f9d34e7ea96.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "shoulder practice",
+  "setter": "JStreet",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "2ACF6798E0084112AD4C1C358590C75B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1204r12p1233r13p1286r13p1318r13p1356r13p1358r13p1395r14p1469r15p1507r15p1513r15p1551r15p1563r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "fa99ad02e10b204fd0aca8befd8ef569b2f5af6bfb5352fb79a4e509adbb4318",
+  "validation_errors": []
+}

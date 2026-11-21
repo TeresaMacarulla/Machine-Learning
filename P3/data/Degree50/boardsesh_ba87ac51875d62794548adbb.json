@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ba87ac51875d62794548adbb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Swingcatch",
+  "setter": "Otis de Kruijf",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "21500220-9d21-4e92-9c13-37568558b936",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r12p1127r12p1458r15p1175r13p1246r13p1247r13p1233r13p1511r15p1302r13p1339r13p1255r15p1395r14p1391r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.83,
+  "hold_fingerprint": "0bb06915100db7eeed7696bc569013b432fc8383dac1ccb9b9a61b70f223ee88",
+  "validation_errors": []
+}

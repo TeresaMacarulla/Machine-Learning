@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_544b1cc94aeae25bd2b83e22.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Shaolin Replica",
+  "setter": "CodyAllenLittle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "e0332531dc1844389d01a8c39d47e1fe",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r15p1146r12p1181r13p1250r13p1265r13p1303r13p1370r13p1392r14p1457r15p1485r12p1524r15p1568r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "276af58296e0c37900f07b848864f13d35850f2239938e58db0ad478693ef8df",
+  "validation_errors": []
+}

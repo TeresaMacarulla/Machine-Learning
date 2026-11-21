@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c2a6472eb5bc243c4ca325fb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "H\u00fchnerauge",
+  "setter": "teraku",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "AFC103840EC6408A887D18502643C72D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1169r12p1186r12p1213r15p1219r13p1269r13p1299r13p1304r13p1335r13p1384r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.2,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "dbf39cd2dcb5576e652217782b2c2c4ba8a4c69bd8a557ec8af334a2c1cd9a1c",
+  "validation_errors": []
+}

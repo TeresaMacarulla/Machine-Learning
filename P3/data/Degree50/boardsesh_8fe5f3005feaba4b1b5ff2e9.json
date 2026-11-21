@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8fe5f3005feaba4b1b5ff2e9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "introducing better holds @50 6",
+  "setter": "Chubs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "7d2ae538-2ae0-4786-9009-ac3fe6d20e0f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1203r13p1220r13p1256r13p1269r13p1103r15p1190r15p1287r13p1283r14p1285r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "61e2514e7a94601e1af25c0d4d31438b2257f85fcf4a43f55128352997aa231a",
+  "validation_errors": []
+}

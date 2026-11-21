@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0c368c1da041a81a63390618.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Pirates of the Pancreas",
+  "setter": "jwilder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "35B411204A77406EAAA26B905E2435AA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1137r15p1186r12p1236r13p1243r15p1248r13p1300r13p1314r13p1365r13p1383r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.99,
+  "ascensionist_count": 163,
+  "quality_average": 3.25,
+  "hold_fingerprint": "38dabfb34a5ee0757ddfb6580dcd6f4405275a69df70f9a9d632c8ec81cac7cc",
+  "validation_errors": []
+}

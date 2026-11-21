@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5c094412cf4af54ee4be00f3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Vox Populi",
+  "setter": "critterdude542",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "931B54AC55914188A60C24C0DE252C9A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1131r13p1136r12p1181r13p1228r13p1264r13p1282r13p1313r13p1345r13p1379r14p1453r15p1458r15p1502r15p1521r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.67,
+  "hold_fingerprint": "f7b73ce1e96822c677c55acac96b3bcbbccbea36a618ca887874965bdce27c18",
+  "validation_errors": []
+}

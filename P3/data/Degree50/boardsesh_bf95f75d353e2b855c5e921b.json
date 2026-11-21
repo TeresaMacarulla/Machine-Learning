@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bf95f75d353e2b855c5e921b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Scissors",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "35C0D3C4C72544DD89063076BB97DB04",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r12p1282r13p1298r13p1384r14p1467r15p1529r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.22,
+  "hold_fingerprint": "50888ef717526bbed5462655d4a62fac3d851c25916ddf94ba08f9aaecaf4c7a",
+  "validation_errors": []
+}

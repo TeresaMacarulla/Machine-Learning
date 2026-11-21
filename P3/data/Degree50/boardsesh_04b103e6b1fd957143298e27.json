@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_04b103e6b1fd957143298e27.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Forecast for tomorrow",
+  "setter": "rian_smyth",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8B780533D746421BBA97D7A3FAEF0AC2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1161r15p1171r15p1212r15p1221r12p1233r12p1264r13p1284r13p1334r13p1382r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 814,
+  "quality_average": 3.2799999999999994,
+  "hold_fingerprint": "77112273c32cd16292260804b0958f35a75d85eb2f60d332c281289afa89bd87",
+  "validation_errors": []
+}

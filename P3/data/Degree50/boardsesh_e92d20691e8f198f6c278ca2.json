@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e92d20691e8f198f6c278ca2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Green Shirt",
+  "setter": "NotBeef",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "7b603fc18111427fa8d6928df21c6bb3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r15p1134r12p1178r15p1201r13p1203r13p1250r13p1264r13p1336r13p1386r14p1453r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "79eea750545c2a44ae3031849fbe356ede442e5f1d71b67eb672978591a18c89",
+  "validation_errors": []
+}

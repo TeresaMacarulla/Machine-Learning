@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0e71917d032929f90aab6b78.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Thoughts and bodily movements",
+  "setter": "edwinvandruten",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "6A45E09F8968488CB7858CB99AE0E89E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1253r12p1258r12p1307r13p1309r13p1377r13p1392r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ee1a250e1e08e45ec3d5d7cf789436df66657dc1403cf1b61a10de40a4211984",
+  "validation_errors": []
+}

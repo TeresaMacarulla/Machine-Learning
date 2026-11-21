@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_620b713d31a83762cbe8b10c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "climblocked",
+  "setter": "kkinnit",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1bca1b5d-807a-4e77-86a0-122e99765d12",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1094r15p1210r13p1464r15p1231r13p1302r13p1248r13p1308r13p1303r13p1535r15p1342r13p1395r14p1287r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 7,
+  "quality_average": 5.0,
+  "hold_fingerprint": "cea022ea67f5434d14679166f370787ad85305d8352f18828722dc450420d250",
+  "validation_errors": []
+}

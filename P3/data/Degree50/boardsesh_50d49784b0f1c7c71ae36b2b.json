@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_50d49784b0f1c7c71ae36b2b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "ICON",
+  "setter": "dojustinn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "349B5C054F9B41CC8201C9D64B0B56A7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1110r15p1154r12p1160r15p1179r13p1226r13p1248r13p1253r13p1258r13p1270r13p1312r13p1328r13p1384r14p1465r15p1473r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 17,
+  "quality_average": 3.4,
+  "hold_fingerprint": "d6d4582361b93e763bf252818a7b40267b48695c4ee4cbe359685d2861b57300",
+  "validation_errors": []
+}

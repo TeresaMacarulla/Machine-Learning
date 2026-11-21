@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ff0a9816a56034a92b367460.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Ristrettto",
+  "setter": "dispositiv",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 9
+  },
+  "source": "boardsesh",
+  "source_uuid": "B6790E9D99C94A728062D1F1CEB58D66",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1125r12p1143r12p1192r13p1245r13p1260r13p1315r13p1366r13p1387r14p1459r15p1462r15p1475r15p1483r15p1501r15p1503r15p1510r15p1537r15p1548r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.6,
+  "ascensionist_count": 5,
+  "quality_average": 5.0,
+  "hold_fingerprint": "3fef1c490c86acf6501e3a4aa992046e4aba6924b0554dcd54b0a7712918b50b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6acfe6f70b6b04fd28182e5d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Pectitude",
+  "setter": "confortbenoit",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "dd49524007c74911b9bd1874778daa17",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1217r12p1284r13p1290r12p1338r13p1350r13p1368r13p1382r14p1508r15p1556r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "a14adebc67868f939b0fc8a0392ebfd1295b940b0d3905770da6c5832a8c70eb",
+  "validation_errors": []
+}

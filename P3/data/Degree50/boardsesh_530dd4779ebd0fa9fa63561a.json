@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_530dd4779ebd0fa9fa63561a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Tall Boy Reach II",
+  "setter": "bsebaz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "74634917A1C348D6A994D700C98F5E96",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1082r15p1149r12p1235r13p1236r13p1300r13p1354r13p1388r14p1489r15p1496r15p1542r15p1557r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8cf3935e02b3efd55d48d68d4e0878863b02babe9b66e71f1e82971f232df120",
+  "validation_errors": []
+}

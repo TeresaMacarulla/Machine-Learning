@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f01e5562e05854bc82a06ffc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "one arm turla",
+  "setter": "samuelguerrero",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3F2B18B5BBF94C8DB4DCB5FBA97C060C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1202r12p1208r15p1257r13p1359r13p1387r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "3102009309ef095fd34c53c0d0a34fcba8b2f1c3559c26aaf5499aefbb9eeb79",
+  "validation_errors": []
+}

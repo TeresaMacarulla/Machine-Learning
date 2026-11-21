@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8d8cc75e002f8fce78114d20.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Pull My Finger",
+  "setter": "mitchellbsu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "90E103C916174E5687F339480476ABC1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1169r12p1233r13p1265r13p1314r13p1367r14p1532r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.96,
+  "ascensionist_count": 27,
+  "quality_average": 3.52,
+  "hold_fingerprint": "466ada3e27f72bee69ec9d8dcd426623d17d197b4673aa2335b4f5a90857e1b7",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_884c7a6c30a55a75e4bc0c1b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "go katsu",
+  "setter": "leemiho",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "FEEBF34FAA77484083FDE157575775B6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r12p1145r12p1177r13p1231r13p1267r13p1304r13p1353r13p1391r14p1505r15p1533r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "c016d9e26525496b9e504ebe6141919dc35e41c47828e3acb29878ab0012dee8",
+  "validation_errors": []
+}

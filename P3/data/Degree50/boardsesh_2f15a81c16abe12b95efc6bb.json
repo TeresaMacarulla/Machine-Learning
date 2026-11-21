@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2f15a81c16abe12b95efc6bb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Flamethrower",
+  "setter": "kilterjackie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "848FA0DE917B49ED86B7301B684CDE4F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r12p1183r12p1238r13p1320r13p1357r13p1391r14p1471r15p1561r13p1569r13",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.06,
+  "ascensionist_count": 47,
+  "quality_average": 3.36,
+  "hold_fingerprint": "5f6e315bd6a40b08fc06f4d9209d6f5172235f4ceae04b92096715a613a66182",
+  "validation_errors": []
+}

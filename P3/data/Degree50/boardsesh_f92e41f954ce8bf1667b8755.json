@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f92e41f954ce8bf1667b8755.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Opposable Thumbs",
+  "setter": "nlun",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "2d43b10c2f6040e887e8e2dc73441ae0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r12p1107r12p1145r13p1178r13p1232r13p1263r13p1301r13p1367r13p1388r14p1458r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "bbf577e7ff4fdb8460fbd4294875d45eea8c66ca5c85a0b61a15accfb3140182",
+  "validation_errors": []
+}

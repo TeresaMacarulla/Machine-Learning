@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5e4e34779b0e8b0c3c416cfb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "uni campus",
+  "setter": "jumueller",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "5b2202331aba4b12bb5d48ecd2fa5356",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1234r12p1253r13p1286r13p1321r13p1370r13p1386r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "570ee42f2b20100bad9a3298abc6649ffe2919b67c9886c36cfffca4274543f8",
+  "validation_errors": []
+}

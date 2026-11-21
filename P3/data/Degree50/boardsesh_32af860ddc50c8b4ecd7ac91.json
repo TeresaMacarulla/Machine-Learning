@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_32af860ddc50c8b4ecd7ac91.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Hand board mode on\ud83e\ude9d",
+  "setter": "barkendior",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "CDAB394C657740EFBCCB0B1680FF309D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r12p1231r13p1247r13p1353r13p1390r13p1394r14p1460r15p1493r15p1504r15p1595r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.85,
+  "ascensionist_count": 13,
+  "quality_average": 3.38,
+  "hold_fingerprint": "cde668f6f0dbb9fc12ed261a856d292d00fe9537288d82e1ab6532406e071241",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a021157bcd8dd48c2901b543.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Fish1",
+  "setter": "kilifish",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "90C4DB114C6A4327ABD384CDDDAF0B2D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1227r12p1264r13p1269r13p1272r13p1285r13p1312r13p1358r13p1395r14p1464r15p1483r15p1532r15p1534r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "f4451be3abb3501e88ebd42c6aca306ee38507ab18594038c253168f7d917c4a",
+  "validation_errors": []
+}

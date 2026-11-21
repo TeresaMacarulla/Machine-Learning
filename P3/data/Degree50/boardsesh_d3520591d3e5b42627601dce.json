@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d3520591d3e5b42627601dce.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "chopped",
+  "setter": "madchossers",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6BC1BDB0B93242F1BD1134E7AEBF4B11",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r12p1147r12p1234r13p1264r13p1332r13p1379r14p1456r15p1511r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8ec630f3e68513205a32eb7c363a5c1f68c08d63ca1b7e305cf8e88baf741ca6",
+  "validation_errors": []
+}

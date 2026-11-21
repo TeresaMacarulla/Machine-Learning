@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bc55ec112db7442845ff079b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Guesstimate",
+  "setter": "Riptile",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FEA7FEBB1A7E48C7AEDE294D89B1E882",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1184r12p1237r13p1272r13p1321r13p1355r13p1387r14p1452r15p1480r15p1517r15p1541r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.86,
+  "hold_fingerprint": "0652ebdfc4a793deb537222431f957b5ef10b880f7abb9ecaad113dc8b00e575",
+  "validation_errors": []
+}

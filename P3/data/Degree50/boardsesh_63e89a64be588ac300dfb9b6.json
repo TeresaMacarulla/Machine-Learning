@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_63e89a64be588ac300dfb9b6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "green highlighter",
+  "setter": "gregorylocker",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "20A9440248DA4C7FAC3B92EB79BE8E70",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1148r12p1180r12p1230r13p1233r13p1282r13p1317r13p1349r13p1380r14p1383r13p1459r15p1512r15p1555r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 15,
+  "quality_average": 3.43,
+  "hold_fingerprint": "906d2e8ff2938ee63cbe84af49b378270b63cf6b5a86ebe0cc24888465339cbe",
+  "validation_errors": []
+}

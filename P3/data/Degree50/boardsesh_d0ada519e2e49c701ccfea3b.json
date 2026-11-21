@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d0ada519e2e49c701ccfea3b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Braj",
+  "setter": "bscorpiio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "EBBF0FFEDD9C4186B7006799C813B8E5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1086r15p1113r15p1145r12p1163r12p1198r13p1283r13p1353r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "3993f85e9ace2c9aa054209e849b45c9aa0a2799ac96165782410d6c9972214d",
+  "validation_errors": []
+}

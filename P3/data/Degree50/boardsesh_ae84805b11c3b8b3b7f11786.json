@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ae84805b11c3b8b3b7f11786.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "mojo finder",
+  "setter": "tlandman",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "C7DACA006D294D6B8594EA5298F1BC05",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r15p1131r12p1197r13p1266r13p1296r13p1381r14p1456r15p1502r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.75,
+  "hold_fingerprint": "d49799c0f4ae818f1495a77ebe749fddd0d5d648281421899d78c545f34c63ce",
+  "validation_errors": []
+}

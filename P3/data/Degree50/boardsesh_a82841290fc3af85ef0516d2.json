@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a82841290fc3af85ef0516d2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Ordinal",
+  "setter": "aaronguiles",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "0620DDA326554584AF098219A569A81C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1188r12p1203r12p1217r13p1244r15p1256r13p1302r13p1315r13p1382r14p1489r15p1495r15p1497r15p1500r15p1531r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 6,
+  "quality_average": 3.7999999999999994,
+  "hold_fingerprint": "33a29f5dfe084eea64a3698a514559f72d384bcfad2997cd19d3761e93c7a077",
+  "validation_errors": []
+}

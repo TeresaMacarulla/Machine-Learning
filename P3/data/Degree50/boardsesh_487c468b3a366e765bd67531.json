@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_487c468b3a366e765bd67531.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "cheetah",
+  "setter": "zdordai",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "90EEAC6CE1A648E0A0D87244802FED6E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1169r12p1198r13p1249r13p1250r13p1272r13p1320r13p1357r13p1388r14p1456r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.64,
+  "ascensionist_count": 13,
+  "quality_average": 3.27,
+  "hold_fingerprint": "5e86787113010b04444ac1eb9162ac4eb06ac276a4c4f6e01d378dc1376b2f6c",
+  "validation_errors": []
+}

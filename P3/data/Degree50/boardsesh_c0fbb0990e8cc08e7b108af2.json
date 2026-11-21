@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c0fbb0990e8cc08e7b108af2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "contact strength",
+  "setter": "Pheylan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9798EAEC465348AA8EBB5A821FF37935",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1104r15p1172r12p1186r12p1223r13p1270r13p1272r13p1337r13p1357r13p1391r14p1516r15p1534r15p1550r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "54e78d691e855480d925c85bc2ce70045340728d88721c09fec6207664999dda",
+  "validation_errors": []
+}

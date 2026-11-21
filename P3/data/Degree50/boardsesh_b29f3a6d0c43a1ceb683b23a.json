@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b29f3a6d0c43a1ceb683b23a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Morph Crux",
+  "setter": "tortesla",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6B43376B54264B08BD58FDEE4294574A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1123r15p1189r12p1222r12p1239r15p1249r13p1261r13p1269r13p1346r13p1366r13p1388r14p1518r15p1540r13p1558r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 5,
+  "quality_average": 2.8,
+  "hold_fingerprint": "88031877e08afc17ec2819f62b251fd105a6575f923aa021a770e1551fabd1d5",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8a4f969d96cc39ae0edc0956.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Diagon Alley!",
+  "setter": "Philbothegeek",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1b4eb7e5-0418-4aa4-a564-e263f1d30184",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1121r12p1206r13p1219r13p1517r15p1251r13p1265r13p1316r13p1379r14p1330r13p1135r12p1447r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 7,
+  "quality_average": 4.2,
+  "hold_fingerprint": "3de38bbc6b746c4e26d05bb06507d03c64163536b74254151519217ff35bfb50",
+  "validation_errors": []
+}

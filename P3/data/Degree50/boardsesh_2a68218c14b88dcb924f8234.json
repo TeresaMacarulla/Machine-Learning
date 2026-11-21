@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2a68218c14b88dcb924f8234.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Closed Circuit \ud83d\udd01",
+  "setter": "Cubesnail",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E75AE4ED05C8451897C782BD67C78F82",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1097r15p1164r12p1188r15p1200r12p1221r15p1236r13p1269r13p1304r13p1371r13p1387r14",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.6667,
+  "ascensionist_count": 3,
+  "quality_average": 2.66667,
+  "hold_fingerprint": "49048653bd7ec202245ff1f2bf443736ebcc17604bb047514d04192af6715116",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9b91be0d331e550fb0d72dfd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Hands in the air",
+  "setter": "Jooaaaschaaasch",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "999cbd1c551345fc9886e80b62cd2c08",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1289r12p1290r12p1302r13p1334r13p1384r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.2,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "651370e7fb1b241819dfb41ff3bba7d2dfd4f83e9d297716c7e76fe848454585",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6bac5b36baee032ca1a67a7b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "idk yet version 10",
+  "setter": "Lernz",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "000A76CF16BA43F38960B7C32D889BDD",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1231r12p1269r13p1323r13p1336r13p1344r14p1391r14p1477r15p1497r15p1503r15p1543r15p1563r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.8,
+  "ascensionist_count": 6,
+  "quality_average": 3.2000000000000006,
+  "hold_fingerprint": "74b656c195e7fb9598f8e90df6839790b881481a3e07fb9fc1a63140f501c99b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_10a71bc2316efc8eaf25d31b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "tip toe throw",
+  "setter": "kylerowe",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "D2D85100FE7B4D5094AEAAF94E80602E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1154r15p1201r12p1203r12p1267r13p1321r13p1334r13p1335r13p1389r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 484,
+  "quality_average": 3.39,
+  "hold_fingerprint": "f465168e2b1bab6ce39203da8355bf41c0302e2b26b43b3c6dafa1a0a6d62e23",
+  "validation_errors": []
+}

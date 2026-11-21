@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f42b81275bb532d592566d7b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Take?",
+  "setter": "najBJERG",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "7e7074c0-d954-44a6-881a-76a1e73ee8d7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1461r15p1458r15p1494r15p1233r13p1216r13p1273r13p1152r15p1338r13p1370r13p1384r14",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c50137d1c83d3ccd35bb5cdb647a13f50cf8ca1cebba8285e7ae57aeb0610bcc",
+  "validation_errors": []
+}

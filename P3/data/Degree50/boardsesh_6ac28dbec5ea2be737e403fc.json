@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6ac28dbec5ea2be737e403fc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Sabotaje",
+  "setter": "Noe98_mu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "65641c08196e4b038e584ae42ec2b5a8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1131r15p1162r12p1163r12p1214r13p1220r15p1251r13p1257r15p1284r13p1320r13p1321r13p1323r13p1374r13p1393r14p1459r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.2,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "c7401c78976c872f20b6bc8366f12ed6396c9f59674a0574078f399f3a455c10",
+  "validation_errors": []
+}

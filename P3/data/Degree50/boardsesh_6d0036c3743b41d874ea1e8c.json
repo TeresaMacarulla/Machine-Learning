@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6d0036c3743b41d874ea1e8c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Mitchell\u2019s Exam",
+  "setter": "Jarin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "3FCA3F73257E42C4B252E8005238C4F2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1084r15p1149r12p1215r13p1234r13p1280r13p1335r13p1369r13p1391r14p1477r15p1504r15p1520r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "d42dc487f1ae7d0b28660036fa46be7d8fae98309b273e191a1365e9cb90f273",
+  "validation_errors": []
+}

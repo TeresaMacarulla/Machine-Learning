@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_315a3af156ad60947658e65f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Pony Garage Deluxe",
+  "setter": "jrasmit",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8100f96e40ec4baa94d96637c927c209",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1127r12p1180r13p1228r13p1264r13p1265r13p1333r13p1382r14p1457r15p1462r15p1477r12p1502r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "224efedb7a5f7031a82b4f1b3f523fb03ebeee849c2fc3081cb91e46a91d02c8",
+  "validation_errors": []
+}

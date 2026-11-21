@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bf96984d549e1ea99e7b5312.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Sous la dent",
+  "setter": "Auperchoir",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "66f4c09e8fde49fc89697b10d49edeff",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1114r12p1147r12p1177r13p1198r13p1246r13p1297r13p1335r13p1387r14p1457r15p1458r15p1465r15p1541r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.25,
+  "ascensionist_count": 8,
+  "quality_average": 3.75,
+  "hold_fingerprint": "05f19a16df879505bfa3283e356691b4634ea90e2c0a9e0a5d5f1fc95a55d2dc",
+  "validation_errors": []
+}

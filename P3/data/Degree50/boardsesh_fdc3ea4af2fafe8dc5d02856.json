@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fdc3ea4af2fafe8dc5d02856.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "Cloud GTM",
+  "setter": "joshuabrahams",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "55FC285246274FB1BB0517D6DF450E34",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1185r12p1196r12p1322r13p1392r14p1470r15p1485r15p1559r13p1563r15",
+  "display_difficulty": 30.0,
+  "difficulty_average": 30.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "a732f9c61771de9851085547e94b384a7ed10f7f1431d9ab37299239170e299b",
+  "validation_errors": []
+}

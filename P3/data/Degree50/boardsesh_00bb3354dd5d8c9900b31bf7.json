@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_00bb3354dd5d8c9900b31bf7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Pulley Fixer",
+  "setter": "noahwheels",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "CC0865E9698C4480AC647DD85F98863A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r15p1177r12p1210r12p1315r13p1317r13p1357r13p1391r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "4dbd669868e0069eb9f770f284ee4f4c13151469404a6f8eb62f9ce1b7905f00",
+  "validation_errors": []
+}

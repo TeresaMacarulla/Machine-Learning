@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_19f1c1139f2c9fa955380ca0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Corpus Crimpy",
+  "setter": "lachlan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "B2B64238FFAF462683E2815D16A76E97",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1199r12p1201r12p1250r13p1265r13p1282r13p1333r13p1352r13p1369r13p1390r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "1bb624b9655944b6d9c3bb12e2eb465b63755eb2c969dcbbab2e9c80341765a9",
+  "validation_errors": []
+}

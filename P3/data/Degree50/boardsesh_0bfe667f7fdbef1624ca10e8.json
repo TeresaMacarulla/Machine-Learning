@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0bfe667f7fdbef1624ca10e8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Stimulate",
+  "setter": "RavioliTriceps",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "895C122CDC604A459F1222000E2983B8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1179r12p1246r15p1247r12p1302r13p1334r13p1368r13p1385r14p1501r15p1519r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.89,
+  "ascensionist_count": 54,
+  "quality_average": 3.26,
+  "hold_fingerprint": "9af4658234886834bb8209e85078f75991c94397f3203de8e063983089a512a4",
+  "validation_errors": []
+}

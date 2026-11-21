@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bbad54046db488b4e447a4be.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "goal chaser",
+  "setter": "FloW95",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "b8d1d97e9d3349f9a9afb2cce643d1d8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1170r12p1202r13p1250r13p1339r13p1352r13p1384r14p1451r15p1478r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.97,
+  "ascensionist_count": 64,
+  "quality_average": 3.34,
+  "hold_fingerprint": "cd03118034f2f91e64bda7f3b60f393416a4ebd5b1b325ec99eb7d9c56d2fb2b",
+  "validation_errors": []
+}

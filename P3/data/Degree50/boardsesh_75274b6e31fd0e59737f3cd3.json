@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_75274b6e31fd0e59737f3cd3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "S turns",
+  "setter": "t_smezy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "577DA98B209D4CF7BAF24ECB8C04E23F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1123r12p1153r12p1190r13p1257r13p1269r13p1272r13p1302r13p1389r13p1391r14p1395r14p1447r15p1523r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "70c85857a46a0b5fb1f766e3103226034bcb508720201697a993920656247d31",
+  "validation_errors": []
+}

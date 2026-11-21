@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e256601d1b829f51d50b58ee.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "chews 2.1",
+  "setter": "JuliaChew",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "08D503A363404F228E62E10A31B4526C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1194r12p1197r12p1248r13p1249r13p1303r13p1352r13p1373r13p1391r14p1460r15p1467r15p1477r15p1487r15p1502r15p1524r15p1552r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "e37d2131e8f9a095283335d1b7359ff02aa8f6e740aa09acafed7952f207f8b8",
+  "validation_errors": []
+}

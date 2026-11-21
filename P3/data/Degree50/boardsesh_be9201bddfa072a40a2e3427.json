@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_be9201bddfa072a40a2e3427.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "NofootCR",
+  "setter": "julia67",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "017a0478c19c4084a5de28b733ffd88f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1247r12p1249r12p1281r13p1297r13p1300r13p1302r13p1306r13p1340r13p1359r13p1393r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "e8694452b4f8cdae17191cf1e46d73f8728df423049f235bdc9ec282de1c49bc",
+  "validation_errors": []
+}

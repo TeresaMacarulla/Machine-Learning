@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_410b8539bf2bd2ca89bd5229.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "idek",
+  "setter": "imnosetter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "65316044DEC54FF483E0C8B01BE9E948",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1097r15p1099r15p1147r12p1150r12p1154r15p1200r13p1221r13p1257r13p1258r13p1292r13p1341r13p1394r14p1536r15p1552r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 16.67,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "c14488dc66dcc4ca0dddefbb219a680a7a370835e2b0aae5cca654c831e7bb11",
+  "validation_errors": []
+}

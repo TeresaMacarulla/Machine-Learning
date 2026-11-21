@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1f3a7b76fc23a7a690ecad11.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "a pinch and a punch",
+  "setter": "niconoam",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "F898661F0AF142048E8B0E09E5AA7926",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1128r12p1197r13p1228r13p1246r13p1280r13p1284r13p1301r13p1304r13p1353r13p1390r14p1484r15p1510r15p1524r15p1525r15p1561r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "cb125959af1db79a0b96050e4bb8c37d1bd847931e5b459a1c73aa0245695ba2",
+  "validation_errors": []
+}

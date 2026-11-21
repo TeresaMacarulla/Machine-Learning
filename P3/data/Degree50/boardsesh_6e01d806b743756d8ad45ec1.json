@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6e01d806b743756d8ad45ec1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Barndoor optional",
+  "setter": "GeorgeFoerster",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "151A9D2CB52D4EEBB74EFA7CEF545431",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r15p1146r12p1147r12p1194r15p1196r13p1215r13p1264r13p1315r13p1348r13p1385r14p1387r14p1462r15p1549r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "5c595b22a0a1578fb9135e2a29f72646d02e9edbdb5d9bc0e839e1ee8ad9f537",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_22a4634657753ac3d02a8b65.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Bloc Shop Special",
+  "setter": "DSavoie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "7B7D4C3FA66B4D7AAEDC2E0326D4568C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1157r15p1182r15p1224r13p1238r13p1270r13p1305r13p1353r13p1385r14p1449r15p1531r15p1586r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "534a97fc5040847e390d78ffe411abb183ffb68fb4ed945a2f0167d577dcd6bf",
+  "validation_errors": []
+}

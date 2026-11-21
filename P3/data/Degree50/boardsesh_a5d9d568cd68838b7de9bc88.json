@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a5d9d568cd68838b7de9bc88.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Boom Box",
+  "setter": "ChrisCurry",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C48E1B4F9B4441F0A9113E3C4C20AD5F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1098r15p1129r15p1184r12p1237r13p1286r13p1320r13p1370r13p1372r14p1477r15p1506r12p1531r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ed544db3aa5bb972d3bc6f8529a7e08d61ef137c6ae48121e0dcb544168c4462",
+  "validation_errors": []
+}

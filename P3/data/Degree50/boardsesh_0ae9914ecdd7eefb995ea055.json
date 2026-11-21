@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0ae9914ecdd7eefb995ea055.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "360 Crossmap Wall-Bang",
+  "setter": "SkyBadger",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "3A8C5A8F79B84D1D80B833D04E6D97FF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r15p1107r12p1128r12p1193r13p1229r13p1247r13p1302r13p1306r13p1308r13p1361r13p1395r14p1459r15p1483r15p1502r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.0,
+  "hold_fingerprint": "4e20561ee041402f4d66ce01b9852346812b14949d5517bcd1bea8113a37168d",
+  "validation_errors": []
+}

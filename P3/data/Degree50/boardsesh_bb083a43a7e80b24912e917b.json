@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bb083a43a7e80b24912e917b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "wursttherapie",
+  "setter": "vincentontherocks",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "315F602A227F49EE97C0772918D26424",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1126r12p1143r12p1215r13p1264r13p1268r13p1354r13p1391r14p1493r15p1506r15p1523r15p1595r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a779d3fb16b562f0c1a7381b75cb59cda4670e605c819dce8c772aa9b8c5b4df",
+  "validation_errors": []
+}

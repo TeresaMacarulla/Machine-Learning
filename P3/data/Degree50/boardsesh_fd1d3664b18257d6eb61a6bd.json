@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fd1d3664b18257d6eb61a6bd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "paddle ish",
+  "setter": "babyrawsauce",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "77688E4E37764A5983CC177F17715887",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1230r12p1250r12p1289r13p1303r13p1389r14p1487r15p1493r15p1533r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "24fa0466a59120da4627126678ac53b1b6b55b383e90eff67628065de3b561c2",
+  "validation_errors": []
+}

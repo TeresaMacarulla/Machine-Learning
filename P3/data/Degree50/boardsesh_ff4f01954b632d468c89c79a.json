@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ff4f01954b632d468c89c79a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "No Bev?",
+  "setter": "ogalley",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0DB06A276801484D872C98272B1EB4F3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1094r15p1142r12p1163r12p1192r13p1243r13p1264r13p1281r13p1317r13p1321r13p1356r14p1371r14p1461r15p1523r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ced3667ac393ec606083fbee8731da6a2fa64cea66f8c5b9ea02d6e21aaa5102",
+  "validation_errors": []
+}

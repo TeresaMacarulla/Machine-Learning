@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e5606ab28e64af5d3ce3c78c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "quantum shiznit",
+  "setter": "bkozina",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "B9130A7569F041CDAAAC513CEF53B642",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1122r15p1170r12p1194r15p1219r13p1250r13p1264r13p1266r13p1280r13p1349r13p1386r14p1468r15p1496r15p1523r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "a479d28c559d9e8484aafbdff9d19c89c66de1e78729b69a689d8c525fd01f6e",
+  "validation_errors": []
+}

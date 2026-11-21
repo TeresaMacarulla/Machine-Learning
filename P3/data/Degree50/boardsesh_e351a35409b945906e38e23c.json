@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e351a35409b945906e38e23c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Justintime",
+  "setter": "Joska",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "C9DB2DD17F1F4ACF979A7EEC60F2D05D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1143r12p1192r13p1245r13p1294r13p1299r15p1347r13p1379r14p1458r15p1461r15p1539r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.91,
+  "ascensionist_count": 75,
+  "quality_average": 3.47,
+  "hold_fingerprint": "94b42aec3e1c973432c657d4608d6510503d626e76fd1a33c662d6c3ae502dab",
+  "validation_errors": []
+}

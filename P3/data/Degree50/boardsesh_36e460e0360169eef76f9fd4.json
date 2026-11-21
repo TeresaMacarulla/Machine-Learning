@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_36e460e0360169eef76f9fd4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Balance tes pieds",
+  "setter": "max_rav2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "951d145d4a554f7fb17e47bf746c8de1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1133r12p1202r13p1235r13p1272r13p1321r13p1357r13p1391r13p1394r14p1454r15p1455r15p1506r15p1535r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "5eec251908bc911cdf81c2d2249d39b3e66f21fa093a150ffa0d287a131f4fa8",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_14a102e1f0ad6dccc80651b3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Kalles Climb",
+  "setter": "bkbskilterboard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 10
+  },
+  "source": "boardsesh",
+  "source_uuid": "B4831DEC63E9437A8DEEC5BCC9CB18FB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1200r13p1234r13p1284r13p1302r13p1334r13p1369r13p1387r14p1454r15p1457r15p1486r15p1497r15p1513r15p1530r15p1550r15p1558r15p1560r15p1578r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 15.98,
+  "ascensionist_count": 46,
+  "quality_average": 3.33,
+  "hold_fingerprint": "2796a963d8d84df3e8545b8f68b77e352d7e1024c233190e8952944e64bcbd4b",
+  "validation_errors": []
+}

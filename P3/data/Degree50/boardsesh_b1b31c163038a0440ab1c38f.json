@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b1b31c163038a0440ab1c38f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Barefoot 2.0",
+  "setter": "mdemoya",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "17571af1-6cc5-475e-b4f5-d2f3137c4176",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1260r13p1298r13p1193r12p1194r12p1331r13p1335r13p1385r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "56add3d57852ca7ccadd0d35182b193a6e9331196dc243bb70ca269689c7d74c",
+  "validation_errors": []
+}

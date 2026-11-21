@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fbf1b785391382c1503e771d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Banana Toast",
+  "setter": "grep",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "e079e8a4-ad7b-448f-91e6-4fdb3d16e7d2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1183r12p1201r12p1477r15p1507r15p1233r13p1249r13p1262r13p1297r13p1331r13p1519r15p1366r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 1,
+  "quality_average": 4.0,
+  "hold_fingerprint": "fad1243b80fd48ad57d9e78fb33522745e8f0961292d26195483229833c84900",
+  "validation_errors": []
+}

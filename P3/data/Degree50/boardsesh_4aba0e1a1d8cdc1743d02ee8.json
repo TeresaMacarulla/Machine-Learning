@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4aba0e1a1d8cdc1743d02ee8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "drowning",
+  "setter": "leemiho",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "9FC0D8E30D764EBE82B2A2232334A5BE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1166r12p1232r13p1236r13p1302r13p1339r13p1355r13p1392r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 20.75,
+  "ascensionist_count": 5,
+  "quality_average": 4.25,
+  "hold_fingerprint": "09b0d674b9e546cf8a42cdbb03691ea1ebc7434e1fc35eeab2e9708fb82b8dae",
+  "validation_errors": []
+}

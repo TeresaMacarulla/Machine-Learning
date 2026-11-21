@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_97f7c37abaa1535e9b22998d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "left trending tension",
+  "setter": "ChenteA",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "32BC29EBF3A0457D99CFA1D9C8308CFF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1103r15p1157r15p1185r12p1188r12p1238r13p1246r15p1253r13p1283r13p1320r13p1334r13p1368r13p1381r14p1564r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "51a023c3fdeaa014428e5749e1b3204da9875e03bf202637286bdba5062eea24",
+  "validation_errors": []
+}

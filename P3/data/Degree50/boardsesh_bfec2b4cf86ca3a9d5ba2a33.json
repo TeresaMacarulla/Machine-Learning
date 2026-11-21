@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bfec2b4cf86ca3a9d5ba2a33.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Hammurabi\u2019s Code",
+  "setter": "NGS",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "D90BD94618D343EEA874014DCD614CDE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1095r15p1169r12p1179r13p1214r13p1275r15p1299r13p1338r13p1360r13p1372r13p1395r14p1452r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 6,
+  "quality_average": 4.33,
+  "hold_fingerprint": "52c8e89cb66abe607b97d4023219bcf2afcd215d2f7991dccb3b52e1cdc4ff15",
+  "validation_errors": []
+}

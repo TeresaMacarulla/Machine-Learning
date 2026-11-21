@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0a26e8d678ceef02aff56eef.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Mount Rose",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "FD4E41CD358B47658BD66E92E8CF3BB5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1083r15p1149r12p1220r15p1254r13p1265r13p1352r13p1371r13p1392r14p1489r15p1526r15p1585r13",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "e21aa45b9a8c470d321d38b92a77c187e12feaccf65ed466cff46599f055a1da",
+  "validation_errors": []
+}

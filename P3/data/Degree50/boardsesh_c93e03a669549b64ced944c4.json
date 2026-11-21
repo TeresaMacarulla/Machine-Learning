@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c93e03a669549b64ced944c4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "RIPETID",
+  "setter": "sserafin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "7B04AB1AFC3D4C9EBB873983F305BC23",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1237r12p1286r13p1321r13p1352r13p1387r14p1507r15p1513r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.12,
+  "ascensionist_count": 17,
+  "quality_average": 3.59,
+  "hold_fingerprint": "547ec4aa2478aab4570b89462114d71e04abb7e2236b3d56d05281bcc827fc5c",
+  "validation_errors": []
+}

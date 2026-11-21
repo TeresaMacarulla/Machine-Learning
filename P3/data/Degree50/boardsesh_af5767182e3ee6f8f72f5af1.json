@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_af5767182e3ee6f8f72f5af1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Auf lock",
+  "setter": "mqeckl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "8e4608f1d7dd4f1aa4f8dee1315f85dd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1102r12p1203r12p1232r13p1237r13p1249r13p1264r13p1314r13p1328r13p1379r14p1477r15p1502r15p1512r15p1558r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "957b29b9eac9dd20abd552f215ac1cfeb1e01608c0771e07273bf1982b844674",
+  "validation_errors": []
+}

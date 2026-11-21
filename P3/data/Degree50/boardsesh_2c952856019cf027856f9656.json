@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2c952856019cf027856f9656.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "360 Classic",
+  "setter": "juliengrasroutesetter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "95c3c9cd209c4710ab122d4dde32cbaa",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1228r13p1249r13p1252r13p1270r13p1322r13p1359r14p1463r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "bfa5c1feb15063d879237c16136b725718c3efc902b3c0331d1a19623790b34e",
+  "validation_errors": []
+}

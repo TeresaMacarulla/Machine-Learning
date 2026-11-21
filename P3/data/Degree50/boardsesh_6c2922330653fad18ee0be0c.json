@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6c2922330653fad18ee0be0c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Where do moths go?",
+  "setter": "jlindfor",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "0FE4CB3472774D45B41F9222E6B65D9C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1171r12p1190r12p1256r13p1270r13p1302r13p1351r13p1383r14p1482r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "10b6da209f3e184ff1a8dc4d7eb8744b98a9412b14aaaafef9e17fb827be40e0",
+  "validation_errors": []
+}

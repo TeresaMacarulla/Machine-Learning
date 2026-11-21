@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_44c40752d14a83162a7884a7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Swapping and Flopping",
+  "setter": "con321dude",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E1DEE16470054D2A989BC043ACC66185",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1108r15p1143r12p1144r12p1218r13p1230r13p1286r13p1291r13p1336r13p1382r14p1461r15p1464r15p1556r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 26,
+  "quality_average": 3.5,
+  "hold_fingerprint": "8ac395a503dbfb72e9704232bf0db55639dde16e6f9e3528552e043c440d0359",
+  "validation_errors": []
+}

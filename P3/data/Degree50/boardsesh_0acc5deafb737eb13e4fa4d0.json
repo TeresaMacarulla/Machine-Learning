@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0acc5deafb737eb13e4fa4d0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "cool down float",
+  "setter": "KilterStudio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "27FDF6DEE3224713B063C0B78E90E6DF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r12p1212r13p1244r13p1296r13p1345r13p1384r14p1487r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.89,
+  "ascensionist_count": 9,
+  "quality_average": 3.11,
+  "hold_fingerprint": "226ce7f2d41b367f2878c7a008d8de8b11218f82579ed91e9f3a64cbcfb2de80",
+  "validation_errors": []
+}

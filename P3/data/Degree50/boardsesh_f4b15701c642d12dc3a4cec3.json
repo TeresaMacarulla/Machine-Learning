@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f4b15701c642d12dc3a4cec3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Peaked Campus",
+  "setter": "cobywu",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "943DC19CA55B4D5498FB25BC1A3BCCA6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1230r12p1231r12p1242r14p1302r13p1308r13p1340r13p1527r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8171faa1a5eac07352385bf32e7e3b050613613fdb9d1dc87adff9b1429541b0",
+  "validation_errors": []
+}

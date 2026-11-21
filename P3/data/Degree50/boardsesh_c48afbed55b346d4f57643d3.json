@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c48afbed55b346d4f57643d3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Common Dough",
+  "setter": "softsecondgo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4EC8B5F2BE554F2DA1B74EBCF4101F54",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1161r12p1214r13p1256r13p1271r13p1357r13p1386r14p1457r15p1479r15p1509r15p1536r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "77b36bca58e5fca7c33deed562ed49275b490a3d15b68c3f348ad43933c1c08f",
+  "validation_errors": []
+}

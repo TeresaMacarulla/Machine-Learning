@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0218d90c9a74af20ee0a3389.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Boarder Guard",
+  "setter": "ahauser",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "9026F6943CFD42B7BCB8D17AF28E1D95",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1170r12p1171r12p1242r13p1289r13p1290r13p1339r13p1390r14p1451r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "ab740c01326c027f08de22d158bdc13213f4ec06fe44b55b7a8d44ab1f71c549",
+  "validation_errors": []
+}

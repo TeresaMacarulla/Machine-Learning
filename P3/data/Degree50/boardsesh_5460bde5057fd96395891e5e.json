@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5460bde5057fd96395891e5e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Raygun",
+  "setter": "rockclimber7000",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "a29c5f7c-db54-4dc4-88c8-8584714c5505",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1228r13p1387r14p1141r12p1464r15p1143r13p1231r13p1300r13p1334r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "4e3b894172578a13f434fdb8b6c5f1b7fe5e77b7ee73cf1e86dd4419c562aadb",
+  "validation_errors": []
+}

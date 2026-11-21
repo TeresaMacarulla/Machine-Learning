@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_31c6674a9ed59cd605514297.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Wizard from the Blizzard",
+  "setter": "joeclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "58D0FFC052FA4F7FBEA0C03BE5AC4178",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1112r12p1177r12p1217r13p1233r13p1255r13p1272r13p1327r13p1395r14p1459r15p1479r15p1508r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "606d11db1a5cb7253c06df370a6542338772147fbbecaf3d725a9bd6e1c20a7c",
+  "validation_errors": []
+}

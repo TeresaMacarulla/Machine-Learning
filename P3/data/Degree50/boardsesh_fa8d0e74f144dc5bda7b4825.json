@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fa8d0e74f144dc5bda7b4825.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Kilroy was here",
+  "setter": "pajaro",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "10fd22a0f1d74726b52afde4e214fe3e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1134r12p1152r12p1154r15p1235r13p1291r13p1358r13p1388r14p1454r15p1476r15p1536r15p1572r15",
+  "display_difficulty": 29.0,
+  "difficulty_average": 28.96,
+  "ascensionist_count": 118,
+  "quality_average": 3.39,
+  "hold_fingerprint": "6da326b50fe64a29c7169158f2acf1c493f6306103d047ba1dbb8a8d6624eb3c",
+  "validation_errors": []
+}

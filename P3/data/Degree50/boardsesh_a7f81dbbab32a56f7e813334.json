@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a7f81dbbab32a56f7e813334.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Rotator Cuff Surgery",
+  "setter": "cssimone",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b46cbcc1-9a3f-4461-8a28-3548b19e13b1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1178r12p1199r13p1144r15p1249r13p1270r13p1181r15p1353r13p1283r13p1380r14p1331r13p1141r15p1521r15p1503r12",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.0,
+  "hold_fingerprint": "72a10c2684e9ab5d1bfca26131a92d951ce04963fe26b72c9d34a85a7ceec1d9",
+  "validation_errors": []
+}

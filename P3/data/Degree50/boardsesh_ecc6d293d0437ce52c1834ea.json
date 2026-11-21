@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ecc6d293d0437ce52c1834ea.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Low Density",
+  "setter": "Chater",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "aa65a57206b54f6eb2b548dc3c6ccbac",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1128r12p1177r12p1230r13p1246r13p1301r13p1339r13p1371r13p1392r14p1460r15p1483r15p1495r15p1511r15p1532r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "17866b8c4eb3f294f0dbddd8adb9ee0500b874a2874b8b67cccb2b36b2a3d651",
+  "validation_errors": []
+}

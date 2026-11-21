@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_56793d91ed712dd16d2277d5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Crossfire",
+  "setter": "jduke",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "10AC040C60044D6587D882DB9DFA9AA6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1232r13p1283r13p1322r13p1339r13p1392r14p1468r15p1511r15p1534r15p1559r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 39,
+  "quality_average": 3.21,
+  "hold_fingerprint": "3068d736286a89cb3ca78acbadd90146e8525816797897fc413e5f8f868fe8ef",
+  "validation_errors": []
+}

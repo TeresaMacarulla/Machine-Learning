@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e9dcc055edd5984c22531de1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Pannenkoek",
+  "setter": "tobiasvr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "AE7CA53976C7490CB8CA578BD2D6CEDF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1120r12p1138r12p1186r13p1220r13p1233r13p1269r13p1320r13p1390r14p1453r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f5591fa9cf639eaacebbf1b65685642ce3b625f2de7e8b58c6c4e42a7e73b390",
+  "validation_errors": []
+}

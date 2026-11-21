@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c6dbdc3bd8408d92470ebb1b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Fall of an Empire",
+  "setter": "grockim",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "49CBA90EA2BE474C82B7F35848026077",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1093r15p1137r15p1152r15p1166r12p1181r13p1214r13p1263r13p1299r13p1317r13p1336r13p1371r13p1392r14p1456r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.02,
+  "ascensionist_count": 297,
+  "quality_average": 3.42,
+  "hold_fingerprint": "470074f40f06fc2c28c6ff9a2045ec1c4f94e0f954469822d0320105151fde01",
+  "validation_errors": []
+}

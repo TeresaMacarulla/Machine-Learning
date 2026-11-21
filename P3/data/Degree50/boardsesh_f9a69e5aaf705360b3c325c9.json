@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f9a69e5aaf705360b3c325c9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "cheese burrito",
+  "setter": "K1mi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "115A61C437894D67A9A70A1B8DCE7ABB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1092r15p1131r15p1180r12p1181r12p1203r15p1234r13p1252r15p1267r13p1289r13p1321r13p1373r13p1391r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 19.88,
+  "ascensionist_count": 8,
+  "quality_average": 3.5,
+  "hold_fingerprint": "443fd917d8d77d255999f8a86a30655a2c1de1d14715d7acba8399022f528245",
+  "validation_errors": []
+}

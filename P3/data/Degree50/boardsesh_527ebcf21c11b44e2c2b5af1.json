@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_527ebcf21c11b44e2c2b5af1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "wet direction (full throttle training)",
+  "setter": "wtheodos",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "9579E2BE125247E1BA7FF952E3082718",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1110r15p1162r12p1184r13p1185r13p1197r15p1218r13p1252r13p1337r13p1391r14p1470r15p1505r15p1559r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "b44e0db55ef013aea5b13d04d7726a850248b46133586754473c189de6ef5118",
+  "validation_errors": []
+}

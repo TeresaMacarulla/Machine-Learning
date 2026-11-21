@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_66b946e9c48381d762fb414a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Thumb Pain",
+  "setter": "Kewpie_Crusher",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "52d44a427feb48ed9207cfb4b6a52c82",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1145r15p1226r13p1246r13p1263r13p1300r13p1331r13p1381r14p1463r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "649242df8d9fe2009a4499f45a92d7bc797a2865819bd1fb10f553c2ee765483",
+  "validation_errors": []
+}

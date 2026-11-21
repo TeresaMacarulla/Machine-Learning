@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ee6245bf25998f2a3549def8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Subaru Outback",
+  "setter": "samgtmeyer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "ba4601dfa21641eaa6c93fde56376a3c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1157r12p1223r13p1242r15p1270r13p1304r13p1334r13p1386r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.06,
+  "ascensionist_count": 106,
+  "quality_average": 3.3264150943396222,
+  "hold_fingerprint": "4356df591dde7ca89e609527a644063b193f5c1da5240c40b72bf2af2315d2b0",
+  "validation_errors": []
+}

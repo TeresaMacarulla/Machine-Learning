@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_31ede48eb4dc4bc152bc3170.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Pogo Jens",
+  "setter": "zeb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "a64ea7fe-aa15-4294-81ab-e7f2db29456c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1167r12p1252r13p1281r13p1282r13p1277r13p1161r15p1456r15p1453r15p1130r15p1363r13p1382r14p1546r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.2,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "5deffd18dbc3ff761813d2476f996c9d0115a1a320e13dc7d58371dd6bc63a2c",
+  "validation_errors": []
+}

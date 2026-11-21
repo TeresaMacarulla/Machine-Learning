@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9c285125c1ef2ebb5668dbce.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "is it at 50 degrees though",
+  "setter": "Philbothegeek",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "861b083e-55ad-42c7-8fa3-99d0fd36e2b9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r12p1099r12p1076r15p1165r13p1234r13p1497r15p1266r13p1337r13p1504r15p1542r15p1386r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.0,
+  "hold_fingerprint": "2b32b7b9757458d3928093a0dcf319204cdbdc3653585c59a472c7260a50154f",
+  "validation_errors": []
+}

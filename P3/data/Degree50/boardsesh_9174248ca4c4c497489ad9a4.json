@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9174248ca4c4c497489ad9a4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Babyclimber",
+  "setter": "AlexKnapp",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "2DE6F7FEFF48451FB5AB3A69D27ECB96",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1231r13p1303r13p1371r13p1393r14p1458r15p1468r15p1484r15p1540r15p1551r15p1561r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.88,
+  "ascensionist_count": 137,
+  "quality_average": 3.48,
+  "hold_fingerprint": "a0bde462902f1eb3ef4119286f4a22b054106cc205901f71e3d08e6020ba9278",
+  "validation_errors": []
+}

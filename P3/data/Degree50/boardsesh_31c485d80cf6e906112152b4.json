@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_31c485d80cf6e906112152b4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "twobit",
+  "setter": "henrydalby",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "049c1a0d-418e-49fb-bd58-1da3595d9f2a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1261r12p1316r12p1317r13p1218r15p1321r13p1356r13p1239r15p1395r14p1361r13",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 3,
+  "quality_average": 1.5,
+  "hold_fingerprint": "4147dfdb64aacb397f299590ddfd1c388d2e0292d7826cfe5495961cfeb1d5a3",
+  "validation_errors": []
+}

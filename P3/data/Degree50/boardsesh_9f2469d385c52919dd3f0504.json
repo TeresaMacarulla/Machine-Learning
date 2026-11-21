@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9f2469d385c52919dd3f0504.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Ratatoullie",
+  "setter": "ratclaw",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "6edd2bb04f774183ab85d66d757df088",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1109r15p1146r15p1163r12p1176r15p1211r13p1266r13p1308r15p1334r13p1355r13p1390r14p1475r12p1529r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.86,
+  "ascensionist_count": 7,
+  "quality_average": 3.57,
+  "hold_fingerprint": "ec4e9fef6e53a6971ca4f6a94305aa886adc5d0ec884f60552ea814b45785600",
+  "validation_errors": []
+}

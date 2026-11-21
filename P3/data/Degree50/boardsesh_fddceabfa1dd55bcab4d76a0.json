@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_fddceabfa1dd55bcab4d76a0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "jitcracksbirds1",
+  "setter": "bert1880",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "B397B8A0216044F58D2A627DF95BAF37",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r12p1230r13p1250r13p1272r13p1339r13p1360r13p1395r14p1466r15p1516r15p1542r13p1554r15p1561r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 1,
+  "quality_average": 2.0,
+  "hold_fingerprint": "7bf7da2f108898b5f8ef1be727c99c6bb28fdd54f6606abbf42de38b9e458077",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4ba0be4a37722ddecc719243.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "backshots at boat rock",
+  "setter": "strings",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "0488DA245BC84788B05B25618F38B0B0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1197r12p1214r12p1269r13p1270r13p1305r13p1371r13p1387r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.96,
+  "ascensionist_count": 23,
+  "quality_average": 3.2599999999999993,
+  "hold_fingerprint": "a2cacdf1b40aa636f73c4464998509a6901a67bce4859612d95df70081ef75fc",
+  "validation_errors": []
+}

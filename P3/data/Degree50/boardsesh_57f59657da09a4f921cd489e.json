@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_57f59657da09a4f921cd489e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "shoulder cycle",
+  "setter": "chrisadams17",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2FAED3303C6E44D99D094476C33FADCF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1115r12p1145r15p1154r15p1164r12p1235r13p1269r13p1274r13p1299r13p1347r14p1457r15p1506r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "c71335b02749d95a16f2d5767519633d9c49d54ebfd004ac4b63e05914b19eaf",
+  "validation_errors": []
+}

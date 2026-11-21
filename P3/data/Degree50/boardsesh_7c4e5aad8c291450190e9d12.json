@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7c4e5aad8c291450190e9d12.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Chicken Parm",
+  "setter": "adriankask",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "9df7b2cfbeb84cf9ae44ae38da874bfa",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1198r12p1271r13p1320r13p1357r13p1387r14p1468r15p1493r15p1504r15p1562r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.96,
+  "ascensionist_count": 71,
+  "quality_average": 3.41,
+  "hold_fingerprint": "8bcb5fccf9ecb8aa1a7e1d573ff2da1715384face7d351c514a761ce12199d51",
+  "validation_errors": []
+}

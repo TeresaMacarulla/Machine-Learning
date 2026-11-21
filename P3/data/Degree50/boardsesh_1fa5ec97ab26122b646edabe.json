@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1fa5ec97ab26122b646edabe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Milchen2",
+  "setter": "HeyMile",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "8837EA30853B4120AC609F68ED5CFD29",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r12p1172r12p1241r13p1255r13p1256r13p1303r13p1333r13p1337r13p1383r14p1450r15p1516r15p1534r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "025340f4242a04f341fef2e81c47404c3c1c34fe4a2b17f505859d44218373b2",
+  "validation_errors": []
+}

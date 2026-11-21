@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ddaef3f4a063b9a3dcc57ea7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "GB04",
+  "setter": "ahansen0329",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "5FC6224A81B24A6091477CC38E9D66B4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1123r15p1133r15p1152r12p1172r12p1200r15p1206r13p1239r13p1289r13p1321r13p1337r13p1353r13p1385r14p1451r15p1499r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "91eea1b557630923365b5eb772cc536f9070999e82d466531fcab6298cab9af0",
+  "validation_errors": []
+}

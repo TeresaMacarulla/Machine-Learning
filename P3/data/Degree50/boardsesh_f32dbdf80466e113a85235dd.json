@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f32dbdf80466e113a85235dd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Henry special",
+  "setter": "theo.dore44",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1F5152D8A6BF4196A7496F87539AF816",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1091r15p1097r12p1145r12p1181r13p1210r15p1247r13p1250r13p1300r13p1353r13p1391r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1816a4282bae8faa4172e77b8a460e145ddb8e2a38b9b439cd13b474bec08249",
+  "validation_errors": []
+}

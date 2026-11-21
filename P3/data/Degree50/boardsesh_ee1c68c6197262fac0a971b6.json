@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ee1c68c6197262fac0a971b6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "jspruch",
+  "setter": "flavien_3124",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2c1967383ca343609fe1488aa77c692e",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1122r15p1152r12p1154r12p1207r13p1239r13p1306r13p1356r13p1394r14p1450r15p1515r15p1560r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "47ebd019c94e0d532551495750f4bf1e812e39ec333401d835ecf2c0fc942522",
+  "validation_errors": []
+}

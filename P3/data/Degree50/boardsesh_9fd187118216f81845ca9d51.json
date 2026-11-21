@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9fd187118216f81845ca9d51.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "pinchpaddle?",
+  "setter": "Daan_vo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2f5e928fec3c483c9f5320c82b757fae",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1169r15p1181r15p1191r12p1197r15p1206r12p1216r13p1254r13p1285r13p1291r13p1332r13p1384r14p1482r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "0738e95d927a57f48dec4d3c1a4dc6ed460b659ef9404e7493a8c6ae54c8c22f",
+  "validation_errors": []
+}

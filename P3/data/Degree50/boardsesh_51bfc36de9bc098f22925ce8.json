@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_51bfc36de9bc098f22925ce8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Under Over",
+  "setter": "daxxta",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "601afe99065b4d2686d62be5323f0da5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1116r15p1167r13p1180r13p1190r12p1253r13p1264r13p1332r13p1362r14p1472r15p1503r15p1511r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "cced3a0fa69815392b5124500af8dfd04f111ea99c623bbe672ebd04e5bd1750",
+  "validation_errors": []
+}

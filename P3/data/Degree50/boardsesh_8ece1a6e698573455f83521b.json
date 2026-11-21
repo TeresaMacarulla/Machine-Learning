@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8ece1a6e698573455f83521b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Despega pa la izquierda",
+  "setter": "marcmserna",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "D959291DCE084435A518461C97ADF1FE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r12p1204r12p1269r13p1280r13p1284r13p1347r13p1379r14p1499r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e2a4150caa7499f30ea196d81951aebad2f45e970fab86910280ceb4a4e3003f",
+  "validation_errors": []
+}

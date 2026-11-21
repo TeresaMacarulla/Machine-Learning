@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2397d9ed4f9c08f8f4a601a0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Falcon Kick",
+  "setter": "Rannon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5E5009E20250451A937A23D3200B5905",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1300r12p1315r12p1354r13p1371r13p1392r14p1521r15p1551r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.0,
+  "hold_fingerprint": "5e3b69c7a87ab0da01433d01e849afb328f2240e11b0864d8b00d3501d91cbbb",
+  "validation_errors": []
+}

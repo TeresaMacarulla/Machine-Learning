@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_01bfe338b271173ea26c6665.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Depression Regression",
+  "setter": "V8climber",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "f06b9a53-9644-4bb2-8a06-cb6bc57a06e1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1091r15p1178r12p1234r13p1560r13p1290r13p1527r15p1506r15p1340r13p1395r14p1249r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "de17a085dbf8062949a51a8b73a4221ff220755d0b50a73c2a9a9e90d6fac876",
+  "validation_errors": []
+}

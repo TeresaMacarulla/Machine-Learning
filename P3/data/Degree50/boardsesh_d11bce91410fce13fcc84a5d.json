@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d11bce91410fce13fcc84a5d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "I hate sitstarts",
+  "setter": "lylagrice",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "7FB4744D15C746CAB22CD6CFFAEE3B29",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1147r12p1183r12p1200r15p1215r13p1251r13p1268r13p1303r13p1353r14p1459r15p1495r15p1559r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.33,
+  "ascensionist_count": 4,
+  "quality_average": 3.67,
+  "hold_fingerprint": "9e0e55bdaab539440281136926bede2e5e3555d66989a0124074a1d8a3da25f6",
+  "validation_errors": []
+}

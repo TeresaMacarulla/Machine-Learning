@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ad460ddb89b55beb2e9de45c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Zac\u2019s warmup 50degrees",
+  "setter": "zacc1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6f9529f2fc334d7e821387d338419c97",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1082r15p1147r12p1167r12p1196r15p1231r13p1250r13p1302r13p1333r13p1384r14p1469r15p1521r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.61,
+  "ascensionist_count": 26,
+  "quality_average": 3.7,
+  "hold_fingerprint": "ec44b9804165373f3b3055083e2712b4ec640517d3c1ccd962ac452714525291",
+  "validation_errors": []
+}

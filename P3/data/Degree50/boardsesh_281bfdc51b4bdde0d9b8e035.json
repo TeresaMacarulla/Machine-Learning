@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_281bfdc51b4bdde0d9b8e035.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "cut loose and tension",
+  "setter": "tom.brewer",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "3A5D1C654D92481FAC9855E96E8A2057",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1164r13p1232r13p1259r15p1303r13p1325r13p1338r13p1394r14p1455r15p1460r15p1468r12p1533r15p1542r13p1544r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "72686cabebdefb7e6aee3d7700ce573661a2015206b03e061a29c90f77bdc074",
+  "validation_errors": []
+}

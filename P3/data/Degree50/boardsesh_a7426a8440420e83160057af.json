@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a7426a8440420e83160057af.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "izyride",
+  "setter": "adamfogarasi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "50A573C618D6464289E522E649E49013",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1081r15p1146r15p1149r13p1154r12p1169r12p1220r13p1234r13p1247r13p1300r13p1331r13p1383r14p1455r15p1456r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "fecc5a7a17e5f76a293053f0f5fa808adeb38812aa6ebc1e967bbe25eef9337b",
+  "validation_errors": []
+}

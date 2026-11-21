@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4748fdb0f7b5e9430759f32d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Ketabeta",
+  "setter": "wobi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "545f77037592441fa2aaf3aee4fa36f3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r15p1189r12p1222r12p1229r13p1233r13p1269r13p1330r13p1331r13p1379r14p1491r15p1504r15p1510r15p1518r15p1576r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 8,
+  "quality_average": 4.0,
+  "hold_fingerprint": "745f14caa49c5eef037f2b4f19463f67c5a64b10cf50b9ff50ad1346cc4f16de",
+  "validation_errors": []
+}

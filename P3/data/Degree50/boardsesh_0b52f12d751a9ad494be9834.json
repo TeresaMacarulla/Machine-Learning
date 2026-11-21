@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0b52f12d751a9ad494be9834.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Gyro Spyro",
+  "setter": "therealrockclimber",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "7A55820FF1DB4DF5ADFBA7F67A25BE1C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1172r12p1186r12p1252r13p1301r13p1332r13p1386r14p1452r15p1504r15p1551r13",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.25,
+  "ascensionist_count": 4,
+  "quality_average": 5.0,
+  "hold_fingerprint": "e1ad0711f2d50849b990b1ead9e70c4d8fb8b5a342421e3f8e6981e77cb08069",
+  "validation_errors": []
+}

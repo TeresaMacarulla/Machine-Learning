@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a4de18e4a1e8314e4cf94502.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "saltarina",
+  "setter": "AmmToper",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E8ADDAC3BB03418B820F803DCCE87E3F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1093r15p1108r15p1161r12p1162r12p1212r13p1229r13p1234r15p1297r13p1300r13p1386r14p1387r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c5e2c07bc0703d77f8b71ef3221e88fbf778bac2be60a344e90216b2e647c5c7",
+  "validation_errors": []
+}

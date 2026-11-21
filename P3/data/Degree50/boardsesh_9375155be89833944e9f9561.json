@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9375155be89833944e9f9561.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Kylo Ren",
+  "setter": "FluffytheCat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1BDD2203AB9C466EAEE6232529A62BD6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r12p1148r12p1161r13p1231r13p1235r15p1264r13p1301r13p1335r13p1355r13p1374r14p1455r15p1561r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.33,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "63e0860c5a57d250271f8de69d4ad794e5e4d1ec49cdb6fde72250fead37f778",
+  "validation_errors": []
+}

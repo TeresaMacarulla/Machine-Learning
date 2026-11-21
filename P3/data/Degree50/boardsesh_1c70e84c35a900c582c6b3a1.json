@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1c70e84c35a900c582c6b3a1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "hard but feet",
+  "setter": "tseck",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F81B760F98A744DEB9925F68253236CF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1165r12p1187r12p1271r13p1322r13p1352r13p1368r13p1384r14p1452r15p1453r15p1472r15p1544r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.43,
+  "hold_fingerprint": "bc1a257922df6f30a056e0e280a181a043f1e307325d4c2a1b5b162aa7065a45",
+  "validation_errors": []
+}

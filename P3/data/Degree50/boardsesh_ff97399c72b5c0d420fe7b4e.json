@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ff97399c72b5c0d420fe7b4e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Pundulum",
+  "setter": "Kewpie_Crusher",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "0588d7ed8c8242d7ad93cde3ca7fb3cc",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1196r12p1210r12p1246r13p1247r13p1301r13p1331r13p1383r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "d8c06e059da5eccdc522da0dec56dd9a6f121f7057a535f825d8f6c283be3ae5",
+  "validation_errors": []
+}

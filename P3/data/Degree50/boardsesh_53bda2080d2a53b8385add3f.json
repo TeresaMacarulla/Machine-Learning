@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_53bda2080d2a53b8385add3f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Loose-less",
+  "setter": "AVYUR",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "fe0852d87cc04f94a16eefce53b249d3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1161r12p1177r12p1215r13p1236r13p1248r13p1269r13p1304r13p1353r13p1385r14p1483r15p1485r15p1489r15p1498r15p1552r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "e3f7f14569c3cfcea555530c2a155d9c184a51240260b7df1c5d4a61d21bbd11",
+  "validation_errors": []
+}

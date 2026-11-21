@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_07424beeff45a16ddb6c13d3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Starting the mower (campus)",
+  "setter": "GaldalfTheSender",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "ef9a00122cd04824bed16d731f183cbd",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1165r12p1218r13p1231r13p1282r13p1331r13p1386r14p1487r12",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 8,
+  "quality_average": 3.0,
+  "hold_fingerprint": "39115e8ffdf9bd2718785acd7fabb27c39d6fb5c04dee40f420cd70bba2b4984",
+  "validation_errors": []
+}

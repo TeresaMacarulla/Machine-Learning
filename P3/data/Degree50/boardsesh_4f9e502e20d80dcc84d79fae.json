@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4f9e502e20d80dcc84d79fae.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "Cut Your Ribbon",
+  "setter": "jameszanoni",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "065E9FBEBB6A41058BDD561299C08910",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1075r15p1156r12p1174r12p1204r13p1257r13p1274r13p1327r13p1340r13p1387r14p1390r13p1481r15p1534r15p1560r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 4,
+  "quality_average": 2.67,
+  "hold_fingerprint": "8f24f19370e38142978bde2f91e0fd49b766e255adbf3f49f8636295c6f2f420",
+  "validation_errors": []
+}

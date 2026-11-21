@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_67552adc8c7e12995f193f94.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "classic boulder technique",
+  "setter": "Deathmian",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "178a93a1-666a-4167-9373-fbb8fb6913c1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1176r12p1230r13p1107r15p1181r12p1250r13p1506r15p1096r15p1300r13p1353r13p1385r14p1391r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.29,
+  "ascensionist_count": 7,
+  "quality_average": 1.86,
+  "hold_fingerprint": "071daf0b8ea702e04200a63534365bff5f4928547aeb6b6605616c90cf11c47d",
+  "validation_errors": []
+}

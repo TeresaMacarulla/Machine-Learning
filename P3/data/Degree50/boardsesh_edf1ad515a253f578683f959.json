@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_edf1ad515a253f578683f959.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Bank Run",
+  "setter": "ChrisCurry",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "E295F9382C9049319DB0F00472B66B6E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1212r12p1213r12p1247r13p1270r13p1271r13p1302r13p1356r13p1391r14p1493r15p1506r15p1513r15p1568r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "bea2d5f4075e2797dd19ba14b1ebaeb633ae320976a9e976c1c343ecea62916b",
+  "validation_errors": []
+}

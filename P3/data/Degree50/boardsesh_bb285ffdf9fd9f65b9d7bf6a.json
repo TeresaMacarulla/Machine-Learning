@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_bb285ffdf9fd9f65b9d7bf6a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "The Hollow Cost",
+  "setter": "joshuabrahams",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "EFF48DB29A4347B4810971A4C496063E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1179r12p1248r13p1264r13p1280r13p1336r13p1392r14p1461r15p1484r15p1492r15p1510r15p1521r15p1542r15p1581r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "9349ce3484443cd4650633ee963574fd60ade289cc8d5aaf291e48340b20d7e8",
+  "validation_errors": []
+}

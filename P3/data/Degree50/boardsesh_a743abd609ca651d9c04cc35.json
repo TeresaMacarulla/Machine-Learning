@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a743abd609ca651d9c04cc35.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "thumb-power",
+  "setter": "climbtrash",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "6EE94A1625074E77AFAC15280F312F83",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1187r12p1216r12p1254r13p1301r13p1322r13p1357r13p1387r14p1471r15p1486r15p1507r15p1531r15p1534r15p1562r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.96,
+  "ascensionist_count": 76,
+  "quality_average": 3.38,
+  "hold_fingerprint": "44a68446943c5879558bcebbe4f910e28e3e42725bd2ffe2fd33ca24a7ab167c",
+  "validation_errors": []
+}

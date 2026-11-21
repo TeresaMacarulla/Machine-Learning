@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d21af472caff165624a4bd8c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "connor\u2019s right hand",
+  "setter": "space_aperols",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "74A53A5E285A46779BE08AE21BEDEE50",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1164r12p1219r13p1266r13p1333r13p1388r14p1495r12p1567r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ce022c6faa6619c5104ce15ddc21c1e3c35c5e7c617ff77687230b7e166a2822",
+  "validation_errors": []
+}

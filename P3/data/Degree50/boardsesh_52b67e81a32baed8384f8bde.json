@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_52b67e81a32baed8384f8bde.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Hold the Door",
+  "setter": "eddiehills",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "9D890B27368B4752945D8CAA6223A047",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1126r12p1178r12p1230r13p1261r13p1283r13p1349r13p1352r13p1388r14p1474r15p1492r15p1503r15p1513r15p1559r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.01,
+  "ascensionist_count": 518,
+  "quality_average": 3.29,
+  "hold_fingerprint": "6c83671bc088b9d2090090fa3655534aa237ee10b25ee4730453cf82376bd30a",
+  "validation_errors": []
+}

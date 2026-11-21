@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7f1a78e5a552e864be622070.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "spot off",
+  "setter": "bradleyheller",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "ED0CD03961154200954F9C89352BFE3A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1133r12p1163r15p1169r12p1234r13p1251r13p1299r13p1336r13p1369r13p1387r14p1452r15",
+  "display_difficulty": 19.0,
+  "difficulty_average": 19.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "73e2d3280d693bc8903fa46732864c5d85c69aa6439e7bcfa3f6642f72f5a4c9",
+  "validation_errors": []
+}

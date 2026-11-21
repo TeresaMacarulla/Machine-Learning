@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_45b7f34e74b8ed286dada21f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Higher step",
+  "setter": "Ds4564561",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6C3DBF39BF114664A6D24864C6D8A777",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1128r12p1163r12p1229r13p1282r13p1283r13p1286r13p1302r13p1322r13p1389r14p1475r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "59d6c1701ea7f269ae7b18030469e9bc8ea08914d487acd7d2f352ed3ff8d724",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cc6fa89e14817b78d7bcf6a8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Can I do the hnours?",
+  "setter": "oj",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "3ccb482d-bd86-4a6c-afca-d649ce09817d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1176r12p1460r15p1164r12p1234r13p1469r15p1498r15p1221r13p1336r13p1366r13p1380r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.5,
+  "ascensionist_count": 3,
+  "quality_average": 5.0,
+  "hold_fingerprint": "a71c4cc0e4acd82d0508dd19aa6562625f53afa360a0a63e9c2f8ef01997b23b",
+  "validation_errors": []
+}

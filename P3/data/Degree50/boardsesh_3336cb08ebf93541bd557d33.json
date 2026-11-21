@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3336cb08ebf93541bd557d33.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "chest out chest in",
+  "setter": "climbcentral",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "BD55FB99CA18424BBEF317D58222F6AA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1077r15p1148r12p1186r12p1216r13p1233r13p1264r13p1318r13p1352r13p1390r14p1521r15p1551r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.8,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "3d55615ecf441d4d01d962fc6b725102e6d914df75ee8bbcb7066573672746ef",
+  "validation_errors": []
+}

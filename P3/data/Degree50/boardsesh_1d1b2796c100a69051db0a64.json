@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1d1b2796c100a69051db0a64.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Catch and release",
+  "setter": "hsyoo",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "52DC1CCE8C4E463DBC4020A3664EB452",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1081r15p1130r12p1164r12p1235r13p1300r13p1350r13p1380r14",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "03afd82c3d4590559dcc8b81cdd7d266e0635e4a289007628d192a8fc0c029c6",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_04cdf9962a82159959332d10.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 13,
+  "grade_raw": "8b/V13",
+  "name": "Buncha Scrunch",
+  "setter": "jwebxl",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "79CCE7397FEA4D7D85BCE479F3E55196",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1135r12p1153r12p1228r13p1285r13p1298r13p1345r13p1380r14p1451r15p1507r15p1508r15p1514r15p1523r13p1550r13",
+  "display_difficulty": 30.0,
+  "difficulty_average": 29.87,
+  "ascensionist_count": 17,
+  "quality_average": 3.4,
+  "hold_fingerprint": "38a5b1134797da735b2f45e6fc64b610067f08c0d711b643d2ee469ab3efead8",
+  "validation_errors": []
+}

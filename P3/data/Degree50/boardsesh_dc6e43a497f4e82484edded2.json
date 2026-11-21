@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dc6e43a497f4e82484edded2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "horrendous dataset",
+  "setter": "thosearentholds",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "8BFE9763378444D8A8DB6598A83FCE21",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1115r12p1162r12p1195r13p1247r13p1302r13p1356r13p1361r14p1455r15p1465r15p1474r15p1483r15p1554r15p1566r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "aba99b64abdda9555b09501ccc9598c49f9cd183caddfb0d50af3268e64eb963",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_aec5e1355d7e9fe6eee97554.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Softzwerg",
+  "setter": "RoWa",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "8AB0F0E46B5346399BC63ADB7984DF8F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1097r15p1143r12p1163r13p1192r12p1231r13p1234r13p1300r13p1315r13p1382r14p1464r15p1538r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 17.99,
+  "ascensionist_count": 115,
+  "quality_average": 3.6939130434782608,
+  "hold_fingerprint": "6b293abc905c94fafdca85dc7327abde361bad2f122e20ef40e355b46136f4db",
+  "validation_errors": []
+}

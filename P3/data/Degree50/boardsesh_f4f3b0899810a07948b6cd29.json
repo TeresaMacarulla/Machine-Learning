@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f4f3b0899810a07948b6cd29.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Soul Cycle",
+  "setter": "trendyrendy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "1d6028e84a89446da122469108326390",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1078r15p1137r15p1185r12p1202r12p1204r15p1234r13p1266r13p1300r13p1331r13p1383r14p1504r15p1506r15p1547r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "2653ff1a13bed2a8f8cb006fdee3168b45f1e91bdc17e193ebd8339f1f26b1e9",
+  "validation_errors": []
+}

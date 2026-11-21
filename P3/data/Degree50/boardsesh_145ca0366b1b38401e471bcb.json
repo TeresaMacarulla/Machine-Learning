@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_145ca0366b1b38401e471bcb.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "banter",
+  "setter": "lachlan",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "05B1099899FD4180A5154659D52AD865",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1120r15p1145r12p1171r15p1185r13p1198r13p1270r13p1272r13p1339r13p1385r14p1389r14p1455r15p1456r15p1461r15p1544r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.94,
+  "ascensionist_count": 19,
+  "quality_average": 3.24,
+  "hold_fingerprint": "d41987211157c07c398e9499770b2504cbcd94f28d82d82970638ed07a9852ff",
+  "validation_errors": []
+}

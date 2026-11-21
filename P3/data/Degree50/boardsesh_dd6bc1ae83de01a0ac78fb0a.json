@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dd6bc1ae83de01a0ac78fb0a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "50\u00b0 Campus #1",
+  "setter": "Tim.F",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "f866a816-5996-4e90-97cc-42ceba5b4b7a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1257r12p1221r12p1308r13p1306r13p1359r13p1390r14p1394r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.17,
+  "ascensionist_count": 8,
+  "quality_average": 2.5,
+  "hold_fingerprint": "77d4cbe0faccc75dd2e9ac2928987656cec57bc71aca0a78781bae0a265b5902",
+  "validation_errors": []
+}

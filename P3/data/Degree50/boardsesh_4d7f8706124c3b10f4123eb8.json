@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4d7f8706124c3b10f4123eb8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Weighted..2",
+  "setter": "ratclaw",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2feb469ca63740a6aaccb4c1b731a782",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1089r15p1160r12p1209r12p1296r13p1297r13p1305r15p1386r14p1512r15p1519r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "a0a71c82c1c545780b8180c758abba3e87f980d1f252d4ba9d53cf149a969b39",
+  "validation_errors": []
+}

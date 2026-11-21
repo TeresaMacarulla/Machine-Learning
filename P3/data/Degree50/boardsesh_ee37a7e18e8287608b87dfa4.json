@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ee37a7e18e8287608b87dfa4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "dissociative",
+  "setter": "Swarm01",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "6086307FCC4747D7AF1C8457068AAE2E",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1145r12p1249r13p1264r13p1304r13p1390r14p1458r15p1505r15p1534r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.8,
+  "ascensionist_count": 5,
+  "quality_average": 3.8,
+  "hold_fingerprint": "956c8a3d965d795c7375e68134517975e515fb5820cc6bb8f9118de1aa31b79f",
+  "validation_errors": []
+}

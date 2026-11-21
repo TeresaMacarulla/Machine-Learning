@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_c4e56e6ea8702b18e01b2bd1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Bulging Disks",
+  "setter": "Welmore",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "73202169-afbd-4b95-9634-1ca40efeffe0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1118r12p1164r13p1168r12p1233r13p1283r13p1270r13p1320r13p1357r14p1513r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.33,
+  "ascensionist_count": 4,
+  "quality_average": 4.67,
+  "hold_fingerprint": "f1ba14dfa8b6ec80fca82b7445930e30171410be547e9d62498c751cf61d072b",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b775b12668c38775eb4edc66.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "tilted 3.0",
+  "setter": "wispo120",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "A4328AB60D5246ACB71A52028D633B95",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1201r12p1253r13p1282r13p1352r13p1384r14p1486r15p1499r15p1507r15p1515r12",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "6fb9e41c8ff0d7a2584d391e7cd08cbcacbc1e4acfa1e8e7c9bfe44535d93888",
+  "validation_errors": []
+}

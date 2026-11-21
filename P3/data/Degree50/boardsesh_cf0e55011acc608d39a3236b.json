@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cf0e55011acc608d39a3236b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "RBG",
+  "setter": "vukyle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "eaa657f014264f27a3a513ea30a1006c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1163r15p1169r12p1201r13p1204r13p1212r15p1249r13p1270r13p1284r13p1289r15p1334r13p1372r13p1389r14p1391r14p1478r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.5,
+  "hold_fingerprint": "c2852413a1239f58316c051b95e09e58944ad0e9a5438f794d0de79561755477",
+  "validation_errors": []
+}

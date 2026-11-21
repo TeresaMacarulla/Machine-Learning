@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f51f2211c4ed4d036e379e36.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "golf simulator 2",
+  "setter": "chimpychampy2",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5933241d-02d2-40e1-8979-6d98c7291488",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1184r12p1131r15p1203r12p1185r15p1288r13p1561r13p1339r13p1395r14p1377r13",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.67,
+  "ascensionist_count": 4,
+  "quality_average": 4.67,
+  "hold_fingerprint": "9d5f94ba29fc81fa6bc5910e892ad40df0f9ceb90ba27f679ce3a8287ed7f2f8",
+  "validation_errors": []
+}

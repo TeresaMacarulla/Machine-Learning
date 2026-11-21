@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ced2a24205967c8ff70b7585.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Aftonroe Training Ground",
+  "setter": "Emazura",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "615eaf8058af4eb88bb02a6fa5f6fe6d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1155r12p1202r13p1219r13p1267r13p1304r13p1322r13p1342r13p1395r14p1451r15p1498r15p1534r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.94,
+  "ascensionist_count": 66,
+  "quality_average": 3.39,
+  "hold_fingerprint": "80f1a6e8ee8228325a5c9ff0df5a09583a279d05c3c2801b7901b9c0571f7d86",
+  "validation_errors": []
+}

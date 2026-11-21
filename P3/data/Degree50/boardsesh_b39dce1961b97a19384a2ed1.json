@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b39dce1961b97a19384a2ed1.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "hammer dropped",
+  "setter": "adamjackuk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "B8DE6C47C6AC49EE956FA6B4CD8C9A39",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1214r15p1269r13p1299r13p1355r13p1384r14p1470r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "1304f23684efde5b36b9683703a4b410a4e329ca13ca777a081fd18add21beec",
+  "validation_errors": []
+}

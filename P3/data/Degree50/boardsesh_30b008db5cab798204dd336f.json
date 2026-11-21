@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_30b008db5cab798204dd336f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Some Simple Climbing",
+  "setter": "xao15",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "725211729D3B44409F8F4C85DB65F372",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1131r12p1162r12p1197r13p1261r13p1283r13p1315r13p1387r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 1,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ea1d7d0d4e4fdd41a4b3b6ef8b806e4ac3b597e5930dc21d5c17d00a63eb6e3a",
+  "validation_errors": []
+}

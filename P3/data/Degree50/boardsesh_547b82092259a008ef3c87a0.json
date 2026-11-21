@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_547b82092259a008ef3c87a0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "jump start swing",
+  "setter": "eliamsigouin",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "D9B86398FF4F463AB813F33C44D6C1CC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1300r13p1302r13p1307r12p1308r12p1315r13p1386r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ea4200a9884c386912674f58f3349dab3d89e4bf8843d8741337a69fd9116d58",
+  "validation_errors": []
+}

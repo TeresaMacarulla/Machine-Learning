@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_03b5c7a56f44d586fcd30a3c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "going right #1",
+  "setter": "LV04",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "95715f3d-7184-4068-83f0-eb88b3d68a8a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1144r12p1468r12p1464r15p1166r13p1198r13p1236r13p1268r13p1355r13p1321r13p1343r13p1395r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 9,
+  "quality_average": 3.75,
+  "hold_fingerprint": "0cad9fb9771d6aa2f106b111273c53ef5d68f72a1413aa2132d4599357f435c5",
+  "validation_errors": []
+}

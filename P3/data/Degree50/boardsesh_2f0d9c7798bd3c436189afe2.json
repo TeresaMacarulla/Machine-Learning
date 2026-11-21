@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2f0d9c7798bd3c436189afe2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "basic throw",
+  "setter": "rogue",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "01968896-aa96-4390-a885-d27dad9b170a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1254r13p1499r15p1283r13p1370r13p1521r15p1390r14p1471r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 4,
+  "quality_average": 5.0,
+  "hold_fingerprint": "52c19bd4bd2b17f54e3f9dbeb0ccd16227d922bf2f2c806236a0795cc5268f61",
+  "validation_errors": []
+}

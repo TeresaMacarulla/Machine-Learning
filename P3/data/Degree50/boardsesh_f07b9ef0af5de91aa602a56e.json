@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f07b9ef0af5de91aa602a56e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b+/V4",
+  "name": "Full power ",
+  "setter": "antb",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "4d94b756-324e-4d97-b12d-504eca7332f3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1257r12p1308r13p1340r13p1392r13p1387r13p1384r14p1383r14",
+  "display_difficulty": 19.0,
+  "difficulty_average": 18.25,
+  "ascensionist_count": 6,
+  "quality_average": 2.5,
+  "hold_fingerprint": "8408fc4ecbe57dd388a49db9d74425b4ca806e7235bcaf199e2696e15b32417b",
+  "validation_errors": []
+}

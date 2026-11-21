@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_49465676cdc9e150adbbe6cd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Deep Fake",
+  "setter": "steil_boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "292752086F144298BBEB36995C4BF1C7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1155r12p1217r13p1235r13p1241r13p1265r13p1334r13p1352r13p1372r13p1391r14p1450r15p1472r15p1479r15p1486r15p1497r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "5bd15ef84a6472302f6216b9a3733266cfd4289ec4b7b20299f6af8a244a0249",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cd79a06e0053d3d4d14f8f14.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "KES",
+  "setter": "jpeaker",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "049090cf78214f28861cb74d5ffe0069",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r15p1204r12p1231r15p1242r12p1273r13p1286r13p1339r13p1375r13p1389r14p1489r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "c1448918d0127d72dda205d570e87ef34ba6c226058a92dc2065675849f03e2a",
+  "validation_errors": []
+}

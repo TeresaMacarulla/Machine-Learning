@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_03062b3bd29858bab7245201.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "minimal 1",
+  "setter": "piglatinguy1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "F660431516AB4BC6A67BD3A5A67367B1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1156r12p1204r13p1258r13p1307r13p1343r13p1393r14p1450r15p1545r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 10,
+  "quality_average": 3.4,
+  "hold_fingerprint": "ca04d37fcf4827a9edb0ebffe25ef51640276e2db24fb0931f75674e400793aa",
+  "validation_errors": []
+}

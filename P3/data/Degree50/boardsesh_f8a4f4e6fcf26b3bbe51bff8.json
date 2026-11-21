@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f8a4f4e6fcf26b3bbe51bff8.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Jogs mode on",
+  "setter": "Adrenaline.Factory",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "DD423290F66C4045985ECD16BD5633F3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1147r12p1171r15p1199r12p1236r13p1237r13p1308r13p1340r13p1357r13p1387r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "90af804e3c8ce4d83c9061ccd80bf0a8f2fa96842ca54b8d5850a22822beb0e0",
+  "validation_errors": []
+}

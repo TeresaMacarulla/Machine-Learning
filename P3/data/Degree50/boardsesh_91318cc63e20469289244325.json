@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_91318cc63e20469289244325.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Training aid",
+  "setter": "oterry",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "EF7C78852BDB4139B78108422287D3B5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1099r12p1102r15p1127r15p1165r12p1217r13p1230r13p1284r13p1339r13p1375r13p1394r14p1567r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "8b1fa79e95053d0141bb62415d47f5424404897076eb89432e5bc400a289d7c9",
+  "validation_errors": []
+}

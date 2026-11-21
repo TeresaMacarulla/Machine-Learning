@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ca17afbf450ea02c96da14f7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "hobbit 0",
+  "setter": "campistron",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "1FF51554CE98444182FE112E10DB20F4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r15p1155r12p1203r13p1325r13p1392r14p1451r15p1506r15p1543r13p1550r13p1553r15p1569r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 6,
+  "quality_average": 2.67,
+  "hold_fingerprint": "89a67a47eaeb7cc29e3d46720bfb6d9d4d2c77f2d21b154a0adb7355d5105286",
+  "validation_errors": []
+}

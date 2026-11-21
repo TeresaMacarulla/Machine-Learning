@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2bf7ccf8439ac0ff939a1e73.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Is that your bottle ?",
+  "setter": "Joegott",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "C1E4EEAC049547CAB258AE26E76D052A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1137r12p1152r12p1187r13p1201r13p1271r13p1303r13p1357r13p1386r14p1456r15p1516r15p1559r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "22d454171419c80da2ed293dec236d959dbbc224b72245f282b9f1f1f8aaa419",
+  "validation_errors": []
+}

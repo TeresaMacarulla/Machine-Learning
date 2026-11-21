@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f835d0f04c87eb2f0161a354.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Hopsicle",
+  "setter": "Bouncy_Baguette",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "2389B4375F2E4179A3C53F2DDF9375A4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1170r15p1183r15p1224r12p1255r12p1268r13p1301r15p1306r13p1353r13p1383r14p1500r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "6d8239bf9036560de40d40e2e0fa62d981af32819ce6fb116bdc8dff4f147e0e",
+  "validation_errors": []
+}

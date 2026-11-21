@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6804b2ece8cea3ec7065eb0d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "I can cry if I want to",
+  "setter": "d.yzzy",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "694033cc2ec340fdb8f8129c367d72a7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1117r15p1150r12p1185r13p1199r13p1232r13p1250r13p1300r13p1338r13p1388r14p1452r15p1479r15p1512r15p1561r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ec00ad389870e736995904b43d0a81cf2cf3bb9dc7bc899836c4430074f87b59",
+  "validation_errors": []
+}

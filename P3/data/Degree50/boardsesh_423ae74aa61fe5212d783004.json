@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_423ae74aa61fe5212d783004.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "flapper",
+  "setter": "helloootheree",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "F91177A648C3487BAC80ABFCAF0C5B6A",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r12p1154r12p1201r13p1234r13p1256r13p1296r13p1300r13p1383r14p1447r15p1453r15p1521r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.93,
+  "ascensionist_count": 344,
+  "quality_average": 3.6580813953488374,
+  "hold_fingerprint": "789fe3b1f708c7786c3d2c627b01d7030d826bbca7c7ba889b748e6517a86610",
+  "validation_errors": []
+}

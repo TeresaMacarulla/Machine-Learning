@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3b6a6182aecde0645243f385.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Van Damme",
+  "setter": "Govert",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "e69c7fa4b86d4515a3a6597a9403c689",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1162r15p1172r15p1217r12p1220r12p1286r13p1299r13p1367r13p1379r14",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "6aeeafb6220b7de26821ef53ca775bf885758494deb02b643c5093ba43df2541",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2d583c19e78c4bc865238202.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "time to jump on the bus",
+  "setter": "joboy707",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "B8725509CF1242F58467C848152DBFF0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1182r12p1183r15p1239r15p1247r12p1284r13p1302r13p1322r13p1373r13p1390r14p1476r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "53b3727b32a97ce1f9da2e34c77818e95a238018e166cc0ee2b440b1de4a7197",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5543485e765551ec1275d2c0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "OUTLET",
+  "setter": "medvis",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "4f65efb5493145b2af4c56b9a8791769",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1096r15p1130r15p1165r12p1168r12p1215r13p1231r13p1249r15p1262r13p1267r15p1300r13p1317r13p1355r13p1385r14p1389r14p1455r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "f7a5005f3a21a973bdc75097845d71bd74ea5e89abdf0e21777964b4db70344d",
+  "validation_errors": []
+}

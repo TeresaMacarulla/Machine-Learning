@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_081cd71252592790493e2c41.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "ghost matcher",
+  "setter": "chalksnorter",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "2C2DB8EACFF64AC7B308BD897830B11B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r15p1204r12p1206r15p1214r15p1242r12p1302r13p1308r13p1385r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "551a49571b95055deb7d4a0b470818b6be246b5c3f6577885cfab232df339a5c",
+  "validation_errors": []
+}

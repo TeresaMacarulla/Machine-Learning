@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_615f6dde834e82fba57cd4e0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "TenosyNo-Crimping",
+  "setter": "calmather",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "91f71766f98c43fbae57151df0c4bb81",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1143r12p1230r13p1246r13p1302r13p1304r13p1340r13p1358r13p1395r14p1461r15p1486r15p1492r15p1534r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c67393c76b36bb226b1f01527127de6ddd8053f1ef364d5e52b646707ed8eaf9",
+  "validation_errors": []
+}

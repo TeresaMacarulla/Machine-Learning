@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_534b21dc91daa72922e99e6a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Operation Phoenix",
+  "setter": "jwilder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "E7AADA96A9584D1096D25EFE17B19FEC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1074r15p1123r12p1191r12p1254r13p1259r13p1305r13p1358r13p1388r14",
+  "display_difficulty": 23.0,
+  "difficulty_average": 22.67,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "c71a4f06c0a0d812d0056ff43dcced38d66a2a1483e8316c0c15a43e6097b0c6",
+  "validation_errors": []
+}

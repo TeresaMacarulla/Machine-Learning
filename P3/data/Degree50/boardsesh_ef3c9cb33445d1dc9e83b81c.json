@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ef3c9cb33445d1dc9e83b81c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Vaccine",
+  "setter": "Wangbang",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "3ad75503b068401984a20289858d30f6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1108r12p1163r12p1198r13p1217r13p1254r13p1304r13p1322r13p1339r13p1387r14p1458r15p1476r15p1497r15p1516r15p1535r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "da301859ed36c927575cb30d6692c40d5f4d4e0c02780bb67cf3457abd3e3736",
+  "validation_errors": []
+}

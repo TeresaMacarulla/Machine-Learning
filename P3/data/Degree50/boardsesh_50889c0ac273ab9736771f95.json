@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_50889c0ac273ab9736771f95.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Hip replacement",
+  "setter": "jakemcneely",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 2,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "619F6C340604447BA63448F505D4E53F",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1184r12p1203r12p1249r13p1317r13p1382r14p1469r15p1507r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.06,
+  "ascensionist_count": 17,
+  "quality_average": 3.59,
+  "hold_fingerprint": "a14df9fa179320ac83c75d092deac331a0cfdca944506f0fd7c0473903b485a2",
+  "validation_errors": []
+}

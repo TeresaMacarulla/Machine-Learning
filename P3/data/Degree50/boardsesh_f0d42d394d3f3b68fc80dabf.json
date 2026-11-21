@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f0d42d394d3f3b68fc80dabf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Outside Assist.",
+  "setter": "KilterStudio",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "DA2ED46060A244EEBD821B084F173754",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1083r15p1146r12p1147r12p1154r15p1201r13p1238r13p1270r13p1340r13p1389r14p1550r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.99,
+  "ascensionist_count": 140,
+  "quality_average": 3.32,
+  "hold_fingerprint": "05fdf7819c2b8569c429f31634385ddc3ad639744e55efd1a99bc0203b643e6d",
+  "validation_errors": []
+}

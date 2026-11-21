@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7dc85505271e05446b18ecb4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Left Eye Astigmatism",
+  "setter": "WeirdoClimbing",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "00A06C264228450290CEC98CAE936BCB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1180r13p1214r13p1266r13p1287r13p1335r13p1384r14p1455r15p1467r15p1487r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 15,
+  "quality_average": 3.2,
+  "hold_fingerprint": "a0c74c5efd3668cc50e787db537a6d6604b0b6ced2c40d34502eb504109d35e5",
+  "validation_errors": []
+}

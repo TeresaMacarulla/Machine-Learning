@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7e486eb8c43cb840cd61dae0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "SKS",
+  "setter": "astrid.a.holand",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 7,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "98A7AECCE2ED4EFAA4C88D67D6827509",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1136r12p1187r13p1216r13p1254r13p1285r13p1320r13p1340r13p1357r13p1395r14p1473r15p1481r15p1490r15p1495r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "eeebeb29daac358a876e5f4a28561b4cc577012088c5ab42dfa33b96a426eaec",
+  "validation_errors": []
+}

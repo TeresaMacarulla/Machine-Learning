@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8d778113b77e0657807886d9.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Engagement 2.0",
+  "setter": "Yoshi3000",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "053577D1C217448288741CC0967F87AE",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1146r15p1175r12p1214r13p1248r13p1285r13p1315r13p1352r13p1383r14p1520r12",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.5,
+  "ascensionist_count": 2,
+  "quality_average": 4.5,
+  "hold_fingerprint": "57ac876d1ccf09fb3fc818f442a5238e50e6b90e9c824022e81db94d208c3dd3",
+  "validation_errors": []
+}

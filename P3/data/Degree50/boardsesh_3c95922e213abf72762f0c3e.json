@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3c95922e213abf72762f0c3e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "biceptual 2",
+  "setter": "Gusto",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "545E1FE1A13E444B8A9F90D14AFECA13",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1076r15p1148r12p1186r12p1191r15p1254r13p1272r13p1318r13p1320r13p1368r13p1383r14p1456r15p1557r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 27.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "98489fdc877646efa4176ab94958a073ed44a14e58c96468ed7a3cdf96c61242",
+  "validation_errors": []
+}

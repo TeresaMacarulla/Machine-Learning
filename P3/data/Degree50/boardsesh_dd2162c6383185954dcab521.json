@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dd2162c6383185954dcab521.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "kabam",
+  "setter": "nino_smets",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "a28d7522e0784b018e98b2ca3817bdbe",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1141r15p1146r15p1178r12p1195r12p1204r15p1270r13p1282r13p1287r13p1325r13p1358r13p1392r14",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b54391d444bf2f90fe89eb571d6da5944834b6e97373f628bb0978f64009f828",
+  "validation_errors": []
+}

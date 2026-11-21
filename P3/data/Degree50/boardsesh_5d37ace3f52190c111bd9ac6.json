@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5d37ace3f52190c111bd9ac6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Rotating Rotators",
+  "setter": "Herbert1",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1188BC68D18440DF81C8B16B3384A1C4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1116r12p1164r12p1185r13p1253r13p1274r13p1324r13p1395r14p1509r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "351e37f7721a518f384303f85c5c60d76959735864fd8210a49a8797556830ab",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_398b8126ef729525ad181702.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "bph05",
+  "setter": "brianharrington",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "E5B162A71DFC4DED8A38413036E4C573",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1140r15p1168r12p1222r13p1238r13p1272r13p1320r13p1358r13p1394r14p1490r12",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.43,
+  "ascensionist_count": 7,
+  "quality_average": 3.0,
+  "hold_fingerprint": "adf49572e46f4f72f3233e63ed950ee763a0f85728eaf69b16f1300d278a072f",
+  "validation_errors": []
+}

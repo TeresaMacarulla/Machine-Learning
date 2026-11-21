@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f18ed1ad7124027867f6ffc2.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "tangina",
+  "setter": "jcbarr",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "142713a1-0238-4eb4-b6a3-4d36b47af00d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1488r15p1169r12p1515r15p1531r15p1239r13p1551r15p1305r13p1320r13p1335r13p1387r14p1079r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.4,
+  "ascensionist_count": 5,
+  "quality_average": 4.4,
+  "hold_fingerprint": "b28d8da57e34d3b6251db08a32fe067780f4a2af69807dc9c6800f9df5a90406",
+  "validation_errors": []
+}

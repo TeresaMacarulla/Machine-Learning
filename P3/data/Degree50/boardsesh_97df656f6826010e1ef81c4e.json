@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_97df656f6826010e1ef81c4e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Visual Distortion ",
+  "setter": "Maxmeixenn",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0c47a3cd-5471-4218-b8bb-a3428938c7e9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1191r12p1240r12p1482r15p1276r13p1527r15p1322r13p1357r13p1385r14",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "160176054f07cd7955a1c63376a8a8fe19de0410ea88366064dcda5e1414dd7c",
+  "validation_errors": []
+}

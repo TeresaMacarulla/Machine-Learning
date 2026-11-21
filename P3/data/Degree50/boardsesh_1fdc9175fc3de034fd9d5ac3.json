@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1fdc9175fc3de034fd9d5ac3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Oskar sine st\u00e5lskulder",
+  "setter": "Robin__climbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "F4A68430D2CB4F03A390B2C934B33CAA",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1109r12p1163r12p1199r13p1253r13p1265r15p1286r13p1340r13p1388r14p1458r15p1475r15p1542r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.05,
+  "ascensionist_count": 20,
+  "quality_average": 3.4200000000000004,
+  "hold_fingerprint": "93f1fa8777c22bef97dd74012cab7628bdd0377eb26daf7f8a918ca62f18b733",
+  "validation_errors": []
+}

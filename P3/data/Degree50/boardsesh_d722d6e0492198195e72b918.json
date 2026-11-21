@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d722d6e0492198195e72b918.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "wapchop",
+  "setter": "Stanish",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0B97BE14E7EE4AC99207CF9E134FDC14",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1217r13p1285r13p1314r13p1365r13p1379r14p1480r15p1543r13p1555r15",
+  "display_difficulty": 28.0,
+  "difficulty_average": 27.97,
+  "ascensionist_count": 76,
+  "quality_average": 3.4800000000000004,
+  "hold_fingerprint": "2ecff5f3f0c1e9761068f3341e9b8a5bf2b11c3673554ad6852b12ce6b1f7fd0",
+  "validation_errors": []
+}

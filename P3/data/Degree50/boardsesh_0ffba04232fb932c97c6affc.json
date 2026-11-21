@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0ffba04232fb932c97c6affc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "Footface",
+  "setter": "Floete",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 8,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0f25a8b9737b426cb3a1667bb3a68312",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1094r15p1143r12p1182r13p1199r13p1205r15p1254r13p1255r13p1258r13p1325r13p1344r13p1375r13p1387r14p1486r15p1545r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.93,
+  "ascensionist_count": 15,
+  "quality_average": 3.67,
+  "hold_fingerprint": "976edbde1f88a87d155c140f2c8575b8197ffac4250bd064989fa994fd3900af",
+  "validation_errors": []
+}

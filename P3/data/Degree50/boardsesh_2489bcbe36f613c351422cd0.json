@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2489bcbe36f613c351422cd0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Keyboard Piano ",
+  "setter": "MuR0",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "4af68e87-eb60-4eff-addc-d2e836561b30",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1164r12p1476r15p1470r15p1253r13p1506r15p1508r15p1534r15p1282r13p1304r13p1338r13p1359r14p1201r12",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "63b2fe82aef67976d68b6098b5315c0eee82f6902ab3dc02a13c9d65189ca0ea",
+  "validation_errors": []
+}

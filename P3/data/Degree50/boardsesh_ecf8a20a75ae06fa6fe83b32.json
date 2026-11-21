@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_ecf8a20a75ae06fa6fe83b32.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Morty Jr (eliminate)",
+  "setter": "lcprdc",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "8bdbf1f4c7f94472a079332057b27a9b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1085r15p1145r12p1214r13p1248r13p1303r13p1334r13p1386r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "e497ca0e3b3561a3848ddb4b6cc68b7e12ac0721f5e46dcd24553de71d658ebd",
+  "validation_errors": []
+}

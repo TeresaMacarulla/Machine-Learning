@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2b50f98c51c8f178a89b7e7c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "mix & match",
+  "setter": "jeanclaude",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "0b6af9f014a54abd85caba2f8cc084b3",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1177r12p1249r12p1300r13p1340r13p1343r13p1354r13p1395r14p1484r15p1486r15p1530r15p1561r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 24.96,
+  "ascensionist_count": 124,
+  "quality_average": 3.32,
+  "hold_fingerprint": "9404bf10f5119c3716785521f602e8d61c06d77cb8f4eee5197b77920f1cff17",
+  "validation_errors": []
+}

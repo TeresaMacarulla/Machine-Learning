@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_343f5373e9fd307e6733a140.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "outdoor vb",
+  "setter": "xeniahealey",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 5,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "829FC009CF0B418D901C96A752E266CC",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1195r15p1245r12p1274r15p1279r13p1315r13p1317r13p1353r13p1355r13p1373r14p1391r14p1502r15p1503r15p1559r15p1562r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 7,
+  "quality_average": 3.57,
+  "hold_fingerprint": "f36a2ac6523ccb65c387a95185c737ab83a6f354798fe154c070ea99a08b2590",
+  "validation_errors": []
+}

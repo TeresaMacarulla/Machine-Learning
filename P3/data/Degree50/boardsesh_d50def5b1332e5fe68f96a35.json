@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d50def5b1332e5fe68f96a35.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "VCBDAY4",
+  "setter": "Dylan_hewins",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "119EF38BC364423E89AD69764069A9DF",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1090r15p1144r15p1145r15p1183r15p1192r12p1210r12p1231r15p1246r13p1281r13p1300r13p1331r13p1347r13p1379r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "2153fe6db07990a2f4f77db31266090401756371222ed5cab12fc20c7f789647",
+  "validation_errors": []
+}

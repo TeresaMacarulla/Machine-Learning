@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4c96cbbf1be43921fbbd8f1f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "stairway to right",
+  "setter": "Sasse",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 11,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "687555907e724c6cad284dda1da54a58",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1192r12p1226r13p1243r13p1246r13p1260r13p1280r13p1281r13p1297r13p1300r13p1302r13p1319r13p1353r13p1387r14p1483r15p1484r15p1503r15p1540r15p1541r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 3.0,
+  "hold_fingerprint": "ca23912b724dacebf93e1c4d6ce14f4867e1514062b3793ddeffdaae01f36a18",
+  "validation_errors": []
+}

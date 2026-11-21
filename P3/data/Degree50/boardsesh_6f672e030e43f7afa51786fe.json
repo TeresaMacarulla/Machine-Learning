@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6f672e030e43f7afa51786fe.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "yaraza",
+  "setter": "samuelguerrero",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "D62E67B84CDE46CA9513F0DCA6DD3237",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r12p1237r13p1248r13p1262r13p1264r13p1351r13p1387r14p1453r15p1498r15p1503r15p1520r15p1521r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.5,
+  "hold_fingerprint": "973b58f6e784e1e71cbfd141e366ecde1b23052041a3150f3f712bcd7fa8da96",
+  "validation_errors": []
+}

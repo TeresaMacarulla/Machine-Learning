@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_96ca64ccf17c9517a49133ca.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "Shoulder Busters",
+  "setter": "boardfix",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "e47e2e6a-4fd2-40ca-9cd5-ecd057c8c833",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r12p1169r12p1453r15p1200r13p1236r13p1302r13p1340r13p1214r15p1131r15p1567r15p1100r15p1371r13p1387r14p1385r14",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 3,
+  "quality_average": 2.0,
+  "hold_fingerprint": "8fe3dc53d1805c080f43a1fdc5604db91ad5d77eebd393004cc94daf3d3f8bb9",
+  "validation_errors": []
+}

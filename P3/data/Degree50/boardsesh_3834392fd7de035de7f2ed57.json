@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3834392fd7de035de7f2ed57.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "ichigeki",
+  "setter": "leemiho",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "F20CB76ECFBE410796DF5311E4FD20B7",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1143r14p1163r15p1168r15p1179r13p1213r13p1242r15p1250r13p1257r12p1268r13p1272r13p1305r13p1308r12p1462r15p1484r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 2,
+  "quality_average": 5.0,
+  "hold_fingerprint": "7a6775cb5f737004eeaf02ffba0172ba534e4b1bb8593451f41c20fedc95d370",
+  "validation_errors": []
+}

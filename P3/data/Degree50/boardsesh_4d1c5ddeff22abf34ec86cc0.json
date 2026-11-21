@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4d1c5ddeff22abf34ec86cc0.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 10,
+  "grade_raw": "7c+/V10",
+  "name": "CUT IT.",
+  "setter": "joejoonkim",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "e24bbcc2072a4e02bbdc7b98b6c639c5",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1080r15p1082r15p1083r15p1149r12p1216r13p1287r13p1320r13p1390r14p1534r15p1541r15",
+  "display_difficulty": 27.0,
+  "difficulty_average": 26.91,
+  "ascensionist_count": 2612,
+  "quality_average": 3.3506326687116568,
+  "hold_fingerprint": "326f39cf19410ed3dc5a6d4777c0a6577909642f593d18d489e9f947598fb0f5",
+  "validation_errors": []
+}

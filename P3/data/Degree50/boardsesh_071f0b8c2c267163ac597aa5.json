@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_071f0b8c2c267163ac597aa5.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "downgrade",
+  "setter": "lukas202",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8c0ed2cc823640008fa5752b5d25851d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1153r13p1166r13p1186r13p1207r12p1230r13p1249r13p1258r12p1296r13p1347r14p1450r15p1480r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4b61b7136d36c0d44b60a193b6509b6d57c84536c4eacaf4ab9b2a772227bb1d",
+  "validation_errors": []
+}

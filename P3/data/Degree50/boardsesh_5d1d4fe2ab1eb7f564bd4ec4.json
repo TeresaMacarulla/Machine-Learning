@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_5d1d4fe2ab1eb7f564bd4ec4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "wachtmuziek",
+  "setter": "jabby",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "3a15b7c0126f40c6bb18bbe23419c6e6",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1285r13p1354r13p1366r13p1380r14p1452r15p1504r15p1515r12p1523r12p1543r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 2,
+  "quality_average": 4.0,
+  "hold_fingerprint": "d21559c3ff739893acb6d84383368be54500f5022479f260675642521c497e68",
+  "validation_errors": []
+}

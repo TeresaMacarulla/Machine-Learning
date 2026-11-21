@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_d5819917a11ff48aa206ffd3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b+/V8",
+  "name": "Pathguiding",
+  "setter": "Fixxe",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "6f595b6cc423427eb05f1568a8017831",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1100r15p1203r12p1273r13p1287r13p1335r13p1338r13p1348r13p1352r13p1381r14p1517r15p1525r12p1551r15p1558r15",
+  "display_difficulty": 25.0,
+  "difficulty_average": 25.07,
+  "ascensionist_count": 15,
+  "quality_average": 3.57,
+  "hold_fingerprint": "f743d03ac7fcf2ba44f428e6a436e854988c440b5ae05463af9f700886f75c61",
+  "validation_errors": []
+}

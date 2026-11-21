@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6cc9b4fdef6843c5b7652130.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "how do you start this?",
+  "setter": "jakeclimbs",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "E5217288C3CA4F2E91F53588D4776A94",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1114r12p1130r15p1163r12p1247r13p1302r13p1339r13p1371r13p1393r14p1395r14p1523r13",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.4,
+  "hold_fingerprint": "31ed279362f4925f4acdf009cb61e3f2984c649af030acbbbf6a639e7a787415",
+  "validation_errors": []
+}

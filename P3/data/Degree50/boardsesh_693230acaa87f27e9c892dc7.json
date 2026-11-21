@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_693230acaa87f27e9c892dc7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "For Sweetie",
+  "setter": "terb_board",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 7
+  },
+  "source": "boardsesh",
+  "source_uuid": "97DE98BCAD6246B28BE6499DD9E646C1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1080r15p1082r15p1149r12p1200r13p1219r13p1253r13p1289r13p1321r13p1355r13p1387r14p1487r15p1498r15p1507r15p1516r15p1567r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.02,
+  "ascensionist_count": 156,
+  "quality_average": 3.37,
+  "hold_fingerprint": "4ad58baa814fcba558a4390f18998f3276e43d36ba44934c744cfa79f0f40814",
+  "validation_errors": []
+}

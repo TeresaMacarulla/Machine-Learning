@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1bf97063aa23717d34fbafc3.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Finger Rehab #2",
+  "setter": "Ullie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "4056a3df-a82f-4aef-aea8-e9a24cb9bab1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1200r12p1199r12p1231r13p1267r13p1317r13p1351r13p1382r14p1096r15p1131r15p1163r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.2,
+  "ascensionist_count": 63,
+  "quality_average": 3.49,
+  "hold_fingerprint": "06b3211fbc4e6b89a3105b71686bb73776a524203a9257060317eba91579aea6",
+  "validation_errors": []
+}

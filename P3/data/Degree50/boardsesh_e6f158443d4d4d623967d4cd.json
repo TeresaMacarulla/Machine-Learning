@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e6f158443d4d4d623967d4cd.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Howdy Doody",
+  "setter": "scro",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "47824B728AF242CEA01BB905582AD804",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1101r15p1115r12p1147r12p1250r13p1264r13p1329r13p1351r13p1379r14p1485r15p1511r15p1512r15p1575r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 25.97,
+  "ascensionist_count": 119,
+  "quality_average": 3.3299999999999996,
+  "hold_fingerprint": "ed953d11be12de60edc0fb91c4d62ddfea3b3d92a497734134fdbaf34e7ccd5d",
+  "validation_errors": []
+}

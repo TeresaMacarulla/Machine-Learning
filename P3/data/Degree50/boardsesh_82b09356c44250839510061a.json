@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_82b09356c44250839510061a.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a+/V3",
+  "name": "move-y groovy",
+  "setter": "miriamborgstrom",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 1,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1AB36EB629704422BC4E8A3F4020FC38",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1264r14p1269r15p1280r15p1333r13p1353r14p1358r12p1391r12p1561r15",
+  "display_difficulty": 17.0,
+  "difficulty_average": 17.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "67fcf7930094a9cdf45ba30c479841ce00cdc9130ca2541053d336227e399b1b",
+  "validation_errors": []
+}

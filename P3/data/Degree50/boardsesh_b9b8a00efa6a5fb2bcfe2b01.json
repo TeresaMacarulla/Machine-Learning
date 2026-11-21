@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b9b8a00efa6a5fb2bcfe2b01.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "NuVu",
+  "setter": "bkbskilterboard",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 9,
+    "foot": 13
+  },
+  "source": "boardsesh",
+  "source_uuid": "00007DA715CE4E7DBF60928D240CE7F2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1084r15p1086r15p1110r12p1146r12p1161r13p1197r13p1216r13p1231r13p1249r13p1268r13p1281r13p1318r13p1333r13p1351r14p1476r15p1484r15p1487r15p1504r15p1505r15p1522r15p1530r15p1541r15p1548r15p1567r15p1576r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "365cad44fc2f20d9bb4abec3e0f7c84b9a7f97df23cb19a52e59eeab4e5d861e",
+  "validation_errors": []
+}

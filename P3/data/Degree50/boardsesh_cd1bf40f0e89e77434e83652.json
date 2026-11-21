@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cd1bf40f0e89e77434e83652.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "Real 8A",
+  "setter": "Fraizen",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "265ace89-fc27-4289-8d96-900494631aa9",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1386r14p1593r13p1364r13p1284r13p1281r13p1185r12p1543r12p1499r15p1479r15p1253r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "ba1158678acfea245baeb0ee754b664497435e6be94945a08e2f209dab50feb9",
+  "validation_errors": []
+}

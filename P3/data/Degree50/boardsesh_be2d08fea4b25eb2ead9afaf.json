@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_be2d08fea4b25eb2ead9afaf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "Shelter Lite",
+  "setter": "Senor_Taco",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "1fe506556be24ac4bd0940c621f4ea10",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1083r15p1214r12p1282r13p1314r13p1370r13p1388r14p1522r12p1524r15p1529r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.0,
+  "ascensionist_count": 4,
+  "quality_average": 3.0,
+  "hold_fingerprint": "f83be419d8161f6902d68ed9454c92d59557b555c38079b2da4554ced52eb473",
+  "validation_errors": []
+}

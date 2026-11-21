@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_4e80f4f0107bd0c167c7aee6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Left hand dim sum",
+  "setter": "vukyle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "bb4e62a2fc4e4975a4c25ac69c740b4a",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1110r15p1163r12p1171r15p1180r12p1215r13p1254r13p1271r13p1307r13p1354r13p1355r13p1383r14p1461r15p1549r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 2390,
+  "quality_average": 3.26,
+  "hold_fingerprint": "acf52370535ed8abd77252d3821d1168cb0c25387ce87acc674e8173b588688a",
+  "validation_errors": []
+}

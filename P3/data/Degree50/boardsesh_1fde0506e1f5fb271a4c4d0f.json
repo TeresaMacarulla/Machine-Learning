@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_1fde0506e1f5fb271a4c4d0f.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "right toad",
+  "setter": "mondragon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "B863AF6190DD460BAE3065626985C6D2",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r15p1168r12p1183r12p1242r15p1252r13p1269r13p1307r13p1324r13p1375r13p1390r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.95,
+  "ascensionist_count": 19,
+  "quality_average": 3.16,
+  "hold_fingerprint": "c30f7ae1198bc7cd73b8a35fc397357a7a4bea0ccf499e8f5c0b0ed58dbd6482",
+  "validation_errors": []
+}

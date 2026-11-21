@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_2f40c32e8d9a2bbb789808a4.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "foot crack #2",
+  "setter": "EliHook",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 0
+  },
+  "source": "boardsesh",
+  "source_uuid": "ac4e63844e314efbaf9b5c59b04ffaa8",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1142r12p1209r13p1226r13p1278r13p1296r13p1346r13p1363r13p1379r14p1511r12p1546r13",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "29c6829475b4edc0089c57a65a61ab43196b9ff60f45ea153332500a9a377e85",
+  "validation_errors": []
+}

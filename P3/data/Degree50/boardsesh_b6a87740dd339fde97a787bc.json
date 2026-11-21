@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b6a87740dd339fde97a787bc.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "high crossover",
+  "setter": "maxhaw",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "4B07C67EE5BE489B9AAFBC30BCEDFF8B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1156r15p1250r15p1257r12p1258r12p1278r15p1309r13p1341r13p1352r13p1355r13p1367r14p1515r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 1,
+  "quality_average": 3.0,
+  "hold_fingerprint": "33ac2d9ee5b26eba55cf2e6f9f78053a846f36ad0df9dcd7b0c9c05f5b3ef876",
+  "validation_errors": []
+}

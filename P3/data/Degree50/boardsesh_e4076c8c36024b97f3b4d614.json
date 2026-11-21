@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e4076c8c36024b97f3b4d614.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "flowery jumps",
+  "setter": "genie",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "D60699CBEA7F430BA0A31035253D1B51",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1088r15p1101r15p1149r13p1161r12p1203r15p1234r13p1288r13p1353r13p1388r14p1457r15p1526r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "33a31aecd8c1fe3d37c4f7b64f3a9f91ced195d0605262c75976914c353a707b",
+  "validation_errors": []
+}

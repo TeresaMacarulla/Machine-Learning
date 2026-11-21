@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_3b77148dec2271716444a12d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "ggfd",
+  "setter": "mani",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "1a1a84e1-d21d-4396-b44d-4e8d7a34dfce",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1216r13p1357r13p1340r13p1395r14p1257r15p1198r12p1163r12p1144r15p1302r13p1266r13",
+  "display_difficulty": 24.0,
+  "difficulty_average": 23.6,
+  "ascensionist_count": 7,
+  "quality_average": 3.6,
+  "hold_fingerprint": "c8e130575e73a78515f2530a9f21cea9c9c2617b5efaa3d0d237919c039da6d5",
+  "validation_errors": []
+}

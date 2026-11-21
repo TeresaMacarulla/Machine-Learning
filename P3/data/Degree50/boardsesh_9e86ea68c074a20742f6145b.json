@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9e86ea68c074a20742f6145b.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "crab carcass",
+  "setter": "harrisonlikewhat",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "9CBDA10E0DB942BFBE1F8F2507BA7D65",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1183r15p1204r12p1239r13p1242r15p1288r13p1334r13p1335r15p1338r13p1369r13p1381r14p1515r15p1536r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 40,
+  "quality_average": 3.46,
+  "hold_fingerprint": "24bff8daacc118887f13c86eb24d83b386790bc6185b6c2fdb8163574d0455dd",
+  "validation_errors": []
+}

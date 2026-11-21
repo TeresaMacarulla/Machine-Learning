@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b3147172fd96f38f786a4157.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Hospital Flick",
+  "setter": "DanielC",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 3,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "0f39d971-c5fa-451d-bca2-306d01afb8e4",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1217r12p1231r12p1152r15p1300r13p1296r13p1330r13p1192r15p1381r14",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.0,
+  "hold_fingerprint": "eafe8ccbcf127d092191f2c364d42917c1e5f2c067ba740c4b606cfc35f8e241",
+  "validation_errors": []
+}

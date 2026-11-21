@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a8735201f487545e2bfd9d80.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Simple bouldering!",
+  "setter": "wu0o0",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 1,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "50D37EC791834F5DB59A150990360E32",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1131r15p1166r12p1198r12p1231r15p1234r15p1302r13p1387r14p1468r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "d0eb60f32ad87831b90b3c662d448c20a125f76f4d4870139ed7d49ee10efa80",
+  "validation_errors": []
+}

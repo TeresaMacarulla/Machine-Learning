@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b6806999524dc34ae0fd325e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "super tormenta",
+  "setter": "lfascensao",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 6
+  },
+  "source": "boardsesh",
+  "source_uuid": "d3c09f890a804e43992e7f71fd626980",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1220r12p1236r12p1264r13p1265r13p1313r13p1365r13p1379r14p1478r15p1487r15p1503r15p1504r15p1520r15p1555r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7efb80effffa3bb2c2a73d156461132d595ca025aa236f62a597a618bea0eaf2",
+  "validation_errors": []
+}

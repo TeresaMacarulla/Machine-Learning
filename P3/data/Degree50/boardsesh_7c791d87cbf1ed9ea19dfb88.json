@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7c791d87cbf1ed9ea19dfb88.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "Deep Thoughts",
+  "setter": "nlun",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 2,
+    "hand": 6,
+    "foot": 1
+  },
+  "source": "boardsesh",
+  "source_uuid": "9e1e935e4e854f13a83304e26641355f",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1114r12p1144r12p1180r13p1215r13p1251r13p1302r13p1340r13p1341r13p1394r14p1395r14p1462r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "1510c50890cc1abe55445864eeb91e77e98207ded4ce6ed41bf97e479edd29a6",
+  "validation_errors": []
+}

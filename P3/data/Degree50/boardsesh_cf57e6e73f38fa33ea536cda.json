@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_cf57e6e73f38fa33ea536cda.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Flitwick\u2019s Bane",
+  "setter": "GirthQuake",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "BC9933AD1F714829AD448E0B0696C85B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1142r15p1199r13p1203r15p1230r13p1287r13p1353r14p1455r15p1458r15p1495r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "7c58beb5f78d206bad68deda8dd45442b5a15d6dff77d9a85d2f1172862d205e",
+  "validation_errors": []
+}

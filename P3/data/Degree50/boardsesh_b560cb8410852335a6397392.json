@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b560cb8410852335a6397392.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "NTR",
+  "setter": "IsaacSA",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 10
+  },
+  "source": "boardsesh",
+  "source_uuid": "fa329fae4ff040e6bab7854242a293c0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1166r12p1186r12p1237r13p1275r13p1340r13p1356r13p1383r14p1386r13p1451r15p1452r15p1456r15p1498r15p1525r15p1535r15p1561r15p1567r15p1577r15p1583r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 1,
+  "quality_average": 5.0,
+  "hold_fingerprint": "4075e600df91368f695387f79370b8f1340f345bc6fdb2dba9a9620eba3d48fc",
+  "validation_errors": []
+}

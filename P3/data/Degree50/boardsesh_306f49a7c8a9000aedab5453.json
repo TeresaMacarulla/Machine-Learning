@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_306f49a7c8a9000aedab5453.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Shoney\u2019s",
+  "setter": "jwilder",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "E7B22A85589D417E9BDCF2A6751721FB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1079r15p1132r12p1137r15p1153r12p1181r15p1235r13p1254r13p1268r13p1298r13p1369r13p1382r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.05,
+  "ascensionist_count": 57,
+  "quality_average": 3.25,
+  "hold_fingerprint": "78b36c09b4144a274226969ecc72e574af0505a3d4487646ea176d4c364957c9",
+  "validation_errors": []
+}

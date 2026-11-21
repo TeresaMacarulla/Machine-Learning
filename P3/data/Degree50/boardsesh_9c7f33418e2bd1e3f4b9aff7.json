@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_9c7f33418e2bd1e3f4b9aff7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "Operation Walk\u00fcre",
+  "setter": "yellow_beta",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "5A8E235465D04DECBCC866DA27B3A98B",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1106r15p1153r12p1203r12p1258r13p1270r13p1303r13p1315r13p1383r14p1546r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.04,
+  "ascensionist_count": 27,
+  "quality_average": 3.3700000000000006,
+  "hold_fingerprint": "b60f38f6f798f45537139eb7df80889dfb28014421e09bc73a7404199b86d14a",
+  "validation_errors": []
+}

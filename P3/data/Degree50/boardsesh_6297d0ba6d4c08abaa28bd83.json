@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6297d0ba6d4c08abaa28bd83.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Fathom This",
+  "setter": "daxxta",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 3,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "c5fe43bdfe3c41e78b10a35089af791c",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1204r15p1234r13p1283r13p1304r13p1391r14p1455r15p1458r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 6,
+  "quality_average": 2.0,
+  "hold_fingerprint": "bdf5e38d58d6571fc93f2de30f8b344d6c564f267e3f5c4ec96712f00ab48eac",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a4290d2e38e49e664c8d3698.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "schultern auf lock",
+  "setter": "boulderhannes",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "8DE657CBB4BF426B96159C1D3B6F6A5D",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1073r15p1139r12p1169r12p1204r13p1236r13p1272r13p1302r13p1347r13p1350r13p1379r14p1542r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.0,
+  "ascensionist_count": 5,
+  "quality_average": 2.6,
+  "hold_fingerprint": "3ca3e43a972addc60dd19744b2c6b3a3c1c8e6742a725b75d46acaad56815d87",
+  "validation_errors": []
+}

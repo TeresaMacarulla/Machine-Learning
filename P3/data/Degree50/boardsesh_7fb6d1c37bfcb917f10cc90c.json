@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_7fb6d1c37bfcb917f10cc90c.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c+/V5",
+  "name": "lightsout",
+  "setter": "OneArmPullUp",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 7,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "288A35D911C242D18541B293241B6749",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1150r15p1163r12p1165r12p1216r13p1230r13p1282r13p1302r13p1306r13p1308r13p1394r13p1395r14p1457r15p1526r15",
+  "display_difficulty": 21.0,
+  "difficulty_average": 21.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "592bb9914c67e770482718bb09219f7bf85a9a4668ab14bea4f1bf516b585946",
+  "validation_errors": []
+}

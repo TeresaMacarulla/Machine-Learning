@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_183efc26eebd594112848707.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Katzenboxen",
+  "setter": "Haumdaucha",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "53708b8cf6a948d9ad6327540102a7ea",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1160r15p1164r12p1198r12p1252r13p1302r13p1334r13p1347r13p1379r14p1468r15p1523r15p1555r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 21.94,
+  "ascensionist_count": 85,
+  "quality_average": 3.44,
+  "hold_fingerprint": "73e950236c22eafbeda6e128a7c0f3e3526f3b33031e3a4f9222fd897e34c4f3",
+  "validation_errors": []
+}

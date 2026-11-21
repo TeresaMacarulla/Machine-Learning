@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_6d68769dc1e9ab994a2b80a6.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Mr.morale",
+  "setter": "tmitchell",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "285029C5DC9A46788608FE9B47FA5253",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1224r12p1241r12p1288r13p1302r13p1316r13p1332r13p1345r13p1379r14p1500r15p1518r15p1546r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 5,
+  "quality_average": 3.0,
+  "hold_fingerprint": "250061afc2d8d952bfe9a187f53ce8a718f8cdbb8ccab5e89ec9469bad9e3253",
+  "validation_errors": []
+}

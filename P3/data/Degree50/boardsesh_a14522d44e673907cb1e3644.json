@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a14522d44e673907cb1e3644.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Techo de Aquiles parte 1",
+  "setter": "andreslunab_",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "03e7328d-1b74-4205-96c4-d26cd095fa46",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1133r15p1149r12p1163r15p1217r13p1221r13p1304r13p1372r13p1392r14p1456r15p1489r15p1526r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 3,
+  "quality_average": 3.67,
+  "hold_fingerprint": "46dfc4123ffaa92f2618a100143abe9faa52d762ef0b62ccf6210860f92fa268",
+  "validation_errors": []
+}

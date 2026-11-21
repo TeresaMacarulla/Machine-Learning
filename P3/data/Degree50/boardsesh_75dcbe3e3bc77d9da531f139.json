@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_75dcbe3e3bc77d9da531f139.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "NSAIDs",
+  "setter": "KENtyobi",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "0E70559E07B2466682C3C340A768B87C",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1130r12p1147r12p1197r13p1244r13p1271r15p1297r13p1335r13p1388r14p1455r15p1520r13p1541r15",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 2,
+  "quality_average": 2.5,
+  "hold_fingerprint": "850c2438e4962942d9da6b440bf31a87b8a04fe0cd5a05ef5f188a1ca7e3e06f",
+  "validation_errors": []
+}

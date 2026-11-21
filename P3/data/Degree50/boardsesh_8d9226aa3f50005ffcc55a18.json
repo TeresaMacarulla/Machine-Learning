@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_8d9226aa3f50005ffcc55a18.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 6,
+  "grade_raw": "7a/V6",
+  "name": "Monsieur Claude",
+  "setter": "paulk",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 2,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "eda3416bd614430297e8873a7e049e6b",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1146r12p1183r15p1201r13p1270r13p1338r13p1351r13p1383r14p1459r15p1553r15p1591r14",
+  "display_difficulty": 22.0,
+  "difficulty_average": 22.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "38abc82d7e77aed0e3e591a8b948469dbaa49c1f4ed241e918de3b6b952e80d9",
+  "validation_errors": []
+}

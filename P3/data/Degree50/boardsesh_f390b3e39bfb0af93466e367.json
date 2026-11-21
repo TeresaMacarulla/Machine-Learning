@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_f390b3e39bfb0af93466e367.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 5,
+  "grade_raw": "6c/V5",
+  "name": "Scooby Doo",
+  "setter": "RockWonner10",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 4,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "c1140dca519442128109f5c8aa7897f0",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1150r15p1200r13p1236r13p1302r13p1351r13p1382r14p1456r15p1541r15",
+  "display_difficulty": 20.0,
+  "difficulty_average": 20.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "c3d642685b527a317477960d8ec7fabb02a3c5985ed3c163ff11af36f6e10bd4",
+  "validation_errors": []
+}

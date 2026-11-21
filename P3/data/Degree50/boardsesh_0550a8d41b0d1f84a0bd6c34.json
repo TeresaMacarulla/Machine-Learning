@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_0550a8d41b0d1f84a0bd6c34.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 11,
+  "grade_raw": "8a/V11",
+  "name": "ultrakunst",
+  "setter": "derwelt",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "b6153dcbcc12452e8eee3d73135e3c7d",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1112r12p1124r12p1196r13p1235r13p1320r13p1325r13p1395r14p1462r15p1468r15p1504r15p1526r15p1541r13",
+  "display_difficulty": 28.0,
+  "difficulty_average": 28.0,
+  "ascensionist_count": 4,
+  "quality_average": 4.0,
+  "hold_fingerprint": "934b1ab9ec2a57175d93f47853e01e23dd762be7ffa3bb0dcafb93645c985de2",
+  "validation_errors": []
+}

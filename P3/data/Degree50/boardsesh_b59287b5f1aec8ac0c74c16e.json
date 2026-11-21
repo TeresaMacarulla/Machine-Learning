@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_b59287b5f1aec8ac0c74c16e.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 12,
+  "grade_raw": "8a+/V12",
+  "name": "Damenbecken",
+  "setter": "jorx",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 5,
+    "foot": 2
+  },
+  "source": "boardsesh",
+  "source_uuid": "6d3f97aa3a3c47acba7af5d2a1de2e31",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1101r12p1201r12p1273r13p1318r13p1322r13p1352r13p1383r14p1453r15p1518r15p1578r13",
+  "display_difficulty": 29.0,
+  "difficulty_average": 29.0,
+  "ascensionist_count": 4,
+  "quality_average": 5.0,
+  "hold_fingerprint": "fede45e17d57294d4307613497122ac80bce31515a4dface58db3d4fd6c5338b",
+  "validation_errors": []
+}

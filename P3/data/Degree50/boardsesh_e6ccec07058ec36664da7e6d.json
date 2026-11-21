@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_e6ccec07058ec36664da7e6d.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 7,
+  "grade_raw": "7a+/V7",
+  "name": "did you eat your greens?",
+  "setter": "tannerlemmon",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 2,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "FECA0BBF4E2E41B6A20B6FBA8AD3A662",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1132r12p1173r15p1219r13p1232r15p1302r13p1386r14p1391r15p1454r15",
+  "display_difficulty": 23.0,
+  "difficulty_average": 23.25,
+  "ascensionist_count": 4,
+  "quality_average": 2.75,
+  "hold_fingerprint": "bc5e3e8841aa594da6dc789319eb0f0e45eb763da58ace138baf53172435e5bb",
+  "validation_errors": []
+}

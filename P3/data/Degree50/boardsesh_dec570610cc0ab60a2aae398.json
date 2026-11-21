@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_dec570610cc0ab60a2aae398.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 4,
+  "grade_raw": "6b/V4",
+  "name": "#C7C 5",
+  "setter": "climbcentral",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 5,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "DB559930DB2F4B5FB249208184CB6D18",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1149r12p1163r15p1168r15p1198r13p1203r15p1220r15p1234r13p1284r13p1304r13p1336r13p1387r14p1456r15",
+  "display_difficulty": 18.0,
+  "difficulty_average": 18.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "b736ee700cc794f49dd6df007b12be3ed00d4e36233b43bda1a8fe59c9b02a26",
+  "validation_errors": []
+}

@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_23729b79c20667b51ddd52c7.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 9,
+  "grade_raw": "7c/V9",
+  "name": "steils new year",
+  "setter": "steil.boulderhalle",
+  "angle": 50,
+  "ring_counts": {
+    "start": 1,
+    "finish": 1,
+    "hand": 6,
+    "foot": 4
+  },
+  "source": "boardsesh",
+  "source_uuid": "AE173EA8CA464E1C983F8C45706839FB",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1170r12p1235r13p1265r13p1285r13p1290r13p1318r13p1365r13p1381r14p1452r15p1504r15p1514r15p1551r15",
+  "display_difficulty": 26.0,
+  "difficulty_average": 26.25,
+  "ascensionist_count": 4,
+  "quality_average": 2.25,
+  "hold_fingerprint": "f2d2c47d797f37a9ea06380df339000be0265b1de9fe07da82f89ab0081582f1",
+  "validation_errors": []
+}

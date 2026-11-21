@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_836e94a976f86e057459e731.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 8,
+  "grade_raw": "7b/V8",
+  "name": "Coretastic",
+  "setter": "coasttocoast",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 6,
+    "foot": 3
+  },
+  "source": "boardsesh",
+  "source_uuid": "FA16206BC0DB43A2B9ADDB7795F54D23",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1182r12p1199r12p1220r13p1270r13p1314r13p1339r13p1351r13p1352r13p1380r14p1487r15p1503r15p1555r15",
+  "display_difficulty": 24.0,
+  "difficulty_average": 24.0,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "3b11eb0722c19ad199f1df1c0d964ff7e5287446337a57eb16dd82b4ec539bce",
+  "validation_errors": []
+}

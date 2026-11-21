@@ -1,0 +1,39 @@
+{
+  "filename": "boardsesh_a7171fd2c56a7d877b373adf.npy",
+  "rows": 34,
+  "cols": 35,
+  "channels": [
+    "start",
+    "finish",
+    "hand",
+    "foot",
+    "hold_presence",
+    "hold_size",
+    "orient_sin1",
+    "orient_cos1",
+    "orient_sin2",
+    "orient_cos2"
+  ],
+  "grade_v": 3,
+  "grade_raw": "6a/V3",
+  "name": "Burden of Fred V3.0.",
+  "setter": "maxprouten",
+  "angle": 50,
+  "ring_counts": {
+    "start": 2,
+    "finish": 1,
+    "hand": 4,
+    "foot": 5
+  },
+  "source": "boardsesh",
+  "source_uuid": "527d056f21ca4f868b02de388a0df7b1",
+  "layout_id": 1,
+  "product_size_id": 10,
+  "frames": "p1154r12p1155r12p1157r15p1221r13p1251r15p1257r13p1302r15p1340r13p1359r13p1391r14p1447r15p1451r15",
+  "display_difficulty": 16.0,
+  "difficulty_average": 16.5,
+  "ascensionist_count": 0,
+  "quality_average": 1.0,
+  "hold_fingerprint": "4805b09ba7d29e3c638b83248b3715ea9fb2b63447769abaae307a29670bf9fd",
+  "validation_errors": []
+}
