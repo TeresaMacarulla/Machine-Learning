@@ -13,7 +13,7 @@ plt.rcParams.update({
     "legend.fontsize": 15,
 })
 
-def plt_e_learning_curves(results, plots_dir, start_epoch=1):
+def plt_learning_curves(results, plots_dir, start_epoch=1):
     """Compare training and validation histories for MNIST classifiers."""
 
     fig, axes = plt.subplots(1, 2, figsize=(13, 5))
@@ -47,6 +47,76 @@ def plt_e_learning_curves(results, plots_dir, start_epoch=1):
     plots_dir = Path(plots_dir)
     plots_dir.mkdir(parents=True, exist_ok=True)
 
-    fig.savefig(plots_dir / "MNIST_E_learning_curves.pdf",  bbox_inches="tight")
+    fig.savefig(plots_dir / "Learning_curves.pdf",  bbox_inches="tight")
+    plt.close(fig)
+
+def plt_activation_architecture_heatmaps(results, plots_dir):
+    """Compare activation functions and architectures."""
+
+    architectures = list(results.keys())
+    activations = ["sigmoid", "relu", "leaky_relu"]
+    val_accuracy = np.array([
+        [
+            100 * results[arch][act]["val_accuracy_history"][-1]
+            for act in activations
+        ]
+        for arch in architectures
+    ])
+
+    val_ce = np.array([
+        [
+            results[arch][act]["val_cost_history"][-1]
+            for act in activations
+        ]
+        for arch in architectures
+    ])
+
+    fig, axes = plt.subplots(1, 2, figsize=(12, 5))
+
+    for ax, values, title, fmt in [
+        (axes[0], val_accuracy, "Validation accuracy (%)", ".2f"),
+        (axes[1], val_ce, "Validation cross-entropy", ".3f")
+    ]:
+
+        im = ax.imshow(values, cmap="Blues", aspect="auto")
+
+        ax.set_xticks(range(len(activations)))
+        ax.set_xticklabels(
+            ["Sigmoid", "ReLU", "Leaky ReLU"]
+        )
+
+        ax.set_yticks(range(len(architectures)))
+        ax.set_yticklabels(architectures)
+
+        ax.set_xlabel("Hidden activation")
+        ax.set_ylabel("Architecture")
+        ax.set_title(title)
+
+        for i in range(values.shape[0]):
+            for j in range(values.shape[1]):
+
+                value = values[i, j]
+
+                ax.text(
+                    j, i,
+                    f"{value:{fmt}}",
+                    ha="center",
+                    va="center",
+                    color="white" if im.norm(value) > 0.55 else "black",
+                    fontsize=11
+                )
+
+        fig.colorbar(im, ax=ax, shrink=0.85)
+
+    fig.tight_layout()
+
+    plots_dir = Path(plots_dir)
+    plots_dir.mkdir(parents=True, exist_ok=True)
+
+    fig.savefig(
+        plots_dir / "Activation_architecture_heatmaps.pdf",
+        bbox_inches="tight"
+    )
+
     plt.close(fig)
 
