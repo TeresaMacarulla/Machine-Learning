@@ -34,6 +34,9 @@ RESULTS_DIR_0 = RESULTS_DIR / "part_0"
 RESULTS_DIR_1 = RESULTS_DIR / "part_1"
 RESULTS_DIR_2 = RESULTS_DIR / "part_2"
 RESULTS_DIR_3 = RESULTS_DIR / "part_3"
+RESULTS_DIR_4 = RESULTS_DIR / "part_4"
+RESULTS_DIR_5 = RESULTS_DIR / "part_5"
+RESULTS_DIR_6 = RESULTS_DIR / "part_6"
 
 # ============================================================
 # Load and prepare the dataset
@@ -81,7 +84,10 @@ print("-------------------------------------------------------------------------
 print("0: Compare custom vs. Scikit-learn multinomial logistic regression.")
 print("1: Compare Multinominal Logistic Regression vs. two NN architectures.")
 print("2: Explore different Learning-rates for two NN architectures.")
-print("3: Explore different activation functions for two NN architectures.")
+print("3: Explore inverse time Learning-rates for two NN architectures.")
+print("4: Explore different activation functions for two NN architectures.")
+print("5: Explore different batch sizes for two NN architectures.")
+print("6: Explore different L2 regularization for two NN architectures.")
 print("-------------------------------------------------------------------------------")
 number = float(input("Choose a number: "))
 print()
@@ -206,9 +212,9 @@ if number == 1:
     # ============================================================
 
     architectures = {
-        "Logistic reg." : [4761, 11],
-        "NN 1x100": [4761, 100, 11],
-        "NN 2x100": [4761, 100, 100, 11]
+        "NN 1x50": [4761, 50, 11],
+        "NN 2x50": [4761, 50, 50, 11],
+        "NN 3x100": [4761, 100, 100, 100, 11],
     }
 
     results = {}
@@ -326,6 +332,79 @@ if number == 2:
         )
 
 if number == 3:
+
+    # ============================================================
+    # Inverse time Learning-rate investigation for NNs: Changing the decay scale
+    # ============================================================
+
+    architectures = {
+        "NN 1x100": [4761, 100, 11],
+        "NN 2x100": [4761, 100, 100, 11]
+    }
+        
+    decay_scales = [10.0, 5.0, 1.0]
+    decay_scale_results = {}
+
+    for network_name, architecture in architectures.items():
+
+        print(f"CALCULATING {network_name}")
+        decay_scale_results[network_name] = {}
+        n_hidden = len(architecture) - 2
+        activations = [relu] * n_hidden + [softmax]
+        activation_ders = [relu_derivative] * n_hidden + [None]
+
+        for eta in decay_scales:
+            print(f"Decay scale: {eta}")
+            # Same initialization for a controlled comparison
+            layers = create_layers_batch(architecture[0], architecture[1:], seed=2026, hidden_activation="relu")
+
+            if network_name == "NN 1x100":
+                result = train_neural_network(X_kilter_train, Y_kilter_train, layers, activations, activation_ders, eta0=0.003,
+                                    optimizer="adam", batch_size=128, n_epochs=40, schedule="inverse_time", decay_scale=eta, seed=2026,
+                                    X_val=X_kilter_val, y_val=Y_kilter_val, regularization="l2", lmbda=1e-4, early_stopping_patience=5)
+            if network_name == "NN 2x100":
+                result = train_neural_network(X_kilter_train, Y_kilter_train, layers, activations, activation_ders, eta0=0.001,
+                                    optimizer="adam", batch_size=128, n_epochs=40, schedule="inverse_time", decay_scale=eta, seed=2026,
+                                    X_val=X_kilter_val, y_val=Y_kilter_val, regularization="l2", lmbda=1e-4, early_stopping_patience=5)
+                
+            decay_scale_results[network_name][eta] = result
+
+    # Print all six configurations
+    print("\nInverse time Learning-rate: DECAY SCALE COMPARISON")
+    print(
+        f"{'Network':<8} {'Decay scale':>10} "
+        f"{'Train CE':>12} {'Val CE':>12} "
+        f"{'Train Acc':>12} {'Val Acc':>12}"
+    )
+    print("-" * 74)
+
+    for network_name, rate_results in decay_scale_results.items():
+        for eta, result in sorted(rate_results.items()):
+            print(
+                f"{network_name:<8} "
+                f"{eta:>10.4g} "
+                f"{result['cost_history'][-1]:>12.5f} "
+                f"{result['val_cost_history'][-1]:>12.5f} "
+                f"{100 * result['accuracy_history'][-1]:>11.2f}% "
+                f"{100 * result['val_accuracy_history'][-1]:>11.2f}%"
+                )
+
+    best_rates_e = {}
+    for network_name, rate_results in decay_scale_results.items():
+        best_eta, best_result = min(rate_results.items(), key=lambda item: (-item[1]["val_accuracy_history"][-1], item[1]["val_cost_history"][-1]))
+        best_rates_e[network_name] = {
+            "decay": best_eta,
+            "result": best_result
+        }
+        print(
+            f"\n{network_name} - Best decay scale: {best_eta:g}"
+            f"\nValidation accuracy: "
+            f"{100 * best_result['val_accuracy_history'][-1]:.2f}%"
+            f"\nValidation cross-entropy: "
+            f"{best_result['val_cost_history'][-1]:.6f}"
+        )
+
+if number == 4:
             
 # ============================================================
 # Activation functions
@@ -359,11 +438,11 @@ if number == 3:
 
             # Select the best learning rate from the previous part: 0.001 for 1x100 and 0.0003 for 2x100
             if arch_name == "NN 1x100":
-                result = train_neural_network(X_kilter_train, Y_kilter_train, layers, activations, activation_ders, eta0=0.001,
+                result = train_neural_network(X_kilter_train, Y_kilter_train, layers, activations, activation_ders, eta0=0.003,
                                     optimizer="adam", batch_size=128, n_epochs=40, schedule="constant", seed=2026,
                                     X_val=X_kilter_val, y_val=Y_kilter_val, regularization="l2", lmbda=1e-4, early_stopping_patience=5)
             if arch_name == "NN 2x100":
-                result = train_neural_network(X_kilter_train, Y_kilter_train, layers, activations, activation_ders, eta0=0.0003,
+                result = train_neural_network(X_kilter_train, Y_kilter_train, layers, activations, activation_ders, eta0=0.001,
                                     optimizer="adam", batch_size=128, n_epochs=40, schedule="constant", seed=2026,
                                     X_val=X_kilter_val, y_val=Y_kilter_val, regularization="l2", lmbda=1e-4, early_stopping_patience=5)
             activation_arch_results[arch_name][activation_name] = result
@@ -421,12 +500,157 @@ if number == 3:
             f"Val CE={best_result['val_cost_history'][-1]:.5f}"
         )
 
-    plt_activation_architecture_heatmaps(activation_arch_results, RESULTS_DIR_3)
+    plt_activation_architecture_heatmaps(activation_arch_results, RESULTS_DIR_4)
 
     print("-------------------------------------------------------------------------------")
-    print(" Find the results in P3/results/part_3 ")
+    print(" Find the results in P3/results/part_4 ")
     print("-------------------------------------------------------------------------------")
 
+if number == 5:
+
+    # ============================================================
+    # Change the batch size
+    # ============================================================
+
+    architectures = {
+        "NN 1x100": [4761, 100, 11],
+        "NN 2x100": [4761, 100, 100, 11]
+    }
+        
+    batch_sizes = [120, 500, 800]
+    batch_size_results = {}
+
+    for network_name, architecture in architectures.items():
+
+        print(f"CALCULATING {network_name}")
+        batch_size_results[network_name] = {}
+        n_hidden = len(architecture) - 2
+        activations = [relu] * n_hidden + [softmax]
+        activation_ders = [relu_derivative] * n_hidden + [None]
+
+        for size in batch_sizes:
+            print(f"Batch size: {size}")
+            # Same initialization for a controlled comparison
+            layers = create_layers_batch(architecture[0], architecture[1:], seed=2026, hidden_activation="relu")
+
+            if network_name == "NN 1x100":
+                result = train_neural_network(X_kilter_train, Y_kilter_train, layers, activations, activation_ders, eta0=0.003,
+                                    optimizer="adam", batch_size=size, n_epochs=40, schedule="constant", seed=2026,
+                                    X_val=X_kilter_val, y_val=Y_kilter_val, regularization="l2", lmbda=1e-4, early_stopping_patience=5)
+            if network_name == "NN 2x100":
+                result = train_neural_network(X_kilter_train, Y_kilter_train, layers, activations, activation_ders, eta0=0.001,
+                                    optimizer="adam", batch_size=size, n_epochs=40, schedule="constant", seed=2026,
+                                    X_val=X_kilter_val, y_val=Y_kilter_val, regularization="l2", lmbda=1e-4, early_stopping_patience=5)
+                
+            batch_size_results[network_name][size] = result
+
+    # Print all six configurations
+    print("\nBATCH SIZE COMPARISON")
+    print(
+        f"{'Network':<8} {'Batch size':>10} "
+        f"{'Train CE':>12} {'Val CE':>12} "
+        f"{'Train Acc':>12} {'Val Acc':>12}"
+    )
+    print("-" * 74)
+
+    for network_name, rate_results in batch_size_results.items():
+        for eta, result in sorted(rate_results.items()):
+            print(
+                f"{network_name:<8} "
+                f"{eta:>10.4g} "
+                f"{result['cost_history'][-1]:>12.5f} "
+                f"{result['val_cost_history'][-1]:>12.5f} "
+                f"{100 * result['accuracy_history'][-1]:>11.2f}% "
+                f"{100 * result['val_accuracy_history'][-1]:>11.2f}%"
+                )
+
+    best_rates_e = {}
+    for network_name, rate_results in batch_size_results.items():
+        best_eta, best_result = min(rate_results.items(), key=lambda item: (-item[1]["val_accuracy_history"][-1], item[1]["val_cost_history"][-1]))
+        best_rates_e[network_name] = {
+            "size": best_eta,
+            "result": best_result
+        }
+        print(
+            f"\n{network_name} - Best batch size: {best_eta:g}"
+            f"\nValidation accuracy: "
+            f"{100 * best_result['val_accuracy_history'][-1]:.2f}%"
+            f"\nValidation cross-entropy: "
+            f"{best_result['val_cost_history'][-1]:.6f}"
+        )
+
+if number == 6:
+
+    # ============================================================
+    # Change L2 regularization
+    # ============================================================
+
+    architectures = {
+        "NN 1x100": [4761, 100, 11],
+        "NN 2x100": [4761, 100, 100, 11]
+    }
+        
+    L2_regs = [1e-5, 1e-4, 1e-3, 1e-2]
+    L2_reg_results = {}
+
+    for network_name, architecture in architectures.items():
+
+        print(f"CALCULATING {network_name}")
+        L2_reg_results[network_name] = {}
+        n_hidden = len(architecture) - 2
+        activations = [relu] * n_hidden + [softmax]
+        activation_ders = [relu_derivative] * n_hidden + [None]
+
+        for reg in L2_regs:
+            print(f"L2 regularization: {reg}")
+            # Same initialization for a controlled comparison
+            layers = create_layers_batch(architecture[0], architecture[1:], seed=2026, hidden_activation="relu")
+
+            if network_name == "NN 1x100":
+                result = train_neural_network(X_kilter_train, Y_kilter_train, layers, activations, activation_ders, eta0=0.003,
+                                    optimizer="adam", batch_size=800, n_epochs=40, schedule="constant", seed=2026,
+                                    X_val=X_kilter_val, y_val=Y_kilter_val, regularization="l2", lmbda=reg, early_stopping_patience=5)
+            if network_name == "NN 2x100":
+                result = train_neural_network(X_kilter_train, Y_kilter_train, layers, activations, activation_ders, eta0=0.001,
+                                    optimizer="adam", batch_size=120, n_epochs=40, schedule="constant", seed=2026,
+                                    X_val=X_kilter_val, y_val=Y_kilter_val, regularization="l2", lmbda=reg, early_stopping_patience=5)
+                
+            L2_reg_results[network_name][reg] = result
+
+    # Print all six configurations
+    print("\nREGULARIZATION COMPARISON")
+    print(
+        f"{'Network':<8} {'L2 regularization':>10} "
+        f"{'Train CE':>12} {'Val CE':>12} "
+        f"{'Train Acc':>12} {'Val Acc':>12}"
+    )
+    print("-" * 74)
+
+    for network_name, rate_results in L2_reg_results.items():
+        for eta, result in sorted(rate_results.items()):
+            print(
+                f"{network_name:<8} "
+                f"{eta:>10.4g} "
+                f"{result['cost_history'][-1]:>12.5f} "
+                f"{result['val_cost_history'][-1]:>12.5f} "
+                f"{100 * result['accuracy_history'][-1]:>11.2f}% "
+                f"{100 * result['val_accuracy_history'][-1]:>11.2f}%"
+                )
+
+    best_rates_e = {}
+    for network_name, rate_results in L2_reg_results.items():
+        best_eta, best_result = min(rate_results.items(), key=lambda item: (-item[1]["val_accuracy_history"][-1], item[1]["val_cost_history"][-1]))
+        best_rates_e[network_name] = {
+            "L2 regularization": best_eta,
+            "result": best_result
+        }
+        print(
+            f"\n{network_name} - Best batch size: {best_eta:g}"
+            f"\nValidation accuracy: "
+            f"{100 * best_result['val_accuracy_history'][-1]:.2f}%"
+            f"\nValidation cross-entropy: "
+            f"{best_result['val_cost_history'][-1]:.6f}"
+        )
 
 
 
